@@ -1,0 +1,60 @@
+{
+  "title": "Kiwidum Keto Comfort",
+  "description": "A savory and dense Korean dish featuring kiwifruit, dumplings, and keto-friendly ingredients for a sick-day meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kiwifruit",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Pork Dumplings",
+      "amount": "20"
+    },
+    {
+      "name": "Low-Carb Marinade (optional)",
+      "notes": "For dipping the dumplings if desired."
+    }
+  ],
+  "instructions": [
+    "Prepare the pork dumplings by marinating them in a low-carb marinade for at least an hour. Drain and set aside.",
+    "Gently warm up the kiwifruit slices in the microwave until they're soft but not mushy, about 1 minute per side.",
+    "Warm up some olive oil in a pan over medium heat. Add the dumplings to cook them through, about 5 minutes per batch if using all at once.",
+    "Serve the warm dumplings and kiwifruit slices together for a refreshing and comforting meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salty",
+    "dense",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kiwidum-keto-comfort",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kiwidum-keto-comfort",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:22:48Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "dum",
+    "primaryIngredient": "kiwifruit",
+    "diet": "keto",
+    "region": null
+  }
+}
