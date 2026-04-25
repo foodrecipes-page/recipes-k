@@ -1,0 +1,98 @@
+{
+  "title": "Knead'n'Snapper",
+  "description": "A buttery and crisp Ukrainian dish featuring snapper fish that's perfect for post-workout enjoyment. Pescatarian-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper Fish Fillets",
+      "amount": "4 fillets"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "Butter",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Fresh Thyme Leaves",
+      "amount": "a few"
+    },
+    {
+      "name": "Kale, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Buttermilk",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Panko Bread Crumbs",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey Mustard Mayo",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Mix flour, salt, and pepper in a shallow dish. Dredge fish fillets in the seasoned flour.",
+    "Heat olive oil and butter in a large skillet over medium-high heat. Add garlic and thyme leaves; cook until fragrant, about 30 seconds.",
+    "Place fish fillets into the skillet and cook for about 5 minutes on each side or until golden brown.",
+    "For the topping: Combine buttermilk with panko bread crumbs. Spread mixture evenly over cooked fish.",
+    "Top with honey mustard mayo and place back in the skillet. Cook for another 2-3 minutes until the toppings are crispy.",
+    "Serve hot as a main dish or side, paired with steamed kale."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "knead'n'snapper",
+    "fish",
+    "u-krainian",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 356,
+    "protein": 29,
+    "carbs": 16,
+    "fat": 18
+  },
+  "slug": "knead-n-snapper",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/knead-n-snapper",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:03:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "snapper fish",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
