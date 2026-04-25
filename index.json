@@ -38,6 +38,21 @@
     "shard": "k"
   },
   {
+    "slug": "knead-date",
+    "title": "Herbal Knead & Date",
+    "tags": [
+      "herbal",
+      "knead",
+      "date-night",
+      "vietnamese",
+      "ghee",
+      "sugar-free"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "knead-n-snapper",
     "title": "Knead'n'Snapper",
     "tags": [

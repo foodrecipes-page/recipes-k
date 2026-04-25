@@ -1,0 +1,70 @@
+{
+  "title": "Herbal Knead & Date",
+  "description": "A ghee-based herbal dish infused with juicy dates for a delightful date-night treat that's sugar-free-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "4 tablespoons ghee",
+      "amount": "tbsp",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "1/2 cup chopped fresh herbs (e.g., mint, cilantro)",
+      "amount": "cup",
+      "notes": "Approximately 3-4 leaves per herb"
+    },
+    {
+      "name": "2 medium dates, pitted and roughly chopped",
+      "amount": "medium",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup granulated sugar (optional for sweetening if desired)",
+      "amount": "cup",
+      "notes": "For a sugar-free version, omit this ingredient"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a small saucepan, heat the ghee over medium-low heat until melted.",
+    "Add the chopped herbs and roughly chopped dates to the melted ghee. Stir well to combine.",
+    "Pour the mixture into an oven-safe dish.",
+    "Bake for 20-30 minutes or until the edges are golden brown and the center is slightly soft when pressed.",
+    "Let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "knead",
+    "date-night",
+    "vietnamese",
+    "ghee",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 8,
+    "fat": 9
+  },
+  "slug": "knead-date",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/knead-date",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:23:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "ghee",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
