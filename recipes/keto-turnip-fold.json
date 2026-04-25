@@ -1,0 +1,70 @@
+{
+  "title": "Keto Turnip Fold",
+  "description": "An earthy and flaky keto-friendly Australian dish featuring finely grated turnips folded into a creamy avocado base.",
+  "cuisine": "Australian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turnips",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe"
+    },
+    {
+      "name": "Butter or Keto Spread",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "juice of half a lime"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Grate the turnips into very fine pieces, ensuring they are evenly sized for uniform texture.",
+    "In a blender or food processor, combine grated turnips with half of the avocado and lime juice. Blend until smooth.",
+    "Add butter or keto spread to the blended turnip mixture and blend again until well combined and creamy.",
+    "Season with salt and pepper to taste. Optionally, stir in the remaining avocado for extra creaminess and texture.",
+    "Fold the turnip base gently into the grated turnips before serving if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "turnip",
+    "avocado",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 293,
+    "protein": 6,
+    "carbs": 10,
+    "fat": 21
+  },
+  "slug": "keto-turnip-fold",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-turnip-fold",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:59:14Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "fold",
+    "primaryIngredient": "turnips",
+    "diet": "keto",
+    "region": null
+  }
+}
