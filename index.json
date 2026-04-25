@@ -51,6 +51,18 @@
     "shard": "k"
   },
   {
+    "slug": "knead-noodle-delight",
+    "title": "Knead-Noodle Delight",
+    "tags": [
+      "knead-noodle-delight",
+      "buttery-velvety-dutch-dish",
+      "kid-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kneaded-brussels-sprout-delight",
     "title": "Kneaded Brussels Sprout Delight",
     "tags": [

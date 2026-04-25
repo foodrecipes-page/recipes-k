@@ -1,0 +1,80 @@
+{
+  "title": "Knead-Noodle Delight",
+  "description": "A kid-friendly dutch dish featuring vermicelli rice noodles that are buttery and velvety with a high-protein twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "high-protein-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vermicelli rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cheddar cheese, grated",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook vermicelli according to package instructions and set aside.",
+    "Mix flour, eggs, milk, salt, pepper, and cheddar cheese in a bowl until well combined.",
+    "Gently fold the cooked vermicelli into the egg mixture.",
+    "Pour the mixed ingredients back into the chicken broth and stir gently until the noodles are fully incorporated and heated through.",
+    "Serve hot as a side dish or over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "knead-noodle-delight",
+    "buttery-velvety-dutch-dish",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "knead-noodle-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/knead-noodle-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:18:53Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "velvety",
+    "mood": "kid-friendly",
+    "technique": "knead",
+    "primaryIngredient": "vermicelli rice noodles",
+    "diet": "high-protein",
+    "region": null
+  }
+}
