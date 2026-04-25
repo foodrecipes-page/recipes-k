@@ -142,5 +142,20 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kosher-manti-with-semi-skimmed-milk-sauce",
+    "title": "Kosher Manti with Semi-Skimmed Milk Sauce",
+    "tags": [
+      "kosher",
+      "turkish",
+      "vegan-friendly",
+      "lactose-free",
+      "quick-dinner",
+      "weeknight-meal"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
