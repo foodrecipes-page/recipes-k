@@ -1,0 +1,83 @@
+{
+  "title": "Kale Medley Grilled Tartar",
+  "description": "A tangy, crispy, indulgent Irish dish featuring kale, perfect for a mediterranean-friendly breakfast.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups fresh"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Clean and tear kale into bite-sized pieces.",
+    "Dice tomato, onion, and avocado into small cubes.",
+    "Combine kale with lemon juice, olive oil, salt, and pepper in a mixing bowl. Toss well to coat evenly.",
+    "Spread the mixture on a baking sheet lined with parchment paper.",
+    "Grill for about 10 minutes or until kale is crispy and slightly charred.",
+    "Arrange grilled kale medley on plates, garnish with tomato, onion, and avocado cubes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kale",
+    "grilled",
+    "tartar",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 7,
+    "carbs": 14,
+    "fat": 8
+  },
+  "slug": "kale-medley-grilled-tartar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kale-medley-grilled-tartar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:24:08Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "kale",
+    "diet": "mediterranean",
+    "region": null
+  }
+}

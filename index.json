@@ -25,6 +25,19 @@
     "shard": "k"
   },
   {
+    "slug": "kale-medley-grilled-tartar",
+    "title": "Kale Medley Grilled Tartar",
+    "tags": [
+      "kale",
+      "grilled",
+      "tartar",
+      "mediterranean-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kashmiri-bhuna",
     "title": "Kashmiri Bhuna",
     "tags": [
