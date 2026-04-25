@@ -257,5 +257,17 @@
     "cuisine": "Turkish",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kosher-mascarpone-mousse",
+    "title": "Kosher Mascarpone Mousse",
+    "tags": [
+      "keto",
+      "vegan",
+      "dessert"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 60,
+    "shard": "k"
   }
 ]

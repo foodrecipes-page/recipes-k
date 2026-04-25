@@ -1,0 +1,70 @@
+{
+  "title": "Kosher Mascarpone Mousse",
+  "description": "A fresh and velvety Croatian dish featuring mascarpone that's perfect for a romantic dinner or dessert.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 cups heavy cream",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mascarpone cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "3/4 cup powdered sugar",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "A pinch of Kosher salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine heavy cream and mascarpone in a mixing bowl.",
+    "Add powdered sugar, vanilla extract, and Kosher salt to the mixture. Mix well until smooth.",
+    "Transfer the mixture into serving dishes or glasses.",
+    "Chill in refrigerator for at least an hour before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "vegan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 16
+  },
+  "slug": "kosher-mascarpone-mousse",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-mascarpone-mousse",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:36:40Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "reduce",
+    "primaryIngredient": "mascarpone",
+    "diet": "kosher",
+    "region": null
+  }
+}
