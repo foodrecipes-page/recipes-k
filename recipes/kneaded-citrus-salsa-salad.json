@@ -1,0 +1,74 @@
+{
+  "title": "Kneaded Citrus Salsa Salad",
+  "description": "A vibrant and refreshing citrusy pescatarian-friendly dish that is dense in flavor with a squeeze of fresh lime juice for brightness.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cilantro Leaves",
+      "amount": "1/4 cup finely chopped"
+    },
+    {
+      "name": "Jalapeno Peppers",
+      "amount": "3 slices thinly sliced"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 small finely diced"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "6 oz crumbled"
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "4-5 slices"
+    }
+  ],
+  "instructions": [
+    "Mix the avocado, lime juice, cilantro, jalapeno, red onion, and feta cheese together in a large bowl.",
+    "Gently fold the cucumber slices into the mixture without overworking it to maintain texture.",
+    "Cover with plastic wrap and refrigerate for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kneaded-salsa",
+    "citrusy-tunisian",
+    "pescatarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 4,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "kneaded-citrus-salsa-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-citrus-salsa-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:25:23Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "salsa",
+    "diet": "pescatarian",
+    "region": null
+  }
+}
