@@ -321,6 +321,18 @@
     "shard": "k"
   },
   {
+    "slug": "kosher-earthy-feta-braise",
+    "title": "Kosher Earthy Feta Braise",
+    "tags": [
+      "kosher-friendly",
+      "meatless-dinner",
+      "elegant-side-dish"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kosher-haddock-crisp",
     "title": "Kosher Haddock Crisp",
     "tags": [

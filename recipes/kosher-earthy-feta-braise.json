@@ -1,0 +1,91 @@
+{
+  "title": "Kosher Earthy Feta Braise",
+  "description": "This meal-prep Ethiopian dish features earthy and chewy feta cheese braised with aromatic spices to create a flavorful side or main course.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Feta Cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Cumin Seed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coriander Seed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 cup, chopped (for garnish) optional"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F.",
+    "In a large pot or Dutch oven, combine feta cheese with tomato sauce and cover. Simmer gently for about 10 minutes until heated through.",
+    "Add chopped onions, minced garlic, cumin seeds, coriander seeds, turmeric powder, salt, and paprika to the pot. Stir well to mix evenly.",
+    "Pour in water and bring the mixture to a boil. Reduce heat to low, cover with a lid, and let it simmer for about 20-30 minutes until all liquid is absorbed and cheese is fully heated.",
+    "Garnish with fresh cilantro if desired before serving.",
+    "Serve hot as a side dish or over cooked grains like rice or injera."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kosher-friendly",
+    "meatless-dinner",
+    "elegant-side-dish"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 25,
+    "carbs": 18,
+    "fat": 10
+  },
+  "slug": "kosher-earthy-feta-braise",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-earthy-feta-braise",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:41:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "braise",
+    "primaryIngredient": "cubed feta cheese",
+    "diet": "kosher",
+    "region": null
+  }
+}
