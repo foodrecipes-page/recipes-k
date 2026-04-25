@@ -1,0 +1,81 @@
+{
+  "title": "Kabanos Delight Sausage Wrap",
+  "description": "A salty, silky, indulgent Thai dish featuring kabanos sausages in a wrap for an easy lunch option that's low-fat-friendly.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabanos Sausages",
+      "amount": "12"
+    },
+    {
+      "name": "Whole Wheat Tortillas",
+      "amount": "6"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "handful"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "juice of 1 lime"
+    },
+    {
+      "name": "Soy Sauce (low-fat)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Scallions (Green Onions) ",
+      "amount": "3"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Heat tortillas on a skillet until soft but not crispy.",
+    "Slice Kabanos Sausages and scallions thinly.",
+    "Mix lime juice, soy sauce, and minced garlic in a small bowl.",
+    "Brush mixture onto each slice of sausage.",
+    "Assemble wraps with sausages, tortillas, cilantro, red peppers, and green onions.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "sausage",
+    "wrap",
+    "kabanos",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 31,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "kabanos-delight-sausage-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kabanos-delight-sausage-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:56:13Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "low-fat",
+    "region": null
+  }
+}

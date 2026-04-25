@@ -1,5 +1,19 @@
 [
   {
+    "slug": "kabanos-delight-sausage-wrap",
+    "title": "Kabanos Delight Sausage Wrap",
+    "tags": [
+      "thai",
+      "sausage",
+      "wrap",
+      "kabanos",
+      "low-fat"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
     "slug": "kabanos-sparkle",
     "title": "Kabanos Sparkle",
     "tags": [
