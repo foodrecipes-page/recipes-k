@@ -25,6 +25,19 @@
     "shard": "k"
   },
   {
+    "slug": "kabse-citrus-bites",
+    "title": "Kabse Citrus Bites",
+    "tags": [
+      "kabse-spice",
+      "bhuna",
+      "citrus-bites",
+      "diabetic-friendly"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kale-medley-grilled-tartar",
     "title": "Kale Medley Grilled Tartar",
     "tags": [
