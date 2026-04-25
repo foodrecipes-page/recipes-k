@@ -1,0 +1,80 @@
+{
+  "title": "Kosher Bhuna Oxtail",
+  "description": "A fermented, crisp, quick-fix Dutch dish featuring oxtail cooked in a bhuna-style sauce that's kosher-friendly and easy to prepare.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oxtail",
+      "amount": "500g"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Fenugreek Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "3 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 160°C (fan-forced).",
+    "Clean and cut the oxtail into chunks, then marinate them in a bowl with water for at least an hour.",
+    "In a skillet, toast the fenugreek seeds, cumin seeds, and garlic until fragrant. Add onions and sauté for 5 minutes until softened.",
+    "Drain the oxtail from the marinade and place it into a baking dish. Add water to cover the oxtail completely.",
+    "Season with turmeric powder, garam masala, and ground cumin. Roast in the oven for about 1 hour per pound or until tender.",
+    "Once done, remove from heat and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kosher",
+    "bhuna",
+    "oxtail",
+    "fermented"
+  ],
+  "nutrition": {
+    "calories": 527,
+    "protein": 38,
+    "carbs": 10,
+    "fat": 46
+  },
+  "slug": "kosher-bhuna-oxtail",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-bhuna-oxtail",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:26:52Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "oxtail",
+    "diet": "kosher",
+    "region": null
+  }
+}

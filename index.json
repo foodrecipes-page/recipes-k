@@ -242,6 +242,19 @@
     "shard": "k"
   },
   {
+    "slug": "kosher-bhuna-oxtail",
+    "title": "Kosher Bhuna Oxtail",
+    "tags": [
+      "kosher",
+      "bhuna",
+      "oxtail",
+      "fermented"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 90,
+    "shard": "k"
+  },
+  {
     "slug": "kosher-lamb-béchamel",
     "title": "Kosher Lamb Béchamel",
     "tags": [
