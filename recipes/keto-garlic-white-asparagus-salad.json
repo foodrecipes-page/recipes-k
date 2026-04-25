@@ -1,0 +1,82 @@
+{
+  "title": "Keto Garlic White Asparagus Salad",
+  "description": "A light and cozy Norwegian dish featuring crisp white asparagus spears lightly fried with a generous amount of garlic for a garlicky kick.",
+  "cuisine": "norwegian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "white asparagus",
+      "amount": "20 cm (8 inches) spears"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cooking spray",
+      "notes": "to lightly coat the asparagus"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4-6 cloves, minced"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "a pinch (optional)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium-high heat.",
+    "Lightly spray the olive oil in the pan to prevent sticking.",
+    "Add minced garlic and sauté until fragrant, about 1 minute. Be cautious not to burn it.",
+    "Carefully add asparagus spears, ensuring they don't touch, and cook for another 3-5 minutes or until slightly tender but still crisp.",
+    "Remove from heat and stir in balsamic vinegar, salt, and pepper. Taste and adjust seasoning if necessary.",
+    "Let the salad cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "norway",
+    "garlic",
+    "asparagus"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "keto-garlic-white-asparagus-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-garlic-white-asparagus-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:50:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "fry",
+    "primaryIngredient": "white asparagus",
+    "diet": "keto",
+    "region": null
+  }
+}
