@@ -1,0 +1,81 @@
+{
+  "title": "Kosher Haddock Crisp",
+  "description": "A savory, crunchy indulgent Russian dish featuring haddock, deglazed with a simple sauce, perfect for a quick lunch or dinner.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "6"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "White wine or Kosher Chicken Broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Freshly squeezed lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tablespoons, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Mix haddock fillets with flour, paprika, and a pinch of salt. Shake off excess.",
+    "Heat vegetable oil in a skillet over medium-high heat. Add the seasoned haddock and fry until golden brown on both sides, about 2-3 minutes per side.",
+    "In another pan or pot, deglaze with white wine or broth. Add lemon juice and dill; bring to a simmer for a few seconds to combine flavors.",
+    "Pour the sauce over the fried haddock fillets, letting them absorb the flavor on all sides.",
+    "Transfer fillets to a baking dish lined with parchment paper. Bake in preheated oven until crispy, about 10 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kosher",
+    "haddock",
+    "crisp",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 287,
+    "protein": 19,
+    "carbs": 4,
+    "fat": 15
+  },
+  "slug": "kosher-haddock-crisp",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-haddock-crisp",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:20:20Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "deglaze",
+    "primaryIngredient": "haddock",
+    "diet": "kosher",
+    "region": null
+  }
+}

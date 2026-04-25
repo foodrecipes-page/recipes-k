@@ -308,6 +308,19 @@
     "shard": "k"
   },
   {
+    "slug": "kosher-haddock-crisp",
+    "title": "Kosher Haddock Crisp",
+    "tags": [
+      "kosher",
+      "haddock",
+      "crisp",
+      "russian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kosher-lamb-béchamel",
     "title": "Kosher Lamb Béchamel",
     "tags": [
