@@ -1,0 +1,80 @@
+{
+  "title": "Spicy Keto-Caramelized Meringue Feast",
+  "description": "A cozy Saudi Arabian dish featuring spicy meringue nests caramelized to perfection, perfect for a dessert or snack.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cinnamon Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Spicy Peppercorns (ground)",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sweetener of Choice (e.g., Stevia)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pumpkin Puree (optional for added flavor, keto-friendly)",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Beat the eggs in a mixing bowl until frothy.",
+    "Add heavy cream, cinnamon powder, spicy peppercorns, and sweetener. Beat on medium speed until stiff peaks form.",
+    "Fold in pumpkin puree if using.",
+    "Preheat oven to 200°C (392°F).",
+    "Place meringue nests on a baking sheet lined with parchment paper or silicone mat.",
+    "Sprinkle cayenne pepper evenly over the tops of the meringue nests and gently press it in with your fingers for added spiciness.",
+    "Bake for 15 minutes, then reduce oven temperature to 170°C (338°F) and continue baking for another 20-25 minutes or until golden brown on top and firm inside.",
+    "Allow meringue nests to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "caramelized",
+    "meringue",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 4,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "keto-caramelized-meringue-feast",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-caramelized-meringue-feast",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:02:15Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "caramelize",
+    "primaryIngredient": "meringue nests",
+    "diet": "keto",
+    "region": null
+  }
+}
