@@ -1,0 +1,86 @@
+{
+  "title": "Keto-Friendly Floral Couscous Crunch",
+  "description": "This energizing Ethiopian dish combines crispy couscous with floral herbs for a light and refreshing breakfast or snack.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup pearl couscous",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 tsp sea salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/8 tsp black pepper",
+      "amount": "tsp"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup chopped fresh dill",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup finely chopped parsley",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 tsp ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "20 fresh rose petals, optional for garnish (adjust according to taste)",
+      "amount": "pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine couscous with olive oil, sea salt, and black pepper in a large bowl.",
+    "Add minced garlic, chopped herbs, and cinnamon. Mix well until combined.",
+    "Spread the mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until golden brown and crispy.",
+    "Let it cool slightly before serving. Garnish with rose petals if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "floral",
+    "crunchy",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "keto-floral-couscous-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-floral-couscous-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:42:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "bake",
+    "primaryIngredient": "couscous",
+    "diet": "keto",
+    "region": null
+  }
+}
