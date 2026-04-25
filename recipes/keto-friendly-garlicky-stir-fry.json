@@ -1,0 +1,87 @@
+{
+  "title": "Keto-friendly Garlicky Stir-fry",
+  "description": "A chewy and adventurous Kenyan dish featuring garlic, coconut cream, and other keto-friendly ingredients.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green beans",
+      "amount": "200g (about 3/4 cup), trimmed and cut into small pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium zucchini, diced"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "8-10 large leaves"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup (freshly squeezed from 1 lime)"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large skillet or wok, heat coconut milk over medium-high heat. Add minced garlic and green beans, stirring occasionally for about 5 minutes until the beans are just tender.",
+    "Add zucchini and cook for an additional 2-3 minutes until slightly softened.",
+    "Stir in coconut cream and lime juice, continuing to stir until well combined and heated through. Adjust seasoning with salt if needed.",
+    "Gently fold in spinach leaves and continue to toss until they are wilted but still retain their texture.",
+    "Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlicky",
+    "chewy",
+    "adventurous",
+    "keto-friendly",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 20,
+    "carbs": 18,
+    "fat": 24
+  },
+  "slug": "keto-friendly-garlicky-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-garlicky-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T21:49:28Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "coconut cream",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Garlic",
+    "descriptor": "Keto-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
