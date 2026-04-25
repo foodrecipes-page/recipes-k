@@ -1,0 +1,75 @@
+{
+  "title": "Keto Treacle Temptation",
+  "description": "A nutty, silky Canadian dish featuring treacle in a keto-friendly recipe perfect for weeknight dinners.",
+  "cuisine": "Canadian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "maple syrup (for drizzling)",
+      "amount": "1/3 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "walnuts, chopped",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a mixing bowl, combine cocoa powder and coconut oil until well blended.",
+    "Gradually add maple syrup while continuously stirring. Mix in vanilla extract until fully combined.",
+    "Stir in baking soda then fold in chopped walnuts carefully to prevent overmixing.",
+    "Transfer mixture into an 8x8 inch baking dish lined with parchment paper.",
+    "Bake for about 20-25 minutes or until a toothpick inserted comes out clean.",
+    "Drizzle treacle (if using) on top of the warm treat before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "treacle",
+    "walnut",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 396,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 28
+  },
+  "slug": "keto-treacle-temptation",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-treacle-temptation",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:52:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "temper",
+    "primaryIngredient": "treacle",
+    "diet": "keto",
+    "region": null
+  }
+}
