@@ -64,6 +64,19 @@
     "shard": "k"
   },
   {
+    "slug": "ketogem-steak-tartare",
+    "title": "Ketogem Steak Tartare",
+    "tags": [
+      "keto",
+      "steak",
+      "tartare",
+      "sweet"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 13,
+    "shard": "k"
+  },
+  {
     "slug": "knead-date",
     "title": "Herbal Knead & Date",
     "tags": [

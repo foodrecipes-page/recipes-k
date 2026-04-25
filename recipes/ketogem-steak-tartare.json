@@ -1,0 +1,80 @@
+{
+  "title": "Ketogem Steak Tartare",
+  "description": "A sweet, crisp, indulgent Japanese dish featuring a keto-friendly fillet of steak, grilled to perfection.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Filet Mignon",
+      "amount": "100g",
+      "notes": "Select a lean cut of beef"
+    },
+    {
+      "name": "Ketosis Seasoning Mix",
+      "amount": "2 tsp",
+      "notes": "A blend of sweeteners and herbs for flavor"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "5ml",
+      "notes": "For grilling and drizzling"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "Sea salt or Kosher salt"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/8 tsp",
+      "notes": "Freshly ground to taste"
+    },
+    {
+      "name": "Chives",
+      "amount": "3-4 sprigs",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to high heat (around 220°C or 425°F).",
+    "Season the filet mignon with Ketosis Seasoning Mix, salt, and pepper on both sides.",
+    "Gently place the seasoned steak on the preheated grill. Cook for approximately 1 minute per side until a golden crust forms, ensuring not to overcook.",
+    "Drizzle top with avocado oil during the last 30 seconds of grilling time to add an extra burst of flavor and crispiness.",
+    "Remove from heat and allow the steak tartare to rest under its own steam for about 1 minute.",
+    "Garnish with fresh chives before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "steak",
+    "tartare",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 40,
+    "protein": 6.5,
+    "carbs": 4.9,
+    "fat": 13
+  },
+  "slug": "ketogem-steak-tartare",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ketogem-steak-tartare",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:36:02Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "grill",
+    "primaryIngredient": "fillet of steak",
+    "diet": "keto",
+    "region": null
+  }
+}
