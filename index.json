@@ -114,6 +114,18 @@
     "shard": "k"
   },
   {
+    "slug": "kimbap-rice-paper-roll",
+    "title": "Buttery Gooey Low-Carb Kimbap Rice Paper Roll",
+    "tags": [
+      "kimbap",
+      "rice-paper-roll",
+      "low-carb-diet"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
     "slug": "knead-date",
     "title": "Herbal Knead & Date",
     "tags": [

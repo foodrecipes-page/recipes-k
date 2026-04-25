@@ -1,0 +1,68 @@
+{
+  "title": "Buttery Gooey Low-Carb Kimbap Rice Paper Roll",
+  "description": "This low-carb kimbap roll is buttery and gooey with a touch of indulgence, perfect for snacking or as an afternoon treat.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice Paper Sheets",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "Ground Chicken",
+      "amount": "100g",
+      "notes": "Use low-sodium seasoning if available"
+    },
+    {
+      "name": "Soft Cheese Puffs",
+      "amount": "20 pieces",
+      "notes": "Optional for added indulgence"
+    },
+    {
+      "name": "Low-Carb Mayo (optional)",
+      "amount": "A few squeezes"
+    }
+  ],
+  "instructions": [
+    "Knead together the ground chicken and optional low-carb mayo until well combined.",
+    "Dip one rice paper sheet into water to make it more pliable, then lay flat on a clean surface.",
+    "Place a small amount of the chicken mixture in the center of the rice paper sheet, leaving about 1 inch around the edges.",
+    "Fold sides over to enclose the filling, and roll tightly like making sushi. Repeat with remaining sheets.",
+    "Optional: Add soft cheese puffs inside each rolled kimbap for extra indulgence.",
+    "Serve immediately or store in an airtight container until ready to eat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "kimbap",
+    "rice-paper-roll",
+    "low-carb-diet"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 15
+  },
+  "slug": "kimbap-rice-paper-roll",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kimbap-rice-paper-roll",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:12:57Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-carb",
+    "region": null
+  }
+}
