@@ -38,6 +38,19 @@
     "shard": "k"
   },
   {
+    "slug": "keto-naan-delight",
+    "title": "Keto Naan Delight",
+    "tags": [
+      "keto",
+      "naan",
+      "dessert",
+      "date-night"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "knead-date",
     "title": "Herbal Knead & Date",
     "tags": [

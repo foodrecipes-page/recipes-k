@@ -1,0 +1,66 @@
+{
+  "title": "Keto Naan Delight",
+  "description": "A nutty and crumbly keto-friendly Brazilian dish that combines naan bread with dates for a slow-cooked treat perfect for date nights.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 ripe dates",
+      "amount": "medium-sized"
+    },
+    {
+      "name": "1 cup grated pecans or almonds",
+      "amount": "medium bowl"
+    },
+    {
+      "name": "4 naan bread slices",
+      "amount": "as provided"
+    },
+    {
+      "name": "2 tablespoons coconut oil",
+      "notes": "for greasing the pan if needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast dates until golden and slightly caramelized in a skillet or pan.",
+    "Mix dates with grated nuts, ensuring no large chunks remain.",
+    "Distribute date-nut mixture evenly on naan bread slices. Press gently to adhere.",
+    "Bake in preheated oven for 20 minutes or until the edges are golden brown and slightly crisp.",
+    "Serve warm as a keto-friendly dessert."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "naan",
+    "dessert",
+    "date-night"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 7,
+    "carbs": 18,
+    "fat": 6
+  },
+  "slug": "keto-naan-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-naan-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T04:48:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "naan bread",
+    "diet": "keto",
+    "region": null
+  }
+}
