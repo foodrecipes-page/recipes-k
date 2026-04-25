@@ -1,0 +1,97 @@
+{
+  "title": "Kosher Lamb Béchamel",
+  "description": "This quick-fix Uruguayan dish features lamb mince in a herbal and velvety sauce, suitable for kosher diets.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "200g"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped finely"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "1 large",
+      "notes": "sliced thinly"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "peeled and sliced thinly"
+    },
+    {
+      "name": "thyme sprigs",
+      "amount": "4-6",
+      "notes": "fresh or dried, optional"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "kosher cream sauce mix",
+      "amount": "1 tub (follow package instructions)"
+    },
+    {
+      "name": "butter",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat. Add lamb mince and sauté until browned.",
+    "Add finely chopped onions, minced garlic, sliced potatoes, and carrots to the pan. Stir occasionally for about 10 minutes or until vegetables are soft.",
+    "Stir in thyme sprigs if using (fresh or dried). Season with salt to taste.",
+    "Pour in the prepared kosher cream sauce mix. Bring mixture to a simmer.",
+    "Add butter last, stirring gently until everything is well combined and smooth.",
+    "Reduce heat and let cook for an additional 5 minutes, allowing flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "bechamel",
+    "herbal",
+    "quick-fix",
+    "uruguayan",
+    "kosher"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 29,
+    "carbs": 47,
+    "fat": 18
+  },
+  "slug": "kosher-lamb-béchamel",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-lamb-béchamel",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:05:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "braise",
+    "primaryIngredient": "lamb mince",
+    "diet": "kosher",
+    "region": null
+  }
+}

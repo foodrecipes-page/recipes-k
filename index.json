@@ -101,5 +101,20 @@
     "cuisine": "Egyptian",
     "totalTimeMin": "20",
     "shard": "k"
+  },
+  {
+    "slug": "kosher-lamb-béchamel",
+    "title": "Kosher Lamb Béchamel",
+    "tags": [
+      "lamb",
+      "bechamel",
+      "herbal",
+      "quick-fix",
+      "uruguayan",
+      "kosher"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
