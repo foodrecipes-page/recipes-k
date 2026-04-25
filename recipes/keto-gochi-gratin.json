@@ -1,0 +1,85 @@
+{
+  "title": "Keto Gochi Gratin",
+  "description": "A delicious and light Mexican dish featuring fish sauce in a crispy, cheesy base with a garlicky flavor profile, perfect for a quick keto-friendly dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod or tilapia fillets",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "almonds, sliced",
+      "amount": "30 grams",
+      "notes": "for topping"
+    },
+    {
+      "name": "cheddar cheese, shredded",
+      "amount": "150 grams"
+    },
+    {
+      "name": "parmesan cheese, grated",
+      "amount": "40 grams"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season cod or tilapia fillets with salt, pepper, and minced garlic.",
+    "Drizzle fish with olive oil and a touch of fish sauce.",
+    "Spread sliced almonds evenly on baking sheet lined with parchment paper.",
+    "Place seasoned fish fillets over the almonds.",
+    "Whisk together shredded cheddar cheese, grated parmesan, chopped cilantro, salt, pepper, and fish sauce in a bowl. Pour mixture over fish and almonds.",
+    "Bake for 15-20 minutes or until the top is golden brown and cheese is melted and bubbly.",
+    "Remove from oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "garlicky",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 590,
+    "protein": 26,
+    "carbs": 38,
+    "fat": 27
+  },
+  "slug": "keto-gochi-gratin",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-gochi-gratin",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:03:31Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "fish sauce",
+    "diet": "keto",
+    "region": null
+  }
+}
