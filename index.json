@@ -142,6 +142,19 @@
     "shard": "k"
   },
   {
+    "slug": "kneadable-corn-comfort",
+    "title": "Kneadable Corn Comfort",
+    "tags": [
+      "saudi-arabian",
+      "savory",
+      "chewy",
+      "vegan-friendly"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kneaded-brussels-sprout-delight",
     "title": "Kneaded Brussels Sprout Delight",
     "tags": [

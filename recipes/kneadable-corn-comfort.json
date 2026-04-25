@@ -1,0 +1,70 @@
+{
+  "title": "Kneadable Corn Comfort",
+  "description": "A savory and chewy vegetarian-friendly Saudi Arabian brunch dish featuring cornstarch to achieve a unique consistency.",
+  "cuisine": "Saudi Arabian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cornstarch",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Combine cornstarch, water, oil, salt, flour, and baking powder in a large mixing bowl.",
+    "Stir until mixture forms into dough-like consistency. If it’s too stiff, add more water; if too soft, add more cornstarch or flour.",
+    "Place dough on a floured surface and knead for 5 minutes to develop texture and flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudi-arabian",
+    "savory",
+    "chewy",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 185,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "kneadable-corn-comfort",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kneadable-corn-comfort",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:07:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "cornstarch",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
