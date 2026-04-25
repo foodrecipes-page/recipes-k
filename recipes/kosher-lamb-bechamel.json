@@ -80,9 +80,9 @@
     "carbs": 47,
     "fat": 18
   },
-  "slug": "kosher-lamb-béchamel",
+  "slug": "kosher-lamb-bechamel",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/kosher-lamb-béchamel",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-lamb-bechamel",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T05:05:48Z",
   "axes": {

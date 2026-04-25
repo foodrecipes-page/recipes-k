@@ -48,9 +48,9 @@
     "carbs": 2,
     "fat": 0
   },
-  "slug": "kurokuzu",
+  "slug": "kurokuzu-black-pudding-and-vinegar-crunch",
   "source": "ollama-qwen2.5:3b",
-  "canonicalUrl": "https://foodrecipes.page/r/kurokuzu",
+  "canonicalUrl": "https://foodrecipes.page/r/kurokuzu-black-pudding-and-vinegar-crunch",
   "providerUsed": "ollama-qwen2.5:3b",
   "createdAt": "2026-04-25T14:56:39Z",
   "axes": {
