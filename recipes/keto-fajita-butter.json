@@ -1,0 +1,62 @@
+{
+  "title": "Keto Fajita Butter",
+  "description": "A silky and indulgent keto-friendly dish featuring a blend of fajita seasoning with butter for a rich, creamy texture.",
+  "cuisine": "Keto Fusion",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1/4 cup butter",
+      "amount": "cup",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "2 tablespoons fajita seasoning blend",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Juice of 1 lime",
+      "amount": "juice of 1"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a small saucepan over low heat.",
+    "Add the fajita seasoning blend and stir until well combined with the melted butter, creating a silky mixture.",
+    "Squeeze the juice from one lime into the mixture and stir again to combine flavors.",
+    "Serve immediately over your favorite keto-friendly tortilla or as a dip for veggies."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "indulgent",
+    "russian",
+    "fajita",
+    "butter"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 100
+  },
+  "slug": "keto-fajita-butter",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-fajita-butter",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:32:24Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "keto",
+    "region": null
+  }
+}
