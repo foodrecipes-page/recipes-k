@@ -140,6 +140,19 @@
     "shard": "k"
   },
   {
+    "slug": "kielbasini-paleo",
+    "title": "Kielbasini Paleo",
+    "tags": [
+      "paleo",
+      "kielbasa",
+      "vietnamese-inspired",
+      "snack"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kimbap-rice-paper-roll",
     "title": "Buttery Gooey Low-Carb Kimbap Rice Paper Roll",
     "tags": [
