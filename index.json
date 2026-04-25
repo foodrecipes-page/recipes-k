@@ -13,6 +13,19 @@
     "shard": "k"
   },
   {
+    "slug": "kashmiri-bhuna",
+    "title": "Kashmiri Bhuna",
+    "tags": [
+      "kashmiri-bhuna",
+      "savory",
+      "crunchy",
+      "argentinian-dish"
+    ],
+    "cuisine": "Indian-Kosher",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "keto-monsoon-ham-fry",
     "title": "Keto Monsoon Ham Fry",
     "tags": [

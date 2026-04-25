@@ -1,0 +1,93 @@
+{
+  "title": "Kashmiri Bhuna",
+  "description": "A savory and crunchy brunch-mood Argentinian dish featuring a restaurant-quality Kashmiri Bhuna recipe that's kosher-friendly.",
+  "cuisine": "Indian-Kosher",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "4 oz. diced beef",
+      "amount": "oz.",
+      "notes": "Kosher beef"
+    },
+    {
+      "name": "2 tbsp oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 large onion, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp ground coriander",
+      "amount": ""
+    },
+    {
+      "name": "1/2 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "Fresh cilantro leaves, for garnish",
+      "amount": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh mint",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a large skillet, heat the oil over medium-high heat. Add diced beef and sauté until browned, about 5 minutes.",
+    "Add onions and garlic to the skillet; cook for another minute or two until softened.",
+    "Stir in ground cumin, coriander, turmeric, salt, and lemon juice. Cook for an additional 2-3 minutes.",
+    "Remove from heat and stir in fresh cilantro and mint leaves. Serve hot as a side dish with eggs or toast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kashmiri-bhuna",
+    "savory",
+    "crunchy",
+    "argentinian-dish"
+  ],
+  "nutrition": {
+    "calories": 285,
+    "protein": 17,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "kashmiri-bhuna",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kashmiri-bhuna",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:00:05Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "bhuna",
+    "primaryIngredient": "restaurant",
+    "diet": "kosher",
+    "region": null
+  }
+}
