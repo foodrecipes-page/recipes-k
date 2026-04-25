@@ -38,6 +38,20 @@
     "shard": "k"
   },
   {
+    "slug": "kabse-crunchy-vegan-snack",
+    "title": "Kabse Crunchy Vegan Snack",
+    "tags": [
+      "kabbelella",
+      "fermented",
+      "crunchy",
+      "argentinian",
+      "vegan"
+    ],
+    "cuisine": "Argentinean",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
     "slug": "kale-medley-grilled-tartar",
     "title": "Kale Medley Grilled Tartar",
     "tags": [

@@ -1,0 +1,68 @@
+{
+  "title": "Kabse Crunchy Vegan Snack",
+  "description": "This Argentinian snack combines fermented kabse spice with crunchy textures and is vegan-friendly, perfect for a quick breakfast or snack.",
+  "cuisine": "Argentinean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kabbelella",
+      "amount": "10 grams"
+    },
+    {
+      "name": "Water",
+      "amount": "20 ml"
+    },
+    {
+      "name": "Vegan Cream Cheese (optional)",
+      "amount": "50 grams",
+      "notes": "For added creaminess and texture"
+    },
+    {
+      "name": "Coconut Oil or Vegan Butter",
+      "amount": "1 tablespoon",
+      "notes": "For coating the kabbelella for a crunchy exterior"
+    }
+  ],
+  "instructions": [
+    "Place the Kabbelella in a bowl of water to ferment as per recipe instructions (usually involves soaking overnight).",
+    "Drain and dry the Kabbelella, then gently coat with coconut oil or vegan butter.",
+    "In a pan, heat coconut oil or vegan butter until it starts smoking. Add the coated kabbelella pieces for about 1-2 minutes on each side until golden brown and crunchy.",
+    "Meanwhile, if using, mix Vegan Cream Cheese with the water to create a spreadable consistency.",
+    "Serve the crispy kabbelella slices alongside the cream cheese or as a standalone snack. Can be refrigerated up to one day after preparation."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kabbelella",
+    "fermented",
+    "crunchy",
+    "argentinian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 6
+  },
+  "slug": "kabse-crunchy-vegan-snack",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kabse-crunchy-vegan-snack",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:49:10Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "slow-cook",
+    "primaryIngredient": "kabse spice",
+    "diet": "vegan",
+    "region": null
+  }
+}
