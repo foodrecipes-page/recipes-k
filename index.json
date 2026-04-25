@@ -348,5 +348,17 @@
     "cuisine": "Croatian",
     "totalTimeMin": 60,
     "shard": "k"
+  },
+  {
+    "slug": "kurokuzu",
+    "title": "Kurokuzu - Black Pudding and Vinegar Crunch",
+    "tags": [
+      "kurokuzu",
+      "black-pudding",
+      "vinegar-crunch"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]

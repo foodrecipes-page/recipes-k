@@ -1,0 +1,65 @@
+{
+  "title": "Kurokuzu - Black Pudding and Vinegar Crunch",
+  "description": "A savory solo-dinner Japanese dish featuring fermented black pudding combined with a crispy vinegar coating, suitable for Jain-friendly diets.",
+  "cuisine": "Japanese",
+  "diet": [
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "100g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vinegar",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, mix black pudding and sesame seeds thoroughly.",
+    "Add salt to taste and continue mixing until the mixture is evenly coated with sesame seeds.",
+    "Transfer the mixture onto a non-stick skillet or a baking sheet lined with parchment paper.",
+    "Heat the skillet over medium heat. Once heated, add vinegar in a small amount at a time, spreading it evenly on the black pudding mixture as it melts and coats the surface.",
+    "Once all vinegar is incorporated, cook until the top layer of the mixture starts to brown, approximately 5-7 minutes.",
+    "Remove from heat, let cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kurokuzu",
+    "black-pudding",
+    "vinegar-crunch"
+  ],
+  "nutrition": {
+    "calories": 30,
+    "protein": 1.5,
+    "carbs": 2,
+    "fat": 0
+  },
+  "slug": "kurokuzu",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kurokuzu",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T14:56:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crunchy",
+    "mood": "solo-dinner",
+    "technique": "boil",
+    "primaryIngredient": "black pudding",
+    "diet": "jain",
+    "region": null
+  }
+}
