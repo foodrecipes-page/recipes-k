@@ -1,5 +1,17 @@
 [
   {
+    "slug": "kabanos-sparkle",
+    "title": "Kabanos Sparkle",
+    "tags": [
+      "kabanos-sausage",
+      "smoky-italian",
+      "raw-friendly-dish"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kabatoast-bliss",
     "title": "KabaToast Bliss",
     "tags": [

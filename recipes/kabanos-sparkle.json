@@ -1,0 +1,76 @@
+{
+  "title": "Kabanos Sparkle",
+  "description": "A light and smoky Italian dish featuring kabanos sausages, reduced in flavor to be raw-friendly.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "vegan",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kabanos sausages",
+      "amount": "12"
+    },
+    {
+      "name": "Red bell pepper, sliced thinly",
+      "amount": "4"
+    },
+    {
+      "name": "Green bell pepper, sliced thinly",
+      "amount": "4"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Freshly grated Parmesan cheese (optional)",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix kabanos sausages, olive oil, minced garlic, and sliced peppers. Toss until well combined.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper or aluminum foil for easy cleanup.",
+    "Drizzle with additional olive oil if desired to enhance flavor.",
+    "Roast in preheated oven for about 20 minutes, flipping sausages halfway through cooking time.",
+    "Remove from oven and allow to cool slightly before serving. Optionally top with freshly grated Parmesan cheese.",
+    "Serve immediately or store leftovers in the refrigerator for up to three days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kabanos-sausage",
+    "smoky-italian",
+    "raw-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 296,
+    "protein": 15.8,
+    "carbs": 7.4,
+    "fat": 13
+  },
+  "slug": "kabanos-sparkle",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kabanos-sparkle",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:50:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "raw",
+    "region": null
+  }
+}
