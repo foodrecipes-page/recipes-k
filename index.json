@@ -36,5 +36,17 @@
     "cuisine": "Mexican (Norteño)",
     "totalTimeMin": 13,
     "shard": "k"
+  },
+  {
+    "slug": "kneaded-brussels-sprout-delight",
+    "title": "Kneaded Brussels Sprout Delight",
+    "tags": [
+      "brussels-sprouts",
+      "kneaded",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": "20",
+    "shard": "k"
   }
 ]

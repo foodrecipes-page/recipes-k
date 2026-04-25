@@ -1,0 +1,82 @@
+{
+  "title": "Kneaded Brussels Sprout Delight",
+  "description": "A salty and crisp vegetarian Egyptian dish featuring brussels sprouts that are kneaded for added texture and flavor.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup Brussels sprouts, halved",
+      "amount": "",
+      "notes": "Choose firm, immature sprouts with tight buds."
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "1/4 cup",
+      "notes": "Extra virgin for best flavor."
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": "Freshly squeezed for zest."
+    },
+    {
+      "name": "6 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh parsley",
+      "amount": "",
+      "notes": "For color and flavor."
+    },
+    {
+      "name": "1 small lemon, thinly sliced (for garnish)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add halved Brussels sprouts to the pan. Sprinkle with salt and toss gently until coated evenly.",
+    "Cook for about 5-7 minutes or until they start to brown slightly, occasionally stirring.",
+    "Stir in minced garlic and cook for another minute; be careful not to burn it.",
+    "Squeeze fresh lemon juice over sprouts just before serving. Add chopped parsley on top.",
+    "Garnish with thinly sliced lemons.",
+    "prepTimeMin"
+  ],
+  "cookTimeMin": "15",
+  "totalTimeMin": "20",
+  "servings": "4",
+  "difficulty": "easy",
+  "tags": [
+    "brussels-sprouts",
+    "kneaded",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 379,
+    "protein": 10,
+    "carbs": 56,
+    "fat": 22
+  },
+  "slug": "kneaded-brussels-sprout-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-brussels-sprout-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:59:32Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "brussels sprouts",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
