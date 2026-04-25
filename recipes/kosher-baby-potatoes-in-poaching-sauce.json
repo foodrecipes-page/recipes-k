@@ -1,0 +1,83 @@
+{
+  "title": "Kosher Baby Potatoes in Poaching Sauce",
+  "description": "A fresh and romantic Filipino dish featuring tender baby new potatoes served with a rich poaching sauce.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 lb (450g) baby new potatoes",
+      "amount": "whole",
+      "notes": "Ensure they are Kosher potatoes"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "exact"
+    },
+    {
+      "name": "1 cup chicken or vegetable broth",
+      "amount": "exact",
+      "notes": "Kosher-friendly broth"
+    },
+    {
+      "name": "1 tablespoon kosher salt",
+      "amount": "exact"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "exact"
+    },
+    {
+      "name": "2 garlic cloves, minced",
+      "amount": "exact"
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": "exact"
+    },
+    {
+      "name": "Fresh parsley sprigs for garnish (optional)",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (205°C).",
+    "Rinse baby new potatoes under cold running water, then pat dry with paper towels.",
+    "In a large skillet, heat olive oil over medium-high heat. Add garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "Add broth, salt, black pepper, and lemon juice to the skillet; stir well to combine. Bring mixture to a simmer.",
+    "Gently add baby new potatoes into the skillet, ensuring they are evenly coated with the sauce. Reduce heat to low and cover pan.",
+    "Bake in preheated oven for 12-15 minutes or until potatoes are tender when pierced with a fork but still have some texture.",
+    "Remove from oven and let rest briefly before serving warm with fresh parsley sprigs if using."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kosher",
+    "baby_potatoes",
+    "poaching_sauce",
+    "filipino_appetizer"
+  ],
+  "nutrition": {
+    "calories": 175,
+    "protein": 3,
+    "carbs": 29,
+    "fat": 6
+  },
+  "slug": "kosher-baby-potatoes-in-poaching-sauce",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-baby-potatoes-in-poaching-sauce",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:23:24Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "poach",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "kosher",
+    "region": null
+  }
+}
