@@ -1,5 +1,18 @@
 [
   {
+    "slug": "kabatoast-bliss",
+    "title": "KabaToast Bliss",
+    "tags": [
+      "kaba-toast",
+      "bliss",
+      "middle-eastern",
+      "rich-silky"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "keto-monsoon-ham-fry",
     "title": "Keto Monsoon Ham Fry",
     "tags": [

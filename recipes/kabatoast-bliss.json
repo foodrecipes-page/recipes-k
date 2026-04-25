@@ -1,0 +1,61 @@
+{
+  "title": "KabaToast Bliss",
+  "description": "A rich and silky Middle Eastern dish featuring kabanos sausages on gluten-free toast for a perfect brunch option.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "KabanOs Sausages",
+      "amount": "10 oz"
+    },
+    {
+      "name": "Gluten-Free Bread Toast",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Vegetable Oil for Cooking",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Heat a non-stick pan over medium-high heat. Add the vegetable oil and sauté the KabanOs Sausages until golden brown on both sides.",
+    "While the sausages are cooking, toast the Gluten-Free Bread Toast in your oven until it's lightly golden brown.",
+    "Toast the KabanOs Sausages to ensure they're crispy if you prefer a crunchier texture.",
+    "Place the toasted sausages and bread onto plates or a serving dish for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kaba-toast",
+    "bliss",
+    "middle-eastern",
+    "rich-silky"
+  ],
+  "nutrition": {
+    "calories": 673,
+    "protein": 30,
+    "carbs": 52,
+    "fat": 19
+  },
+  "slug": "kabatoast-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kabatoast-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:32:37Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "kabanos sausages",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
