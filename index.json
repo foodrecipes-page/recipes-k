@@ -51,6 +51,19 @@
     "shard": "k"
   },
   {
+    "slug": "keto-bhuna-potatoes",
+    "title": "Keto Bhuna Potatoes",
+    "tags": [
+      "keto",
+      "bhuna",
+      "potatoes",
+      "spicy"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "keto-caramelized-meringue-feast",
     "title": "Spicy Keto-Caramelized Meringue Feast",
     "tags": [
