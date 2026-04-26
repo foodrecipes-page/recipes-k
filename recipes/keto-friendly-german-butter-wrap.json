@@ -1,0 +1,74 @@
+{
+  "title": "Keto-friendly German Butter Wrap",
+  "description": "A light and creamy German dish featuring English muffins, pickle, and a keto-friendly spread.",
+  "cuisine": "German",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "English Muffin",
+      "amount": "2"
+    },
+    {
+      "name": "Dijon Mustard (Keto-Friendly)",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Pickles, thinly sliced",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Mozzarella Cheese (Low Carb/No Sugar Added)",
+      "amount": "1 ounce"
+    },
+    {
+      "name": "Peanut Butter (Keto-Friendly)",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F.",
+    "Toast two English Muffins until golden brown and slightly crispy. Set aside.",
+    "Spread a thin layer of Dijon Mustard on one side of each toasted muffin.",
+    "Place a slice of Mozzarella cheese in the center of each mustard-side toast, arranging pickles around it.",
+    "Drizzle 2 tablespoons of peanut butter evenly over the top of the fillings.",
+    "Return the assembled wraps to the oven for about 3-5 minutes or until the cheese is melted and slightly golden.",
+    "Allow to cool for a minute before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "german-dish",
+    "buttermilk-wrap"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 18,
+    "carbs": 7,
+    "fat": 16
+  },
+  "slug": "keto-friendly-german-butter-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-german-butter-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T15:53:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "english muffins",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Butter",
+    "descriptor": "Keto-friendly",
+    "dishForm": "Wrap"
+  }
+}
