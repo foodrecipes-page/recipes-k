@@ -1,0 +1,79 @@
+{
+  "title": "Keto-friendly Bhuna Flaky Banana Crumble",
+  "description": "A fermented, flaky Venezuelan dish featuring keto-friendly fried ripe bananas with a bhuna sauce crumble topping.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ripe banana",
+      "amount": "1 large"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "honey or stevia (as a sweetener)",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "75g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Mix all purpose flour and coconut flakes in a bowl.",
+    "Cut the ripe banana into thin slices, place on a baking sheet lined with parchment paper.",
+    "Drizzle with honey or stevia and lightly sprinkle with ground cinnamon. Bake for about 15 minutes or until golden brown.",
+    "Meanwhile, mix unsalted butter with heavy cream until creamy. Add honey or stevia to taste.",
+    "Pour the mixture over the banana slices and bake for an additional 5-7 minutes until bubbly.",
+    "Serve warm as a dessert."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bhuna",
+    "butter",
+    "banana",
+    "flaky"
+  ],
+  "nutrition": {
+    "calories": 618,
+    "protein": 23.7,
+    "carbs": 59.8,
+    "fat": 40
+  },
+  "slug": "keto-friendly-bhuna-flaky-banana-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-bhuna-flaky-banana-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T07:22:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vegetarian",
+    "mainIngredient": "Banana",
+    "descriptor": "Keto-friendly Bhuna Flaky",
+    "dishForm": "Crumble"
+  }
+}
