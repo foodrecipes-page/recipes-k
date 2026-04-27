@@ -1,0 +1,87 @@
+{
+  "title": "Keto-friendly Jamaican Parmigiano-reggiano Stir-fry",
+  "description": "A fresh and light dish featuring fresh herbs, keto-friendly cheese, and a vibrant kick from jerk seasoning to make a bold and adventurous meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Keto-friendly parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "4 pieces (boneless, skinless)"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "2 pieces, chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Jamaican jerk sauce (optional)",
+      "notes": "To add extra flavor and heat"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 425°F.",
+    "Place chicken breasts on a baking sheet lined with parchment paper.",
+    "Mix jerk seasoning, garlic, red bell pepper, green onions, and optional jerk sauce in a bowl. Season the chicken evenly with this mixture.",
+    "Bake for about 18-20 minutes or until the internal temperature reaches 165°F (74°C). Let rest for 5 minutes before slicing.",
+    "In a large skillet over medium heat, add olive oil and sauté fresh parsley until fragrant and slightly softened.",
+    "Add chicken slices to the skillet with herbs. Stir-fry for about 3-5 minutes or until chicken is cooked through.",
+    "Garnish with parmesan cheese shavings if desired.",
+    "Serve hot as a side dish or over cauliflower rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "jamaican",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 687,
+    "protein": 39,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "keto-friendly-jamaican-parmigiano-reggiano-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-jamaican-parmigiano-reggiano-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:37:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Parmigiano-reggiano",
+    "descriptor": "Keto-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
