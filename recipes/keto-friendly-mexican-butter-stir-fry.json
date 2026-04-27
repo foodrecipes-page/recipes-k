@@ -1,0 +1,80 @@
+{
+  "title": "Keto-friendly Mexican Butter Stir-fry",
+  "description": "A lazy Sunday dish featuring a creamy and buttery blend of mexican flavors with italian seasoning, perfect for keto diets.",
+  "cuisine": "Mexican",
+  "diet": [
+    "ketogenic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "100g"
+    },
+    {
+      "name": "Eggplant slices",
+      "amount": "200g"
+    },
+    {
+      "name": "Butter",
+      "amount": "50g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "75ml"
+    },
+    {
+      "name": "Italian seasoning blend",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Keto breadcrumbs",
+      "amount": "30g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Chop pork into small pieces and coat with Italian seasoning.",
+    "Place pork on a baking sheet lined with parchment paper, add some olive oil and bake for 15 minutes until slightly golden brown.",
+    "Heat the butter in a pan over medium heat. Add eggplant slices to the pan and fry them until tender.",
+    "In another pan, melt coconut milk slowly, stirring occasionally, until it thickens into a creamy sauce.",
+    "Add pork pieces back into the pan with the fried eggplant and stir-fry together for 5 minutes.",
+    "Sprinkle keto breadcrumbs over the top of the dish to create a crispy topping.",
+    "Serve hot as a main course."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "lazy-sunday",
+    "mexican-flavored",
+    "buttery-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 16,
+    "fat": 28
+  },
+  "slug": "keto-friendly-mexican-butter-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-mexican-butter-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T04:42:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "fry",
+    "primaryIngredient": "italian seasoning",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Butter",
+    "descriptor": "Keto-friendly",
+    "dishForm": "Stir-fry"
+  }
+}
