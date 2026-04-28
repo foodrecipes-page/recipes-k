@@ -1,0 +1,74 @@
+{
+  "title": "Keto-friendly Bhuna Onion Stir-fry",
+  "description": "A savory, light Polish dish featuring fennel and a bhuna-style stir-fry with onions that is keto-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "4 cups thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "fennel bulbs",
+      "amount": "2 small, finely chopped"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a tablespoon of butter or oil in a wok over medium-high heat.",
+    "Add sliced onions and sauté until translucent, about 5 minutes.",
+    "Add bell peppers and fennel, cooking for another 3-4 minutes until softened slightly.",
+    "Season with kosher salt and black pepper according to taste.",
+    "Serve hot as a side dish or over keto-friendly protein sources."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "bhuna",
+    "stir-fry",
+    "onion",
+    "fennel"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2.5,
+    "carbs": 14.6,
+    "fat": 9
+  },
+  "slug": "keto-friendly-bhuna-onion-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-bhuna-onion-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T23:59:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "fennel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Onion",
+    "descriptor": "Keto-friendly Bhuna",
+    "dishForm": "Stir-fry"
+  }
+}
