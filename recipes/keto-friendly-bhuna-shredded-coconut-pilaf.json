@@ -1,0 +1,98 @@
+{
+  "title": "Keto-friendly Bhuna Shredded Coconut Pilaf",
+  "description": "A flavorful and nutritious meal-prep dish featuring shredded coconut in a spicy garlic sauce, perfect for those following a keto diet.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Shredded Coconut",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red Pepper Flakes (to taste)",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Coconut Milk (keto-friendly)",
+      "amount": "2/3 cup"
+    },
+    {
+      "name": "Chicken Broth (low-sodium, keto-friendly)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt to taste"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "a few"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat vegetable oil over medium-high heat.",
+    "Add garlic powder and turmeric powder, sautéing for about 1 minute.",
+    "Stir in red pepper flakes (adjust to taste).",
+    "Pour coconut milk and chicken broth into the pot. Bring to a boil.",
+    "Reduce heat to low, add salt and cumin powder, stir well until combined.",
+    "Gradually stir in shredded coconut, continuing to cook for about 10 minutes or until thickened slightly but still loose enough to eat with your hands.",
+    "Stir in lemon juice just before serving. Garnish with fresh basil leaves if desired.",
+    "Serve hot as a side dish or over rice for a complete meal."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "garlicky",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 189,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "keto-friendly-bhuna-shredded-coconut-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-bhuna-shredded-coconut-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T20:12:36Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "shredded coconut",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Garlic",
+    "descriptor": "Keto-friendly Bhuna Shredded Coconut Pilaf",
+    "dishForm": "Pilaf"
+  }
+}
