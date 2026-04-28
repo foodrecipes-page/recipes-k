@@ -1,0 +1,70 @@
+{
+  "title": "Knead Butter Crumble",
+  "description": "A buttery, crunchy Indian dish featuring capers and sugar-free-friendly, perfect for a crowd-pleaser snack or dessert.",
+  "cuisine": "Indian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "capers, drained and chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey (optional for sweetness)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "In a mixing bowl, combine butter with almond flour until well combined.",
+    "Add chopped capers and optional honey to the mixture.",
+    "Shape the mixture into small crumble pieces using your hands or a rolling pin for even distribution of ingredients.",
+    "Place crumbles on a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 12-15 minutes, until golden brown and crunchy.",
+    "Allow to cool slightly before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "knead-butter-crumble",
+    "indian-snack",
+    "crunchy-dish"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "knead-butter-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/knead-butter-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T06:00:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "knead",
+    "primaryIngredient": "capers",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Butter",
+    "descriptor": "Knead",
+    "dishForm": "Crumble"
+  }
+}

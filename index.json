@@ -336,6 +336,18 @@
     "shard": "k"
   },
   {
+    "slug": "knead-butter-crumble",
+    "title": "Knead Butter Crumble",
+    "tags": [
+      "knead-butter-crumble",
+      "indian-snack",
+      "crunchy-dish"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "knead-date",
     "title": "Herbal Knead & Date",
     "tags": [
