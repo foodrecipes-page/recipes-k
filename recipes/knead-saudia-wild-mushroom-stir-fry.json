@@ -1,0 +1,86 @@
+{
+  "title": "Knead Saudia Wild Mushroom Stir-fry",
+  "description": "A tangy and juicy high-protein-friendly meal-prep dish featuring wild mushrooms that is perfect for a quick and easy dinner.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high-protein",
+    "meal-prep"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "50g saudia mushrooms",
+      "amount": "medium-sized, fresh"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "sliced thinly"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced finely"
+    },
+    {
+      "name": "3 tbsp olive oil",
+      "amount": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": ""
+    },
+    {
+      "name": "1 tsp turmeric powder",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of red pepper flakes",
+      "notes": "optional, for heat"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Place the saudia mushrooms in a bowl, sprinkle with lemon juice, turmeric powder, salt, pepper, and red pepper flakes (if using). Toss well to coat evenly. Let it sit for about 5 minutes.",
+    "Heat olive oil in a wok or large skillet over medium-high heat. Add sliced onion and sauté until translucent, about 3-4 minutes.",
+    "Add minced garlic and cook for another minute until fragrant but not browned.",
+    "Gently fold the mushroom mixture into the pan along with the lemon juice marinade, ensuring mushrooms are evenly coated. Allow to sit and absorb the flavors for an additional 2 minutes.",
+    "Reduce heat to medium-low, add salt and pepper as per taste preferences. Stir-fry for about 5-7 more minutes until the mushrooms are slightly crisp and the sauce thickens slightly.",
+    "Serve hot with a side of quinoa or any preferred grain-based dish for added nutritional value."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia-mushroom-stir-fry",
+    "high-protein-friendly",
+    "meal-prep-dinner"
+  ],
+  "nutrition": {
+    "calories": 305,
+    "protein": 21,
+    "carbs": 9,
+    "fat": 8
+  },
+  "slug": "knead-saudia-wild-mushroom-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/knead-saudia-wild-mushroom-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T07:16:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Wild Mushroom",
+    "descriptor": "Knead",
+    "dishForm": "Stir-fry"
+  }
+}
