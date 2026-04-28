@@ -1,0 +1,85 @@
+{
+  "title": "Kneadable Mediterranean Pepper Stir-fry",
+  "description": "A rich, flaky, cozy mediterranean dish featuring sweet peppadew peppers in a low-calorie-friendly twist, perfect for an easy dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peppadew Peppers",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Garlic Clove(s)",
+      "amount": "1"
+    },
+    {
+      "name": "Dried Oregano",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Wash and chop the Peppadew Peppers, Red Bell Pepper, and Garlic.",
+    "In a medium-sized skillet or wok, heat olive oil over medium-high heat. Add chopped peppers and garlic; sauté for about 2 minutes until fragrant.",
+    "Mix in Tomato Sauce, dried oregano, salt, and black pepper. Stir well to combine all the ingredients evenly.",
+    "Transfer the mixture into a baking dish. Bake in preheated oven for 15-20 minutes or until the peppers are soft and the sauce is slightly thickened.",
+    "Serve hot as a side dish or with pita bread, quinoa salad, or any other Mediterranean-inspired meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peppadew-peppers",
+    "red-bell-peppers",
+    "low-calorie-friendly"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "kneadable-mediterranean-pepper-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kneadable-mediterranean-pepper-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T17:46:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "knead",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Pepper",
+    "descriptor": "Kneadable",
+    "dishForm": "Stir-fry"
+  }
+}
