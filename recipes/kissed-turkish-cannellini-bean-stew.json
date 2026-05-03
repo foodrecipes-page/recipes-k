@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Turkish Cannellini Bean Stew",
+  "description": "A garlicky, tender stew of cannellini beans cooked sous-vide and finished in a bright lemony broth, perfect for midnight cravings.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans, cooked",
+      "amount": "4 cups"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "4"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 small"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ teaspoon"
+    },
+    {
+      "name": "vegetable broth, low-sodium",
+      "amount": "½ cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon",
+      "notes": "low-fat option"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide bath to 63°C (145°F).",
+    "Rinse and drain the cannellini beans, then place them in a vacuum-sealable bag with minced garlic, bay leaves, diced onion, smoked paprika, cumin, salt, pepper, and vegetable broth.",
+    "Seal the bag and cook in the sous-vide bath for 60 minutes.",
+    "Remove the bag, discard the bay leaves and onion pieces, and transfer the beans to a pot.",
+    "Heat 1 teaspoon of olive oil in a saucepan over medium heat, add a minced garlic clove, and sauté until fragrant.",
+    "Add the sous-vide beans to the saucepan, stir in lemon juice, and adjust seasoning with salt and pepper.",
+    "Simmer the mixture for 10 minutes, stirring occasionally, until the flavors meld.",
+    "Sprinkle chopped parsley over the stew before serving.",
+    "Optional: squeeze fresh lemon juice over the top for extra brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "garlicky",
+    "low-fat",
+    "sous-vide",
+    "turkish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "kissed-turkish-cannellini-bean-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-turkish-cannellini-bean-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:50:52Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "sous-vide",
+    "primaryIngredient": "cannellini beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "cannellini bean",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
