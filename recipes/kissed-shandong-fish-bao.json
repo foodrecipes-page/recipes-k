@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Shandong Fish Bao",
+  "description": "A comforting, fermented bao sandwich with caramelized onion, mayo‑enhanced cod, and chewy Shandong‑style buns.",
+  "cuisine": "shandong",
+  "diet": [
+    "pescatarian",
+    "fermented",
+    "sick-day"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White cod fillet",
+      "amount": "200g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fermented black bean sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "Caramelized onion",
+      "amount": "50g"
+    },
+    {
+      "name": "Corn starch",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Shandong bao buns",
+      "amount": "3"
+    }
+  ],
+  "instructions": [
+    "Pat the cod fillet dry, season with salt and pepper, and steam it over high heat until cooked through, about 8 minutes.",
+    "Slice the steamed cod into bite‑sized pieces and set aside to cool slightly.",
+    "In a bowl, whisk together mayonnaise, fermented black bean sauce, soy sauce, sugar, grated ginger, and minced garlic until smooth.",
+    "Stir the cooled cod into the mayo mixture, ensuring each piece is evenly coated.",
+    "Heat a pan over medium heat, add the caramelized onion, and stir‑fry for 2 minutes until warm.",
+    "Toss the onion into the fish mixture and sprinkle corn starch, mixing gently to bind.",
+    "Open each bao bun, spoon the fish filling into the center, close the buns, and serve immediately.",
+    "If desired, warm the bao buns briefly in a steamer or microwave for 30 seconds before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 3,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "fermented",
+    "pescatarian-friendly",
+    "quick",
+    "shandong-inspiration",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "kissed-shandong-fish-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-shandong-fish-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:58:29Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "mayonnaise",
+    "diet": "pescatarian",
+    "region": "shandong",
+    "cuisineAdjective": "Shandong",
+    "mainIngredient": "Fish",
+    "descriptor": "Kissed",
+    "dishForm": "Bao"
+  }
+}
