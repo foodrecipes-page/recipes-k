@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Kenyan Chicken Skillet",
+  "description": "A mustardy, silky skillet dish that blends Kenyan flavors with dark soft brown sugar and nuka-pickle for a low-glycemic twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, boneless skinless",
+      "amount": "500 g"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nuka-pickle (fermented cabbage)",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce, low sodium",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "2"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the cast-iron skillet over medium heat and swirl in sesame oil until shimmering.",
+    "Pat the chicken thighs dry, season with pepper, then sear in the skillet for 4 minutes on each side until golden; remove and set aside.",
+    "Add garlic, ginger, and mustard to the hot oil, stirring until fragrant, about 30 seconds.",
+    "Pour in soy sauce and dark soft brown sugar, allowing it to dissolve and form a caramelized glaze.",
+    "Return chicken to the skillet, spooning the glaze over the pieces and covering loosely.",
+    "Reduce heat to low, cover, and simmer for 15 minutes until chicken is cooked through.",
+    "Stir in nuka-pickle and scallions, cooking for an additional 2 minutes to meld flavors.",
+    "Serve hot, spooning extra glaze onto each piece for a silky finish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "kenyan",
+    "low-glycemic",
+    "mustardy",
+    "one-pan",
+    "silky"
+  ],
+  "nutrition": {
+    "calories": 325,
+    "protein": 26,
+    "carbs": 7,
+    "fat": 22
+  },
+  "slug": "kissed-kenyan-chicken-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kenyan-chicken-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:48:02Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Skillet"
+  }
+}

@@ -539,6 +539,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-kenyan-chicken-skillet",
+    "title": "Kissed Kenyan Chicken Skillet",
+    "tags": [
+      "adventurous",
+      "kenyan",
+      "low-glycemic",
+      "mustardy",
+      "one-pan",
+      "silky"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-saudi-sesame-tagine",
     "title": "Kissed Saudi Sesame Tagine",
     "tags": [
@@ -687,6 +702,23 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kisumu-style-caramelized-kenyan-halal-beef-tagine",
+    "title": "Kisumu-Style Caramelized Kenyan Halal Beef Tagine",
+    "tags": [
+      "beef",
+      "clay-pot",
+      "dinner",
+      "halal",
+      "kenyan",
+      "one-pot",
+      "tagine",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 120,
     "shard": "k"
   },
   {
