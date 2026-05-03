@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Dutch Chicken Salad",
+  "description": "A vibrant, sour-sweet salad featuring poached halal chicken, dried red chilies, and crisp greens, finished with a creamy dressing.",
+  "cuisine": "Dutch",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless skinless chicken thighs",
+      "amount": "600g",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried red chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "8 cups"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1, shredded"
+    },
+    {
+      "name": "red onion",
+      "amount": "0.5, thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g, crumbled"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine water, salt, and dried red chili flakes; bring to a gentle simmer.",
+    "Add the chicken thighs and poach for 12 minutes until cooked through.",
+    "Remove the chicken and let it rest for 5 minutes, then shred into bite‑sized pieces.",
+    "In a small bowl whisk together white wine vinegar, olive oil, and lemon juice to make a bright dressing.",
+    "Toss the mixed salad greens, diced cucumber, shredded carrot, and thinly sliced red onion with the dressing.",
+    "Gently fold in the shredded chicken and crumbled feta cheese.",
+    "Sprinkle the salad with the dressing and adjust seasoning with extra salt if needed.",
+    "Serve immediately on chilled plates for a crisp, refreshing dish.",
+    "Garnish with a few parsley leaves if desired.",
+    "Enjoy the unique combination of sour, crisp, and indulgent flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "dutch",
+    "halal",
+    "indulgent",
+    "poached",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 70,
+    "carbs": 20,
+    "fat": 55
+  },
+  "slug": "kissed-dutch-chicken-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dutch-chicken-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:55:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "indulgent",
+    "technique": "poach",
+    "primaryIngredient": "dried red chillies",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Salad"
+  }
+}
