@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Thai Coconut Curry",
+  "description": "A floral, creamy midnight craving Thai dish featuring pul biber and a quick one-pot sauté.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "200 g"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "low‑fat coconut milk",
+      "amount": "1 cup",
+      "notes": "use low‑fat for diabetic friendly"
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium heat until shimmering.",
+    "Add diced chicken and sauté until lightly browned, about 5 minutes.",
+    "Stir in curry paste, pul biber, and garlic, cooking for 1 minute until fragrant.",
+    "Add onions, bell pepper, and zucchini, sautéing until vegetables are just tender, about 4 minutes.",
+    "Pour in coconut milk and a splash of water, bring to a gentle simmer, then reduce heat to low and let it cook for 10 minutes, stirring occasionally.",
+    "Stir in lime juice, fish sauce, and adjust seasoning with salt to taste.",
+    "Remove from heat and garnish with fresh cilantro before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "one-pot",
+    "quick",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 11,
+    "carbs": 32,
+    "fat": 20
+  },
+  "slug": "kissed-thai-coconut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-thai-coconut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:58:03Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "pul biber",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}

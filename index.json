@@ -393,6 +393,19 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-thai-coconut-curry",
+    "title": "Kissed Thai Coconut Curry",
+    "tags": [
+      "diabetic-friendly",
+      "one-pot",
+      "quick",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-tunisian-grape-nut-roast",
     "title": "Kissed Tunisian Grape Nut Roast",
     "tags": [
