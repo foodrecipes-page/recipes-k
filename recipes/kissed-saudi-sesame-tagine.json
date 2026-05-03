@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Saudi Sesame Tagine",
+  "description": "A fragrant, low-fat tagine filled with smoky chickpeas, caramelized onions, and a velvety tahini‑sesame sauce, finished in parchment papillote for a cozy, family-friendly meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked chickpeas",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion, thinly sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp",
+      "notes": "toasted lightly"
+    },
+    {
+      "name": "tahini",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190C (375F).",
+    "Heat 1 tsp olive oil in a skillet over medium heat, add sliced onion and cook until translucent.",
+    "Add minced garlic and cook for 30 seconds until fragrant.",
+    "Stir in tomato paste, cumin, coriander, smoked paprika, and a pinch of sea salt, cooking for another minute.",
+    "Add cooked chickpeas, mixing to coat with spices and onion mixture, and sauté for 3-4 minutes.",
+    "Stir in tahini and lemon juice, whisking until a smooth sauce forms and the dish is heated through.",
+    "Transfer mixture to parchment paper, fold into a tight papillote, and seal the edges.",
+    "Bake the papillote for 15 minutes, then carefully open, drizzle toasted sesame seeds over the top, and fold back.",
+    "Let rest for 2 minutes before serving.",
+    "Serve hot with a side of whole‑grain couscous or low‑fat plain yogurt if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort",
+    "low-fat",
+    "papillote",
+    "spicy",
+    "tagine",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 147,
+    "protein": 5,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "kissed-saudi-sesame-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-saudi-sesame-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:46:09Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "seeds",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "Sesame",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
