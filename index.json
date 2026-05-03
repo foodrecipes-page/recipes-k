@@ -370,6 +370,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicky-crisp-slovakian-broccoli-wrap",
+    "title": "Kicky Crisp Slovakian Broccoli Wrap",
+    "tags": [
+      "easy-to-make",
+      "healthy",
+      "low-fat",
+      "lunch-ideas",
+      "slovakian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kid-friendly-mediterranean-salt-cod-tagine",
     "title": "Kid Friendly Mediterranean Salt Cod Tagine",
     "tags": [
@@ -763,6 +778,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-yeasty-german-katsuobushi-bowl",
+    "title": "Kissed Yeasty German Katsuobushi Bowl",
+    "tags": [
+      "german-cuisine",
+      "gluten-free",
+      "hearty-meal",
+      "low-fodmap",
+      "one-pot",
+      "post-workout"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {

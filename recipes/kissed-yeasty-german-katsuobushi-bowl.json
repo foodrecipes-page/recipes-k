@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Yeasty German Katsuobushi Bowl",
+  "description": "A hearty German dish featuring katsuobushi, perfect for a post-workout meal, served in an earthenware bowl.",
+  "cuisine": "German",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "katsuobushi",
+      "amount": "1 cup",
+      "notes": "dried and fermented bonito flakes"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-fodmap"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, cook the pork sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the caraway seeds, salt, and black pepper to the pan and cook for 1 minute.",
+    "Add the sauerkraut, chicken broth, and apple cider vinegar to the pan, stirring to combine.",
+    "Bring the mixture to a simmer and cook until the liquid has reduced by half.",
+    "While the mixture is cooking, bake the diced potatoes in the oven for 20 minutes, or until they are tender.",
+    "To deglaze the pan, add the yeast extract and scrape up any browned bits from the bottom.",
+    "Stir in the katsuobushi and cook for 1 minute.",
+    "To serve, place a portion of the potato and sausage mixture into an earthenware bowl and top with additional katsuobushi if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "hearty-meal",
+    "low-fodmap",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "kissed-yeasty-german-katsuobushi-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-german-katsuobushi-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:57:43Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "post-workout",
+    "technique": "deglaze",
+    "primaryIngredient": "katsuobushi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Bowl"
+  }
+}
