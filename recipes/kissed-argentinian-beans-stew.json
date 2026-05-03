@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Argentinian Beans Stew",
+  "description": "A hearty, one-pot stew featuring fermented ingredients from Argentina's rich culinary heritage, served with a hint of nutty flavors.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red kidney beans",
+      "amount": "1 cup dried",
+      "notes": "Rinsed and drained"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons",
+      "notes": "Optional, omit for Jain diet"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon ground",
+      "notes": "From Argentina"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon ground",
+      "notes": "From Argentina"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "From Argentina"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Kombu seaweed",
+      "amount": "1 piece (3 inches)",
+      "notes": "Optional, for Umami flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add onion and cook, stirring occasionally, until browned, about 8 minutes.",
+    "Add garlic, cumin, and paprika; cook, stirring constantly, for 1 minute.",
+    "Add Shaoxing wine, if using, and cook, stirring to deglaze, for 1 minute.",
+    "Add tomato paste, cooking, stirring constantly, for 2 minutes.",
+    "Add kombu, if using, and cook for 1 minute.",
+    "Add beans, diced tomatoes, salt, and pepper; stir to combine.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Stir occasionally to prevent scorching.",
+    "Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "high-protein",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 25,
+    "carbs": 90,
+    "fat": 12
+  },
+  "slug": "kissed-argentinian-beans-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-argentinian-beans-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:00:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "one-pot",
+    "technique": "ferment",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beans",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
