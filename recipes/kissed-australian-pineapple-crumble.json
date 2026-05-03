@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Australian Pineapple Crumble",
+  "description": "A cozy sour crumble featuring sweet pineapple, warm ginger, and a crunchy oat‑almond topping, finished with tempered dark chocolate.",
+  "cuisine": "Australian",
+  "diet": [
+    "fodmap-friendly",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fresh pineapple",
+      "amount": "300g"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "freshly grated ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gluten‑free rolled oats",
+      "amount": "70g"
+    },
+    {
+      "name": "ground almonds",
+      "amount": "30g"
+    },
+    {
+      "name": "coconut butter",
+      "amount": "30g"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "15g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C and lightly grease a 20cm square baking dish with coconut oil.",
+    "In a small bowl, toss chopped pineapple with lemon juice, grated ginger, honey, and ground cinnamon until evenly coated.",
+    "Spread the pineapple mixture evenly in the prepared dish and set aside.",
+    "In another bowl, combine rolled oats, ground almonds, and salt, then cut in the coconut butter until the mixture resembles coarse crumbs.",
+    "Sprinkle the oat‑almond crumble over the pineapple layer, pressing lightly to settle.",
+    "Bake in the preheated oven for 20 minutes, or until the top is golden and the pineapple is bubbling.",
+    "While the crumble is baking, melt the dark chocolate chips in a heat‑proof bowl set over a pot of simmering water.",
+    "Once the chocolate is fully melted, remove from heat, stir in a pinch of salt, and allow it to temper for 5 minutes before drizzling.",
+    "Remove the dish from the oven, let it cool for 5 minutes, then drizzle the tempered chocolate over the warm crumble.",
+    "Serve the crumble warm, optionally with a dollop of lactose‑free yogurt or coconut milk."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dessert",
+    "fodmap-friendly",
+    "gluten-free",
+    "one-pan",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "kissed-australian-pineapple-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-australian-pineapple-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:00:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "temper",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Kissed",
+    "dishForm": "Crumble"
+  }
+}
