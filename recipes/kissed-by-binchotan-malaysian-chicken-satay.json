@@ -1,0 +1,103 @@
+{
+  "title": "Kissed By Binchotan Malaysian Chicken Satay",
+  "description": "A delicious and tender Malaysian dish featuring earthy flavors kissed by binchotan charcoal and a twist of frozen mixed berries, suitable for kids.",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "100ml"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "10 pieces"
+    },
+    {
+      "name": "frozen mixed berries",
+      "amount": "100g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "25g"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "10g"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "peanuts",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Soak the bamboo skewers in water for 30 minutes before use.",
+    "Cut the chicken breast into 1-inch cubes and set aside.",
+    "In a blender, blend the coconut milk, soy sauce, brown sugar, coriander powder, cumin powder, and salt until smooth.",
+    "Thread the chicken cubes onto the bamboo skewers, leaving a small space between each piece.",
+    "Preheat the binchotan charcoal grill to medium-high heat.",
+    "Brush the coconut oil onto the chicken skewers and grill for 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, heat the blended coconut milk mixture in a saucepan over low heat.",
+    "Add the frozen mixed berries to the saucepan and stir well.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until the berries have broken down and the sauce has thickened.",
+    "Serve the chicken skewers with the berry sauce and garnish with peanuts."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charcoal-grilled",
+    "high-protein",
+    "kid-friendly",
+    "malaysian-cuisine",
+    "one-pan",
+    "veggie-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "kissed-by-binchotan-malaysian-chicken-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-binchotan-malaysian-chicken-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:16:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "frozen mixed berries",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed By Binchotan",
+    "dishForm": "Satay"
+  }
+}
