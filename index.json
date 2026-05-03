@@ -554,6 +554,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-kenyan-fish-stew",
+    "title": "Kissed Kenyan Fish Stew",
+    "tags": [
+      "kenyan",
+      "lazy-sunday",
+      "one-pot",
+      "pescatarian",
+      "sour",
+      "stew",
+      "weekend"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-saudi-sesame-tagine",
     "title": "Kissed Saudi Sesame Tagine",
     "tags": [

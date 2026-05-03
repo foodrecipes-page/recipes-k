@@ -1,0 +1,120 @@
+{
+  "title": "Kissed Kenyan Fish Stew",
+  "description": "A sour, tender lazy‑Sunday stew with semolina and deglaze, perfect for a pescatarian feast.",
+  "cuisine": "kenyan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tilapia fillets",
+      "amount": "800g"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Fresh ginger, grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh tomatoes, diced",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Fresh coriander, chopped",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion, minced garlic, and grated ginger; sauté until onion is translucent.",
+    "Stir in tomato paste and diced tomatoes, cooking for 5 minutes until the sauce thickens.",
+    "Sprinkle in curry powder, smoked paprika, salt, and pepper; stir for 30 seconds to bloom the spices.",
+    "Pour in vegetable broth and bring to a gentle simmer, letting the flavors meld for 10 minutes.",
+    "Add the fish fillets, cover, and simmer for 8 minutes until the fish is opaque and tender.",
+    "While the fish cooks, whisk semolina with a small amount of cold water to make a smooth slurry.",
+    "Deglaze the pot with lemon juice, then stir in the semolina slurry, stirring constantly to prevent lumps.",
+    "Cook for an additional 2 minutes until the sauce thickens, then garnish with chopped coriander before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "lazy-sunday",
+    "one-pot",
+    "pescatarian",
+    "sour",
+    "stew",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 593,
+    "protein": 56,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "kissed-kenyan-fish-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kenyan-fish-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:50:48Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "semolina",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "fish",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
