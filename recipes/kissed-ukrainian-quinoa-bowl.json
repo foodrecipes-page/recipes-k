@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Ukrainian Quinoa Bowl",
+  "description": "A funky, aerated bowl of fluffy quinoa topped with roasted beetroot, creamy cabbage slaw, and a maple‑kombu glaze, perfect for a high‑protein Ukrainian‑inspired lunch.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Roasted beetroot",
+      "amount": "2 medium",
+      "notes": "about 200g"
+    },
+    {
+      "name": "Shredded red cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Julienne carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa until water runs clear, then combine with water in a saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer quinoa for 15 minutes until liquid is absorbed and grains are fluffy.",
+    "While quinoa cooks, roast beetroot at 400°F for 25 minutes until tender, then cube and set aside.",
+    "In a bowl, mix shredded cabbage, julienne carrot, and fresh dill.",
+    "Whisk olive oil, maple syrup, kombu cold extract, salt, and pepper together to create a glaze.",
+    "When quinoa is done, fluff with a fork and transfer to serving bowls.",
+    "Drizzle the maple‑kombu glaze over the quinoa and arrange roasted beetroot and cabbage slaw on top.",
+    "Serve immediately, optionally garnishing with extra dill.",
+    "Enjoy a light, high‑protein Ukrainian bowl with a modern twist."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "european",
+    "high-protein",
+    "one-bowl",
+    "quick-meal",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 610,
+    "protein": 11,
+    "carbs": 72,
+    "fat": 18
+  },
+  "slug": "kissed-ukrainian-quinoa-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-ukrainian-quinoa-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:24:23Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "maple syrup",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Kissed",
+    "dishForm": "Bowl"
+  }
+}
