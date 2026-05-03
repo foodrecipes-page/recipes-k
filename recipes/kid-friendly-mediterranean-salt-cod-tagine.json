@@ -1,0 +1,115 @@
+{
+  "title": "Kid Friendly Mediterranean Salt Cod Tagine",
+  "description": "A gentle, earthy stew of salt cod and Mediterranean vegetables that is quick to make and safe for kids.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "pescatarian",
+    "fodmap-friendly",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod fillets",
+      "amount": "200g",
+      "notes": "soaked and flaked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "vegetable broth low sodium",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat and sauté diced onion until translucent.",
+    "Add cumin, coriander, cinnamon, and stir until fragrant, about 30 seconds.",
+    "Pour in vegetable broth to deglaze, scraping up any browned bits from the bottom.",
+    "Stir in diced red bell pepper, cherry tomatoes, and simmer for 5 minutes until vegetables soften.",
+    "Gently fold in the flaked salt cod and lemon juice, cooking until the fish is heated through, about 4 minutes.",
+    "Reduce heat to low and cover, letting the flavors meld for 10 minutes.",
+    "Taste and adjust seasoning with a pinch of salt if needed; remember salt cod is already salty.",
+    "Sprinkle chopped parsley over the tagine just before serving.",
+    "Ladle the stew into bowls and serve warm with a side of crusty bread or rice.",
+    "Let the dish cool slightly before serving to ensure the kids can eat safely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "fodmap-friendly",
+    "kid-friendly",
+    "mediterranean",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 23,
+    "carbs": 28,
+    "fat": 12
+  },
+  "slug": "kid-friendly-mediterranean-salt-cod-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-mediterranean-salt-cod-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:40:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "salt cod",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "salt cod",
+    "descriptor": "Kid Friendly",
+    "dishForm": "Tagine"
+  }
+}
