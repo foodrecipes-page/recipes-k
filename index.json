@@ -470,6 +470,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crispy-canadian-goose-bake",
+    "title": "Kissed Crispy Canadian Goose Bake",
+    "tags": [
+      "canadian-cuisine",
+      "goose-fat",
+      "mediterranean-friendly",
+      "one-pot",
+      "potato-recipe",
+      "winter-dish"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-croatian-dried-fruit-wrap",
     "title": "Kissed Croatian Dried Fruit Wrap",
     "tags": [
@@ -613,6 +628,21 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 110,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-canadian-pea-eggplant-stir-fry",
+    "title": "Kissed Smoky Canadian Pea Eggplant Stir Fry",
+    "tags": [
+      "canadian",
+      "low-calorie",
+      "one-pan",
+      "smoky",
+      "stir-fry",
+      "vegetarian"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

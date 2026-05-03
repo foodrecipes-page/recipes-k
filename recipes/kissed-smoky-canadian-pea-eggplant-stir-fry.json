@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Smoky Canadian Pea Eggplant Stir Fry",
+  "description": "A smoky and springy Canadian dish featuring pea-eggplant, this stir-fry is a low-calorie-friendly option for a quick dinner, served in individual mini cocottes. It combines the freshness of peas and eggplant with the richness of smoky flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pea-eggplant",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the diced pea-eggplant and cook until tender, about 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the chopped fresh parsley.",
+    "Divide the mixture among individual mini cocottes.",
+    "Bake in the preheated oven for 10 minutes, or until the flavors are melded together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "canadian",
+    "low-calorie",
+    "one-pan",
+    "smoky",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "kissed-smoky-canadian-pea-eggplant-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-canadian-pea-eggplant-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:53:50Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "stir-fry",
+    "primaryIngredient": "pea-eggplant",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "pea eggplant",
+    "descriptor": "kissed smoky",
+    "dishForm": "Stir-fry"
+  }
+}
