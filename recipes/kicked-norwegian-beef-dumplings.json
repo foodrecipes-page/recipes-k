@@ -1,0 +1,111 @@
+{
+  "title": "Kicked Norwegian Beef Dumplings",
+  "description": "Spicy, creamy dumplings filled with tender chuck roast, served in a rich, velvety sauce that feels like a hug from the North.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chuck roast",
+      "amount": "1.2 kg",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "140 g"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "120 ml"
+    },
+    {
+      "name": "butter",
+      "amount": "30 g",
+      "notes": "softened"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chuck roast cubes with salt and pepper and set aside.",
+    "Heat a large pot over medium heat, melt the butter, and add the diced onion, cooking until translucent.",
+    "Add the minced garlic, paprika, and cayenne pepper, sautéing for 30 seconds until fragrant.",
+    "Increase the heat to high and brown the seasoned roast cubes on all sides, about 5 minutes.",
+    "Pour in 400 ml of water, reduce the heat to low, cover, and simmer the meat for 1 hour until tender.",
+    "In a small bowl, whisk together the flour, egg, and heavy cream to form a thick dough.",
+    "Drop spoonfuls of dough into the simmering broth; cover and let the dumplings steam for 10 minutes, or until they float and are cooked through.",
+    "Reduce the sauce to a creamy consistency, stirring in the remaining heavy cream and adjusting seasoning.",
+    "Serve the dumplings hot, garnished with chopped dill and a drizzle of the thickened sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "creamy",
+    "dumplings",
+    "indulgent",
+    "norwegian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "kicked-norwegian-beef-dumplings",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-norwegian-beef-dumplings",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:02:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "chuck roast",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Kicked",
+    "dishForm": "Dumplings"
+  }
+}
