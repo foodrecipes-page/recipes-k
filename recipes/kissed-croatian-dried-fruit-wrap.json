@@ -1,0 +1,110 @@
+{
+  "title": "Kissed Croatian Dried Fruit Wrap",
+  "description": "A yeasty, shattering Croatian dish featuring dried fruit, leaf wrap steam that is perfect for a snack.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet (2 1/4 teaspoons)"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, 1/2 cup warm water, and 1 tablespoon sugar in a bowl; let sit for 5 minutes.",
+    "Combine flour, salt, and remaining sugar in a large bowl.",
+    "Add yeast mixture, dried fruit, and vegetable oil to flour mixture; mix until a dough forms.",
+    "Knead dough for 10 minutes until smooth and elastic.",
+    "Place dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat a large skillet or griddle over medium heat.",
+    "Divide dough into 4 equal pieces; roll out each piece into a thin circle.",
+    "Brush each dough circle with honey and sprinkle with cinnamon.",
+    "Place a dough circle in the skillet, top with a few pieces of dried fruit, and fold dough over to form a wrap.",
+    "Cook for 2-3 minutes on each side or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 12,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade",
+    "one-pan",
+    "snack",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "kissed-croatian-dried-fruit-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-croatian-dried-fruit-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:21:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dried fruit",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "dried fruit",
+    "descriptor": "kissed",
+    "dishForm": "wrap"
+  }
+}
