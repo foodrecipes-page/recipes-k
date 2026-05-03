@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Greek Monkfish Skewers",
+  "description": "These grilled monkfish skewers are glazed with a jammy honey‑yogurt sauce that turns glassy and glossy. A Greek‑inspired dish that dazzles with its savory sweetness.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "monkfish fillet",
+      "amount": "800g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "skewers",
+      "amount": "wooden or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat at 200C.",
+    "Season monkfish cubes with salt pepper lemon zest oregano and minced garlic.",
+    "Thread seasoned cubes onto soaked wooden skewers.",
+    "Whisk together honey olive oil white wine and Greek yogurt in a small saucepan until smooth.",
+    "Simmer glaze over low heat for 3 minutes until slightly thickened.",
+    "Brush glaze over skewered monkfish.",
+    "Grill skewers for 2-3 minutes per side, brushing with glaze each minute.",
+    "Remove skewers from grill and brush with remaining glaze.",
+    "Serve immediately garnished with fresh oregano leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glassy-jelly",
+    "glazed",
+    "greek",
+    "seafood",
+    "showcase"
+  ],
+  "nutrition": {
+    "calories": 580,
+    "protein": 42,
+    "carbs": 35,
+    "fat": 31
+  },
+  "slug": "kissed-greek-monkfish-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-greek-monkfish-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:15:35Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "glaze",
+    "primaryIngredient": "monkfish",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Monkfish",
+    "descriptor": "Kissed",
+    "dishForm": "Skewers"
+  }
+}

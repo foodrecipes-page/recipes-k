@@ -1,0 +1,117 @@
+{
+  "title": "Kissed French Chicken Tagine",
+  "description": "A quick-fix, high-protein French chicken tagine with coco sugar that delivers a silky, roasted flavor in a single pot.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs, bone-in, skin-on",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "Carrot, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Coco sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Couscous",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Season the chicken thighs with salt, pepper, cumin, coriander and paprika.",
+    "Heat the olive oil in a tagine or Dutch oven over medium-high heat.",
+    "Sear the chicken until browned on all sides, about 4 minutes each side.",
+    "Remove the chicken and set aside.",
+    "Add onion, carrot, and garlic to the pot and sauté until softened, about 5 minutes.",
+    "Stir in tomato paste, coco sugar and the remaining spices until fragrant, 1 minute.",
+    "Return the chicken to the pot, pour in chicken broth, bring to a simmer, cover, and bake for 20 minutes.",
+    "Meanwhile, rinse the couscous and steam it in a separate pot for 5 minutes; fluff with a fork.",
+    "Serve the chicken over couscous, garnish with parsley, and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "high-protein",
+    "one-pot",
+    "quick-fix",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kissed-french-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-french-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:15:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "silky",
+    "mood": "quick-fix",
+    "technique": "tagine-cook",
+    "primaryIngredient": "coco sugar",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}

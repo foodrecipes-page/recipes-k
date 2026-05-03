@@ -454,6 +454,34 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-french-chicken-tagine",
+    "title": "Kissed French Chicken Tagine",
+    "tags": [
+      "french",
+      "high-protein",
+      "one-pot",
+      "quick-fix",
+      "tagine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-greek-monkfish-skewers",
+    "title": "Kissed Greek Monkfish Skewers",
+    "tags": [
+      "glassy-jelly",
+      "glazed",
+      "greek",
+      "seafood",
+      "showcase"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-shandong-fish-bao",
     "title": "Kissed Shandong Fish Bao",
     "tags": [
