@@ -1,0 +1,116 @@
+{
+  "title": "Kissed British Chicken Curry",
+  "description": "A gentle, sweet‑tender chicken curry with a silky sauce, finished with a bright sweet chili glaze and aromatic tadka, perfect for a romantic, sugar‑free evening.",
+  "cuisine": "British",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "500g chicken breast",
+      "amount": "500g",
+      "notes": "diced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "sifted"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "garlic‑ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "sugar‑free"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "2 tbsp",
+      "notes": "sugar‑free"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 tbsp",
+      "notes": "fresh chopped"
+    },
+    {
+      "name": "lime",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "oil for tadka",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tadka seeds",
+      "amount": "1 tsp",
+      "notes": "1 tsp cumin + 1 tsp mustard + pinch red chili flakes"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat until melted and slightly browned.",
+    "Add finely sliced onion and sauté until translucent and fragrant.",
+    "Stir in garlic‑ginger paste and cook for 1 minute until aromatic.",
+    "Add diced chicken and cook until browned on all sides, about 5 minutes.",
+    "Mix in yogurt, coconut milk, sweet chili sauce, and garam masala, then bring to a gentle simmer.",
+    "Cover and let the curry steam for 15 minutes, allowing the chicken to become tender.",
+    "While the curry simmers, prepare the tadka: heat oil in a small skillet, add cumin and mustard seeds until they pop, then pour over the simmering curry.",
+    "Stir in lime juice, adjust salt to taste, and sprinkle chopped cilantro.",
+    "Reduce heat and let the sauce thicken, stirring occasionally, for an additional 5 minutes.",
+    "Serve hot over steamed rice or flatbread, garnishing with extra cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "one-pan",
+    "romantic",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "kissed-british-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-british-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:48:20Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "tadka",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}
