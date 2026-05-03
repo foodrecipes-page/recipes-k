@@ -484,6 +484,37 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-spanish-cheese-ceviche",
+    "title": "Kissed Spanish Cheese Ceviche",
+    "tags": [
+      "lacto-vegetarian",
+      "salty",
+      "shaggy",
+      "solo-dinner",
+      "sous-vide",
+      "spanish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 75,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tender-russian-beef-roast",
+    "title": "Kissed, Tender Russian Beef Roast",
+    "tags": [
+      "beef-roast",
+      "dinner-ideas",
+      "fodmap-friendly",
+      "gluten-free",
+      "hangover-cure",
+      "russian",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-thai-coconut-curry",
     "title": "Kissed Thai Coconut Curry",
     "tags": [

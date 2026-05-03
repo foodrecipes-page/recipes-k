@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Spanish Cheese Ceviche",
+  "description": "A salty and shaggy solo dinner that turns Spanish cheese into a bright, tangy ceviche with malt vinegar and sous-vide. The dish is lacto-vegetarian friendly and perfect for a quick yet indulgent meal.",
+  "cuisine": "Spanish",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "100g",
+      "notes": "pre-shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Malt vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Romaine lettuce",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "4",
+      "notes": "halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/4 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Place the shredded Manchego cheese into a vacuum bag with salt and pepper, seal it, and preheat the sous-vide water bath to 60 degrees Celsius.",
+    "Cook the sealed bag in the water bath for 45 minutes at 60 degrees Celsius.",
+    "Remove the bag, open it carefully, and let the cheese cool for 5 minutes.",
+    "Meanwhile, in a bowl, whisk together the malt vinegar, lemon juice, and olive oil until emulsified.",
+    "Add the chilled cheese to the bowl, and gently fold until coated with the vinaigrette.",
+    "Fold in the shredded lettuce, halved cherry tomatoes, thinly sliced onion, and chopped cilantro.",
+    "Taste and adjust seasoning with additional salt or pepper if desired.",
+    "Transfer the mixture onto a plate and serve immediately as a bright, tangy Spanish cheese ceviche."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "lacto-vegetarian",
+    "salty",
+    "shaggy",
+    "solo-dinner",
+    "sous-vide",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 27,
+    "carbs": 12,
+    "fat": 44
+  },
+  "slug": "kissed-spanish-cheese-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spanish-cheese-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:13:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "sous-vide",
+    "primaryIngredient": "malt vinegar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "cheese",
+    "descriptor": "Kissed",
+    "dishForm": "Ceviche"
+  }
+}

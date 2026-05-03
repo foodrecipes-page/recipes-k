@@ -1,0 +1,117 @@
+{
+  "title": "Kissed, Tender Russian Beef Roast",
+  "description": "A classic Russian dish featuring a tender beef roast kissed with clear honey, perfect for a hangover cure or a hearty dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast (2.5 kg)",
+      "amount": "1",
+      "notes": "chuck or round work well"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tbsp",
+      "notes": "kosher, not table salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "apple cider vinegar works too"
+    },
+    {
+      "name": "clear honey",
+      "amount": "2 tbsp",
+      "notes": "don't use regular honey"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": "about 1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the beef roast with salt, black pepper, and caraway seeds (if using).",
+    "Heat a large Dutch oven over medium-high heat and sear the beef roast until browned on all sides.",
+    "Remove the roast from the pot and set it aside. Add the minced garlic and cook for 1 minute.",
+    "Add the chopped onion to the pot and cook until it's softened and lightly browned.",
+    "Add the red wine vinegar, beef broth, and bay leaves to the pot. Stir to combine.",
+    "Return the beef roast to the pot and bring the mixture to a simmer.",
+    "Transfer the pot to the preheated oven and cook for 2.5 hours, or until the roast is tender.",
+    "Remove the pot from the oven and let the roast rest for 15 minutes.",
+    "Brush the clear honey over the roast and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "beef-roast",
+    "dinner-ideas",
+    "fodmap-friendly",
+    "gluten-free",
+    "hangover-cure",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 73,
+    "carbs": 0,
+    "fat": 26
+  },
+  "slug": "kissed-tender-russian-beef-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-russian-beef-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:12:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "roast",
+    "primaryIngredient": "clear honey",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed, Tender",
+    "dishForm": "Roast"
+  }
+}
