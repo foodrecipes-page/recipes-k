@@ -1,0 +1,118 @@
+{
+  "title": "Kissed Tunisian Grape Nut Roast",
+  "description": "A savory, fluffy, gluten‑free roast made with Grape Nuts, chickpeas, zucchini and Tunisian spices, perfect for a date‑night dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Grape Nuts",
+      "amount": "2 cups",
+      "notes": "gluten‑free cereal"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for binding"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tbsp",
+      "notes": "adjust for spice level"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large bowl, combine Grape Nuts, chickpeas, zucchini, carrot, parsley and cilantro.",
+    "Add olive oil, harissa paste, cumin, coriander, salt and pepper to the bowl and mix until the mixture is evenly coated.",
+    "Press the mixture firmly into a greased 9x5-inch loaf pan, smoothing the top with a spatula.",
+    "Bake in the preheated oven for 35 to 40 minutes until the top is golden brown and the loaf is firm to the touch.",
+    "Remove the roast from the oven and let it rest in the pan for 10 minutes before slicing.",
+    "Slice the loaf into 8 pieces and serve warm, drizzled with a little extra olive oil and a squeeze of fresh lemon juice. ",
+    "Enjoy this fragrant, nutty Tunisian roast as a romantic dinner centerpiece."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "nut-roast",
+    "one-pan",
+    "savory",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 6,
+    "carbs": 33,
+    "fat": 5
+  },
+  "slug": "kissed-tunisian-grape-nut-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tunisian-grape-nut-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:51:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "date-night",
+    "technique": "roast",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "grape nut",
+    "descriptor": "Kissed",
+    "dishForm": "Roast"
+  }
+}

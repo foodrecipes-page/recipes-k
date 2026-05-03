@@ -363,6 +363,37 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-silky-russian-lamb-stew",
+    "title": "Kissed Silky Russian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "lamb-dish",
+      "low-sodium",
+      "monsoon-recipe",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 110,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tunisian-grape-nut-roast",
+    "title": "Kissed Tunisian Grape Nut Roast",
+    "tags": [
+      "date-night",
+      "gluten-free",
+      "nut-roast",
+      "one-pan",
+      "savory",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-turkish-cannellini-bean-stew",
     "title": "Kissed Turkish Cannellini Bean Stew",
     "tags": [
