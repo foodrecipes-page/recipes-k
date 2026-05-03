@@ -485,6 +485,17 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-fluffy-spanish-beans-stew",
+    "title": "Kissed Fluffy Spanish Beans Stew",
+    "tags": [
+      "spanish",
+      "dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-french-chicken-tagine",
     "title": "Kissed French Chicken Tagine",
     "tags": [
