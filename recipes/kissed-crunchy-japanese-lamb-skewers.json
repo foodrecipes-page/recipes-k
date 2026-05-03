@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Crunchy Japanese Lamb Skewers",
+  "description": "Sweet and crunchy Japanese dish featuring lamb mince, perfect for a brunch mood, made in individual mini cocottes and cooked to perfection in a tandoor, following ayurvedic sattvic friendly principles",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "In a large bowl, mix together lamb mince, soy sauce, honey, rice vinegar, sesame oil, ginger, and garlic until just combined",
+    "Thread small amounts of the lamb mixture onto skewers, leaving a small space between each piece",
+    "Roll each skewer in panko breadcrumbs to coat, then sprinkle with sesame seeds",
+    "Place the skewers in individual mini cocottes and cook in the tandoor for 12 minutes",
+    "Remove the skewers from the tandoor and let rest for 2 minutes",
+    "Serve the skewers hot, garnished with additional sesame seeds and scallions if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "dairy-free",
+    "gluten-free",
+    "japanese-inspired",
+    "lamb-recipes",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-crunchy-japanese-lamb-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-japanese-lamb-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:55:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "tandoor",
+    "primaryIngredient": "lamb mince",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed crunchy",
+    "dishForm": "Skewers"
+  }
+}
