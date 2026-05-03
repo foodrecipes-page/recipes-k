@@ -1,0 +1,108 @@
+{
+  "title": "Kicked Lebanese Kiwifruit Skewers",
+  "description": "Spicy, crispy skewers that combine tart kiwifruit with a zesty Lebanese-inspired glaze for a single-diner hit.",
+  "cuisine": "Lebanese",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kiwifruit",
+      "amount": "8 medium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use low-fat olive oil"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh mint, chopped",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional for sweetness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "use sea salt"
+    },
+    {
+      "name": "Skewers",
+      "amount": "8 wooden or metal",
+      "notes": "soak wooden skewers 30 min"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 190°C (375°F) and line a baking sheet with parchment paper.",
+    "Slice the kiwifruit into 1/2-inch thick rounds, then cut each round into three equal wedges.",
+    "In a bowl, whisk together olive oil, lemon juice, smoked paprika, cayenne, cumin, mint, garlic, honey, and a pinch of salt.",
+    "Thread three kiwifruit wedges onto each skewer, leaving a small gap between wedges.",
+    "Brush the skewers generously with the spice mixture.",
+    "Arrange the skewers on the prepared baking sheet and bake for 12 to 15 minutes, flipping halfway, until the edges become crisp.",
+    "Remove from the oven, let rest two minutes, then drizzle with a light squeeze of fresh lemon juice.",
+    "Serve hot, optionally garnished with extra chopped mint or a sprinkle of smoked paprika."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "low-fat",
+    "middle-eastern",
+    "quick",
+    "skewers",
+    "spicy",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 1,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "kicked-lebanese-kiwifruit-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-lebanese-kiwifruit-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:09:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "blanch",
+    "primaryIngredient": "kiwifruit",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Lebanese",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Kicked",
+    "dishForm": "Skewers"
+  }
+}
