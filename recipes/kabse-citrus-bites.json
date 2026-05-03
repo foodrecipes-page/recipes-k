@@ -41,7 +41,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
     "In a large bowl, combine flour and melted butter. Mix well.",
     "Add honey syrup, saffron threads, orange zest, lemon juice, and beaten egg white. Stir until the mixture forms a dough.",
     "Divide the dough into 12 equal portions. Roll each portion into balls and flatten slightly with your hands or a rolling pin.",
@@ -62,7 +62,7 @@
   ],
   "nutrition": {
     "calories": 130,
-    "protein": 2.5,
+    "protein": 2,
     "carbs": 16,
     "fat": 7
   },

@@ -35,7 +35,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (200°C).",
+    "Preheat oven to 400\u00b0F (200\u00b0C).",
     "In a large bowl, mix kabanos sausages, olive oil, minced garlic, and sliced peppers. Toss until well combined.",
     "Transfer the mixture onto a baking sheet lined with parchment paper or aluminum foil for easy cleanup.",
     "Drizzle with additional olive oil if desired to enhance flavor.",
@@ -55,8 +55,8 @@
   ],
   "nutrition": {
     "calories": 296,
-    "protein": 15.8,
-    "carbs": 7.4,
+    "protein": 16,
+    "carbs": 7,
     "fat": 13
   },
   "slug": "kabanos-sparkle",

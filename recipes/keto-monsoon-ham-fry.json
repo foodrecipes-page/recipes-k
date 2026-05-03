@@ -1,7 +1,7 @@
 {
   "title": "Keto Monsoon Ham Fry",
-  "description": "A salty and flaky keto-friendly dish featuring Parma ham seasoned with classic monsoon Mexican (norteño) spices for a savory breakfast or snack.",
-  "cuisine": "Mexican (Norteño)",
+  "description": "A salty and flaky keto-friendly dish featuring Parma ham seasoned with classic monsoon Mexican (norteno) spices for a savory breakfast or snack.",
+  "cuisine": "Mexican (Norteno)",
   "diet": [
     "keto"
   ],
@@ -37,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 400°F (205°C).",
+    "Preheat your oven to 400\u00b0F (205\u00b0C).",
     "Trim any excess fat from the Parma Ham and pat it dry with a paper towel.",
     "Season both sides of the ham generously with Kosher Salt, Pepper, Garlic Powder, Cumin, Red Pepper Flakes, and Olive Oil.",
     "Place the seasoned ham on a wire rack in a shallow baking dish to catch any drippings. Ensure there is at least 1/2 inch of space between each piece for even cooking.",
@@ -72,6 +72,6 @@
     "technique": "boil",
     "primaryIngredient": "parma ham",
     "diet": "keto",
-    "region": "norteño"
+    "region": "norte\u00f1o"
   }
 }

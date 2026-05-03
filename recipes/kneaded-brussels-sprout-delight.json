@@ -50,9 +50,9 @@
     "Garnish with thinly sliced lemons.",
     "prepTimeMin"
   ],
-  "cookTimeMin": "15",
-  "totalTimeMin": "20",
-  "servings": "4",
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
   "difficulty": "easy",
   "tags": [
     "brussels-sprouts",
@@ -78,5 +78,6 @@
     "primaryIngredient": "brussels sprouts",
     "diet": "vegetarian",
     "region": null
-  }
+  },
+  "prepTimeMin": 15
 }

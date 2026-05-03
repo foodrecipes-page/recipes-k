@@ -33,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 200°C (400°F).",
+    "Preheat oven to 200\u00b0C (400\u00b0F).",
     "Mix all purpose flour and coconut flakes in a bowl.",
     "Cut the ripe banana into thin slices, place on a baking sheet lined with parchment paper.",
     "Drizzle with honey or stevia and lightly sprinkle with ground cinnamon. Bake for about 15 minutes or until golden brown.",
@@ -54,8 +54,8 @@
   ],
   "nutrition": {
     "calories": 618,
-    "protein": 23.7,
-    "carbs": 59.8,
+    "protein": 24,
+    "carbs": 60,
     "fat": 40
   },
   "slug": "keto-friendly-bhuna-flaky-banana-crumble",

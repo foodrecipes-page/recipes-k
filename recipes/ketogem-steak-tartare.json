@@ -39,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat grill to high heat (around 220°C or 425°F).",
+    "Preheat grill to high heat (around 220\u00b0C or 425\u00b0F).",
     "Season the filet mignon with Ketosis Seasoning Mix, salt, and pepper on both sides.",
     "Gently place the seasoned steak on the preheated grill. Cook for approximately 1 minute per side until a golden crust forms, ensuring not to overcook.",
     "Drizzle top with avocado oil during the last 30 seconds of grilling time to add an extra burst of flavor and crispiness.",
@@ -59,8 +59,8 @@
   ],
   "nutrition": {
     "calories": 40,
-    "protein": 6.5,
-    "carbs": 4.9,
+    "protein": 6,
+    "carbs": 5,
     "fat": 13
   },
   "slug": "ketogem-steak-tartare",

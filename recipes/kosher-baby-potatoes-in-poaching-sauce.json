@@ -3,7 +3,7 @@
   "description": "A fresh and romantic Filipino dish featuring tender baby new potatoes served with a rich poaching sauce.",
   "cuisine": "Filipino",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "1 lb (450g) baby new potatoes",
@@ -41,9 +41,9 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400°F (205°C).",
+    "Preheat oven to 400\u00b0F (205\u00b0C).",
     "Rinse baby new potatoes under cold running water, then pat dry with paper towels.",
-    "In a large skillet, heat olive oil over medium-high heat. Add garlic and sauté for about 30 seconds until fragrant but not browned.",
+    "In a large skillet, heat olive oil over medium-high heat. Add garlic and saut\u00e9 for about 30 seconds until fragrant but not browned.",
     "Add broth, salt, black pepper, and lemon juice to the skillet; stir well to combine. Bring mixture to a simmer.",
     "Gently add baby new potatoes into the skillet, ensuring they are evenly coated with the sauce. Reduce heat to low and cover pan.",
     "Bake in preheated oven for 12-15 minutes or until potatoes are tender when pierced with a fork but still have some texture.",
@@ -56,9 +56,9 @@
   "difficulty": "easy",
   "tags": [
     "kosher",
-    "baby_potatoes",
-    "poaching_sauce",
-    "filipino_appetizer"
+    "baby-potatoes",
+    "poaching-sauce",
+    "filipino-appetizer"
   ],
   "nutrition": {
     "calories": 175,
