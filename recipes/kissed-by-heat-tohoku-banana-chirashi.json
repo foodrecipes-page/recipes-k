@@ -1,0 +1,53 @@
+{
+  "title": "Kissed by Heat Tohoku Banana Chirashi",
+  "description": "A soothing Japanese dish featuring banana, lardons-render, and a blend of herbs, perfect for a sick day or a relaxing morning.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups uncooked",
+      "notes": "short-grain Japanese rice"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a tava griddle over medium heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "mediterranean-friendly",
+    "one-pan",
+    "tohoku",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 18
+  },
+  "slug": "kissed-by-heat-tohoku-banana-chirashi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-heat-tohoku-banana-chirashi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:31:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "lardons-render",
+    "primaryIngredient": "banana",
+    "diet": "mediterranean",
+    "region": "tohoku",
+    "cuisineAdjective": "Tohoku",
+    "mainIngredient": "Banana",
+    "descriptor": "Kissed by Heat",
+    "dishForm": "Chirashi"
+  }
+}
