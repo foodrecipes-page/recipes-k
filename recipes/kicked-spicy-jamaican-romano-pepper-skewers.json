@@ -1,0 +1,97 @@
+{
+  "title": "Kicked Spicy Jamaican Romano Pepper Skewers",
+  "description": "A jammy, snappy, festive Jamaican dish featuring Romano pepper and ferment-kimchi, perfect for a gluten-free friendly meal. This dish is full of flavor and spice.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Romano peppers",
+      "amount": "4 large",
+      "notes": "any color"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "Cut the Romano peppers into 1-inch pieces and thread onto skewers.",
+    "In a blender, combine coconut milk, ferment-kimchi, scotch bonnet peppers, olive oil, lime juice, salt, black pepper, and garlic, and blend until smooth.",
+    "Brush the skewers with the kimchi mixture.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with fresh cilantro.",
+    "Let the skewers rest for 2 minutes before serving.",
+    "Serve with additional kimchi sauce on the side, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "gluten-free",
+    "grilled-vegetables",
+    "jamaican-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kicked-spicy-jamaican-romano-pepper-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-jamaican-romano-pepper-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:16:30Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "romano pepper",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "romano pepper",
+    "descriptor": "kicked spicy",
+    "dishForm": "Skewers"
+  }
+}
