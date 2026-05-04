@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Greek Cabbage Avgolemono Soup",
+  "description": "A fermented, snappy, energizing Greek soup that blends crisp cabbage with a creamy lemon custard, all vegan-friendly and bursting with bright flavors.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Green cabbage, shredded",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth, low sodium",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic clove, minced",
+      "amount": "1"
+    },
+    {
+      "name": "Lemon juice, fresh",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chickpea flour",
+      "amount": "2 tbsp",
+      "notes": "used as vegan custard thickener"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and minced garlic, sauté until translucent, about 3 minutes.",
+    "Stir in the shredded cabbage and sauerkraut, cooking until the cabbage softens, 5 minutes.",
+    "Pour in the vegetable broth and bring the mixture to a gentle boil.",
+    "Reduce the heat and let the soup simmer for 10 minutes to meld flavors.",
+    "In a small bowl, whisk together the chickpea flour and lemon juice until smooth, forming a slurry.",
+    "Gradually pour the slurry into the simmering soup while stirring constantly to prevent lumps.",
+    "Keep the soup at a low simmer for an additional 5 minutes, allowing it to thicken.",
+    "Remove the pot from heat, then stir in the lemon zest, salt, and black pepper to taste.",
+    "Serve hot, garnished with a swirl of fresh lemon juice for extra brightness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fermented",
+    "low-carb",
+    "mediterranean",
+    "quick",
+    "soup",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 22,
+    "fat": 5
+  },
+  "slug": "kissed-greek-cabbage-avgolemono-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-greek-cabbage-avgolemono-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:41:23Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cabbage",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cabbage",
+    "descriptor": "Kissed",
+    "dishForm": "Avgolemono Soup"
+  }
+}
