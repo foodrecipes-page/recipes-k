@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Japanese Savoury Leaves Dorayaki",
+  "description": "A nutty, aerated dorayaki that blends puffed rice, protein powder, and char‑grilled summer savoury leaves for a high‑protein, one‑pot lunch.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Puffed rice cereal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Unflavored protein powder",
+      "amount": "1 scoop (30g)",
+      "notes": "Use a neutral flavor"
+    },
+    {
+      "name": "Dried summer savoury leaves",
+      "amount": "2 tbsp",
+      "notes": "Rehydrate in warm water for 5 min, then squeeze dry"
+    },
+    {
+      "name": "Char‑grill‑yang sauce",
+      "amount": "3 tbsp",
+      "notes": "Char‑grilled soy glaze"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Gluten‑free flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tbsp",
+      "notes": "Optional, for slight sweetness"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1 stalk, minced",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet on the Lazy Susan spinner over medium heat and lightly coat with vegetable oil.",
+    "Whisk the eggs, protein powder, gluten‑free flour, salt, and sugar in a bowl until smooth.",
+    "Stir in the puffed rice cereal and char‑grill‑yang sauce until the mixture is evenly combined.",
+    "Fold in the rehydrated summer savoury leaves until evenly distributed.",
+    "Pour about 1/4 cup of batter onto the skillet, spreading it into a circle about 4 inches in diameter.",
+    "Cook for 3–4 minutes until the edges lift, then flip carefully and cook the other side for another 3 minutes.",
+    "Repeat with remaining batter, allowing the skillet to heat between batches.",
+    "Transfer cooked dorayakis to a plate, garnish with minced green onion, and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-based",
+    "high-protein",
+    "kanto",
+    "lazy-susan",
+    "one-pot",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 11,
+    "carbs": 21,
+    "fat": 8
+  },
+  "slug": "kissed-japanese-savoury-leaves-dorayaki",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-japanese-savoury-leaves-dorayaki",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:07:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "high-protein",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Savoury Leaves",
+    "descriptor": "Kissed",
+    "dishForm": "Dorayaki"
+  }
+}

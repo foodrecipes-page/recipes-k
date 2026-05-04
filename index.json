@@ -1088,6 +1088,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-dense-mexican-flour-tamales",
+    "title": "Kissed Dense Mexican Flour Tamales",
+    "tags": [
+      "crowd-pleaser",
+      "dense",
+      "family-friendly",
+      "low-calorie",
+      "mexican",
+      "winey"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 80,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-dense-thai-beef-curry",
     "title": "Kissed Dense Thai Beef Curry",
     "tags": [
@@ -1536,6 +1551,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-japanese-savoury-leaves-dorayaki",
+    "title": "Kissed Japanese Savoury Leaves Dorayaki",
+    "tags": [
+      "egg-based",
+      "high-protein",
+      "kanto",
+      "lazy-susan",
+      "one-pot",
+      "quick"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {

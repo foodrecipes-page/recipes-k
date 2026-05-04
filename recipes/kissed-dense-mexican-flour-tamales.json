@@ -1,0 +1,110 @@
+{
+  "title": "Kissed Dense Mexican Flour Tamales",
+  "description": "Wine infused, dense tamales made with white flour and a low‑calorie turkey filling.",
+  "cuisine": "Mexican",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "200 g"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "corn husks",
+      "amount": "12"
+    },
+    {
+      "name": "water for soaking husks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Soak corn husks in warm water for 30 minutes.",
+    "Whisk flour, baking powder, and salt in a bowl.",
+    "Add olive oil and 1 cup water to flour mixture and stir until dough forms.",
+    "Marinate ground turkey with 1 cup wine, cumin, oregano, chili powder, and salt for 10 minutes.",
+    "Spread 2 tbsp of dough onto center of each husk and flatten slightly.",
+    "Place 2 tbsp of marinated turkey mixture on top of dough in husk.",
+    "Fold husk over filling and seal edges by tucking in excess husk.",
+    "Arrange wrapped tamales upright in a steamer basket.",
+    "Steam tamales for 60 minutes, keeping water level just below basket.",
+    "Remove tamales and let cool 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dense",
+    "family-friendly",
+    "low-calorie",
+    "mexican",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 18,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "kissed-dense-mexican-flour-tamales",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dense-mexican-flour-tamales",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:07:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "white flour",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Flour",
+    "descriptor": "Kissed Dense",
+    "dishForm": "Tamales"
+  }
+}
