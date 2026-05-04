@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Tender Ethiopian Oyster Skewers",
+  "description": "Tender oysters marinated in a rich Ethiopian wine and spice blend, served on toasted double-rise bread for a romantic date-night dinner.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "12 large",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together red wine, berbere spice, garlic, salt, and black pepper.",
+    "Add the oysters to the marinade and refrigerate for at least 30 minutes.",
+    "Thread the marinated oysters onto skewers, leaving a small space between each oyster.",
+    "Brush the double-rise bread cubes with olive oil and toast until lightly browned.",
+    "Grill the oyster skewers for 2-3 minutes per side, or until cooked through.",
+    "Serve the grilled oysters on top of the toasted bread cubes.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "ethiopian-cuisine",
+    "grilled-seafood",
+    "romantic-dinner",
+    "special-occasion",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 18
+  },
+  "slug": "kissed-tender-ethiopian-oyster-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-ethiopian-oyster-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:29:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "oysters",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "oysters",
+    "descriptor": "kissed tender",
+    "dishForm": "Skewers"
+  }
+}
