@@ -716,6 +716,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-buttery-french-cherry-gratin",
+    "title": "Kissed Buttery French Cherry Gratin",
+    "tags": [
+      "buttery-sauce",
+      "cherry-gratin",
+      "french-dessert",
+      "special-occasion",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-by-binchotan-malaysian-chicken-satay",
     "title": "Kissed By Binchotan Malaysian Chicken Satay",
     "tags": [
@@ -1026,6 +1040,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-filipino-beef-dinuguan",
+    "title": "Kissed Filipino Beef Dinuguan",
+    "tags": [
+      "beef-dinuguan",
+      "comfort-food",
+      "meaty",
+      "rice-friendly",
+      "salt-and-vinegar",
+      "summer"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 85,
     "shard": "k"
   },
   {

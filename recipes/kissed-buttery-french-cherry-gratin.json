@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Buttery French Cherry Gratin",
+  "description": "A rich and indulgent French dessert featuring caramelized cherries in a buttery sauce, perfect for special occasions. This dish is carefully crafted to avoid onions and garlic.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "cherries",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and add the cherries, cooking until they release their juice and start to caramelize.",
+    "In a small bowl, whisk together the flour, sugar, and salt, then add the mixture to the skillet and cook for 1 minute.",
+    "Gradually stir in the heavy cream and bring the mixture to a simmer, cooking until it thickens.",
+    "In a separate bowl, whisk together the egg yolks and vanilla extract, then temper the mixture by slowly pouring the warm cream mixture into the egg yolks.",
+    "Pour the mixture into a 6-inch baking dish and smooth the top.",
+    "Place the dish under the broiler and cook until the top is golden brown and caramelized.",
+    "Remove the dish from the oven and let it cool slightly before serving.",
+    "Serve the gratin warm, garnished with additional cherries if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-sauce",
+    "cherry-gratin",
+    "french-dessert",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "kissed-buttery-french-cherry-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-buttery-french-cherry-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:36:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "cherries",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cherries",
+    "descriptor": "kissed buttery",
+    "dishForm": "Gratin"
+  }
+}

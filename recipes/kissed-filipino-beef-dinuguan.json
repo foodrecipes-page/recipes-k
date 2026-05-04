@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Filipino Beef Dinuguan",
+  "description": "A cultured, monsoon‑inspired Filipino beef dinuguan that balances rich beef stock, tangy vinegar, and silky blood for a comforting braise.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shank",
+      "amount": "600 g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "beef blood",
+      "amount": "200 ml"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "200 ml"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat and add a splash of oil.",
+    "Sauté minced garlic and sliced onion until fragrant and translucent.",
+    "Add the beef cubes and sear until browned on all sides.",
+    "Pour in vinegar, water, and soy sauce, stirring to combine.",
+    "Add bay leaves and peppercorns, then bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 60 minutes until the beef is tender.",
+    "Slowly pour in the beef blood in a thin stream while stirring constantly to prevent curdling.",
+    "Season with salt and sugar, stirring until fully incorporated.",
+    "Simmer uncovered for 10 minutes to thicken the sauce.",
+    "Remove bay leaves, taste, and adjust seasoning if needed before serving hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-dinuguan",
+    "comfort-food",
+    "meaty",
+    "rice-friendly",
+    "salt-and-vinegar",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 29,
+    "carbs": 2,
+    "fat": 9
+  },
+  "slug": "kissed-filipino-beef-dinuguan",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-filipino-beef-dinuguan",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:37:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shaggy",
+    "mood": "monsoon",
+    "technique": "braise",
+    "primaryIngredient": "beef stock",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Beef",
+    "descriptor": "Kissed",
+    "dishForm": "Dinuguan"
+  }
+}
