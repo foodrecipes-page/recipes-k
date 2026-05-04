@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Yeasty Spanish Yogurt Crema Catalana",
+  "description": "A creamy and yeasty post-workout Spanish dish featuring ssamjang, this Crema Catalana is a low-sodium friendly dessert, with a brine-wet twist.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "ssamjang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small bowl, whisk together the yeast and brine.",
+    "In a large bowl, whisk together the yogurt, ssamjang, lemon juice, and honey.",
+    "Add the yeast mixture to the yogurt mixture and whisk until combined.",
+    "In a separate bowl, whisk together the eggs and vanilla extract.",
+    "Add the egg mixture to the yogurt mixture and whisk until smooth.",
+    "Pour the mixture into 4 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25 minutes or until set.",
+    "Remove from the oven and let cool to room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brine-wet",
+    "crema-catalana",
+    "low-sodium",
+    "post-workout",
+    "spanish-dessert",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-yeasty-spanish-yogurt-crema-catalana",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-spanish-yogurt-crema-catalana",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:47:10Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "ssamjang",
+    "diet": "low-sodium",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "yogurt",
+    "descriptor": "Kissed Yeasty",
+    "dishForm": "Crema Catalana"
+  }
+}
