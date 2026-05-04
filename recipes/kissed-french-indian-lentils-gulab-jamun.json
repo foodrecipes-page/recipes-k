@@ -1,0 +1,112 @@
+{
+  "title": "Kissed French Indian Lentils Gulab Jamun",
+  "description": "A briny, velvety lentil dessert that blends French lentils with Indian spices, steamed to perfection in bamboo and soaked in a fragrant syrup.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French lentils",
+      "amount": "100 g",
+      "notes": "dry"
+    },
+    {
+      "name": "Water (cooking)",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Almond milk",
+      "amount": "200 ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5 g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 g",
+      "notes": "fine"
+    },
+    {
+      "name": "Ground turmeric",
+      "amount": "1 g"
+    },
+    {
+      "name": "Ground ginger",
+      "amount": "1 g"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "0.5 g"
+    },
+    {
+      "name": "Cardamom powder",
+      "amount": "0.5 g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "150 g"
+    },
+    {
+      "name": "Water (syrup)",
+      "amount": "100 ml"
+    }
+  ],
+  "instructions": [
+    "Rinse 100 g French lentils until water runs clear.",
+    "Cook lentils in 200 ml water until soft, about 15 minutes, then drain excess moisture.",
+    "Mash cooked lentils with a fork or blender to a smooth paste, adding almond milk gradually to reach a thick consistency.",
+    "Stir in 50 g flour, 5 g baking powder, 1 g salt, 1 g turmeric, 1 g ginger, 0.5 g cinnamon, and 0.5 g cardamom until a cohesive dough forms.",
+    "Let the dough rest for 10 minutes to allow the flour to absorb moisture.",
+    "Shape the dough into 12 small round balls, smoothing the surface.",
+    "Place the balls in a preheated bamboo steamer lined with parchment, and steam for 20 minutes over simmering water.",
+    "While steaming, prepare syrup by heating 150 g sugar, 100 ml water, and 5 ml lemon juice in a saucepan until sugar dissolves.",
+    "Add 1/4 tsp cardamom powder to the syrup and simmer gently for 5 minutes.",
+    "Once the lentil balls are steamed, transfer them immediately into the warm syrup and let soak for 10 minutes.",
+    "Remove the balls from the syrup and serve warm, garnished with fresh mint leaves if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 45,
+  "totalTimeMin": 70,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "bamboo-steamer",
+    "dessert",
+    "french-lentils",
+    "lentil-dish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 102,
+    "protein": 3,
+    "carbs": 22,
+    "fat": 1
+  },
+  "slug": "kissed-french-indian-lentils-gulab-jamun",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-french-indian-lentils-gulab-jamun",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:12:14Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "salt-bake",
+    "primaryIngredient": "french lentils",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Kissed French",
+    "dishForm": "Gulab Jamun"
+  }
+}

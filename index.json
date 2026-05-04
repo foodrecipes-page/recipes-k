@@ -720,6 +720,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-french-indian-lentils-gulab-jamun",
+    "title": "Kissed French Indian Lentils Gulab Jamun",
+    "tags": [
+      "anti-inflammatory",
+      "bamboo-steamer",
+      "dessert",
+      "french-lentils",
+      "lentil-dish",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-german-minari-skewers",
     "title": "Kissed German Minari Skewers",
     "tags": [
@@ -746,6 +761,21 @@
     ],
     "cuisine": "Greek",
     "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-herbal-french-rice-souffle",
+    "title": "Kissed Herbal French Rice Souffle",
+    "tags": [
+      "french",
+      "herbal",
+      "low-glycemic",
+      "one-pot",
+      "puff-pastry",
+      "souffle"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 43,
     "shard": "k"
   },
   {

@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Herbal French Rice Souffle",
+  "description": "A fragrant, low-glycemic one-pot souffle with puff pastry topping, blending carnaroli rice and delicate herbs for a gooey finish.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carnaroli rice",
+      "amount": "200g"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh rosemary stems",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried lavender",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "30g"
+    },
+    {
+      "name": "puff pastry sheet",
+      "amount": "100g"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking dish with parchment paper.",
+    "In a saucepan, heat vegetable broth with thyme, rosemary, and lavender until it simmers, then set aside.",
+    "In a heavy-bottomed pot, melt butter with olive oil over medium heat; add rice and stir for 2 minutes until toasted.",
+    "Gradually whisk in the hot broth, cover, and simmer for 18 minutes until rice is al dente, stirring occasionally.",
+    "Remove pot from heat and whisk in egg yolks, parmesan, salt, and pepper until the mixture thickens.",
+    "Whisk egg whites separately until soft peaks form, then fold them into the rice mixture gently to aerate.",
+    "Spread the souffle mixture into the prepared baking dish, smoothing the top with a spatula.",
+    "Cut puff pastry into thin strips and lay them over the souffle surface in a crisscross pattern for lamination puff.",
+    "Bake for 15 minutes until the puff pastry is golden and the souffle rises.",
+    "Allow to rest 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 33,
+  "totalTimeMin": 43,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "herbal",
+    "low-glycemic",
+    "one-pot",
+    "puff-pastry",
+    "souffle"
+  ],
+  "nutrition": {
+    "calories": 1160,
+    "protein": 40,
+    "carbs": 130,
+    "fat": 80
+  },
+  "slug": "kissed-herbal-french-rice-souffle",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-herbal-french-rice-souffle",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:11:21Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "lamination-puff",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Rice",
+    "descriptor": "Kissed Herbal",
+    "dishForm": "Souffle"
+  }
+}
