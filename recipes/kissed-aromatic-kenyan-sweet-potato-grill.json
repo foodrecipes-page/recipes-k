@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Aromatic Kenyan Sweet Potato Grill",
+  "description": "Sweet grilled sweet potatoes glazed with shio‑koji, brown sugar and ginger, served on a binchotan grill for a nostalgic Kenyan flavor.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten‑free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 medium",
+      "notes": "peeled and sliced 1/2 inch thick"
+    },
+    {
+      "name": "shio‑koji paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Peel and slice the sweet potatoes into 1/2 inch thick rounds.",
+    "In a bowl whisk together shio‑koji paste, brown sugar, olive oil, smoked paprika, grated ginger, minced garlic, black pepper, lemon zest and sea salt until smooth.",
+    "Coat each sweet potato slice with the glaze, ensuring a thin even layer on both sides.",
+    "Preheat the binchotan grill to medium heat and lightly oil the grates.",
+    "Place the glazed slices on the grill and cook for 4 minutes per side, basting with more glaze halfway through.",
+    "Turn the slices until the edges are crisp and the interior is tender.",
+    "Remove from the grill and let them rest for 2 minutes.",
+    "Serve hot, optionally drizzled with extra glaze and a sprinkle of fresh herbs if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "kenyan",
+    "lunch"
+  ],
+  "slug": "kissed-aromatic-kenyan-sweet-potato-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-aromatic-kenyan-sweet-potato-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:49:31Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sugars",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Sweet Potato",
+    "descriptor": "Kissed Aromatic",
+    "dishForm": "Grill"
+  }
+}
