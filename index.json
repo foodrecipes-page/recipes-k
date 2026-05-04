@@ -1466,6 +1466,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-spicy-british-veal-welsh-rarebit",
+    "title": "Kissed Spicy British Veal Welsh Rarebit",
+    "tags": [
+      "breakfast",
+      "british",
+      "flamb",
+      "plant-based-friendly",
+      "spicy",
+      "veal"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-spicy-irish-grapes-sushi",
     "title": "Kissed Spicy Irish Grapes Sushi",
     "tags": [
@@ -1712,6 +1727,22 @@
     ],
     "cuisine": "Welsh",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-molten-argentinian-onion-casserole",
+    "title": "kissed with molten argentinian onion casserole",
+    "tags": [
+      "argentinian",
+      "casserole",
+      "claypot",
+      "comforting",
+      "lacto-ovo-vegetarian",
+      "melted-cheese",
+      "shojin-friendly"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 75,
     "shard": "k"
   },
   {

@@ -1,0 +1,108 @@
+{
+  "title": "kissed with molten argentinian onion casserole",
+  "description": "floral, molten, comforting argentinian dish featuring yellow onion, whisk, shojin-friendly, cooked in claypot.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "2"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "shoyu",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 375f (190c).",
+    "sift 2 tsp of dried oregano, 1 tsp salt, and 1 tsp black pepper into the claypot, then set aside.",
+    "in a small saucepan, heat 2 tbsp olive oil over low heat. add 3 minced garlic cloves and cook, stirring occasionally, until fragrant.",
+    "add 2 tbsp shoyu to the saucepan and stir to combine. cook for 1 minute.",
+    "in the claypot, combine 2 sliced yellow onions and 1 cup chicken broth. bring to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "remove claypot from heat and stir in 8 oz crumbled feta cheese until melted. season with 1 tsp dried oregano.",
+    "add the saucepan mixture to the claypot and stir to combine.",
+    "dot the top of the casserole with 2 tbsp butter, then sprinkle with chopped fresh parsley.",
+    "cover claypot with a lid or foil and bake at 375f (190c) for 25 minutes.",
+    "remove the lid or foil and bake for an additional 10-15 minutes, or until the top is golden brown.",
+    "remove from oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "casserole",
+    "claypot",
+    "comforting",
+    "lacto-ovo-vegetarian",
+    "melted-cheese",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 23,
+    "carbs": 26,
+    "fat": 32
+  },
+  "slug": "kissed-with-molten-argentinian-onion-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-molten-argentinian-onion-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T04:59:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "whisk",
+    "primaryIngredient": "yellow onion",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "onion",
+    "descriptor": "Kissed with Molten",
+    "dishForm": "Casserole"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Spicy British Veal Welsh Rarebit",
+  "description": "A flambéed veal dish with a spicy, glassy-jelly sauce, perfect for a brunch mood British classic.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Veal tenderloin slices",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for searing"
+    },
+    {
+      "name": "Fresh thyme sprigs",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "for coating"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Plant-based milk",
+      "amount": "120ml",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Vegan cheddar cheese",
+      "amount": "50g",
+      "notes": "shredded"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Mustard powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Low-sodium beef stock",
+      "amount": "200ml",
+      "notes": "for sauce base"
+    }
+  ],
+  "instructions": [
+    "Season veal slices with salt, pepper, and mustard powder.",
+    "Coat each slice lightly with flour.",
+    "Heat olive oil in a skillet over medium-high heat until shimmering.",
+    "Add veal slices and sear for 2 minutes per side, then remove and set aside.",
+    "In the same skillet, add stock, plant-based milk, soy sauce, thyme, and red pepper flakes; bring to a simmer.",
+    "Stir in shredded vegan cheese until melted and the sauce thickens into a glassy-jelly consistency.",
+    "Return veal to the skillet and flambé with a splash of brandy, letting the flame subside.",
+    "Serve hot on toasted rye bread or a crisp side, garnished with extra thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "british",
+    "flamb",
+    "plant-based-friendly",
+    "spicy",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 50,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "kissed-spicy-british-veal-welsh-rarebit",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-british-veal-welsh-rarebit",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:58:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "flambe",
+    "primaryIngredient": "veal",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Veal",
+    "descriptor": "Kissed Spicy",
+    "dishForm": "Welsh Rarebit"
+  }
+}
