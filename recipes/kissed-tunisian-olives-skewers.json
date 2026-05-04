@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Tunisian Olives Skewers",
+  "description": "A bitter, tender, date-night Tunisian dish featuring olives, air-fried to perfection with a dash of cumin, paprika, and lemon zest.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olives",
+      "amount": "24",
+      "notes": "sliced lengthwise"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Remove stems from olives and slice them in half lengthwise.",
+    "Thread the sliced olives onto bamboo skewers, spacing them evenly.",
+    "In a small bowl, whisk together olive oil, minced garlic, cumin, paprika, lemon zest, salt, and pepper.",
+    "Brush the olive mixture over each skewer, ensuring the olives are coated.",
+    "Preheat the air fryer to 200°C (400°F) for 3 minutes.",
+    "Place the skewers in the air fryer basket in a single layer, avoiding overlap.",
+    "Air fry for 8 minutes, flipping halfway, until the olives are slightly caramelized.",
+    "Remove from the air fryer, sprinkle chopped parsley, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "dash-friendly",
+    "date-night",
+    "olive",
+    "quick",
+    "skewer",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 6,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "kissed-tunisian-olives-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tunisian-olives-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:05:46Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "olives",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Olives",
+    "descriptor": "Kissed",
+    "dishForm": "Skewers"
+  }
+}

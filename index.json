@@ -1316,6 +1316,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-russian-tomato-salad",
+    "title": "Kissed Russian Tomato Salad",
+    "tags": [
+      "crunchy",
+      "halal-friendly",
+      "mustardy",
+      "quick-fix",
+      "russian",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 10,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-saudi-sesame-tagine",
     "title": "Kissed Saudi Sesame Tagine",
     "tags": [
@@ -1583,6 +1599,22 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tunisian-olives-skewers",
+    "title": "Kissed Tunisian Olives Skewers",
+    "tags": [
+      "air-fryer",
+      "dash-friendly",
+      "date-night",
+      "olive",
+      "quick",
+      "skewer",
+      "tunisian"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {

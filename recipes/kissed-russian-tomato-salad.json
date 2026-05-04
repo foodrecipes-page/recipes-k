@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Russian Tomato Salad",
+  "description": "A quick, mustardy Russian tomato salad that is crunchy and halal-friendly, perfect as a light lunch or snack.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "4 medium tomatoes",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "2 medium cucumbers",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 red onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "green bell pepper",
+      "amount": "1 green bell pepper",
+      "notes": "diced"
+    },
+    {
+      "name": "pickled gherkins",
+      "amount": "2 pickled gherkins",
+      "notes": "diced"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tablespoon",
+      "notes": "for dressing"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Wash and dice the tomatoes, slice cucumbers, dice the bell pepper, and thinly slice the red onion.",
+    "Roughly chop the pickled gherkins into small pieces.",
+    "Whisk together Dijon mustard, apple cider vinegar, olive oil, salt, and pepper to make the dressing.",
+    "Toss the tomatoes, cucumbers, bell pepper, onion, and gherkins in the dressing until evenly coated.",
+    "Stir in chopped dill and let the salad sit for 5 minutes to meld flavors.",
+    "Taste and adjust seasoning with extra salt or pepper if desired.",
+    "Serve immediately over a bed of fresh lettuce or alongside warm rye bread.",
+    "Optional: drizzle a little extra olive oil before serving for added shine.",
+    "Enjoy this quick mustardy Russian tomato salad as a halal-friendly snack or dinner side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "halal-friendly",
+    "mustardy",
+    "quick-fix",
+    "russian",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 42
+  },
+  "slug": "kissed-russian-tomato-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-russian-tomato-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:05:34Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "brine-dry",
+    "primaryIngredient": "tomato",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "tomato",
+    "descriptor": "Kissed",
+    "dishForm": "Salad"
+  }
+}
