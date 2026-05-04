@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Velvet Slovakian Petit Pois Soup",
+  "description": "A cultured, velvety pea soup that brings a touch of Slovakian charm to a low-fat dinner. Perfect for a cozy date night.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Frozen petit pois",
+      "amount": "250 g",
+      "notes": "frozen"
+    },
+    {
+      "name": "Low-sodium vegetable broth",
+      "amount": "500 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Medium carrot",
+      "amount": "1 medium carrot",
+      "notes": "diced"
+    },
+    {
+      "name": "Small onion",
+      "amount": "1 small onion",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried dill",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "In a medium pot, heat the olive oil over medium heat until shimmering.",
+    "Add the chopped onion and carrot, sautéing until softened about 5 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Pour in the vegetable broth and bring to a gentle simmer.",
+    "Add the frozen peas, dill, salt, and pepper, simmering gently for 15 minutes until peas are tender.",
+    "Remove the pot from heat and stir in the lemon juice, adjusting seasoning as desired.",
+    "Using an immersion blender, blend the soup until silky smooth.",
+    "Ladle the velvety soup into bowls and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "healthy",
+    "low-fat",
+    "one-pot",
+    "slovakian",
+    "vegetarian",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 12,
+    "carbs": 26,
+    "fat": 4
+  },
+  "slug": "kissed-velvet-slovakian-petit-pois-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvet-slovakian-petit-pois-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:29:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "brine-wet",
+    "primaryIngredient": "petit pois",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "petit pois",
+    "descriptor": "Kissed Velvet",
+    "dishForm": "Soup"
+  }
+}
