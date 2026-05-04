@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Moroccan Chickpeas Tagine",
+  "description": "A winey, cheese‑pull Moroccan dish cooked in a clay pot, perfect for a solo dinner and free of onion and garlic.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chickpeas",
+      "amount": "2 cups cooked chickpeas"
+    },
+    {
+      "name": "Apricots",
+      "amount": "1/2 cup chopped apricots"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium carrots sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp tomato paste"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups vegetable broth"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup red wine"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp ground cumin"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp ground coriander"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp black pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp olive oil"
+    },
+    {
+      "name": "Aged cheddar",
+      "amount": "1 cup shredded aged cheddar"
+    }
+  ],
+  "instructions": [
+    "Preheat clay pot over medium heat for 5 minutes.",
+    "Add 1 tbsp olive oil and swirl until shimmering.",
+    "Stir in 2 tbsp tomato paste and let it brown for 2 minutes.",
+    "Add sliced carrots and chopped apricots, then pour in 1 cup red wine and stir.",
+    "Pour in 2 cups vegetable broth, then add cooked chickpeas, 1 tsp ground cumin, 1 tsp ground coriander, 1 tsp salt, 1/2 tsp black pepper, and stir to combine.",
+    "Bring the mixture to a gentle simmer, cover the pot, and let it cook for 30 minutes, stirring occasionally.",
+    "Remove the lid, raise the heat, and let the sauce reduce until slightly thickened, about 10 minutes.",
+    "Sprinkle shredded aged cheddar over the top and replace the lid to melt, about 5 minutes.",
+    "Once the cheese has melted into a gooey layer, remove from heat and let it rest for 5 minutes.",
+    "Serve the tagine straight from the clay pot or spoon into bowls, garnishing with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "clay-pot",
+    "mixed-vegetables",
+    "moroccan",
+    "no-garlic",
+    "no-onion",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 16,
+    "fat": 8
+  },
+  "slug": "kissed-moroccan-chickpeas-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-moroccan-chickpeas-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:04:25Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "solo-dinner",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chickpeas",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chickpeas",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
