@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Dutch Pancetta Stir-fry",
+  "description": "A buttery, light Dutch stir-fry that quickly cures hangovers with pancetta, scallions, and a wok-hei kick.",
+  "cuisine": "Dutch",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "pancetta",
+      "amount": "150 g",
+      "notes": "sliced thick"
+    },
+    {
+      "name": "scallions",
+      "amount": "3 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "julienned"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for acidity"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": "for wok-hei"
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "sprinkle on top"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over high heat until shimmering.",
+    "Add the sesame oil and swirl to coat the pan.",
+    "Toss in the sliced pancetta and cook until it starts to crisp, about 3 minutes.",
+    "Push the pancetta to the side, then add the minced garlic and ginger, sautéing for 30 seconds until fragrant.",
+    "Add the scallions, carrot, and spinach, stir-frying until the veggies are bright but still crisp, about 2 minutes.",
+    "Pour in the soy sauce and rice vinegar, stirring to coat all ingredients evenly.",
+    "Sprinkle the roasted sesame seeds over the stir-fry, and give everything a quick toss.",
+    "Taste and adjust seasoning with a pinch of salt if needed, remembering the dish is sweet-free.",
+    "Serve the hot stir-fry straight from the wok onto plates, or keep warm in a heatproof bowl.",
+    "Garnish with extra scallion slices if desired, and enjoy the buttery, hangover-cure kick."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dutch",
+    "hangover-cure",
+    "low-carb",
+    "quick-fix",
+    "sugar-free",
+    "wok-hei"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 16,
+    "carbs": 10,
+    "fat": 38
+  },
+  "slug": "kissed-dutch-pancetta-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dutch-pancetta-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:25:09Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "wok-hei",
+    "primaryIngredient": "pancetta",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pancetta",
+    "descriptor": "Kissed",
+    "dishForm": "Stir-fry"
+  }
+}
