@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Canadian Egg Tart",
+  "description": "A tender, roasted egg tart with maple infused shortcrust pastry, topped with sautéed spinach and mushrooms, perfect for a date night.",
+  "cuisine": "Canadian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ready rolled shortcrust pastry",
+      "amount": "1 sheet",
+      "notes": "about 250 g"
+    },
+    {
+      "name": "Fresh spinach",
+      "amount": "150 g"
+    },
+    {
+      "name": "Button mushrooms",
+      "amount": "100 g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small (70 g)",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic clove",
+      "amount": "1",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Fresh grated cheddar cheese",
+      "amount": "30 g"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "Heat a skillet over medium and sauté diced onion, minced garlic, and sliced mushrooms until softened, about 5 minutes, then add spinach and cook until wilted, seasoning with salt and pepper.",
+    "In a bowl whisk together eggs, heavy cream, maple syrup, and a pinch of salt. ",
+    "Roll out the ready‑rolled shortcrust pastry to fit a 9‑inch tart pan and press into the bottom and up the sides, trimming excess dough.",
+    "Spoon the sautéed vegetables into the pastry shell and sprinkle the shredded cheddar evenly. ",
+    "Pour the egg‑cream mixture over the vegetables, letting it seep into the gaps. ",
+    "Bake for 20 minutes, then reduce the temperature to 180°C and bake an additional 10 minutes until the pastry is golden and the custard is set. ",
+    "Remove from the oven, let rest 5 minutes, then cut into wedges and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "date-night",
+    "maple",
+    "ovo-vegetarian",
+    "roasted",
+    "shortcrust"
+  ],
+  "nutrition": {
+    "calories": 473,
+    "protein": 9,
+    "carbs": 44,
+    "fat": 26
+  },
+  "slug": "kissed-canadian-egg-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-egg-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:42:48Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "ready rolled shortcrust pastry",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Egg",
+    "descriptor": "Kissed",
+    "dishForm": "Tart"
+  }
+}
