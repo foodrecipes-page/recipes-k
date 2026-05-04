@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Tangy Portuguese Caramel Mousse",
+  "description": "A tangy and glassy-jelly Portuguese dessert featuring caramel, with a brine-dry and ayurvedic-rajasic-friendly twist",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "gelatin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "port wine",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over the water and let it sit for 5 minutes to soften",
+    "In a medium saucepan, combine the heavy cream, granulated sugar, and sea salt, and heat over medium heat, stirring occasionally",
+    "Bring the cream mixture to a boil, then reduce the heat to low and simmer for 5 minutes",
+    "Remove the cream mixture from the heat and stir in the caramel sauce, lemon juice, and softened gelatin",
+    "Let the mixture cool to room temperature, then cover and refrigerate for at least 4 hours",
+    "Just before serving, whip the mixture with an electric mixer until it becomes light and airy",
+    "Spoon the mousse into individual serving cups and drizzle with port wine, if using",
+    "Serve the mousse chilled, garnished with a sprinkle of sea salt"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramel",
+    "gluten-free",
+    "mousse",
+    "portuguese",
+    "tangy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kissed-tangy-portuguese-caramel-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tangy-portuguese-caramel-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:57:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "brine-dry",
+    "primaryIngredient": "caramel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "caramel",
+    "descriptor": "kissed tangy",
+    "dishForm": "Mousse"
+  }
+}

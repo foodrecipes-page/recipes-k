@@ -869,6 +869,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-rich-italian-tomato-bruschetta",
+    "title": "Kissed Rich Italian Tomato Bruschetta",
+    "tags": [
+      "bruschetta-recipes",
+      "cheesy-goodness",
+      "gluten-free",
+      "italian-food",
+      "rich-and-decadent",
+      "whole30-recipes"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-roasted-syrian-chorizo-tagine",
     "title": "Kissed Roasted Syrian Chorizo Tagine",
     "tags": [
@@ -1061,6 +1076,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 130,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tangy-portuguese-caramel-mousse",
+    "title": "Kissed Tangy Portuguese Caramel Mousse",
+    "tags": [
+      "caramel",
+      "gluten-free",
+      "mousse",
+      "portuguese",
+      "tangy",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {

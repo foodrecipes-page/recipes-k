@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Rich Italian Tomato Bruschetta",
+  "description": "A rich Italian dish featuring tomato puree and tempering chocolate, this Whole30-friendly bruschetta is perfect for a snack or appetizer.",
+  "cuisine": "Italian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh tomatoes",
+      "amount": "3 cups",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 85% cocoa"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gluten-free bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine diced tomatoes, chopped basil, and minced garlic.",
+    "Drizzle olive oil and balsamic vinegar over the tomato mixture and toss to coat.",
+    "Arrange gluten-free bread slices on a baking sheet and toast in the oven for 5 minutes.",
+    "Remove the bread from the oven and top each slice with a spoonful of the tomato mixture.",
+    "Place a slice of mozzarella cheese on top of the tomato mixture.",
+    "Melt the dark chocolate chips in a double boiler and drizzle over the mozzarella cheese.",
+    "Return the bruschetta to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bruschetta-recipes",
+    "cheesy-goodness",
+    "gluten-free",
+    "italian-food",
+    "rich-and-decadent",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "kissed-rich-italian-tomato-bruschetta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-rich-italian-tomato-bruschetta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:58:00Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "tomato puree",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Kissed Rich",
+    "dishForm": "Bruschetta"
+  }
+}
