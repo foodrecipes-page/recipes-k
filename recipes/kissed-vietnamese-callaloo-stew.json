@@ -1,0 +1,115 @@
+{
+  "title": "Kissed Vietnamese Callaloo Stew",
+  "description": "A bitter, shaggy stew that balances the earthy flavor of callaloo with a tangy, festive broth, perfect for a diabetic-friendly lunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "callaloo leaves",
+      "amount": "200g"
+    },
+    {
+      "name": "carrot",
+      "amount": "100g",
+      "notes": "julienned"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "80g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "50g",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "soy sauce, low sodium",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and rinse the callaloo leaves thoroughly.",
+    "Heat sesame oil in a deep pot over medium heat and sauté onion, garlic, and ginger until fragrant.",
+    "Add carrot and bell pepper slices, cooking for 3 minutes with frequent stirring.",
+    "Pour in vegetable broth, soy sauce, fish sauce, and lime juice, then bring the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes until the callaloo leaves are tender and the flavors meld.",
+    "Stir in red chili flakes and adjust seasoning with salt if necessary.",
+    "Garnish with fresh coriander leaves and green onion before serving.",
+    "Serve hot with a side of cauliflower rice for a complete diabetic-friendly meal."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "vietnamese",
+    "lunch"
+  ],
+  "slug": "kissed-vietnamese-callaloo-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-vietnamese-callaloo-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:28:41Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "braise",
+    "primaryIngredient": "callaloo",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "callaloo",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
