@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Venezuelan Olive Skewers",
+  "description": "A resinous, crispy solo-dinner dish featuring green olives and katsuramuki, finished with a bright olive oil and lime vinaigrette.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green olives, pitted",
+      "amount": "150g",
+      "notes": "sliced into bite-sized pieces"
+    },
+    {
+      "name": "katsuramuki fruit, peeled and sliced",
+      "amount": "3 pieces",
+      "notes": "1cm thick rounds"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh coriander, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cracked black peppercorns",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a gas grill to medium-high heat (about 200°C).",
+    "Thread each skewer with three green olive halves and alternate with a slice of katsuramuki.",
+    "Whisk together the olive oil, lime juice, minced garlic, oregano, salt, pepper, peppercorns, and chili flakes to make a vinaigrette.",
+    "Brush the vinaigrette over the skewers, ensuring all pieces are coated.",
+    "Place the skewers on the grill and cook for 2 to 3 minutes per side, until the katsuramuki is slightly charred and the olives are glossy.",
+    "Remove the skewers from the grill and sprinkle chopped coriander over them.",
+    "Serve immediately as a solo dinner entrée, optionally with a side of quinoa or a fresh green salad.",
+    "If desired, store leftover skewers in an airtight container in the fridge for up to 2 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "main-dish",
+    "quick",
+    "savory",
+    "simple",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 111,
+    "protein": 1,
+    "carbs": 3,
+    "fat": 11
+  },
+  "slug": "kissed-venezuelan-olive-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-venezuelan-olive-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:29:42Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "solo-dinner",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "green olives",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Olives",
+    "descriptor": "Kissed",
+    "dishForm": "Skewers"
+  }
+}
