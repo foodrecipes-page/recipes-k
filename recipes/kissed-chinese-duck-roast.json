@@ -1,0 +1,84 @@
+{
+  "title": "Kissed Chinese Duck Roast",
+  "description": "A roasted, char‑grilled duck infused with warm water, Chinese five‑spice, and coconut aminos, served with a shaggy, adventurous flair.",
+  "cuisine": "chinese",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole duck",
+      "amount": "1",
+      "notes": "about 1.5 kg"
+    },
+    {
+      "name": "Chinese five‑spice powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "warm water",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "ground ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium‑high and coat the grates with oil.",
+    "Rub the duck inside and out with the Chinese five‑spice and a pinch of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "char-grill",
+    "shaggy",
+    "warm-water",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 510,
+    "protein": 38,
+    "carbs": 5,
+    "fat": 33
+  },
+  "slug": "kissed-chinese-duck-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-chinese-duck-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:16:13Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "warm water",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Duck",
+    "descriptor": "Kissed",
+    "dishForm": "Roast"
+  }
+}
