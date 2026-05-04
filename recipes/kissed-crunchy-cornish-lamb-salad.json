@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Crunchy Cornish Lamb Salad",
+  "description": "A light, crunchy salad featuring roasted cauliflower, aromatic lamb stock, and a tangy pomegranate molasses finish.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb stock",
+      "amount": "500 ml"
+    },
+    {
+      "name": "Cauliflower florets",
+      "amount": "200 g",
+      "notes": "roasted"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "15 g"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Roasted almonds",
+      "amount": "60 g"
+    },
+    {
+      "name": "Crumbled feta",
+      "amount": "80 g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat, pour in lamb stock, simmer until it reaches 65°C, then reduce heat to low and keep warm.",
+    "Toss cauliflower florets in olive oil, pepper, and salt, spread on a baking sheet and roast at 200°C for 15 minutes until golden and crisp.",
+    "While cauliflower roasts, zest lemon over the salad bowl to release oils.",
+    "Once cauliflower is done, remove from oven, let cool slightly, then add to the bowl.",
+    "Drizzle pomegranate molasses over the cauliflower, then sprinkle roasted almonds, feta, and mint leaves.",
+    "Pour warm lamb stock over the ingredients, ensuring the liquid coats the salad evenly.",
+    "Gently toss the salad to combine flavors, being careful not to break the almonds.",
+    "Finish by seasoning with sea salt and a pinch of black pepper, then serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cornish",
+    "crunchy",
+    "healthy",
+    "lamb",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 235,
+    "protein": 9,
+    "carbs": 11,
+    "fat": 19
+  },
+  "slug": "kissed-crunchy-cornish-lamb-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-cornish-lamb-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:42:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "cure",
+    "primaryIngredient": "lamb stock",
+    "diet": "ayurvedic-tamasic",
+    "region": "cornish",
+    "cuisineAdjective": "Cornish",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Crunchy",
+    "dishForm": "Salad"
+  }
+}
