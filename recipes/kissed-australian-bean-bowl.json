@@ -1,0 +1,114 @@
+{
+  "title": "Kissed Australian Bean Bowl",
+  "description": "A funky, light midnight-craving Australian dish with ground annatto, blanched corn, and fresh avocado.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cooked brown rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can (400g)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "frozen corn kernels",
+      "amount": "1 cup",
+      "notes": "blanch for 2 minutes"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 tbsp",
+      "notes": "for color and mild flavor"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 avocado",
+      "notes": "diced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse and drain the chickpeas and set aside.",
+    "Place frozen corn in a pot of boiling water and blanch for 2 minutes, then drain.",
+    "In a bowl, combine the cooked rice, chickpeas, blanched corn, ground annatto, smoked paprika, soy sauce, lime juice, and olive oil and mix until evenly coated.",
+    "Season the mixture with salt and pepper to taste.",
+    "Transfer the bean bowl mixture to a serving bowl and top with diced avocado.",
+    "Sprinkle chopped cilantro over the bowl for freshness.",
+    "Garnish with an extra squeeze of lime if desired.",
+    "Serve immediately for a midnight snack craving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bean-bowl",
+    "fancy",
+    "light",
+    "midnight",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "kissed-australian-bean-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-australian-bean-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:29:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "ground annatto",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "bean",
+    "descriptor": "Kissed",
+    "dishForm": "Bowl"
+  }
+}

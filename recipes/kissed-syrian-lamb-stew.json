@@ -1,0 +1,118 @@
+{
+  "title": "Kissed Syrian Lamb Stew",
+  "description": "A savory midnight-craving lamb stew packed with aromatic herbs and a velvety vin santo reduction, served over hearty root vegetables for a paleo-friendly comfort dish.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried herbs",
+      "amount": "oregano 1 tsp, cumin 1 tsp, bay leaf 2",
+      "notes": "combined"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "low sodium broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and sauté until translucent.",
+    "Stir in the minced garlic and cook for one minute.",
+    "Add the cubed lamb and brown all sides.",
+    "Mix in the tomato paste, dried herbs, and chopped apricots, stirring to coat.",
+    "Pour in the low sodium broth and bring to a gentle boil.",
+    "Reduce heat, cover, and simmer for 60 minutes, stirring occasionally.",
+    "Add the sliced carrots and celery, simmer for an additional 30 minutes until vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Remove the pot from heat, stir in chopped parsley, and let rest for 5 minutes.",
+    "Serve hot, spooning the stew into bowls and drizzling with a splash of vin santo if desired.",
+    "Garnish with extra parsley and enjoy the rich, aromatic flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "oregano",
+    "paleo-friendly",
+    "savory",
+    "slow-cook"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 35,
+    "carbs": 17,
+    "fat": 19
+  },
+  "slug": "kissed-syrian-lamb-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-syrian-lamb-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:28:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "soffritto-base",
+    "primaryIngredient": "vin-santo",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}

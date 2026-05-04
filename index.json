@@ -765,6 +765,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-australian-bean-bowl",
+    "title": "Kissed Australian Bean Bowl",
+    "tags": [
+      "bean-bowl",
+      "fancy",
+      "light",
+      "midnight",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-australian-mango-sushi",
     "title": "Kissed Australian Mango Sushi",
     "tags": [
@@ -2727,6 +2742,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-syrian-lamb-stew",
+    "title": "Kissed Syrian Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "oregano",
+      "paleo-friendly",
+      "savory",
+      "slow-cook"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 105,
     "shard": "k"
   },
   {
