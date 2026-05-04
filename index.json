@@ -785,6 +785,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-floral-croatian-reblochon-skillet",
+    "title": "Kissed Floral Croatian Reblochon Skillet",
+    "tags": [
+      "dense",
+      "floral",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-fluffy-spanish-beans-stew",
     "title": "Kissed Fluffy Spanish Beans Stew",
     "tags": [
@@ -1616,6 +1630,21 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 120,
+    "shard": "k"
+  },
+  {
+    "slug": "kitchen-fresh-dutch-vegetable-casserole",
+    "title": "Dutch Vegetable Casserole",
+    "tags": [
+      "dutch-cuisine",
+      "healthy",
+      "meal-prep",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 80,
     "shard": "k"
   },
   {

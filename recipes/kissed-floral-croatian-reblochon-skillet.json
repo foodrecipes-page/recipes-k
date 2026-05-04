@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Floral Croatian Reblochon Skillet",
+  "description": "A dense, floral one-pan dinner that blends melted reblochon, air-fried zucchini and eggplant, and fresh herbs for a hearty weeknight meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "reblochon cheese",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced 1/8\" thick"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1 small",
+      "notes": "sliced 1/8\" thick"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "few leaves",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C and lightly coat the basket with olive oil.",
+    "Toss zucchini and eggplant slices with minced garlic, chopped rosemary, salt, pepper, and a drizzle of olive oil, then arrange them in a single layer in the air fryer basket.",
+    "Air fry the vegetables for 12 minutes, flipping halfway through, until they are golden and tender.",
+    "While the veggies are cooking, warm a 10-inch cast iron skillet over medium heat and deglaze with a splash of white wine.",
+    "Evenly spread the pre-cooked vegetables in the skillet and lay the reblochon slices on top, allowing the cheese to melt into the warm vegetables.",
+    "Cover the skillet briefly to help the cheese melt, then uncover and stir to combine the melted cheese with the veggies, forming a dense, creamy mixture.",
+    "Transfer the skillet to the preheated air fryer set at 180°C for an additional 5 minutes to crisp the top layer and fuse the flavors.",
+    "Remove from the air fryer, sprinkle fresh basil leaves over the dish, and serve hot as a hearty weeknight dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 17,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "floral",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 444,
+    "protein": 22,
+    "carbs": 6,
+    "fat": 37
+  },
+  "slug": "kissed-floral-croatian-reblochon-skillet",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-floral-croatian-reblochon-skillet",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:28:46Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "reblochon",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "reblochon",
+    "descriptor": "Kissed Floral",
+    "dishForm": "Skillet"
+  }
+}

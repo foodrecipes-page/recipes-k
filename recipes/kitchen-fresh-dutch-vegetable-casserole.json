@@ -1,0 +1,105 @@
+{
+  "title": "Dutch Vegetable Casserole",
+  "description": "A satvik-friendly, resinous and fluffy Dutch dish made with cream of tartar and cooked in papillote, perfect for meal prep. This casserole features a variety of vegetables and is suitable for a weeknight dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "cream of tartar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced carrots, Brussels sprouts, and potatoes with olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "In a separate bowl, mix the chopped onions and minced garlic.",
+    "Add the cream of tartar to the onion mixture and stir well.",
+    "In a large Dutch oven or casserole dish, create a layer of the vegetable mixture.",
+    "Add a layer of the onion mixture on top of the vegetables.",
+    "Repeat the layers until all the ingredients are used, ending with a layer of vegetables on top.",
+    "Cover the dish with papillote or aluminum foil and bake for 45 minutes.",
+    "Remove the papillote or foil and continue baking for an additional 15 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "healthy",
+    "meal-prep",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kitchen-fresh-dutch-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-fresh-dutch-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:28:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "papillote",
+    "primaryIngredient": "cream of tartar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "vegetables",
+    "descriptor": "kitchen fresh",
+    "dishForm": "Casserole"
+  }
+}
