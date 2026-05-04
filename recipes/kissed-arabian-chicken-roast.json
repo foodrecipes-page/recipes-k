@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Arabian Chicken Roast",
+  "description": "A comforting roast chicken infused with aromatic Middle Eastern spices, Thai sweet basil, and a tangy horapa glaze, perfect for a Mediterranean-friendly dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1.5kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon",
+      "amount": "1, halved"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4, crushed"
+    },
+    {
+      "name": "thai sweet basil leaves",
+      "amount": "1 cup, packed"
+    },
+    {
+      "name": "horapa sauce",
+      "amount": "6 tbsp",
+      "notes": "orange marmalade 4 tbsp, soy sauce 2 tbsp, honey 1 tbsp, rice vinegar 1 tbsp, lime juice 1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp, chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C.",
+    "Season the chicken with salt, pepper, paprika, cumin, and coriander, then rub with olive oil and place on a roasting pan. ",
+    "Squeeze lemon halves over the chicken and scatter crushed garlic cloves around it. ",
+    "Roast the chicken for 50 minutes, basting with the horapa sauce every 15 minutes. ",
+    "During the last 10 minutes of roasting, add Thai sweet basil leaves to the pan. ",
+    "Remove the chicken from the oven and let it rest for 10 minutes before carving. ",
+    "Serve the roast chicken with a sprinkle of fresh parsley and extra horapa sauce on the side. ",
+    "Enjoy with warm flatbread or a side of rice for a complete meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "thai-flavor"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "kissed-arabian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-arabian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:10:06Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Arabian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Roast"
+  }
+}

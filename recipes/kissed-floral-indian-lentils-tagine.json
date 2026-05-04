@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Floral Indian Lentils Tagine",
+  "description": "A fragrant vegan lentil tagine infused with rose petals, kaffir lime and aromatic spices, perfect for meal prep.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp, grated"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "500ml"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tsp",
+      "notes": "edible"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "3"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Rinse the red lentils under cold water until the water runs clear, then set aside.",
+    "Heat the olive oil in a tajine over medium heat until shimmering, then add the diced onion and sauté until translucent.",
+    "Stir in the minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Sprinkle in the cumin seeds and garam masala, toasting for 30 seconds before adding the tomato puree.",
+    "Pour in the coconut milk and vegetable broth, then stir in the dried rose petals and kaffir lime leaves.",
+    "Bring the mixture to a gentle simmer, then reduce the heat to low, cover the tajine, and let it cook for 25 minutes, stirring occasionally.",
+    "Once the lentils are tender and the sauce has thickened, fluff gently with a fork and taste, adding salt if desired.",
+    "Garnish with fresh cilantro before serving, and refrigerate leftovers for up to 3 days for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "floral",
+    "gluten-free",
+    "indian",
+    "meal-prep",
+    "one-pot",
+    "tajine",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 13,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "kissed-floral-indian-lentils-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-floral-indian-lentils-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:09:29Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "tadka",
+    "primaryIngredient": "kaffir-lime-leaf",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Kissed Floral",
+    "dishForm": "Tagine"
+  }
+}

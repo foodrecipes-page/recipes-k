@@ -514,6 +514,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-arabian-chicken-roast",
+    "title": "Kissed Arabian Chicken Roast",
+    "tags": [
+      "arabian",
+      "comfort-food",
+      "gluten-free",
+      "one-pan",
+      "thai-flavor"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 90,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-argentinian-beans-stew",
     "title": "Kissed Argentinian Beans Stew",
     "tags": [
@@ -870,6 +884,22 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-floral-indian-lentils-tagine",
+    "title": "Kissed Floral Indian Lentils Tagine",
+    "tags": [
+      "floral",
+      "gluten-free",
+      "indian",
+      "meal-prep",
+      "one-pot",
+      "tajine",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
