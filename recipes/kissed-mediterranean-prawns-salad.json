@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Mediterranean Prawns Salad",
+  "description": "A briny, crunchy salad featuring seared raw frozen prawns, fresh greens, and a lemon deglaze fond.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw frozen prawns, peeled and deveined",
+      "amount": "200g"
+    },
+    {
+      "name": "mixed salad greens",
+      "amount": "150g"
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "100g"
+    },
+    {
+      "name": "cucumber, sliced",
+      "amount": "80g"
+    },
+    {
+      "name": "kalamata olives, pitted and sliced",
+      "amount": "30g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "10g"
+    },
+    {
+      "name": "fresh lemon, juice",
+      "amount": "20ml"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "Thaw the prawns in cold water for 10 minutes and pat them dry.",
+    "Heat a nonstick skillet over medium-high and add 10ml of olive oil, then sear the prawns 30 seconds on each side until just opaque.",
+    "Remove the prawns, set aside, and add the remaining oil to the pan with one minced garlic clove, cooking for 15 seconds.",
+    "Deglaze the pan with 20ml lemon juice and 10ml white wine, scraping the fond.",
+    "Return the prawns to the pan, toss to coat, and remove from heat.",
+    "In a large bowl, combine the greens, tomatoes, cucumber, olives, onion, and parsley.",
+    "Whisk together lemon juice, olive oil, salt, pepper, and smoked paprika to make the vinaigrette.",
+    "Drizzle the dressing over the salad and toss gently.",
+    "Top the salad with the seared prawns.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "briny",
+    "crunchy",
+    "mediterranean",
+    "quick-recipes",
+    "salad",
+    "seafood",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 304,
+    "protein": 26,
+    "carbs": 9,
+    "fat": 20
+  },
+  "slug": "kissed-mediterranean-prawns-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mediterranean-prawns-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:31:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "raw frozen prawns",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "prawns",
+    "descriptor": "Kissed",
+    "dishForm": "Salad"
+  }
+}
