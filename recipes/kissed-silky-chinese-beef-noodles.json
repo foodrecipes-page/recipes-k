@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Silky Chinese Beef Noodles",
+  "description": "A salty, silky, and energizing Chinese dish featuring beef cutlet, cure, and ovo-vegetarian-friendly ingredients, this recipe is perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to the package instructions.",
+    "In a small bowl, whisk together soy sauce, oyster sauce, and sesame oil to make the sauce.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat.",
+    "Add the garlic and ginger to the skillet and stir-fry until fragrant.",
+    "Add the beef to the skillet and cook until browned, about 3-4 minutes.",
+    "Add the cooked noodles to the skillet and stir-fry for 2 minutes.",
+    "Pour the sauce into the skillet and stir-fry for another minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the noodles to a serving platter and garnish with green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "chinese-food",
+    "noodle-dishes",
+    "ovo-vegetarian",
+    "stir-fry",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-silky-chinese-beef-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-chinese-beef-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:07:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "energizing",
+    "technique": "cure",
+    "primaryIngredient": "beef cutlet",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "kissed silky",
+    "dishForm": "Noodles"
+  }
+}
