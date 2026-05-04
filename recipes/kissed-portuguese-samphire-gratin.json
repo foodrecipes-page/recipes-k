@@ -1,0 +1,119 @@
+{
+  "title": "Kissed Portuguese Samphire Gratin",
+  "description": "A rich and creamy gratin dish featuring crunchy samphire, infused with the nutty flavors of portuguese bread and topped with a crispy parmesan crust.",
+  "cuisine": "portuguese",
+  "diet": [
+    "lacto-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "samphire",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "portuguese bread",
+      "amount": "120g",
+      "notes": "stale or day-old"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "20ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "grated parmesan",
+      "amount": "80g",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "0.25",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25",
+      "notes": "ground"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "150ml",
+      "notes": "cold"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180C.",
+    "Trim the samphire and cut it into 2cm pieces.",
+    "In a large pan, heat the olive oil over medium heat.",
+    "Add the sliced onion and cook until softened, about 8 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in the lemon juice, nutmeg, and black pepper. Cook for 1 minute.",
+    "In a separate pan, toast the breadcrumbs until golden brown.",
+    "In a large bowl, whisk together the eggs, heavy cream, and grated parmesan.",
+    "Add the cooked samphire mixture to the bowl and stir to combine.",
+    "Transfer the mixture to a baking dish and top with the toasted breadcrumbs.",
+    "Drizzle the top with additional olive oil and sprinkle with grated parmesan.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until golden brown and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "gratin",
+    "lacto-vegetarian",
+    "portuguese",
+    "romantic",
+    "samphire",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "kissed-portuguese-samphire-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-portuguese-samphire-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T05:31:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "romantic",
+    "technique": "brine-dry",
+    "primaryIngredient": "samphire",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Samphire",
+    "descriptor": "Kissed",
+    "dishForm": "Gratin"
+  }
+}
