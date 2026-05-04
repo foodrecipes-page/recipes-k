@@ -1,0 +1,116 @@
+{
+  "title": "Fermented Red Pepper Kissed Tagine",
+  "description": "A sweet and spicy Canadian tagine recipe, perfect for meal prep, featuring fermented red peppers and cooked in a copper pot.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fermented Red Peppers",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Malted Barley Syrup",
+      "amount": "1 tablespoon",
+      "notes": "To enhance malty flavor"
+    },
+    {
+      "name": "Copper Pot",
+      "amount": "",
+      "notes": "Non-stick or seasoned"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": "For low-carb and dairy-free"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Fresh or canned"
+    },
+    {
+      "name": "Fermented Jang",
+      "amount": "2 tablespoons",
+      "notes": "Spicy seasoning blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in the copper pot over medium heat.",
+    "Add the diced onions and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the fermented red peppers, tomatoes, fermented jang, salt, and black pepper. Stir well.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the tagine thickens.",
+    "Stir in the malted barley syrup to enhance the malty flavor.",
+    "Taste and adjust seasoning as needed.",
+    "Transfer the tagine to a serving dish and garnish with chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "fermented",
+    "low-carb",
+    "malty",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "kissed-with-ferment-canadian-red-pepper-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-ferment-canadian-red-pepper-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T17:10:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "ferment-jang",
+    "primaryIngredient": "red pepper",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "red pepper",
+    "descriptor": "Kissed With Ferment",
+    "dishForm": "Tagine"
+  }
+}
