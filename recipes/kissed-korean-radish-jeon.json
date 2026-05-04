@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Korean Radish Jeon",
+  "description": "Salty and creamy Korean pancake featuring julienned radish simmered in a gentle batter, served warm in a scallop‑shaped dish.",
+  "cuisine": "Korean",
+  "diet": [
+    "shojin-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean radish (mu)",
+      "amount": "200 g",
+      "notes": "thinly sliced into 2 mm rounds"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "50 g"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "20 g"
+    },
+    {
+      "name": "Water",
+      "amount": "100 ml"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "10 ml"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "5 ml"
+    },
+    {
+      "name": "Gochugaru (optional)",
+      "amount": "1 g"
+    },
+    {
+      "name": "Scallion",
+      "amount": "1 stalk",
+      "notes": "finely sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 g"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 g"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Wash and slice the radish into thin rounds, then set aside.",
+    "In a bowl whisk the eggs, flour, cornstarch, water, soy sauce, salt, and sugar until the batter is smooth.",
+    "Add the sliced radish to the batter and stir until each slice is well coated.",
+    "Heat a shallow pan or a small ceramic dish shaped like a scallop shell, then drizzle with sesame oil over medium heat.",
+    "Pour the radish batter into the pan, spreading it evenly, and cook for about 2 minutes until the edges firm up.",
+    "Flip the jeon carefully and cook the other side for another 2 minutes until golden brown.",
+    "Sprinkle sliced scallion, gochugaru, and sesame seeds over the jeon, then drizzle a little more sesame oil and let it steam for 1 minute.",
+    "Serve the jeon hot, optionally with a small bowl of soy sauce for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "jeon",
+    "korean",
+    "radish",
+    "salty",
+    "shojin-friendly"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "kissed-korean-radish-jeon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-korean-radish-jeon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:40:20Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "radish",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Radish",
+    "descriptor": "Kissed",
+    "dishForm": "Jeon"
+  }
+}
