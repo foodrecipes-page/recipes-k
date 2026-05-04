@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Adventurous Russian Figs Skewers",
+  "description": "A fresh and shaggy Russian dish featuring figs, this recipe is perfect for adventurous eaters, featuring a combination of sweet and savory flavors. It is satvik-friendly and cooked on a tava-griddle.",
+  "cuisine": "Russian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fresh figs",
+      "amount": "12",
+      "notes": "cut into halves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh mint",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle over medium heat.",
+    "Thread a fig half onto a skewer, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, balsamic vinegar, and honey.",
+    "Brush the mixture onto both sides of the figs.",
+    "Sprinkle chopped mint and basil onto the figs.",
+    "Season with salt and black pepper to taste.",
+    "Place the skewers onto the preheated tava-griddle and cook for 2-3 minutes per side.",
+    "Serve the skewers warm, garnished with additional mint and basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "easy-appetizers",
+    "fresh-figs",
+    "quick-snacks",
+    "russian-food",
+    "tava-griddle",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "kissed-adventurous-russian-figs-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-adventurous-russian-figs-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:58:19Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "figs",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "figs",
+    "descriptor": "Kissed adventurous",
+    "dishForm": "Skewers"
+  }
+}
