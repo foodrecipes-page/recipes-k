@@ -1,0 +1,135 @@
+{
+  "title": "Kissed by Fire Irish Beef Stew",
+  "description": "A sweet and molten Irish beef stew made with minced beef, perfect for a romantic date-night dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "beef",
+    "gluten",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Minced Beef",
+      "amount": "450g",
+      "notes": "80/20 lean to fat ratio for best flavor and texture."
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium size."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced."
+    },
+    {
+      "name": "Carrots",
+      "amount": "3",
+      "notes": "medium size."
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2",
+      "notes": "medium size."
+    },
+    {
+      "name": "Red Wine",
+      "amount": "250ml",
+      "notes": "dry red wine for depth of flavor."
+    },
+    {
+      "name": "Beef Stock",
+      "amount": "1L",
+      "notes": "homemade or store-bought."
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "concentrated tomato paste for rich flavor."
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tbsp",
+      "notes": "adds sweetness and depth to the stew."
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 tsp",
+      "notes": "dried thyme for aroma and flavor."
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground black pepper for best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "unrefined sea salt for best flavor."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted butter for richness and flavor."
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "100ml",
+      "notes": "adds creaminess and richness to the stew."
+    }
+  ],
+  "instructions": [
+    "Heat the butter in the yakimono-grill over medium heat.",
+    "Sear the minced beef until browned, breaking it up with a spoon as it cooks.",
+    "Remove the browned beef from the grill and set it aside.",
+    "Add the onion and garlic to the grill and sauté until the onion is translucent.",
+    "Add the carrots and potatoes to the grill and cook for 5 minutes.",
+    "Add the red wine, beef stock, tomato paste, brown sugar, thyme, black pepper, and salt to the grill.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the browned beef to the grill and stir to combine.",
+    "Transfer the stew to a terracotta dish and cover with a lid.",
+    "Bake the stew in a preheated oven at 180\b17C (350\bAF) for 30 minutes.",
+    "After 30 minutes, remove the stew from the oven and stir in the heavy cream.",
+    "Return the stew to the oven and bake for an additional 10 minutes, or until the cream has thickened and the stew is hot and bubbly.",
+    "Serve the stew hot, garnished with fresh thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "date-night",
+    "irish",
+    "stew",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "kissed-by-fire-irish-beef-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-fire-irish-beef-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:32Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "minced beef",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed by Fire",
+    "dishForm": "Stew"
+  }
+}

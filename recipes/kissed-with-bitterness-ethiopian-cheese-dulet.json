@@ -1,0 +1,65 @@
+{
+  "title": "Kissed with Bitterness Ethiopian Cheese Dulet",
+  "description": "A post-workout Ethiopian dish featuring shredded Mexican cheese, rich flavor, and a satisfying crunch. Made with love and bitterness in mind.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shredded Mexican cheese",
+      "amount": "8 ounces",
+      "notes": "Monterey Jack or similar"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat, about 2 minutes.",
+    "Add cumin powder and red pepper flakes, cook for 1 minute, stirring constantly.",
+    "Add shredded beetroot and cook for 2 minutes, stirring occasionally.",
+    "Add caramelized onion and cook for 1 minute, stirring occasionally.",
+    "Add shredded Mexican cheese and cook for 1-2 minutes, until melted and creamy.",
+    "Stir in lemon juice and season with salt, black pepper, and cayenne pepper.",
+    "Transfer the mixture to a ceramic tagine and serve hot, garnished with fresh cilantro.",
+    "Serve immediately, while the cheese is still slightly melted and the flavors are still combined."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "ethiopian",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 16,
+    "fat": 16
+  },
+  "slug": "kissed-with-bitterness-ethiopian-cheese-dulet",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-bitterness-ethiopian-cheese-dulet",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:41:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "shredded mexican cheese",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Cheese",
+    "descriptor": "Kissed with bitterness",
+    "dishForm": "Dulet"
+  }
+}

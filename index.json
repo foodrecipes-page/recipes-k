@@ -1150,6 +1150,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-by-fire-irish-beef-stew",
+    "title": "Kissed by Fire Irish Beef Stew",
+    "tags": [
+      "beef",
+      "comfort-food",
+      "date-night",
+      "irish",
+      "stew",
+      "winter"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-by-heat-tohoku-banana-chirashi",
     "title": "Kissed by Heat Tohoku Banana Chirashi",
     "tags": [
@@ -3796,6 +3811,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-bitterness-ethiopian-cheese-dulet",
+    "title": "Kissed with Bitterness Ethiopian Cheese Dulet",
+    "tags": [
+      "cheese",
+      "ethiopian",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
