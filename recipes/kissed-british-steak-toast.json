@@ -1,0 +1,101 @@
+{
+  "title": "Kissed British Steak Toast",
+  "description": "Floral, fluffy, light British dish featuring fillet of steak, toast, nut‑free‑friendly.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "fillet mignon",
+      "amount": "150 g"
+    },
+    {
+      "name": "sourdough bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 sprig"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried lavender",
+      "amount": "1/8 tsp",
+      "notes": "small pinch"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Season the fillet with sea salt and freshly ground black pepper on both sides.",
+    "Heat a skillet over high heat and melt the unsalted butter, then add the fresh rosemary and a small pinch of dried lavender.",
+    "Sear the seasoned steak for about two minutes per side until a golden crust forms, then transfer it to a warm plate to rest.",
+    "While the steak rests, toast the sourdough slices in the same skillet until golden, brushing them lightly with melted butter.",
+    "Spread a thin layer of Dijon mustard on each toasted slice, then drizzle with honey and sprinkle lemon zest.",
+    "Slice the rested steak into thin strips and arrange them over the prepared toast.",
+    "Finish by sprinkling additional fresh rosemary and a dash of dried lavender over the steak.",
+    "Serve immediately, optionally pairing with a small splash of white wine on the side."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "british",
+    "nut-free",
+    "quick",
+    "steak",
+    "toast"
+  ],
+  "nutrition": {
+    "calories": 675,
+    "protein": 47,
+    "carbs": 52,
+    "fat": 38
+  },
+  "slug": "kissed-british-steak-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-british-steak-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:11:40Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "toast",
+    "primaryIngredient": "fillet of steak",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "steak",
+    "descriptor": "Kissed",
+    "dishForm": "Toast"
+  }
+}
