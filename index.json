@@ -634,6 +634,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-canadian-salmon-broth",
+    "title": "Kissed Canadian Salmon Broth",
+    "tags": [
+      "korean-brass-bowl",
+      "low-sodium",
+      "quick",
+      "salmon",
+      "smoky",
+      "tangy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crispy-canadian-goose-bake",
     "title": "Kissed Crispy Canadian Goose Bake",
     "tags": [
@@ -1088,6 +1103,22 @@
       "smoky"
     ],
     "cuisine": "Maharashtrian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-malty-canadian-pistachio-bowl",
+    "title": "Kissed Malty Canadian Pistachio Bowl",
+    "tags": [
+      "bento-box",
+      "canadian",
+      "dairy-free",
+      "malty",
+      "pistachio",
+      "quick-fix",
+      "vegan"
+    ],
+    "cuisine": "Canadian",
     "totalTimeMin": 35,
     "shard": "k"
   },

@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Malty Canadian Pistachio Bowl",
+  "description": "A quick, dairy-free bowl packed with malty quinoa, roasted sweet potato, confit tomatoes and unsalted pistachios, perfect for a bento-box lunch.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "1 medium",
+      "notes": "cut into 1/2-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "confit tomatoes",
+      "amount": "1/2 cup",
+      "notes": "canned or fresh, simmered with 1 tsp barley malt powder"
+    },
+    {
+      "name": "unsalted pistachios",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "2 cups"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the quinoa under cold water until the water runs clear.",
+    "In a saucepan, combine rinsed quinoa and 2 cups of water, bring to a boil, then reduce heat, cover, and simmer for 15 minutes until fluffy.",
+    "While the quinoa cooks, toss sweet potato cubes with 1 tbsp olive oil, 1/4 tsp salt, and a pinch of black pepper, then roast in a preheated oven at 400°F for 20 minutes.",
+    "Simmer confit tomatoes in a small pot with 1 tsp barley malt powder for 10 minutes to develop a malty depth.",
+    "Sauté spinach leaves for 1 minute in a dry skillet until just wilted.",
+    "In a large bowl, combine cooked quinoa, roasted sweet potato, confit tomatoes, and wilted spinach; toss gently.",
+    "Transfer the mixture into a bento-box compartment, leaving space for the topping.",
+    "Slice the avocado and arrange on top of the quinoa mixture, then sprinkle with unsalted pistachios, drizzle maple syrup, lemon juice, and a pinch of pepper.",
+    "Serve immediately, or store the components separately to keep textures fresh."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "canadian",
+    "dairy-free",
+    "malty",
+    "pistachio",
+    "quick-fix",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 1228,
+    "protein": 23,
+    "carbs": 122,
+    "fat": 49
+  },
+  "slug": "kissed-malty-canadian-pistachio-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-malty-canadian-pistachio-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:52:14Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "confit-tomato",
+    "primaryIngredient": "unsalted pistachio",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Pistachio",
+    "descriptor": "Kissed Malty",
+    "dishForm": "Bowl"
+  }
+}

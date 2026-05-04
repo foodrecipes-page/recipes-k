@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Canadian Salmon Broth",
+  "description": "A tangy, aerated salmon broth with a splash of sake, smoky heat, and low-sodium flavors served in a Korean brass bowl for a Canadian twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillet, boneless, skin removed",
+      "amount": "200g"
+    },
+    {
+      "name": "Sake",
+      "amount": "50ml"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "1l"
+    },
+    {
+      "name": "Fresh ginger, sliced",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "Fresh green onions, sliced",
+      "amount": "1tbsp"
+    }
+  ],
+  "instructions": [
+    "Place salmon fillet in a heatproof Korean brass bowl.",
+    "Pour sake over salmon and let it rest for 3 minutes to infuse.",
+    "Add low-sodium soy sauce, smoked paprika, lemon zest, ginger, green onions, and water, then bring to a gentle boil.",
+    "Reduce heat and simmer for 8 minutes, ensuring salmon cooks through and broth collects flavors.",
+    "Carefully remove salmon and shred with two forks, then return shredded flesh to the broth.",
+    "Stir in chopped dill and simmer an additional 2 minutes for aromatics.",
+    "Remove the bowl from heat and let the broth sit for 2 minutes to aerate.",
+    "Taste and adjust seasoning with a pinch of sea salt if needed.",
+    "Serve hot in the Korean brass bowl, optionally garnished with extra dill."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "korean-brass-bowl",
+    "low-sodium",
+    "quick",
+    "salmon",
+    "smoky",
+    "tangy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 24,
+    "carbs": 3,
+    "fat": 12
+  },
+  "slug": "kissed-canadian-salmon-broth",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-salmon-broth",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:51:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "sake",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Kissed",
+    "dishForm": "Broth"
+  }
+}
