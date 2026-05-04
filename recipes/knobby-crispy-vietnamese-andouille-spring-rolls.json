@@ -1,0 +1,103 @@
+{
+  "title": "Knobby Crispy Vietnamese Andouille Spring Rolls",
+  "description": "A light and crispy Vietnamese dish featuring Andouille sausage and yuzu cure, diabetic friendly and full of nutty flavor.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "spring roll wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat to 350 degrees.",
+    "In a large bowl, whisk together the yuzu juice, fish sauce, and rice vinegar.",
+    "Add the sliced Andouille sausage to the bowl and toss to coat with the yuzu mixture.",
+    "Lay a spring roll wrapper on a flat surface and brush the edges with a little water.",
+    "Place a few slices of the sausage in the center of the wrapper, leaving a 1 inch border around the edges.",
+    "Sprinkle some chopped scallions and toasted sesame seeds over the sausage.",
+    "Fold the bottom half of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "When the oil is hot, add a few of the spring rolls to the skillet and fry until golden brown and crispy, about 3-4 minutes on each side.",
+    "Remove the spring rolls from the oil and drain on paper towels.",
+    "Serve the spring rolls hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "crispy",
+    "diabetic-friendly",
+    "low-carb",
+    "snack",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "knobby-crispy-vietnamese-andouille-spring-rolls",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-crispy-vietnamese-andouille-spring-rolls",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:37:37Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "andouille-french",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Andouille",
+    "descriptor": "Knobby Crispy",
+    "dishForm": "Spring-Rolls"
+  }
+}
