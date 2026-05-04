@@ -1,0 +1,105 @@
+{
+  "title": "Kicked Crispy Uruguayan Beef Skewers",
+  "description": "A crowd-pleasing Uruguayan dish featuring crispy beef skewers with a sour and glassy-jelly sauce, perfect for a low-carb friendly meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, olive oil, garlic, paprika, salt, and black pepper.",
+    "Add the beef cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef cubes onto skewers, leaving a small space between each piece.",
+    "Dip each skewer into the beaten egg and then coat in almond flour, shaking off excess.",
+    "Double-fry the skewers in hot oil at 350 degrees Fahrenheit for 2-3 minutes on each side, until crispy and golden brown.",
+    "Place the fried skewers on a baking sheet lined with parchment paper and bake for 10-12 minutes, until cooked through.",
+    "While the skewers are baking, prepare the glassy-jelly sauce by melting the grana padano cheese in a saucepan over low heat, stirring constantly.",
+    "Serve the crispy beef skewers with the sour and glassy-jelly sauce spooned over the top.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-entertaining",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "kicked-crispy-uruguayan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crispy-uruguayan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:55:55Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "beef",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "kicked crispy",
+    "dishForm": "Skewers"
+  }
+}
