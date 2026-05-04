@@ -899,6 +899,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-spicy-irish-grapes-sushi",
+    "title": "Kissed Spicy Irish Grapes Sushi",
+    "tags": [
+      "grapes",
+      "irish-flair",
+      "light",
+      "quick",
+      "spicy-sushi"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-syrian-peanuts-kebabs",
     "title": "Kissed Syrian Peanuts Kebabs",
     "tags": [

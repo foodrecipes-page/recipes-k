@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Spicy Irish Grapes Sushi",
+  "description": "A light, spicy sushi featuring fresh black and green grapes, vinegared rice, and crisp pumpkin seeds for a burst of Irish flair.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "200g",
+      "notes": "rinsed and cooked"
+    },
+    {
+      "name": "black grapes",
+      "amount": "50g",
+      "notes": "seedless, diced"
+    },
+    {
+      "name": "green grapes",
+      "amount": "50g",
+      "notes": "seedless, diced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted pumpkin seeds",
+      "amount": "30g"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g sushi rice until clear, then cook with 240ml water until tender and fluffy, about 20 minutes, then let cool.",
+    "Whisk 1 tbsp rice vinegar, 1 tsp sugar, and a pinch of salt until sugar dissolves.",
+    "Dice 50g black grapes and 50g green grapes, then toss with the vinegar mixture, 1 tsp sriracha, 1 tsp sesame oil, lemon zest, mint, and black pepper, letting flavors mingle for 5 minutes.",
+    "Fill a shallow dish with the cooled rice, then form small, even rice balls about the size of a grape cluster, using a damp cloth to keep hands from sticking.",
+    "Place a grape cluster in the center of each rice ball, then gently compress the rice around the grapes to form a tight, nigiri‑style shape.",
+    "Sprinkle toasted pumpkin seeds and toasted sesame seeds over the top of each sushi piece, then drizzle a thin line of sriracha over the seeds for extra heat.",
+    "Arrange the kissed spicy Irish grape sushi on a chilled plate, garnish with thin seaweed strips if desired, and serve immediately.",
+    "Enjoy the fresh, spicy, and crisp bite of Irish grapes wrapped in vinegared sushi rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grapes",
+    "irish-flair",
+    "light",
+    "quick",
+    "spicy-sushi"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 18,
+    "carbs": 69,
+    "fat": 22
+  },
+  "slug": "kissed-spicy-irish-grapes-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-irish-grapes-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:03:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "grapes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "grapes",
+    "descriptor": "Kissed Spicy",
+    "dishForm": "Sushi"
+  }
+}
