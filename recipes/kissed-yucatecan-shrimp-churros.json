@@ -1,0 +1,112 @@
+{
+  "title": "Kissed Yucatecan Shrimp Churros",
+  "description": "A resinous, bouncy shrimp churro that blends Yucatecan flair with Jamaican curry and fermented kimchi, all in a keto-friendly format.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and minced",
+      "amount": "200 g",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "fermented kimchi, diced",
+      "amount": "50 g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "xanthan gum",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oil for frying",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the minced shrimp, Jamaican curry powder, diced kimchi, salt, pepper, and chili flakes until evenly coated.",
+    "Whisk the egg, melted butter, and water together, then stir in almond flour, coconut flour, and xanthan gum until a smooth dough forms.",
+    "Fold the shrimp mixture into the dough, ensuring the shrimp are evenly distributed throughout.",
+    "Heat 1/2 cup of oil in a deep skillet over medium-high heat until it reaches 350°F (175°C).",
+    "Pipe the dough into a pastry bag fitted with a 1/2-inch star tip, forming 3-inch sticks over the hot oil.",
+    "Fry the churros until golden brown and puffed, about 2–3 minutes per side, flipping once.",
+    "Remove the churros with a slotted spoon and let them drain briefly on paper towels.",
+    "Dust the churros with coconut flour and a pinch of curry powder before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curried",
+    "keto-friendly",
+    "kimchi",
+    "mexican",
+    "quick-fix",
+    "shrimp",
+    "yucatecan"
+  ],
+  "nutrition": {
+    "calories": 546,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 41
+  },
+  "slug": "kissed-yucatecan-shrimp-churros",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yucatecan-shrimp-churros",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:10:54Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "keto",
+    "region": "yucatecan",
+    "cuisineAdjective": "Yucatecan",
+    "mainIngredient": "shrimp",
+    "descriptor": "Kissed",
+    "dishForm": "Churros"
+  }
+}
