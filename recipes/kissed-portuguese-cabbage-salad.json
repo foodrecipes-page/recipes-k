@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Portuguese Cabbage Salad",
+  "description": "A fresh savoy cabbage salad with a citrusy vinaigrette, topped with creamy feta and a hint of honey for a sweet finish, perfect for a romantic date night.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100 grams",
+      "notes": "crumbled"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Wash and finely chop the savoy cabbage into bite‑sized pieces.",
+    "In a small bowl whisk together the olive oil, balsamic vinegar, lemon zest, minced garlic, salt, and pepper until emulsified.",
+    "Pour the vinaigrette over the cabbage and toss to coat evenly.",
+    "Add the crumbled feta cheese and drizzle with honey, then gently fold all ingredients together.",
+    "Let the salad sit for 5 minutes to allow flavors to meld.",
+    "Taste and adjust seasoning if needed, adding more salt, pepper, or honey.",
+    "Serve immediately on a chilled plate, pairing with crusty bread or grilled fish.",
+    "Enjoy the bright, grassy flavors as a light yet satisfying dinner."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "date-night",
+    "diabetic-friendly",
+    "grassy",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "kissed-portuguese-cabbage-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-portuguese-cabbage-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:02:49Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Kissed",
+    "dishForm": "Salad"
+  }
+}
