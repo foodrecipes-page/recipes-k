@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Crispy Chinese Scallion Pancakes",
+  "description": "A briny and crispy Chinese dish featuring dijon mustard and score-fat, cooked to perfection on a raclette grill, this scallion pancake is a festive treat for any meal, made with ayurvedic-sattvic-friendly ingredients for a balanced diet.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "ayurvedic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or substitute with sesame oil"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt to make the dough.",
+    "Add dijon mustard, score-fat, and chopped scallions to the bowl and mix until a shaggy dough forms.",
+    "Gradually add water to the dough and knead for about 10 minutes until the dough becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a thin circle.",
+    "Brush the raclette grill with a small amount of score-fat and heat it to medium-high heat.",
+    "Place a dough circle on the grill and cook for about 2 minutes on each side, until crispy and golden brown.",
+    "Repeat the cooking process with the remaining dough pieces.",
+    "Sprinkle the cooked pancakes with sesame seeds and black pepper if desired.",
+    "Serve the scallion pancakes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "chinese-food",
+    "crispy",
+    "festive",
+    "raclette-grill",
+    "scallion-pancake",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-crispy-chinese-scallion-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-chinese-scallion-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:59:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "score-fat",
+    "primaryIngredient": "dijon mustard",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "scallions",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Scallion Pancakes"
+  }
+}
