@@ -1,0 +1,104 @@
+{
+  "title": "Kissed with Smoky Flaky Kenyan Sweet Potatoes Hash",
+  "description": "A flavorful and flaky vegetarian hash dish featuring smoky sweet potatoes, blackcurrant jam, and a hint of floral notes.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large sweet potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "",
+      "notes": "use a high-smoke-point oil"
+    },
+    {
+      "name": "1 onion",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup blackcurrant jam",
+      "amount": "",
+      "notes": "use a high-quality jam"
+    },
+    {
+      "name": "1 tsp ground ginger",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": "smoked paprika adds a deep smoky flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Peel and dice the sweet potatoes, placing them in a large bowl.",
+    "Drizzle the vegetable oil over the sweet potatoes and toss to coat.",
+    "Add the diced onion and minced garlic to the bowl with the sweet potatoes.",
+    "In a small bowl, mix together the blackcurrant jam, ground ginger, and smoked paprika.",
+    "Pour the jam mixture over the sweet potatoes and toss to coat.",
+    "Season the mixture with salt and pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "While the sweet potatoes are baking, heat a molcajete over medium heat.",
+    "Once the sweet potatoes are done, remove them from the oven and let them cool slightly.",
+    "Add the cooked sweet potatoes to the molcajete and cook for an additional 5-7 minutes, breaking them up with a spatula as they cook.",
+    "Serve the sweet potato hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hash",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "potatoes",
+    "sweet",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-with-smoky-flaky-kenyan-sweet-potatoes-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-smoky-flaky-kenyan-sweet-potatoes-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:23:08Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Kissed with Smoky Flaky",
+    "dishForm": "Hash"
+  }
+}
