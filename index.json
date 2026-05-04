@@ -749,6 +749,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-garlicky-slovakian-water-chestnut-dumplings",
+    "title": "Kissed Garlicky Slovakian Water Chestnut Dumplings",
+    "tags": [
+      "ferment-kimchi",
+      "romantic-dinner",
+      "slovakian",
+      "vegan",
+      "vegetarian",
+      "water-chestnut"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-german-minari-skewers",
     "title": "Kissed German Minari Skewers",
     "tags": [
@@ -926,6 +941,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-mustardy-indian-lentils-stew",
+    "title": "Kissed Mustardy Indian Lentils Stew",
+    "tags": [
+      "egg-free",
+      "kimchi",
+      "midnight-craving",
+      "mustard",
+      "sambhar",
+      "vegan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {

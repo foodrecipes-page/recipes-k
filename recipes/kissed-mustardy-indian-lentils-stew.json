@@ -1,0 +1,114 @@
+{
+  "title": "Kissed Mustardy Indian Lentils Stew",
+  "description": "A tangy, mustard-infused lentil stew with fermented kimchi and a sweet mirin-honey glaze, perfect for midnight cravings.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red chili",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "kimchi",
+      "amount": "100g"
+    },
+    {
+      "name": "mirin honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup lentils until water runs clear and set aside.",
+    "Heat 2 tbsp coconut oil in a pot over medium heat and add 1 tbsp mustard seeds until they pop.",
+    "Add 1 tsp turmeric, 1 tsp red chili, and 1 tsp ginger, sauté for 1 minute until fragrant.",
+    "Stir in 1 cup chopped onions and cook until translucent, about 5 minutes.",
+    "Add 2 chopped tomatoes and cook until they break down, about 4 minutes.",
+    "Pour in 4 cups water, bring to a boil, then add lentils and 1 tsp salt; reduce heat and simmer for 25 minutes until lentils are tender.",
+    "Stir in 1 tbsp tamarind paste, 100g kimchi, and 1 tbsp mirin honey; simmer for another 5 minutes.",
+    "Ladle stew into bowls and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "kimchi",
+    "midnight-craving",
+    "mustard",
+    "sambhar",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "kissed-mustardy-indian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mustardy-indian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:21:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "mirin-hon",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Kissed Mustardy",
+    "dishForm": "Stew"
+  }
+}
