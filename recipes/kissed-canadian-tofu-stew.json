@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Canadian Tofu Stew",
+  "description": "A garlicky, tender stew that blends Canadian maple sweetness with fennel seed warmth, featuring double-fried tofu and simmered in a claypot for a romantic, jain-friendly meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan",
+    "jain-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Press tofu to remove excess moisture and cut into 1-inch cubes.",
+    "Heat 1 tablespoon olive oil in a skillet and double-fry tofu cubes until golden, then set aside on paper towels.",
+    "In the same skillet, add remaining oil and sauté minced garlic until fragrant.",
+    "Add fennel seeds, smoked paprika, thyme, salt, and pepper, cooking for 30 seconds.",
+    "Pour in vegetable broth and soy sauce, bring to a boil.",
+    "Stir in maple syrup, coconut milk, and the double-fried tofu, reduce heat and simmer for 15 minutes.",
+    "Taste and adjust seasoning if necessary.",
+    "Serve hot, garnished with fresh parsley, directly from the claypot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "claypot",
+    "double-fry",
+    "garlicky",
+    "jain-friendly",
+    "romantic",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 368,
+    "protein": 23,
+    "carbs": 45,
+    "fat": 52
+  },
+  "slug": "kissed-canadian-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:29:53Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "romantic",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "fennel seeds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tofu",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
