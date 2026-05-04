@@ -425,6 +425,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-american-pineapple-cobbler",
+    "title": "kissed american pineapple cobbler",
+    "tags": [
+      "american",
+      "cobbler",
+      "dessert",
+      "homestyle",
+      "pineapple",
+      "spiced"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-argentinian-beans-stew",
     "title": "Kissed Argentinian Beans Stew",
     "tags": [
