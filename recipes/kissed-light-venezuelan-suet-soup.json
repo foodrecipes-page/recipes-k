@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Light Venezuelan Suet Soup",
+  "description": "A cultured, creamy Venezuelan soup featuring suet and long-fermentation dough, served in a scallop shell for a light, lacto-vegetarian experience.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "20g"
+    },
+    {
+      "name": "long-fermentation dough",
+      "amount": "50g"
+    },
+    {
+      "name": "water for dough",
+      "amount": "100ml"
+    },
+    {
+      "name": "plant milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "50g"
+    },
+    {
+      "name": "spinach, chopped",
+      "amount": "100g"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "2g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, bring 1 liter of water to a boil and set aside.",
+    "In a small bowl, mix the long-fermentation dough with 100ml water to rehydrate; let rest 10 minutes.",
+    "In a separate pan, melt 20g suet over medium heat until fragrant.",
+    "Add diced onion and minced garlic to the suet, sauté until translucent.",
+    "Stir in the rehydrated dough, allowing it to dissolve and thicken the base.",
+    "Pour in 200ml plant milk and 50g plain yogurt, whisk until smooth.",
+    "Add chopped spinach, salt, and pepper; simmer until spinach wilts, about 5 minutes.",
+    "Transfer the hot soup into a scallop shell, garnish with a drizzle of olive oil, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-soup",
+    "fermented-dough",
+    "lacto-friendly",
+    "light-soup",
+    "scallop-shell"
+  ],
+  "nutrition": {
+    "calories": 252,
+    "protein": 10,
+    "carbs": 28,
+    "fat": 14
+  },
+  "slug": "kissed-light-venezuelan-suet-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-venezuelan-suet-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:50:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "suet",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Suet",
+    "descriptor": "Kissed Light",
+    "dishForm": "Soup"
+  }
+}
