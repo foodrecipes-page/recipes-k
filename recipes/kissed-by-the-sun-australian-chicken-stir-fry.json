@@ -1,0 +1,104 @@
+{
+  "title": "Kissed by the sun Australian chicken stir-fry",
+  "description": "A cultured and chewy Australian dish, featuring yellow pepper, perfect for a romantic evening with loved ones. The low-fat-friendly recipe is cooked to perfection in a claypot.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g"
+    },
+    {
+      "name": "yellow pepper",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1"
+    },
+    {
+      "name": "chicken stock",
+      "amount": "250ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the claypot over medium heat and add the olive oil.",
+    "Add the chicken breast and cook for 5 minutes on each side, or until browned.",
+    "Add the sliced onion, minced garlic, and diced yellow pepper to the claypot.",
+    "Cook for an additional 3-4 minutes, or until the vegetables are tender.",
+    "Add the sliced zucchini, chicken stock, honey, paprika, salt, and black pepper to the claypot.",
+    "Stir well to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook for 10-12 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh parsley or basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "easy-dinner",
+    "low-fat",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "kissed-by-the-sun-australian-chicken-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-the-sun-australian-chicken-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:49:06Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "yellow pepper",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed by the sun",
+    "dishForm": "Stir-fry"
+  }
+}
