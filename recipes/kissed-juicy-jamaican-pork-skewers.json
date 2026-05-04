@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Juicy Jamaican Pork Skewers",
+  "description": "A light and juicy Jamaican dish featuring Appleton rum and shio-koji-cure, perfect for a satvik-friendly meal. The fermentation process gives the pork a unique and delicious flavor.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Appleton rum, shio-koji, brown sugar, soy sauce, lime juice, scallions, thyme, and cayenne pepper to make the marinade.",
+    "Add the pork cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight to allow the pork to ferment.",
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Thread the marinated pork cubes onto skewers, leaving a small space between each cube.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the pork is cooked through and slightly charred.",
+    "Serve the skewers hot, garnished with additional scallions and thyme if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with your favorite sides, such as grilled vegetables or coconut rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "grilled-meat",
+    "jamaican-cuisine",
+    "rum-infused",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kissed-juicy-jamaican-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-jamaican-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:24:36Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "appleton rum",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pork",
+    "descriptor": "kissed juicy",
+    "dishForm": "Skewers"
+  }
+}
