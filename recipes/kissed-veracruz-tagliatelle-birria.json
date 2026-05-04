@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Veracruz Tagliatelle Birria",
+  "description": "A light, earth‑rich birria inspired pasta that marries tagliatelle with smoky chipotle jackfruit and tangy nuka‑pickle for a satvik-friendly twist.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "200 g"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "50 g"
+    },
+    {
+      "name": "canned jackfruit, drained and shredded",
+      "amount": "150 g"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "200 g"
+    },
+    {
+      "name": "coconut milk, full fat",
+      "amount": "100 ml"
+    },
+    {
+      "name": "chipotle powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle until al dente, about 8 minutes, then drain and set aside.",
+    "In a skillet, heat the olive oil over medium heat and add the shredded jackfruit, stirring until lightly browned.",
+    "Pour in the tomato sauce and coconut milk, then add the chipotle powder, cumin, and salt; bring to a simmer and let the sauce thicken for 5 minutes.",
+    "Fold in the cooked tagliatelle and the nuka‑pickle pieces, stirring to combine, and cook for an additional 2 minutes.",
+    "Remove from heat and adjust seasoning if needed.",
+    "Serve hot, garnished with a sprinkle of fresh cilantro.",
+    "Enjoy the aromatic, satvik-friendly birria twist on classic pasta.",
+    "Clean up the pan and utensils."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "birria",
+    "satvik",
+    "tagliatelle",
+    "vegetarian",
+    "veracruz"
+  ],
+  "nutrition": {
+    "calories": 1190,
+    "protein": 31,
+    "carbs": 179,
+    "fat": 40
+  },
+  "slug": "kissed-veracruz-tagliatelle-birria",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-veracruz-tagliatelle-birria",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:16:52Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tagliatelle",
+    "diet": "satvik",
+    "region": "veracruzan",
+    "cuisineAdjective": "Veracruz",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Kissed",
+    "dishForm": "Birria"
+  }
+}
