@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Galician Turkey Ham Crema Catalana",
+  "description": "A light, fermented custard dessert with crisp fried turkey ham and a sugar‑free caramel finish.",
+  "cuisine": "Spanish Galician",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "kefir",
+      "amount": "100ml"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "4 large"
+    },
+    {
+      "name": "erythritol",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "grated nutmeg",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a 2L saucepan over medium and add turkey ham cubes, stir‑frying until golden, about 3 minutes; set aside.",
+    "Pour milk, almond milk, kefir, add cinnamon, vanilla, lemon zest into the same saucepan and bring to a gentle simmer, 4–5 minutes.",
+    "In a bowl whisk egg yolks with erythritol until pale; add a pinch of salt.",
+    "Tempering: slowly pour a small amount of the hot milk into the yolks while whisking continuously.",
+    "Stir the tempered yolk mixture back into the saucepan; add the fried ham and cook over low heat, stirring constantly, until custard thickens to a glaze consistency, about 5–7 minutes.",
+    "Transfer custard into 4 ramekins; sprinkle grated nutmeg on top.",
+    "Place ramekins in a preheated oven at 160°C and bake until edges set but center still slightly jiggly, 12–15 minutes.",
+    "Cool to room temperature, then refrigerate 2 hours before serving.",
+    "Just before serving, dust lightly with powdered erythritol for a sweet finish.",
+    "Serve chilled with fresh berries or a sugar‑free caramel glaze (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "fermented",
+    "galician",
+    "one-pot",
+    "sugar-free-friendly",
+    "turkey"
+  ],
+  "nutrition": {
+    "calories": 700,
+    "protein": 70,
+    "carbs": 19,
+    "fat": 38
+  },
+  "slug": "kissed-galician-turkey-ham-crema-catalana",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-galician-turkey-ham-crema-catalana",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:35:48Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "turkey ham",
+    "diet": "sugar-free",
+    "region": "galician",
+    "cuisineAdjective": "Galician",
+    "mainIngredient": "Turkey Ham",
+    "descriptor": "Kissed",
+    "dishForm": "Crema Catalana"
+  }
+}
