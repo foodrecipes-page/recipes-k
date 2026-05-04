@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Golden Canadian Crepes Pancakes",
+  "description": "A nostalgic Canadian dish featuring milk and a touch of flambe, these crepes pancakes are a funky and springy treat, low-fat-friendly and perfect for any time of day. They are made with a delicate balance of ingredients to create a truly unique flavor experience.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grand marnier",
+      "amount": "1 tablespoon",
+      "notes": "for flambe"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and salt to combine.",
+    "In a separate bowl, whisk together the eggs, milk, and vanilla extract until well combined.",
+    "Add the melted butter to the egg mixture and whisk until smooth.",
+    "Gradually add the dry ingredients to the wet ingredients and whisk until a smooth batter forms.",
+    "Heat a small non-stick pan over medium heat and pour in just enough batter to coat the bottom of the pan.",
+    "Tilt the pan to evenly coat the bottom and cook for 1-2 minutes, until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip it over, cooking for another minute.",
+    "Repeat with the remaining batter, until all the crepes are cooked.",
+    "To flambe the crepes, add a small amount of grand marnier to the pan and ignite it, letting it burn for a few seconds before extinguishing the flame.",
+    "Serve the crepes hot, kissed with the golden flambe and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "canadian-cuisine",
+    "crepe-recipes",
+    "flambe-recipes",
+    "low-fat",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "kissed-golden-canadian-crepes-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-canadian-crepes-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:54:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "milk",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "crepes",
+    "descriptor": "Kissed Golden",
+    "dishForm": "Pancakes"
+  }
+}
