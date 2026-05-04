@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Roasted Syrian Chorizo Tagine",
+  "description": "A hearty and comforting Syrian dish featuring roasted chorizo, perfect for a sick day, and sugar-free friendly. This recipe combines tender chorizo with aromatic spices and steam to create a delicious and nourishing meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian chorizo",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced chorizo with olive oil, cumin, paprika, salt, and black pepper until the chorizo is evenly coated.",
+    "Spread the chorizo mixture on a baking sheet and roast in the oven for 20 minutes.",
+    "While the chorizo is roasting, heat the chicken broth in a large Dutch oven over medium heat.",
+    "Add the chopped onion to the Dutch oven and cook until it is softened and translucent.",
+    "Add the minced garlic to the Dutch oven and cook for an additional 1 minute.",
+    "Once the chorizo is done roasting, add it to the Dutch oven and stir to combine with the onion and garlic mixture.",
+    "Reduce heat to low and simmer the tagine for 10 minutes, allowing the flavors to meld together and the chorizo to steam in the aromatic broth."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "sugar-free",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kissed-roasted-syrian-chorizo-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-syrian-chorizo-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:14:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "steam",
+    "primaryIngredient": "chorizo",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Tagine"
+  }
+}
