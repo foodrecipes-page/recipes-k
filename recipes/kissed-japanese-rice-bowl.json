@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Japanese Rice Bowl",
+  "description": "A savory yet sweet brunch bowl featuring fragrant basmati rice topped with candied ginger, toasted sesame seeds, and a drizzle of honey-soy sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "candied ginger",
+      "amount": "2 tbsp, chopped"
+    },
+    {
+      "name": "crumbled toasted nori",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice until the water runs clear, then combine it with 2 cups of water in a pot.",
+    "Bring the rice to a boil, reduce heat to low, cover, and simmer for 15 minutes or until the water is absorbed.",
+    "While the rice cooks, whisk together light soy sauce, honey, miso paste, rice vinegar, grated ginger, and sesame oil until the miso is fully dissolved.",
+    "When the rice is done, fluff it with a fork and transfer it to a bowl.",
+    "Drizzle the honey-soy mixture over the rice and gently stir to combine.",
+    "Top the rice with sliced scallions, toasted sesame seeds, chopped candied ginger, and crumbled toasted nori.",
+    "Serve warm as a sweet‑savory brunch bowl that satisfies both savory and sweet cravings.",
+    "Enjoy immediately or cover and reheat gently before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "crunchy",
+    "halal",
+    "japanese",
+    "sweet-savory"
+  ],
+  "nutrition": {
+    "calories": 490,
+    "protein": 9,
+    "carbs": 82,
+    "fat": 9
+  },
+  "slug": "kissed-japanese-rice-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-japanese-rice-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:02:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "candy",
+    "primaryIngredient": "basmati rice",
+    "diet": "halal",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed",
+    "dishForm": "Bowl"
+  }
+}
