@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Buttery Chinese Cox Apple Wonton Soup",
+  "description": "A buttery and tender Yunnan-inspired dish featuring Cox apples, served in a wonton soup, perfect for a brunch mood. This Jain-friendly recipe is a unique twist on traditional Chinese cuisine.",
+  "cuisine": "Chinese",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cox apples",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "12-16 sheets"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, melt 2 tablespoons of butter over medium heat and add the grated ginger, cooking until fragrant.",
+    "Add the diced Cox apples to the pan and cook until they are tender, about 5 minutes.",
+    "Deglaze the pan with a small amount of vegetable broth, scraping up any browned bits from the bottom.",
+    "In a separate pot, bring the remaining vegetable broth to a boil and then reduce the heat to a simmer.",
+    "Assemble the wontons by placing a small spoonful of the cooked apple mixture onto the center of a wonton wrapper, and then brushing the edges with sesame oil and folding the wrapper into a triangle.",
+    "Add the wontons to the simmering broth and cook for 2-3 minutes, or until they float to the surface.",
+    "Season the broth with salt and black pepper to taste.",
+    "Serve the wonton soup hot, garnished with chopped green onions and a pat of butter on top.",
+    "Drizzle the remaining 2 tablespoons of melted butter over the top of the soup and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-recipe",
+    "chinese-cuisine",
+    "jain-friendly",
+    "vegetarian-dish",
+    "wonton-soup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-buttery-chinese-cox-apple-wonton-soup",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-buttery-chinese-cox-apple-wonton-soup",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:02:13Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "deglaze",
+    "primaryIngredient": "cox-apple",
+    "diet": "jain",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cox apple",
+    "descriptor": "kissed buttery",
+    "dishForm": "Wonton Soup"
+  }
+}
