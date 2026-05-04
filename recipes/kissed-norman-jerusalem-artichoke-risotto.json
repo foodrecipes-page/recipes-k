@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Norman Jerusalem Artichoke Risotto",
+  "description": "A garlicky, creamy, low‑carb risotto with Jerusalem artichokes, lemon zest, and a hint of truffle oil, served in a hot‑pot vessel.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "50g"
+    },
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "300g",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "White wine",
+      "amount": "60ml"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1.5L",
+      "notes": "warm"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil and butter in a wide hot‑pot vessel over medium heat until foamy.",
+    "Add the diced onion and minced garlic, sautéing until translucent, about 3 minutes.",
+    "Stir in the sliced Jerusalem artichokes and cook until they begin to soften, roughly 5 minutes.",
+    "Sprinkle the arborio rice over the mixture, stirring to coat grains in oil and toast lightly for 2 minutes.",
+    "Deglaze the pot with white wine, letting it reduce until nearly evaporated.",
+    "Gradually pour in warm vegetable broth, adding one ladle at a time, stirring frequently until each addition is absorbed before adding the next.",
+    "Continue cooking, stirring for 18–20 minutes until rice is al dente and artichokes are tender, then stir in lemon zest, thyme, and grated Parmesan.",
+    "Season with salt and pepper to taste, then drizzle a small amount of truffle oil if desired and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "low-carb",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 11,
+    "carbs": 17,
+    "fat": 11
+  },
+  "slug": "kissed-norman-jerusalem-artichoke-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-norman-jerusalem-artichoke-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:12:22Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "low-carb",
+    "region": "normandy",
+    "cuisineAdjective": "Norman",
+    "mainIngredient": "Jerusalem Artichokes",
+    "descriptor": "Kissed",
+    "dishForm": "Risotto"
+  }
+}
