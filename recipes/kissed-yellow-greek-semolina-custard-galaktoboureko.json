@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Yellow Greek Semolina Custard Galaktoboureko",
+  "description": "A traditional Greek dessert featuring semolina custard and a crispy phyllo crust, with a hint of yellow food coloring and a rich, resinous flavor from the lardons-render, served in a bento box for a unique twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina flour",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yellow food coloring",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a medium saucepan, combine the semolina flour, sugar, and 1/4 cup of the milk, whisking to avoid lumps.",
+    "Cook over medium heat, stirring constantly, until the mixture thickens and comes to a boil.",
+    "Remove from heat and stir in the eggs, one at a time, followed by the lardons-render and yellow food coloring.",
+    "Unroll the phyllo dough and cut it into 4 equal pieces.",
+    "Place a piece of the dough into a bento box, brushing with some of the melted butter.",
+    "Spoon some of the semolina custard into the center of the dough, leaving a 1 inch border around the edges.",
+    "Fold the dough over the custard, brushing the edges with a little water to seal.",
+    "Repeat with the remaining dough and custard.",
+    "Brush the tops of the galaktoboureko with the remaining butter and bake for 30 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "greek-dessert",
+    "phyllo-dough",
+    "resinous-flavor",
+    "semolina-custard",
+    "unique-twist"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-yellow-greek-semolina-custard-galaktoboureko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yellow-greek-semolina-custard-galaktoboureko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:55:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "lardons-render",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "semolina custard",
+    "descriptor": "Kissed Yellow",
+    "dishForm": "Galaktoboureko"
+  }
+}
