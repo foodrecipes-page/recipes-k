@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Peppery Syrian Galangal Stew",
+  "description": "A comforting Syrian stew featuring galangal, this dish is perfect for a chilly evening, with a peppery flavor and a springy texture from the galangal and vegetables.",
+  "cuisine": "Syrian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 medium roots",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell peppers",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat and saute the sliced galangal until fragrant.",
+    "Add the chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the diced red bell peppers and cook until they start to soften.",
+    "Add the canned diced tomatoes, vegetable broth, black pepper, and salt, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the sliced hard-boiled eggs and cook for an additional 2 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "galangal-recipes",
+    "one-pot",
+    "ovo-vegetarian",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-peppery-syrian-galangal-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peppery-syrian-galangal-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:20:26Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "galangal",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "galangal",
+    "descriptor": "kissed peppery",
+    "dishForm": "Stew"
+  }
+}
