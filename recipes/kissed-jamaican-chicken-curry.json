@@ -1,0 +1,112 @@
+{
+  "title": "Kissed Jamaican Chicken Curry",
+  "description": "Grassy, juicy Jamaican curry with a hint of Thai heat, poached chicken in coconut milk and aromatic herbs.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "ayurvedic-sattvic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs, bone-in, skin removed",
+      "amount": "4",
+      "notes": "pounded to even thickness"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lime juice, fresh",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thai-bird-chili, sliced",
+      "amount": "1-2"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt to taste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pot over medium heat and sauté ginger, garlic, cumin, coriander, and sliced thai-bird-chili until fragrant, about 2 minutes.",
+    "Add the chicken thighs, brown on all sides for 3 to 4 minutes.",
+    "Pour in coconut milk, lime juice, and a splash of coconut aminos, then bring to a gentle simmer.",
+    "Cover and let the chicken poach in the coconut milk until cooked through, about 20 minutes.",
+    "Remove the chicken, shred it, and then stir it back into the sauce to coat with the aromatic broth.",
+    "Taste and season with salt, then reduce heat to low and let the sauce thicken slightly, 5 minutes.",
+    "Serve hot over steamed white rice and garnish with fresh cilantro.",
+    "Enjoy the soulful blend of Jamaican and Thai flavors."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic-friendly",
+    "dairy-free",
+    "gluten-free",
+    "jamaican-curry",
+    "one-pot",
+    "thai-flavor"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kissed-jamaican-chicken-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-jamaican-chicken-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:30:26Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}
