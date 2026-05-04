@@ -1,0 +1,101 @@
+{
+  "title": "Keto-Friendly Flaky Polish Coconut Cream Pancakes",
+  "description": "A Polish-inspired breakfast dish with coconut cream, almond flour, and parsley, perfect for hangover morning. This keto-friendly pancake is not just a treat, but a hangover cure.",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Large egg",
+      "amount": "4",
+      "notes": "Make sure to use room temperature eggs"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": "Chill the can in the fridge overnight"
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "Make sure to use fine-mesh almond flour"
+    },
+    {
+      "name": "Granulated sweetener",
+      "amount": "1/2 cup",
+      "notes": "Use your preferred sweetener, but keep it keto-friendly"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "Make sure to use melted butter"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chop the parsley finely"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a fine-grained salt"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": "Make sure to use a gluten-free baking powder"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the almond flour, granulated sweetener, baking powder, and salt.",
+    "In a separate bowl, whip the coconut cream until it's stiff and holds its shape.",
+    "Add the melted butter, egg, and chopped parsley to the coconut cream and mix until combined.",
+    "Gradually pour the dry ingredients into the coconut cream mixture and mix until a smooth batter forms.",
+    "Heat a non-stick skillet or griddle over medium heat and grease it with a small amount of butter.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your preferred toppings, such as fresh berries, whipped cream, or maple syrup."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "hangover-cure",
+    "high-protein",
+    "keto",
+    "polish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "keto-friendly-flaky-polish-coconut-cream-pancakes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-flaky-polish-coconut-cream-pancakes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:38:47Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "parsley",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "Coconut cream",
+    "descriptor": "Keto-friendly flaky",
+    "dishForm": "Pancakes"
+  }
+}
