@@ -1,0 +1,122 @@
+{
+  "title": "Kissed Citrus Xinjiang Pork Bao",
+  "description": "A bright, citrus-infused Xinjiang pork bao with a glassy jelly glaze and Thai sweet basil drizzle, perfect for a hangover cure and high‑protein snack.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "200 g",
+      "notes": "lean cut, 1.5 cm thick strips"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "orange juice",
+      "amount": "60 ml"
+    },
+    {
+      "name": "citrus zest",
+      "amount": "1 tsp orange, 1 tsp lemon"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "fresh Thai sweet basil leaves",
+      "amount": "10 leaves",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "gelatin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "hot water",
+      "amount": "50 ml"
+    }
+  ],
+  "instructions": [
+    "Slice pork belly into 1.5 cm thick strips and season with salt and pepper.",
+    "In a bowl mix dark soy sauce, Shaoxing wine, honey, orange juice, citrus zest, caster sugar, minced garlic, and sesame oil; marinate pork for 30 minutes.",
+    "Heat a skillet over medium-high, sear pork strips until browned, about 3 minutes per side.",
+    "Transfer pork to a pot, add 200 ml water, bring to simmer, cover and braise for 45 minutes until tender.",
+    "While pork braises, combine juice, sugar, gelatin, and 50 ml hot water in a small saucepan; whisk and heat until gelatin dissolves.",
+    "Add fresh basil leaves to the glaze, simmer for 1 minute, then strain to remove solids.",
+    "Remove pork, shred with forks, and return to pot, stirring to coat with the glaze.",
+    "Steam bao wrappers in a steamer basket over boiling water for 3 minutes, then divide pork filling into 4 equal portions.",
+    "Place each portion on a wrapper, fold into bao shape, seal edges, and steam again for 2 minutes.",
+    "Serve bao hot, drizzle remaining glaze over the top and garnish with extra basil leaves."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bao",
+    "char-siu",
+    "glassy-glaze",
+    "hangover-cure",
+    "high-protein",
+    "xinjiang"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "kissed-citrus-xinjiang-pork-bao",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-citrus-xinjiang-pork-bao",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:03:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "glassy-jelly",
+    "mood": "hangover-cure",
+    "technique": "beurre-monte",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "high-protein",
+    "region": "xinjiang",
+    "cuisineAdjective": "Xinjiang",
+    "mainIngredient": "Pork",
+    "descriptor": "Kissed Citrus",
+    "dishForm": "Bao"
+  }
+}
