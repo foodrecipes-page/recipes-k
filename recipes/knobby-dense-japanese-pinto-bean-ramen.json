@@ -1,0 +1,99 @@
+{
+  "title": "Knobby Dense Japanese Pinto Bean Ramen",
+  "description": "A traditional Japanese Kanto dish featuring pinto beans and score-fat, this recipe is ayurvedic-sattvic-friendly and perfect for midnight cravings. It has a yeasty and dense flavor profile.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "kombu seaweed",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "shoyu sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine the soaked and drained pinto beans, score-fat, and 4 cups of water, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 1 hour, or until the beans are tender.",
+    "In a separate pot, combine the ramen noodles and 2 cups of water, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer for 3 minutes, or until the noodles are cooked through.",
+    "In a small bowl, whisk together the shoyu sauce, mirin, and sesame oil to make the seasoning sauce.",
+    "Add the seasoning sauce to the pot with the pinto beans and stir to combine.",
+    "Add the cooked ramen noodles to the pot with the pinto beans and stir to combine.",
+    "Add the kombu seaweed to the pot and stir to combine.",
+    "Cook for an additional 2 minutes, or until the seaweed is rehydrated.",
+    "Stir in the yeast extract and cook for 1 minute.",
+    "Serve the ramen hot, garnished with green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "japanese-cuisine",
+    "one-pot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "knobby-dense-japanese-pinto-bean-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-dense-japanese-pinto-bean-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:00:11Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "pinto beans",
+    "diet": "ayurvedic-sattvic",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pinto beans",
+    "descriptor": "Knobby Dense",
+    "dishForm": "Ramen"
+  }
+}
