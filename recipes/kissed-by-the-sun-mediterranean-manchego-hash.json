@@ -1,0 +1,121 @@
+{
+  "title": "Kissed by the Sun Mediterranean Manchego Hash",
+  "description": "A diabetic-friendly, lazy Sunday dish featuring tender vegetables, crispy Manchego, and a hint of smoky dashi extract.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "8 oz",
+      "notes": "block cheese"
+    },
+    {
+      "name": "Dashi extract",
+      "amount": "1 tsp",
+      "notes": "powdered"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "12",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "14 oz",
+      "notes": "canned"
+    },
+    {
+      "name": "Roasted red peppers",
+      "amount": "12 oz",
+      "notes": "canned"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "4 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "fine"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large wok over medium-high heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add artichoke hearts, roasted red peppers, and Kalamata olives, cook until heated through, about 3 minutes.",
+    "Stir in dashi extract, cook for 1 minute.",
+    "Shred Manchego cheese and add to the wok, cook until melted and crispy, about 2 minutes.",
+    "Stir in crumbled feta cheese, cook until melted and well combined.",
+    "Season with salt and black pepper to taste.",
+    "Transfer to a serving dish, garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "high-protein",
+    "low-carb",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "kissed-by-the-sun-mediterranean-manchego-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-the-sun-mediterranean-manchego-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T13:32:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "manchego",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Manchego",
+    "descriptor": "Kissed by the Sun",
+    "dishForm": "Hash"
+  }
+}
