@@ -1,0 +1,113 @@
+{
+  "title": "Kissed with Smoke Japanese Rice Inari-Style Sushi",
+  "description": "Sour and crispy Inari-style sushi dish featuring green chilli, made in a weeknight-friendly manner, originating from the Chugoku region of Japan.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Green chilli",
+      "amount": "1 large",
+      "notes": "seeded and finely chopped"
+    },
+    {
+      "name": "Smoked tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Sushi nori",
+      "amount": "8 sheets"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kombu dashi",
+      "amount": "1 cup",
+      "notes": "optional for added depth of flavor"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Combine Japanese short-grain rice and water in a saucepan and bring to a boil.",
+    "Reduce heat to low and cover with a tight-fitting lid.",
+    "Simmer for 18 minutes or until the water has been absorbed.",
+    "In a separate saucepan, combine rice vinegar, sugar, and salt, and heat over low heat, stirring until the sugar and salt have dissolved.",
+    "Transfer the cooked rice to a large bowl and gently fold in the vinegar mixture.",
+    "Cut the smoked tofu into small cubes and set aside.",
+    "Prepare a bowl of cold water and add a few ice cubes.",
+    "Submerge the nori sheets in the cold water for about 30 seconds to make them pliable.",
+    "Remove the nori sheets from the water and place a nori sheet flat on a sushi rolling mat or a clean tea towel.",
+    "Spread a thin layer of Japanese short-grain rice onto the nori, leaving a 1-inch border at the top.",
+    "Place a few cubes of smoked tofu and some chopped green chilli in the middle of the rice.",
+    "Roll the sushi using the mat or the tea towel, applying gentle pressure.",
+    "Repeat with the remaining ingredients.",
+    "Cut the sushi into individual pieces and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chugoku",
+    "high-protein",
+    "inari",
+    "japanese",
+    "one-pan",
+    "sushi",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-with-smoke-japanese-rice-inari-style-sushi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-smoke-japanese-rice-inari-style-sushi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:40:26Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "smoke-cold",
+    "primaryIngredient": "green chilli",
+    "diet": "satvik",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed with Smoke",
+    "dishForm": "Inari-Style Sushi"
+  }
+}
