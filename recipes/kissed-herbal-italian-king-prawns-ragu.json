@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Herbal Italian King Prawns Ragu",
+  "description": "A festive Italian dish featuring king prawns in a herbal ragu, served in a ti-leaf wrap. This vegan-friendly dish is made with a deglaze-fond and has a glassy-jelly texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed herbs",
+      "amount": "1 tablespoon",
+      "notes": "such as basil, oregano, and thyme"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "12 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mixed herbs and cook for 1 minute, until fragrant.",
+    "Add the tomato paste and cook for 2 minutes, stirring constantly.",
+    "Add the vegetable broth and bring to a simmer.",
+    "Add the king prawns and cook until pink and fully cooked, about 5 minutes.",
+    "Stir in the lemon juice and agave nectar.",
+    "Season the ragu with salt and pepper to taste.",
+    "Wrap each portion of the ragu in a ti leaf and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian-food",
+    "one-pan",
+    "seafood",
+    "special-occasion",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-herbal-italian-king-prawns-ragu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-herbal-italian-king-prawns-ragu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:29:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "king prawns",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "king prawns",
+    "descriptor": "Kissed Herbal",
+    "dishForm": "Ragu"
+  }
+}
