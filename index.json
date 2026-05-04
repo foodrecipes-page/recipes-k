@@ -1057,6 +1057,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crispy-british-steak-welsh-rarebit",
+    "title": "Kissed Crispy British Steak Welsh Rarebit",
+    "tags": [
+      "british-classics",
+      "comfort-food",
+      "high-protein",
+      "indulgent",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crispy-canadian-goose-bake",
     "title": "Kissed Crispy Canadian Goose Bake",
     "tags": [
@@ -1202,6 +1217,20 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dense-thai-shrimp-tom-yum",
+    "title": "Kissed Dense Thai Shrimp Tom Yum",
+    "tags": [
+      "brunch",
+      "fodmap-friendly",
+      "seafood",
+      "southern-thai",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {

@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Crispy British Steak Welsh Rarebit",
+  "description": "A rich and indulgent British dish featuring crispy fillet of steak, served with a creamy Welsh rarebit sauce, perfect for a special occasion dinner.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillet",
+      "amount": "500g",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "20g"
+    },
+    {
+      "name": "milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "150g",
+      "notes": "grated"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "20ml"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "10g"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Season the beef fillet with salt and black pepper.",
+    "Heat the butter in a pan over high heat and sear the beef fillet for 2 minutes on each side.",
+    "Transfer the beef fillet to a pressure cooker and cook for 10 minutes.",
+    "In a saucepan, melt 20g of butter over medium heat.",
+    "Add the flour and whisk to combine, cooking for 1 minute.",
+    "Slowly add the milk, whisking continuously, and bring to a simmer.",
+    "Remove the sauce from the heat and stir in the grated cheese until melted.",
+    "Add the worcestershire sauce and dijon mustard to the cheese sauce and stir to combine.",
+    "Slice the cooked beef fillet into thin strips.",
+    "Serve the beef strips topped with the Welsh rarebit sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "comfort-food",
+    "high-protein",
+    "indulgent",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 50
+  },
+  "slug": "kissed-crispy-british-steak-welsh-rarebit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-british-steak-welsh-rarebit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:06:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "fillet of steak",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "steak",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Welsh Rarebit"
+  }
+}
