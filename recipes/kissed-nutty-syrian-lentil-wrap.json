@@ -1,0 +1,122 @@
+{
+  "title": "Kissed Nutty Syrian Lentil Wrap",
+  "description": "A nostalgic, nutty wrap packed with lentils, dried summer savory leaves, and toasted pine nuts, served wrapped in a fragrant lotus leaf.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dry lentils",
+      "amount": "1 cup",
+      "notes": "rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "3 cups"
+    },
+    {
+      "name": "dried summer savory leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted pine nuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for steaming"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until the water runs clear.",
+    "Bring 3 cups of water to a boil in a pot, add the lentils and dried summer savory leaves, reduce heat, cover, and simmer until the lentils are tender, about 20 minutes.",
+    "Drain the lentils and transfer them to a bowl, then stir in the diced onion, minced garlic, tomato paste, olive oil, salt, pepper, and lemon juice until well combined.",
+    "Allow the mixture to cool slightly, then fold in the chopped parsley.",
+    "Warm each lotus leaf over an open flame until pliable, then lay it flat on a clean surface.",
+    "Place a spoonful of the lentil mixture onto the center of each warmed leaf, sprinkle with toasted pine nuts, and roll the leaf tightly around the filling.",
+    "Place each wrapped lotus leaf into a steamer basket, cover, and steam for 5 minutes to heat through.",
+    "Serve the wraps warm with a side of lemon wedges for squeezing.",
+    "Enjoy the fragrant, nutty flavors of this nostalgic Syrian wrap."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "lotus-leaf-wrap",
+    "nutty",
+    "shojin-friendly",
+    "syrien-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 8
+  },
+  "slug": "kissed-nutty-syrian-lentil-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-nutty-syrian-lentil-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:06:28Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "steam",
+    "primaryIngredient": "dried leaves of summer savoury",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Kissed Nutty",
+    "dishForm": "Wrap"
+  }
+}
