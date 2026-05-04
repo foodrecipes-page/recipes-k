@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Crispy Dutch Carrot Stew",
+  "description": "A winey, crisp carrot stew simmered in a traditional ttukbaegi, finished with a splash of red wine and a hint of yellow food coloring for a midnight craving.",
+  "cuisine": "Dutch",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carrots",
+      "amount": "800 g",
+      "notes": "chopped into 1-inch cubes"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "150 ml",
+      "notes": "dry, full-bodied"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "600 ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": "toasted for 30 sec before adding"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp",
+      "notes": "toasted for 30 sec before adding"
+    },
+    {
+      "name": "Yellow food coloring",
+      "amount": "2 drops"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a ttukbaegi over medium heat until shimmering.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and toasted cumin and coriander, cooking for 1 minute until fragrant.",
+    "Add carrot cubes and stir to coat with spices, cooking for 2 minutes.",
+    "Pour in red wine, allowing it to deglaze the pot and reduce by half, about 5 minutes.",
+    "Add vegetable broth, bring the mixture to a gentle simmer, cover, and cook until carrots are tender, about 20 minutes.",
+    "Stir in a few drops of yellow food coloring, a pinch of salt, and black pepper, adjusting seasoning as desired.",
+    "Remove the pot from heat and let the stew sit for 5 minutes before serving.",
+    "Garnish with fresh parsley or a drizzle of olive oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "flexitarian",
+    "midnight-craving",
+    "one-pot",
+    "red-wine",
+    "ttukbaegi"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 55,
+    "fat": 15
+  },
+  "slug": "kissed-crispy-dutch-carrot-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-dutch-carrot-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:21:27Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "yellow food colouring",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Carrot",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Stew"
+  }
+}
