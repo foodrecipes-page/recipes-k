@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Salty Jamaican Chicken Skillet",
+  "description": "A salty, velvety, and flavorful Jamaican dish featuring tamarind paste, perfect for a brunch mood, and Whole30-friendly. This skillet dish combines the richness of chicken and spices with the tanginess of tamarind paste.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "Whole30",
+    "Paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "chopped, seeded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the chopped bell pepper and cook until tender, about 4 minutes.",
+    "Add the chopped scotch bonnet pepper and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add the tamarind paste, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10 minutes.",
+    "Stir in 1/4 cup of water to emulsify the sauce.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "jamaican-cuisine",
+    "one-pan",
+    "paleo",
+    "spicy",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "kissed-salty-jamaican-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-salty-jamaican-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:15:43Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "velvety",
+    "mood": "brunch-mood",
+    "technique": "emulsify",
+    "primaryIngredient": "tamarind paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed salty",
+    "dishForm": "Skillet"
+  }
+}
