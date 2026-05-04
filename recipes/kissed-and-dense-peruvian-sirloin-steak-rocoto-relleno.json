@@ -1,0 +1,112 @@
+{
+  "title": "Kissed and Dense Peruvian Sirloin Steak Rocoto Relleno",
+  "description": "A hearty Peruvian-inspired dish featuring sirloin steak tips, pickled red onion, and a dash of queso fresco, all wrapped up in a flavorful rocoto relleno. Perfect for a cold and rainy day.",
+  "cuisine": "peruvian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "substitute with bell peppers if rocotos are not available"
+    },
+    {
+      "name": "pickle",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "queso fresco",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tip of each rocoto pepper to create a small opening and remove the seeds and membranes.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the sirloin steak tips and cook for 3-4 minutes per side, or until browned and cooked to your liking.",
+    "Transfer the steak to a plate and cover with foil to keep warm.",
+    "In the same skillet, add the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the chili flakes, cumin, salt, and black pepper, and cook for 1 minute.",
+    "Add the pickled red onion and cook for 2-3 minutes, until slightly caramelized.",
+    "Stuff each rocoto pepper with the onion mixture, followed by a few pieces of queso fresco.",
+    "Place the stuffed rocotos on a baking sheet and bake for 15-20 minutes, until the peppers are tender.",
+    "Serve the sirloin steak tips with the rocoto relleno and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "kissed-and-dense-peruvian-sirloin-steak-rocoto-relleno",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-and-dense-peruvian-sirloin-steak-rocoto-relleno",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T10:27:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "pickle",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "Sirloin Steak",
+    "descriptor": "Kissed and Dense",
+    "dishForm": "Rocoto Relleno"
+  }
+}
