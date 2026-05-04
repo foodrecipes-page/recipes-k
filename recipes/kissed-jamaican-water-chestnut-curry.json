@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Jamaican Water Chestnut Curry",
+  "description": "A fresh, fluffy weeknight Jamaican curry that pairs water chestnuts with a namul-blanch-season and is ayurvedic sattvic friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "water chestnuts",
+      "amount": "200 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "300 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "namul-blanch-season",
+      "amount": "1/2 cup",
+      "notes": "spinach and soybean sprouts blend"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 pinch"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for another minute until fragrant.",
+    "Add curry powder and allspice, tossing to coat the aromatics for 30 seconds.",
+    "Pour in coconut milk and vegetable broth, bringing the mixture to a gentle simmer.",
+    "Add sliced water chestnuts and simmer for 8 minutes until they soften.",
+    "Fold in the namul-blanch-season and cook for an additional 2 minutes to warm the greens.",
+    "Stir in lime juice and adjust seasoning with salt to taste.",
+    "Serve the curry hot over steamed rice or with flatbread.",
+    "Garnish with fresh cilantro if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "jamaican",
+    "dinner"
+  ],
+  "slug": "kissed-jamaican-water-chestnut-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-jamaican-water-chestnut-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:49:26Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "water chestnut",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "Water Chestnut",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}
