@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Creamy Venezuelan Plantain Wrap",
+  "description": "A resinous, creamy wrap made with sweet plantain, avocado, Dutch stroop, and fresh herbs, wrapped in ti leaves for an adventurous Venezuelan lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Plantains",
+      "amount": "2 ripe plantains, sliced into 1/4 inch thick",
+      "notes": "sliced into 1/4 inch thick"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 ripe avocado, diced"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "2 tbsp Dutch stroop (stroopwafel syrup)"
+    },
+    {
+      "name": "Ti leaf wrap",
+      "amount": "8 fresh ti leaves, washed and dried"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime",
+      "amount": "1 lime, juiced"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/2 cup crumbled"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp for blanching"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1 tsp for optional glaze"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat and lightly oil it with 1 tbsp olive oil.",
+    "Place the plantain slices in the hot skillet and blanch each side for 2 minutes until they turn golden and slightly soft.",
+    "While the plantains cook, combine the diced avocado, chopped cilantro, minced garlic, lime juice, salt, pepper, and half of the Dutch stroop in a bowl.",
+    "When the plantains are done, remove them from the skillet and let them cool slightly, then drizzle the remaining Dutch stroop over the slices.",
+    "Lay a ti leaf flat on a clean surface and spread a tablespoon of the avocado mixture across the center of the leaf.",
+    "Arrange three or four plantain slices on top of the avocado spread.",
+    "Sprinkle crumbled queso fresco over the plantains and add a pinch of coconut sugar for a subtle sweetness.",
+    "Fold the ti leaf over to form a neat wrap, tucking in the edges to secure the filling.",
+    "Place the wrapped ti leaf in the skillet and cook over low heat for 1 minute on each side to press the wrap and warm the filling.",
+    "Serve immediately, optionally squeezing a little fresh lime juice over the top before eating."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "creamy",
+    "low-glycemic",
+    "plantain",
+    "ti-leaf-wrap",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 846,
+    "protein": 16,
+    "carbs": 101,
+    "fat": 45
+  },
+  "slug": "kissed-creamy-venezuelan-plantain-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-venezuelan-plantain-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:25:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "dutch stroop",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantain",
+    "descriptor": "Kissed Creamy",
+    "dishForm": "Wrap"
+  }
+}
