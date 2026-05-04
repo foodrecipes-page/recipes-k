@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Welsh Garlic Welsh Ploughman's Platter",
+  "description": "A crispy and savory Welsh Ploughman's platter kissed with garlicky flavors and Marsala wine notes. Perfect for a midnight craving!",
+  "cuisine": "Welsh",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread (Welsh Teigl Bach)",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "Marsala Wine",
+      "amount": "1/4 cup",
+      "notes": "reduced"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "plus more for greasing"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cured Meats (e.g., Prosciutto)",
+      "amount": "4 slices",
+      "notes": "any cured meat works"
+    },
+    {
+      "name": "Pickled Onions",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the bread into 1-inch (2.5 cm) cubes and place on a baking sheet lined with parchment paper.",
+    "Drizzle the reduced Marsala wine over the bread and toss to coat.",
+    "Dot the bread with unsalted butter and sprinkle with minced garlic.",
+    "Transfer the bread to the preheated oven and bake for 10 minutes, or until crispy and golden brown.",
+    "While the bread is baking, melt 1 tablespoon of unsalted butter in a saucepan over medium heat.",
+    "Add the chopped parsley and cook until wilted.",
+    "Stir in the full-fat coconut cream and cook for an additional 2-3 minutes, or until slightly thickened.",
+    "Remove the bread from the oven and let cool slightly.",
+    "Transfer the bread to a large serving platter or individual plates.",
+    "Top the bread with shredded cheddar cheese, cured meats, pickled onions, and a dollop of parsley-coconut cream.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crispy-crunchy",
+    "gluten-free",
+    "high-fat",
+    "midnight-craving",
+    "one-pan",
+    "snack-attack"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 62
+  },
+  "slug": "kissed-welsh-garlic-welsh-ploughman-s-platter",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-welsh-garlic-welsh-ploughman-s-platter",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:31:12Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "marsala-wine",
+    "diet": "kosher",
+    "region": "welsh",
+    "cuisineAdjective": "Welsh",
+    "mainIngredient": "Garlic",
+    "descriptor": "Kissed",
+    "dishForm": "Welsh Ploughman's Platter"
+  }
+}
