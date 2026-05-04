@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Smoky French Cheese Gratin",
+  "description": "A smoky, cheesy French dish from the Alsace region, featuring canned tomatoes and bonito flakes, cooked in a donabe vessel. This Buddhist-temple-friendly recipe is perfect for a cold winter's night.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned tomatoes",
+      "amount": "1 14 oz can",
+      "notes": "crushed"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 1/2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "baguette",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the olive oil in the donabe vessel over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the smoked paprika and cook for 1 minute.",
+    "Add the crushed canned tomatoes and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook for 10 minutes.",
+    "Stir in the shredded gruyere cheese until it is fully melted and the mixture is smooth.",
+    "Sprinkle the bonito flakes over the top of the cheese mixture.",
+    "Arrange the cubed baguette over the top of the bonito flakes.",
+    "Transfer the donabe vessel to the preheated oven and bake for 20 minutes.",
+    "Remove the donabe vessel from the oven and sprinkle the chopped fresh thyme over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "comfort-food",
+    "french-cuisine",
+    "one-pot-wonder",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-smoky-french-cheese-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-french-cheese-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:18:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "bonito-shave",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "buddhist-temple",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Gratin"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Smoky Saudi Arabian King Prawns Kebabs",
+  "description": "A smoky and gooey Saudi Arabian dish featuring king prawns, perfect for a lazy Sunday, high in protein and flavor",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Saudi Arabian kebab spices",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together smoky paprika, garlic powder, lemon juice, olive oil, honey, salt, black pepper, and Saudi Arabian kebab spices",
+    "Add the king prawns to the bowl and toss to coat with the marinade",
+    "Thread the marinated king prawns onto skewers",
+    "Grill the kebabs for 8 minutes per side, or until the prawns are pink and cooked through",
+    "Brush the kebabs with the remaining marinade during the last 2 minutes of cooking",
+    "Serve the kebabs hot, garnished with fresh parsley and lemon wedges",
+    "Let the kebabs rest for 2 minutes before serving"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "saudi-arabian",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 12,
+    "fat": 16
+  },
+  "slug": "kissed-smoky-saudi-arabian-king-prawns-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-saudi-arabian-king-prawns-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:19:20Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "glaze",
+    "primaryIngredient": "king prawns",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "king prawns",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Kebabs"
+  }
+}

@@ -752,6 +752,35 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-smoky-french-cheese-gratin",
+    "title": "Kissed Smoky French Cheese Gratin",
+    "tags": [
+      "cheesy-goodness",
+      "comfort-food",
+      "french-cuisine",
+      "one-pot-wonder",
+      "smoky-flavors"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-saudi-arabian-king-prawns-kebabs",
+    "title": "Kissed Smoky Saudi Arabian King Prawns Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "saudi-arabian",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 36,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-smoky-venezuelan-lentils-paella",
     "title": "Kissed Smoky Venezuelan Lentils Paella",
     "tags": [
