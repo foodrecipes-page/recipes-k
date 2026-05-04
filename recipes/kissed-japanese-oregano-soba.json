@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Japanese Oregano Soba",
+  "description": "A rich, crumbly soba dish infused with aromatic oregano, savory miso sauce, and a crispy topping that pleases crowds and stays tamasic-friendly.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soba noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions, sliced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "crushed roasted almonds",
+      "amount": "50g"
+    },
+    {
+      "name": "tofu crumble",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Cook soba noodles in boiling water for 5 minutes, then drain and rinse with cold water.",
+    "In a small bowl whisk soy sauce, miso paste, mirin, sugar, sesame oil, water, garlic, ginger, and scallions until smooth.",
+    "Heat the sauce mixture in a skillet over medium heat until it thickens slightly, about 2 minutes.",
+    "Toss the cooked noodles with the warm sauce, ensuring each strand is coated.",
+    "In a separate pan, lightly toast the crushed almonds and tofu crumble until fragrant.",
+    "Arrange the sauced noodles on a serving platter, sprinkle with the toasted almond and tofu topping.",
+    "Add a final drizzle of sesame oil and a sprinkle of dried oregano for aroma.",
+    "Serve immediately, garnished with extra scallion slices if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "japanese",
+    "lunch"
+  ],
+  "slug": "kissed-japanese-oregano-soba",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-japanese-oregano-soba",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:01:32Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "fold",
+    "primaryIngredient": "oregano",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Oregano",
+    "descriptor": "Kissed",
+    "dishForm": "Soba"
+  }
+}
