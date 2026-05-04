@@ -1,0 +1,98 @@
+{
+  "title": "Jamaican Beans Casserole",
+  "description": "A flavorful and chewy vegetarian dish featuring baked beans, with a floral twist, showcasing Jamaican cuisine.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baked beans",
+      "amount": "1 1/2 cups",
+      "notes": "in tomato-based sauce"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat oil over medium heat and saute onion and garlic until softened.",
+    "Add scotch bonnet peppers, allspice, and thyme to the skillet and cook for 1 minute.",
+    "Stir in baked beans, salt, and black pepper, and bring to a simmer.",
+    "Transfer the bean mixture to a 9x13 inch baking dish.",
+    "Bake for 25 minutes, or until the casserole is hot and the flavors have melded together.",
+    "Remove from oven and let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "jamaican-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kitchen-style-jamaican-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-style-jamaican-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:20:56Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "blanch",
+    "primaryIngredient": "baked beans",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beans",
+    "descriptor": "kitchen style",
+    "dishForm": "Casserole"
+  }
+}
