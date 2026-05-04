@@ -1,0 +1,114 @@
+{
+  "title": "Kissed Turkish Lettuce Casserole",
+  "description": "A yeasty, snappy, nostalgic Turkish casserole featuring tender baby lettuce leaves wrapped in a light yeast dough and finished in a gentle bain-marie, sugar-free and comforting.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby lettuce leaves",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "120g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "warm water",
+      "amount": "60ml",
+      "notes": "for yeast activation"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "3g"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "5g"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "5g"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2g"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1g"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1g"
+    },
+    {
+      "name": "walnuts",
+      "amount": "20g",
+      "notes": "roasted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C and place a shallow pan of water in the bottom to create a bain-marie.",
+    "In a small bowl, combine 60ml warm water and 3g instant yeast; let sit 5 minutes until foamy.",
+    "In a mixing bowl, whisk together 120g flour, 5g salt, 15ml olive oil, the foamy yeast mixture, and 200g Greek yogurt until a smooth dough forms.",
+    "Roll the dough into a thin sheet, then cut it into squares that will cover the baby lettuce leaves.",
+    "Place each lettuce leaf on a dough square, fold the edges over the leaf, and seal with a pinch of salt.",
+    "Arrange the wrapped lettuce pieces in a greased baking dish, leaving a small gap between each.",
+    "In a separate bowl, whisk 5g lemon zest, 5g dill, 2g cumin, 1g oregano, 1g chili flakes, and 20g walnuts; sprinkle over the casserole.",
+    "Cover the dish with foil and bake in the bain-marie for 25 minutes.",
+    "Remove the foil, bake an additional 5 minutes until the dough edges turn golden.",
+    "Let the casserole rest 5 minutes before serving, spooning any leftover sauce over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bain-marie",
+    "lettuce-casserole",
+    "no-sugar",
+    "snappy",
+    "turkish",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 41,
+    "carbs": 110,
+    "fat": 29
+  },
+  "slug": "kissed-turkish-lettuce-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-turkish-lettuce-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:08:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "bain-marie",
+    "primaryIngredient": "baby lettuce leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lettuce",
+    "descriptor": "Kissed",
+    "dishForm": "Casserole"
+  }
+}
