@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Roasted English Cream Scones Clotted Cream",
+  "description": "A nostalgic British dish featuring roasted scones and clotted cream, flavored with nutmeg and served in a stone bowl, perfect for a comforting snack. This recipe combines the warmth of roasted scones with the richness of clotted cream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "1"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Whisk together the flour, baking powder, salt, and sugar in a large bowl.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or fingers to work it into the mixture until it resembles coarse crumbs.",
+    "Make a well in the center of the mixture and add the heavy cream and egg, stirring with a fork until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones, gathering the scraps and re-forming the dough as needed.",
+    "Place the scones on a baking sheet lined with parchment paper and brush the tops with a little extra heavy cream.",
+    "Roast the scones in the preheated oven for 15-20 minutes, or until they are golden brown.",
+    "Split the scones in half horizontally and serve with clotted cream and a sprinkle of nutmeg."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "clotted-cream",
+    "dash-friendly",
+    "english",
+    "nutmeg",
+    "roasted",
+    "scones",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-roasted-english-cream-scones-clotted-cream",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-english-cream-scones-clotted-cream",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T08:12:28Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "nutmeg",
+    "diet": "dash",
+    "region": "english",
+    "cuisineAdjective": "English",
+    "mainIngredient": "cream",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Scones Clotted Cream"
+  }
+}

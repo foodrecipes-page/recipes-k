@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Stout Japanese Mushroom Bowl",
+  "description": "A pungent, shaggy brunch dish featuring stout-soaked shiitake, miso, and sesame, served on a wooden board for a rustic vibe.",
+  "cuisine": "Japanese",
+  "diet": [
+    "Jain-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "shiitake mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "stout beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "minced"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "nori flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1 tbsp",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Clean the shiitake mushrooms with a damp cloth and slice them thinly.",
+    "Toast the pumpkin seeds in a dry pan until golden brown and set aside.",
+    "Add a splash of sesame oil to the skillet and let it warm.",
+    "Add minced ginger and sauté for 30 seconds until fragrant.",
+    "Add the sliced mushrooms to the skillet and cook until they start to brown.",
+    "Pour in the stout beer and simmer until the liquid reduces by half.",
+    "Stir in miso paste, soy sauce, rice vinegar, and maple syrup until the mixture thickens.",
+    "Transfer the mushroom mixture to a wooden board.",
+    "Sprinkle chopped scallions, toasted sesame seeds, nori flakes, and toasted pumpkin seeds over the top.",
+    "Serve immediately while still warm.",
+    "Enjoy the earthy, savory flavors of this hearty bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-mood",
+    "jain-friendly",
+    "japanese",
+    "mushroom",
+    "one-pan",
+    "wood-plate"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 17
+  },
+  "slug": "kissed-stout-japanese-mushroom-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-stout-japanese-mushroom-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:13:06Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "brunch-mood",
+    "technique": "knead",
+    "primaryIngredient": "stout",
+    "diet": "jain",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Mushroom",
+    "descriptor": "Kissed Stout",
+    "dishForm": "Bowl"
+  }
+}
