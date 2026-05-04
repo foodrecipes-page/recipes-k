@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Sweet Italian Split Peas Wrap",
+  "description": "Sweet, aromatic one‑pot Italian split pea dish served wrapped in fragrant pandan leaf, perfect for a shoji‑friendly lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "200 g",
+      "notes": "washed and rinsed"
+    },
+    {
+      "name": "water",
+      "amount": "800 ml"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200 ml"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red wine sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "10 leaves"
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "50 g"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add the split peas and stir to coat with oil for 1 minute.",
+    "Pour in water and vegetable broth, then stir in dried oregano.",
+    "Add the red wine sugar and light soy sauce, bring to a gentle simmer.",
+    "Cover and let the peas cook for 35 minutes, stirring occasionally, until tender but not mushy.",
+    "Remove the pot from heat and stir in fresh basil leaves and grated Parmesan.",
+    "Pack the warm pea mixture into each pandan leaf, folding to create a small wrap.",
+    "Place the wraps back in the pot and steam for 5 minutes to lock in moisture.",
+    "Remove the wraps, allow them to cool slightly, then slice in half before serving.",
+    "Serve with a drizzle of extra olive oil and a sprinkle of fresh basil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "one-pot",
+    "shoji-friendly",
+    "sweet",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "kissed-sweet-italian-split-peas-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-italian-split-peas-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:31:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "brine-wet",
+    "primaryIngredient": "yellow split peas",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "Split Peas",
+    "descriptor": "Kissed Sweet",
+    "dishForm": "Wrap"
+  }
+}
