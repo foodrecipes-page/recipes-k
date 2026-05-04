@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Algerian Turkey Tagine",
+  "description": "A fresh, creamy weeknight Algerian dish featuring marinated turkey in a spicy harissa sauce with low-FODMAP ingredients.",
+  "cuisine": "Algerian",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic-infused oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Scallion tops",
+      "amount": "20g"
+    },
+    {
+      "name": "Low-fat plain yogurt",
+      "amount": "100g"
+    },
+    {
+      "name": "Harissa paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "Spinach",
+      "amount": "200g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Marinate the turkey in a bowl with garlic-infused oil, ground cumin, ground cinnamon, salt, pepper, and half of the harissa paste for 30 minutes.",
+    "Heat olive oil in a heavy pot over medium-high heat and sear turkey pieces until browned on all sides.",
+    "Add scallion tops to the pot and sauté until fragrant.",
+    "Stir in the remaining harissa paste and cook for 1 minute to release flavors.",
+    "Pour in chicken broth, bring to a gentle simmer, and cover.",
+    "Reduce heat to low and simmer for 15 minutes.",
+    "Add spinach and pour in yogurt, stirring until heated through and sauce thickens.",
+    "Taste and adjust seasoning with additional salt if needed.",
+    "Serve hot over cauliflower rice or low-FODMAP couscous.",
+    "Garnish with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "fodmap-friendly",
+    "one-pot",
+    "tagine",
+    "turkey",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1427,
+    "protein": 160,
+    "carbs": 24,
+    "fat": 74
+  },
+  "slug": "kissed-algerian-turkey-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-algerian-turkey-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:43:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "weeknight",
+    "technique": "marinate",
+    "primaryIngredient": "turkey",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "turkey",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
