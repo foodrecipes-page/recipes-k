@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Herbal Egyptian Lentils Stew",
+  "description": "A fragrant, herbal lentil stew infused with smoky paprika and agar-agar, perfect for hangover recovery and served in a colorful bento box.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 liter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "celery",
+      "amount": "1 stalk, diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp, chopped"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils under cold water until clear.",
+    "Heat olive oil in a pot over medium heat and add cumin seeds, letting them pop for 30 seconds.",
+    "Add onion, carrot, and celery to the pot and sauté until the vegetables soften, about 5 minutes.",
+    "Stir in turmeric, coriander, and smoked paprika, cooking for 1 minute until fragrant.",
+    "Pour in vegetable broth, bring to a boil, then add the lentils and reduce heat to a simmer.",
+    "Simmer uncovered for 20 minutes, or until the lentils are tender and the liquid has thickened.",
+    "While the stew simmers, dissolve agar-agar powder in 100 ml hot water, whisk until fully dissolved, then stir the mixture into the stew to set into a gelatinous layer.",
+    "Season with salt to taste, stir in fresh parsley, transfer the stew into a bento box, and let it cool before dividing into compartments for a colorful, sattvic-friendly meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento",
+    "egyptian-stew",
+    "hangover-cure",
+    "herbal",
+    "sattvic-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "kissed-herbal-egyptian-lentils-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-herbal-egyptian-lentils-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:00:56Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "wok-hei",
+    "primaryIngredient": "kanten-agar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lentils",
+    "descriptor": "Kissed Herbal",
+    "dishForm": "Stew"
+  }
+}
