@@ -1,0 +1,159 @@
+{
+  "title": "Kissed Pan American Veal Casserole",
+  "description": "A comforting and flavorful casserole featuring lean veal and a rich, tamasic-friendly gravy, served in a traditional Indian kadhai vessel.",
+  "cuisine": "American",
+  "diet": [
+    "Vegetarian",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1.5 pounds veal, cut into 1-inch cubes",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup all-purpose gluten-free flour",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons ghee or vegetable oil",
+      "amount": "2",
+      "notes": "Kadhai is best with ghee."
+    },
+    {
+      "name": "1 teaspoon cumin seeds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon coriander seeds",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon turmeric",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon cayenne pepper",
+      "amount": "0.5",
+      "notes": ""
+    },
+    {
+      "name": "1 can (14.5 oz) diced tomatoes",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 cups mixed frozen vegetables (e.g. peas, carrots, corn)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon tomato paste",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons chopped fresh cilantro",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon kasoori methi (dried fenugreek leaves)",
+      "amount": "1",
+      "notes": "Optional."
+    },
+    {
+      "name": "2 tablespoons chopped scallions, for garnish",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup shredded mozzarella cheese, for serving (optional)",
+      "amount": "0.25",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat 1 tablespoon of ghee or oil in the kadhai over medium-high heat.",
+    "Add cumin seeds and coriander seeds; cook 1-2 minutes, until fragrant.",
+    "Add veal and cook 2-3 minutes, until browned on all sides. Remove veal from kadhai.",
+    "Add remaining 1 tablespoon of ghee or oil to kadhai; reduce heat to medium.",
+    "Add onion and garlic; cook 3-4 minutes, until onion is translucent.",
+    "Add flour; cook 1-2 minutes, stirring constantly. ",
+    "Slowly add beef broth and tomato paste; whisk until combined.",
+    "Add diced tomatoes and mixed vegetables; stir to combine.",
+    "Return veal to kadhai; season with salt, pepper, and cayenne pepper.",
+    "Add chopped cilantro and kasoori methi (if using); stir to combine.",
+    "Transfer kadhai to preheated oven; cover with lid.",
+    "Bake 25-30 minutes, until veal is cooked through and gravy is bubbly.",
+    "Garnish with chopped scallions and shredded mozzarella cheese (if using).",
+    "Serve hot, straight from the kadhai.",
+    "Serve as a comforting and flavorful dinner, perfect for any occasion.",
+    "Serve immediately, garnished with chopped cilantro and lemon wedges (if desired)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "easy-gourmet",
+    "indian-inspired",
+    "kid-friendly",
+    "one-dish-meal",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 48,
+    "carbs": 32,
+    "fat": 26
+  },
+  "slug": "kissed-pan-american-veal-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-pan-american-veal-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:07Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "veal",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "veal",
+    "descriptor": "kissed pan",
+    "dishForm": "casserole"
+  }
+}

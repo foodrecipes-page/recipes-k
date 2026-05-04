@@ -1,0 +1,98 @@
+{
+  "title": "Kimchi-Kissed Korean Bok Choi Deopbap",
+  "description": "A post-workout Korean dish featuring Kimchi and bok choi, served in a hearty deopbap form.",
+  "cuisine": "Korean",
+  "diet": [
+    "Fodmap-Friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "2 bunches",
+      "notes": ""
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "peeled"
+    },
+    {
+      "name": "Toasted Sesame Seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add garlic and ginger and stir-fry for 1 minute.",
+    "Add bok choi and stir-fry for 3 minutes until wilted.",
+    "Add Kimchi and gochujang and stir-fry for an additional 1 minute.",
+    "Add cooked rice to the pan and stir-fry for 2 minutes until combined.",
+    "Season with salt to taste.",
+    "Transfer to a bowl and garnish with toasted sesame seeds and scallions.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fodmap-friendly",
+    "korean",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kimchi-kissed-korean-bok-choi-deopbap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kimchi-kissed-korean-bok-choi-deopbap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:29Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "dehydrate",
+    "primaryIngredient": "bok choi",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "bok choi",
+    "descriptor": "Kimchi-kissed",
+    "dishForm": "Deopbap"
+  }
+}

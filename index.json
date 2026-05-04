@@ -756,6 +756,21 @@
     "shard": "k"
   },
   {
+    "slug": "kimchi-kissed-korean-bok-choi-deopbap",
+    "title": "Kimchi-Kissed Korean Bok Choi Deopbap",
+    "tags": [
+      "easy-to-make",
+      "fodmap-friendly",
+      "korean",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kindly-baked-mediterranean-chickpeas-pilaf",
     "title": "Kindly Baked Mediterranean Chickpeas Pilaf",
     "tags": [
@@ -2645,6 +2660,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-pan-american-veal-casserole",
+    "title": "Kissed Pan American Veal Casserole",
+    "tags": [
+      "comfort-food",
+      "dinner-party",
+      "easy-gourmet",
+      "indian-inspired",
+      "kid-friendly",
+      "one-dish-meal",
+      "weeknight-meal"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-peppery-italian-mozzarella-flatbread",
     "title": "Kissed Peppery Italian Mozzarella Flatbread",
     "tags": [
@@ -3740,6 +3771,20 @@
     ],
     "cuisine": "argentinian",
     "totalTimeMin": 75,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-nimono-simmer-ukrainian-egg-plants-tagine",
+    "title": "Kissed with Nimono Simmer Ukrainian Eggplants Tagine",
+    "tags": [
+      "eggplant",
+      "low-sodium",
+      "one-pan",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {

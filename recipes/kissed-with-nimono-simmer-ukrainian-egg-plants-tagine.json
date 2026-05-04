@@ -1,0 +1,91 @@
+{
+  "title": "Kissed with Nimono Simmer Ukrainian Eggplants Tagine",
+  "description": "A quick-fix Ukrainian dish featuring sour aerated eggplants, nimono-simmer, and a low-sodium-friendly twist. Perfect for a weeknight dinner.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplants",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Nimono dashi broth",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "low-sodium option"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the eggplants into 1-inch cubes, and set aside.",
+    "Heat the olive oil in a large kadhai over medium heat.",
+    "Add the garlic and saut\u00152 for 1 minute, until fragrant.",
+    "Add the nimono dashi broth and bring to a simmer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant",
+    "low-sodium",
+    "one-pan",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "slug": "kissed-with-nimono-simmer-ukrainian-egg-plants-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-nimono-simmer-ukrainian-egg-plants-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:30:12Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "egg plants",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Egg plants",
+    "descriptor": "Kissed with Nimono Simmer",
+    "dishForm": "Tagine"
+  }
+}
