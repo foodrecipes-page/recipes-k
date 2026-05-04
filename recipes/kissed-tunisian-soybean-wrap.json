@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Tunisian Soybean Wrap",
+  "description": "A silky, fatty yet low-calorie wrap that blends soybean sprouts with savory Tunisian spices, wrapped in a steamed leaf for a cozy, satisfying meal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "low-calorie",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "200g",
+      "notes": "fresh"
+    },
+    {
+      "name": "kongnamul",
+      "amount": "100g",
+      "notes": "korean bean sprout"
+    },
+    {
+      "name": "leaf wrap",
+      "amount": "4 large sheets",
+      "notes": "starch-free steamed greens"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "tunisian harissa paste",
+      "amount": "2 tsp",
+      "notes": "adjust spice level"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Rinse soybean sprouts and kongnamul thoroughly and drain them.",
+    "Heat olive oil in a nonstick pan over medium heat and sauté the sprouts for 3 minutes.",
+    "Add harissa paste to the pan, stir until the sprouts are coated, and cook for another 2 minutes.",
+    "Remove the pan from heat, stir in lime juice, cilantro, salt, and pepper, and let the mixture cool to room temperature.",
+    "Steam the leaf wraps for 30 seconds until pliable, then lay them flat on a clean surface.",
+    "Spoon an even amount of the soybean mixture onto each wrap and sprinkle with toasted sesame seeds.",
+    "Fold the sides of the wrap over the filling and roll tightly, securing with a toothpick if desired.",
+    "Serve immediately or refrigerate for up to 4 hours before serving cold."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-calorie",
+    "quick-meal",
+    "vegan",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 8,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "kissed-tunisian-soybean-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tunisian-soybean-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:01:10Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "cozy",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "soybean",
+    "descriptor": "Kissed",
+    "dishForm": "Wrap"
+  }
+}
