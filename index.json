@@ -854,6 +854,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-russian-corn-flatbread",
+    "title": "Kissed Russian Corn Flatbread",
+    "tags": [
+      "corn",
+      "dairy",
+      "easy",
+      "gluten-free",
+      "hangover-cure",
+      "quick"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-saudi-sesame-tagine",
     "title": "Kissed Saudi Sesame Tagine",
     "tags": [
@@ -1350,6 +1365,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-silky-slovakian-lamb-dumplings",
+    "title": "Knotted Silky Slovakian Lamb Dumplings",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "slovakian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

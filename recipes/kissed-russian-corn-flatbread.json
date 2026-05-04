@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Russian Corn Flatbread",
+  "description": "A resinous, aerated flatbread that soothes hangovers, featuring a corn arepa base filled with gooey mozzarella and a fragrant bhuna spice blend.",
+  "cuisine": "Russian",
+  "diet": [
+    "egg-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "120 ml",
+      "notes": "at 40°C"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for coating"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "150 g"
+    },
+    {
+      "name": "bhuna spice blend",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": "optional for heat"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Combine corn flour and salt in a bowl, then whisk in warm water and olive oil until a smooth dough forms.",
+    "Knead the dough for 2 minutes until elastic and let rest for 5 minutes.",
+    "Divide dough into 4 equal portions and roll each into a thin circle about 10 cm in diameter.",
+    "Heat a non-stick skillet over medium heat, then cook each flatbread for 2 minutes on each side until golden brown.",
+    "Pack the mozzarella, bhuna spice blend, oregano, and cayenne pepper into a small bowl and mix until well combined.",
+    "Spread the cheese mixture evenly onto each cooked flatbread, then sprinkle with lemon zest.",
+    "Fold the flatbread into a pocket, sealing the edges with a fork or by pressing.",
+    "Return the filled pockets to the skillet and cook for an additional 2 minutes, allowing the cheese to melt.",
+    "Remove from heat and serve immediately with a wedge of lemon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "corn",
+    "dairy",
+    "easy",
+    "gluten-free",
+    "hangover-cure",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 15
+  },
+  "slug": "kissed-russian-corn-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-russian-corn-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:34:53Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "bhuna",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "corn",
+    "descriptor": "Kissed",
+    "dishForm": "Flatbread"
+  }
+}
