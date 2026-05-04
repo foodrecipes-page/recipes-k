@@ -1,0 +1,100 @@
+{
+  "title": "Kicked Spicy Filipino Chicken Skewers",
+  "description": "Spicy Filipino chicken skewers with a cheese-pull, featuring red onions and shio-cure, perfect for a weeknight dinner. This dish combines Mediterranean-friendly flavors with a kick of spice.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "filipino chili peppers",
+      "amount": "2 peppers",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the chicken, red onion, and chili peppers onto wooden skewers.",
+    "Brush the skewers with olive oil and season with salt, black pepper, and shio-cure.",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through.",
+    "Meanwhile, mix the shredded mozzarella cheese with a pinch of salt and pepper.",
+    "Once the skewers are cooked, place them on a wooden board and top with the cheese mixture.",
+    "Return the skewers to the grill and cook for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skewers from the grill and drizzle with lemon juice.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "chicken-recipes",
+    "filipino-food",
+    "grilled",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kicked-spicy-filipino-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-filipino-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:16:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "weeknight",
+    "technique": "shio-cure",
+    "primaryIngredient": "red onions",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kicked Spicy",
+    "dishForm": "Skewers"
+  }
+}
