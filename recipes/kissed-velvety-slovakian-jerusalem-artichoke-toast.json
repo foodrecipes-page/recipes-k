@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Velvety Slovakian Jerusalem Artichoke Toast",
+  "description": "A jammy and velvety post-workout Slovakian dish featuring Jerusalem artichokes and toast, friendly to Buddhist temple diets. This dish is perfect for a snack after a workout.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jerusalem artichokes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Toss the chopped Jerusalem artichokes with olive oil, salt, and black pepper on a baking sheet.",
+    "Roast the Jerusalem artichokes in the oven for 20 minutes, or until tender.",
+    "In a pan, saute the chopped onion and minced garlic until softened.",
+    "Add the roasted Jerusalem artichokes to the pan and mash until velvety.",
+    "Toast the bread slices until lightly browned.",
+    "Spread the mashed Jerusalem artichoke mixture on the toast.",
+    "Drizzle with lemon juice and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "post-workout",
+    "slovakian",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "kissed-velvety-slovakian-jerusalem-artichoke-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-slovakian-jerusalem-artichoke-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:16:57Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "toast",
+    "primaryIngredient": "jerusalem artichokes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Jerusalem artichokes",
+    "descriptor": "kissed velvety",
+    "dishForm": "Toast"
+  }
+}
