@@ -1160,6 +1160,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-dry-norwegian-beet-hash",
+    "title": "Kissed Dry Norwegian Beet Hash",
+    "tags": [
+      "breakfast-ideas",
+      "brunch-recipes",
+      "hangover-cure",
+      "norwegian-cuisine",
+      "paleo-friendly"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-dutch-chicken-salad",
     "title": "Kissed Dutch Chicken Salad",
     "tags": [
@@ -2149,6 +2163,20 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-salty-thai-chicken-gaeng-curry",
+    "title": "Kissed Salty Thai Chicken Gaeng Curry",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "one-pot",
+      "thai-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

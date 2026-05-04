@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Dry Norwegian Beet Hash",
+  "description": "A traditional Norwegian dish featuring beets, this recipe is a paleo-friendly, resinous, and flaky hangover cure. It is typically served on a hot stone plate.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot stone plate in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "In a large bowl, combine diced beets, onion, garlic, salt, and black pepper.",
+    "In a large skillet, heat coconut oil over medium heat and add the beet mixture.",
+    "Cook the beet mixture for 20 minutes, stirring occasionally, until it is tender and lightly browned.",
+    "Stir in apple cider vinegar and cook for an additional 2 minutes.",
+    "Crack in the eggs and stir gently to combine with the beet mixture.",
+    "Remove the hot stone plate from the oven and carefully transfer the beet and egg mixture to the plate.",
+    "Return the plate to the oven and cook for an additional 5 minutes, or until the eggs are cooked through.",
+    "Remove the plate from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "brunch-recipes",
+    "hangover-cure",
+    "norwegian-cuisine",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kissed-dry-norwegian-beet-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dry-norwegian-beet-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:39:10Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "brine-dry",
+    "primaryIngredient": "beets",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beets",
+    "descriptor": "kissed dry",
+    "dishForm": "Hash"
+  }
+}
