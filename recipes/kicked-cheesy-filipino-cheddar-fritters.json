@@ -1,0 +1,100 @@
+{
+  "title": "Kicked Cheesy Filipino Cheddar Fritters",
+  "description": "Malty, bouncy-qq double-fried fritters packed with mature cheddar and a dairy‑free binder, perfect for a post‑workout boost.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mature cheddar, shredded",
+      "amount": "200g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup (120g)"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup (60g)"
+    },
+    {
+      "name": "Malted barley flour",
+      "amount": "2 tbsp (18g)"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp (5g)"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp (6g)"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp (2g)"
+    },
+    {
+      "name": "Unsweetened oat milk",
+      "amount": "1 cup (240ml)"
+    },
+    {
+      "name": "Ground flaxseed",
+      "amount": "1 tbsp (10g)"
+    },
+    {
+      "name": "Pea protein powder",
+      "amount": "2 tbsp (20g)"
+    }
+  ],
+  "instructions": [
+    "Whisk oat milk, flaxseed, and protein powder until thick and let sit for 5 minutes to form a flax egg.",
+    "In a large bowl, sift together flour, cornstarch, malted barley flour, baking powder, salt, and pepper.",
+    "Pour the flax egg into the dry mix and stir until a sticky batter forms.",
+    "Fold in the shredded cheddar until evenly coated.",
+    "Heat the kadhai over medium and drizzle 1 tbsp oil to coat the surface.",
+    "Drop spoonfuls of batter into the oil and fry until golden on the first pass, about 3 minutes per side.",
+    "Reduce heat to medium-low, add a touch more oil, and continue frying each fritter for an additional 2 minutes to finish double frying.",
+    "Remove fritters with a slotted spoon and set on paper towels to drain excess oil.",
+    "Allow the fritters to rest for 1 minute before serving.",
+    "Serve hot with sweet chili dip for a satisfying post-workout snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bouncy-qq",
+    "dairy-free",
+    "double-fry",
+    "high-protein",
+    "kadhai",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 458,
+    "protein": 21,
+    "carbs": 48,
+    "fat": 20
+  },
+  "slug": "kicked-cheesy-filipino-cheddar-fritters",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-cheesy-filipino-cheddar-fritters",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:43:29Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mature cheddar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "cheddar",
+    "descriptor": "Kicked Cheesy",
+    "dishForm": "Fritters"
+  }
+}
