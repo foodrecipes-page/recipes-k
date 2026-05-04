@@ -1,0 +1,124 @@
+{
+  "title": "kissed and springy mediterranean fiordilatte pizza",
+  "description": "A buttery, springy, and romantic mediterranean dish featuring fiordilatte. Perfect for a low-carb dessert or snack",
+  "cuisine": "mediterranean",
+  "diet": [
+    "lacto-ovo-vegetarian",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fiordilatte cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh oregano",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F.",
+    "Spread a thin layer of extra-virgin olive oil on a baking sheet.",
+    "Roll out the dough to 1/4 inch thickness and place on the baking sheet.",
+    "Spread the fiordilatte cheese evenly over the dough, leaving a 1/2 inch border around the edges.",
+    "Sprinkle the cherry tomatoes, kalamata olives, artichoke hearts, sun-dried tomatoes, fresh basil, and fresh oregano over the cheese.",
+    "Drizzle with extra-virgin olive oil and sprinkle with garlic, salt, and black pepper.",
+    "Bake in the preheated oven for 15-20 minutes, or until the crust is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and top with fresh mozzarella cheese, if using.",
+    "Return to the oven for an additional 2-3 minutes, or until the mozzarella is melted and bubbly.",
+    "Remove from the oven and let cool for 2-3 minutes before slicing and serving.",
+    "Slice into 8 equal pieces and serve immediately.",
+    "Note: If using a pizza stone, preheat the stone in the oven for 30 minutes before baking the pizza."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 21,
+  "totalTimeMin": 41,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "low-carb",
+    "mediterranean",
+    "pizza",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "kissed-and-springy-mediterranean-fiordilatte-pizza",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-and-springy-mediterranean-fiordilatte-pizza",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:47:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "dehydrate",
+    "primaryIngredient": "fiordilatte",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fiordilatte",
+    "descriptor": "kissed and springy",
+    "dishForm": "Pizza"
+  }
+}

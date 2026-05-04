@@ -954,6 +954,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-and-springy-mediterranean-fiordilatte-pizza",
+    "title": "kissed and springy mediterranean fiordilatte pizza",
+    "tags": [
+      "gluten-free",
+      "italian",
+      "low-carb",
+      "mediterranean",
+      "pizza",
+      "vegetarian"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 41,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-arabian-chicken-roast",
     "title": "Kissed Arabian Chicken Roast",
     "tags": [
@@ -2303,6 +2318,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-jammy-turkish-monsoon-kisir",
+    "title": "Turkish Kisir with Vanilla Kiss",
+    "tags": [
+      "easy",
+      "low-calorie",
+      "one-pan",
+      "salad",
+      "snack",
+      "turkish"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
