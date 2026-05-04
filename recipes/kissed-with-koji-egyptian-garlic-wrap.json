@@ -1,0 +1,90 @@
+{
+  "title": "Kissed with Koji Egyptian Garlic Wrap",
+  "description": "A garlicky, gooey, nostalgic Egyptian dish featuring shoyu-koji in a Korean ssam-wrap.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean ssam-wrap",
+      "amount": "4-6",
+      "notes": "preferably garlic-infused"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Shoyu-Koji paste",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 cup",
+      "notes": "green onions"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Wrap the Korean ssam-wrap with garlic and butter.",
+    "Spread the shoyu-koji paste over the garlic.",
+    "Bake the wrap for 3 minutes or until the butter melts.",
+    "Sprinkle chopped scallions and salt over the wrap.",
+    "Drizzle with black pepper to taste.",
+    "Serve immediately, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-supper",
+    "egyptian-food",
+    "garlic-lovers",
+    "korean-fusion",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 22
+  },
+  "slug": "kissed-with-koji-egyptian-garlic-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-koji-egyptian-garlic-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T19:01:33Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "nostalgic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "garlic",
+    "descriptor": "Kissed with Koji",
+    "dishForm": "Wrap"
+  }
+}
