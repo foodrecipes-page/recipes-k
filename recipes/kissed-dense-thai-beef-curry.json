@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Dense Thai Beef Curry",
+  "description": "A resinous and dense Northern Thai dish featuring lean minced beef in a rich and aromatic curry sauce, perfect for midnight cravings, and ovo-vegetarian friendly.",
+  "cuisine": "Thai",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add curry paste and cook for 1 minute, stirring constantly.",
+    "Add minced beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add coconut milk, fish sauce, and brown sugar, stirring to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Crack in eggs and stir gently to distribute them evenly throughout the curry.",
+    "Continue cooking for an additional 2 minutes, until the eggs are cooked through.",
+    "Stir in chopped Thai basil.",
+    "Serve the curry hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "dinner-ideas",
+    "one-pan",
+    "ovo-vegetarian",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-dense-thai-beef-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dense-thai-beef-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:50:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "glaze",
+    "primaryIngredient": "lean minced beef",
+    "diet": "ovo-vegetarian",
+    "region": "northern-thai",
+    "cuisineAdjective": "thai",
+    "mainIngredient": "beef",
+    "descriptor": "kissed dense",
+    "dishForm": "curry"
+  }
+}
