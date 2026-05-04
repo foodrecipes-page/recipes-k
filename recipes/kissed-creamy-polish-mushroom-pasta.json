@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Creamy Polish Mushroom Pasta",
+  "description": "A romantic and earthy Polish dish featuring creamy sauce and diabetic-friendly ingredients, made with flour and shio-koji-cure for a unique flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji-cure",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces",
+      "notes": "gluten-free fettuccine"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, melt the butter over medium heat and add the mushrooms, cooking until they release their liquid and start to brown.",
+    "Add the shio-koji-cure to the skillet and stir to combine, cooking for 1 minute.",
+    "Sprinkle the flour over the mushrooms and cook for 1 minute, stirring constantly.",
+    "Gradually add the heavy cream to the skillet, whisking constantly to avoid lumps.",
+    "Bring the cream mixture to a simmer and cook until it thickens, stirring occasionally.",
+    "Stir in the parmesan cheese until melted and season with salt and black pepper.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the cream sauce.",
+    "Serve the pasta hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "mushroom-lovers",
+    "one-pot",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-creamy-polish-mushroom-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-polish-mushroom-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:57:00Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "flour",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "mushrooms",
+    "descriptor": "kissed creamy",
+    "dishForm": "Pasta"
+  }
+}
