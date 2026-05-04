@@ -1,0 +1,112 @@
+{
+  "title": "Kicked Australian Lentil Stew",
+  "description": "A peppery, aerated stew that showcases pickle juice in a slow‑cooked, macrobiotic-friendly dish.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "250g",
+      "notes": "rinsed"
+    },
+    {
+      "name": "carrot",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable stock",
+      "amount": "500ml"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "50ml",
+      "notes": "from fresh vegetable pickles"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the onion and garlic and sauté until the onion is translucent.",
+    "Stir in the carrot, smoked paprika, and cumin, cooking for 2 minutes.",
+    "Add the rinsed red lentils and bay leaf, mixing well to coat the lentils.",
+    "Pour in the vegetable stock and bring the mixture to a gentle boil.",
+    "Reduce the heat to low and let the stew simmer, covered, for 45 minutes.",
+    "Add the pickle juice, stirring to combine and allow the flavors to mingle.",
+    "Simmer uncovered for an additional 15 minutes, or until the lentils are tender.",
+    "Remove the bay leaf, taste, and add salt and pepper to preference.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "comfort-food",
+    "macrobiotic",
+    "peppery",
+    "slow-cook",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 45,
+    "fat": 6
+  },
+  "slug": "kicked-australian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-australian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:50:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "slow-cook",
+    "primaryIngredient": "pickle juice",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "lentils",
+    "descriptor": "Kicked",
+    "dishForm": "Stew"
+  }
+}
