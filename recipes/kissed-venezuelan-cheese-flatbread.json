@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Venezuelan Cheese Flatbread",
+  "description": "A festive, sugar‑free Venezuelan flatbread with a sour béchamel base, melting cheese, and a glossy egg‑washed finish, perfect for any meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "sugar-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "120ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsweetened soy milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "uncrusted white cheese",
+      "amount": "100g shredded"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine flour, salt, yeast, and stir.",
+    "Add water gradually and mix until dough forms and is slightly sticky.",
+    "Knead dough on a floured surface for 5 minutes until smooth.",
+    "Let dough rise covered in a warm spot for 20 minutes until doubled in size.",
+    "Preheat a tava or griddle over medium heat and lightly oil it.",
+    "Divide risen dough into 2 portions and roll each into a flat disc about 15cm in diameter.",
+    "Pour the béchamel sauce over each disc, sprinkle with shredded cheese, and cook for 3 minutes.",
+    "Flip the flatbread, cook until golden and cheese melts (about 3-4 minutes per side), brush with egg wash, and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "high-protein",
+    "quick",
+    "sugar-free",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "kissed-venezuelan-cheese-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-venezuelan-cheese-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:53:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "egg wash",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Cheese",
+    "descriptor": "Kissed",
+    "dishForm": "Flatbread"
+  }
+}
