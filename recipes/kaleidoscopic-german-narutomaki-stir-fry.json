@@ -1,0 +1,105 @@
+{
+  "title": "Kaleidoscopic German Narutomaki Stir Fry",
+  "description": "A vegan-friendly German stir fry featuring narutomaki, with a resinous and light flavor profile, perfect for show-off dishes. This recipe combines the best of German and Japanese cuisine.",
+  "cuisine": "German",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "Japanese fish cake, sliced into thin rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "button or cremini, sliced"
+    },
+    {
+      "name": "vegan stir fry sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 3-4 minutes.",
+    "Add the sliced bell pepper and cook until tender, about 4-5 minutes.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced narutomaki and cook for 2-3 minutes, until heated through.",
+    "Pour in the vegan stir fry sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the stir fry hot, garnished with sliced green onions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "japanese-inspired",
+    "one-pan",
+    "quick-dinner",
+    "stir-fry",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kaleidoscopic-german-narutomaki-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kaleidoscopic-german-narutomaki-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:27:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "narutomaki",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "narutomaki",
+    "descriptor": "kaleidoscopic",
+    "dishForm": "Stir-fry"
+  }
+}
