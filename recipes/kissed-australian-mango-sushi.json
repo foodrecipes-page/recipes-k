@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Australian Mango Sushi",
+  "description": "A satvik-friendly twist on sushi with roasted mango glaze and nigiri-style rice balls, perfect for a quick lunch or dessert.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "glutinous rice",
+      "amount": "150 g",
+      "notes": "soaked for 30 minutes"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml",
+      "notes": "for cooking rice"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp",
+      "notes": "for sweetening"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": "to taste"
+    },
+    {
+      "name": "canola oil",
+      "amount": "1 tbsp",
+      "notes": "for roasting mango"
+    },
+    {
+      "name": "ripe mango",
+      "amount": "200 g",
+      "notes": "cut into 1 cm slices"
+    },
+    {
+      "name": "cucumber",
+      "amount": "50 g",
+      "notes": "thinly sliced for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "roasted lightly"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "10 g",
+      "notes": "for aroma"
+    }
+  ],
+  "instructions": [
+    "Rinse the glutinous rice until water runs clear.",
+    "Cook the rice with 200 ml water until it is sticky and fully cooked.",
+    "Whisk together the rice vinegar, sugar, and pinch of salt until dissolved.",
+    "Fold the seasoning into the hot rice and allow it to cool slightly.",
+    "Shape the cooled rice into small, flat nigiri-style balls, about the size of a thumb.",
+    "Brush the mango slices with a thin coating of canola oil.",
+    "Place the mango slices on a preheated skillet over medium heat and roast for 5 minutes on each side until caramelized.",
+    "Remove the mango from the skillet and let it cool, then drizzle a thin layer of the same oil over it to create a glossy glaze.",
+    "Place a mango slice on top of each rice ball and garnish with cucumber slices, roasted sesame seeds, and mint leaves.",
+    "Serve immediately, enjoying the sweet, savory, and refreshing bite of the kissed Australian mango sushi."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "low-fat",
+    "quick",
+    "satvik",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "kissed-australian-mango-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-australian-mango-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:53:30Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "canola oil",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "mango",
+    "descriptor": "Kissed",
+    "dishForm": "Sushi"
+  }
+}
