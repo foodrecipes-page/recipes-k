@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Algerian Chicken Tagine",
+  "description": "A spicy, tender chicken tagine with a coconut‑cream sauce that is indulgent yet keto‑friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs bone‑in skin‑on",
+      "amount": "8 pieces"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Ginger grated",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Chicken broth low‑sodium",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Season chicken thighs with salt, pepper, cumin, coriander, paprika, and cayenne.",
+    "Heat coconut oil in a heavy‑bottomed pot over medium‑high heat and brown the chicken thighs on all sides for about 8 minutes; remove and set aside.",
+    "Add diced onion to the pot and sauté until translucent, about 4 minutes.",
+    "Stir in minced garlic and grated ginger, cooking for 1 minute until fragrant.",
+    "Pour in lemon juice and coconut cream, stirring to deglaze and combine.",
+    "Return the chicken to the pot, add chicken broth, and bring to a simmer.",
+    "Reduce heat to low, cover, and cook for 35 minutes until the chicken is tender and the sauce thickens.",
+    "Taste the sauce, adjust seasoning if needed, and serve hot over cauliflower rice or roasted vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "low-sugar",
+    "mediterranean",
+    "one-pot",
+    "quick",
+    "spicy",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 1600,
+    "protein": 120,
+    "carbs": 24,
+    "fat": 100
+  },
+  "slug": "kissed-algerian-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-algerian-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:26:00Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}

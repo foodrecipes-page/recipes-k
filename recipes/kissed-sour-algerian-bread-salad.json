@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Sour Algerian Bread Salad",
+  "description": "A bright, crunchy salad that transforms toasted white bread into a savory, quick‑fix lunch with a zesty lemon‑garlic dressing.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "white bread loaf",
+      "amount": "4 slices",
+      "notes": "loaf, sliced into 4 thick slices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1/4 cup",
+      "notes": "pitted, sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium heat.",
+    "Brush both sides of each bread slice with olive oil.",
+    "Toast bread slices until golden and crunchy, about 2 minutes per side.",
+    "Let toasted bread cool slightly, then cut each slice into bite‑sized squares.",
+    "In a large bowl, whisk together lemon juice, minced garlic, cumin powder, and sea salt until the mixture emulsifies.",
+    "Add the toasted bread squares, cherry tomatoes, olives, red onion, and parsley to the bowl.",
+    "Toss everything gently until the bread is evenly coated with the dressing.",
+    "Serve immediately as a refreshing quick lunch or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "quick-meal",
+    "snack",
+    "sourdough",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 7,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "kissed-sour-algerian-bread-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sour-algerian-bread-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:26:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "whisk",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Bread",
+    "descriptor": "Kissed Sour",
+    "dishForm": "Salad"
+  }
+}

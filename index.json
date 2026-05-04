@@ -665,6 +665,23 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-algerian-chicken-tagine",
+    "title": "Kissed Algerian Chicken Tagine",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "low-sugar",
+      "mediterranean",
+      "one-pot",
+      "quick",
+      "spicy",
+      "tagine"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-american-cheese-soup",
     "title": "Kissed American Cheese Soup",
     "tags": [
@@ -2566,6 +2583,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-sour-algerian-bread-salad",
+    "title": "Kissed Sour Algerian Bread Salad",
+    "tags": [
+      "easy",
+      "quick-meal",
+      "snack",
+      "sourdough",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
