@@ -1,0 +1,120 @@
+{
+  "title": "Kissed Smoky Chinese Chicken Tagine",
+  "description": "A smoky, creamy hangover cure served in a ceramic tagine that blends Chinese spices with a whole30-friendly twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts, boneless skinless",
+      "amount": "4 pieces (approx 1.2kg)",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chipotle pepper crushed",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "5 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "2 tbsp, minced",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh lime, zest and juice",
+      "amount": "1 zest + juice of 1 lime",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "2 tbsp, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and place ceramic tagine inside to warm.",
+    "Pat chicken breasts dry, season with smoked paprika, crushed chipotle, and a pinch of salt, then sear in hot coconut oil over medium-high heat for about 3 minutes per side until golden, and transfer to a plate.",
+    "Sauté diced onion in the same tagine until translucent, then add minced garlic and ginger, cooking for 1 minute until fragrant.",
+    "Stir in the remaining 1 tsp smoked paprika and crushed chipotle to coat the aromatics.",
+    "Pour in coconut milk and chicken broth, stirring to combine and deglaze the pan.",
+    "Add coconut aminos, lime zest, and lime juice, bringing the mixture to a gentle simmer.",
+    "Return the seared chicken breasts to the tagine, nestling them into the liquid, and cover tightly with foil or the lid.",
+    "Transfer the tagine to the preheated oven and bake for 25 minutes until the chicken is fully cooked and tender.",
+    "Remove from oven, stir in chopped cilantro, and let rest for 5 minutes with the lid on to keep the steam inside.",
+    "Serve the smoky, creamy chicken with a side of roasted vegetables or a simple green salad to keep it whole30-friendly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceramic-tagine",
+    "hangover-cure",
+    "one-pot",
+    "quick-meal",
+    "smoky",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 415,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "kissed-smoky-chinese-chicken-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-chinese-chicken-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:46:33Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "papillote",
+    "primaryIngredient": "chicken breasts",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Tagine"
+  }
+}

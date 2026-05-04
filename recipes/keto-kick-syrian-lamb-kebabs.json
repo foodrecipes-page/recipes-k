@@ -1,0 +1,92 @@
+{
+  "title": "Keto Kick Syrian Lamb Kebabs",
+  "description": "A peppery and aerated weeknight Syrian dish featuring malt vinegar and miso-marinate, perfect for a keto-friendly dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, malt vinegar, olive oil, black pepper, garlic powder, salt, and paprika.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meat",
+    "healthy-dinner",
+    "keto-friendly",
+    "low-carb",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "keto-kick-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-kick-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:46:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "miso-marinate",
+    "primaryIngredient": "malt vinegar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Keto Kick",
+    "dishForm": "Kebabs"
+  }
+}

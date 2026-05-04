@@ -260,6 +260,21 @@
     "shard": "k"
   },
   {
+    "slug": "keto-kick-syrian-lamb-kebabs",
+    "title": "Keto Kick Syrian Lamb Kebabs",
+    "tags": [
+      "grilled-meat",
+      "healthy-dinner",
+      "keto-friendly",
+      "low-carb",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "keto-monsoon-ham-fry",
     "title": "Keto Monsoon Ham Fry",
     "tags": [
@@ -927,6 +942,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-chinese-chicken-tagine",
+    "title": "Kissed Smoky Chinese Chicken Tagine",
+    "tags": [
+      "ceramic-tagine",
+      "hangover-cure",
+      "one-pot",
+      "quick-meal",
+      "smoky",
+      "whole30-friendly"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
