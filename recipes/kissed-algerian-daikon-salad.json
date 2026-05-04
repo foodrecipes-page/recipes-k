@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Algerian Daikon Salad",
+  "description": "A nutty, silky salad inspired by Algerian flavors, featuring daikon in a sweet miso-marinate, finished with a citrusy vinaigrette. Perfect as a fresh, raw-friendly lunch or snack.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "daikon radish",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "white miso paste",
+      "amount": "2 tbsp",
+      "notes": "dissolved with 2 tbsp warm water"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "sifted"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Peel and shred daikon into fine ribbons using a mandoline or knife.",
+    "In a bowl, whisk together miso paste, warm water, sesame oil, lemon juice, and olive oil until smooth.",
+    "Toss the shredded daikon in the miso dressing until evenly coated, then season with salt and red pepper flakes.",
+    "Sprinkle toasted sesame seeds and chopped cilantro over the salad.",
+    "Drizzle pomegranate molasses over the top if using, and give one final gentle toss.",
+    "Let the salad rest for 5 minutes to allow flavors to meld before serving.",
+    "Serve chilled or at room temperature as a fresh side or light lunch."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "algerian-flavor",
+    "no-cook",
+    "nutty",
+    "quick",
+    "raw-dish",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 355,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 27
+  },
+  "slug": "kissed-algerian-daikon-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-algerian-daikon-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:30:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "miso-marinate",
+    "primaryIngredient": "daikon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "daikon",
+    "descriptor": "Kissed",
+    "dishForm": "Salad"
+  }
+}
