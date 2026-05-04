@@ -1352,6 +1352,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-filipino-rice-noodles",
+    "title": "Kissed Filipino Rice Noodles",
+    "tags": [
+      "dense",
+      "energizing",
+      "paleo-friendly",
+      "rice-noodles",
+      "sweet-chilli"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-filipino-sirloin-dinuguan",
     "title": "Kissed Filipino Sirloin Dinuguan",
     "tags": [
@@ -2909,6 +2923,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-venezuelan-bonito-ceviche",
+    "title": "Kissed Venezuelan bonito Ceviche",
+    "tags": [
+      "cedar-plank",
+      "ceviche",
+      "fresh",
+      "herbal",
+      "low-fat",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-venezuelan-cheese-flatbread",
     "title": "Kissed Venezuelan Cheese Flatbread",
     "tags": [
@@ -3328,6 +3357,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-crunchy-australian-bread-toast",
+    "title": "Knotted Crunchy Australian Bread Toast",
+    "tags": [
+      "australian-cuisine",
+      "crunchy-snack",
+      "dairy-free",
+      "easy-to-make",
+      "snack-recipe",
+      "stale-bread-recipe",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {

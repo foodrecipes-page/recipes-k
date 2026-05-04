@@ -1,0 +1,89 @@
+{
+  "title": "Knotted Crunchy Australian Bread Toast",
+  "description": "A cozy Australian dish featuring stale bread, perfect for a snack or light meal, this recipe is dairy-free-friendly and offers a salty, aerated taste experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "4 slices",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the stale bread into 1-inch thick slices and then cut each slice into a knotted shape.",
+    "Submerge the knotted bread slices in an ice bath for 30 seconds to shock them.",
+    "Remove the bread from the ice bath and place it on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the bread and sprinkle with salt, sesame seeds, and paprika.",
+    "Bake the bread in the preheated oven for 15 minutes, or until it is crunchy and golden brown.",
+    "Remove the bread from the oven and let it cool for 5 minutes before serving.",
+    "Serve the knotted crunchy Australian bread toast warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "crunchy-snack",
+    "dairy-free",
+    "easy-to-make",
+    "snack-recipe",
+    "stale-bread-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 3
+  },
+  "slug": "knotted-crunchy-australian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-crunchy-australian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:15:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "stale bread",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "bread",
+    "descriptor": "knotted crunchy",
+    "dishForm": "Toast"
+  }
+}

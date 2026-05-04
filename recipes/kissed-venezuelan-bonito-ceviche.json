@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Venezuelan bonito Ceviche",
+  "description": "Herbal, tender ceviche served on a chilled cedar plank, featuring sherry vinegar and shaved bonito for a low-fat Venezuelan lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-fat",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "bonito fillet (fresh)",
+      "amount": "400g"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "60ml"
+    },
+    {
+      "name": "fresh lime juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "20g"
+    },
+    {
+      "name": "thinly sliced red onion",
+      "amount": "50g"
+    },
+    {
+      "name": "thinly sliced cucumber",
+      "amount": "30g"
+    },
+    {
+      "name": "sliced scallion",
+      "amount": "15g"
+    },
+    {
+      "name": "ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Place cedar plank in a shallow dish and chill in the refrigerator for 10 minutes.",
+    "Thinly slice bonito fillet into 1mm strips and set aside.",
+    "In a bowl, whisk sherry vinegar, lime juice, oregano, pepper, and salt until combined.",
+    "Add bonito strips to the bowl and toss gently until coated.",
+    "Stir in sliced cucumber, red onion, scallion, and chopped cilantro.",
+    "Cover the bowl with plastic wrap and refrigerate for 10 minutes to marinate.",
+    "Serve immediately on the chilled cedar plank, garnishing with additional cilantro if desired.",
+    "Enjoy the herbal, tender ceviche as a low-fat Venezuelan lunch."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "ceviche",
+    "fresh",
+    "herbal",
+    "low-fat",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 80,
+    "carbs": 4,
+    "fat": 4
+  },
+  "slug": "kissed-venezuelan-bonito-ceviche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-venezuelan-bonito-ceviche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:15:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "bonito",
+    "descriptor": "Kissed",
+    "dishForm": "Ceviche"
+  }
+}

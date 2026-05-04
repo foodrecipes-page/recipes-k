@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Filipino Rice Noodles",
+  "description": "A cultured, dense, energizing Filipino rice noodle dish with sweet chili reduction, paleo-friendly and packed with protein.",
+  "cuisine": "Filipino",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles (bihon)",
+      "amount": "200g"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "80g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "ground turkey",
+      "amount": "150g"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "3 stalks sliced"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a terracotta pot over medium heat.",
+    "Add minced garlic and grated ginger, sauté until fragrant.",
+    "Pour in ground turkey and cook until browned.",
+    "Add rice noodles and stir to coat with oil and aromatics.",
+    "Pour in coconut milk and water, bring to a gentle simmer.",
+    "Add sweet chili sauce and reduce the mixture until it thickens and the noodles are tender.",
+    "Stir in sliced green onions and cook for another minute.",
+    "Serve hot straight from the terracotta pot.",
+    "Garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "energizing",
+    "paleo-friendly",
+    "rice-noodles",
+    "sweet-chilli"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 80,
+    "fat": 20
+  },
+  "slug": "kissed-filipino-rice-noodles",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-filipino-rice-noodles",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:15:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Rice",
+    "descriptor": "Kissed",
+    "dishForm": "Noodles"
+  }
+}
