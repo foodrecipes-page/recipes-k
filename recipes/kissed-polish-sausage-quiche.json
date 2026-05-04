@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Polish Sausage Quiche",
+  "description": "A pillowy, nutty quiche featuring sliced Polish kielbasa, deglazed with a creamy lactose-free custard, perfect for a festive yet FODMAP-friendly meal.",
+  "cuisine": "Polish",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Polish kielbasa sausage, sliced",
+      "amount": "150g"
+    },
+    {
+      "name": "Eggs, large",
+      "amount": "4"
+    },
+    {
+      "name": "Milk, lactose-free",
+      "amount": "200ml"
+    },
+    {
+      "name": "Cream cheese, lactose-free",
+      "amount": "100g"
+    },
+    {
+      "name": "Cheddar cheese, low-fat, shredded",
+      "amount": "80g"
+    },
+    {
+      "name": "Green onion tops, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Lightly oil a 6-inch ramekin with olive oil.",
+    "Arrange the sliced kielbasa in the bottom of the ramekin.",
+    "Whisk together eggs, lactose-free milk, lactose-free cream cheese, cheddar, green onion tops, parsley, salt, and pepper until smooth.",
+    "Pour the egg mixture over the sausage, filling the ramekin about three quarters full.",
+    "Bake for 20 minutes or until the quiche is set and lightly golden on top.",
+    "Remove from oven and let rest five minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "quiche",
+    "quick",
+    "sausage",
+    "single-serve"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "kissed-polish-sausage-quiche",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-polish-sausage-quiche",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:46:15Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "festive",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "sausage",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausage",
+    "descriptor": "Kissed",
+    "dishForm": "Quiche"
+  }
+}
