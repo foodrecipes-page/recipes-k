@@ -1,0 +1,112 @@
+{
+  "title": "Korean Kicked British Tofu Welsh Rarebit",
+  "description": "A vegan twist on the classic Welsh rarebit, featuring marinated tofu and spicy kimchi, served on a crispy tava-griddle bread",
+  "cuisine": "Fusion",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "beef stock cubes",
+      "amount": "2 cubes",
+      "notes": "vegan alternative"
+    },
+    {
+      "name": "tava-griddle bread",
+      "amount": "4 slices",
+      "notes": "or regular bread"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "for cheesy flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for marinating tofu"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": "for marinating tofu"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the tava-griddle or a large skillet over medium heat",
+    "In a shallow dish, whisk together soy sauce, rice vinegar, and sesame oil for the tofu marinade",
+    "Add the cubed tofu to the marinade and let it sit for at least 10 minutes",
+    "In a separate pan, heat the sesame oil over medium heat and cook the marinated tofu until golden brown",
+    "In a blender or food processor, blend the kimchi, nutritional yeast, and a pinch of salt and pepper until coarsely chopped",
+    "Add the blended kimchi mixture to the cooked tofu and stir to combine",
+    "Butter the tava-griddle bread slices on one side",
+    "Place the bread slices, buttered side down, on the preheated tava-griddle",
+    "Spoon the tofu and kimchi mixture over the bread slices",
+    "Dissolve the vegan beef stock cubes in 1/4 cup of hot water and spoon the mixture over the tofu",
+    "Cook for an additional 2-3 minutes, until the bread is crispy and the filling is heated through"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british-inspired",
+    "gluten-free",
+    "korean-fusion",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "korean-kicked-british-tofu-welsh-rarebit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/korean-kicked-british-tofu-welsh-rarebit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:21:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "juicy",
+    "mood": "cozy",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "vegan",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "tofu",
+    "descriptor": "Korean kicked",
+    "dishForm": "Welsh Rarebit"
+  }
+}
