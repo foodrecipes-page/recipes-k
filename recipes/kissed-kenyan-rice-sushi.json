@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Kenyan Rice Sushi",
+  "description": "A peppery, chewy brunch dish that combines vanilla custard and nigiri-shaped rice on a salt block, inspired by Kenyan flavors.",
+  "cuisine": "Kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "long-grain parboiled rice",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "white sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla bean",
+      "amount": "1"
+    },
+    {
+      "name": "whole milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "100ml"
+    },
+    {
+      "name": "gelatin powder",
+      "amount": "5g"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Rinse 200g of long-grain parboiled rice until water runs clear.",
+    "Cook the rice in 400ml water with 1 tsp salt until fluffy, then let it cool to room temperature.",
+    "In a saucepan, whisk together 2 eggs, 200ml milk, 100ml cream, 2 tbsp sugar, seeds of 1 vanilla bean, 1 tsp grated ginger, and 1/2 tsp black pepper.",
+    "Gently heat the mixture over low heat, whisking constantly until it thickens into a custard, about 5 minutes.",
+    "Remove the custard from the heat, strain it through a fine sieve into a bowl, and allow it to cool to room temperature before refrigerating.",
+    "Refrigerate the custard until it sets, about 30 minutes.",
+    "Using a small spoon, scoop the cooled rice into 12 equal portions and shape each into a small oblong disk.",
+    "Spread a thin layer of the vanilla custard over each rice disk, then place the disks on a chilled salt block.",
+    "Press gently to compact the rice and custard together, forming nigiri-like shapes.",
+    "Serve immediately, optionally dusting with a pinch of pepper or drizzling a little honey."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "kenyan",
+    "no-wok",
+    "rice-sushi",
+    "sweet-savoury"
+  ],
+  "nutrition": {
+    "calories": 90,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 5
+  },
+  "slug": "kissed-kenyan-rice-sushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kenyan-rice-sushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:08:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "vanilla custard",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed",
+    "dishForm": "Sushi"
+  }
+}
