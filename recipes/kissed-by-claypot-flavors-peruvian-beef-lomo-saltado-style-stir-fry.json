@@ -1,0 +1,130 @@
+{
+  "title": "Kissed by Claypot Flavors Peruvian Beef Lomo Saltado Style Stir Fry",
+  "description": "A light, peppery, and tender Peruvian dish made with beef strips cooked in a claypot with a flavorful sauce. Perfect for a quick weeknight dinner.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (1 pound, thinly sliced)",
+      "amount": "400g",
+      "notes": "Use a high-quality beef for best results."
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "Grate fresh ginger for the best flavor."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced or crushed garlic works best."
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion for even cooking."
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "Seed and dice the tomato for the best flavor."
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped or sliced peanuts work well."
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Use fresh or dried coriander for the best flavor."
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use low-sodium salt for a healthier option."
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Use freshly ground black pepper for the best flavor."
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "Thinly slice the scallions for garnish."
+    },
+    {
+      "name": "steamed rice",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a claypot over medium-high heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "lomo-saltado",
+    "one-pan",
+    "peruvian",
+    "stir-fry",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "kissed-by-claypot-flavors-peruvian-beef-lomo-saltado-style-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-claypot-flavors-peruvian-beef-lomo-saltado-style-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:19:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "almond flour",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed by Claypot Flavors",
+    "dishForm": "Lomo Saltado Style Stir Fry"
+  }
+}
