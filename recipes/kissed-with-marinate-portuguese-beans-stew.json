@@ -1,0 +1,111 @@
+{
+  "title": "Kissed with Marinate Portuguese Beans Stew",
+  "description": "A hearty, hangover-cure Portuguese dish featuring tender beans and a silky marinate, served in a banana leaf.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "marinate (see below)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "banana leaf",
+      "amount": "",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add cannellini beans, salt, and black pepper; stir to combine.",
+    "Add marinate (see below) and water; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the beans are tender.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot in banana leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "egg-free",
+    "hearty",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-with-marinate-portuguese-beans-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-marinate-portuguese-beans-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:55:58Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "beans",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "beans",
+    "descriptor": "Kissed with marinate",
+    "dishForm": "Stew"
+  }
+}
