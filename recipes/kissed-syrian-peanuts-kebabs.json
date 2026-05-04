@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Syrian Peanuts Kebabs",
+  "description": "Jammy, tender peanuts glazed with honey and sumac, finished on the grill for a smoky finish. A macrobiotic-friendly twist on a classic Syrian snack.",
+  "cuisine": "Syrian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "raw shelled peanuts",
+      "amount": "300g"
+    },
+    {
+      "name": "honey",
+      "amount": "50g"
+    },
+    {
+      "name": "ground sumac",
+      "amount": "5g"
+    },
+    {
+      "name": "salt",
+      "amount": "2.5g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15ml"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2g"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "10g",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "10g",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide water bath to 60C.",
+    "In a bowl whisk together honey, lemon juice, olive oil, salt, sumac, and smoked paprika until smooth.",
+    "Place the raw peanuts in a vacuum-seal bag and pour the glaze over them, ensuring even coating.",
+    "Seal the bag tightly and immerse it in the preheated water bath, cooking for 120 minutes.",
+    "After cooking, remove the bag, open it, and transfer the peanuts to a parchment-lined sheet.",
+    "Broil or grill the peanuts on high heat for 3-5 minutes, turning once, until they develop a caramelized crust.",
+    "Sprinkle chopped mint and toasted sesame seeds over the hot peanuts.",
+    "Serve immediately, letting the warm steam mingle with the aromatics."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 120,
+  "totalTimeMin": 130,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "jammy",
+    "kebab",
+    "macrobiotic-friendly",
+    "peanut",
+    "sous-vide",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 1970,
+    "protein": 35,
+    "carbs": 84,
+    "fat": 164
+  },
+  "slug": "kissed-syrian-peanuts-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-syrian-peanuts-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:09:38Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "sous-vide",
+    "primaryIngredient": "peanuts",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "peanuts",
+    "descriptor": "Kissed",
+    "dishForm": "Kebabs"
+  }
+}
