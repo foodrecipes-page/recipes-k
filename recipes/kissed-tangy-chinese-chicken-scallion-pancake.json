@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Tangy Chinese Chicken Scallion Pancake",
+  "description": "A tangy and pillowy Chinese dish featuring chicken stock, perfect for midnight cravings, this scallion pancake is a sugar-free friendly delight. It is made in a kadhai vessel.",
+  "cuisine": "Chinese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken stock",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together the flour, salt, and black pepper.",
+    "Add the sliced scallions, minced garlic, and grated ginger to the bowl and mix well.",
+    "In a separate bowl, whisk together the chicken stock, sesame oil, and eggs.",
+    "Pour the wet ingredients into the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Roll out each ball into a thin circle, about 1/8 inch thick.",
+    "Heat a kadhai vessel over medium heat and add 1 tablespoon of sesame oil.",
+    "Place a dough circle in the kadhai and cook for 2 minutes on each side, until golden brown.",
+    "Repeat the cooking process with the remaining dough circles.",
+    "Serve the scallion pancakes hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "chinese-food",
+    "gluten-free",
+    "one-pan",
+    "snack-recipes",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-tangy-chinese-chicken-scallion-pancake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tangy-chinese-chicken-scallion-pancake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:05:02Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "chicken stock",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Tangy",
+    "dishForm": "Scallion Pancake"
+  }
+}
