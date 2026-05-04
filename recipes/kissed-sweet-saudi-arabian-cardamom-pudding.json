@@ -1,0 +1,83 @@
+{
+  "title": "Kissed Sweet Saudi Arabian Cardamom Pudding",
+  "description": "A sweet and creamy Saudi Arabian dessert featuring cardamom, perfect for a quick fix, this pudding is kosher friendly and served in a tagliere vessel.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom pods",
+      "amount": "6 pods",
+      "notes": "ground"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the milk, sugar, and ground cardamom pods over medium heat.",
+    "Whisk the mixture until the sugar dissolves and the mixture is hot but not boiling.",
+    "In a small bowl, whisk together the cornstarch and a splash of the hot milk mixture until smooth.",
+    "Add the cornstarch mixture back into the saucepan and whisk until the mixture thickens.",
+    "Remove the saucepan from the heat and stir in the rose water and unsalted butter until the butter melts.",
+    "Pour the pudding mixture into a tagliere vessel and let it cool to room temperature.",
+    "Refrigerate the pudding for at least 2 hours before serving.",
+    "Serve the pudding chilled, garnished with additional ground cardamom if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "cardamom",
+    "dessert",
+    "kosher-friendly",
+    "middle-eastern",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-sweet-saudi-arabian-cardamom-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-saudi-arabian-cardamom-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:59:14Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "rest",
+    "primaryIngredient": "cardamom",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "cardamom cream",
+    "descriptor": "kissed sweet",
+    "dishForm": "Pudding"
+  }
+}

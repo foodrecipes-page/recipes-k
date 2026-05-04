@@ -1868,6 +1868,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-molten-egyptian-lamb-tagine",
+    "title": "Kissed Molten Egyptian Lamb Tagine",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "middle-eastern",
+      "one-pot",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 200,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-molten-french-udon-noodles",
     "title": "Kissed Molten French Udon Noodles",
     "tags": [
@@ -2445,6 +2460,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-sweet-saudi-arabian-cardamom-pudding",
+    "title": "Kissed Sweet Saudi Arabian Cardamom Pudding",
+    "tags": [
+      "cardamom",
+      "dessert",
+      "kosher-friendly",
+      "middle-eastern",
+      "quick-fix"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
