@@ -1,0 +1,57 @@
+{
+  "title": "Kissed Tunisian Skewers with Chinese Long Beans",
+  "description": "Salty, chewy, and energizing - a delicious Tunisian dish featuring Chinese long beans.",
+  "cuisine": "tunisian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese Long Beans",
+      "amount": "1 pound",
+      "notes": "trimmed"
+    }
+  ],
+  "instructions": [
+    "Soak the cedar planks in water for 30 minutes before using.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the Chinese long beans, chili flakes, garlic, salt, black pepper, paprika, cumin, and red pepper flakes onto the soaked cedar planks, leaving some space between each piece.",
+    "Brush the olive oil and lemon juice onto the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender and lightly charred."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "grill",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-tunisian-skewers-with-chinese-long-beans",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tunisian-skewers-with-chinese-long-beans",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:48:57Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "chinese long beans",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Chinese Long Beans",
+    "descriptor": "Kissed with Energetic Flavors",
+    "dishForm": "Skewers"
+  }
+}

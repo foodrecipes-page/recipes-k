@@ -2265,6 +2265,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-indulgent-polish-yautia-bake",
+    "title": "Kissed Indulgent Polish Yautia Bake",
+    "tags": [
+      "easy-to-make",
+      "indulgent",
+      "one-pan",
+      "satisfies-cravings",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-indulgent-uruguayan-cheese-casserole",
     "title": "Kissed Indulgent Uruguayan Cheese Casserole",
     "tags": [
@@ -3672,6 +3687,20 @@
       "vegetarian"
     ],
     "cuisine": "Tunisian",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tunisian-skewers-with-chinese-long-beans",
+    "title": "Kissed Tunisian Skewers with Chinese Long Beans",
+    "tags": [
+      "easy-to-make",
+      "grill",
+      "tunisian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "tunisian",
     "totalTimeMin": 30,
     "shard": "k"
   },
