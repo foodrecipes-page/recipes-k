@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Mexican Corn Bake",
+  "description": "A romantic twist on traditional Mexican street corn, featuring a smoky wood-fired baked flavor and a tangy, slightly fermented twist. Perfect for a low-sodium friendly dinner for two.",
+  "cuisine": "Mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn on the cob",
+      "amount": "4 ears",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "wood-fired corn husks",
+      "amount": "4 large",
+      "notes": "Available at specialty grocery stores or online"
+    },
+    {
+      "name": "wood-fired baking chips",
+      "amount": "1 cup",
+      "notes": "Available at specialty grocery stores or online"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for spicy kick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "grated lime zest",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat wood-fired grill or oven to 400°F (200°C).",
+    "Shuck the corn and soak the ears for 30 minutes in almond milk to start fermentation.",
+    "Wrap each ear of corn in a wood-fired corn husk, overlapping the husks slightly to prevent steam from escaping.",
+    "Place the wrapped corn on a baking sheet lined with wood-fired baking chips, leaving space between each ear for even cooking.",
+    "Drizzle the corn with olive oil and sprinkle with red pepper flakes if desired.",
+    "Transfer the baking sheet to the preheated grill or oven and bake for 20-25 minutes, or until the corn is slightly charred and the husks are tender.",
+    "Garnish with grated lime zest and chopped cilantro before serving.",
+    "Remove and discard the husks, then serve the kissed corn hot and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "fermented",
+    "low-sodium",
+    "mexican",
+    "romantic",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-mexican-corn-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mexican-corn-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "almond milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Kissed",
+    "dishForm": "Bake"
+  }
+}

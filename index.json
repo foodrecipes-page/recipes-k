@@ -1271,6 +1271,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-canadian-roast-roast",
+    "title": "Kissed Canadian Roast Roast",
+    "tags": [
+      "beef",
+      "canadian",
+      "low-sodium",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 220,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-canadian-salmon-broth",
     "title": "Kissed Canadian Salmon Broth",
     "tags": [
@@ -2551,6 +2565,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-mexican-corn-bake",
+    "title": "Kissed Mexican Corn Bake",
+    "tags": [
+      "corn",
+      "fermented",
+      "low-sodium",
+      "mexican",
+      "romantic",
+      "wood-fired"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {

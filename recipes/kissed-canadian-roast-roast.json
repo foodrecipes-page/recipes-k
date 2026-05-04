@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Canadian Roast Roast",
+  "description": "Roasted, pillowy Canadian dish featuring demerara sugar. A low-sodium-friendly weeknight option.",
+  "cuisine": "Canadian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian Roast Beef",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Demerara Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "2 tablespoons",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "2 cloves",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "1 cup",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the Canadian Roast Beef with salt, black pepper, and rosemary.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the beef until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the beef to a plate and set aside.",
+    "Add the minced garlic to the pot and sauté for 1 minute.",
+    "Pour in the beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the beef to the pot, cover, and transfer to the preheated oven.",
+    "Roast for 2-3 hours, or until the beef reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Remove the beef from the oven and brush with demerara sugar.",
+    "Increase the oven temperature to 400°F (200°C) and roast for an additional 10-15 minutes, or until the sugar is caramelized.",
+    "Let the beef rest for 10 minutes before slicing and serving.",
+    "Serve with the pan juices spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 210,
+  "totalTimeMin": 220,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 60,
+    "carbs": 12,
+    "fat": 32
+  },
+  "slug": "kissed-canadian-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:43:09Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "demerara sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Roast",
+    "descriptor": "Kissed",
+    "dishForm": "Roast"
+  }
+}
