@@ -1,0 +1,110 @@
+{
+  "title": "Kissed Smoky Filipino Shrimp Stew",
+  "description": "A jammy, crisp Filipino shrimp stew with smoky paprika and a touch of tamarind, perfect for a quick pescatarian lunch.",
+  "cuisine": "Filipino",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "medium shrimp, peeled and deveined",
+      "amount": "450g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "red bell pepper, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "fish stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cilantro, chopped",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add diced onion and sauté until translucent, about 3 minutes.",
+    "Stir in minced garlic and diced bell pepper, cooking for another 2 minutes.",
+    "Sprinkle smoked paprika and crushed red pepper flakes, tossing to coat the aromatics for 30 seconds.",
+    "Pour in coconut milk and fish stock, bringing the mixture to a gentle simmer.",
+    "Add tamarind paste and soy sauce, stirring until well combined.",
+    "Gently fold in peeled shrimp, simmering until pink and cooked through, about 5 minutes.",
+    "Taste and adjust seasoning with salt if needed, then stir in chopped cilantro.",
+    "Remove from heat and let the stew rest for 2 minutes before serving.",
+    "Serve hot, optionally accompanied by steamed rice or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "one-pot",
+    "pescatarian",
+    "shrimp",
+    "smoky",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 110,
+    "carbs": 14,
+    "fat": 39
+  },
+  "slug": "kissed-smoky-filipino-shrimp-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-filipino-shrimp-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:05:19Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "lardons-render",
+    "primaryIngredient": "smoky paprika",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "shrimp",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Stew"
+  }
+}
