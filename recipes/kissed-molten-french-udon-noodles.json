@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Molten French Udon Noodles",
+  "description": "Rich and molten French dish featuring udon noodles, lacquer glaze, and ayurvedic tamasic friendly ingredients, served in a lotus leaf wrap.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "tamasic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "truffle oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "shallots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the udon noodles according to the package instructions.",
+    "In a small saucepan, heat the lacquer glaze over low heat until it is warm and syrupy.",
+    "In a large skillet, heat the truffle oil over medium heat and saute the garlic and shallots until they are softened.",
+    "Add the mushrooms to the skillet and cook until they are tender and lightly browned.",
+    "To assemble the dish, place a portion of the cooked noodles on a lotus leaf, followed by a spoonful of the mushroom mixture and a drizzle of the lacquer glaze.",
+    "Sprinkle the top of each portion with grated gruyere cheese.",
+    "Serve the noodles immediately, garnished with additional lotus leaves if desired.",
+    "Let the noodles rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-idea",
+    "french-inspiration",
+    "lotus-leaf-wrap",
+    "truffle-oil",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-molten-french-udon-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-molten-french-udon-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:45:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "brunch-mood",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "udon noodles",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "udon noodles",
+    "descriptor": "Kissed molten",
+    "dishForm": "Noodles"
+  }
+}
