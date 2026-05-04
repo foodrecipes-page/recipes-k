@@ -1,0 +1,103 @@
+{
+  "title": "Kosher Umami Japanese Pork Okonomiyaki",
+  "description": "A savory and umami-rich Japanese okonomiyaki dish featuring pork and kosher-friendly ingredients, perfect for a post-workout meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kosher okonomiyaki sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "2 tablespoons",
+      "notes": "kosher-friendly"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1 tablespoon",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "kosher Worcestershire sauce",
+      "amount": "1 teaspoon",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large skillet over medium-high heat.",
+    "Add the rendered lardons to the skillet and cook until crispy.",
+    "Remove the lardons from the skillet and set aside.",
+    "Add the diced pork shoulder to the skillet and cook until browned.",
+    "Add the shredded cabbage and chopped scallions to the skillet and cook until the cabbage is wilted.",
+    "In a small bowl, whisk together the okonomiyaki sauce, mayonnaise, bonito flakes, and Worcestershire sauce.",
+    "Pour the sauce mixture over the pork and cabbage mixture in the skillet.",
+    "Top the mixture with the crispy lardons and cook for an additional 2 minutes.",
+    "Serve the okonomiyaki hot, garnished with additional scallions and bonito flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "japanese-inspired",
+    "post-workout",
+    "savory",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "kosher-umami-japanese-pork-okonomiyaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-umami-japanese-pork-okonomiyaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:24:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "canola oil",
+    "diet": "kosher",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Kosher Umami",
+    "dishForm": "Okonomiyaki"
+  }
+}
