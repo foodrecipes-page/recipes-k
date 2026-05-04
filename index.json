@@ -534,6 +534,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicky-citrusy-korean-tomatoes-namul",
+    "title": "Kicky Citrusy Korean Tomatoes Namul",
+    "tags": [
+      "easy",
+      "korean",
+      "low-sodium",
+      "quick",
+      "refreshing",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kicky-crisp-slovakian-broccoli-wrap",
     "title": "Kicky Crisp Slovakian Broccoli Wrap",
     "tags": [
