@@ -1,0 +1,102 @@
+{
+  "title": "Kissed with Ayurvedic Spices Peruvian Chestnut Mushroom Stir-fry",
+  "description": "Indulge in this silky, mustardy Peruvian dish featuring chestnut mushrooms in a miso-marinate with Ayurvedic sattvic-friendly spices, cooked to perfection in a wok.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnut mushroom",
+      "amount": "1 pound",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "ayurvedic spice blend",
+      "amount": "1 teaspoon",
+      "notes": "such as garam masala, turmeric, and cumin"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add garlic and ginger, cook for 1 minute, until fragrant.",
+    "Add miso paste, cook for 1 minute, until smooth.",
+    "Add soy sauce, rice vinegar, and Ayurvedic spice blend, cook for 1 minute, until combined."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "easy-vegan-alternative",
+    "one-pan",
+    "peruvian",
+    "sattvic",
+    "stir-fry",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-with-ayurvedic-spices-peruvian-chestnut-mushroom-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-ayurvedic-spices-peruvian-chestnut-mushroom-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "miso-marinate",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "Kissed with ayurvedic spices",
+    "dishForm": "Stir-fry"
+  }
+}

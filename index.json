@@ -306,6 +306,20 @@
     "shard": "k"
   },
   {
+    "slug": "keto-kicked-kenyan-fatty-food-bake",
+    "title": "Keto Kicked Kenyan Fatty Food Bake",
+    "tags": [
+      "air-fryer",
+      "dessert",
+      "indulgent",
+      "keto",
+      "one-pan"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "keto-monsoon-ham-fry",
     "title": "Keto Monsoon Ham Fry",
     "tags": [
@@ -1270,6 +1284,19 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-charred-algerian-cabbage-tagine",
+    "title": "kissed charred algerian cabbage tagine",
+    "tags": [
+      "high-fiber",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -3738,6 +3765,23 @@
     ],
     "cuisine": "Welsh",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-ayurvedic-spices-peruvian-chestnut-mushroom-stir-fry",
+    "title": "Kissed with Ayurvedic Spices Peruvian Chestnut Mushroom Stir-fry",
+    "tags": [
+      "ayurvedic",
+      "easy-vegan-alternative",
+      "one-pan",
+      "peruvian",
+      "sattvic",
+      "stir-fry",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {

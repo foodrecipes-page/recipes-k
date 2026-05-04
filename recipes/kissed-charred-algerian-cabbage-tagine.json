@@ -1,0 +1,65 @@
+{
+  "title": "kissed charred algerian cabbage tagine",
+  "description": "charred, fluffy, crowd-pleaser algerian dish featuring red cabbage, brine-wet, jain-friendly, vessel=agave-leaf",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the agave-leaf over medium heat.",
+    "add the chopped onion and cook for 5 minutes, stirring occasionally.",
+    "add the thinly sliced red cabbage and cook for 10 minutes, stirring occasionally.",
+    "reduce heat to low and cook for an additional 5 minutes, stirring occasionally, to char the cabbage slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-charred-algerian-cabbage-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-algerian-cabbage-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:32:30Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "brine-wet",
+    "primaryIngredient": "red cabbage",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "algerian",
+    "mainIngredient": "cabbage",
+    "descriptor": "kissed charred",
+    "dishForm": "tagine"
+  }
+}
