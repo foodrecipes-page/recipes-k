@@ -369,6 +369,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-citrusy-vietnamese-beef-noodles",
+    "title": "Kicked Citrusy Vietnamese Beef Noodles",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "post-workout",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-juicy-canadian-lentil-curry",
     "title": "Kicked Juicy Canadian Lentil Curry",
     "tags": [
@@ -997,6 +1012,20 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 37,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crumbly-kenyan-amaretti-cookies",
+    "title": "Kissed Crumbly Kenyan Amaretti Cookies",
+    "tags": [
+      "crumbly-texture",
+      "kenyan-dishes",
+      "midnight-cravings",
+      "shojin-friendly",
+      "vegetarian-cookies"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

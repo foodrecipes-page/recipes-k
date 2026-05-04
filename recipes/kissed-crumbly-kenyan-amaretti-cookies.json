@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crumbly Kenyan Amaretti Cookies",
+  "description": "A charred and crumbly cookie featuring amaretti, these Kenyan treats are perfect for midnight cravings, with a brine-dry and shojin-friendly twist.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "amaretti cookies",
+      "amount": "1 1/2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "brine solution",
+      "amount": "1/4 cup",
+      "notes": "for drying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a medium bowl, whisk together flour, baking soda, and salt.",
+    "In a large bowl, use an electric mixer to cream together butter and sugar.",
+    "Beat in eggs one at a time, followed by vanilla extract.",
+    "Gradually mix in the flour mixture until just combined, being careful not to overmix.",
+    "Stir in crushed amaretti cookies.",
+    "Scoop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes, or until lightly charred on the bottom.",
+    "Remove from the oven and let cool on the baking sheet for 5 minutes.",
+    "Transfer cookies to a wire rack to cool completely.",
+    "Dip the tops of the cooled cookies in the brine solution to achieve a dry, crumbly texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-texture",
+    "kenyan-dishes",
+    "midnight-cravings",
+    "shojin-friendly",
+    "vegetarian-cookies"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "kissed-crumbly-kenyan-amaretti-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crumbly-kenyan-amaretti-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:33:33Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "brine-dry",
+    "primaryIngredient": "amaretti",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "amaretti",
+    "descriptor": "kissed crumbly",
+    "dishForm": "Cookies"
+  }
+}
