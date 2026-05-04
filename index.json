@@ -1330,6 +1330,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-rendered-turkish-fennel-kebabs",
+    "title": "Kissed Rendered Turkish Fennel Kebabs",
+    "tags": [
+      "easy-recipe",
+      "gluten-free",
+      "healthy-eating",
+      "low-sodium",
+      "turkish-food",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-rich-italian-tomato-bruschetta",
     "title": "Kissed Rich Italian Tomato Bruschetta",
     "tags": [
@@ -1791,6 +1806,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-vietnamese-broad-beans-che-ba-mau",
+    "title": "Kissed Vietnamese Broad Beans Che Ba Mau",
+    "tags": [
+      "fermented",
+      "nigiri-shaping",
+      "no-onion-no-garlic",
+      "post-workout",
+      "wooden-board"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

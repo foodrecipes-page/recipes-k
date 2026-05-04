@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Vietnamese Broad Beans Che Ba Mau",
+  "description": "Fermented broad bean topping on sticky rice shaped like nigiri, served on a wooden board for a juicy post-workout snack.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fermented broad beans",
+      "amount": "500g"
+    },
+    {
+      "name": "sticky rice",
+      "amount": "200g"
+    },
+    {
+      "name": "carrot",
+      "amount": "150g",
+      "notes": "julienned"
+    },
+    {
+      "name": "cucumber",
+      "amount": "100g",
+      "notes": "julienned"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook sticky rice in water until soft, then drain and let cool to room temperature.",
+    "Rinse fermented broad beans thoroughly to remove excess salt.",
+    "Whisk fish sauce, sugar, and lime juice together, then mix in the beans to create a quick fermented bean sauce.",
+    "Spread a thin layer of the bean sauce over the cooled sticky rice on a wooden board, forming small oval shapes.",
+    "Add a spoonful of bean sauce atop each rice oval to keep the beans juicy.",
+    "Arrange carrot, cucumber, and mint slices over the bean topping for texture and freshness.",
+    "Sprinkle toasted sesame seeds over the garnish for aroma and crunch.",
+    "Refrigerate the board for 10 minutes before serving to allow flavors to meld."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "nigiri-shaping",
+    "no-onion-no-garlic",
+    "post-workout",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 8,
+    "carbs": 28,
+    "fat": 4
+  },
+  "slug": "kissed-vietnamese-broad-beans-che-ba-mau",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-vietnamese-broad-beans-che-ba-mau",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:14:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "post-workout",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "broad beans",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Broad Beans",
+    "descriptor": "Kissed",
+    "dishForm": "Che Ba Mau"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Rendered Turkish Fennel Kebabs",
+  "description": "A quick and flavorful Turkish dish featuring fennel bulb and render fat, perfect for a weeknight dinner. This low-sodium friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel bulbs",
+      "amount": "2 large",
+      "notes": "fronds reserved for garnish"
+    },
+    {
+      "name": "rendered fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "turkish red pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Trim the fennel bulbs and cut them into 1 inch wedges.",
+    "Mix the rendered fat, garlic, lemon juice, paprika, salt, black pepper, and turkish red pepper in a large bowl.",
+    "Add the fennel wedges to the bowl and toss to coat with the fat mixture.",
+    "Thread the fennel wedges onto skewers, leaving a little space between each wedge.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the fennel kebabs in the preheated oven for 20 minutes, or until tender and lightly browned.",
+    "Remove the kebabs from the oven and garnish with chopped fresh parsley and reserved fennel fronds.",
+    "Serve the kebabs hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipe",
+    "gluten-free",
+    "healthy-eating",
+    "low-sodium",
+    "turkish-food",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kissed-rendered-turkish-fennel-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-rendered-turkish-fennel-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:14:38Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shaggy",
+    "mood": "quick-fix",
+    "technique": "render-fat",
+    "primaryIngredient": "fennel bulb",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "fennel",
+    "descriptor": "Kissed Rendered",
+    "dishForm": "Kebabs"
+  }
+}
