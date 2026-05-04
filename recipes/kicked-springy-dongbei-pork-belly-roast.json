@@ -1,0 +1,107 @@
+{
+  "title": "Kicked Springy Dongbei Pork Belly Roast",
+  "description": "A hearty roasted pork belly with a miso-tarragon glaze, perfect for a hangover cure and served on a tagliere for a rustic presentation.",
+  "cuisine": "Chinese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg",
+      "notes": "skin on, boneless"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice wine",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh tarragon leaves",
+      "amount": "10 g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger, minced",
+      "amount": "1 inch"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and soak a tagliere in water for easy serving.",
+    "In a bowl combine miso paste, soy sauce, rice wine, sesame oil, brown sugar, tarragon leaves, garlic, ginger, salt, pepper and water to make a glaze.",
+    "Pat the pork belly dry with paper towels and score the skin in a crosshatch pattern.",
+    "Brush the glaze all over the pork belly, ensuring the score lines are filled.",
+    "Place the pork belly on a rack in a roasting pan and roast for 90 minutes, turning once at 45 minutes.",
+    "Baste the pork belly with the remaining glaze every 20 minutes to build a caramelized crust.",
+    "When the pork belly is tender and the skin is crisp, remove from oven and let rest for 10 minutes.",
+    "Slice the pork belly on a tagliere and serve immediately, garnished with additional tarragon leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dongbei",
+    "hangover-cure",
+    "kosher-friendly",
+    "roast",
+    "tarragon"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 60
+  },
+  "slug": "kicked-springy-dongbei-pork-belly-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-springy-dongbei-pork-belly-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:53:31Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "miso-marinate",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "kosher",
+    "region": "dongbei",
+    "cuisineAdjective": "Dongbei",
+    "mainIngredient": "Pork Belly",
+    "descriptor": "Kicked Springy",
+    "dishForm": "Roast"
+  }
+}
