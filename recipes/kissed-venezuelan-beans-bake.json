@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Venezuelan Beans Bake",
+  "description": "A hearty, earthy bean bake infused with nutmeg and citrus, wrapped in corn husks for a unique twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans, cooked",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "0.25 cup",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "0.25 cup",
+      "notes": ""
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the cooked black beans and set aside.",
+    "Finely dice the onion and mince the garlic.",
+    "Heat the olive oil in a skillet over medium heat and sauté onion and garlic until translucent.",
+    "Add the cumin, smoked paprika, and nutmeg, cooking for 30 seconds until fragrant.",
+    "Stir in the black beans, orange juice, and chopped cilantro, seasoning with salt and pepper.",
+    "Transfer the mixture into a large corn husk, folding the edges to seal tightly.",
+    "Place the wrapped husk on a baking sheet and bake at 375°F for 30 minutes.",
+    "Remove from oven and carefully unroll the husk, spreading the beans into a baking dish.",
+    "Bake again at 375°F for 15 minutes until the top is slightly caramelized.",
+    "Serve hot, garnished with extra cilantro if desired."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "venezuelan",
+    "dinner"
+  ],
+  "slug": "kissed-venezuelan-beans-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-venezuelan-beans-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:41:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "weeknight",
+    "technique": "bake",
+    "primaryIngredient": "ground nutmeg",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "beans",
+    "descriptor": "Kissed",
+    "dishForm": "Bake"
+  }
+}
