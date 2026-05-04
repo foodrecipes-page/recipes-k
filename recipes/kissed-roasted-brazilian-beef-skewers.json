@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Roasted Brazilian Beef Skewers",
+  "description": "A light and quick-fix Brazilian dish featuring lean minced beef, coconut cream, and a touch of spice, all FODMAP-friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "500g",
+      "notes": "lean"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the minced beef, coconut cream, lime juice, olive oil, garlic-infused oil, salt, black pepper, and paprika.",
+    "Mix everything together with your hands or a wooden spoon until just combined.",
+    "Thread the beef mixture onto skewers, leaving a little space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 15 minutes, or until cooked through.",
+    "Remove the skewers from the oven and let them rest for a few minutes.",
+    "Serve the skewers hot, garnished with fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef-recipes",
+    "brazilian-food",
+    "fodmap-friendly",
+    "gluten-free",
+    "low-carb",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-roasted-brazilian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-brazilian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:07:39Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lean minced beef",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed roasted",
+    "dishForm": "Skewers"
+  }
+}

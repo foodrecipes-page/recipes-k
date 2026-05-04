@@ -1043,6 +1043,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-dongbei-almond-flour-dumplings",
+    "title": "Kissed Dongbei Almond Flour Dumplings",
+    "tags": [
+      "almond-flour",
+      "kosher-friendly",
+      "night-craving",
+      "quick-snack",
+      "steamed-dumplings"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-dutch-chicken-salad",
     "title": "Kissed Dutch Chicken Salad",
     "tags": [
@@ -1821,6 +1835,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-brazilian-beef-skewers",
+    "title": "Kissed Roasted Brazilian Beef Skewers",
+    "tags": [
+      "beef-recipes",
+      "brazilian-food",
+      "fodmap-friendly",
+      "gluten-free",
+      "low-carb",
+      "quick-dinner"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
