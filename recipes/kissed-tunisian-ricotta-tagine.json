@@ -1,0 +1,123 @@
+{
+  "title": "Kissed Tunisian Ricotta Tagine",
+  "description": "A creamy, pepper‑rich Tunisian tagine with ricotta that stays al‑dente and is perfect for meal prep, featuring anti‑inflammatory spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "bell peppers, sliced",
+      "amount": "2"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp",
+      "notes": "finely grated"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "250g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 3 minutes.",
+    "Stir in garlic, ginger, cumin, paprika, turmeric, and cayenne; cook 1 minute until fragrant.",
+    "Add sliced bell pepper and zucchini; sauté until slightly softened, about 5 minutes.",
+    "Pour in diced tomatoes and vegetable broth; bring to a gentle simmer and cook 10 minutes to develop flavors.",
+    "Reduce heat to low, stir in ricotta and a pinch of salt; let heat through and thicken slightly, about 2 minutes.",
+    "Taste and adjust seasoning with pepper; remove from heat.",
+    "Transfer to a heat‑proof dish, garnish with chopped cilantro, and allow to cool before refrigerating for meal prep.",
+    "When ready to serve, reheat gently over low heat until warm, stirring occasionally."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "meal-prep",
+    "ricotta",
+    "tagine",
+    "tunisian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 705,
+    "protein": 24,
+    "carbs": 52,
+    "fat": 44
+  },
+  "slug": "kissed-tunisian-ricotta-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tunisian-ricotta-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:45:51Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "pepper",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Flaky French Olive Macaron",
+  "description": "A flaky and savory French macaron featuring olives, perfect for a brunch mood, served in a hot pot vessel. This dish is vegetarian friendly and has a sour taste.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably from Normandy"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pitted green olives",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "Add the sliced olives, melted butter, and egg to the bowl and mix until a dough forms.",
+    "Roll out the dough on a floured surface to a thickness of about 1/4 inch.",
+    "Use a cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place the dough circles in a hot pot vessel or a stone bowl.",
+    "If using cheese, sprinkle it on top of the dough circles.",
+    "Bake the macarons in the preheated oven for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "french-cuisine",
+    "hot-pot-recipes",
+    "normandy-inspired",
+    "olive-based",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "kissed-flaky-french-olive-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-flaky-french-olive-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:45:47Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "olives",
+    "diet": "vegetarian",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "olives",
+    "descriptor": "kissed flaky",
+    "dishForm": "Macaron"
+  }
+}

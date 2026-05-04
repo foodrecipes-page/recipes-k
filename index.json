@@ -709,6 +709,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-dutch-corn-pancakes",
+    "title": "Kissed Dutch Corn Pancakes",
+    "tags": [
+      "dutch",
+      "flambe",
+      "gluten-free",
+      "high-protein",
+      "midnight-craving"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-dutch-pancetta-stir-fry",
     "title": "Kissed Dutch Pancetta Stir-fry",
     "tags": [
@@ -738,6 +752,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-flaky-french-olive-macaron",
+    "title": "Kissed Flaky French Olive Macaron",
+    "tags": [
+      "brunch-ideas",
+      "french-cuisine",
+      "hot-pot-recipes",
+      "normandy-inspired",
+      "olive-based",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -1303,6 +1332,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tunisian-ricotta-tagine",
+    "title": "Kissed Tunisian Ricotta Tagine",
+    "tags": [
+      "anti-inflammatory",
+      "meal-prep",
+      "ricotta",
+      "tagine",
+      "tunisian",
+      "vegetarian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {

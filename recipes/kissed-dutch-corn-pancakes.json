@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Dutch Corn Pancakes",
+  "description": "Floral, chewy pancakes with a midnight flare, made with corn flour, whey protein, and a dash of flambe for that Dutch twist.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "200g"
+    },
+    {
+      "name": "whey protein isolate",
+      "amount": "20g"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "almond milk",
+      "amount": "250ml"
+    },
+    {
+      "name": "honey",
+      "amount": "20g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "fresh blueberries",
+      "amount": "50g"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "30ml"
+    },
+    {
+      "name": "butter for pan",
+      "amount": "15g"
+    }
+  ],
+  "instructions": [
+    "Whisk the corn flour, whey protein, baking powder, and sea salt in a bowl until smooth.",
+    "In a separate bowl, beat the eggs, almond milk, honey, and vanilla until combined.",
+    "Combine the wet and dry mixtures, stirring gently until just mixed.",
+    "Heat a non-stick skillet over medium heat and add the melted butter.",
+    "Pour a 1/4 cup of batter onto the skillet for each pancake, then spread blueberries over the surface.",
+    "Cook until bubbles form on top, about 2-3 minutes, then flip and cook the other side for another 2 minutes.",
+    "Repeat with remaining batter, keeping pancakes warm.",
+    "Serve pancakes hot, drizzle with maple syrup, and finish with a flambe of a small amount of butter and a splash of brandy, igniting for a dramatic effect.",
+    "Enjoy the floral aroma and chewy texture as a midnight craving delight."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "flambe",
+    "gluten-free",
+    "high-protein",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 30,
+    "carbs": 110,
+    "fat": 39
+  },
+  "slug": "kissed-dutch-corn-pancakes",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dutch-corn-pancakes",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:45:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "corn flour",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "corn",
+    "descriptor": "Kissed",
+    "dishForm": "Pancakes"
+  }
+}
