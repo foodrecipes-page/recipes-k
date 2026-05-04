@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Smoky Australian King Prawns Skewers",
+  "description": "Smoky and fluffy Australian king prawns skewers, perfect for a pescatarian dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "12 large",
+      "notes": "raw"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "Thread 3 king prawns onto each skewer",
+    "In a small bowl, mix together lemon juice, olive oil, garlic, paprika, salt, and black pepper",
+    "Brush the mixture onto both sides of the prawns",
+    "Place the skewers on the grill and cook for 2-3 minutes per side",
+    "Hold the binchotan charcoal piece over the prawns for 30 seconds to give them a smoky flavor",
+    "Serve the prawns hot, garnished with chopped parsley"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "healthy",
+    "pescatarian",
+    "seafood",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 8
+  },
+  "slug": "kissed-smoky-australian-king-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-australian-king-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T13:19:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "raw king prawns",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "king prawns",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Skewers"
+  }
+}
