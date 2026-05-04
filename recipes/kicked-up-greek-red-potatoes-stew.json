@@ -1,0 +1,101 @@
+{
+  "title": "Kicked Up Greek Red Potatoes Stew",
+  "description": "A hearty and comforting Mediterranean stew featuring red potatoes and a blend of bitter and gooey flavors, perfect for a sick day. This kosher-friendly dish is made with fermented ingredients and a variety of spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the cubed red potatoes, kalamata olives, artichoke hearts, feta cheese, lemon juice, and dried oregano.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the potatoes are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional feta cheese and olives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicked-up-greek-red-potatoes-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-up-greek-red-potatoes-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T03:18:21Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "red potatoes",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "red potatoes",
+    "descriptor": "Kicked Up",
+    "dishForm": "Stew"
+  }
+}

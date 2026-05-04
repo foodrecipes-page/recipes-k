@@ -400,6 +400,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-up-greek-red-potatoes-stew",
+    "title": "Kicked Up Greek Red Potatoes Stew",
+    "tags": [
+      "comfort-food",
+      "mediterranean",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kicky-crisp-slovakian-broccoli-wrap",
     "title": "Kicky Crisp Slovakian Broccoli Wrap",
     "tags": [
