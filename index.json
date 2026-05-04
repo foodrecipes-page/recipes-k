@@ -909,6 +909,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-caramel-argentinian-beef-roast",
+    "title": "Kissed Caramel Argentinian Beef Roast",
+    "tags": [
+      "argentinian-cuisine",
+      "beef-recipes",
+      "caramel-sauce",
+      "dinner-ideas",
+      "gluten-free",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-charred-brazilian-cheese-onigiri",
     "title": "Kissed Charred Brazilian Cheese Onigiri",
     "tags": [
@@ -3211,6 +3226,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-grassy-chinese-noodles-zha-jiang-mian",
+    "title": "Knotted Grassy Chinese Noodles Zha Jiang Mian",
+    "tags": [
+      "chinese-food",
+      "noodle-dish",
+      "one-pan",
+      "quick-meal",
+      "vegetarian-friendly",
+      "yum"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

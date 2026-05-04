@@ -1,0 +1,99 @@
+{
+  "title": "Knotted Grassy Chinese Noodles Zha Jiang Mian",
+  "description": "A traditional Yunnan dish featuring knotted noodles, grassy flavors, and a hint of rum, this Zha Jiang Mian is a unique twist on a classic Chinese recipe. The dish is raw-friendly and incorporates a deglaze step for added depth of flavor.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese noodles",
+      "amount": "8 oz",
+      "notes": "preferably knotted"
+    },
+    {
+      "name": "Appleton rum",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grassy greens",
+      "amount": "1 cup",
+      "notes": "such as pea shoots or watercress"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the Chinese noodles according to the package instructions.",
+    "In a small bowl, whisk together the soy sauce, fermented bean paste, and Appleton rum.",
+    "In a large skillet or wok, heat the vegetable oil over medium-high heat and add the minced garlic and grated ginger.",
+    "Cook for 1-2 minutes until fragrant, then add the grassy greens and cook until wilted.",
+    "Add the cooked noodles to the skillet and toss to combine with the greens and garlic-ginger mixture.",
+    "Pour the soy sauce mixture into the skillet and stir to coat the noodles evenly.",
+    "Use the Appleton rum to deglaze the skillet, scraping up any browned bits from the bottom.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "noodle-dish",
+    "one-pan",
+    "quick-meal",
+    "vegetarian-friendly",
+    "yum"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "knotted-grassy-chinese-noodles-zha-jiang-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-grassy-chinese-noodles-zha-jiang-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:42:15Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "appleton rum",
+    "diet": "raw",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Knotted Grassy",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
