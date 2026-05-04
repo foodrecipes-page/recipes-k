@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Crisp Tunisian Chicken Kebabs",
+  "description": "A fresh and crisp Tunisian dish featuring jerk seasoning and render fat, perfect for a low calorie friendly meal, this recipe is a flavorful and festive twist on traditional chicken kebabs.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low calorie",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "render fat",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together jerk seasoning, render fat, lemon juice, olive oil, garlic powder, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Garnish with chopped fresh parsley and serve immediately.",
+    "Let the kebabs rest for 2-3 minutes before serving.",
+    "Serve with your choice of sides, such as couscous or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-chicken",
+    "healthy-dinner",
+    "low-calorie",
+    "tunisian-cuisine",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 14
+  },
+  "slug": "kissed-crisp-tunisian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-tunisian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:58:57Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "render-fat",
+    "primaryIngredient": "jerk",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Kebabs"
+  }
+}
