@@ -1,0 +1,104 @@
+{
+  "title": "Kissed by Midnight Slovakian Fish Fried-Rice",
+  "description": "A briny, springy Slovakian dish featuring fish seasoning and Buddhist-temple-friendly ingredients, perfect for midnight cravings.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Cod fillet",
+      "amount": "1",
+      "notes": "any firm white fish works"
+    },
+    {
+      "name": "Fish seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "preferably low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "or vegetable oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the sliced scallions and cook for an additional 2 minutes.",
+    "Add the cooked rice to the skillet and stir to combine with the garlic and scallions.",
+    "Add the soy sauce and fish seasoning to the rice and stir-fry for 2-3 minutes.",
+    "Flake the cooked cod into the rice mixture and stir-fry for an additional minute.",
+    "Season the dish with salt and pepper to taste.",
+    "Transfer the Kissed by Midnight Slovakian Fish Fried-Rice to a serving platter.",
+    "Garnish with additional scallions if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-clean-up",
+    "fish-recipes",
+    "fried-rice",
+    "midnight-cravings",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-by-midnight-slovakian-fish-fried-rice",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-midnight-slovakian-fish-fried-rice",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:04:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "fish seasoning",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Fish",
+    "descriptor": "Kissed by Midnight",
+    "dishForm": "Fried-Rice"
+  }
+}
