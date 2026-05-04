@@ -1,0 +1,114 @@
+{
+  "title": "Kissed Spanish Tomato Gazpacho",
+  "description": "A peppery, flaky one‑pot gazpacho made from grilled tomatoes, peppers, and fresh thyme, cooked in a clay pot on a robata grill and served chilled.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "6 medium (800g)",
+      "notes": "fresh"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 (200g)",
+      "notes": "fresh"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 (200g)",
+      "notes": "peeled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small (100g)",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "300ml"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium‑high heat and place a clay pot on it.",
+    "Add the olive oil to the clay pot and swirl to coat the bottom.",
+    "Place the tomatoes, bell pepper, onion, and minced garlic in the pot, skin side up, and grill for 8 minutes until charred.",
+    "Transfer the grilled vegetables to a heat‑proof bowl and let them cool slightly.",
+    "Add the water, red wine vinegar, thyme, salt, and pepper to the bowl and blend until smooth.",
+    "Stir in the chopped parsley, then chill the gazpacho in the refrigerator for at least 30 minutes.",
+    "Before serving, stir the soup again and pour it into bowls.",
+    "Garnish each bowl with a drizzle of olive oil and a sprinkle of fresh thyme.",
+    "Serve chilled with a side of crusty bread.",
+    "Enjoy the peppery, flaky flavors of this Spanish gazpacho!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "one-pot",
+    "spicy",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "kissed-spanish-tomato-gazpacho",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spanish-tomato-gazpacho",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:56:00Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "fresh thyme",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "tomato",
+    "descriptor": "Kissed",
+    "dishForm": "Gazpacho"
+  }
+}
