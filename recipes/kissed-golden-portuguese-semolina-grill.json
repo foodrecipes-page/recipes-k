@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Golden Portuguese Semolina Grill",
+  "description": "A traditional Portuguese dish featuring semolina, grilled to perfection in a scallop shell, perfect for a sick day, this resinous and bouncy qq semolina grill is a low carb friendly option",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup",
+      "notes": "fine semolina"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "4 large",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat",
+    "In a large bowl whisk together semolina, eggs, olive oil, garlic, paprika, salt, and black pepper",
+    "Let the mixture rest for 10 minutes to allow the semolina to absorb the liquid",
+    "Divide the mixture into 4 equal parts and shape each part into a small oval",
+    "Place each oval onto a scallop shell",
+    "Brush the tops with a little bit of olive oil",
+    "Place the scallop shells onto the preheated grill and cook for 5 minutes on each side",
+    "Remove the shells from the grill and let them rest for a minute or two before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "grilled-dishes",
+    "healthy-lunch",
+    "low-carb",
+    "portuguese-food",
+    "semolina-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-golden-portuguese-semolina-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-portuguese-semolina-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:00:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "semolina",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "semolina",
+    "descriptor": "kissed golden",
+    "dishForm": "Grill"
+  }
+}
