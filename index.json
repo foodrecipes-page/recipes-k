@@ -604,6 +604,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-american-cheese-soup",
+    "title": "Kissed American Cheese Soup",
+    "tags": [
+      "cheese-soup",
+      "comfort-food",
+      "quick",
+      "sick-day",
+      "warm"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-american-pineapple-cobbler",
     "title": "kissed american pineapple cobbler",
     "tags": [

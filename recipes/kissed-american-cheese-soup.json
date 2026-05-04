@@ -1,0 +1,96 @@
+{
+  "title": "Kissed American Cheese Soup",
+  "description": "A cultured, gooey soup that blends classic American cheese with a subtle kick of chili powder and a mother-sauce base, ideal for a comforting sick-day meal.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped chives",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Melt the butter in a medium pot over medium heat until foamy.",
+    "Add the tomato paste and stir until fragrant about 1 minute.",
+    "Pour in the chicken broth and bring to a gentle simmer.",
+    "Stir in the milk and allow the mixture to heat through.",
+    "Add the shredded cheddar and cream cheese, stirring until melted and smooth.",
+    "Season with chili powder, salt, and black pepper and adjust to taste.",
+    "Remove from heat and let the soup sit for 2 minutes.",
+    "Stir in the chopped chives before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-soup",
+    "comfort-food",
+    "quick",
+    "sick-day",
+    "warm"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-american-cheese-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-american-cheese-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:48:19Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "chilli powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Cheese",
+    "descriptor": "Kissed",
+    "dishForm": "Soup"
+  }
+}
