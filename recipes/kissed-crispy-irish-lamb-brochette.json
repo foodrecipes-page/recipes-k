@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Crispy Irish Lamb Brochette",
+  "description": "A winey and snappy Irish dish featuring sweet sherry, this broiled lamb brochette is a perfect hangover cure with Mediterranean-friendly flavors. It combines the richness of lamb with the sweetness of sherry and the crunch of a crispy exterior.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon",
+      "amount": "1",
+      "notes": "cut into wedges"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sweet sherry, olive oil, garlic, rosemary, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a broiler pan and broil for 10-12 minutes, flipping halfway through.",
+    "Remove the skewers from the oven and let rest for 5 minutes.",
+    "Serve the brochette hot with lemon wedges on the side.",
+    "Garnish with additional rosemary sprigs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish-food",
+    "lamb-recipes",
+    "one-pan",
+    "sherry-cooking",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-crispy-irish-lamb-brochette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-irish-lamb-brochette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:08:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "broil",
+    "primaryIngredient": "sweet sherry",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Brochette"
+  }
+}
