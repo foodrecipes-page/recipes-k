@@ -1,0 +1,96 @@
+{
+  "title": "Kneaded Yeasty French Cheese Blanquette",
+  "description": "A yeasty, cheese-pull French dish featuring plain chocolate, this blanquette is a unique and adventurous option for dinner. It is jain-friendly and features an ice-bath-shock step.",
+  "cuisine": "French",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "plain chocolate chips",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "soy milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Add sugar, soy milk, and melted butter to the bowl and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and roll it out into a large rectangle.",
+    "Sprinkle shredded gruyere cheese and plain chocolate chips over the dough, leaving a 1 inch border around the edges.",
+    "Fold the dough over the filling to form a blanquette shape and press the edges to seal.",
+    "Place the blanquette in an ice bath for 10 minutes to shock the yeast.",
+    "Remove the blanquette from the ice bath and let it rise for another 30 minutes.",
+    "Preheat the oven to 375 degrees and bake the blanquette for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous-eats",
+    "cheese-pull",
+    "french-cuisine",
+    "jain-friendly",
+    "unique-dinner",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "kneaded-yeasty-french-cheese-blanquette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-yeasty-french-cheese-blanquette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:37:21Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "plain chocolate",
+    "diet": "jain",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "kneaded yeasty",
+    "dishForm": "Blanquette"
+  }
+}
