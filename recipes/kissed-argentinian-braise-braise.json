@@ -1,0 +1,115 @@
+{
+  "title": "Kissed Argentinian Braise Braise",
+  "description": "Yeasty, juicy, hangover-cure argentinian dish featuring datterini-tomato, braise, raw-friendly.",
+  "cuisine": "argentinian",
+  "diet": [
+    "omnivore",
+    "vegan-unfriendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Datterini Tomatoes",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Argentinian Chimichurri Seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Braised Beef Short Ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the smoked paprika and cook for 30 seconds, until fragrant.",
+    "Add the short ribs and cook for 2 minutes, until browned on all sides.",
+    "Add the datterini tomatoes, kosher salt, and black pepper. Stir to combine.",
+    "Add the red wine and beef broth, and bring to a boil.",
+    "Transfer the Dutch oven to the preheated oven and braise for 2 1/2 hours, until the short ribs are tender.",
+    "Remove the Dutch oven from the oven and stir in the Argentinian chimichurri seasoning.",
+    "Let the braise rest for 10 minutes, then serve with fresh parsley garnished on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 210,
+  "totalTimeMin": 240,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "braise",
+    "comfort-food",
+    "hangover-cure",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 30,
+    "fat": 50
+  },
+  "slug": "kissed-argentinian-braise-braise",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-argentinian-braise-braise",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:24Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "braise",
+    "primaryIngredient": "datterini-tomato",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "braise",
+    "descriptor": "Kissed",
+    "dishForm": "Braise"
+  }
+}
