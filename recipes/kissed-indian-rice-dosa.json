@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Indian Rice Dosa",
+  "description": "A light, herbal rice dosa with Jamaican curry powder and a citrus-honey glaze, perfect for a sick day.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "200g"
+    },
+    {
+      "name": "urad dal flour",
+      "amount": "50g"
+    },
+    {
+      "name": "baking soda",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut water",
+      "amount": "300ml",
+      "notes": "adds moisture"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "finely chopped onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "finely chopped tomato",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "2 tbsp chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp for cooking"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp for glaze"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk rice flour, urad dal flour, baking soda, and salt.",
+    "Gradually stir in coconut water until a smooth batter forms.",
+    "Fold in jamaican curry powder, chopped onion, tomato, cilantro, and lemon juice, mixing until evenly distributed.",
+    "Let the batter rest for 10 minutes to allow the flavors to meld.",
+    "Heat a donabe over medium heat and brush with a thin layer of coconut oil.",
+    "Pour a ladleful of batter into the center of the pot, swirling to coat the bottom in a thin circle.",
+    "Cover the pot with a lid and cook for 5 minutes until the edges lift and the surface is set.",
+    "Flip the dosa gently and cook for an additional 2 minutes, then remove and place on a plate.",
+    "In a small bowl, whisk honey with a splash of coconut water to create a light glaze.",
+    "Drizzle the glaze over the warm dosa and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 7,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "donabe",
+    "dosa",
+    "herbal",
+    "indian",
+    "jamaican-flair",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-indian-rice-dosa",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indian-rice-dosa",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:58:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "jamaican curry powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Rice",
+    "descriptor": "Kissed",
+    "dishForm": "Dosa"
+  }
+}
