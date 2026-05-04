@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Molten Canadian Duck Casserole",
+  "description": "A pungent and indulgent Canadian dish featuring duck sauce, perfect for a special occasion, with a low-glycemic twist.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "duck sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the mushrooms and green onions in a little bit of oil until they are softened.",
+    "In a large bowl, whisk together the duck sauce, egg, salt, and black pepper.",
+    "Add the cauliflower rice, shredded cheese, and almond flour to the bowl and stir until well combined.",
+    "Add the cooked mushroom and green onion mixture to the bowl and stir until well combined.",
+    "Slice the duck breast into thin strips and add it to the bowl, stirring until the duck is well coated with the sauce and rice mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the dish from the oven and let it rest for 10 minutes before serving.",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "casserole-dishes",
+    "duck-recipes",
+    "indulgent-meals",
+    "low-glycemic",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-molten-canadian-duck-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-molten-canadian-duck-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:31:10Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "molten",
+    "mood": "indulgent",
+    "technique": "rest",
+    "primaryIngredient": "duck sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "duck",
+    "descriptor": "Kissed molten",
+    "dishForm": "Casserole"
+  }
+}
