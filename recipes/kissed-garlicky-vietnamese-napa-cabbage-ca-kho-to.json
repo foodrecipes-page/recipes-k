@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Garlicky Vietnamese Napa Cabbage Ca Kho To",
+  "description": "A garlicky, fluffy, and comforting Vietnamese dish featuring Napa cabbage, this Whole30-friendly recipe is perfect for a weeknight dinner. It is broiled to perfection and served in a ca-kho-to form.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Napa cabbage",
+      "amount": "1 head",
+      "notes": "core removed and leaves separated"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together fish sauce, coconut aminos, sesame oil, salt, black pepper, and chili flakes.",
+    "Add the minced garlic to the bowl and stir to combine.",
+    "Add the Napa cabbage leaves to the bowl and toss to coat with the garlic sauce.",
+    "Transfer the cabbage mixture to a baking dish and broil for 5 minutes.",
+    "Remove the dish from the oven and stir the cabbage to ensure even cooking.",
+    "Return the dish to the oven and broil for an additional 5 minutes, or until the cabbage is tender and slightly caramelized.",
+    "Remove the dish from the oven and serve the ca-kho-to hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "vietnamese-cuisine",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "kissed-garlicky-vietnamese-napa-cabbage-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-vietnamese-napa-cabbage-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:31:45Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "broil",
+    "primaryIngredient": "napa cabbage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Napa Cabbage",
+    "descriptor": "Kissed Garlicky",
+    "dishForm": "Ca Kho To"
+  }
+}

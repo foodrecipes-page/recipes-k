@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Mediterranean White Cabbage Skewers",
+  "description": "A romantic Mediterranean dish featuring white cabbage, miso-marinate, and ayurvedic-rajasic-friendly ingredients, served in a copper mug.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white cabbage",
+      "amount": "1 head",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, olive oil, lemon juice, garlic, paprika, salt, and black pepper.",
+    "Add the white cabbage pieces to the bowl and toss to coat with the miso marinade.",
+    "Thread the marinated cabbage pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Remove the skewers from the oven and garnish with chopped fresh parsley.",
+    "Serve the skewers in a copper mug and enjoy.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "gluten-free",
+    "healthy",
+    "mediterranean",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "slug": "kissed-mediterranean-white-cabbage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mediterranean-white-cabbage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:31:08Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "romantic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "white cabbage",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "white cabbage",
+    "descriptor": "kissed springy",
+    "dishForm": "Skewers"
+  }
+}
