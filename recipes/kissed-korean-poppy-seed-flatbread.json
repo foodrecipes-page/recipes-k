@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Korean Poppy Seed Flatbread",
+  "description": "A fermented, flaky, gluten‑free flatbread infused with ground poppy seeds, cooked traditionally in a clay pot for a tender, aromatic finish.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice flour",
+      "amount": "250 g"
+    },
+    {
+      "name": "warm water",
+      "amount": "150 ml"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground poppy seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fermented soybean sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl combine rice flour, sea salt, sugar, and instant yeast.",
+    "Add warm water and mix until a sticky dough forms.",
+    "Stir in ground poppy seeds and fermented soybean sauce until evenly distributed.",
+    "Transfer dough to a lightly oiled container, cover with plastic wrap, and let ferment at room temperature for 4 hours.",
+    "After fermentation, gently knead the dough on a lightly floured surface until it becomes smooth.",
+    "Roll the dough into a 0.5 cm thick circle, about 20 cm in diameter.",
+    "Lightly oil a preheated clay pot and lay the dough inside, sealing the edges with a small amount of dough.",
+    "Cover the pot with a lid and steam on medium‑high heat for 15 minutes.",
+    "Carefully flip the flatbread, reapply a thin layer of oil, and steam for an additional 5 minutes until golden and airy.",
+    "Remove the flatbread from the pot, cut into wedges, and serve warm or let cool for meal prep portions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "easy-ingredients",
+    "fermented",
+    "flaky",
+    "gluten-free",
+    "korean",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 4
+  },
+  "slug": "kissed-korean-poppy-seed-flatbread",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-korean-poppy-seed-flatbread",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:22:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "gluten-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "poppy seed",
+    "descriptor": "Kissed",
+    "dishForm": "Flatbread"
+  }
+}
