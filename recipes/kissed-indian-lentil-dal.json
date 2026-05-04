@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Indian Lentil Dal",
+  "description": "A flavorful and nutritious one-pot Indian dish featuring dulce de leche and leaf-wrap-steam cooking, perfect for a flexitarian diet. This herbal and springy dish is made with a variety of spices and lentils.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dulce de leche",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "12",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a bamboo steamer over medium heat.",
+    "Add onion, ginger, and garlic and cook until the onion is translucent.",
+    "Add lentils, curry powder, turmeric, and water to the steamer and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until the lentils are tender.",
+    "Stir in dulce de leche and season with salt to taste.",
+    "Prepare spinach leaves by rinsing and patting them dry.",
+    "Spoon the lentil mixture onto the center of each spinach leaf and fold the leaves to form a packet.",
+    "Place the packets in the steamer and steam for 5 minutes or until the leaves are wilted.",
+    "Serve the dal hot, garnished with additional spinach leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dulce-de-leche",
+    "flexitarian",
+    "indian-food",
+    "lentil-recipes",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-indian-lentil-dal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indian-lentil-dal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:52:23Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "one-pot",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "dulce de leche",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "kaleidoscopic spring",
+    "dishForm": "Dal"
+  }
+}
