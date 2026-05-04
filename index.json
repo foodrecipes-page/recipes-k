@@ -657,6 +657,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicky-crunchy-korean-danmuji-salad",
+    "title": "Kicky Crunchy Korean Danmuji Salad",
+    "tags": [
+      "gluten-free",
+      "healthy-snack",
+      "korean-food",
+      "quick-snack",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kid-friendly-mediterranean-salt-cod-tagine",
     "title": "Kid Friendly Mediterranean Salt Cod Tagine",
     "tags": [
