@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Maharashtrian Chicken Stew",
+  "description": "A smoky, tender stew that blends Maharashtrian spices, cider vinegar, and coconut milk for a kid-friendly keto-friendly meal.",
+  "cuisine": "Maharashtrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "200g"
+    },
+    {
+      "name": "Onion",
+      "amount": "100g"
+    },
+    {
+      "name": "Tomato",
+      "amount": "150g"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "30g"
+    },
+    {
+      "name": "Ginger",
+      "amount": "10g"
+    },
+    {
+      "name": "Garlic",
+      "amount": "10g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "5ml"
+    },
+    {
+      "name": "Cider vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "5g"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "5g"
+    },
+    {
+      "name": "Salt & pepper pinch",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp vegetable oil in a cazuela over medium heat until shimmering.",
+    "Add 1 chopped onion and sauté until translucent, about 3 minutes.",
+    "Stir in 2 minced garlic cloves and 1 tbsp grated ginger; cook for 1 minute until fragrant.",
+    "Sprinkle 1 tsp garam masala and 1 tsp smoked paprika; toss to coat vegetables and let spice bloom for 30 seconds.",
+    "Add 200g diced chicken breast, 150g chopped tomatoes, and 1 tbsp cider vinegar; cook until chicken turns opaque, about 5–7 minutes.",
+    "Pour in 200ml coconut milk, reduce heat to low, and simmer uncovered for 15 minutes while stirring occasionally.",
+    "Stir in 2 tbsp peanut butter and pinch of salt & pepper; let mixture thicken, about 5 minutes.",
+    "Adjust seasoning with additional salt & pepper and a splash of vinegar if desired.",
+    "Transfer stew to serving bowls, garnish with fresh cilantro leaves and a drizzle of coconut cream if liked.",
+    "Serve hot with a side of cauliflower rice or low-carb flatbread for a complete keto-friendly meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy",
+    "keto-friendly",
+    "kid-friendly",
+    "low-carb",
+    "maharashtrian",
+    "one-pot",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 690,
+    "protein": 61,
+    "carbs": 21,
+    "fat": 28
+  },
+  "slug": "kissed-maharashtrian-chicken-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-maharashtrian-chicken-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:47:48Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cider vinegar",
+    "diet": "keto",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Maharashtrian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
