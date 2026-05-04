@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Indian Peas Curry",
+  "description": "A pungent, juicy, energizing Mangalorean curry that pairs perfectly with pav, featuring steam-cooked peas and a fragrant blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "300 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "green chili",
+      "amount": "1"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200 ml"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "5"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan and add sliced onions, sauté until golden brown.",
+    "Add minced garlic and ginger, cook for 30 seconds until fragrant.",
+    "Stir in chopped tomatoes and green chili, simmer until tomatoes soften.",
+    "Add coriander powder, cumin powder, and salt; cook for 2 minutes.",
+    "Pour in coconut milk, bring to a gentle simmer.",
+    "Add peas and curry leaves, cover and let steam for 5 minutes.",
+    "Reduce heat, stir in garam masala, and cook for another 2 minutes.",
+    "Taste and adjust seasoning if needed.",
+    "Remove from heat and let the curry rest for 5 minutes.",
+    "Serve hot with pav or flatbread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "high-protein",
+    "mangalorean",
+    "nut-free",
+    "quick",
+    "steamed-vegetables",
+    "veg"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 38,
+    "fat": 8
+  },
+  "slug": "kissed-indian-peas-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indian-peas-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:14:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "peas",
+    "diet": "nut-free",
+    "region": "mangalorean",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peas",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}
