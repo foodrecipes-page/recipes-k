@@ -1,0 +1,99 @@
+{
+  "title": "Kissed British Rice Mousse",
+  "description": "A citrusy, molten rice mousse that is kid-friendly and diabetic-friendly, featuring jasmine rice and kombu cold extract.",
+  "cuisine": "british",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "kombu sheet",
+      "amount": "1"
+    },
+    {
+      "name": "water",
+      "amount": "400ml"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "100ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "agar-agar powder",
+      "amount": "1 tsp",
+      "notes": "dissolve in liquid before heating"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "optional, use sugar-free syrup if preferred"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice until the water runs clear.",
+    "Place the rice, kombu sheet, and water in a saucepan and bring to a boil over medium heat.",
+    "Reduce the heat, cover, and simmer for 15 minutes until the rice is tender and the kombu is soft.",
+    "Remove the kombu sheet and let the rice cool slightly before blending.",
+    "Blend the cooked rice, almond milk, coconut milk, lemon zest, lemon juice, sea salt, and honey until smooth.",
+    "Heat the blended mixture over low heat, stirring until warm, then whisk in the dissolved agar-agar powder until fully dissolved.",
+    "Pour the mixture into individual ramekins and refrigerate for at least 120 minutes until set.",
+    "Serve chilled, optionally topping with a drizzle of extra coconut milk or a sprinkle of lemon zest."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-dessert",
+    "citrusy",
+    "diabetic-friendly",
+    "kid-friendly",
+    "rice-mousse"
+  ],
+  "nutrition": {
+    "calories": 770,
+    "protein": 11,
+    "carbs": 100,
+    "fat": 44
+  },
+  "slug": "kissed-british-rice-mousse",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-british-rice-mousse",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:02:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "jasmine rice",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Rice",
+    "descriptor": "Kissed",
+    "dishForm": "Mousse"
+  }
+}
