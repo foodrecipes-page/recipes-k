@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Molten British Vine Tomatoes Shepherds Pie",
+  "description": "A quick-fix British dish featuring vine tomatoes in a jammy, molten shepherds pie, cooked using the papillote method for a shojin-friendly meal. This recipe combines the flavors of fresh tomatoes with the comfort of a traditional shepherds pie.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine tomatoes",
+      "amount": "4 large",
+      "notes": "on the vine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mashed potatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown.",
+    "Add the tomato paste and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the mixture cook while preparing the papillote.",
+    "Cut a piece of parchment paper into a large square and place a vine tomato in the center.",
+    "Spoon the mushroom and tomato mixture over the tomato, leaving a 1 inch border around the tomato.",
+    "Fold the parchment paper over the filling, creating a tight seal.",
+    "Place the papillote on a baking sheet and bake for 20 minutes.",
+    "While the papillote is baking, prepare the mashed potatoes according to package instructions.",
+    "Remove the papillote from the oven and let it cool for a few minutes.",
+    "To assemble the shepherds pie, place the cooked papillote on the bottom of a 9x13 inch baking dish, then top with the mashed potatoes and shredded cheddar cheese.",
+    "Return the dish to the oven and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "shojin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-molten-british-vine-tomatoes-shepherds-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-molten-british-vine-tomatoes-shepherds-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:04:46Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "quick-fix",
+    "technique": "papillote",
+    "primaryIngredient": "vine tomatoes",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "vine tomatoes",
+    "descriptor": "kissed molten",
+    "dishForm": "Shepherds Pie"
+  }
+}

@@ -1399,6 +1399,35 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-mediterranean-eggplant-tagine",
+    "title": "Kissed Mediterranean Eggplant Tagine",
+    "tags": [
+      "buddha-friendly",
+      "mediterranean",
+      "one-pot",
+      "sesame",
+      "smoky",
+      "vegan"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-molten-british-vine-tomatoes-shepherds-pie",
+    "title": "Kissed Molten British Vine Tomatoes Shepherds Pie",
+    "tags": [
+      "comfort-food",
+      "one-pan",
+      "shojin",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-molten-canadian-duck-casserole",
     "title": "Kissed Molten Canadian Duck Casserole",
     "tags": [
