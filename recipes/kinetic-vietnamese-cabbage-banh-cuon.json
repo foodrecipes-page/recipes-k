@@ -1,0 +1,113 @@
+{
+  "title": "Kinetic Vietnamese Cabbage Banh Cuon",
+  "description": "A light, bitter, energizing Vietnamese roll featuring hispi sweetheart cabbage and confit tomato, steamed to perfection.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "whole30-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "hispi sweetheart cabbage",
+      "amount": "300 g"
+    },
+    {
+      "name": "fresh tomatoes",
+      "amount": "200 g",
+      "notes": "cut into small cubes for confit"
+    },
+    {
+      "name": "rice flour",
+      "amount": "120 g"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "fresh grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": "for confit"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine the shredded cabbage, minced garlic, grated ginger, and sea salt in a bowl and let it sit for 5 minutes to soften.",
+    "In a separate pan, heat olive oil over medium heat and add the cubed tomatoes, cooking until they turn soft and release juice, then set aside to cool.",
+    "Whisk rice flour and water together until smooth, then stir in black pepper and lime juice to make the batter.",
+    "Preheat a steamer or pot with a steamer basket over boiling water, ensuring the water does not touch the batter.",
+    "Pour a thin layer of batter into a heat‑proof silicone mold or a greased plate, spreading it evenly to form a thin sheet.",
+    "Steam the batter sheet for 3 minutes until it sets and becomes translucent.",
+    "Remove the sheet from the steamer and spread a thin layer of the cooled confit tomatoes over the surface.",
+    "Sprinkle the marinated cabbage mixture evenly across the tomato layer, then fold the sheet into a roll or cut into bite‑sized squares.",
+    "Return the rolled or sliced banh cuon to the steamer and steam for an additional 4 minutes to meld flavors.",
+    "Serve hot, garnished with sliced scallions and a drizzle of lime juice, feeling the kinetic energy of the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "gluten-free",
+    "steamed",
+    "vegan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 4,
+    "carbs": 18,
+    "fat": 4
+  },
+  "slug": "kinetic-vietnamese-cabbage-banh-cuon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kinetic-vietnamese-cabbage-banh-cuon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T05:11:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "confit-tomato",
+    "primaryIngredient": "hispi sweetheart cabbage",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "cabbage",
+    "descriptor": "Kinetic",
+    "dishForm": "Banh Cuon"
+  }
+}
