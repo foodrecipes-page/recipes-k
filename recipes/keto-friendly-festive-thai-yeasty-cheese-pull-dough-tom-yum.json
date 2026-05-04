@@ -1,0 +1,110 @@
+{
+  "title": "Keto-Friendly Festive Thai Yeasty, Cheese-Pull Dough Tom-Yum",
+  "description": "A keto-friendly and festive twist on traditional Thai Tom-Yum soup, featuring a yeast-based dough that pulls like cheesy bread but is low-carb and high in fat.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fast Action Yeast",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Grated Coconut Oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Keto-Friendly Mozzarella Cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Large Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Keto-Friendly Tom-Yum Broth Mix",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast, almond flour, coconut oil, cheese, egg, and broth mix in a mixing bowl and knead the dough for 10 minutes until it forms a sticky ball.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour or until it has doubled in size.",
+    "Preheat the oven to 400°F (200°C).",
+    "Divide the dough into 6 equal pieces and shape each piece into a ball.",
+    "Place the dough balls on a baking sheet lined with parchment paper, leaving about 1 inch of space between each ball.",
+    "Bake the dough in the preheated oven for 15-20 minutes or until it is golden brown and puffed.",
+    "While the dough is baking, combine fish sauce, lime juice, and Tom-Yum broth mix in a saucepan and bring it to a simmer over medium heat.",
+    "Remove the dough from the oven and let it cool for a few minutes before slicing it into rounds.",
+    "Serve the cheesy dough rounds with the Tom-Yum broth sauce spooned over the top and garnished with sliced fresh cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-to-make",
+    "festive",
+    "high-fat",
+    "keto",
+    "low-carb",
+    "one-pan",
+    "soup",
+    "thai",
+    "weeknight",
+    "yeast-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 50
+  },
+  "slug": "keto-friendly-festive-thai-yeasty-cheese-pull-dough-tom-yum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-festive-thai-yeasty-cheese-pull-dough-tom-yum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:45:46Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "fast action yeast",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Festive Thai",
+    "mainIngredient": "Yeasty, Cheese-Pull Dough",
+    "descriptor": "Keto-Friendly",
+    "dishForm": "Tom-Yum"
+  }
+}

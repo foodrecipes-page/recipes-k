@@ -1,0 +1,105 @@
+{
+  "title": "Kissed by Heat Filipino Oysters Stew",
+  "description": "A rich and savory Filipino-inspired stew featuring succulent oysters, all simmered in a flavorful broth of coconut milk and spices. This dish is perfect for a cozy night in, especially during colder months.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "24 count",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat or low-fat, as preferred"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "as desired",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "as desired",
+      "notes": ""
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": "+use whole seeds for added texture"
+    }
+  ],
+  "instructions": [
+    "Rinse the oysters under cold running water and scrub them clean, discarding any broken shells.",
+    "Heat the coconut oil in a dolsot-stone-bowl over medium heat.",
+    "Saute the onions and garlic until softened, stirring occasionally.",
+    "Grate the ginger and saute for another minute, stirring constantly.",
+    "Add the fish sauce and stir to combine, allowing the flavors to meld.",
+    "Add the oysters to the bowl and simmer for 5 minutes, or until they begin to open.",
+    "Season with salt, black pepper, and coriander seeds to taste.",
+    "Cover the bowl with a sizzling stone and let it rest for 2-3 minutes before serving.",
+    "Serve the stew immediately, garnished with fresh herbs if desired.",
+    "Be careful when handling the sizzling stone.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "cozy",
+    "dolsot-stone-bowl",
+    "filipino",
+    "gluten-free",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "kissed-by-heat-filipino-oysters-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-heat-filipino-oysters-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:39Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "dense",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "oysters",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "oysters",
+    "descriptor": "Kissed by heat",
+    "dishForm": "stew"
+  }
+}

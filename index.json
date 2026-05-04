@@ -199,6 +199,26 @@
     "shard": "k"
   },
   {
+    "slug": "keto-friendly-festive-thai-yeasty-cheese-pull-dough-tom-yum",
+    "title": "Keto-Friendly Festive Thai Yeasty, Cheese-Pull Dough Tom-Yum",
+    "tags": [
+      "cheesy",
+      "easy-to-make",
+      "festive",
+      "high-fat",
+      "keto",
+      "low-carb",
+      "one-pan",
+      "soup",
+      "thai",
+      "weeknight",
+      "yeast-based"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
     "slug": "keto-friendly-flaky-polish-coconut-cream-pancakes",
     "title": "Keto-Friendly Flaky Polish Coconut Cream Pancakes",
     "tags": [
@@ -1162,6 +1182,20 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-heat-filipino-oysters-stew",
+    "title": "Kissed by Heat Filipino Oysters Stew",
+    "tags": [
+      "cozy",
+      "dolsot-stone-bowl",
+      "filipino",
+      "gluten-free",
+      "sattvic"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
