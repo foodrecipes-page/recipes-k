@@ -1,0 +1,94 @@
+{
+  "title": "Kicked Juicy Canadian Lentil Curry",
+  "description": "A Jain-friendly, fermented, and juicy Canadian dish featuring lentils and double-fry KFC technique, this crowd-pleaser is perfect for any occasion.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger and cook for 1 minute.",
+    "Add curry powder and garam masala and cook for 1 minute.",
+    "Add lentils and 2 cups of water, bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Let it cool, then refrigerate for at least 2 hours to allow fermentation.",
+    "Reheat and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "fermented-food",
+    "jain-friendly",
+    "lentil-based",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kicked-juicy-canadian-lentil-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-juicy-canadian-lentil-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:20:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "lentils",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "kicked juicy",
+    "dishForm": "Curry"
+  }
+}
