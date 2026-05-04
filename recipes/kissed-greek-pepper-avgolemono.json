@@ -1,0 +1,74 @@
+{
+  "title": "Kissed Greek Pepper Avgolemono",
+  "description": "Charred, molten, lazy-sunday Greek dish featuring roasted pepper, ssam-wrap, low-calorie-friendly, form=avgolemono. Serve warm with a sprinkle of sumac and crusty bread on the side.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 red bell peppers",
+      "amount": "2",
+      "notes": "any color bell peppers work well, but red adds sweetness"
+    },
+    {
+      "name": "4 eggs",
+      "amount": "4",
+      "notes": "room temperature eggs work best"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange bell peppers on a baking sheet, leaving space between each pepper.",
+    "Drizzle with 1 tablespoon olive oil and season with salt, pepper, and oregano. Roast for 30-40 minutes or until charred and tender, flipping halfway through.",
+    "While peppers are roasting, whisk together lemon juice, broth, garlic, and remaining 1 tablespoon olive oil in a small bowl.",
+    "Once peppers are done, remove from oven and let cool slightly.",
+    "Peel off skin, seed, and chop peppers into small pieces.",
+    "In a large bowl, whisk together egg mixture, chopped peppers, and salt.",
+    "Heat a large non-stick skillet or griddle over medium heat.",
+    "Add a tablespoon of water to the skillet and swirl to coat.",
+    "Pour in egg mixture and cook until the bottom is set, about 2-3 minutes.",
+    "Use a spatula to gently lift and fold the edges of the eggs towards the center, tilting the skillet to allow uncooked egg to flow to the edges.",
+    "Continue cooking and folding until eggs are almost set, about 2-3 minutes more.",
+    "Warm ssam wraps according to package instructions.",
+    "To assemble, place a warmed ssam wrap on a plate, spoon a portion of the egg mixture onto the center of the wrap, and fold the bottom half up over the filling.",
+    "Repeat with remaining wraps and egg mixture.",
+    "Serve warm with a sprinkle of sumac and crusty bread on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-meals",
+    "egg-dishes",
+    "greek",
+    "lunch",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kissed-greek-pepper-avgolemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-greek-pepper-avgolemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:54:08Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "roasted pepper",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pepper",
+    "descriptor": "Kissed",
+    "dishForm": "Avgolemono"
+  }
+}
