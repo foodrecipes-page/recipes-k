@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Creamy Vietnamese Pork Banh Mi",
+  "description": "A floral and creamy Vietnamese dish featuring cloves and pork, served on a wooden board in the form of a banh mi, this recipe is a romantic twist on traditional Vietnamese cuisine, with a low-calorie friendly air-fry method.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cloves",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/4 cup",
+      "notes": "low-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "pickled carrots",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pickled daikon",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "baguette",
+      "amount": "1 loaf",
+      "notes": "crusty"
+    },
+    {
+      "name": "sriracha",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a small bowl, mix together the ground cloves and mayonnaise until well combined.",
+    "Add the sliced pork shoulder to the bowl and toss to coat with the clove mayonnaise mixture.",
+    "Air-fry the pork for 10 minutes, or until cooked through.",
+    "Meanwhile, toast the baguette by slicing it in half and placing it in the air fryer for 2 minutes.",
+    "Assemble the banh mi by spreading a layer of the clove mayonnaise mixture on the bottom half of the baguette.",
+    "Add a layer of pickled carrots and daikon on top of the mayonnaise.",
+    "Add a layer of cooked pork on top of the pickled vegetables.",
+    "Sprinkle chopped cilantro on top of the pork.",
+    "Drizzle with fish sauce and sriracha, if using.",
+    "Top with the top half of the baguette and serve on a wooden board."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "banh-mi",
+    "low-calorie",
+    "romantic-dish",
+    "vietnamese-cuisine",
+    "wooden-board"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kissed-creamy-vietnamese-pork-banh-mi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-vietnamese-pork-banh-mi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:58:27Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "cloves",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "kissed creamy",
+    "dishForm": "Banh Mi"
+  }
+}
