@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Filipino Sirloin Dinuguan",
+  "description": "Rich, dense, and energizing, this dinuguan uses tender sirloin and wok-Hei in a savory sauce, all cooked on a raclette grill without onion or garlic.",
+  "cuisine": "Filipino",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin steak",
+      "amount": "200 g",
+      "notes": "cut into 2 cm cubes"
+    },
+    {
+      "name": "Wok-Hei",
+      "amount": "100 g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "50 ml"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "20 ml"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Pork fat",
+      "amount": "50 g",
+      "notes": "optional for richer texture"
+    }
+  ],
+  "instructions": [
+    "Heat the raclette grill to medium-high and drizzle a tablespoon of oil.",
+    "Add the cubed sirloin and brown it for 3 minutes, stirring occasionally.",
+    "Move the sirloin to the side and sauté the wok-Hei for 2 minutes until slightly softened.",
+    "Return the sirloin to the pan, add the vinegar, fish sauce, salt, pepper, and chili flakes.",
+    "Pour in the water and stir until the liquid simmers.",
+    "Reduce the heat to low and let the mixture simmer for 20 minutes, stirring frequently to prevent sticking.",
+    "If using pork fat, fold it in during the last 5 minutes to enrich the sauce.",
+    "Serve the dinuguan hot over steamed rice or with grilled vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "dinuguan",
+    "energizing",
+    "filipino",
+    "no-garlic",
+    "no-onion",
+    "raclette",
+    "sirloin"
+  ],
+  "nutrition": {
+    "calories": 600,
+    "protein": 50,
+    "carbs": 5,
+    "fat": 45
+  },
+  "slug": "kissed-filipino-sirloin-dinuguan",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-filipino-sirloin-dinuguan",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:30:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "energizing",
+    "technique": "wok-hei",
+    "primaryIngredient": "sirloin steak",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Sirloin",
+    "descriptor": "Kissed",
+    "dishForm": "Dinuguan"
+  }
+}
