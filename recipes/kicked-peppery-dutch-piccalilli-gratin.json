@@ -1,0 +1,100 @@
+{
+  "title": "Kicked Peppery Dutch Piccalilli Gratin",
+  "description": "A vegan-friendly, peppery Dutch dish featuring piccalilli, perfect for a sick day, made with flambe and served in individual mini cocottes.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "piccalilli",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "vegan cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": " nutritional yeast",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a small saucepan, flambe the piccalilli over medium heat for 2 minutes.",
+    "In a separate bowl, whisk together the vegan cream, black pepper, cayenne pepper, smoked paprika, nutritional yeast, lemon juice, and olive oil.",
+    "Add the cream mixture to the flambeed piccalilli and stir to combine.",
+    "Divide the piccalilli mixture among 4 individual mini cocottes.",
+    "Sprinkle the bread crumbs and salt over the top of each cocotte.",
+    "Bake the gratin in the preheated oven for 20 minutes, or until the top is golden brown.",
+    "Remove the gratin from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch",
+    "gratin",
+    "one-pot",
+    "piccalilli",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kicked-peppery-dutch-piccalilli-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-peppery-dutch-piccalilli-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T12:34:17Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "flambe",
+    "primaryIngredient": "piccalilli",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "piccalilli",
+    "descriptor": "kicked peppery",
+    "dishForm": "Gratin"
+  }
+}
