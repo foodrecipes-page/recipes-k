@@ -1,0 +1,99 @@
+{
+  "title": "Knockout Crunchy Canadian Hazelnut Pancakes",
+  "description": "A pungent and crunchy Canadian dish featuring Nutella, with a light and fluffy texture from lamination-puff, perfect for a delicious breakfast, garlic and onion free.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Nutella",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, hazelnuts, sugar, and baking powder.",
+    "In a separate bowl, whisk together milk, eggs, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the Nutella until a marbled effect is achieved.",
+    "Let the batter rest for 10 minutes to allow the flour to absorb the liquid.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "canadian-recipes",
+    "hazelnut-recipes",
+    "nutella-recipes",
+    "pancake-recipes",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "knockout-crunchy-canadian-hazelnut-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-crunchy-canadian-hazelnut-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:54:55Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "nutella",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "hazelnut",
+    "descriptor": "knockout crunchy",
+    "dishForm": "Pancakes"
+  }
+}
