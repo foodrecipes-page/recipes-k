@@ -1,0 +1,101 @@
+{
+  "title": "kissed Russian borsch stew",
+  "description": "a pungent, creamy, and comforting Russian stew ideal for a sick day, featuring mustard powder and a long slow-cooking process, suitable for raw food enthusiasts",
+  "cuisine": "Russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2",
+      "notes": "use 2 medium onions, thinly sliced",
+      "},{": []
+    },
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": "use 4 medium carrots, peeled and grated"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": "use 2 medium potatoes, peeled and diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "use raw or pasteurized sour cream"
+    }
+  ],
+  "instructions": [
+    "combine beets, onions, carrots, and potatoes in a large slow cooker",
+    "add beef broth, water, red wine vinegar, and mustard powder to the slow cooker",
+    "mix well to combine",
+    "cover the slow cooker and cook on low for 8 hours",
+    "after 8 hours, stir in sour cream until well combined",
+    "taste and adjust seasoning as needed",
+    "serve the borsch hot, garnished with chopped fresh dill or chives if desired",
+    "reheat the borsch in small portions as needed",
+    "store any leftovers in the refrigerator for up to 3 days",
+    "freeze the borsch for up to 2 months",
+    "thaw frozen borsch overnight in the refrigerator before reheating"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 480,
+  "totalTimeMin": 495,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "cold-weather",
+    "comfort-food",
+    "gluten-free",
+    "high-fiber",
+    "raw-option",
+    "slow-cooker",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-russian-borsch-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-russian-borsch-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:20:28Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "slow-cook",
+    "primaryIngredient": "mustard powder",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "borsch",
+    "descriptor": "kissed",
+    "dishForm": "stew"
+  }
+}

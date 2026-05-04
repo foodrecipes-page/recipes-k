@@ -2778,6 +2778,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-russian-borsch-stew",
+    "title": "kissed Russian borsch stew",
+    "tags": [
+      "cold-weather",
+      "comfort-food",
+      "gluten-free",
+      "high-fiber",
+      "raw-option",
+      "slow-cooker",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 495,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-russian-corn-flatbread",
     "title": "Kissed Russian Corn Flatbread",
     "tags": [
@@ -3711,6 +3727,34 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-spices-tunisian-chickpeas-stew",
+    "title": "Kissed With Spices Tunisian Chickpeas Stew",
+    "tags": [
+      "comfort-food",
+      "north-african",
+      "post-workout",
+      "stew",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-vinegar-norwegian-fish-gratin",
+    "title": "Kissed with vinegar Norwegian fish Gratin",
+    "tags": [
+      "fish",
+      "kid-friendly",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
