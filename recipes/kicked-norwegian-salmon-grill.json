@@ -1,0 +1,93 @@
+{
+  "title": "Kicked Norwegian Salmon Grill",
+  "description": "A grassy, flaky quick-fix Norwegian salmon grilled with Thai chili jam and fresh dill for a high-protein, flavorful meal.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "400g",
+      "notes": "skin on, fresh"
+    },
+    {
+      "name": "Thai chili jam",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1 tbsp",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Lime",
+      "amount": "1/2",
+      "notes": "for squeezing"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Brush the salmon fillets lightly with olive oil.",
+    "Season the fillets evenly with sea salt and black pepper.",
+    "Place the fillets skin-side down on the grill and cook for 4 minutes until grill marks form.",
+    "Flip the fillets and brush both sides generously with Thai chili jam.",
+    "Continue grilling for another 3 minutes until the salmon flakes easily and is opaque.",
+    "Remove from the grill, squeeze fresh lime juice over the fillets, and sprinkle chopped dill on top.",
+    "Plate immediately, serving the salmon hot and juicy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "norwegian",
+    "pescatarian",
+    "quick",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 44,
+    "carbs": 1,
+    "fat": 28
+  },
+  "slug": "kicked-norwegian-salmon-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-norwegian-salmon-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:09:37Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "thai chilli jam",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "Kicked",
+    "dishForm": "Grill"
+  }
+}

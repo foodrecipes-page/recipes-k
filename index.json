@@ -356,6 +356,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-norwegian-salmon-grill",
+    "title": "Kicked Norwegian Salmon Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "norwegian",
+      "pescatarian",
+      "quick",
+      "thai"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-salty-saudi-arabian-lentil-stew",
     "title": "Kicked Salty Saudi Arabian Lentil Stew",
     "tags": [
