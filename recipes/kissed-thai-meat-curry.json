@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Thai Meat Curry",
+  "description": "A rich, comforting Thai curry featuring ground cardamom and a luxurious beurre monte, suitable for ayurvedic rajasic diets.",
+  "cuisine": "thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk for rich flavor"
+    },
+    {
+      "name": "ground cardamom",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "beurre monte",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste for spiciness"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "use high-quality grass-fed beef if possible"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tablespoon",
+      "notes": "adjust to taste for sweetness"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut milk in a large skillet over medium heat until warm and fragrant.",
+    "Add beurre monte and whisk until emulsified.",
+    "Add red curry paste and cook for 1-2 minutes, stirring constantly, until fragrant.",
+    "Add ground beef and cook, breaking up with a spoon, until browned and cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "meat-based",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "kissed-thai-meat-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-thai-meat-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:15:47Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "beurre-monte",
+    "primaryIngredient": "ground cardomom",
+    "diet": "ayurvedic-rajasic",
+    "region": "bangkok-street",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Meat",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}
