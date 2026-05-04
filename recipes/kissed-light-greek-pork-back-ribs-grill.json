@@ -1,0 +1,95 @@
+{
+  "title": "Kissed, Light Greek Pork Back Ribs Grill",
+  "description": "A malty, light, and cozy Greek dish featuring pork back ribs, grilled to perfection with a hint of Mediterranean flavors.",
+  "cuisine": "Greek",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork back ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh rosemary leaves",
+      "amount": "4 sprigs"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 275°F (135°C) and remove the pork back ribs from the refrigerator.",
+    "In a small bowl, whisk together olive oil, lemon juice, honey, garlic powder, dried oregano, and kosher salt.",
+    "Brush the mixture evenly onto both sides of the pork back ribs.",
+    "Place the pork back ribs on the grill, bone-side down, and cook for 2 hours.",
+    "After 2 hours, brush the ribs with the remaining marinade and continue cooking for another 30 minutes.",
+    "Rotate the ribs 90 degrees to achieve those beautiful grill marks.",
+    "Remove the ribs from the grill and let them rest for 10 minutes.",
+    "Slice the pork back ribs into individual portions and serve with pita bread and a side salad, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "barbecue",
+    "greek",
+    "grilled",
+    "one-pan",
+    "picnic",
+    "summer",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 64,
+    "carbs": 20,
+    "fat": 56
+  },
+  "slug": "kissed-light-greek-pork-back-ribs-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-greek-pork-back-ribs-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T11:15:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "grill",
+    "primaryIngredient": "pork back ribs",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "Kissed, Light",
+    "dishForm": "Grill"
+  }
+}
