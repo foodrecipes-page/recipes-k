@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Dense Brazilian Coconut Pudding",
+  "description": "A sour and dense Brazilian dessert featuring golden syrup, made dairy-free friendly and cooked on a comal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "full fat"
+    },
+    {
+      "name": "golden syrup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the unsweetened shredded coconut until it is well broken down and fragrant.",
+    "In a medium saucepan, whisk together the coconut milk, golden syrup, brown sugar, cornstarch, lemon juice, and salt.",
+    "Cook the mixture over medium heat, stirring constantly, until it comes to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes, or until the pudding has thickened.",
+    "Stir in the pounded coconut and water.",
+    "Pour the pudding into a heatproof vessel and cook on a preheated comal over low heat for 5 minutes, or until the bottom is lightly caramelized.",
+    "Remove the pudding from the comal and let it cool to room temperature.",
+    "Cover the pudding and refrigerate it for at least 2 hours, or until chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "comfort-food",
+    "dairy-free",
+    "dessert",
+    "golden-syrup",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 18
+  },
+  "slug": "kissed-dense-brazilian-coconut-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dense-brazilian-coconut-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:23:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "golden syrup",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "coconut",
+    "descriptor": "kissed dense",
+    "dishForm": "Pudding"
+  }
+}
