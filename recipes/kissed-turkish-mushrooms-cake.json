@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Turkish Mushrooms Cake",
+  "description": "A spicy, flaky Turkish mushroom cake that brings the warmth of a cozy kitchen while staying diabetic-friendly. The revani-inspired batter incorporates wild mushrooms and a blend of cumin, paprika, and cayenne for a subtle heat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "100g"
+    },
+    {
+      "name": "almond flour",
+      "amount": "30g"
+    },
+    {
+      "name": "erythritol",
+      "amount": "50g"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "3"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C and grease a 9-inch round cake pan.",
+    "In a skillet, heat olive oil over medium heat and sauté sliced mushrooms until translucent, about 3 minutes.",
+    "Add cumin, paprika, cayenne, and salt to the mushrooms, cooking for an additional 1 minute until fragrant.",
+    "Transfer the mushroom mixture to a bowl and let cool slightly.",
+    "In a separate bowl, whisk eggs, erythritol, lemon zest, and baking powder until well combined.",
+    "Stir in whole wheat flour and almond flour into the wet mixture, mixing until a smooth batter forms.",
+    "Fold the sautéed mushrooms into the batter until evenly distributed.",
+    "Pour the batter into the prepared cake pan, smoothing the surface with a spatula.",
+    "Bake for 30 minutes, or until the top is golden and a toothpick inserted in the center comes out clean.",
+    "Remove from oven and let the cake cool in the pan for 10 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "cozy",
+    "diabetic-friendly",
+    "flaky",
+    "mushroom",
+    "revani-inspired",
+    "spicy",
+    "turkish-cake"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 11,
+    "fat": 7
+  },
+  "slug": "kissed-turkish-mushrooms-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-turkish-mushrooms-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:58:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "wild mushrooms",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Mushrooms",
+    "descriptor": "Kissed",
+    "dishForm": "Cake"
+  }
+}
