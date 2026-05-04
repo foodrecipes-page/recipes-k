@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Indulgent Uruguayan Cheese Casserole",
+  "description": "A cultured and pillowy Uruguayan dish featuring sesame seed oil and cure, this lacto-vegetarian-friendly casserole is perfect for special occasions. It combines the richness of cheese with the depth of sesame seed oil.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sesame seed oil",
+      "amount": "1/4 cup",
+      "notes": "use high quality oil"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "2 cups",
+      "notes": "grated"
+    },
+    {
+      "name": "cure",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the sesame seed oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked pasta, grated cheese, dried cure, and cooked onion mixture.",
+    "In a separate bowl, whisk together the milk, beaten eggs, salt, and black pepper.",
+    "Pour the wet ingredients over the pasta mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "lacto-vegetarian",
+    "special-occasion",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-indulgent-uruguayan-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indulgent-uruguayan-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T17:59:18Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "indulgent",
+    "technique": "cure",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "kissed indulgent",
+    "dishForm": "Casserole"
+  }
+}
