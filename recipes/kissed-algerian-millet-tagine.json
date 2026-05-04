@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Algerian Millet Tagine",
+  "description": "A smoky, juicy, crowd-pleaser Algerian dish featuring millet and fresh veggies, finished with tender cod cubes and finished in a tandoor clay pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Millet",
+      "amount": "200 g",
+      "notes": "dry"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20 ml"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "200 g",
+      "notes": "drained"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cod fillet",
+      "amount": "200 g",
+      "notes": "cubed"
+    }
+  ],
+  "instructions": [
+    "Rinse millet under cold water until water runs clear.",
+    "Preheat a tandoor clay pot over medium heat and add olive oil.",
+    "Sauté onion and garlic until translucent.",
+    "Add carrot and tomato, cook for 3 minutes.",
+    "Stir in millet, broth, smoked paprika, and sea salt; bring to a gentle simmer.",
+    "Cover the pot and cook for 20 minutes until millet is tender.",
+    "Gently fold in chickpeas and cod cubes, then cover and steam for an additional 10 minutes.",
+    "Garnish with fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "millet-dish",
+    "one-pot",
+    "pescatarian-friendly",
+    "smoky",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 1500,
+    "protein": 80,
+    "carbs": 200,
+    "fat": 36
+  },
+  "slug": "kissed-algerian-millet-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-algerian-millet-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:33:13Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "crowd-pleaser",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "millet",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Millet",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
