@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Crisp Russian Lamb Salad",
+  "description": "A citrusy, crispy meal‑prep salad featuring tender lamb mince, kombu‑cold extract, and fresh vegetables for a low‑calorie Russian-inspired lunch.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "200g"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "100g"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "low fat Greek yogurt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "20g"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "1/4 teaspoon each"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat and brown the lamb mince for 5‑6 minutes, stirring until cooked through.",
+    "Transfer the lamb to a bowl and let it cool to room temperature.",
+    "While the lamb cools, chop cucumber, carrot, and red onion into bite‑sized pieces.",
+    "In a small bowl, whisk together kombu extract, lemon juice, olive oil, Greek yogurt, dill, salt, and pepper to make the dressing.",
+    "Toss the mixed greens with the dressing until evenly coated.",
+    "Add the cooled lamb, chopped vegetables, and roasted almonds to the greens and gently mix.",
+    "Divide the salad into 4 meal‑prep containers and refrigerate.",
+    "Serve chilled or at room temperature as a low‑calorie crisp Russian lamb salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 6,
+  "totalTimeMin": 26,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "low-calorie",
+    "meal-prep",
+    "quick",
+    "vegetable-rich"
+  ],
+  "nutrition": {
+    "calories": 215,
+    "protein": 15,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "kissed-crisp-russian-lamb-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-russian-lamb-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:03:18Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "meal-prep",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "lamb mince",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Salad"
+  }
+}
