@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Portuguese Buchu Stew",
+  "description": "A mustardy, silky Portuguese stew with Asian chives and buchu, pressure‑cooked for comfort and diabetic‑friendly ease.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cauliflower florets",
+      "amount": "2 cups"
+    },
+    {
+      "name": "zucchini, sliced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomatoes, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "boneless chicken breast, cubed",
+      "amount": "200 g"
+    },
+    {
+      "name": "chopped asian chives and buchu leaves",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pressure cooker over medium heat until shimmering.",
+    "Add the diced onion and cook until translucent, about two minutes.",
+    "Stir in the minced garlic and cook for 30 seconds, letting the aroma release.",
+    "Mix in the Dijon mustard, cumin, smoked paprika, a pinch of salt and pepper, cooking for another minute.",
+    "Add the chicken cubes and sear until lightly browned on all sides, about three minutes.",
+    "Pour in the chicken broth and then add cauliflower, zucchini, and diced tomatoes, stirring gently.",
+    "Seal the pressure cooker, set to high pressure, and cook for five minutes.",
+    "Quick‑release the pressure, stir in the asian chives and buchu leaves, adjust seasoning, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "low-carb",
+    "mustardy",
+    "pressure-cook",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 208,
+    "protein": 18,
+    "carbs": 9,
+    "fat": 9
+  },
+  "slug": "kissed-portuguese-buchu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-portuguese-buchu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:38:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "asian-chive-buchu",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "buchu",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
