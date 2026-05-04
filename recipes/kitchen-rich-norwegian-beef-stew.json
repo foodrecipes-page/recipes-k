@@ -1,0 +1,97 @@
+{
+  "title": "Kitchen Rich Norwegian Beef Stew",
+  "description": "A rich and creamy Norwegian dish featuring mixed beef cuts, this stew is perfect for a cold winter night, and is prepared in an ayurvedic-sattvic friendly manner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "beef brisket",
+      "amount": "1 pound",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat",
+    "Add the beef short ribs and brisket and cook until browned on all sides",
+    "Add the onion, carrots, potatoes, and celery and cook until the vegetables are tender",
+    "Add the garlic and cook for 1 minute",
+    "Add the beef broth and bring to a boil",
+    "Reduce the heat to low and simmer for 2 hours",
+    "Stir in the heavy cream and cook for an additional 30 minutes",
+    "Season with salt and pepper to taste",
+    "Serve hot"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "norwegian-cuisine",
+    "one-pot",
+    "winter-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "kitchen-rich-norwegian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-rich-norwegian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:39:43Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "temper",
+    "primaryIngredient": "mixed beef cuts",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "kitchen rich",
+    "dishForm": "Stew"
+  }
+}

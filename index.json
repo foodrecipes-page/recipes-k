@@ -1663,6 +1663,20 @@
     "shard": "k"
   },
   {
+    "slug": "kitchen-rich-norwegian-beef-stew",
+    "title": "Kitchen Rich Norwegian Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "norwegian-cuisine",
+      "one-pot",
+      "winter-dish"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
     "slug": "kitchen-style-jamaican-beans-casserole",
     "title": "Jamaican Beans Casserole",
     "tags": [
