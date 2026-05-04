@@ -1,0 +1,95 @@
+{
+  "title": "Kicked Up Middle Eastern Chicken Tagine",
+  "description": "A fresh and snappy Middle Eastern dish featuring chicken, castelvetrano olives, and puff pastry, made in a traditional tagine pot and suitable for a sick day.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "ayurvedic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "castelvetrano olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry on a floured surface to a large square.",
+    "In a large bowl, mix together the chicken, onion, garlic, cumin, smoked paprika, and olives.",
+    "Place the chicken mixture in the center of the pastry square, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with a little water, then fold the pastry over the filling to form a triangle.",
+    "Place the tagine pot in the oven and bake for 30 minutes.",
+    "Remove the pot from the oven and add the chicken broth.",
+    "Return the pot to the oven and bake for an additional 20 minutes, or until the pastry is golden brown and the chicken is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "kicked-up-middle-eastern-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-up-middle-eastern-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:17:02Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "lamination-puff",
+    "primaryIngredient": "castelvetrano-olives",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chicken",
+    "descriptor": "Kicked Up",
+    "dishForm": "Tagine"
+  }
+}
