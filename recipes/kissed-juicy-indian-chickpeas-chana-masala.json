@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Juicy Indian Chickpeas Chana Masala",
+  "description": "A comforting and flavorful Indian dish featuring chickpeas in a rich and spicy tomato-based sauce, served with phyllo dough and cooked in a cataplana vessel.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cataplana sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the phyllo dough and cut it into small squares.",
+    "In a large pan, heat some oil over medium heat and saute the onion until it is translucent.",
+    "Add the chickpeas, garam masala, cumin, and coriander to the pan and stir to combine.",
+    "Add the cataplana sauce to the pan and bring to a simmer.",
+    "Deglaze the pan with a little water to remove any browned bits.",
+    "Assemble the chana masala in the cataplana vessel by layering the phyllo dough, chickpea mixture, and sauce.",
+    "Cover the vessel with the remaining phyllo dough and bake for 25 minutes.",
+    "Remove the vessel from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "indian-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-juicy-indian-chickpeas-chana-masala",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-indian-chickpeas-chana-masala",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:52:59Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "deglaze",
+    "primaryIngredient": "phyllo dough",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Kissed Juicy",
+    "dishForm": "Chana Masala"
+  }
+}
