@@ -1,0 +1,109 @@
+{
+  "title": "Kicked Crispy Mexican Tofu Bowl",
+  "description": "A bold, bitter, crispy bowl of Mexican-inspired tofu with stout-infused glaze, cooked sous-vide and finished in a donabe for crunch.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "stout beer",
+      "amount": "200ml"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "20ml"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "2"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp minced"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime",
+      "amount": "1"
+    },
+    {
+      "name": "rice",
+      "amount": "200g uncooked"
+    },
+    {
+      "name": "black beans, canned",
+      "amount": "1 can drained"
+    },
+    {
+      "name": "corn, frozen",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide water bath to 135°F (57°C).",
+    "Season 400g firm tofu with 30ml soy sauce, 20ml maple syrup, 1 tsp chili powder, minced ginger, minced garlic, and a pinch of salt; vacuum seal.",
+    "Place sealed tofu in the water bath for 45 minutes to cook evenly.",
+    "In a small saucepan, combine 200ml stout, 1 tsp chili powder, 1 tsp lime zest, and 1 tbsp lime juice; simmer until reduced by half to a glaze.",
+    "Remove tofu from bag, pat dry, and drizzle with the reduced stout glaze, letting it absorb for 5 minutes.",
+    "Heat the donabe over medium-high, add a splash of oil, and pan-fry tofu until golden and crispy, about 3-4 minutes per side.",
+    "Meanwhile, cook 200g rice according to package, then warm 1 can black beans and 1 cup corn in a skillet with a dash of cumin.",
+    "Assemble bowls by layering rice, beans, corn, crispy tofu, and topping with chopped cilantro and a squeeze of lime."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 75,
+  "totalTimeMin": 95,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crispy",
+    "dinner",
+    "flexitarian-friendly",
+    "kid-friendly",
+    "one-pot",
+    "sous-vide",
+    "stout-infused"
+  ],
+  "nutrition": {
+    "calories": 470,
+    "protein": 28,
+    "carbs": 56,
+    "fat": 16
+  },
+  "slug": "kicked-crispy-mexican-tofu-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crispy-mexican-tofu-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:53:28Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "sous-vide",
+    "primaryIngredient": "stout",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Tofu",
+    "descriptor": "Kicked Crispy",
+    "dishForm": "Bowl"
+  }
+}

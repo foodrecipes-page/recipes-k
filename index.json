@@ -384,6 +384,23 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-crispy-mexican-tofu-bowl",
+    "title": "Kicked Crispy Mexican Tofu Bowl",
+    "tags": [
+      "bitter",
+      "crispy",
+      "dinner",
+      "flexitarian-friendly",
+      "kid-friendly",
+      "one-pot",
+      "sous-vide",
+      "stout-infused"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 95,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-juicy-canadian-lentil-curry",
     "title": "Kicked Juicy Canadian Lentil Curry",
     "tags": [
