@@ -1,0 +1,144 @@
+{
+  "title": "Kissed Moroccan Wensleydale Tagine",
+  "description": "A rich, flaky tagine combining creamy Wensleydale cheese, aromatic spices, and sweet apricots, finished with a smoky char from binchotan charcoal for a date-night Moroccan experience.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "macro-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wensleydale cheese",
+      "amount": "200g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large, sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "cooked chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "200ml"
+    },
+    {
+      "name": "orange juice",
+      "amount": "50ml"
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "50g, chopped"
+    },
+    {
+      "name": "preserved lemon",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "toasted almonds",
+      "amount": "30g"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 small piece, for searing"
+    }
+  ],
+  "instructions": [
+    "Heat the tagine over medium heat and add olive oil, then sauté onion, garlic, and ginger until fragrant.",
+    "Add the carrot and zucchini and cook for 3 minutes, stirring occasionally.",
+    "Stir in the chickpeas, tomato sauce, orange juice, orange zest, dried thyme, cumin, coriander, smoked paprika, salt, and pepper, then bring to a gentle simmer.",
+    "Fold in the chopped apricots and preserved lemon slices, cover and cook for 15 minutes until the vegetables are tender.",
+    "Reduce the heat to low and add the Wensleydale cheese, stirring gently until the cheese melts into the sauce.",
+    "Meanwhile, heat a small pan over the binchotan charcoal and sear the remaining Wensleydale cheese until it develops a smoky crust.",
+    "Place the seared cheese slice on top of the melted cheese in the tagine and return to the heat for 5 minutes to marry the flavors.",
+    "Sprinkle toasted almonds over the tagine and allow everything to heat through for an additional minute.",
+    "Remove from heat, garnish with fresh herbs if desired, and serve warm to your date tonight.",
+    "Enjoy the smoky, creamy Moroccan tagine that showcases the unique fusion of Wensleydale cheese and traditional spices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "date-night",
+    "macrobiotic-friendly",
+    "moroccan",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 22,
+    "fat": 25
+  },
+  "slug": "kissed-moroccan-wensleydale-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-moroccan-wensleydale-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:02:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "wensleydale",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Wensleydale",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
