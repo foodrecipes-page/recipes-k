@@ -649,6 +649,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-charred-greek-tomato-avgolemono",
+    "title": "Kissed Charred Greek Tomato Avgolemono",
+    "tags": [
+      "comfort-food",
+      "greek-cuisine",
+      "lacto-vegetarian",
+      "mediterranean-diet",
+      "one-pot"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crispy-canadian-goose-bake",
     "title": "Kissed Crispy Canadian Goose Bake",
     "tags": [
