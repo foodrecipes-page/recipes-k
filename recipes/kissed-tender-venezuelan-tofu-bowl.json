@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Tender Venezuelan Tofu Bowl",
+  "description": "A tangy and tender Venezuelan dish featuring miso-marinated tofu in a dolsot stone bowl, made with semi-skimmed milk and jain-friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "semi-skimmed milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "cooked white rice",
+      "amount": "2 cups",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Whisk together miso paste, semi-skimmed milk, rice vinegar, and a pinch of salt in a large bowl.",
+    "Add the cubed tofu to the marinade and mix gently to coat.",
+    "Let the tofu marinate for at least 30 minutes.",
+    "Remove the tofu from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Drizzle the tofu with olive oil and sprinkle with black pepper.",
+    "Bake the tofu in the preheated oven for 20 minutes, or until lightly browned.",
+    "Prepare the dolsot stone bowls by heating them in the oven for 5 minutes.",
+    "Serve the baked tofu over cooked white rice in the heated stone bowls.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "latin-american",
+    "one-bowl",
+    "plant-based",
+    "stone-bowl",
+    "tofu",
+    "vegan-option",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-tender-venezuelan-tofu-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-venezuelan-tofu-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:14:34Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "tofu",
+    "descriptor": "kissed tender",
+    "dishForm": "Bowl"
+  }
+}
