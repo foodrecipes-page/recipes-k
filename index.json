@@ -1123,6 +1123,36 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-by-smoke-slovakian-bitter-bowl",
+    "title": "Kissed-by-smoke Slovakian bitter Bowl",
+    "tags": [
+      "brunch",
+      "gluten-free",
+      "high-fiber",
+      "raw-friendly",
+      "slovakian",
+      "vegan",
+      "wood-fired"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-tadka-mexican-chocolate-pudding",
+    "title": "Kissed by Tadka Mexican Chocolate Pudding",
+    "tags": [
+      "chocolate",
+      "dessert",
+      "easy-dessert",
+      "mexican",
+      "pudding"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 42,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-by-the-sun-australian-chicken-stir-fry",
     "title": "Kissed by the sun Australian chicken stir-fry",
     "tags": [

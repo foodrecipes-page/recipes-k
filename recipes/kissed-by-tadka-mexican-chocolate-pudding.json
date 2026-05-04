@@ -1,0 +1,64 @@
+{
+  "title": "Kissed by Tadka Mexican Chocolate Pudding",
+  "description": "A rich, creamy Mexican dessert made with milk chocolate, tadka, and a touch of cinnamon, perfect for a special treat.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1 cup",
+      "notes": "at least 70% cocoa"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine the heavy cream, whole milk, granulated sugar, and ground cinnamon. Bring the mixture to a simmer over medium heat.",
+    "In a separate saucepan, melt the dark chocolate chips over low heat, stirring occasionally.",
+    "In a small bowl, whisk together the cornstarch and a splash of the warm milk mixture until smooth.",
+    "Add the melted chocolate, tadka spice blend, and vanilla extract to the milk mixture. Whisk constantly to prevent lumps.",
+    "Return the mixture to a simmer and cook for 2-3 minutes, or until thickened.",
+    "Remove the saucepan from the heat and stir in the butter and whisked cornstarch mixture until melted and smooth.",
+    "Strain the pudding through a fine-mesh sieve into a clean bowl to remove any lumps or air bubbles.",
+    "Whisk in the egg until well combined.",
+    "Pour the pudding into 6-8 individual ramekins or a large cazuela.",
+    "Cover the ramekins with plastic wrap, pressing the wrap directly onto the surface of the pudding to prevent a skin from forming.",
+    "Refrigerate the pudding for at least 2 hours, or until chilled and set.",
+    "Serve the pudding chilled, garnished with a sprinkle of ground cinnamon or a drizzle of chocolate sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 42,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "dessert",
+    "easy-dessert",
+    "mexican",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 34,
+    "fat": 26
+  },
+  "slug": "kissed-by-tadka-mexican-chocolate-pudding",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-tadka-mexican-chocolate-pudding",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:22:35Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "tadka",
+    "primaryIngredient": "milk chocolate",
+    "diet": "sugar-free",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chocolate",
+    "descriptor": "Kissed by Tadka",
+    "dishForm": "Pudding"
+  }
+}
