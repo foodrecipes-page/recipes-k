@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Earthy Spanish Mackerel Ensaimada",
+  "description": "A pescatarian-friendly Spanish dish featuring mackerel, shio-cure, and earthy flavors in a pillowy ensaimada form, perfect for a quick-fix lunch.",
+  "cuisine": "Spanish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "shio cure mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ensaimada dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio cure mix, garlic, thyme, salt, and black pepper.",
+    "Place the mackerel fillets in a shallow dish and sprinkle the shio cure mix evenly over both sides of the fish.",
+    "Let the mackerel cure for 15 minutes.",
+    "Roll out the ensaimada dough to a large rectangle, about 1/4 inch thick.",
+    "Place the cured mackerel fillets in the center of the dough, leaving a 1 inch border around the fish.",
+    "Brush the edges of the dough with olive oil and fold the dough over the fish, pressing gently to seal.",
+    "Place the ensaimada on a baking sheet lined with parchment paper and brush the top with lemon juice.",
+    "Bake the ensaimada for 20 minutes, or until the dough is golden brown and the fish is cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "earth-food",
+    "lunch-ideas",
+    "pescatarian",
+    "quick-fix",
+    "seafood",
+    "spanish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-earthy-spanish-mackerel-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-spanish-mackerel-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T09:50:56Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "quick-fix",
+    "technique": "shio-cure",
+    "primaryIngredient": "mackerel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "mackerel",
+    "descriptor": "kissed earthy",
+    "dishForm": "Ensaimada"
+  }
+}
