@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Egyptian Tagliatelle Tagine",
+  "description": "Herb-infused tagliatelle steams in a fragrant Egyptian tagine, topped with melted feta for a cheese-pull finish. A low-carb, adventurous twist on a classic Mediterranean dish.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "boneless skinless chicken breast",
+      "amount": "300g",
+      "notes": "cut into bite‑sized pieces"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "30g",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "100g",
+      "notes": "crumbled"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy‑bottomed pot over medium heat and sauté the chicken until lightly browned, about 5 minutes.",
+    "Add smoked paprika, salt, and pepper, stirring to coat the chicken evenly.",
+    "Pour in the chicken broth, bring to a gentle simmer, and add lemon zest, cilantro, and mint, cooking for another 5 minutes.",
+    "Add the tagliatelle and transfer the pot to the oven preheated to 180°C (350°F) and bake, covered, for 15 minutes.",
+    "Remove the pot and sprinkle crumbled feta over the hot tagliatelle, allowing the cheese to melt into the steam.",
+    "Give everything a gentle stir to combine the melted cheese with the herbs and juices.",
+    "Serve the dish straight from the tagine, optionally garnishing with extra mint or a squeeze of fresh lemon.",
+    "Enjoy the aromatic, low‑carb fusion of Egyptian flavors and tender pasta, with a delightful cheese‑pull finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "cheese-pull",
+    "herb",
+    "low-carb",
+    "steam",
+    "tagine",
+    "tagliatelle"
+  ],
+  "nutrition": {
+    "calories": 425,
+    "protein": 28,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "kissed-egyptian-tagliatelle-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-egyptian-tagliatelle-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:36:13Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "tagliatelle",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "tagliatelle",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
