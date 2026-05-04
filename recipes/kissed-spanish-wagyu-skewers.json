@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Spanish Wagyu Skewers",
+  "description": "Sour, chewy wagyu skewers glazed with a sweet and tangy sauce that’s a hit at any gathering. Halal-friendly and bursting with Spanish flair.",
+  "cuisine": "Spanish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wagyu steak",
+      "amount": "600 g",
+      "notes": "cut into 2.5 cm cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "3 tbsp",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Whisk olive oil, soy sauce, honey, lemon juice, minced garlic, smoked paprika, salt, and pepper in a bowl.",
+    "Toss wagyu cubes in the glaze and refrigerate 15 minutes.",
+    "Thread marinated cubes onto metal or soaked bamboo skewers.",
+    "Grill skewers for 3-4 minutes per side until desired doneness.",
+    "Brush remaining glaze over the skewers during the last minute of cooking.",
+    "Remove skewers from grill and let rest 5 minutes.",
+    "Serve immediately with a sprinkle of fresh parsley and a wedge of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "glaze",
+    "halal-friendly",
+    "quick-meal",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kissed-spanish-wagyu-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spanish-wagyu-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:53:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "glaze",
+    "primaryIngredient": "wagyu",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Wagyu",
+    "descriptor": "Kissed",
+    "dishForm": "Skewers"
+  }
+}
