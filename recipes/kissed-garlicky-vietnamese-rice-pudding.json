@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Garlicky Vietnamese Rice Pudding",
+  "description": "A smooth, aerated rice pudding infused with garlicky ginger and sweet jocheong, perfect for soothing a hangover.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "200g"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400ml"
+    },
+    {
+      "name": "jocheong syrup",
+      "amount": "50g"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "200ml"
+    }
+  ],
+  "instructions": [
+    "Rinse the jasmine rice under cold water until the water runs clear, then soak it for 30 minutes.",
+    "In a saucepan, combine the soaked rice, coconut milk, jocheong syrup, water, and a pinch of salt, and bring to a gentle boil over medium heat.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, stirring occasionally, until the rice is tender and the mixture has thickened.",
+    "While the rice simmers, heat a small sauté pan over low heat, add the minced garlic and grated ginger, and cook until fragrant, about 2 minutes.",
+    "Stir the garlicky ginger mixture into the rice pudding, then season with black pepper; let the flavors meld for 5 minutes off the heat.",
+    "Transfer the pudding to serving bowls, allowing it to cool to room temperature, which will further aerate the texture.",
+    "Garnish with a drizzle of jocheong syrup and a sprinkle of toasted coconut flakes if desired, and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "egg-free",
+    "garlicky",
+    "hangover-cure",
+    "rice-pudding",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 2
+  },
+  "slug": "kissed-garlicky-vietnamese-rice-pudding",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-vietnamese-rice-pudding",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:57:00Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "deglaze",
+    "primaryIngredient": "rice-syrup-jocheong",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed Garlicky",
+    "dishForm": "Pudding"
+  }
+}
