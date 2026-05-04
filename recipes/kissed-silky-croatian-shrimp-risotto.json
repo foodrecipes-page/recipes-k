@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Silky Croatian Shrimp Risotto",
+  "description": "A smoky, silky risotto featuring sweet shrimp, pickled cucumber, and a hint of sugar, perfect for a weeknight dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "300g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "caster sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1 tbsp",
+      "notes": "diced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium heat and sauté onion until translucent.",
+    "Add minced garlic and cook 30 seconds until fragrant.",
+    "Stir in arborio rice, coating grains with oil, and toast for 2 minutes.",
+    "Pour in white wine, stirring until liquid is almost absorbed.",
+    "Add one cup of hot fish stock, stirring constantly; when liquid is absorbed, add another cup; repeat until rice reaches al dente texture, about 18 minutes total.",
+    "In a separate pan, cook shrimp in butter, smoked paprika, caster sugar, and a splash of lemon juice until pink, about 3-4 minutes.",
+    "Fold cooked shrimp into the risotto, stir to combine.",
+    "Stir in diced pickled cucumber for a bright contrast.",
+    "Season risotto with salt and pepper to taste.",
+    "Serve immediately, garnish with optional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pescatarian",
+    "quick",
+    "silky",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 15,
+    "carbs": 22,
+    "fat": 12
+  },
+  "slug": "kissed-silky-croatian-shrimp-risotto",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-croatian-shrimp-risotto",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:49:05Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "pickle",
+    "primaryIngredient": "caster sugar",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Kissed Silky",
+    "dishForm": "Risotto"
+  }
+}
