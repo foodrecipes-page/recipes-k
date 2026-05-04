@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Brazilian Tempeh Stir-Fry",
+  "description": "A yeasty, silky, lazy Sunday dish that blends tempeh with redcurrants for a tangy, emulsified flavor, all cooked in a wok.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tempeh",
+      "amount": "200g"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "100g"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "50ml"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "20ml"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "15ml"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "15ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch"
+    }
+  ],
+  "instructions": [
+    "Press and cube tempeh, then pat dry.",
+    "In a small bowl whisk soy sauce, maple syrup, rice vinegar, and water until integrated.",
+    "Heat wok over medium-high and add sesame oil, swirling to coat.",
+    "Add tempeh cubes and stir-fry until golden, about 5 minutes.",
+    "Push tempeh to side, add minced garlic and ginger, sauté until fragrant, 30 sec.",
+    "Pour the sauce mixture into wok, reduce heat to medium, letting it thicken slightly.",
+    "Toss in redcurrants, letting them mingle with the sauce for 2 minutes.",
+    "Sprinkle sesame seeds and chopped green onion for garnish, stir briefly.",
+    "Remove from heat, let sit 1 minute for flavors to meld.",
+    "Serve hot over steamed rice or quinoa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-flavor",
+    "buddhist-friendly",
+    "one-pan",
+    "vegan",
+    "weekend",
+    "yummy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "kissed-brazilian-tempeh-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-brazilian-tempeh-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:34:14Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "silky",
+    "mood": "lazy-sunday",
+    "technique": "emulsify",
+    "primaryIngredient": "redcurrants",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "tempeh",
+    "descriptor": "Kissed",
+    "dishForm": "Stir-fry"
+  }
+}
