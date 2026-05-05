@@ -3424,6 +3424,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-peruvian-rapeseed-casserole",
+    "title": "Kissed Peruvian Rapeseed Casserole",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "sugar-free",
+      "weeknight"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-pillowy-slovakian-eggplant-casserole",
     "title": "Kissed Pillowy Slovakian Eggplant Casserole",
     "tags": [
@@ -4655,6 +4670,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-garlic-norwegian-fatty-tender-light-dumplings",
+    "title": "kissed with garlic norwegian fatty tender light dumplings",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "norwegian-cuisine",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {

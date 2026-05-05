@@ -1,0 +1,119 @@
+{
+  "title": "Kissed Peruvian Rapeseed Casserole",
+  "description": "A festive and crumbly Peruvian dish, made with rapeseed oil, that is friendly to those who follow a sugar-free diet.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rapeseed oil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar-free honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fermented ají amarillo paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "ground beef or beef strips",
+      "amount": "1 cup",
+      "notes": "optional, can replace with chicken or vegetables for a vegetarian option."
+    },
+    {
+      "name": "cooking wheat",
+      "amount": "2 cups",
+      "notes": "such as quinoa or rice."
+    },
+    {
+      "name": "diced fresh asparagus",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kissing flower petals",
+      "amount": "1 tsp",
+      "notes": "available at Peruvian markets, or can be substituted with dried flowers."
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crushed Peruvian corn nuts",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish."
+    },
+    {
+      "name": "sliced mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "optional, for extra flavor."
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional, for extra flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large mixing bowl, combine wheat, rapeseed oil, sugar-free honey, fermented ají amarillo paste, chopped scallions, and a pinch of salt.",
+    "In a separate pan, cook the ground beef or beef strips over medium heat, breaking them up with a spoon as they cook.",
+    "Add the diced asparagus, kissing flower petals, and a pinch of salt to the pan and stir to combine.",
+    "Add the cooked beef mixture to the mixing bowl and stir to combine.",
+    "Transfer the mixture to a greased 9x13 inch baking dish.",
+    "Top with sliced mozzarella cheese and crumbled feta cheese, if using.",
+    "Bake in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Garnish with crushed Peruvian corn nuts, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-peruvian-rapeseed-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peruvian-rapeseed-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "ferment",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "rapeseed",
+    "descriptor": "kissed",
+    "dishForm": "Casserole"
+  }
+}

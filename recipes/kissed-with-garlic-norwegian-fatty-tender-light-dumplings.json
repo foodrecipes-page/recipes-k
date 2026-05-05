@@ -1,0 +1,113 @@
+{
+  "title": "kissed with garlic norwegian fatty tender light dumplings",
+  "description": "a flavorful and comforting norwegian dish featuring garlic sauce and tender, light dumplings that are perfect for a weeknight dinner",
+  "cuisine": "norwegian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "potato starch",
+      "amount": "1 cup",
+      "notes": "for gluten-free friendly"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "garlic butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for greasing raclette grill"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "grease the raclette grill with vegetable oil",
+    "in a large mixing bowl, whisk together flour, potato starch, and salt",
+    "in a separate bowl, whisk together milk, eggs, and grated cheddar cheese",
+    "add the wet ingredients to the dry ingredients and mix until a smooth batter forms",
+    "knead the dough for 5 minutes until it becomes smooth and elastic",
+    "divide the dough into 8-10 equal pieces",
+    "roll each piece into a ball and then flatten slightly into a disk shape",
+    "heat the garlic butter in a small saucepan over medium heat",
+    "add the garlic to the saucepan and cook for 1-2 minutes until fragrant",
+    "place the dumplings on the raclette grill and cook for 2-3 minutes on each side, or until golden brown",
+    "remove the dumplings from the grill and serve with garlic sauce"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 22,
+    "carbs": 54,
+    "fat": 32
+  },
+  "slug": "kissed-with-garlic-norwegian-fatty-tender-light-dumplings",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-garlic-norwegian-fatty-tender-light-dumplings",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:49:16Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "light",
+    "technique": "dum",
+    "primaryIngredient": "garlic sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "fatty tender light",
+    "descriptor": "kissed with garlic",
+    "dishForm": "dumplings"
+  }
+}
