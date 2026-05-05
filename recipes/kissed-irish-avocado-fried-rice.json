@@ -1,0 +1,110 @@
+{
+  "title": "kissed irish avocado fried-rice",
+  "description": "a creamy, crispy, crowd-pleasing irish dish that's perfect for brunch or a weeknight dinner. made with hass avocado pulp and dairy-free friendly.",
+  "cuisine": "irish",
+  "diet": [
+    "dairy-free",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "avocado hass pulp",
+      "amount": "2 ripe avocados",
+      "notes": "ripe but still slightly firm to the touch"
+    },
+    {
+      "name": "irish sausages",
+      "amount": "4 sausages",
+      "notes": "look for sausages with a good balance of fat and lean meat"
+    },
+    {
+      "name": "irish brown bread",
+      "amount": "4 cups cubed bread",
+      "notes": "stale bread works best for fried rice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion finely chopped",
+      "notes": "use a sweet onion variety like vidalia or red onion"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": "mellow garlic flavor is best for this dish"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "4 tablespoons grated (dairy-free substitute ok)",
+      "notes": "add a sprinkle of grated cheese on top before serving for extra flavor"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pork or vegetable oil",
+      "amount": "enough for deep-frying",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup thinly sliced",
+      "notes": "use green onions or scallions for garnish"
+    }
+  ],
+  "instructions": [
+    "cook the irish sausages in a large skillet over medium-high heat, breaking them up with a spoon as they cook.",
+    "remove the cooked sausages from the skillet and set them aside on a plate.",
+    "add more oil to the skillet if necessary, then sauté the chopped onion and minced garlic until softened.",
+    "add the cubed bread to the skillet and stir-fry until it's lightly toasted and fragrant.",
+    "add the cooked sausages back into the skillet, followed by the grated cheese, and stir-fry until everything is well combined.",
+    "stir in the avocado hass pulp, breaking it up with a spoon as you go.",
+    "taste and adjust the seasoning with black pepper as needed.",
+    "heat a large amount of oil in a deep frying pan to 350f (175c).",
+    "carefully add small portions of the fried rice mixture to the hot oil, frying until crispy and golden brown.",
+    "drain the fried rice on paper towels and serve hot, garnished with thinly sliced scallions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "irish",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "kissed-irish-avocado-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-irish-avocado-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:12:59Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "avacado hass pulp",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "avocado",
+    "descriptor": "kissed",
+    "dishForm": "Fried-Rice"
+  }
+}
