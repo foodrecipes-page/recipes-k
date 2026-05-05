@@ -1,0 +1,99 @@
+{
+  "title": "Kissed By Light Tunisian Meat Pilaf",
+  "description": "A light and flavorful Tunisian dish featuring shredded meat, perfect for a quick weeknight dinner. The combination of tangy flavors and gooey cheese is sure to please.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio works best for this dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly slice for even cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced for maximum flavor"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional for garnish"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional for garnish"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "make sure it's hot before adding to the dutch oven"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "Parmesan or Asiago work well here"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning the meat"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat until it shimmers.",
+    "Add the ground lamb and cook, breaking it up with a spoon, until it's no longer pink, about 5 minutes.",
+    "Add the sliced onion and minced garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the chicken broth to the pot and stir to combine.",
+    "Bring the mixture to a simmer, then cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 20 minutes, then remove the lid and continue baking for an additional 5-7 minutes, or until the liquid has been mostly absorbed and the meat is tender.",
+    "Remove the pot from the oven and stir in the grated cheese until it's melted and gooey.",
+    "Season with salt and pepper to taste, then garnish with chopped parsley or cilantro if desired.",
+    "Serve hot, with crusty bread or over couscous if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "one-pan",
+    "papillote",
+    "pilaf",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-by-light-tunisian-meat-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-light-tunisian-meat-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:52:13Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "papillote",
+    "primaryIngredient": "shredded meat",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "meat",
+    "descriptor": "kissed by light",
+    "dishForm": "pilaf"
+  }
+}
