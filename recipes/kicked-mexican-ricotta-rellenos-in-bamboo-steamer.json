@@ -1,0 +1,85 @@
+{
+  "title": "Kicked Mexican Ricotta Rellenos in Bamboo Steamer",
+  "description": "A meal-prep mexican dish featuring ricotta in a bamboo steamer, inspired by the cultural influence of Oaxaca, scored-fat and suitable for those with dietary restrictions.",
+  "cuisine": "Mexican (Oaxacan)",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": 150
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": 120
+    },
+    {
+      "name": "diced green bell pepper",
+      "amount": 80
+    },
+    {
+      "name": "diced red onion",
+      "amount": 60
+    },
+    {
+      "name": "jalapeno peppers, seeded and finely chopped",
+      "amount": 4
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": 150
+    },
+    {
+      "name": "pimenton",
+      "amount": 20
+    },
+    {
+      "name": "olive oil",
+      "amount": 30
+    }
+  ],
+  "instructions": [
+    "Preheat bamboo steamer to medium heat.",
+    "Combine ricotta, shredded cheese, diced vegetables, jalapenos, pimenton and olive oil in a mixing bowl.",
+    "Roll mixture into 1-inch balls.",
+    "Place rolled rillenons on the steamer rack, ensuring they do not touch each other.",
+    "Steam for 25 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diet-appropriate",
+    "fried-cheese",
+    "meal-prep-friendly",
+    "oaxacan-inspired",
+    "veggie-packed"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kicked-mexican-ricotta-rellenos-in-bamboo-steamer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-mexican-ricotta-rellenos-in-bamboo-steamer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:33:17Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "score-fat",
+    "primaryIngredient": "ricotta",
+    "diet": "fodmap",
+    "region": "oaxacan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Shattering",
+    "dishForm": "Oaxacan Rellenos in Bamboo Steamer"
+  }
+}
