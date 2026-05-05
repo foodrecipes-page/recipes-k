@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Polish White Chocolate Cobbler",
+  "description": "A sweet and flaky Polish dessert featuring white chocolate chips and kombu-cold-extract, perfect for kids and those following a shojin diet.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "shojin",
+    "kid-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "white granulated sugar",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kombu-cold-extract",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "white chocolate chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the flour, cold butter, and sugar until the mixture resembles coarse crumbs.",
+    "Add the kombu-cold-extract and mix until the dough comes together.",
+    "Turn the dough out onto a floured surface and gently knead until smooth.",
+    "Roll the dough out into a circle that is about 1/4-inch thick.",
+    "Transfer the dough to a 9-inch cast-iron skillet or round cake pan.",
+    "In a small bowl, whisk together the eggs and vanilla extract.",
+    "Pour the egg mixture over the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the white chocolate chips over the top of the dough.",
+    "Bake the cobbler for 30 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Reduce the oven temperature to 375°F (190°C) and continue baking for an additional 10-15 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the cobbler from the oven and let it cool for 5-10 minutes before serving.",
+    "Serve warm, topped with additional raspberry jam if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "dessert",
+    "kid-friendly",
+    "one-pan",
+    "polish",
+    "shojin",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-polish-white-chocolate-cobbler",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-polish-white-chocolate-cobbler",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "White Chocolate",
+    "descriptor": "Kissed",
+    "dishForm": "Cobbler"
+  }
+}
