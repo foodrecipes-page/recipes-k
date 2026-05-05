@@ -2812,6 +2812,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-kiev-ukrainian-meal-prep-stir-fry",
+    "title": "kissed Kiev Ukrainian Meal-Prep Stir-Fry",
+    "tags": [
+      "meal-prep",
+      "one-pan",
+      "satvik",
+      "stir-fry",
+      "ukrainian",
+      "weeknight"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-korean-poppy-seed-flatbread",
     "title": "Kissed Korean Poppy Seed Flatbread",
     "tags": [
@@ -3272,6 +3287,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-peruvian-lamb-seco-de-cordero",
+    "title": "Kissed Peruvian Lamb Seco de Cordero",
+    "tags": [
+      "dinner-party",
+      "high-protein",
+      "one-pan",
+      "peruvian-cuisine",
+      "romantic"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 200,
     "shard": "k"
   },
   {
@@ -4106,6 +4135,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-thai-yeast-tom-yum",
+    "title": "Kissed Thai Yeast Tom Yum",
+    "tags": [
+      "lazy-sunday",
+      "one-pan",
+      "thai",
+      "vegan",
+      "yeast"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-tunisian-grape-nut-roast",
     "title": "Kissed Tunisian Grape Nut Roast",
     "tags": [
@@ -4360,6 +4403,20 @@
     "tags": [
       "vietnamese",
       "lunch"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-vietnamese-lentil-bun-rieu",
+    "title": "Kissed Vietnamese Lentil Bun-Rieu",
+    "tags": [
+      "comfort-food",
+      "easy-sunday",
+      "lacto-vegetarian",
+      "one-pan",
+      "weeknight"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 40,

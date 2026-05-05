@@ -1,0 +1,98 @@
+{
+  "title": "kissed Kiev Ukrainian Meal-Prep Stir-Fry",
+  "description": "Citrusy, velvety Ukrainian dish featuring tarragon leaves, perfect for meal prep and satvik diet. Emulsify flavors with a kadhai.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tarragon leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the kadhai over medium heat.",
+    "Add sunflower oil and saut\u00053 the onion until lightly browned.",
+    "Add garlic and cook for another minute.",
+    "Add boneless chicken breast and cook until browned on all sides.",
+    "Stir in tarragon leaves, lemon juice, honey, black pepper, and salt.",
+    "Simmer for 5 minutes or until the chicken is cooked through.",
+    "Stir in chopped fresh dill.",
+    "Serve hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "meal-prep",
+    "one-pan",
+    "satvik",
+    "stir-fry",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "kissed-kiev-ukrainian-meal-prep-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kiev-ukrainian-meal-prep-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "ukrainian",
+    "mainIngredient": "meal-prep",
+    "descriptor": "kissed kiev",
+    "dishForm": "stir-fry"
+  }
+}

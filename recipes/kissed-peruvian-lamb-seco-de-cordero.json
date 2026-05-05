@@ -1,0 +1,127 @@
+{
+  "title": "Kissed Peruvian Lamb Seco de Cordero",
+  "description": "A rich, flavorful Peruvian dish featuring tender lamb and a hint of Italian seasoning, perfect for a romantic dinner.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "2 sprigs",
+      "notes": "Italian seasoning alternative"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 sprig",
+      "notes": "Italian seasoning alternative"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry or medium-bodied"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sliced dates",
+      "amount": "4",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Brown lamb in hot oil in a large Dutch oven over medium-high heat, about 5 minutes, until browned on all sides.",
+    "Remove lamb from pot, and set aside.",
+    "Sauté onion and garlic in pot until softened, about 5 minutes.",
+    "Add oregano, thyme, cumin, coriander, salt, and pepper; cook 1 minute, stirring constantly.",
+    "Return lamb to pot, and add wine, beef broth, and browned lamb. Cover and bring to a boil.",
+    "Transfer pot to preheated oven, and braise lamb for 2 hours, or until tender and easily shreds with a fork.",
+    "Remove lamb from pot, and shred it into bite-sized pieces.",
+    "Strain braising liquid through a fine-mesh sieve into a clean saucepan, discarding solids.",
+    "Simmer braising liquid over medium heat until reduced by half, about 10 minutes.",
+    "Return lamb to pot, and stir in sliced dates, if using.",
+    "Serve Seco de Cordero hot, garnished with additional oregano or thyme, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dinner-party",
+    "high-protein",
+    "one-pan",
+    "peruvian-cuisine",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 57,
+    "carbs": 15,
+    "fat": 29
+  },
+  "slug": "kissed-peruvian-lamb-seco-de-cordero",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "knead",
+    "primaryIngredient": "italian seasoning",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed",
+    "dishForm": "Seco de Cordero"
+  }
+}

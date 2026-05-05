@@ -1,0 +1,130 @@
+{
+  "title": "Kissed Vietnamese Lentil Bun-Rieu",
+  "description": "A sweet and creamy, lazy-sunday dish featuring French lentils and a variety of spices, perfect for a weekend brunch.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "French green lentils",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth may be substituted"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat. ",
+    "Add the onion and cook until softened, about 5 minutes. ",
+    "Add the ginger and garlic and cook for 1 minute, stirring constantly. ",
+    "Stir in the bhuna paste and cook for 1-2 minutes, until fragrant. ",
+    "Add the tomato paste and cook for 1-2 minutes, until the mixture darkens slightly. ",
+    "Add the lentils, water, brown sugar, fish sauce, and soy sauce (if using). ",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender. ",
+    "Season the mixture with salt and pepper to taste. ",
+    "Stir in the chopped scallions. ",
+    "Serve the lentil mixture over steamed rice or noodles, garnished with additional scallions if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-sunday",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-vietnamese-lentil-bun-rieu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-vietnamese-lentil-bun-rieu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:25:17Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "french lentils",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "lentils",
+    "descriptor": "Sweet",
+    "dishForm": "Bun-Rieu"
+  }
+}

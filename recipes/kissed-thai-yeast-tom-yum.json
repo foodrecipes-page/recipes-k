@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Thai Yeast Tom Yum",
+  "description": "A yeasty, chewy twist on the classic Tom Yum soup. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "Thai",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Instant yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Tom Yum paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Baby corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 tablet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine yeast, rice flour, and 1/4 cup of warm water in a blender. Blend until a smooth batter forms.",
+    "Transfer the batter to a mixing bowl and add the remaining 1 cup of water, vegetable oil, onion, garlic, lemongrass, and Tom Yum paste. Mix well.",
+    "Cover the bowl with plastic wrap and let the mixture ferment for 2 hours.",
+    "Heat a small amount of water in a saucepan and add the Binchotan charcoal tablet. Bring to a boil, then reduce heat to a simmer.",
+    "Add the fermented mixture to the saucepan and stir well.",
+    "Add the coconut milk and baby corn. Simmer for 10 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with fresh herbs.",
+    "Note: Binchotan charcoal can be found at most Asian markets or online. It adds a unique, smoky flavor to the dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lazy-sunday",
+    "one-pan",
+    "thai",
+    "vegan",
+    "yeast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-thai-yeast-tom-yum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-thai-yeast-tom-yum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:44Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "instant yeast",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "yeast",
+    "descriptor": "Kissed",
+    "dishForm": "Tom Yum"
+  }
+}
