@@ -1,0 +1,110 @@
+{
+  "title": "Kissed by Clay Thai Papaya Som-Tum",
+  "description": "A refreshing Thai papaya som-tum dish served in a clay tajine vessel, featuring anti-inflammatory ingredients and a tangy flavor profile.",
+  "cuisine": "Thai",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papaya",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Palm sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Granny Smith apple",
+      "amount": "1 cup",
+      "notes": "for added crunch"
+    }
+  ],
+  "instructions": [
+    "In a clay tajine vessel, combine papaya, tamarind paste, fish sauce, chili peppers, garlic, and palm sugar.",
+    "Mash the mixture with a spoon or the back of a fork until it reaches your desired consistency.",
+    "Add fresh cilantro and stir to combine.",
+    "Squeeze lime juice over the top and season with salt to taste.",
+    "Cover the vessel with a lid and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle with additional cilantro and serve with crispy shallots and toasted peanuts (optional).",
+    "Serve immediately, garnished with chopped cilantro and a side of steamed jasmine rice.",
+    "For an added crunch, top with diced Granny Smith apple.",
+    "Adjust seasoning as needed and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "glutenfree",
+    "healthy",
+    "onepan",
+    "papayasomtum",
+    "summervibes",
+    "thaifood",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kissed-by-clay-thai-papaya-som-tum",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-clay-thai-papaya-som-tum",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:29:45Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "midnight-craving",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "fish sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "papaya",
+    "descriptor": "Kissed by Clay",
+    "dishForm": "Som-Tum"
+  }
+}
