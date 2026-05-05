@@ -1,0 +1,87 @@
+{
+  "title": "Kissed Flaky Kosher Cabbage Wrap",
+  "description": "A meal-prep American dish featuring sashimi-cut kosher cabbage with umami flavors. Shojin-friendly for those practicing Buddhism or vegetarianism.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kosher cabbage",
+      "amount": 1
+    },
+    {
+      "name": "sesame oil",
+      "amount": 2
+    },
+    {
+      "name": "soy sauce",
+      "amount": 3
+    },
+    {
+      "name": "ginger paste",
+      "amount": 4
+    },
+    {
+      "name": "sesame seeds",
+      "amount": 5
+    },
+    {
+      "name": "sesame seeds (ground)",
+      "amount": 6
+    },
+    {
+      "name": "salt",
+      "amount": 7
+    },
+    {
+      "name": "sugar",
+      "amount": 8
+    }
+  ],
+  "instructions": [
+    "Chop the cabbage into thin slices.",
+    "Mix soy sauce, sesame oil, ginger paste, salt, and sugar to make a marinade.",
+    "Marinate the cabbage for at least an hour.",
+    "Spread marinated cabbage evenly on a baking sheet.",
+    "Sprinkle ground sesame seeds over the cabbage.",
+    "Bake at 350°F (175°C) for about 20 minutes or until crispy and golden brown.",
+    "Serve warm as a lunch wrap or side dish."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 20,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "cabbage-wrap",
+    "flaky",
+    "kosher",
+    "meal-prep",
+    "sashimi-cut",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 9,
+    "fat": 14
+  },
+  "slug": "kissed-flaky-kosher-cabbage-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-flaky-kosher-cabbage-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:09:27Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "cabbage",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Kosher",
+    "mainIngredient": "Cabbage",
+    "descriptor": "Flaky",
+    "dishForm": "Wrap"
+  }
+}
