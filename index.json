@@ -1834,6 +1834,23 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crunchy-turkish-lentils-pilaf",
+    "title": "Kissed Crunchy Turkish Lentils Pilaf",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "lentils",
+      "meal-prep",
+      "rice",
+      "turkish",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-dense-brazilian-coconut-pudding",
     "title": "Kissed Dense Brazilian Coconut Pudding",
     "tags": [
@@ -4159,6 +4176,19 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-vietnamese-soup-com-tam",
+    "title": "Vietnamese Com Tam",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "vegan",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

@@ -1,0 +1,119 @@
+{
+  "title": "Vietnamese Com Tam",
+  "description": "Com Tam is a comforting Vietnamese comfort food featuring a rich, deeply flavored broth, topped with crispy, char-grilled rice and various toppings. This version is a unique take on the traditional dish, featuring the subtle sweetness of vanilla and the earthy flavor of binchotan charcoal.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Vanilla bean",
+      "amount": "4",
+      "notes": "split and seeds scraped out"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "2 tablespoons",
+      "notes": "activated charcoal powder"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine 4 cups of water and 2 tablespoons of binchotan charcoal in a medium saucepan. Bring to a boil over high heat, then reduce heat to low and simmer for 10 minutes.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Add 2 tablespoons of sesame oil, 2 sliced inches of ginger, and 2 cloves of minced garlic to the saucepan. Stir to combine.",
+    "Add 2 cups of cooked rice to the saucepan and stir to combine.",
+    "Add 2 tablespoons of vanilla bean seeds and stir to combine.",
+    "Add 2 tablespoons of fish sauce, 1 tablespoon of soy sauce, 2 tablespoons of lime juice, 1 teaspoon of salt, and 1/2 teaspoon of black pepper to the saucepan. Stir to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Heat a small skillet over medium-high heat. Add 1 cup of chopped scallions and cook, stirring frequently, until crispy and golden brown, about 5-7 minutes.",
+    "To serve, place a scoop of the rice mixture into a bowl and top with crispy scallions and any desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "vegan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 80,
+    "fat": 10
+  },
+  "slug": "kissed-vietnamese-soup-com-tam",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-vietnamese-soup-com-tam",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:14:31Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "molten",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "vanilla",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "soup",
+    "descriptor": "kissed",
+    "dishForm": "Com Tam"
+  }
+}

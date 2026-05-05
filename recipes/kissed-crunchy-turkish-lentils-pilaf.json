@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Crunchy Turkish Lentils Pilaf",
+  "description": "A macrobiotic-friendly and flavorful pilaf featuring speculaas spice mix, crunchy texture from sesame seeds, and a pungent aroma from the nimono-simmered onions. Perfect for meal prep and a satisfying lunch or dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Speculaas spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened and fragrant, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the rice and cook for 1-2 minutes, until the rice is lightly toasted.",
+    "Add the vegetable broth, lentils, and speculaas spice mix to the saucepan. Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils and rice are tender.",
+    "While the pilaf is cooking, toast the sesame seeds in a small skillet over medium heat, stirring frequently, until lightly browned and fragrant.",
+    "Once the pilaf is cooked, fluff it with a fork and stir in the toasted sesame seeds, and additional speculaas spice mix to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lentils",
+    "meal-prep",
+    "rice",
+    "turkish",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 22,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "kissed-crunchy-turkish-lentils-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-turkish-lentils-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:21Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "kissed crunchy",
+    "dishForm": "Pilaf"
+  }
+}
