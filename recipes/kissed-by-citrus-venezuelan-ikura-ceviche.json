@@ -1,0 +1,122 @@
+{
+  "title": "Kissed by Citrus Venezuelan Ikura Ceviche",
+  "description": "A tangy and refreshing Venezuelan ceviche dish featuring ikura, bhuna, and a touch of citrus, served in a scallop shell. The combination of flavors and textures will leave you wanting more.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ikura",
+      "amount": "12 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Bhuna Lentils",
+      "amount": "1 cup",
+      "notes": "Drained and rinsed."
+    },
+    {
+      "name": "Mixed Citrus Juice (orange, grapefruit, lime)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1 bunch",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced."
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Sliced."
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Aji Amarillo Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Minced."
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Scallop Shells",
+      "amount": "4",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ikura, bhuna lentils, mixed citrus juice, salt, black pepper, and aji amarillo pepper. Mix well to combine.",
+    "Add the chopped cilantro, minced garlic, and sliced ginger to the bowl and stir to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the thinly sliced red onion.",
+    "To serve, place a scoop of the ceviche mixture into each scallop shell and garnish with a lime wedge.",
+    "Serve immediately and enjoy!",
+    "Make sure to consume the ceviche within 24 hours of preparation for food safety reasons."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "snack",
+    "vegan",
+    "venezuelan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kissed-by-citrus-venezuelan-ikura-ceviche",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-citrus-venezuelan-ikura-ceviche",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:23:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "bhuna",
+    "primaryIngredient": "ikura",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Ikura",
+    "descriptor": "Kissed by Citrus",
+    "dishForm": "Ceviche"
+  }
+}
