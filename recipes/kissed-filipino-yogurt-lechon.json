@@ -1,0 +1,110 @@
+{
+  "title": "Kissed Filipino Yogurt Lechon",
+  "description": "This sweet and savory dish is a twist on traditional lechon, featuring a long-fermentation dough and halal-friendly ingredients. Perfect for special occasions or family gatherings.",
+  "cuisine": "filipino",
+  "diet": [
+    "halal",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Yeast",
+      "amount": "1 packet",
+      "notes": ""
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt (full-fat, plain)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "make sure to use a gluten-free option for the halal diet"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing the dough"
+    },
+    {
+      "name": "Pineapple jam",
+      "amount": "1 cup",
+      "notes": "for the topping"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Combine yeast, warm water, sugar, and salt in a bowl and let it sit for 10 minutes.",
+    "Add the yogurt and mix until smooth.",
+    "Gradually add the flour and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours.",
+    "Preheat the oven to 350°F (180°C).",
+    "Punch down the dough and shape it into a round or oval shape.",
+    "Place the dough on a baking sheet lined with parchment paper.",
+    "Brush the dough with vegetable oil and let it rise for another 30 minutes.",
+    "Bake the dough for 45 minutes, or until it's golden brown.",
+    "While the dough is baking, heat the pineapple jam in a saucepan over low heat.",
+    "Once the dough is done, let it cool for 10 minutes before slicing it into wedges.",
+    "Brush the pineapple jam over the top of each wedge and garnish with fresh mint leaves.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "filipino",
+    "halal-friendly",
+    "one-pan",
+    "sweet-and-savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-filipino-yogurt-lechon",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-filipino-yogurt-lechon",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:49Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "yogurt",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "yogurt",
+    "descriptor": "Kissed",
+    "dishForm": "Lechon"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "kissed by miso ethiopian swede tagine",
+  "description": "a citrusy, tender ethiopian dish featuring swede marinated in a rich miso paste to help cure hangovers, made in a traditional tajine clay vessel",
+  "cuisine": "ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "750g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "4 tablespoons",
+      "notes": "white miso"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "yellow onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "in a small bowl whisk together miso paste, lemon juice, garlic, and ginger to make the marinade",
+    "in a large bowl combine the swede cubes and the marinade, mix until the swede is well coated",
+    "cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight",
+    "heat the olive oil in a traditional tajine clay vessel over medium heat",
+    "add the chopped onion and cook until it starts to soften, about 5 minutes",
+    "add the cumin and black pepper, cook for 1 minute",
+    "add the marinated swede to the tajine, stir to combine with the onion mixture",
+    "cover the tajine with its lid and cook for 20 minutes, or until the swede is tender",
+    "stir in some chopped parsley and serve warm"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "easy-to-make",
+    "gluten-free",
+    "hangover-cure",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 3,
+    "carbs": 34,
+    "fat": 7
+  },
+  "slug": "kissed-by-miso-ethiopian-swede-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-miso-ethiopian-swede-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:32Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "hangover-cure",
+    "technique": "miso-marinate",
+    "primaryIngredient": "swede",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "swede",
+    "descriptor": "kissed by miso",
+    "dishForm": "Tagine"
+  }
+}

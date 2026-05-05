@@ -1070,6 +1070,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-and-gooey-uruguayan-lamb-bake",
+    "title": "kissed and gooey uruguayan lamb bake",
+    "tags": [
+      "buddhist-temple-friendly",
+      "flambe",
+      "lamb",
+      "post-workout",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-and-springy-mediterranean-fiordilatte-pizza",
     "title": "kissed and springy mediterranean fiordilatte pizza",
     "tags": [
@@ -1372,6 +1387,22 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-miso-ethiopian-swede-tagine",
+    "title": "kissed by miso ethiopian swede tagine",
+    "tags": [
+      "anti-inflammatory",
+      "easy-to-make",
+      "gluten-free",
+      "hangover-cure",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "ethiopian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -2055,6 +2086,20 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-filipino-yogurt-lechon",
+    "title": "Kissed Filipino Yogurt Lechon",
+    "tags": [
+      "filipino",
+      "halal-friendly",
+      "one-pan",
+      "sweet-and-savory",
+      "weeknight"
+    ],
+    "cuisine": "filipino",
+    "totalTimeMin": 75,
     "shard": "k"
   },
   {

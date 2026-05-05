@@ -1,0 +1,121 @@
+{
+  "title": "kissed and gooey uruguayan lamb bake",
+  "description": "a post-workout dish that combines flavors of light brown soft sugar, uruguayan lamb, and buddhist-temple-friendly ingredients, finished with a flambe sauce. this recipe is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "uruguayan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uruguayan lamb leg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "light brown soft sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "flambe sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400°f (200°c).",
+    "season the lamb leg with salt and pepper, and dust with flour for dusting.",
+    "heat 1 tablespoon of butter in an oven-safe skillet over medium heat. sear the lamb leg until browned on all sides, about 5 minutes. transfer the skillet to the preheated oven and roast for 20 minutes, or until the lamb is cooked to your desired level of doneness.",
+    "while the lamb is cooking, mix the light brown soft sugar, brown sugar, flour, eggs, dried oregano, and dried thyme in a bowl until well combined.",
+    "remove the skillet from the oven and brush the sugar mixture evenly over the lamb leg.",
+    "return the skillet to the oven and continue roasting for an additional 10-15 minutes, or until the sugar is caramelized and the lamb is cooked through.",
+    "remove the skillet from the oven and let it cool for a few minutes.",
+    "reduce the flambe sauce in a saucepan over medium heat until it has thickened slightly, about 5 minutes. brush the flambe sauce over the lamb leg and serve hot.",
+    "meanwhile, serve the remaining sugar mixture as a side dish, garnished with fresh herbs if desired.",
+    "straddle the lamb leg on a serving platter and present to your guests.",
+    "flambé the dish by igniting the flambe sauce with a match or lighter, and then extinguish the flames with a spoon.",
+    "serve the lamb hot, garnished with fresh herbs and a side of the sugar mixture.",
+    "serve the dish with a side of roasted vegetables, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "flambe",
+    "lamb",
+    "post-workout",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 120,
+    "carbs": 120,
+    "fat": 80
+  },
+  "slug": "kissed-and-gooey-uruguayan-lamb-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-and-gooey-uruguayan-lamb-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:18:17Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "flambe",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed and gooey",
+    "dishForm": "Bake"
+  }
+}
