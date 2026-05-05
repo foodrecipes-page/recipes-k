@@ -1,0 +1,83 @@
+{
+  "title": "Kissed with Coriander Italian Veal Ossobuco",
+  "description": "A Low-fat Friendly, Post-Workout Italian Dish Featuring Coriander Seeds, Fold, and Low-fat-friendly, Inspired by Liguria, Featuring Butter and a Savory Flavor Profile. This Classic Italian Dish is Perfect for a Weeknight Dinner.",
+  "cuisine": "Italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal Shanks",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Ligurian Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Seeds",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and pepper.",
+    "Heat the ligurian olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 5 minutes per side.",
+    "Transfer the veal shanks to a plate and set aside.",
+    "Add the ground coriander seeds to the pot and cook for 1 minute, stirring constantly.",
+    "Add the white wine and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Return the veal shanks to the pot and add the beef broth, bay leaves, and thyme.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 hours, or until the meat is tender and falling off the bone.",
+    "Let the veal shanks rest for 10 minutes before slicing them thinly against the grain.",
+    "Serve the veal shanks with the rich and flavorful sauce spooned over the top.",
+    "Garnish with fresh parsley and serve with a side of saut\u00166ed spinach.",
+    "prepTimeMin\":30,",
+    "cookTimeMin\":150,",
+    "totalTimeMin\":180,",
+    "servings\":4,",
+    "difficulty\":\"medium",
+    ",",
+    "tags':['italian', 'post-workout', 'coriander', 'ossobuco', 'low-fat', 'winter', 'special occasions', 'weeknight']",
+    ",",
+    "nutrition\":{\"calories\":350,",
+    "protein\":25,",
+    "carbs\":20,",
+    "fat\":15}}]"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "tags": [
+    "italian",
+    "dinner"
+  ],
+  "slug": "kissed-with-coriander-italian-veal-ossobuco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-coriander-italian-veal-ossobuco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:42:52Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "fold",
+    "primaryIngredient": "coriander seeds",
+    "diet": "low-fat",
+    "region": "ligurian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Kissed with Coriander",
+    "dishForm": "Ossobuco"
+  }
+}

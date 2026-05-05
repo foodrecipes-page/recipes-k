@@ -1,0 +1,118 @@
+{
+  "title": "Kissed Indian White Fish Undhiyu",
+  "description": "An indulgent and creamy Indian dish featuring roasted white fish in a rich Undhiyu-style sauce, perfect for a date night in. This dish is a twist on the traditional Gujarati recipe.",
+  "cuisine": "gujarati",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White fish fillets",
+      "amount": "4 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kokum powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the white fish fillets with salt and set aside.",
+    "Heat the butter in a large skillet over medium heat and add the cumin seeds and coriander seeds. Let sizzle for 1 minute.",
+    "Add the garam masala, turmeric, and kokum powder to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the water to the skillet and bring to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Add the heavy cream to the skillet and stir to combine.",
+    "Add the diced tomatoes to the skillet and stir to combine.",
+    "Add the white fish fillets to the skillet and spoon some of the Undhiyu sauce over the top of each fillet.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the fish is cooked through and flakes easily with a fork.",
+    "Remove the skillet from the oven and garnish with chopped cilantro, if desired.",
+    "Serve the Kissed Indian White Fish Undhiyu hot, garnished with additional cilantro if desired.",
+    "Refrigerate any leftovers for up to 3 days or freeze for up to 2 months.",
+    "To reheat, thaw overnight in the refrigerator and reheat in the oven at 350°F (175°C) for 10-15 minutes, or until warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "creamy",
+    "date-night",
+    "fish",
+    "gujarati",
+    "indian",
+    "rich",
+    "sattvic",
+    "undhiyu"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kissed-indian-white-fish-undhiyu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indian-white-fish-undhiyu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "creamy",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "white fish",
+    "diet": "satvik",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "White Fish",
+    "descriptor": "Kissed",
+    "dishForm": "Undhiyu"
+  }
+}

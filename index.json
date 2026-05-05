@@ -2639,6 +2639,23 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-indian-white-fish-undhiyu",
+    "title": "Kissed Indian White Fish Undhiyu",
+    "tags": [
+      "creamy",
+      "date-night",
+      "fish",
+      "gujarati",
+      "indian",
+      "rich",
+      "sattvic",
+      "undhiyu"
+    ],
+    "cuisine": "gujarati",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-indulgent-polish-yautia-bake",
     "title": "Kissed Indulgent Polish Yautia Bake",
     "tags": [
@@ -4552,6 +4569,17 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 280,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-coriander-italian-veal-ossobuco",
+    "title": "Kissed with Coriander Italian Veal Ossobuco",
+    "tags": [
+      "italian",
+      "dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
