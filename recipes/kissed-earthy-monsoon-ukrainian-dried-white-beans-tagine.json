@@ -1,0 +1,92 @@
+{
+  "title": "kissed earthy monsoon ukrainian dried white beans tagine",
+  "description": "a hearty, earthy, pillowy dish inspired by the monsoon season in ukraine, featuring dried white beans cooked in a tagine, suitable for ayurvedic and sattvic diets",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white beans",
+      "amount": "1 cup",
+      "notes": "such as ghee or coconut oil",
+      "},{": "name",
+      "amount  ": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "garlic",
+      "notes": "minced",
+      "},{": "3 cloves"
+    },
+    {
+      "name": "carrots",
+      "amount": "fresh parsley",
+      "notes": "chopped",
+      "},{": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the oil in the bottom of a clay or ceramic tagine over medium heat.",
+    "add the onions and cook until softened, about 5 minutes.",
+    "add the garlic and cook for 1 minute.",
+    "add the carrots and cook for 2 minutes.",
+    "add the cumin, coriander, cayenne pepper, and turmeric, and cook for 1 minute.",
+    "add the dried white beans, water, and vegetable broth, and bring to a boil.",
+    "reduce the heat to low and simmer, covered, for 30 minutes, or until the beans are tender.",
+    "season with salt and black pepper to taste.",
+    "stir in the lemon juice and parsley.",
+    "serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "comfort-food",
+    "high-fiber",
+    "monsoon",
+    "one-pot",
+    "sattvic",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 17,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-earthy-monsoon-ukrainian-dried-white-beans-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-monsoon-ukrainian-dried-white-beans-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:12Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "tagine-cook",
+    "primaryIngredient": "dried white beans",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "monsoon ukrainian",
+    "mainIngredient": "dried white beans",
+    "descriptor": "kissed earthy",
+    "dishForm": "tagine"
+  }
+}

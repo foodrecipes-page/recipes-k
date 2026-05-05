@@ -2074,6 +2074,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-earthy-monsoon-ukrainian-dried-white-beans-tagine",
+    "title": "kissed earthy monsoon ukrainian dried white beans tagine",
+    "tags": [
+      "ayurvedic",
+      "comfort-food",
+      "high-fiber",
+      "monsoon",
+      "one-pot",
+      "sattvic",
+      "ukrainian"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 65,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-earthy-spanish-mackerel-ensaimada",
     "title": "Kissed Earthy Spanish Mackerel Ensaimada",
     "tags": [
@@ -2620,6 +2636,25 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-jamaican-amaretti-fried",
+    "title": "Kissed Jamaican Amaretti Fritters",
+    "tags": [
+      "air-fry",
+      "amaretti",
+      "easy-recipe",
+      "fodmap-friendly",
+      "fried",
+      "fritters",
+      "high-protein",
+      "jamaican",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -3551,6 +3586,21 @@
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-silky-hangover-cure-indian-duck-confit-leg-skillet",
+    "title": "Kissed silky hangover-cure Indian Duck-confit-leg Skillet",
+    "tags": [
+      "breakfast",
+      "brunch",
+      "comfort-food",
+      "hangover-cure",
+      "indian",
+      "one-pan"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {

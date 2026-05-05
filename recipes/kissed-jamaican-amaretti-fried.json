@@ -1,0 +1,148 @@
+{
+  "title": "Kissed Jamaican Amaretti Fritters",
+  "description": "Pungent, fluffy, crowd-pleasing Jamaican fried treats featuring amaretti, air-fried, and fodmap-friendly, perfect as a dessert or snack.",
+  "cuisine": "jamaican",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1 cup (about 12)",
+      "notes": "crushed, chopped or ground works as well"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "ground, powdered or crystallized"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine almond flour, crushed amaretti cookies, coconut sugar, salt, and spices.",
+    "In a separate bowl, whisk together eggs, coconut milk, and vanilla extract.",
+    "Gradually add the wet ingredients to the dry ingredients and mix until a smooth dough forms.",
+    "Cover the dough and refrigerate for at least 30 minutes.",
+    "Preheat the air fryer to 400°F (200°C).",
+    "Line the air fryer basket with parchment paper or a silicone mat.",
+    "Using a small cookie scoop or spoon, drop small balls of dough onto the prepared basket.",
+    "Gently flatten the dough balls slightly with your fingers or the back of a spoon.",
+    "Sprinkle toasted coconut flakes over the tops of the fritters.",
+    "Air fry the fritters for 8-10 minutes, shaking halfway through, until golden brown and crispy.",
+    "Remove from the air fryer and let cool slightly on a wire rack.",
+    "Serve warm, dust with powdered sugar, and enjoy!",
+    "Store leftovers in an airtight container at room temperature for up to 3 days or freeze for up to 2 months.",
+    "When ready to serve, simply thaw and reheat in a toaster oven or air fryer until crispy and warm.",
+    "Note: To make ahead, assemble the dough and refrigerate up to 24 hours before air frying.",
+    "To make a double batch, simply double all ingredients and adjust air fryer cooking time as needed.",
+    "To make these fritters gluten-free, be sure to use gluten-free almond flour and check the ingredients of the amaretti cookies for gluten.",
+    "To make these fritters dairy-free, substitute coconut milk with your preferred non-dairy milk and be mindful of the amaretti cookies' ingredients.",
+    "Don't overcrowd the air fryer basket for even cooking, cook in batches if necessary.",
+    "Use a thermometer to ensure the air fryer reaches the correct temperature for crispy fritters.",
+    "If using a convection oven, bake at 375°F (190°C) for 15-20 minutes, or until golden brown and crispy.",
+    "Make sure to not overmix the dough to prevent tough fritters.",
+    "Use a parchment-lined baking sheet to bake in a conventional oven if air frying is not an option.",
+    "Don't overbake or underbake the fritters, aim for a golden brown color and crispy exterior."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "amaretti",
+    "easy-recipe",
+    "fodmap-friendly",
+    "fried",
+    "fritters",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 32,
+    "fat": 12
+  },
+  "slug": "kissed-jamaican-amaretti-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-jamaican-amaretti-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:24:15Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "amaretti",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "amaretti",
+    "descriptor": "Kissed",
+    "dishForm": "Fried"
+  }
+}
