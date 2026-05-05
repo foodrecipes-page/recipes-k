@@ -1,0 +1,127 @@
+{
+  "title": "Kissed Indian Semolina Pakora",
+  "description": "A romantic and light Indian dish featuring roasted semolina, ideal for sharing or a special occasion.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Gram Flour",
+      "amount": "1 cup",
+      "notes": "Also known as chickpea flour."
+    },
+    {
+      "name": "Baking Soda",
+      "amount": "1/2 teaspoon",
+      "notes": "",
+      "value": 1
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "",
+      "value": 1
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "",
+      "value": 1
+    },
+    {
+      "name": "Ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "Grated, from fresh ginger.",
+      "value": 0.5
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "Ground, or substitute with coriander powder.",
+      "value": 0.5
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced, from fresh garlic.",
+      "value": 1.0
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup",
+      "notes": "For frying, or substitute with vegan oil."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "Approximate."
+    },
+    {
+      "name": "Yogurt",
+      "amount": "2 tablespoons",
+      "notes": "For serving, optional."
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a deep frying pan over medium heat.",
+    "In a large mixing bowl, whisk together the semolina, gram flour, baking soda, baking powder, and salt.",
+    "Add the ginger, cumin, and garlic to the dry ingredients and mix well.",
+    "Gradually add the water to the dry ingredients and mix until a smooth batter forms.",
+    "The batter should still be slightly thick. If needed, add a little more water.",
+    "Cover the bowl with a damp cloth and let it rest for 30 minutes.",
+    "Heat the oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the batter into the hot oil, about 1-2 tablespoons each.",
+    "Fry the pakoras until they are golden brown and puffed up, about 2-3 minutes on each side.",
+    "Using a slotted spoon, remove the pakoras from the oil and place them on a paper towel-lined plate.",
+    "Serve the Kissed Indian Semolina Pakora hot with a dollop of yogurt, if desired.",
+    "You can also serve with a side of chutney or raita for added flavor.",
+    "Enjoy your delicious and romantic Kissed Indian Semolina Pakora!",
+    "For a raw-friendly version, use raw honey or maple syrup as a substitute for sugar, and be sure to handle the ingredients safely.",
+    "Be careful when handling hot oil and take necessary precautions to avoid burns."
+  ],
+  "prepTimeMin": 60,
+  "cookTimeMin": 20,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "finger-food",
+    "gluten-free",
+    "indian",
+    "romantic",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-indian-semolina-pakora",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indian-semolina-pakora",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "semolina",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "semolina",
+    "descriptor": "Kissed",
+    "dishForm": "Pakora"
+  }
+}
