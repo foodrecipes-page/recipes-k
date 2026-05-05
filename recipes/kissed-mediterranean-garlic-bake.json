@@ -1,0 +1,116 @@
+{
+  "title": "Kissed Mediterranean Garlic Bake",
+  "description": "A garlicky, crumbly, and flavorful Mediterranean dish featuring muscovado sugar, ideal for a healthy and low-glycemic-friendly meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "healthy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Muscovado sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Extra-virgin olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "1 loaf",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, whisk together muscovado sugar, olive oil, garlic, parsley, feta cheese, olives, artichoke hearts, salt, black pepper, Greek seasoning, and dried oregano.",
+    "Transfer the mixture to a 9x13-inch baking dish and crumble the crusty bread on top.",
+    "Bake for 25 minutes or until the bread is golden brown and the flavors are fully absorbed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-glycemic",
+    "mediterranean",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "kissed-mediterranean-garlic-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mediterranean-garlic-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:47:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "brine-dry",
+    "primaryIngredient": "muscovado sugar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "garlic",
+    "descriptor": "Kissed",
+    "dishForm": "Bake"
+  }
+}
