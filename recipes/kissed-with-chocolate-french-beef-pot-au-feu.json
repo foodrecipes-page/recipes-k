@@ -1,0 +1,122 @@
+{
+  "title": "Kissed with Chocolate French Beef Pot-au-Feu",
+  "description": "A sweet and comforting French dish featuring tender beef, rich broth, and molten white chocolate chips. Perfect for a lazy Sunday afternoon.",
+  "cuisine": "French",
+  "diet": [
+    "Ayurvedic",
+    "Tamasic-Friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Beef Short Ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "White Chocolate Chips",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine beef short ribs, vegetable broth, carrots, celery, onion, garlic, thyme, salt, and black pepper in a large pot-au-feu pot or Dutch oven. Bring to a boil over high heat, then reduce the heat to low and simmer for 2 hours, or until the beef is tender.",
+    "Remove the beef from the pot and set it aside to cool. Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the white chocolate chips to the broth and stir until they are melted and the mixture is smooth.",
+    "Return the beef to the pot and stir to coat with the chocolate broth.",
+    "Melt the butter in a small saucepan over medium heat. Whisk in the flour to make a roux, cooking for 1 minute. Gradually whisk in the red wine, bringing the mixture to a simmer and cooking until it has thickened slightly. Stir the roux into the chocolate broth and cook for 2 minutes, or until the sauce has thickened to your liking.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Serve the beef and chocolate broth hot, garnished with fresh thyme if desired.",
+    "Let the dish rest for 10 minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 250,
+  "totalTimeMin": 280,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "chocolate",
+    "comfort-food",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 1440,
+    "protein": 90,
+    "carbs": 180,
+    "fat": 60
+  },
+  "slug": "kissed-with-chocolate-french-beef-pot-au-feu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-chocolate-french-beef-pot-au-feu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:27:00Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "molten",
+    "mood": "lazy-sunday",
+    "technique": "reduce",
+    "primaryIngredient": "white chocolate chips",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed with Chocolate",
+    "dishForm": "Pot-au-Feu"
+  }
+}
