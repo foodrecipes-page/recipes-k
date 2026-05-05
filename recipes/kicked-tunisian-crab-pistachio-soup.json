@@ -1,0 +1,67 @@
+{
+  "title": "Kicked Tunisian Crab Pistachio Soup",
+  "description": "A pungent, light soup featuring seafood stock, spherified crab meat, and pistachios. Pescatarian-friendly, perfect for a sick-day meal.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crab Meat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pistachios",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Blend crab meat with garlic and onion to make a paste.",
+    "In a pot, simmer the paste with chicken or vegetable broth until thickened.",
+    "Spherify the crab paste using sodium alginate and calcium chloride for texture.",
+    "Add pistachios into the soup for added flavor and color.",
+    "Serve hot garnished with fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "light",
+    "pescatarian",
+    "spherified",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 280,
+    "protein": 19,
+    "carbs": 35,
+    "fat": 11
+  },
+  "slug": "kicked-tunisian-crab-pistachio-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-tunisian-crab-pistachio-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T17:06:07Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "light",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "seafood stock",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Crab",
+    "descriptor": "Pistachio",
+    "dishForm": "Soup"
+  }
+}
