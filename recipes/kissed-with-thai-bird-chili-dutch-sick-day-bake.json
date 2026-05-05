@@ -1,0 +1,151 @@
+{
+  "title": "Kissed with Thai-bird-chili Dutch sick-day Bake",
+  "description": "A tangy and chewy Dutch-inspired bake with a spicy kick, perfect for a sick day. Made in a wood-fired oven for that authentic crust.",
+  "cuisine": "Dutch",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Thai bird chilies",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Almond meal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking soda",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pistachio meal",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chocolate chips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a wood-fired oven to 375°F (190°C).",
+    "In a medium bowl, whisk together the almond meal, coconut oil, eggs, Greek yogurt, honey, shredded coconut, vanilla extract, salt, baking soda, Korean chili flakes, cinnamon, nutmeg, and cardamom.",
+    "In a separate bowl, mix together the pistachio meal, chocolate chips, and sliced almonds.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Pour the batter into a greased Korean brass bowl or a 6-inch round cake pan.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove the bake from the oven and let it cool for 10 minutes.",
+    "Slice the bake into 8-10 pieces and serve warm.",
+    "Garnish with sliced Thai bird chilies, if desired.",
+    "Serve immediately, dust with powdered sugar or coconut flakes, if desired.",
+    "Store leftovers in an airtight container at room temperature for up to 3 days.",
+    "Reheat individual servings in the microwave or oven as needed.",
+    "Note: If using a conventional oven, bake at 350°F (180°C) for 40-45 minutes, or until a toothpick inserted into the center comes out clean."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy-to-make",
+    "low-carb",
+    "one-pan",
+    "sick-day",
+    "spicy",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-with-thai-bird-chili-dutch-sick-day-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-thai-bird-chili-dutch-sick-day-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "sick-day",
+    "descriptor": "Kissed with Thai-bird-chili",
+    "dishForm": "Bake"
+  }
+}
