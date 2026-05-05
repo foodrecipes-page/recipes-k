@@ -1532,6 +1532,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-canadian-andouille-toast",
+    "title": "Kissed Canadian Andouille Toast",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "easy",
+      "gluten-free",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-canadian-daikon-hash",
     "title": "Kissed Canadian Daikon Hash",
     "tags": [

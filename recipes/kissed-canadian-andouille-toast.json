@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Canadian Andouille Toast",
+  "description": "A lazy Sunday breakfast dish featuring Canadian-style Andouille sausage, served on toasted bread with a creamy, yeasty sauce.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian-style Andouille sausage",
+      "amount": "4 links",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting the bread"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "warmed, for serving"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "cracked black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the Andouille sausage links in the oven for 10 minutes, or until browned.",
+    "Remove the sausage from the oven and set aside to cool.",
+    "Meanwhile, toast 4 slices of bread until lightly browned, then rub them with a clove of garlic and sprinkle with a pinch of salt."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "easy",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "kissed-canadian-andouille-toast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-andouille-toast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:46:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "velvety",
+    "mood": "lazy-sunday",
+    "technique": "toast",
+    "primaryIngredient": "andouille-french",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Andouille",
+    "descriptor": "Kissed",
+    "dishForm": "Toast"
+  }
+}
