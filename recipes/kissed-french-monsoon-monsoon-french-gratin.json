@@ -1,0 +1,111 @@
+{
+  "title": "Kissed French Monsoon Monsoon French Gratin",
+  "description": "A fermented and crisp French dish featuring vegan white wine vinegar and vegan-friendly ingredients in a gratin form, best served with a side of fresh vegetables.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monsoon French bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Vegan white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": "fermented vinegar, add depth of flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup",
+      "notes": "for frying and moisture"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "1 medium",
+      "notes": "sauteed until caramelized"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced for flavor"
+    },
+    {
+      "name": "Chopped mushrooms",
+      "amount": "1 cup",
+      "notes": "fry until crispy"
+    },
+    {
+      "name": "Chopped bell peppers",
+      "amount": "1 medium",
+      "notes": "add crunch and sweetness"
+    },
+    {
+      "name": "Nutritional yeast",
+      "amount": "1 tsp",
+      "notes": "cheesy flavor, vegan substitute"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "enhance flavors"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 tsp",
+      "notes": "aromatic herb, add depth"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Fry the chopped onions and garlic in olive oil until caramelized.",
+    "Add the chopped mushrooms and bell peppers, fry until crispy.",
+    "In a separate bowl, mix the monsoon French bread, vegan white wine vinegar, nutritional yeast, and salt.",
+    "Pour the bread mixture into a baking dish and top with the fried vegetables.",
+    "Drizzle with olive oil and sprinkle with fresh thyme.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and bake for an additional 15 minutes, until golden brown.",
+    "Let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "fermented",
+    "gluten-free",
+    "gratin",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kissed-french-monsoon-monsoon-french-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-french-monsoon-monsoon-french-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "fry",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "Monsoon",
+    "descriptor": "Kissed",
+    "dishForm": "Monsoon French Gratin"
+  }
+}

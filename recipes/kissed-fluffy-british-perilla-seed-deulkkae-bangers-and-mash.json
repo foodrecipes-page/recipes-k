@@ -1,0 +1,112 @@
+{
+  "title": "Kissed, Fluffy British Perilla-Seed-Deulkkae Bangers and Mash",
+  "description": "A pungent and fluffy dish, perfect for post-workout British cuisine lovers, featuring perilla-seed-deulkkae and binchotan-charcoal.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "anti-inflammatory",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Perilla seed oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Deulkkae seeds",
+      "amount": "2 teaspoons",
+      "notes": "Available at most Asian grocery stores or online."
+    },
+    {
+      "name": "Binchotan charcoal powder",
+      "amount": "1 teaspoon",
+      "notes": "Makes dish anti-inflammatory and gives a unique smoky flavor."
+    },
+    {
+      "name": "British-style sausages",
+      "amount": "4",
+      "notes": "Use a mix of pork and beef for a traditional flavor."
+    },
+    {
+      "name": "Celeriac mash",
+      "amount": "1 medium",
+      "notes": "Celeriac is a low-calorie alternative to regular potatoes."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince before adding to mash."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/2 cup",
+      "notes": "Chop before adding on top."
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kombu dashi broth",
+      "amount": "1 cup",
+      "notes": "Available at most Asian grocery stores or online."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of perilla seed oil in a large frying pan over medium heat.",
+    "Add 2 teaspoons of deulkkae seeds and cook for 1 minute, stirring constantly.",
+    "Add the binchotan charcoal powder and stir for another minute.",
+    "Add the British-style sausages and cook for 5 minutes, flipping occasionally.",
+    "Add the kombu dashi broth and cook for another 3 minutes.",
+    "While the sausages cook, boil the celeriac in a large pot of water until tender.",
+    "Mash the celeriac with 2 tablespoons of honey, 3 minced garlic cloves, and salt and pepper to taste.",
+    "Once the sausages are cooked, slice them and serve on top of the celeriac mash, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 37,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "kissed-fluffy-british-perilla-seed-deulkkae-bangers-and-mash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-british-perilla-seed-deulkkae-bangers-and-mash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:36:24Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "perilla-seed-deulkkae",
+    "descriptor": "kissed, fluffy",
+    "dishForm": "Bangers and Mash"
+  }
+}

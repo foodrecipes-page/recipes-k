@@ -2287,6 +2287,18 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-fluffy-british-perilla-seed-deulkkae-bangers-and-mash",
+    "title": "Kissed, Fluffy British Perilla-Seed-Deulkkae Bangers and Mash",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-fluffy-spanish-beans-stew",
     "title": "Kissed Fluffy Spanish Beans Stew",
     "tags": [
@@ -2324,6 +2336,22 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-french-monsoon-monsoon-french-gratin",
+    "title": "Kissed French Monsoon Monsoon French Gratin",
+    "tags": [
+      "easy-to-make",
+      "fermented",
+      "gluten-free",
+      "gratin",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
