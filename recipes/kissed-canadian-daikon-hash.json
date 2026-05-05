@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Canadian Daikon Hash",
+  "description": "A rich and crunchy Canadian dish featuring daikon, lardons, and a touch of maple syrup. Perfect for meal prep and a low-fat-friendly option for any meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Daikon Radish",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Bacon Lardons",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Maple Syrup",
+      "amount": "2 teaspoons",
+      "notes": "grade A, pure"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher, flaky"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add the lardons and cook until crispy, about 4 minutes.",
+    "Remove the lardons from the skillet and set aside.",
+    "Add the diced onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the diced daikon to the skillet and cook until slightly tender, about 3-4 minutes.",
+    "Return the lardons to the skillet and stir to combine.",
+    "Sprinkle the kosher salt and freshly ground pepper to taste.",
+    "Drizzle the maple syrup over the daikon mixture and stir to combine.",
+    "Transfer the mixture to a serving dish and garnish with chopped parsley, if desired.",
+    "Serve warm, garnished with additional parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "canadian",
+    "low-fat",
+    "meal-prep",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "kissed-canadian-daikon-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-daikon-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "daikon",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "daikon",
+    "descriptor": "Kissed",
+    "dishForm": "Hash"
+  }
+}

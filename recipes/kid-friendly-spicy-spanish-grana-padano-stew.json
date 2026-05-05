@@ -1,0 +1,125 @@
+{
+  "title": "Kid-Friendly Spicy Spanish Grana Padano Stew",
+  "description": "A spicy, comforting Spanish stew made with tender beef, vegetables, and melted grana padano, perfect for kids who love a little heat.",
+  "cuisine": "Spanish",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "14.5 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cazuela over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the red bell pepper and cook for 2 minutes, until tender.",
+    "Add the chorizo and cook for 2 minutes, until browned.",
+    "Add the diced tomatoes, beef broth, paprika, salt, and black pepper. Stir to combine.",
+    "Add the grated Grana Padano cheese and stir until melted and well combined.",
+    "Bring the stew to a simmer and cook for 20-25 minutes, until the flavors have melded together and the beef is tender.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casual",
+    "comfort-food",
+    "kid-friendly",
+    "one-pan",
+    "spanish",
+    "stew",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "kid-friendly-spicy-spanish-grana-padano-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-spicy-spanish-grana-padano-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:42Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "grana-padano",
+    "diet": "dash",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Grana Padano",
+    "descriptor": "Kid-Friendly Spicy",
+    "dishForm": "Stew"
+  }
+}

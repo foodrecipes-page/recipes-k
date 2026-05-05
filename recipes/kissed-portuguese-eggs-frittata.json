@@ -1,0 +1,92 @@
+{
+  "title": "kissed portuguese eggs frittata",
+  "description": "jammy, chewy, energizing dish featuring sake-cooking and egg-free-friendly alternatives, perfect for breakfast or brunch",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": "for flavor and moisture"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "freshly ground",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the chickpea flour and vegetable oil until well combined.",
+    "In a separate bowl, whisk together the almond milk and sake.",
+    "Add the wet ingredients to the dry ingredients and stir until smooth.",
+    "Heat the olive oil in a non-stick skillet over medium heat.",
+    "Pour in the batter and let it cook for 2-3 minutes, until the edges start to set.",
+    "Distribute the diced tomatoes evenly over the batter, then use a spatula to gently lift and fold the edges of the frittata towards the center, allowing the uncooked batter to flow to the edges.",
+    "Return the skillet to the heat and cook for another 2-3 minutes, until the edges are set and the center is still slightly jiggly.",
+    "Transfer the skillet to the oven and bake at 375°F for 15-20 minutes, until the frittata is puffed and lightly golden.",
+    "Remove the skillet from the oven and garnish with chopped parsley, salt, and pepper to taste.",
+    "Let the frittata cool for a few minutes before slicing it into wedges and serving.",
+    "Serve warm or at room temperature, either on its own or with your favorite sides or toppings.",
+    "Experiment with different flavor combinations by adding various herbs, spices, or other ingredients to the frittata batter or toppings.",
+    "Storage: Store leftovers in an airtight container in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "eggs-free",
+    "gluten-free",
+    "portuguese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kissed-portuguese-eggs-frittata",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-portuguese-eggs-frittata",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "dehydrate",
+    "primaryIngredient": "sake-cooking",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "eggs",
+    "descriptor": "kissed",
+    "dishForm": "frittata"
+  }
+}

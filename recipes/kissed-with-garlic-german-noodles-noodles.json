@@ -1,0 +1,74 @@
+{
+  "title": "Garlic German Noodles",
+  "description": "A comforting, umami-rich dish featuring rice stick noodles and lamination-puff, perfect for a sick day.\nThis dish is a creative take on traditional German cuisine, adapted to be FODMAP-friendly.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "120g",
+      "notes": "preferably day-old, broken into small pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "60g",
+      "notes": "softened"
+    }
+  ],
+  "instructions": [
+    "Cook rice stick noodles according to package instructions until al dente.",
+    "Melt 30g of unsalted butter in a 28cm kadhai over medium heat.",
+    "Add minced garlic and sauté for 2-3 minutes, until fragrant and lightly golden.",
+    "Add broken lamination-puff to the kadhai and stir to coat with butter and garlic mixture.",
+    "Pour in cooked rice stick noodles, stirring to combine with the butter and puff mixture.",
+    "Reduce heat to low and simmer for 5-7 minutes, allowing the noodles to absorb the flavors.",
+    "Season with salt to taste, then serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "fodmap-friendly",
+    "german",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 34,
+    "carbs": 90,
+    "fat": 46
+  },
+  "slug": "kissed-with-garlic-german-noodles-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-garlic-german-noodles-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:36Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "lamination-puff",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "noodles",
+    "descriptor": "Kissed with garlic",
+    "dishForm": "Noodles"
+  }
+}

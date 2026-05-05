@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Crisp Northern-Irish Bread Toasted Sandwich",
+  "description": "A briny, crisp, date-night bread toasted sandwich, inspired by British Northern-Irish cuisine, with a focus on shojin-friendly ingredients and flavors.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Double Rise Northern Irish Bread",
+      "amount": "2 slices",
+      "notes": "Homemade or store-bought, crusty on the outside, airy on the inside."
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Thinly sliced for crunch and refreshment."
+    },
+    {
+      "name": "Rashers of Irish Smoked Bacon",
+      "amount": "4",
+      "notes": "Crispy, smoky, and utterly delicious."
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "2 slices",
+      "notes": "Smooth and creamy, a perfect complement to the brininess of the bacon."
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": "Finely chopped for added depth of flavor."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tsp",
+      "notes": "Unsalted for a cleaner taste."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "To taste, for a touch of warmth."
+    },
+    {
+      "name": "Champagne Vinegar",
+      "amount": "1 tsp",
+      "notes": "A drizzle of tanginess to balance the richness."
+    },
+    {
+      "name": "Fresh Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "To taste, for added depth."
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to a medium heat, around 275°F.",
+    "Toast the bread slices until they are golden brown and crispy.",
+    "Meanwhile, cook the Irish smoked bacon in a pan until crispy.",
+    "Layer the cucumber slices on top of the toasted bread, followed by a slice of cheese, a few pieces of crispy bacon, and a sprinkle of chives."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "kissed-crisp-northern-irish-bread-toasted-sandwich",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-northern-irish-bread-toasted-sandwich",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:21:22Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "chives",
+    "diet": "shojin",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern-Irish",
+    "mainIngredient": "Bread",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Toasted Sandwich"
+  }
+}

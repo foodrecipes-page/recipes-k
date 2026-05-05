@@ -852,6 +852,22 @@
     "shard": "k"
   },
   {
+    "slug": "kid-friendly-spicy-spanish-grana-padano-stew",
+    "title": "Kid-Friendly Spicy Spanish Grana Padano Stew",
+    "tags": [
+      "casual",
+      "comfort-food",
+      "kid-friendly",
+      "one-pan",
+      "spanish",
+      "stew",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kielbasini-paleo",
     "title": "Kielbasini Paleo",
     "tags": [
@@ -1467,6 +1483,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-canadian-daikon-hash",
+    "title": "Kissed Canadian Daikon Hash",
+    "tags": [
+      "breakfast",
+      "canadian",
+      "low-fat",
+      "meal-prep",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-canadian-egg-tart",
     "title": "Kissed Canadian Egg Tart",
     "tags": [
@@ -1669,6 +1700,19 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 32,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crisp-northern-irish-bread-toasted-sandwich",
+    "title": "Kissed Crisp Northern-Irish Bread Toasted Sandwich",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -3251,6 +3295,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-portuguese-eggs-frittata",
+    "title": "kissed portuguese eggs frittata",
+    "tags": [
+      "breakfast",
+      "eggs-free",
+      "gluten-free",
+      "portuguese",
+      "vegetarian"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-portuguese-samphire-gratin",
     "title": "Kissed Portuguese Samphire Gratin",
     "tags": [
@@ -4314,6 +4372,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-garlic-german-noodles-noodles",
+    "title": "Garlic German Noodles",
+    "tags": [
+      "comfort-food",
+      "easy-to-make",
+      "fodmap-friendly",
+      "german",
+      "sick-day"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
