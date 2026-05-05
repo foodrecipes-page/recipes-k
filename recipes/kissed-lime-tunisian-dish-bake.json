@@ -1,0 +1,90 @@
+{
+  "title": "kissed lime tunisian dish bake",
+  "description": "a low-carb-friendly, date-night tunisian dish featuring lime, baked in a wok with a hint of romance\nperfect for a quiet evening with your loved one",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "yellow squash",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": false
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400f",
+    "in a wok, heat the olive oil over medium-high heat",
+    "add the chicken breast fillets and cook until browned on both sides, about 5 minutes",
+    "add the zucchini, yellow squash, and red bell pepper to the wok and cook for an additional 3 minutes",
+    "stir in the green olives, artichoke hearts, lime juice, cumin, and almond flour",
+    "transfer the wok to the preheated oven and bake for 15 minutes",
+    "remove from the oven and top with feta cheese",
+    "serve hot, garnished with fresh parsley",
+    "enjoy your kissed lime tunisian dish bake!",
+    "let the dish rest for 5 minutes before serving",
+    "serve with a side of roasted vegetables or a green salad for a complete meal"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "tunisian",
+    "weeknight",
+    "wok-seared"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-lime-tunisian-dish-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-lime-tunisian-dish-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:20:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "lime",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "tunisian",
+    "mainIngredient": "dish",
+    "descriptor": "kissed lime",
+    "dishForm": "bake"
+  }
+}
