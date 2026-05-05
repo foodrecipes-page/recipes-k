@@ -1,0 +1,130 @@
+{
+  "title": "Kissed with Herbs Greek Goat Bamboo Steamer Moussaka",
+  "description": "A fresh, springy, and energizing Greek dish featuring goat meat, double-rise bread, and a paleo-friendly twist in a bamboo steamer moussaka format.",
+  "cuisine": "Greek",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound goat meat (lean cut)",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 medium onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "2 medium tomatoes",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 cup fresh parsley",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "1 cup fresh dill",
+      "amount": "chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "4 slices double-rise bread",
+      "amount": "",
+      "notes": "for croutons"
+    },
+    {
+      "name": "1 cup grated feta (dairy-free alternative recommended for paleo diet)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a bamboo steamer over boiling water.",
+    "Season the goat meat with salt and pepper.",
+    "Heat the olive oil in a large skillet and cook the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped tomatoes and cook until they start to break down.",
+    "Add the dried oregano and thyme, and stir to combine.",
+    "Add the chopped goat meat and cook until browned, breaking it up with a spoon as needed.",
+    "Transfer the meat mixture to a separate dish and set aside.",
+    "Brush the slices of double-rise bread with olive oil and toast until crispy, breaking them into crumbs.",
+    "In a separate pot of boiling water, blanch the chopped parsley and dill for 1-2 minutes to preserve their color and texture.",
+    "Drain the herbs and chop them finely.",
+    "To assemble the moussaka, layer the meat mixture, croutons, and blanched herbs in the bamboo steamer.",
+    "Drizzle with olive oil and serve hot.",
+    "Garnish with additional parsley and dill, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "goatmeat",
+    "greeksupper",
+    "moussaka",
+    "paleodinner",
+    "steamer"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-with-herbs-greek-goat-bamboo-steamer-moussaka",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-herbs-greek-goat-bamboo-steamer-moussaka",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:41:56Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "goat meat",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "goat",
+    "descriptor": "Kissed with Herbs",
+    "dishForm": "Bamboo Steamer Moussaka"
+  }
+}
