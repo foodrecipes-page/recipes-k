@@ -1,0 +1,124 @@
+{
+  "title": "Keto-Friendly Gooey Korean Prawns Stew",
+  "description": "A pungent, gooey, sick-day Polish dish featuring raw king prawns, made with a keto-friendly twist, all cooked to perfection in a ttukbaegi earthenware pot.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto",
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Raw King Prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Pork Belly Fat or Bacon",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Low-Carb Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Korean Chili Paste (gochugaru)",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Keto-Friendly Korean Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Low-Carb Sesame Oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add the raw king prawns and cook until pink, about 2 minutes per side.",
+    "Remove the prawns from the pot and set aside.",
+    "Add the Pork Belly Fat or Bacon and cook until crispy, about 3 minutes.",
+    "Add the Korean Chili Flakes, Gochujang, Fish Sauce, Scallions, Garlic, Pork Belly Fat or Bacon, Soy Sauce, Korean Chili Paste, and Keto-Friendly Korean Chili Powder to the pot.",
+    "Stir to combine and cook for 2 minutes.",
+    "Return the cooked prawns to the pot and stir to combine.",
+    "Cook for an additional 2 minutes, until the prawns are coated in the spicy sauce.",
+    "Garnish with Cilantro and serve hot.",
+    "Let the stew cool to room temperature before refrigerating or freezing for later use.",
+    "When reheating, add the low-carb Sesame Oil and stir to combine."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "korean",
+    "low-carb",
+    "one-pan",
+    "pescatarian",
+    "polish",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 25
+  },
+  "slug": "keto-friendly-and-gooey-korean-prawns-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-and-gooey-korean-prawns-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:03:41Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "raw king prawns",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "prawns",
+    "descriptor": "keto-friendly and gooey",
+    "dishForm": "stew"
+  }
+}
