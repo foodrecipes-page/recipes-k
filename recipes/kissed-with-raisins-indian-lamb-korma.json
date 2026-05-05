@@ -1,0 +1,112 @@
+{
+  "title": "Kissed with Raisins Indian Lamb Korma",
+  "description": "A classic Rajasthani dish featuring tender lamb, a rich sauce, and sweet raisins. Enjoy over basmati rice or with naan bread.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "raisins",
+      "amount": "50g",
+      "notes": "plump and sweet"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "yogurt",
+      "amount": "250g",
+      "notes": "plain, unflavored"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of ghee over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the grated ginger and cook for 1 minute, stirring constantly.",
+    "Add the cumin seeds, coriander powder, turmeric powder, and red chili powder. Cook for 1 minute, stirring constantly.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the yogurt and stir well to combine.",
+    "Add 250ml of water and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 1 hour, or until the lamb is tender.",
+    "Stir in the raisins and cook for an additional 5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot over basmati rice or with naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-food",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "kissed-with-raisins-indian-lamb-korma",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-raisins-indian-lamb-korma",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:13Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "cure",
+    "primaryIngredient": "raisins",
+    "diet": "macrobiotic",
+    "region": "rajasthani",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed with raisins",
+    "dishForm": "Korma"
+  }
+}
