@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Norwegian Lutefisk Bouillabaisse",
+  "description": "A fresh, crumbly, adventurous Norwegian dish featuring peanut oil, temper, and Ayurvedic-Rajasic-friendly ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lutefisk",
+      "amount": "2 cups, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium, peeled and chopped",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Mussels",
+      "amount": "2 pounds",
+      "notes": "scrubbed and debearded"
+    },
+    {
+      "name": "Clams",
+      "amount": "1 pound, scrubbed and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "dry, such as Sauvignon Blanc"
+    },
+    {
+      "name": "Furikake",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large stockpot, heat the peanut oil over medium heat.",
+    "Add the chopped fennel, carrots, and onions, and cook until the vegetables are tender, about 10 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mussels and clams, and cook until they start to open, about 5 minutes.",
+    "Pour in the white wine and stir to combine.",
+    "Add the lutefisk, chopped into 1-inch pieces, and stir to combine.",
+    "Season with furikake, if using.",
+    "Bring the broth to a simmer, then reduce the heat to low and cook, covered, for 10-15 minutes, or until the lutefisk is cooked through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bouillabaisse",
+    "dinner",
+    "lunch",
+    "norwegian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-norwegian-lutefisk-bouillabaisse",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-norwegian-lutefisk-bouillabaisse",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:23Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "peanut oil",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Lutefisk",
+    "descriptor": "Kissed",
+    "dishForm": "Bouillabaisse"
+  }
+}

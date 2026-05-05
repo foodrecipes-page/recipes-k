@@ -1,0 +1,88 @@
+{
+  "title": "Kid-friendly Italian Cheese Orecchiette",
+  "description": "A fun, cheesy pasta dish that kids love. This recipe is easy to make and can be adjusted to suit various dietary needs.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "kid-friendly",
+    "low-calorie"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "orecchiette pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups",
+      "notes": "whole milk or a non-dairy milk alternative"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded or sliced, your choice"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded or sliced, your choice"
+    },
+    {
+      "name": "buns (hot dog or hamburger)",
+      "amount": "4-6",
+      "notes": "for serving"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1/4 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Cook the orecchiette pasta according to the package instructions until al dente.",
+    "In a saucepan, heat the milk over medium heat until it starts to simmer.",
+    "Add the cheddar cheese to the milk and stir until melted and smooth.",
+    "Add the mozzarella cheese to the milk and stir until melted and smooth.",
+    "Combine the cooked pasta, cheese sauce, and buns in a large serving dish.",
+    "Serve the pasta hot with pickle slices on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "italian",
+    "kid-friendly",
+    "one-pan",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "slug": "kid-friendly-italian-cheese-orecchiette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-italian-cheese-orecchiette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:10:01Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "buns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cheese",
+    "descriptor": "Kid-friendly",
+    "dishForm": "Orecchiette"
+  }
+}

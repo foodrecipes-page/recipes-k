@@ -822,6 +822,21 @@
     "shard": "k"
   },
   {
+    "slug": "kid-friendly-italian-cheese-orecchiette",
+    "title": "Kid-friendly Italian Cheese Orecchiette",
+    "tags": [
+      "cheese",
+      "italian",
+      "kid-friendly",
+      "one-pan",
+      "pasta",
+      "weeknight"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kid-friendly-mediterranean-salt-cod-tagine",
     "title": "Kid Friendly Mediterranean Salt Cod Tagine",
     "tags": [
@@ -2980,6 +2995,20 @@
       "weeknight"
     ],
     "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-norwegian-lutefisk-bouillabaisse",
+    "title": "Kissed Norwegian Lutefisk Bouillabaisse",
+    "tags": [
+      "bouillabaisse",
+      "dinner",
+      "lunch",
+      "norwegian",
+      "seafood"
+    ],
+    "cuisine": "Norwegian",
     "totalTimeMin": 45,
     "shard": "k"
   },
