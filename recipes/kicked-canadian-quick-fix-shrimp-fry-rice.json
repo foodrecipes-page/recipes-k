@@ -1,0 +1,85 @@
+{
+  "title": "Kicked Canadian Quick-Fix Shrimp Fry-Rice",
+  "description": "A grassy and bouncy-qq quick-fix Canadian dish featuring jumbo shrimp, fry-grind-rice-khao-khua, gluten-free-friendly.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jumbo Shrimp",
+      "amount": "12"
+    },
+    {
+      "name": "Fry-Grind Rice Khao Kuha (gluten-free)",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "300ml"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Fresh Peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Soy Sauce (gluten-free)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large frying pan over medium-high heat.",
+    "Add shrimp, garlic, fresh peppercorns, soy sauce, and tomato sauce. Stir-fry for about 5 minutes until shrimp turn pink.",
+    "While stir-frying, add rice khao kuha to the pan and cook on low-medium heat for about 10-12 minutes, ensuring it's evenly cooked and tender but not mushy.",
+    "Remove from heat and squeeze lime juice over the top of the dish before serving.",
+    "Serve hot with steamed vegetables or a side salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bouncy-qq",
+    "canadian",
+    "gluten-free",
+    "grassy",
+    "kicked-dish",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 28,
+    "carbs": 41,
+    "fat": 16
+  },
+  "slug": "kicked-canadian-quick-fix-shrimp-fry-rice",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-canadian-quick-fix-shrimp-fry-rice",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T07:25:41Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "quick-fix",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "jumbo shrimp",
+    "descriptor": "Quick-Fixed",
+    "dishForm": "Fried-Rice"
+  }
+}
