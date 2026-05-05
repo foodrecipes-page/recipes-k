@@ -1,0 +1,112 @@
+{
+  "title": "Kissed Algerian Garlic Tagine",
+  "description": "A comforting and flavorful Algerian dish made with garlic granules, double-rise-bread, and a hint of sweetness, perfect for a cozy evening meal. This recipe is a twist on the classic tagine, with the addition of crunchy double-rise-bread and paleo-friendly ingredients.",
+  "cuisine": "algerian",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic granules",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "6 slices",
+      "notes": "gluten-free bread is highly recommended for this recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "raw, unfiltered honey is recommended for this recipe"
+    },
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "slivered, toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the chicken broth, honey, salt, and black pepper to the skillet, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes, stirring occasionally.",
+    "Meanwhile, toast the slivered almonds in a small pan over medium heat, until fragrant and lightly browned.",
+    "To assemble the tagine, place a slice of double-rise-bread in the bottom of a baking dish. Spoon some of the onion-garlic mixture over the bread, followed by a sprinkle of garlic granules. Repeat this process two more times, ending with a layer of bread on top.",
+    "Drizzle the toasted almonds over the top of the tagine, then cover the dish with aluminum foil.",
+    "Bake the tagine in the preheated oven for 20-25 minutes, until the bread is golden brown and the filling is hot and bubbly.",
+    "Remove the foil and bake for an additional 5-10 minutes, until the top is lightly browned.",
+    "Serve the tagine hot, garnished with additional almonds and a sprinkle of garlic granules if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "comfort-food",
+    "gluten-free",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 24
+  },
+  "slug": "kissed-algerian-garlic-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-algerian-garlic-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:02:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "garlic granules",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "garlic granules",
+    "descriptor": "crunchy",
+    "dishForm": "Tagine"
+  }
+}
