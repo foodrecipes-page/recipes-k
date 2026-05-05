@@ -1,0 +1,91 @@
+{
+  "title": "Kicked Zanzibari Wholesome Cocoa Pancakes",
+  "description": "These low-calorie-friendly cocoa pancakes are light and comforting, perfect for a quick breakfast or snack. Bitter in taste, they add a unique twist to traditional pancake recipes.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "low-calorie-friendly",
+    "keto-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": 100
+    },
+    {
+      "name": "milk",
+      "amount": 250,
+      "notes": "ensure it's unsweetened"
+    },
+    {
+      "name": "flax seeds",
+      "amount": "1 tbsp",
+      "notes": "to add a bit of crunch and nutrition"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tsp",
+      "notes": "for added protein and omega-3s"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": 20
+    },
+    {
+      "name": "pinch of salt",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a bowl, whisk together cocoa powder and milk until smooth.",
+    "Mix in almond flour, chia seeds, vanilla extract, coconut oil, and salt. Stir gently to combine.",
+    "Pressure-cook the mixture for 5 minutes at high pressure on your appliance.",
+    "Allow it to cool slightly before carefully pouring into a non-stick pan.",
+    "Cook for an additional 1-2 minutes per side until golden brown.",
+    "Serve hot with fresh fruit or honey for a delightful touch."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-snack",
+    "keto-friendly",
+    "low-calorie",
+    "protein-rich",
+    "quick-bite"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 5,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "kicked-zanzibari-wholesome-cocoa-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-zanzibari-wholesome-cocoa-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:17:34Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "comforting",
+    "technique": "pressure-cook",
+    "primaryIngredient": "unsweetened cocoa",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Cocoa Beans",
+    "descriptor": "Wholesome",
+    "dishForm": "Pancakes"
+  }
+}
