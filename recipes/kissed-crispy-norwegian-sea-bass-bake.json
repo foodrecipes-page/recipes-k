@@ -1,0 +1,106 @@
+{
+  "title": "kissed crispy norwegian sea bass bake",
+  "description": "this dish is a nostalgic take on a norwegian recipe, featuring sea bass, dill, and a crispy topping baked in a mason jar.",
+  "cuisine": "norwegian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "about 6 oz each"
+    },
+    {
+      "name": "lemon",
+      "amount": "2",
+      "notes": "juice and zest"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "crushed almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 400°f (200°c).",
+    "mix lemon juice, dill, garlic, salt, and pepper in a small bowl.",
+    "place a mason jar on a baking sheet lined with parchment paper.",
+    "add a layer of sea bass to the mason jar.",
+    "drizzle the lemon-dill mixture over the sea bass.",
+    "add a layer of crushed almonds on top of the sea bass.",
+    "sprinkle the flour over the almonds.",
+    "repeat the layers two more times, ending with a layer of almonds on top.",
+    "drizzle olive oil over the top layer of almonds.",
+    "cover the baking sheet with aluminum foil and bake for 12 minutes.",
+    "remove the foil and bake for an additional 5 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-special-occasion",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "kissed-crispy-norwegian-sea-bass-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-norwegian-sea-bass-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:19Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "bain-marie",
+    "primaryIngredient": "sea bass",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "norwegian",
+    "mainIngredient": "sea bass",
+    "descriptor": "kissed crispy",
+    "dishForm": "bake"
+  }
+}
