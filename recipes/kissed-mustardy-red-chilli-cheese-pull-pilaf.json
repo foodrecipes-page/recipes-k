@@ -1,0 +1,86 @@
+{
+  "title": "Kissed Mustardy Red Chilli Cheese-Pull Pilaf",
+  "description": "An indulgent Saudi-Arabian dish featuring red chilli and cheese-pulling technique, ideal for a light lunch or dinner. This recipe is tailored to be low FODMAP-friendly.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 cups quinoa",
+      "amount": "cup"
+    },
+    {
+      "name": "1 large onion, diced",
+      "amount": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": ""
+    },
+    {
+      "name": "1 can (8 oz) full-fat coconut milk",
+      "amount": "can"
+    },
+    {
+      "name": "2 tablespoons Dijon mustard",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Pinch of red chili flakes (adjustable for heat preference)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a saucepan, combine quinoa with 2 cups water and bring to boil. Reduce heat, cover, and simmer until liquid is absorbed (about 15 min).",
+    "Heat oil in a pan over medium heat. Add onion and sauté until translucent (about 4 min). Add garlic and cook for an additional minute.",
+    "Stir in Dijon mustard, coconut milk, salt, pepper, and red chili flakes. Bring to a simmer and let it reduce slightly (about 5 min).",
+    "Fold in cooked quinoa and the grated Parmesan cheese. Serve hot as a side dish or main course. Adjust seasoning with more salt if needed.",
+    "For a spicy kick, stir in sliced jalapeño peppers before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "indulgent",
+    "low-fodmap",
+    "mustardy",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "kissed-mustardy-red-chilli-cheese-pull-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mustardy-red-chilli-cheese-pull-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T04:25:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "salt-bake",
+    "primaryIngredient": "red chilli",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Mustardy",
+    "mainIngredient": "Cheese",
+    "descriptor": "Red Chilli Kissed",
+    "dishForm": "Pilaf"
+  }
+}
