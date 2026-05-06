@@ -1,0 +1,125 @@
+{
+  "title": "Kissed with Whisk Russian Chilli Borscht",
+  "description": "A yeast-infused twist on the classic Russian beet borscht, featuring a spicy kick and served in a bamboo tray. Perfect for a light and adventurous meal.",
+  "cuisine": "Russian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo Tray",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Active Dry Yeast",
+      "amount": "1 tsp",
+      "notes": "Instant yeast can also be used."
+    },
+    {
+      "name": "Beets",
+      "amount": "2 medium",
+      "notes": "Chopped and peeled."
+    },
+    {
+      "name": "Chilli Flakes",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tsp",
+      "notes": "Adjust sweetness to taste."
+    },
+    {
+      "name": "Horseradish",
+      "amount": "2 tbsp",
+      "notes": "Grated."
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Potato Starch",
+      "amount": "2 tsp",
+      "notes": "Optional for thickening."
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium."
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "Room temperature."
+    },
+    {
+      "name": "Wheat Shojin Bread Crumbs",
+      "amount": "2 tbsp",
+      "notes": "Optional for garnish."
+    },
+    {
+      "name": "Whisk",
+      "amount": "1",
+      "notes": "For serving."
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the beets, onion, horseradish, sugar, chilli flakes, and vegetable broth. Simmer over medium heat for 20 minutes.",
+    "In a small bowl, whisk together the yeast, room temperature water, and a pinch of sugar. Let sit for 5 minutes, allowing the yeast to activate.",
+    "Add the yeast mixture to the saucepan and stir to combine. Simmer for an additional 10 minutes, or until the soup has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "To serve, ladle the soup into a bamboo tray and garnish with a sprinkle of wheat shojin bread crumbs, if desired.",
+    "Use the whisk as a garnish or a utensil to eat the soup."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 30,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beets",
+    "borscht",
+    "breakfast-inspired",
+    "dinner",
+    "easy-to-make",
+    "lunch",
+    "russian",
+    "spicy",
+    "vegan",
+    "yeast-infused"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-with-whisk-russian-chilli-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-whisk-russian-chilli-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "whisk",
+    "primaryIngredient": "chilli",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "chilli",
+    "descriptor": "Kissed with Whisk",
+    "dishForm": "Borscht"
+  }
+}
