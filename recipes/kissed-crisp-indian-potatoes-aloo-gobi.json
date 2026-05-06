@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Crisp Indian Potatoes Aloo Gobi",
+  "description": "A winey, crisp, and adventurous Indian dish featuring sazon and stone-bowl-dolsot, ovo-vegetarian-friendly in the form of aloo-gobi.",
+  "cuisine": "Indian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, toss the potatoes and cauliflower with olive oil, sazon seasoning, salt, and black pepper until they are evenly coated.",
+    "Spread the potatoes and cauliflower in a single layer on a baking sheet and roast for 20 minutes.",
+    "While the potatoes and cauliflower are roasting, heat a large skillet over medium-high heat and add the chopped onion and minced garlic.",
+    "Cook the onion and garlic until they are softened and lightly browned, about 5 minutes.",
+    "Add the white wine to the skillet and cook until it is almost completely evaporated, about 2 minutes.",
+    "Remove the potatoes and cauliflower from the oven and add them to the skillet, stirring to combine with the onion and garlic mixture.",
+    "Make a well in the center of the skillet and pour in the beaten egg, stirring gently to combine.",
+    "Cook for an additional 2 minutes, until the egg is cooked through and the potatoes and cauliflower are crispy.",
+    "Serve the Kissed Crisp Indian Potatoes Aloo Gobi hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cauliflower-recipes",
+    "crispy-potatoes",
+    "indian-food",
+    "one-pan",
+    "ovo-vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-crisp-indian-potatoes-aloo-gobi",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-indian-potatoes-aloo-gobi",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-06T21:07:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "sazon",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Aloo Gobi"
+  }
+}
