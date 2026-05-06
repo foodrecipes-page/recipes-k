@@ -1,0 +1,108 @@
+{
+  "title": "Kissed with chilli sauce Dutch mixture Wrap",
+  "description": "Sweet, pillowy, light Dutch dish featuring chilli sauce and candy, wrapped in a corn-husk vessel for an anti-inflammatory snack. This unique dish is perfect for a quick pick-me-up.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn husk wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Chilli sauce",
+      "amount": "1 tsp",
+      "notes": "Look for a chilli sauce with no added sugars or artificial preservatives."
+    },
+    {
+      "name": "Candy (e.g. Swedish fish)",
+      "amount": "5 pieces",
+      "notes": "Choose a candy that is low in refined sugar and high in fiber."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 tbsp",
+      "notes": "Make sure to choose a full-fat coconut milk for the best flavor."
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1/2 tsp",
+      "notes": "Look for a ginger paste that is free from added sugars or preservatives."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": "Choose a raw, unfiltered honey for the best flavor."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": "Make sure to choose a freshly squeezed lemon juice for the best flavor."
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/4 tsp",
+      "notes": "Look for a turmeric powder that is free from additives or fillers."
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1/4 tsp",
+      "notes": "Choose a high-quality cinnamon powder for the best flavor."
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the corn husk wrap in water for at least 30 minutes to make it pliable.",
+    "In a small bowl, mix together the chilli sauce, ginger paste, honey, and lemon juice until well combined.",
+    "In a separate bowl, mix together the coconut milk, turmeric powder, and cinnamon powder until well combined.",
+    "Warm the corn husk wrap in a dry skillet or in the microwave for a few seconds to make it more pliable.",
+    "Place a small amount of the coconut milk mixture onto the center of the corn husk wrap, leaving a small border around the edges.",
+    "Add a few pieces of the candy on top of the coconut milk mixture.",
+    "Drizzle the chilli sauce mixture on top of the candy.",
+    "Fold the bottom half of the corn husk wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "dutch",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "kissed-with-chilli-sauce-dutch-mixture-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-chilli-sauce-dutch-mixture-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:50:25Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "candy",
+    "primaryIngredient": "chilli sauce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mixture",
+    "descriptor": "Kissed with chilli sauce",
+    "dishForm": "Wrap"
+  }
+}
