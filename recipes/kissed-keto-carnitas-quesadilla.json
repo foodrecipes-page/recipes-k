@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Keto Carnitas Quesadilla",
+  "description": "A festive Mexican dish featuring sirloin steak, wood-fired-baked keto-friendly carnitas with a touch of herbal flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sirloin Steak",
+      "amount": "250g"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": 5
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin Powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Bay Leaves",
+      "amount": "3-4"
+    },
+    {
+      "name": "Applewood Chips",
+      "amount": 50
+    },
+    {
+      "name": "Keto Cheese Blend",
+      "amount": 200
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Season the sirloin with salt and pepper.",
+    "Heat olive oil in a pan over medium heat. Add half of the seasoning mixture to each side.",
+    "Place the sirloin on an aluminum foil-lined baking sheet, cover with another aluminum foil, and bake at 200°C for 15-20 minutes.",
+    "Mix lime juice, cumin powder, garlic powder, and remaining seasoning in a small bowl. Brush onto both sides of sirloin before grilling over applewood chips at medium heat for 3-4 minutes on each side or until internal temperature reaches 68°C.",
+    "In a pan, cook the keto cheese blend until melted and bubbly, then divide evenly into quesadillas with some grilled carnitas between them. Cook until golden brown and top with sliced jalapenos."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 120,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "mexican-dish",
+    "vegetarian-free"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 72,
+    "carbs": 6,
+    "fat": 42
+  },
+  "slug": "kissed-keto-carnitas-quesadilla",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-keto-carnitas-quesadilla",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T02:46:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "sirloin steak",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Steak",
+    "descriptor": "Kissed",
+    "dishForm": "Keto Carnitas Quesadilla"
+  }
+}
