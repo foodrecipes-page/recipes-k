@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Midnight Greek Currants Plate",
+  "description": "A resinous, fluffy Greek dish featuring currants perfect for a late-night craving. This recipe makes use of kosher-friendly ingredients and is served on a wooden board.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "kosher",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Currants",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Walnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350\u00179 F (180\u00179 C).",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the yogurt, honey, and vanilla extract.",
+    "Add the flour mixture to the wet ingredients and stir until just combined.",
+    "Gently fold in the currants and walnuts.",
+    "Transfer the batter to a wooden board and smooth the top.",
+    "Bake for 25 minutes or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm, sliced into wedges.",
+    "Garnish with additional currants and walnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "currants",
+    "dessert",
+    "gluten-free",
+    "greek",
+    "kosher",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "kissed-midnight-greek-currants-plate",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-midnight-greek-currants-plate",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T23:08:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "rest",
+    "primaryIngredient": "currants",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "currants",
+    "descriptor": "Kissed Midnight",
+    "dishForm": "Plate"
+  }
+}
