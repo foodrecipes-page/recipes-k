@@ -1,0 +1,81 @@
+{
+  "title": "Kissed Sweet and Gooey Irish Kabocha Pie",
+  "description": "A sweet, gooey, indulgent dish featuring kabocha, smoke-cold flavor profile, high-protein-friendly, baked on a lazy-susan-spinner vessel.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 kabocha pumpkins",
+      "amount": "each"
+    },
+    {
+      "name": "1 cup sugar",
+      "amount": "cup"
+    },
+    {
+      "name": "3/4 cup unsalted butter",
+      "amount": "cup"
+    },
+    {
+      "name": "5 eggs",
+      "amount": "each"
+    },
+    {
+      "name": "2 tablespoons all-purpose flour",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": null
+    },
+    {
+      "name": "Pinch of salt",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350 degrees F.",
+    "Scoop the flesh from each kabocha pumpkin, leaving about an inch of skin intact.",
+    "In a large bowl, mix sugar and butter until creamy.",
+    "Add eggs one at a time, mixing well after each addition.",
+    "Fold in flour and vanilla extract. Season with salt.",
+    "Evenly distribute the filling mixture into the hollowed kabocha pumpkins.",
+    "Place the filled kabocha pumpkins on your lazy-susan-spinner vessel and bake for 30 minutes.",
+    "Let it rest for another 15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "irish-kabocha-pie",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 9
+  },
+  "slug": "kissed-sweet-and-gooey-irish-kabocha-pie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-and-gooey-irish-kabocha-pie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T00:24:40Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "smoke-cold",
+    "primaryIngredient": "kabocha",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Kabocha",
+    "descriptor": "Sweet and Gooey",
+    "dishForm": "Pie"
+  }
+}
