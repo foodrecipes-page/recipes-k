@@ -1,0 +1,71 @@
+{
+  "title": "Kicked Warm-Roasted Ananas Argentinian Pancake",
+  "description": "A low-glycemic-friendly and air-fried jammy argentinian dish featuring an overripe pineapple, vanilla bean, and a touch of cinnamon for a sick-day comfort food.",
+  "cuisine": "Argentinean",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "overripe fresh pineapple",
+      "amount": 1
+    },
+    {
+      "name": "vanilla bean paste or seeds",
+      "amount": "1-2"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "palm sugar (optional)",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 180°C.",
+    "Halve the pineapple lengthwise and scoop out the seeds from inside, leaving a thin layer of flesh on each side for structure.",
+    "Squeeze the vanilla bean or scrape it with a spoon into the hollowed-out center of the pineapple.",
+    "Coat the cut sides of the pineapples in cinnamon powder and place them into the air fryer basket.",
+    "Drizzle with palm sugar if using, then sprinkle with extra vanilla seeds if desired.",
+    "Air fry for 10 minutes or until golden brown on both sides, flipping halfway through cooking time.",
+    "Let cool slightly before serving warm, topped with a dollop of Greek yogurt and fresh mint leaves."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "argentinean-dish",
+    "low-glycemic-friendly",
+    "warm-roasted"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 5,
+    "carbs": 29,
+    "fat": 6
+  },
+  "slug": "kicked-warm-roasted-ananas-argentinian-pancake",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-warm-roasted-ananas-argentinian-pancake",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T01:24:44Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "air-fry",
+    "primaryIngredient": "vanilla pod",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Ananas",
+    "descriptor": "Warm-Roasted",
+    "dishForm": "Pancake"
+  }
+}
