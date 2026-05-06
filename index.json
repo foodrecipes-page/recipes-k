@@ -1100,6 +1100,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-and-creamy-middle-eastern-beef-kidney-maqluba",
+    "title": "Kissed and Creamy Middle-Eastern Beef Kidney Maqluba",
+    "tags": [
+      "beef",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "rich",
+      "satisfying",
+      "special-occasion"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-and-dense-peruvian-sirloin-steak-rocoto-relleno",
     "title": "Kissed and Dense Peruvian Sirloin Steak Rocoto Relleno",
     "tags": [
@@ -3821,6 +3837,21 @@
     ],
     "cuisine": "Indian",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-silky-malty-irish-creme-patissiere-paella",
+    "title": "kissed silky malty irish creme-patissiere paella",
+    "tags": [
+      "breakfast",
+      "gluten-free",
+      "irish",
+      "one-pan",
+      "special-occasion",
+      "sugar-free"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

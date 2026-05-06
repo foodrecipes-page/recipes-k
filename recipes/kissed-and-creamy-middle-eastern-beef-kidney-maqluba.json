@@ -1,0 +1,125 @@
+{
+  "title": "Kissed and Creamy Middle-Eastern Beef Kidney Maqluba",
+  "description": "A rich, show-stopping maqluba dish featuring beef kidney, soffritto base and a creamy sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Beef kidney",
+      "amount": "1 pound",
+      "notes": "trim any visible membranes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Allspice",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef kidney and cook until browned on both sides, about 5 minutes.",
+    "Remove the kidney from the skillet and set aside.",
+    "Add the onion, carrots, and celery to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic, salt, black pepper, and allspice to the skillet and cook for 1 minute.",
+    "Add the heavy cream to the skillet and stir to combine.",
+    "Return the beef kidney to the skillet and stir to coat with the cream sauce.",
+    "Reduce the heat to low and simmer the mixture, uncovered, until the sauce has thickened and the kidney is cooked through, about 20 minutes.",
+    "Stir in the chopped parsley, pomegranate molasses, and lemon juice, if using.",
+    "Transfer the maqluba to a serving platter and garnish with chopped fresh mint.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "rich",
+    "satisfying",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "kissed-and-creamy-middle-eastern-beef-kidney-maqluba",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-and-creamy-middle-eastern-beef-kidney-maqluba",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:05Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "soffritto-base",
+    "primaryIngredient": "beef kidney",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "beef kidney",
+    "descriptor": "Kissed and Creamy",
+    "dishForm": "Maqluba"
+  }
+}

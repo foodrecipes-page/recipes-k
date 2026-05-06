@@ -1,0 +1,124 @@
+{
+  "title": "kissed silky malty irish creme-patissiere paella",
+  "description": "a hangover cure featuring sweet, malty, silky irish creme-patissiere in a paella pan, jain friendly",
+  "cuisine": "irish",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "golden syrup",
+      "amount": "3 oz",
+      "notes": "high fructose corn syrup alternative"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free oats",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "golden syrup alternative"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "bring the almond milk to a boil in a saucepan, then reduce heat to medium-low and simmer for 5 minutes",
+    "whisk the egg yolks in a separate bowl until light and fluffy",
+    "add the flour, sugar, vanilla extract, and whisk until smooth",
+    "temper the egg yolk mixture by slowly pouring the hot almond milk into the egg yolks, whisking constantly",
+    "return the mixture to the saucepan and cook over medium heat, stirring constantly until thickened",
+    "add the butter, heavy cream, cinnamon, nutmeg, and salt, and stir until smooth",
+    "knead the gluten-free oats between your hands to break down the grains, then add to the mixture and stir until combined",
+    "add the golden syrup and stir until combined, if using saffron threads add now and stir",
+    "heat the paella pan over medium heat and grease with butter",
+    "pour the mixture into the paella pan and cook until set, about 10 minutes",
+    "fluff the paella with a spatula and serve warm"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast",
+    "gluten-free",
+    "irish",
+    "one-pan",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 14,
+    "carbs": 84,
+    "fat": 24
+  },
+  "slug": "kissed-silky-malty-irish-creme-patissiere-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-malty-irish-creme-patissiere-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:54:13Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "dum",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "irish",
+    "mainIngredient": "creme-patissiere",
+    "descriptor": "kissed silky malty",
+    "dishForm": "paella"
+  }
+}
