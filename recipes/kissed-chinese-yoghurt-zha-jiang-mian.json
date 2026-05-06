@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Chinese Yoghurt Zha Jiang Mian",
+  "description": "A dense, comforting, and natural take on the classic Chaozhou dish, featuring a rich and creamy yoghurt sauce.",
+  "cuisine": "Chinese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "mixed with a little bit of cold water to make a slurry"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Dark soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice wine (or dry sherry)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking the noodles"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Yoghurt",
+      "amount": "1 cup",
+      "notes": "natural, plain, full-fat"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "2 tablespoons",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 ounces",
+      "notes": "preferably fresh, or substitute with rice noodles"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions, then set aside.",
+    "In a small bowl, mix the cornstarch slurry and soy sauce together, and set aside.",
+    "In a ttukbaegi or a small saucepan, heat the vegetable oil over medium heat.",
+    "Add the chopped noodles to the pan and stir to combine with the oil, about 2 minutes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "chaozhou",
+    "comfort-food",
+    "high-protein",
+    "noodle-dish",
+    "one-pan",
+    "sugar-free-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 64,
+    "fat": 20
+  },
+  "slug": "kissed-chinese-yoghurt-zha-jiang-mian",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-chinese-yoghurt-zha-jiang-mian",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-06T22:59:37Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "sick-day",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "sugar-free",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "yoghurt",
+    "descriptor": "Kissed",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
