@@ -1,0 +1,105 @@
+{
+  "title": "Monsoon Kissed American Pasta Lasagna",
+  "description": "A rich, ovo-vegetarian lasagna dish infused with the essence of Vin Santo, served in a traditional tandoor clay pot. This recipe celebrates the fusion of East and West with a creamy pasta-water emulsion and a satisfying crumbly texture.",
+  "cuisine": "American",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vin Santo wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10",
+      "notes": "cooked al dente"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Bechamel sauce",
+      "amount": "1 cup, store-bought or homemade",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Tandoori spice blend",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Pasta water",
+      "amount": "1/2 cup",
+      "notes": "cooled"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375°F (190°C).",
+    "In a large mixing bowl, combine the ricotta cheese, Parmesan cheese, and a pinch of salt. Mix well to combine.",
+    "Add the bechamel sauce to the ricotta mixture and stir until smooth.",
+    "In a separate bowl, combine the chopped basil and cooked lasagna noodles.",
+    "In the preheated tandoor clay pot, create a thin layer of the pasta-water emulsion on the bottom.",
+    "Spread half of the lasagna noodles on top of the emulsion.",
+    "Spread half of the ricotta-bechamel mixture over the noodles.",
+    "Sprinkle half of the shredded mozzarella cheese over the ricotta-bechamel mixture.",
+    "Repeat the layers: noodles, pasta-water emulsion, ricotta-bechamel mixture, and mozzarella cheese.",
+    "Top the final layer of mozzarella cheese with the Tandoori spice blend.",
+    "Cover the tandoor clay pot with a lid and bake for 30 minutes.",
+    "Remove the lid and bake for an additional 10-15 minutes, or until the top is golden brown and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "clay-pot",
+    "comfort-food",
+    "high-calorie",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 50,
+    "carbs": 100,
+    "fat": 80
+  },
+  "slug": "kissed-by-the-monsoon-american-pasta-lasagna",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-the-monsoon-american-pasta-lasagna",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:07:43Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "vin-santo",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "pasta",
+    "descriptor": "kissed by the monsoon",
+    "dishForm": "lasagna"
+  }
+}
