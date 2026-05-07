@@ -1,0 +1,114 @@
+{
+  "title": "Kissed and Malted Middle-Eastern Lamb Loin Chops Tagine",
+  "description": "A rich and savory dish featuring lamb loin chops, malty flavors, and a hint of crunchiness, perfect for a cozy dinner on a cold evening.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb loin chops",
+      "amount": "4",
+      "notes": "1.5-2 pounds total weight"
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "3 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Malted barley syrup",
+      "amount": "2 tablespoons",
+      "notes": "reduced to 1 tablespoon of syrupy liquid"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat your raclette grill to 400°F (200°C).",
+    "Season the lamb loin chops with namul-blanch-season, cumin, paprika, turmeric, salt, and black pepper. The season is a blend of spice and herbs, for a richer flavor experience.",
+    "Heat the olive oil in a large skillet over medium-high heat. Sear the lamb loin chops until browned on both sides, about 2 minutes per side. Transfer the lamb loin chops to the raclette grill and cook for 5-7 minutes or until it reaches the desired level of doneness.",
+    "While the lamb is cooking, sauté the chopped onion and minced garlic in a little bit of olive oil until they are softened and translucent. Add the malted barley syrup and cook for 1-2 minutes, stirring constantly, until the syrup is caramelized and fragrant.",
+    "Transfer the cooked lamb loin chops to a serving dish and spoon the onion-garlic mixture over the top. Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "kissed-and-malted-middle-eastern-lamb-loin-chops-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-and-malted-middle-eastern-lamb-loin-chops-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:16:10Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Lamb Loin Chops",
+    "descriptor": "Kissed and Malted",
+    "dishForm": "Tagine"
+  }
+}
