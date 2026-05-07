@@ -1,0 +1,109 @@
+{
+  "title": "Kissed by Yeast Peruvian Potatoes Pilaf",
+  "description": "A dense and sour Peruvian dish made with fast action yeast, perfect for a quick fix on a busy weeknight. This low-glycemic-friendly pilaf is a great option for those looking for a healthier meal option.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-glycemic",
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fast Action Yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dry Yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Anise Seeds",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "0.125 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Add rice to a cataplana pot over medium heat and toast for 1 minute.",
+    "Add water to the cataplana pot and bring to a boil.",
+    "Reduce heat to low, add yeast, anise seeds, salt, and black pepper, and cover the pot with a lid.",
+    "Let the mixture cook for 10 minutes, or until the water has been absorbed and the rice is tender.",
+    "Add diced potatoes to the cataplana pot and cook for an additional 5 minutes, or until the potatoes are tender.",
+    "Stir in butter and cheddar cheese until melted and well combined.",
+    "Sprinkle cilantro on top of the pilaf and serve hot.",
+    "Remove the pot from the heat and let it sit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "peruvian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 18,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "kissed-by-yeast-peruvian-potatoes-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-yeast-peruvian-potatoes-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:59Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "dense",
+    "mood": "quick-fix",
+    "technique": "cure",
+    "primaryIngredient": "fast action yeast",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Kissed by Yeast",
+    "dishForm": "Pilaf"
+  }
+}
