@@ -1,0 +1,70 @@
+{
+  "title": "Kicked Malty Juicy Pork Belly Skewers",
+  "description": "A Kenyan dish featuring pork belly slices smoke-cured to perfection for a solo dinner experience, shojin-friendly and suitable for an iron-teppan.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": 500
+    },
+    {
+      "name": "salt",
+      "amount": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ""
+    },
+    {
+      "name": "marinade blend",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Trim the pork belly and score its surface with a sharp knife to enhance flavor absorption.",
+    "Mix together salt, black pepper, and your preferred marinade blend in a shallow dish. Season the pork evenly on both sides.",
+    "Marinate the pork belly for at least 4 hours or overnight in the refrigerator to allow flavors to penetrate.",
+    "Preheat your iron-teppan over medium-high heat until very hot.",
+    "Remove the pork from the marinade, allowing any excess liquid to drip off. Do not rinse with water.",
+    "Skewer the marinated pork belly evenly spaced on the teppan. Place skewers directly onto the heated surface.",
+    "Smoke-cure the pork for about 30 minutes per side or until it reaches an internal temperature of at least 65°C (150°F).",
+    "Once done, remove from heat and allow to rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 24,
+  "cookTimeMin": 30,
+  "totalTimeMin": 90,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "iron-teppan",
+    "malty-flavored",
+    "pork-belly",
+    "smoked-pork"
+  ],
+  "nutrition": {
+    "calories": 530,
+    "protein": 41,
+    "carbs": 9,
+    "fat": 37
+  },
+  "slug": "kicked-malty-juicy-pork-belly-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-malty-juicy-pork-belly-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T04:35:18Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "juicy",
+    "mood": "solo-dinner",
+    "technique": "smoke-cold",
+    "primaryIngredient": "pork belly slices",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "pork belly",
+    "descriptor": "Smoke-Cold",
+    "dishForm": "Skewers"
+  }
+}
