@@ -1,0 +1,87 @@
+{
+  "title": "Kicked Winey Cumin Tagine",
+  "description": "An energizing Moroccan dish featuring cumin and wine with a buddhist temple friendly twist. Perfect for lunch or dinner.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "180"
+    },
+    {
+      "name": "1 medium onion, finely chopped",
+      "amount": "350"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "75"
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "120"
+    },
+    {
+      "name": "1/2 cup red wine (optional)",
+      "amount": "90"
+    },
+    {
+      "name": "2 cups diced tomatoes",
+      "amount": "480"
+    },
+    {
+      "name": "1 can chickpeas, drained and rinsed",
+      "amount": "750"
+    },
+    {
+      "name": "1 teaspoon ground cinnamon",
+      "amount": "12"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add onion and sauté until softened.",
+    "Stir in garlic, cumin, and cinnamon. Cook for about 3 minutes.",
+    "Pour in red wine (if using) and let simmer until reduced by half.",
+    "Add tomatoes, chickpeas, and water to cover the ingredients. Bring to a boil.",
+    "Reduce heat to low, cover, and cook for about 20 minutes or until most of the liquid has evaporated.",
+    "Serve hot as a side dish or main course.",
+    "Enjoy your energizing Kicked Winey Cumin Tagine!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-temple-friendly",
+    "cumin-tagine",
+    "energizing",
+    "moroccan",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 27,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kicked-winey-cumin-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-winey-cumin-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T07:02:37Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "energizing",
+    "technique": "render-fat",
+    "primaryIngredient": "cumin",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Winey",
+    "mainIngredient": "Cumin",
+    "descriptor": "Aerated",
+    "dishForm": "Tagine"
+  }
+}
