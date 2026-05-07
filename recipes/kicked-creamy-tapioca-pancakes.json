@@ -1,0 +1,91 @@
+{
+  "title": "Kicked Creamy Tapioca Pancakes",
+  "description": "A fresh, creamy, nostalgic Malaysian dish featuring crispy bacon and raw-friendly tapioca pancakes.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup tapioca pearls",
+      "amount": ""
+    },
+    {
+      "name": "2 cups water",
+      "amount": ""
+    },
+    {
+      "name": "Pinch salt",
+      "notes": "For boiling the tapioca"
+    },
+    {
+      "name": "1/4 cup all-purpose flour",
+      "amount": ""
+    },
+    {
+      "name": "1 tbsp unsalted butter, melted",
+      "amount": ""
+    },
+    {
+      "name": "2 large eggs",
+      "amount": ""
+    },
+    {
+      "name": "1/2 cup whole milk",
+      "amount": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "notes": "For pancakes"
+    },
+    {
+      "name": "5 slices bacon, cooked and crumbled",
+      "amount": ""
+    },
+    {
+      "name": "Fresh herbs (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Prepare tapioca pearls by soaking them in water for 30 minutes. Boil with salt until soft.",
+    "In a separate bowl, mix flour and melted butter; add milk and eggs to make batter.",
+    "Pour half the batter into prepared pan and top with half the cooked bacon and herbs (optional).",
+    "Cook pancakes on medium heat until golden brown, flipping once.",
+    "Repeat process with remaining batter. Serve hot with additional crispy bacon slices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-specialty",
+    "malaysian-favorites",
+    "nostalgic-malaysian",
+    "raw-friendly-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 14,
+    "carbs": 28,
+    "fat": 9
+  },
+  "slug": "kicked-creamy-tapioca-pancakes",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-creamy-tapioca-pancakes",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T02:21:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "bacon",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "tapioca",
+    "descriptor": "Creamy Kicked",
+    "dishForm": "Pancakes"
+  }
+}
