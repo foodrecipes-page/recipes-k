@@ -1,0 +1,59 @@
+{
+  "title": "Kid-Friendly American Mac and Cheese Casserole",
+  "description": "A classic comfort food dish that is easy to make and fun to eat. This recipe is perfect for kids and adults alike.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Elbow macaroni",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Makrut lime leaves",
+      "amount": "2",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the elbow macaroni in boiling water until al dente, then drain and set aside.",
+    "In a saucepan, melt 2 tablespoons of butter over medium heat.",
+    "Add 1/2 cup of all-purpose flour and whisk until smooth, cooking for 1 minute."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-pasta",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "kid-friendly-american-mac-and-cheese-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-american-mac-and-cheese-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:31:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "mac and cheese",
+    "descriptor": "kid-friendly",
+    "dishForm": "casserole"
+  }
+}
