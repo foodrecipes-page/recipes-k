@@ -1,0 +1,74 @@
+{
+  "title": "Kissed Char-Grilled Apple Flaky Smoky Festive Bowl",
+  "description": "A festive polish dish featuring apple juice, char-grill-yang with a touch of smokiness, served in a dolsot-stone-bowl without eggs for an egg-free-friendly option.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 medium apple",
+      "amount": "pc"
+    },
+    {
+      "name": "1/2 cup apple juice",
+      "amount": "cup"
+    },
+    {
+      "name": "1 tbsp olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "Pinch of sea salt",
+      "amount": null
+    },
+    {
+      "name": "Pinch of black pepper",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (392°F).",
+    "Core and slice the apple into wedges. Place them in a mixing bowl with the apple juice, olive oil, salt, and pepper.",
+    "Toss gently to combine all ingredients evenly.",
+    "Brush the sliced apple wedges lightly with extra virgin olive oil on both sides.",
+    "Arrange apple wedges on a baking sheet lined with parchment paper.",
+    "Bake for 15 minutes or until golden brown.",
+    "While apples are baking, heat the dolsot-stone-bowl over a medium flame until hot.",
+    "Top each baked apple wedge with a sprinkle of sea salt and black pepper. Serve immediately in the heated dolsot-stone-bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apple-flavored",
+    "egg-free-friendly",
+    "festive-appetizer",
+    "smoky-char-grill"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 2,
+    "carbs": 32,
+    "fat": 9
+  },
+  "slug": "kissed-char-grilled-apple-flaky-smoky-festive-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-char-grilled-apple-flaky-smoky-festive-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T01:31:34Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "apple juice",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Apple",
+    "descriptor": "Char-Grilled",
+    "dishForm": "Bowl"
+  }
+}
