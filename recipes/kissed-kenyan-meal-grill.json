@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Kenyan Meal Grill",
+  "description": "A tangy and crispy meal-prep Kenyan dish featuring oregano and a robata-grill, perfect for a quick and easy dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "mixed vegetables (bell peppers, zucchini, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "kenyan spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400°F (200°C).",
+    "Season the chicken breast with salt, black pepper, and kenyan spice blend.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toss the mixed vegetables with olive oil, chili flakes, and a pinch of salt.",
+    "Grill the vegetables for 3-4 minutes, or until slightly charred.",
+    "Mix the lemon juice with oregano and a pinch of salt.",
+    "Brush the mixture on the grilled chicken and vegetables.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "kissed-kenyan-meal-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kenyan-meal-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:35:01Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "robata-grill",
+    "primaryIngredient": "oregano",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meal",
+    "descriptor": "Kissed",
+    "dishForm": "Grill"
+  }
+}
