@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Roast Malaysian Hake Roast",
+  "description": "A briny and fluffy Malaysian dish featuring hake, perfect for a crowd, with a macrobiotic-friendly twist. This recipe combines the freshness of the sea with the warmth of roasted spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "macrobiotic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hake fillets",
+      "amount": "4 pieces",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together grated ginger, minced garlic, lemon juice, soy sauce, brown sugar, black pepper, and sea salt.",
+    "Place the hake fillets in a shallow baking dish and brush the ginger-garlic mixture evenly over both sides of the fish.",
+    "Drizzle coconut oil over the fish, making sure they are well coated.",
+    "Roast the hake in the preheated oven for 12 minutes or until cooked through.",
+    "Remove the fish from the oven and sprinkle chopped cilantro over the top of each fillet.",
+    "Serve the hake hot, garnished with additional cilantro if desired.",
+    "Offer steamed vegetables or roasted sweet potatoes on the side for a well-rounded meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "macrobiotic",
+    "malaysian-cuisine",
+    "one-pan",
+    "seafood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "kissed-roast-malaysian-hake-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roast-malaysian-hake-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:07:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "roast",
+    "primaryIngredient": "hake",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "hake",
+    "descriptor": "kissed roast",
+    "dishForm": "Roast"
+  }
+}

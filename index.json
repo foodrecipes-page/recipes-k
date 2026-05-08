@@ -3323,6 +3323,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-earthy-portuguese-sweet-potatoes-casserole",
+    "title": "Kissed Earthy Portuguese Sweet Potatoes Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "dairy-free",
+      "portuguese-cuisine",
+      "sweet-potato-recipes",
+      "vegetarian"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 95,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-earthy-spanish-mackerel-ensaimada",
     "title": "Kissed Earthy Spanish Mackerel Ensaimada",
     "tags": [
@@ -5377,6 +5392,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roast-malaysian-hake-roast",
+    "title": "Kissed Roast Malaysian Hake Roast",
+    "tags": [
+      "high-protein",
+      "macrobiotic",
+      "malaysian-cuisine",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 32,
     "shard": "k"
   },
   {
