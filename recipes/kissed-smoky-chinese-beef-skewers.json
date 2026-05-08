@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Smoky Chinese Beef Skewers",
+  "description": "A yeasty, molten, show-off Chinese dish featuring beef stock, miso-marinate, and low-calorie-friendly ingredients, grilled to perfection on a binchotan-grill.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan-grill to medium-high heat.",
+    "In a large bowl, whisk together miso paste, beef stock, soy sauce, brown sugar, rice vinegar, garlic, and ginger.",
+    "Add the beef cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated beef cubes onto skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Brush the skewers with the remaining marinade during the last 2 minutes of grilling.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese",
+    "gluten-free",
+    "grilled",
+    "low-calorie",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kissed-smoky-chinese-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-chinese-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:27:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "show-off",
+    "technique": "miso-marinate",
+    "primaryIngredient": "beef stock",
+    "diet": "low-calorie",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Skewers"
+  }
+}
