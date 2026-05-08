@@ -1,0 +1,117 @@
+{
+  "title": "kissed with smoke norwegian savoy cabbage gratin",
+  "description": "herbal, crisp, adventurous norwegian dish featuring savoy cabbage, smoke-hot, diabetic-friendly. pairs well with rye bread and a cold lager.",
+  "cuisine": "norwegian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "savoy cabbage",
+      "amount": "2 heads",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "gluten-free alternative recommended"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375°f (190°c).",
+    "melt 2 tbsp of butter in a large saucepan over medium heat.",
+    "add the chopped garlic and cook for 2-3 minutes until fragrant.",
+    "add the chopped savoy cabbage and cook for 5-7 minutes until slightly tender.",
+    "in a separate bowl, mix together the flour, smoked paprika, and a pinch of salt and pepper.",
+    "add the low-fat milk to the bowl and mix until smooth.",
+    "add the grated cheddar cheese to the bowl and mix until well combined.",
+    "add the cooked savoy cabbage to the bowl and mix until coated with the cheese mixture.",
+    "transfer the mixture to a baking dish and top with the remaining 2 tbsp of butter.",
+    "dot the top of the dish with the remaining 2 tbsp of butter.",
+    "bake in the preheated oven for 20-25 minutes until golden brown and bubbly.",
+    "remove from the oven and sprinkle with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "smoked-paprika"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "kissed-with-smoke-norwegian-savoy-cabbage-gratin",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-smoke-norwegian-savoy-cabbage-gratin",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T15:18:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "smoke-hot",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Savoy cabbage",
+    "descriptor": "Kissed with smoke",
+    "dishForm": "Gratin"
+  }
+}

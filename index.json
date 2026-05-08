@@ -5323,6 +5323,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-silky-norwegian-salmon-biryani",
+    "title": "Kissed Silky Norwegian Salmon Biryani",
+    "tags": [
+      "bamboo-steamer",
+      "gluten-free",
+      "high-protein",
+      "meal-prep",
+      "norwegian-cuisine",
+      "pressure-cooker"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-silky-russian-lamb-stew",
     "title": "Kissed Silky Russian Lamb Stew",
     "tags": [
@@ -6756,6 +6771,20 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-smoke-norwegian-savoy-cabbage-gratin",
+    "title": "kissed with smoke norwegian savoy cabbage gratin",
+    "tags": [
+      "diabetic-friendly",
+      "gluten-free",
+      "low-carb",
+      "one-pan",
+      "smoked-paprika"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {

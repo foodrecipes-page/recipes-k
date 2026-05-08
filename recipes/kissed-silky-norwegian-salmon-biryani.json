@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Silky Norwegian Salmon Biryani",
+  "description": "A sweet and silky Norwegian dish featuring malai and salmon, perfect for meal prep, cooked to perfection in a bamboo steamer using a pressure cooker, and high in protein.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "high-protein",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian salmon fillets",
+      "amount": "4 pieces",
+      "notes": "skin removed"
+    },
+    {
+      "name": "malai",
+      "amount": "1 cup",
+      "notes": "or substitute with plain yogurt"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the basmati rice in a fine mesh sieve until the water runs clear, then soak it in water for 30 minutes.",
+    "Heat the ghee in a pan over medium heat and saute the cumin seeds until fragrant.",
+    "Add the sliced onion to the pan and cook until it is lightly browned.",
+    "In a large bowl, mix together the malai, salt, and cooked onion mixture.",
+    "Add the soaked and drained basmati rice to the bowl and mix well.",
+    "Cut the Norwegian salmon fillets into large pieces and add them to the bowl, gently folding them into the rice mixture.",
+    "Transfer the rice and salmon mixture to a bamboo steamer lined with parchment paper.",
+    "Place the bamboo steamer in a pressure cooker with 2 cups of water and cook for 10 minutes.",
+    "Let the pressure release naturally, then open the lid and fluff the biryani with a fork.",
+    "Serve the Kissed Silky Norwegian Salmon Biryani hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "norwegian-cuisine",
+    "pressure-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-silky-norwegian-salmon-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-norwegian-salmon-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:19:09Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "malai",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "salmon",
+    "descriptor": "kissed silky",
+    "dishForm": "Biryani"
+  }
+}
