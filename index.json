@@ -544,6 +544,21 @@
     "shard": "k"
   },
   {
+    "slug": "keto-peruvian-chicken-bowl",
+    "title": "Keto Peruvian Chicken Bowl",
+    "tags": [
+      "high-protein",
+      "keto-friendly",
+      "low-carb",
+      "one-pan",
+      "peruvian-cuisine",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "keto-treacle-temptation",
     "title": "Keto Treacle Temptation",
     "tags": [

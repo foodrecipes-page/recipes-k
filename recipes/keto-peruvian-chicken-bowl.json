@@ -1,0 +1,102 @@
+{
+  "title": "Keto Peruvian Chicken Bowl",
+  "description": "A resinous and pillowy solo dinner dish featuring umeboshi and dashi extract, all within a keto friendly framework",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "umeboshi",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl whisk together coconut oil, dashi extract, garlic, and ginger",
+    "Add the chicken breast to the bowl and coat with the marinade",
+    "Place the chicken on a baking sheet and bake for 25 minutes",
+    "While the chicken is cooking heat a large skillet over medium high heat",
+    "Add the sliced umeboshi to the skillet and cook for 2 minutes",
+    "Add the cauliflower rice to the skillet and cook for 5 minutes",
+    "Slice the cooked chicken into strips and add to the skillet",
+    "Stir in the chopped scallions and sesame seeds",
+    "Serve the chicken and cauliflower mixture in a bowl"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "peruvian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "keto-peruvian-chicken-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-peruvian-chicken-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:52:24Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "dashi-extract",
+    "primaryIngredient": "umeboshi",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "keto friendly",
+    "dishForm": "Bowl"
+  }
+}
