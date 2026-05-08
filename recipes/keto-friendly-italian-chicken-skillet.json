@@ -1,0 +1,105 @@
+{
+  "title": "Keto Friendly Italian Chicken Skillet",
+  "description": "A fatty and tender Italian dish featuring sweet sherry and stir-fry, perfect for a keto-friendly meal. This recipe is designed to be energizing and delicious.",
+  "cuisine": "Italian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sweet sherry",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 can",
+      "notes": "14.5 oz, diced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the garlic, onion, and bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the sweet sherry to the skillet and cook until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add the diced tomato, italian seasoning, salt, and pepper to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the vegetable mixture.",
+    "Reduce heat to medium-low and simmer, covered, until the chicken is cooked through, about 10-12 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "italian-food",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "keto-friendly-italian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-italian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:49:55Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "stir-fry",
+    "primaryIngredient": "sweet sherry",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "chicken",
+    "descriptor": "Keto friendly",
+    "dishForm": "Skillet"
+  }
+}
