@@ -1,0 +1,115 @@
+{
+  "title": "Kissed Venezuelan Chicken Braise",
+  "description": "Savory and tender Venezuelan dish featuring chicken legs, braise, gluten-free-friendly, ideal for midnight cravings.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4-6"
+    },
+    {
+      "name": "veggie oil",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the veggie oil in a large wok over medium-high heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the chicken legs and sear until browned on all sides, about 5-7 minutes.",
+    "Add the tomato paste and stir to combine, cooking for 1-2 minutes.",
+    "Add the chicken broth, soy sauce, orange juice, cumin, coriander, paprika, and salt. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes or until the chicken is cooked through.",
+    "Remove the chicken from the wok and let it rest for 5 minutes before serving.",
+    "Serve the chicken with the braised sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "chicken-legs",
+    "gluten-free",
+    "latin-american",
+    "midnight-craving",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-venezuelan-chicken-braise",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-venezuelan-chicken-braise",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:22:06Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "braise",
+    "primaryIngredient": "chicken legs",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Braise"
+  }
+}
