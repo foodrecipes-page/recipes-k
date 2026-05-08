@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Yeasty Argentinian Beef Skillet",
+  "description": "A yeasty and juicy one-pot Argentinian dish featuring ground sugar and confit-tomato, made in a raclette-grill for a low-calorie friendly meal.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium-high heat.",
+    "In a large bowl, combine ground beef, yeast, sugar, salt, and black pepper, and mix well with your hands until just combined.",
+    "Add the chopped onion and minced garlic to the bowl and mix until the onion is evenly distributed.",
+    "Heat the olive oil in the preheated raclette-grill and add the beef mixture, breaking it up with a spoon as it cooks.",
+    "Cook the beef mixture for 5-7 minutes, or until it is no longer pink, stirring occasionally.",
+    "Stir in the confit-tomato and cook for an additional 2 minutes.",
+    "Use the raclette-grill to cook the mixture to an internal temperature of at least 160 degrees.",
+    "Serve the skillet hot, garnished with chopped fresh parsley if desired.",
+    "Let the skillet rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-skillet",
+    "gluten-free",
+    "low-calorie",
+    "one-pot",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kissed-yeasty-argentinian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-argentinian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:04:56Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "confit-tomato",
+    "primaryIngredient": "ground sugar",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Skillet"
+  }
+}
