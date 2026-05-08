@@ -1,0 +1,96 @@
+{
+  "title": "Knocked up Argentinian shrimp Pasta",
+  "description": "A sweet and springy weeknight Argentinian dish featuring clotted cream and shrimp, this pescatarian-friendly recipe is perfect for a quick dinner, made possible by pressure-cooking the shrimp and pasta together.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the shrimp to the skillet and cook until they turn pink, about 2-3 minutes per side.",
+    "In a small bowl, whisk together the clotted cream, parmesan cheese, lemon juice, salt, and black pepper.",
+    "Stir the cream mixture into the skillet with the shrimp and garlic.",
+    "Add the cooked pasta to the skillet and toss everything together until the pasta is well coated with the cream sauce.",
+    "Transfer the pasta and shrimp mixture to a pressure cooker and cook on high pressure for 5 minutes.",
+    "Let the pressure release naturally for 5 minutes, then quick-release any remaining pressure.",
+    "Serve the pasta and shrimp hot, garnished with additional parmesan cheese if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "one-pot",
+    "pasta",
+    "pescatarian",
+    "shrimp",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "knocked-up-argentinian-shrimp-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knocked-up-argentinian-shrimp-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:13:27Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "clotted cream",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "shrimp",
+    "descriptor": "knocked up",
+    "dishForm": "Pasta"
+  }
+}
