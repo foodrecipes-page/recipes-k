@@ -1,0 +1,104 @@
+{
+  "title": "Kicked Korean Ukrainian Paccheri Pasta",
+  "description": "A salty, chewy, pescatarian-friendly Ukrainian dish featuring paccheri pasta and ferment-kimchi, perfect for a date-night dinner",
+  "cuisine": "Ukrainian-Korean fusion",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dolsot-stone-bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the paccheri pasta according to package instructions until al dente",
+    "While the pasta cooks, heat the gochujang sauce, soy sauce, and brown sugar in a small saucepan over medium heat, whisking until smooth",
+    "Add the minced garlic to the saucepan and cook for 1 minute, until fragrant",
+    "Stir in the ferment-kimchi and cook for an additional 2 minutes, until heated through",
+    "Drain the cooked pasta and add it to the saucepan, tossing to coat with the kimchi sauce",
+    "Flake the smoked salmon into small pieces and add it to the pasta, tossing to combine",
+    "Transfer the pasta mixture to the dolsot-stone-bowl and top with chopped green onions and toasted sesame seeds",
+    "Serve immediately, garnished with additional kimchi and green onions if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "korean-fusion",
+    "noodle-dish",
+    "pescatarian",
+    "spicy",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicked-korean-ukrainian-paccheri-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-korean-ukrainian-paccheri-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:48:14Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "paccheri pasta",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "paccheri pasta",
+    "descriptor": "Korean kicked",
+    "dishForm": "Pasta"
+  }
+}
