@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Citrusy Korean Farfalle Anju Pasta",
+  "description": "A citrusy and snappy Korean-inspired vegetarian dish featuring farfalle pasta, perfect for a fun and adventurous meal. This anju-style pasta is broiled to perfection and packed with flavor.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "bow tie shaped"
+    },
+    {
+      "name": "gochujang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "Cook the farfalle pasta according to the package instructions until al dente.",
+    "In a large bowl, whisk together the gochujang sauce, soy sauce, rice vinegar, honey, grated ginger, toasted sesame oil, salt, and black pepper.",
+    "Add the cooked farfalle pasta to the bowl and toss to coat with the sauce.",
+    "Transfer the pasta to a baking dish and broil for 5 minutes, or until slightly caramelized.",
+    "Remove the pasta from the oven and garnish with chopped green onions.",
+    "Serve immediately and enjoy.",
+    "Consider serving with additional gochujang sauce on the side for added flavor.",
+    "This dish is perfect for a fun and adventurous meal with friends and family."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "anju-style",
+    "broiled",
+    "citrusy",
+    "korean-inspired",
+    "pasta-dish",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "kissed-citrusy-korean-farfalle-anju-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-citrusy-korean-farfalle-anju-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:16:33Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "farfalle",
+    "diet": "vegetarian",
+    "region": "jeolla",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "farfalle",
+    "descriptor": "Kissed Citrusy",
+    "dishForm": "Anju Pasta"
+  }
+}
