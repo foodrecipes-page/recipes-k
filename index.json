@@ -361,6 +361,20 @@
     "shard": "k"
   },
   {
+    "slug": "keto-friendly-tunisian-haricot-beans-tagine",
+    "title": "Keto Friendly Tunisian Haricot Beans Tagine",
+    "tags": [
+      "bean-recipes",
+      "keto-friendly",
+      "low-carb",
+      "one-pot-meals",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "keto-garlic-white-asparagus-salad",
     "title": "Keto Garlic White Asparagus Salad",
     "tags": [
@@ -2648,6 +2662,21 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-thai-apricot-skewers",
+    "title": "Kissed Crunchy Thai Apricot Skewers",
+    "tags": [
+      "crunchy",
+      "fruity",
+      "grilled",
+      "macrobiotic",
+      "thai-inspired",
+      "vegetarian"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {

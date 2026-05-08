@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crunchy Thai Apricot Skewers",
+  "description": "A citrusy and crunchy Thai dish featuring apricots, perfect for a festive occasion, with a macrobiotic-friendly twist. This recipe is broiled to perfection and packed with flavor.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apricots",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, honey, coconut oil, salt, and pepper.",
+    "Add the sliced galangal and bruised lemongrass to the bowl and stir to combine.",
+    "Thread the apricots onto skewers, leaving a small space between each apricot.",
+    "Brush the apricots with the lime juice mixture, making sure they are fully coated.",
+    "Broil the skewers for 5 minutes on each side, or until they are caramelized and tender.",
+    "Garnish with chopped fresh basil and serve immediately.",
+    "Let the skewers cool for a few minutes before serving.",
+    "Serve the skewers hot, garnished with additional basil if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fruity",
+    "grilled",
+    "macrobiotic",
+    "thai-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "kissed-crunchy-thai-apricot-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-thai-apricot-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:41:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "broil",
+    "primaryIngredient": "apricot",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "apricot",
+    "descriptor": "Kissed crunchy",
+    "dishForm": "Skewers"
+  }
+}
