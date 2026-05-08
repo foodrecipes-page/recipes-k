@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Velvety Northern Thai Pepper Chicken Boat Noodles",
+  "description": "A charred and velvety post-workout Northern Thai dish featuring pepper and stir-fry, macrobiotic-friendly and served as boat noodles.",
+  "cuisine": "Thai",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "northern thai pepper",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add chicken to the skillet and cook until browned, about 5 minutes.",
+    "Add crushed northern thai pepper, onion, and garlic to the skillet and cook until the onion is translucent.",
+    "Add vegetable broth, fish sauce, and lime juice to the skillet and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cook rice noodles according to package instructions and drain.",
+    "Add cooked noodles to the skillet and stir to combine with the chicken and sauce.",
+    "Serve the noodles in small boat-shaped bowls and garnish with chopped cilantro.",
+    "Serve immediately and enjoy.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "high-protein",
+    "macrobiotic-friendly",
+    "northern-thai",
+    "post-workout",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-velvety-northern-thai-pepper-chicken-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-northern-thai-pepper-chicken-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:46:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "stir-fry",
+    "primaryIngredient": "pepper",
+    "diet": "macrobiotic",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "pepper chicken",
+    "descriptor": "kissed velvety",
+    "dishForm": "Boat Noodles"
+  }
+}
