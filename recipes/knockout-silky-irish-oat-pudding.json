@@ -1,0 +1,86 @@
+{
+  "title": "Knockout Silky Irish Oat Pudding",
+  "description": "A sour and silky lacto-vegetarian friendly Irish dish featuring vanilla, perfect for a sick day, made by poaching oats in milk and flavoring with vanilla and a touch of sugar.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "preferably Irish oats"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "optional for extra richness"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the milk, sugar, and salt, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the milk is just simmering.",
+    "Add the rolled oats to the saucepan and cook, stirring constantly, for 5 minutes, or until the oats have absorbed most of the milk and the mixture has a thick and creamy consistency.",
+    "Remove the saucepan from the heat and stir in the vanilla extract and butter until the butter has melted and the mixture is smooth.",
+    "Let the mixture cool slightly, then cover the saucepan with plastic wrap and refrigerate for at least 2 hours, or until chilled.",
+    "Just before serving, if using the egg, whisk it lightly in a small bowl, then stir it into the chilled oat mixture until well combined.",
+    "Spoon the oat pudding into individual serving cups or a large serving dish, and serve chilled, garnished with a sprinkle of sugar or a dollop of whipped cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "irish-dish",
+    "lacto-vegetarian",
+    "oat-pudding",
+    "sick-day",
+    "vanilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "knockout-silky-irish-oat-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-silky-irish-oat-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:24:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "vanilla",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "oats",
+    "descriptor": "knockout silky",
+    "dishForm": "Pudding"
+  }
+}
