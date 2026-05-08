@@ -1,0 +1,89 @@
+{
+  "title": "keenly smoky vietnamese broad beans bowl",
+  "description": "a hearty, halal-friendly, vietnamese-inspired solo dinner featuring smoky fermented broad beans in a savory sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broad beans",
+      "amount": "250g"
+    },
+    {
+      "name": "fermented bean paste",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1tsp"
+    },
+    {
+      "name": "crushed black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat coconut oil in a pan over medium heat.",
+    "add fermented bean paste and stir-fry until fragrant.",
+    "add broad beans and stir-fry until tender.",
+    "add fish sauce, lime juice, and brown sugar, stir-fry for 1 minute.",
+    "season with black pepper to taste.",
+    "transfer the mixture to a bowl and garnish with scallions.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "smoky",
+    "veggie-centric",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "keenly-smoky-vietnamese-broad-beans-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/keenly-smoky-vietnamese-broad-beans-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T12:38:43Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "smoke-hot",
+    "primaryIngredient": "broad beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "broad beans",
+    "descriptor": "keenly smoky",
+    "dishForm": "Bowl"
+  }
+}
