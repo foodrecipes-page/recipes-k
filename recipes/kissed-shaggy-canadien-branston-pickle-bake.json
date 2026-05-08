@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Shaggy Canadien Branston-Pickle Bake",
+  "description": "This festive Canadian dish features the briny, sweet and sour taste of branston pickle, wrapped in a hearty, comforting blanket of fluffy pastry. The earthy, tamasic flavors of whole wheat and oats are tempered by the creamy richness of buttermilk.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "old fashioned oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "buttermilk",
+      "amount": "1 cup",
+      "notes": "plus extra for brushing pasty tops"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "branston pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped, plus extra for garnish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped, sautéed until softened"
+    },
+    {
+      "name:": "",
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "plus extra for garnish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, whisk together flour, oats, and salt. Add in cold butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse breadcrumbs.",
+    "Next, in a separate bowl, whisk together buttermilk and eggs until well combined. Pour the wet ingredients into the dry ingredients and stir until the dough just comes together in a shaggy mass.",
+    "Turn the dough out onto a lightly floured surface and knead for 5-7 minutes, until the dough begins to come together and become smooth.",
+    "Divide the dough in half and shape each half into a round, about 1 inch thick. Place each round on a lightly floured baking sheet, leaving about 1 inch of space between them.",
+    "Brush the tops of each round with a little extra buttermilk and sprinkle with a pinch of salt. Bake in a wood-fired oven at 425F for 20-25 minutes, or until the pastry is golden brown and set.",
+    "While the pastry is baking, sauté the chopped onion in a little butter until softened. Stir in chopped fresh parsley and a pinch of black pepper.",
+    "Once the pastry is done, let it cool for 5 minutes before slicing in half and serving with a dollop of chopped branston pickle on top, and a sprinkle of extra parsley if desired.",
+    "Garnish with extra branston pickle and parsley for a festive touch, and serve with a steaming cup of hot coffee or tea for a truly Canadian breakfast experience."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "branston-pickle",
+    "breakfast",
+    "canadian",
+    "comfort-food",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-shaggy-canadien-branston-pickle-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-shaggy-canadien-branston-pickle-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:10Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "festive",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "branston-pickle",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadien",
+    "mainIngredient": "Branston-pickle",
+    "descriptor": "Kissed Shaggy",
+    "dishForm": "Bake"
+  }
+}
