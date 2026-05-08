@@ -1,0 +1,120 @@
+{
+  "title": "Kissed with Dashi Indian Chicken Curry",
+  "description": "Umami-rich Indian chicken curry infused with rich dashi extract and flavorful jam\u00133n ib rico, perfect for a lazy Sunday evening. This dish is Shojin-friendly, meaning it adheres to Zen Buddhist culinary principles of simplicity and mindfulness.",
+  "cuisine": "Indian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast, 1 pound",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Dashi extract, 2 tablespoons",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought dashi powder can be used in a pinch."
+    },
+    {
+      "name": "Unsalted butter, 4 tablespoons",
+      "amount": "4 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Finely chopped onion, 1 medium",
+      "amount": "1 med",
+      "notes": ""
+    },
+    {
+      "name": "Minced ginger, 2 cloves",
+      "amount": "2 cloves",
+      "notes": "About 1 tablespoon of minced ginger."
+    },
+    {
+      "name": "Grated jam\u00133n ib rico, 1/4 cup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala, 1 teaspoon",
+      "amount": "1 tsp",
+      "notes": "Indian spice blend."
+    },
+    {
+      "name": "Ground cumin, 1/2 teaspoon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Smoked paprika, 1/4 teaspoon",
+      "amount": "1/4 tsp",
+      "notes": "Optional for smoky depth."
+    },
+    {
+      "name": "Salt, 1/2 teaspoon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper, 1/4 teaspoon",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro, 1/4 cup chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru), 1/4 teaspoon",
+      "amount": "1/4 tsp",
+      "notes": "For added heat, adjust to taste."
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large non-stick skillet over medium heat.",
+    "Add onion and cook, stirring occasionally, until lightly browned, about 6 minutes.",
+    "Add minced ginger and cook for 1 minute more.",
+    "Add chicken and cook until browned on all sides and cooked through, about 10 minutes.",
+    "Stir in dashi extract, garam masala, ground cumin, smoked paprika, salt, and black pepper. Simmer for 2 minutes, allowing the flavors to meld.",
+    "Stir in grated jam\u00133n ib rico and cook for an additional minute.",
+    "Serve the chicken and sauce over basmati rice or with naan bread, garnished with chopped cilantro and a sprinkle of Korean chili flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian-curry",
+    "lazy-sunday",
+    "one-pan",
+    "shojin-friendly",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-with-dashi-indian-chicken-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-dashi-indian-chicken-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:32:13Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed with Dashi",
+    "dishForm": "Curry"
+  }
+}

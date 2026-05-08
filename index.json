@@ -2006,6 +2006,19 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-and-gooey-thai-tiger-prawns-kanom-ko",
+    "title": "Kissed and Gooey Thai Tiger Prawns Kanom Ko",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-and-gooey-uruguayan-lamb-bake",
     "title": "kissed and gooey uruguayan lamb bake",
     "tags": [
@@ -8187,6 +8200,21 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-dashi-indian-chicken-curry",
+    "title": "Kissed with Dashi Indian Chicken Curry",
+    "tags": [
+      "high-protein",
+      "indian-curry",
+      "lazy-sunday",
+      "one-pan",
+      "shojin-friendly",
+      "umami-rich"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
