@@ -1,0 +1,110 @@
+{
+  "title": "Kissed Silky Chinese Cookies Salt And Pepper Squid",
+  "description": "A vegetarian-friendly, herbal, and silky Chinese dish featuring cookies and shio-koji-cure, inspired by Chaozhou cuisine, in the form of salt and pepper squid, cooked in a wok. This dish is perfect for a sick day, with its comforting and soothing flavors.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "silky cookies",
+      "amount": "1 package",
+      "notes": "preferably Chinese-style"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm, drained and cut into squid-like strips"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "five-spice powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "In a small bowl, mix together the shio-koji, salt, black pepper, and five-spice powder.",
+    "Add the minced garlic and grated ginger to the wok and stir-fry until fragrant.",
+    "Add the tofu strips to the wok and stir-fry until they are golden brown and crispy.",
+    "Add the silky cookies to the wok, breaking them into pieces as they cook, and stir-fry until they are lightly toasted.",
+    "Sprinkle the shio-koji mixture over the tofu and cookies, and stir-fry until everything is well coated.",
+    "Add the chopped scallions and sesame seeds to the wok, and stir-fry for another minute.",
+    "Remove the wok from the heat, and serve the Kissed Silky Chinese Cookies Salt And Pepper Squid hot.",
+    "Garnish with additional scallions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "salt-and-pepper",
+    "shio-koji",
+    "silky-cookies",
+    "squid-inspired",
+    "vegetarian",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "kissed-silky-chinese-cookies-salt-and-pepper-squid",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-chinese-cookies-salt-and-pepper-squid",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:54:49Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "cookies",
+    "diet": "vegetarian",
+    "region": "chaozhou",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "cookies",
+    "descriptor": "Kissed Silky",
+    "dishForm": "Salt And Pepper Squid"
+  }
+}
