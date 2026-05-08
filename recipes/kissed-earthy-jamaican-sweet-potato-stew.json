@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Earthy Jamaican Sweet Potato Stew",
+  "description": "A hearty, lacto-vegetarian-friendly stew featuring katsuramuki-cut sweet potatoes and the warmth of brandy, perfect for a sick day",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "brandy",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat oil over medium heat and saute the onion until translucent",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly",
+    "Add the scotch bonnet peppers and cook for another minute",
+    "Add the katsuramuki-cut sweet potatoes, vegetable broth, and thyme, and bring to a boil",
+    "Reduce the heat to low and simmer for 20 minutes, or until the sweet potatoes are tender",
+    "Stir in the coconut milk and brandy, and cook for an additional 5 minutes",
+    "Season with salt and pepper to taste",
+    "Serve hot, garnished with fresh thyme if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brandy",
+    "cozy",
+    "jamaican-cuisine",
+    "lacto-vegetarian",
+    "stew",
+    "sweet-potatoes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-earthy-jamaican-sweet-potato-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-jamaican-sweet-potato-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:35:45Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "brandy",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "kissed earthy",
+    "dishForm": "Stew"
+  }
+}
