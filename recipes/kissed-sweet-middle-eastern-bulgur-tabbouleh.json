@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Sweet Middle Eastern Bulgur Tabbouleh",
+  "description": "A winey, gooey, comforting Middle Eastern dish featuring dried cranberries and candy, served in a cazuela.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a large bowl, combine the bulgur, dried cranberries, and candy.",
+    "In a small bowl, whisk together the red wine, olive oil, lemon juice, salt, and black pepper.",
+    "Pour the wet ingredients over the bulgur mixture and stir to combine.",
+    "Transfer the mixture to a cazuela and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Remove from the oven and stir in the chopped parsley.",
+    "Let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "middle-eastern",
+    "one-pot",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-sweet-middle-eastern-bulgur-tabbouleh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-middle-eastern-bulgur-tabbouleh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:03Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "candy",
+    "primaryIngredient": "dried cranberries",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bulgur",
+    "descriptor": "Kissed Sweet",
+    "dishForm": "Tabbouleh"
+  }
+}
