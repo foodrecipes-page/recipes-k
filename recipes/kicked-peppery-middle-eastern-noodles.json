@@ -1,0 +1,107 @@
+{
+  "title": "Kicked Peppery Middle Eastern Noodles",
+  "description": "A spicy and savory vegetarian Middle Eastern dish featuring noodles, a deglazed sauce, and a variety of flavors, perfect for a weeknight dinner",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the rice noodles according to the package instructions until they are slightly undercooked",
+    "In a large skillet, heat the olive oil over medium heat and add the sliced onion, cooking until it is translucent and starting to caramelize",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning",
+    "Stir in the ground cumin, smoked paprika, and cayenne pepper, cooking for 1 minute to allow the spices to bloom",
+    "Add the vegetable broth to the skillet and bring the mixture to a simmer, scraping up any browned bits from the bottom of the pan",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, stirring occasionally, until it has thickened slightly",
+    "Stir in the chopped fresh parsley, lemon juice, and salt, and cook for an additional minute",
+    "Add the cooked noodles to the skillet, tossing them in the sauce to coat",
+    "Use a spatula to deglaze the bottom of the pan, scraping up any remaining browned bits and incorporating them into the sauce",
+    "Serve the noodles hot, garnished with additional parsley if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "noodle-dish",
+    "one-pot",
+    "spicy",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kicked-peppery-middle-eastern-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-peppery-middle-eastern-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:54:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "monsoon",
+    "technique": "deglaze",
+    "primaryIngredient": "noodles",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "noodles",
+    "descriptor": "Kicked Peppery",
+    "dishForm": "Noodles"
+  }
+}

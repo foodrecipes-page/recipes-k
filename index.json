@@ -838,6 +838,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-peppery-middle-eastern-noodles",
+    "title": "Kicked Peppery Middle Eastern Noodles",
+    "tags": [
+      "middle-eastern",
+      "noodle-dish",
+      "one-pot",
+      "spicy",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-peppery-ukrainian-sausage-skillet",
     "title": "Kicked Peppery Ukrainian Sausage Skillet",
     "tags": [
