@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Egyptian Date Tagine",
+  "description": "Nutty, gooey, and rich, this Egyptian dish is perfect for a romantic date night. Use egg-free-friendly ingredients to make it suitable for all dietary needs.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "egg-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "pitted dates",
+      "amount": "12",
+      "notes": "Medjool dates work well in this recipe"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup",
+      "notes": "use creamy almond butter for best results"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste for sweetness level"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": "chilled in the fridge overnight"
+    },
+    {
+      "name": "shio-cure flounder fillets",
+      "amount": "2",
+      "notes": "substitute with any firm white fish"
+    },
+    {
+      "name": "all-purpose seasoning blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tbsp",
+      "notes": "softened to room temperature"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375° F (190° C).",
+    "In a blender or food processor, combine almond butter, honey, and 1/2 cup of coconut milk to make the date paste.",
+    "Cut the shio-cure flounder fillets into small pieces and set aside.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the blended date paste to the saucepan with melted butter and stir until combined.",
+    "Add the fish pieces to the saucepan and stir to coat with the date paste mixture.",
+    "Transfer the saucepan to the preheated oven and bake for 25 minutes.",
+    "Remove the saucepan from the oven and let it cool for 5 minutes.",
+    "Stir in the remaining 1/2 cup of chilled coconut milk and adjust seasoning to taste.",
+    "Serve the Kissed Egyptian Date Tagine warm, garnished with fresh herbs or edible flowers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "egg-free",
+    "one-pot",
+    "romantic",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "kissed-egyptian-date-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-egyptian-date-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T13:01:31Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "all-purpose seasoning",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "date",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
