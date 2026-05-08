@@ -1,0 +1,104 @@
+{
+  "title": "Kicked Spicy Thai Chicken Curry",
+  "description": "A rich and spicy Thai curry made with dried chillies and coconut cream, perfect for a lazy Sunday, this dish is ayurvedic tamasic friendly and cooked to perfection on a salt block.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite sized pieces"
+    },
+    {
+      "name": "dried red chillies",
+      "amount": "4-6",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block over medium high heat for 10 minutes.",
+    "Grind the dried red chillies into a fine powder using a spice grinder.",
+    "Heat the oil on the preheated salt block and add the minced garlic and bruised lemon grass.",
+    "Add the chicken to the salt block and cook until browned on all sides.",
+    "Add the ground chillies, fish sauce, and lime juice to the salt block and stir to combine.",
+    "Pour in the coconut cream and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to medium low and let the curry simmer for 20 minutes, stirring occasionally.",
+    "Season the curry with salt and black pepper to taste.",
+    "Serve the curry hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "coconut-based",
+    "gluten-free",
+    "one-pan",
+    "spicy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "kicked-spicy-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "shattering",
+    "mood": "lazy-sunday",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "dried chillies",
+    "diet": "ayurvedic-tamasic",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "kicked spicy",
+    "dishForm": "Curry"
+  }
+}

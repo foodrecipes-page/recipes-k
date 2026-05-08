@@ -777,6 +777,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-spicy-thai-chicken-curry",
+    "title": "Kicked Spicy Thai Chicken Curry",
+    "tags": [
+      "ayurvedic-friendly",
+      "coconut-based",
+      "gluten-free",
+      "one-pan",
+      "spicy",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-springy-dongbei-pork-belly-roast",
     "title": "Kicked Springy Dongbei Pork Belly Roast",
     "tags": [
