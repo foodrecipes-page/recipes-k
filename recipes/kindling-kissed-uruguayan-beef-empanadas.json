@@ -1,0 +1,101 @@
+{
+  "title": "Kindling Kissed Uruguayan Beef Empanadas",
+  "description": "Fresh, flaky, and comforting Uruguayan dish featuring ground cinnamon and rest-meat, perfect for a weeknight dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the kadhai over medium-high heat, adding 2 tablespoons of olive oil to the pan",
+    "Add the diced onion to the kadhai and cook until translucent, about 5 minutes",
+    "Add the minced garlic to the kadhai and cook for an additional 1 minute",
+    "Add the ground beef to the kadhai, breaking it up with a spoon as it cooks, until browned, about 5-7 minutes",
+    "Add the ground cinnamon, sea salt, and black pepper to the kadhai, stirring to combine",
+    "Roll out the empanada dough to a thickness of about 1/8 inch",
+    "Spoon about 1 tablespoon of the beef mixture onto the center of each empanada dough round",
+    "Brush the edges of the empanada dough with the beaten egg for a golden glaze",
+    "Fold the empanada dough in half, pressing the edges together to seal the empanada",
+    "Add the empanadas to the kadhai, cooking for 2-3 minutes on each side, until golden brown"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-empanadas",
+    "comfort-food",
+    "ground-cinnamon",
+    "one-pan",
+    "uruguayan-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kindling-kissed-uruguayan-beef-empanadas",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kindling-kissed-uruguayan-beef-empanadas",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T07:46:44Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "rest-meat",
+    "primaryIngredient": "ground cinnamon",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "kindling kissed",
+    "dishForm": "Empanadas"
+  }
+}

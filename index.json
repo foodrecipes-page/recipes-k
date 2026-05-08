@@ -987,6 +987,21 @@
     "shard": "k"
   },
   {
+    "slug": "kindling-kissed-uruguayan-beef-empanadas",
+    "title": "Kindling Kissed Uruguayan Beef Empanadas",
+    "tags": [
+      "beef-empanadas",
+      "comfort-food",
+      "ground-cinnamon",
+      "one-pan",
+      "uruguayan-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kindly-baked-mediterranean-chickpeas-pilaf",
     "title": "Kindly Baked Mediterranean Chickpeas Pilaf",
     "tags": [
@@ -4194,6 +4209,22 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 36,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-ukrainian-cannellini-beans-pastry-casserole",
+    "title": "Kissed Smoky Ukrainian Cannellini Beans Pastry Casserole",
+    "tags": [
+      "cheese-pull",
+      "date-night",
+      "gluten-free",
+      "pastry-crust",
+      "smoked-mozzarella",
+      "sugar-free",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 65,
     "shard": "k"
   },
   {
