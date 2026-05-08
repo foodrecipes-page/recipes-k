@@ -1,0 +1,102 @@
+{
+  "title": "Kitchen Dense Filipino Snow Peas Stir Fry",
+  "description": "A malty, dense, and comforting Filipino dish featuring snow peas, served in a Korean brass bowl, with anti-inflammatory friendly ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the snow peas and cook until tender, about 2 minutes.",
+    "In a small bowl, whisk together the fish sauce, soy sauce, turmeric, black pepper, and salt.",
+    "Pour the sauce over the snow peas and stir to combine.",
+    "Cook for an additional 1 minute, until the sauce is bubbly and slightly thickened.",
+    "Serve the stir fry in a Korean brass bowl and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "kitchen-dense-filipino-snow-peas-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-dense-filipino-snow-peas-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:15:42Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "fry",
+    "primaryIngredient": "snow peas",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "snow peas",
+    "descriptor": "kitchen dense",
+    "dishForm": "Stir-fry"
+  }
+}
