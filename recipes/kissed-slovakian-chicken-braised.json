@@ -1,0 +1,128 @@
+{
+  "title": "Kissed Slovakian Chicken Braised",
+  "description": "A tangy and chewy brunch dish featuring chicken stock cube, poach, and low-sodium-friendly ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "1",
+      "notes": "",
+      "quantity": "cube",
+      "unit": "cube"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium",
+      "quantity": "medium",
+      "unit": "each"
+    },
+    {
+      "name": "garlic",
+      "amount": "2",
+      "notes": "minced",
+      "quantity": "minced",
+      "unit": "cloves"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1",
+      "notes": "teaspoon",
+      "quantity": "tsp",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1",
+      "notes": "teaspoon",
+      "quantity": "tsp",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": "teaspoon",
+      "quantity": "tsp",
+      "unit": "teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2",
+      "notes": "tablespoon",
+      "quantity": "tbsp",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2",
+      "notes": "tablespoon",
+      "quantity": "tbsp",
+      "unit": "tablespoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2",
+      "notes": "cups",
+      "quantity": "cups",
+      "unit": "cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "Season the chicken with caraway seeds, paprika, and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken until browned on both sides, about 3-4 minutes per side.",
+    "Transfer the chicken to a separate plate and set aside.",
+    "Reduce heat to medium and add the onion to the skillet, cooking until translucent, about 5 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chicken broth and red wine vinegar to the skillet, stirring to combine.",
+    "Return the chicken to the skillet and cover with a lid.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 10-12 minutes, until the chicken is cooked through.",
+    "Remove the chicken from the skillet and let it rest for a few minutes before slicing and serving.",
+    "Strain the braising liquid through a fine-mesh sieve into a clean saucepan, discarding any solids.",
+    "Skim off any excess fat from the surface of the braising liquid.",
+    "Simmer the braising liquid over medium heat until reduced to about half its original volume, stirring occasionally.",
+    "Serve the sliced chicken with the reduced braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 22,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "kissed-slovakian-chicken-braised",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-slovakian-chicken-braised",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:49:39Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "chewy",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed",
+    "dishForm": "Braised"
+  }
+}
