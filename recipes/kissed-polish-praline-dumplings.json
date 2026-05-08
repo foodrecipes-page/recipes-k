@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Polish Praline Dumplings",
+  "description": "A kid-friendly Polish dish featuring praline and herbal flavors, cooked to perfection on a salt block, this macrobiotic-friendly dessert is both chewy and delicious, with a French twist from the praline, creating an emulsified treat that is sure to please, making it a great option for a fun and tasty dessert",
+  "cuisine": "Polish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "praline paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried mint leaves",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 350 degrees Fahrenheit for 10 minutes.",
+    "In a large mixing bowl, whisk together the flour, praline paste, honey, and dried mint leaves.",
+    "In a separate bowl, whisk together the egg, milk, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Place the dumplings on the preheated salt block and cook for 12 minutes.",
+    "Serve the dumplings warm, garnished with additional dried mint leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "herbal-flavors",
+    "kid-friendly",
+    "macrobiotic",
+    "polish-dessert",
+    "praline-based",
+    "salt-block-cooking"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "kissed-polish-praline-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-polish-praline-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:41:08Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "emulsify",
+    "primaryIngredient": "praline-french",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "praline",
+    "descriptor": "kid friendly chewy",
+    "dishForm": "Dumplings"
+  }
+}
