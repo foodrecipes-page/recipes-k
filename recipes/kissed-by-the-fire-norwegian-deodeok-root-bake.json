@@ -1,0 +1,105 @@
+{
+  "title": "Kissed by the Fire Norwegian Deodeok-root Bake",
+  "description": "A pescatarian-friendly, aerated Norwegian dish featuring deodeok-root, baked to perfection in a wood-fired oven.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Deodeok-root",
+      "amount": "2 medium",
+      "notes": "Peel and chop deodeok-root into 1-inch cubes"
+    },
+    {
+      "name": "Smoked salmon fillet",
+      "amount": "1 small",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Unsalted"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 450°F (232°C).",
+    "Place the deodeok-root cubes in a bowl and toss with butter, garlic, salt, and black pepper.",
+    "Spread the deodeok-root mixture evenly on a baking sheet lined with parchment paper.",
+    "Bake the deodeok-root for 20 minutes, or until tender and lightly browned.",
+    "Meanwhile, combine smoked salmon pieces, heavy cream, and chopped dill in a separate bowl.",
+    "Stir in grated Parmesan cheese and season with salt and black pepper.",
+    "Remove the deodeok-root from the oven and top with the salmon mixture.",
+    "Return to the oven and bake for an additional 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "easy-dinner",
+    "main-course",
+    "norwegian",
+    "one-pan",
+    "pescatarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 28
+  },
+  "slug": "kissed-by-the-fire-norwegian-deodeok-root-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-the-fire-norwegian-deodeok-root-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:49:04Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "deodeok-root",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Deodeok-root",
+    "descriptor": "Kissed by the fire",
+    "dishForm": "Bake"
+  }
+}

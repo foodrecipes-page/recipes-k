@@ -947,6 +947,21 @@
     "shard": "k"
   },
   {
+    "slug": "kiddie-kissed-norwegian-cheese-casserole",
+    "title": "Kiddie Kissed Norwegian Cheese Casserole",
+    "tags": [
+      "cheesy",
+      "comfort-food",
+      "kid-friendly",
+      "norwegian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kielbasini-paleo",
     "title": "Kielbasini Paleo",
     "tags": [
@@ -1622,6 +1637,22 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 42,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-the-fire-norwegian-deodeok-root-bake",
+    "title": "Kissed by the Fire Norwegian Deodeok-root Bake",
+    "tags": [
+      "dinner-ideas",
+      "easy-dinner",
+      "main-course",
+      "norwegian",
+      "one-pan",
+      "pescatarian",
+      "wood-fired"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
