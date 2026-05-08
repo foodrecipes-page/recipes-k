@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Peppery Brazilian Korean Pear Stew",
+  "description": "A flavorful and spicy stew featuring Korean pear, this dish is perfect for a weeknight dinner, combining the warmth of Brazilian cuisine with the uniqueness of Korean ingredients, all while adhering to satvik-friendly principles by avoiding meat and focusing on wholesome, plant-based ingredients.",
+  "cuisine": "Brazilian Korean Fusion",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean pear",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Brazilian peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "whole"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the coconut oil over medium heat.",
+    "Add the chopped onion and sauté until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly to prevent burning.",
+    "Add the diced Korean pear and cook for about 5 minutes, or until it starts to soften.",
+    "Add the Brazilian peppercorns, salt, and black pepper, and stir well to combine.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew simmer for 20 minutes, or until the flavors have melded together and the pear is tender.",
+    "In a small bowl, mix the agar agar powder with a little water to dissolve, then add it to the stew and continue to simmer for another 5 minutes, or until the stew has thickened slightly.",
+    "Remove the pot from the heat and let the stew cool slightly before serving.",
+    "Serve the stew hot, garnished with additional Brazilian peppercorns if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "one-pot",
+    "pear",
+    "spicy",
+    "stew",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-peppery-brazilian-korean-pear-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peppery-brazilian-korean-pear-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:10:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "simmer",
+    "primaryIngredient": "korean-pear",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "korean pear",
+    "descriptor": "kissed peppery",
+    "dishForm": "Stew"
+  }
+}
