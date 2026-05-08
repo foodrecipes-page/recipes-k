@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Indulgent Canadian Bacon Braise",
+  "description": "A rich and indulgent Canadian dish featuring tender bacon and a flavorful braise, crafted with ayurvedic-rajasic-friendly ingredients to delight the senses.",
+  "cuisine": "Canadian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 pound",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, cook the Canadian bacon over medium heat until browned, then set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot, cooking for an additional 5 minutes.",
+    "Add the beef broth, brown sugar, thyme, and pepper to the pot, stirring to combine.",
+    "Return the Canadian bacon to the pot, covering with a lid.",
+    "Transfer the pot to the preheated oven, braising for 2 hours.",
+    "Remove the pot from the oven and let cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bacon-lovers",
+    "canadian-cuisine",
+    "comfort-food",
+    "one-pot",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 32
+  },
+  "slug": "kissed-indulgent-canadian-bacon-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indulgent-canadian-bacon-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:20:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "braise",
+    "primaryIngredient": "bacon",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "bacon",
+    "descriptor": "kissed indulgent",
+    "dishForm": "Braise"
+  }
+}
