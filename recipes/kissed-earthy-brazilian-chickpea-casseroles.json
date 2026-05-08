@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Earthy Brazilian Chickpea Casseroles",
+  "description": "Earthy, fluffy Brazilian dish featuring chickpea flour, perfect for meal prep, and egg-free-friendly, baked in individual mini cocottes. This recipe combines the richness of Brazilian cuisine with the convenience of a casserole.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 1/2 cups",
+      "notes": "also known as gram flour"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the chickpea flour and water until smooth.",
+    "Heat the olive oil in a skillet over medium heat and saute the diced onion until translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced bell pepper and cook until tender.",
+    "Stir in the canned diced tomatoes, salt, and black pepper.",
+    "Pour the chickpea flour mixture into the skillet and stir to combine.",
+    "Divide the mixture among 6 individual mini cocottes.",
+    "Bake for 25 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "chickpea-flour",
+    "egg-free",
+    "gluten-free",
+    "meal-prep",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-earthy-brazilian-chickpea-casseroles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-brazilian-chickpea-casseroles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:19Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "chickpea flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chickpeas",
+    "descriptor": "kissed earthy",
+    "dishForm": "Casseroles"
+  }
+}

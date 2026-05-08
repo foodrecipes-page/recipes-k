@@ -94,6 +94,22 @@
     "shard": "k"
   },
   {
+    "slug": "kaleidoscopic-nutty-japanese-matcha-inari-zushi",
+    "title": "Kaleidoscopic Nutty Japanese Matcha Inari Zushi",
+    "tags": [
+      "easy-to-make",
+      "japanese-food",
+      "lunch-box",
+      "matcha",
+      "nutty",
+      "party-food",
+      "vegetarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kashmiri-bhuna",
     "title": "Kashmiri Bhuna",
     "tags": [
@@ -1669,6 +1685,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-bitter-middle-eastern-eggplant-baba-ganoush",
+    "title": "Kissed Bitter Middle Eastern Eggplant Baba Ganoush",
+    "tags": [
+      "dip",
+      "gluten-free",
+      "macrobiotic",
+      "middle-eastern",
+      "vegan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-bitter-slovakian-danmuji-hash",
     "title": "kissed bitter slovakian danmuji hash",
     "tags": [
@@ -2868,6 +2900,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-earthy-brazilian-chickpea-casseroles",
+    "title": "Kissed Earthy Brazilian Chickpea Casseroles",
+    "tags": [
+      "brazilian-food",
+      "chickpea-flour",
+      "egg-free",
+      "gluten-free",
+      "meal-prep",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {

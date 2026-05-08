@@ -1,0 +1,97 @@
+{
+  "title": "Kaleidoscopic Nutty Japanese Matcha Inari Zushi",
+  "description": "A vegetarian-friendly Japanese dish featuring matcha and nutty flavors, perfect for a crowd-pleasing snack or lunch.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "matcha powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "aburaage tofu pouches",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and cook it according to the package instructions.",
+    "In a small saucepan, combine the rice vinegar, sugar, and salt, and heat the mixture over low heat, stirring until the sugar and salt are dissolved.",
+    "Allow the vinegar mixture to cool, then stir in the matcha powder until it is well combined.",
+    "Once the rice is cooked, allow it to cool, then mix in the matcha and vinegar mixture until the rice is evenly coated.",
+    "Cut the aburaage tofu pouches in half and blanch them in boiling water for 30 seconds to remove excess oil.",
+    "Drain the tofu pouches and fill each one with a small amount of the matcha rice mixture.",
+    "Serve the Inari Zushi at room temperature, garnished with sesame seeds and chopped walnuts.",
+    "To add extra crunch, sprinkle some toasted sesame seeds and chopped walnuts on top of the Inari Zushi before serving.",
+    "Store any leftover Inari Zushi in an airtight container in the refrigerator for up to 24 hours."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "japanese-food",
+    "lunch-box",
+    "matcha",
+    "nutty",
+    "party-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kaleidoscopic-nutty-japanese-matcha-inari-zushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kaleidoscopic-nutty-japanese-matcha-inari-zushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:19Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "shattering",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "matcha",
+    "diet": "vegetarian",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "matcha",
+    "descriptor": "kaleidoscopic nutty",
+    "dishForm": "Inari Zushi"
+  }
+}

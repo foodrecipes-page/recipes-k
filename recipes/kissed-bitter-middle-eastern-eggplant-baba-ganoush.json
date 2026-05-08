@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Bitter Middle Eastern Eggplant Baba Ganoush",
+  "description": "A bitter and tender Middle Eastern dish featuring roasted eggplant, white vinegar, and a refreshing ice-bath shock, perfect for a weeknight dinner. This macrobiotic-friendly baba ganoush is a delicious and healthy alternative to traditional dips.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "macrobiotic",
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "any variety, but purple works best"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the eggplants in half lengthwise and place them on a baking sheet lined with parchment paper.",
+    "Roast the eggplants in the oven for 30 minutes, or until the skin is charred and the flesh is tender.",
+    "Remove the eggplants from the oven and immediately submerge them in an ice bath to stop the cooking process.",
+    "Once the eggplants have cooled, scoop out the flesh and place it in a blender or food processor.",
+    "Add the white vinegar, lemon juice, garlic, tahini, olive oil, salt, and black pepper to the blender and blend until smooth.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the baba ganoush to a serving bowl and garnish with parsley or other herbs, if desired.",
+    "Serve the baba ganoush with pita bread, vegetables, or crackers.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dip",
+    "gluten-free",
+    "macrobiotic",
+    "middle-eastern",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "slug": "kissed-bitter-middle-eastern-eggplant-baba-ganoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-bitter-middle-eastern-eggplant-baba-ganoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:42:42Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "white vinegar",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "eggplant",
+    "descriptor": "kissed bitter",
+    "dishForm": "Baba Ganoush"
+  }
+}
