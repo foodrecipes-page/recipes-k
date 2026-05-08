@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Charred Indian Paneer Tikka",
+  "description": "A kid-friendly Indian dish featuring charred and molten paneer, lightly flavored with rum, air-fried to perfection, this Kerala-inspired dish is raw-friendly and served in a paneer tikka form.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "cut into bite-sized cubes"
+    },
+    {
+      "name": "light rum",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the yogurt, garam masala, cumin powder, coriander powder, cayenne pepper, and salt.",
+    "Add the paneer cubes to the bowl and mix well to coat.",
+    "Cover the bowl with a lid and refrigerate for at least 30 minutes to marinate.",
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Remove the paneer from the marinade and cook in the air fryer for 5 minutes, shaking halfway through.",
+    "Brush the paneer with olive oil and cook for an additional 2 minutes, until lightly charred.",
+    "In a small bowl, mix together the light rum and lemon juice.",
+    "Brush the rum and lemon mixture onto the charred paneer.",
+    "Serve the paneer tikka hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "gluten-free",
+    "indian-cuisine",
+    "kid-friendly",
+    "quick-dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-charred-indian-paneer-paneer-tikka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-indian-paneer-paneer-tikka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:29:37Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "air-fry",
+    "primaryIngredient": "light rum",
+    "diet": "raw",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "paneer",
+    "descriptor": "Kissed Charred",
+    "dishForm": "Paneer Tikka"
+  }
+}
