@@ -1,0 +1,99 @@
+{
+  "title": "Kissed with Spices American Sweet Potato Hash",
+  "description": "An earthy, silky American dish featuring dark brown sugar, fermented chili flakes, and sweet potatoes. Perfect for a comforting breakfast or brunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "large sweet potatoes (2-3)",
+      "amount": "peeled and diced",
+      "notes": null
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fermented chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "available at Asian markets or online"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "medium, diced",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the diced sweet potatoes and cook for 10-12 minutes, stirring occasionally.",
+    "Stir in the dark brown sugar, fermented chili flakes, and black pepper.",
+    "Continue cooking for another 5 minutes, stirring frequently.",
+    "Taste and adjust the seasoning with salt as needed.",
+    "Spoon the sweet potato mixture onto plates and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "easy-breakfast",
+    "gluten-free",
+    "one-pan",
+    "sweet-potato",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "kissed-with-spices-american-sweet-potato-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spices-american-sweet-potato-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:25:48Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "ferment-jang",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "Sweet potato",
+    "descriptor": "Kissed with spices",
+    "dishForm": "Hash"
+  }
+}
