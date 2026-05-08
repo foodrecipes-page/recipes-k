@@ -1,0 +1,88 @@
+{
+  "title": "smoldering heat italian galangal torta caprese",
+  "description": "an italian dish with a twist of galangal and smoldering heat, served as a tart and energizing torta caprese.",
+  "cuisine": "piedmontese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "galangal",
+      "amount": "2 medium pieces"
+    },
+    {
+      "name": "italian bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs"
+    }
+  ],
+  "instructions": [
+    "preheat the comal over low heat",
+    "toast the italian bread on the comal until lightly browned",
+    "mash the galangal in a mortar and pestle until well-crushed",
+    "mix the mascarpone cheese with the parmesan cheese, olive oil, and salt",
+    "stir in the crushed galangal and chopped fresh thyme",
+    "spread the cheese and galangal mixture on the toasted bread",
+    "place the bread on the comal and cook for 2 minutes",
+    "remove from heat and let cool for 1 minute",
+    "slice the torta into wedges and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "briny",
+    "crunchy",
+    "energizing",
+    "italian",
+    "piedmontese",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 21,
+    "carbs": 30,
+    "fat": 32
+  },
+  "slug": "kissed-by-smoldering-heat-italian-galangal-torta-caprese",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-smoldering-heat-italian-galangal-torta-caprese",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:19:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "energizing",
+    "technique": "bain-marie",
+    "primaryIngredient": "galangal",
+    "diet": "dash",
+    "region": "piedmontese",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "galangal",
+    "descriptor": "kissed by smoldering heat",
+    "dishForm": "Torta Caprese"
+  }
+}
