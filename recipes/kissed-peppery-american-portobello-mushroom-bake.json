@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Peppery American Portobello Mushroom Bake",
+  "description": "A nostalgic American dish featuring peppery portobello mushrooms baked in a wood-fired oven with bay leaves, wrapped in ti leaves for a plant-based friendly meal. This recipe combines the earthy flavor of mushrooms with a hint of pepper and the aroma of bay leaves.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "4 large",
+      "notes": "stems removed and caps sliced 1/2 inch thick"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together olive oil, garlic powder, onion powder, salt, and black pepper.",
+    "Brush the mixture evenly onto both sides of the mushroom slices.",
+    "Place a bay leaf on each mushroom slice, then wrap each slice in a ti leaf.",
+    "Place the wrapped mushrooms in the preheated oven and bake for 20 minutes.",
+    "Flip the mushrooms and continue baking for an additional 15 minutes, or until they are tender and the ti leaves are crispy.",
+    "Remove the mushrooms from the oven and let them cool for a few minutes before serving.",
+    "Serve the mushrooms hot, garnished with additional bay leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-classics",
+    "mushroom-lovers",
+    "peppery-goodness",
+    "plant-based",
+    "ti-leaf-wrapped",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "kissed-peppery-american-portobello-mushroom-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peppery-american-portobello-mushroom-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:01:53Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "bay leaves",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "portobello mushrooms",
+    "descriptor": "kissed peppery",
+    "dishForm": "Bake"
+  }
+}

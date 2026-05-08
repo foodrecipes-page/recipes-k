@@ -5414,6 +5414,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-peppery-american-portobello-mushroom-bake",
+    "title": "Kissed Peppery American Portobello Mushroom Bake",
+    "tags": [
+      "american-classics",
+      "mushroom-lovers",
+      "peppery-goodness",
+      "plant-based",
+      "ti-leaf-wrapped",
+      "wood-fired"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-peppery-brazilian-korean-pear-stew",
     "title": "Kissed Peppery Brazilian Korean Pear Stew",
     "tags": [
@@ -7957,6 +7972,21 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 80,
+    "shard": "k"
+  },
+  {
+    "slug": "kitchen-fresh-kenyan-beef-skewers",
+    "title": "Kitchen Fresh Kenyan Beef Skewers",
+    "tags": [
+      "beef-recipes",
+      "high-protein",
+      "kenyan-cuisine",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

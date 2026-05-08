@@ -1,0 +1,107 @@
+{
+  "title": "Kitchen Fresh Kenyan Beef Skewers",
+  "description": "A flavorful and healthy Kenyan dish featuring beef and vegetables, perfect for a post-workout meal. This ovo-vegetarian-friendly recipe is cooked in papillote for a fluffy and tender result.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together paprika, salt, and black pepper.",
+    "Add the beef strips, bell peppers, onions, mushrooms, garlic, and ginger to the bowl and toss to coat.",
+    "Thread the beef and vegetable mixture onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and brush with beaten eggs.",
+    "Cover the baking sheet with aluminum foil to create a papillote.",
+    "Bake for 20 minutes, then remove the foil and bake for an additional 10 minutes.",
+    "Serve the skewers hot, garnished with fresh parsley or cilantro.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with your favorite sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kitchen-fresh-kenyan-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-fresh-kenyan-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:00:59Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "beef",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "beef",
+    "descriptor": "kitchen fresh",
+    "dishForm": "Skewers"
+  }
+}
