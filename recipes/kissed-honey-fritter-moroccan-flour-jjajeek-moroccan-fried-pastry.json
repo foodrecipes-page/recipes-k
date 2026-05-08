@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Honey Fritter Moroccan Flour Jjajeek",
+  "description": "A savory and crumbly Moroccan dish made with fermented ingredients and fines-herbes, served with a sweet honey glaze.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "halal",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "fines-herbes",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crushed sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Mix flour, yeast, and salt in a large bowl.",
+    "Gradually add water and honey, stirring to form a dough.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 1 hour.",
+    "Preheat oil in a deep frying pan or a korean brass bowl to 350°F.",
+    "Shape the dough into small balls and flatten them into disks.",
+    "Fry the disks in batches until golden brown, about 2-3 minutes per side.",
+    "Drain the fritters on paper towels and sprinkle with sesame seeds.",
+    "Serve warm with a honey glaze made by mixing honey and ghee in a small bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flaky",
+    "fritters",
+    "gluten-free",
+    "halal",
+    "moroccan",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:53:56Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "ferment",
+    "primaryIngredient": "fines-herbes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Flour",
+    "descriptor": "Kissed Honey Fritter",
+    "dishForm": "Jjajeek (Moroccan Fried Pastry)"
+  }
+}
