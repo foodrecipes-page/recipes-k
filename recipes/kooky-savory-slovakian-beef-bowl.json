@@ -1,0 +1,100 @@
+{
+  "title": "Kooky Savory Slovakian Beef Bowl",
+  "description": "A hearty Slovakian dish featuring beef stock cubes and melted cheese, served in a stone bowl, perfect for a midnight craving. This dish combines Mediterranean flavors with traditional Slovakian ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stock cubes",
+      "amount": "4 cubes",
+      "notes": "low sodium"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "stone bowl",
+      "amount": "1 bowl"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the beef stock cubes to the skillet and stir to combine.",
+    "Transfer the mixture to the stone bowl and top with crumbled feta cheese.",
+    "Bake the mixture in the preheated oven for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the bowl from the oven and sprinkle with chopped fresh parsley.",
+    "Serve the Kooky Savory Slovakian Beef Bowl hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty",
+    "mediterranean-inspired",
+    "one-bowl",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kooky-savory-slovakian-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-savory-slovakian-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:55Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "beef stock cubes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "beef",
+    "descriptor": "Kooky savory",
+    "dishForm": "Bowl"
+  }
+}

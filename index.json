@@ -6887,6 +6887,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-yeasty-dutch-narutomaki-noodles",
+    "title": "Kissed Yeasty Dutch Narutomaki Noodles",
+    "tags": [
+      "dutch-cuisine",
+      "kosher-friendly",
+      "noodle-dish",
+      "one-pan",
+      "weeknight",
+      "yeasty"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-yeasty-french-chicken-blanquette",
     "title": "Kissed Yeasty French Chicken Blanquette",
     "tags": [
@@ -7549,6 +7564,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kooky-savory-slovakian-beef-bowl",
+    "title": "Kooky Savory Slovakian Beef Bowl",
+    "tags": [
+      "comfort-food",
+      "hearty",
+      "mediterranean-inspired",
+      "one-bowl",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

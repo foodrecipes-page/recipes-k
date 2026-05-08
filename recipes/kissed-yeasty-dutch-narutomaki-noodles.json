@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Yeasty Dutch Narutomaki Noodles",
+  "description": "A yeasty, aerated weeknight Dutch dish featuring narutomaki and a mother sauce base, this recipe is kosher friendly and perfect for a quick dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all purpose"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "low fat"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "black"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and a pinch of salt.",
+    "Gradually add the milk to the bowl, stirring with a wooden spoon until a smooth batter forms.",
+    "Add the sliced narutomaki to the batter and stir gently to combine.",
+    "Melt the butter in a large skillet over medium heat and add the chopped onion.",
+    "Cook the onion until it is translucent and starting to caramelize, then add the batter to the skillet.",
+    "Cook the noodles for 5 minutes on the first side, then flip and cook for an additional 5 minutes.",
+    "Season the noodles with salt, pepper, and nutmeg to taste.",
+    "Serve the noodles hot, garnished with additional sliced narutomaki if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "kosher-friendly",
+    "noodle-dish",
+    "one-pan",
+    "weeknight",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-yeasty-dutch-narutomaki-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-dutch-narutomaki-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:58:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "weeknight",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "narutomaki",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "narutomaki",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Noodles"
+  }
+}
