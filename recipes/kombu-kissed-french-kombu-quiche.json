@@ -1,0 +1,106 @@
+{
+  "title": "Kombu Kissed French Kombu Quiche",
+  "description": "A salty, flaky French quiche featuring kombu, perfect for a brunch mood, this dish is jain-friendly and boiled to perfection.",
+  "cuisine": "French",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kombu",
+      "amount": "2 sheets",
+      "notes": "dried and cut into small pieces"
+    },
+    {
+      "name": "pie crust",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "crumbled"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tablespoon",
+      "notes": "to replicate cheese flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pie crust and place it in a tart pan with a removable bottom.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the onion and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "In a large bowl, whisk together the tofu, nutritional yeast, salt, and pepper.",
+    "Add the cooked mushroom mixture and chopped kombu to the bowl and stir to combine.",
+    "Pour the filling mixture into the pie crust.",
+    "Bake the quiche for 35-40 minutes, or until the crust is golden brown and the filling is set.",
+    "Remove the quiche from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "french-cuisine",
+    "jain-friendly",
+    "kombu-recipes",
+    "vegetarian-quiche"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "kombu-kissed-french-kombu-quiche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kombu-kissed-french-kombu-quiche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:06:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "flaky",
+    "mood": "brunch-mood",
+    "technique": "boil",
+    "primaryIngredient": "kombu",
+    "diet": "jain",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "kombu",
+    "descriptor": "Kombu Kissed",
+    "dishForm": "Quiche"
+  }
+}
