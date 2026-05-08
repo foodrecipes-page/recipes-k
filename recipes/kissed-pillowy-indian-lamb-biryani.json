@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Pillowy Indian Lamb Biryani",
+  "description": "A romantic Indian dish featuring tender lamb, fluffy basmati rice, and sweet Turkish delight, all combined in a pillowy and slightly bitter biryani, carefully prepared to be onion and garlic free.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "no-onion-no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Turkish delight",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pan, heat the ghee over medium heat and add the cumin seeds.",
+    "Add the lamb pieces and cook until they are browned on all sides.",
+    "Add the coriander powder, salt, and cook for 1 minute.",
+    "Stir in the yogurt, rose water, and lemon juice, and bring to a simmer.",
+    "Reduce the heat to low and let it cook for 10 minutes.",
+    "In a separate pot, bring 4 cups of water to a boil and add the basmati rice.",
+    "Cook the rice until it is 70% done, then drain the water.",
+    "In a large bowl, combine the cooked rice, lamb mixture, and diced Turkish delight.",
+    "Mix well and transfer the mixture to a baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "indian-food",
+    "lamb-recipes",
+    "no-onion-no-garlic",
+    "romantic-dinner",
+    "turkish-delight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-pillowy-indian-lamb-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-pillowy-indian-lamb-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:26:10Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "pillowy",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "turkish delight",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed pillowy",
+    "dishForm": "Biryani"
+  }
+}
