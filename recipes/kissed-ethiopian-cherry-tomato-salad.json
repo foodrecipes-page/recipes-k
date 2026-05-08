@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Ethiopian Cherry Tomato Salad",
+  "description": "A fresh and light Ethiopian dish featuring cherry tomatoes and nuka-pickle, served in an agave leaf vessel.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "raw",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry tomatoes",
+      "amount": "2 cups",
+      "notes": "halved"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Rinse the cherry tomatoes and pat them dry with a paper towel.",
+    "In a large bowl, combine the halved cherry tomatoes, chopped nuka-pickle, thinly sliced red onion, and chopped fresh cilantro.",
+    "In a small bowl, whisk together the lemon juice, olive oil, salt, and black pepper to make the dressing.",
+    "Pour the dressing over the tomato mixture and toss to combine.",
+    "Spoon the salad onto the agave leaves, making sure to leave a small border around the edges.",
+    "Gently fold the agave leaves over the salad to form a packet, and serve immediately.",
+    "Garnish with additional chopped cilantro, if desired.",
+    "Serve the Kissed Ethiopian Cherry Tomato Salad chilled, or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "raw-friendly",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-ethiopian-cherry-tomato-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-ethiopian-cherry-tomato-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:32:06Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cherry tomatoes",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "cherry tomatoes",
+    "descriptor": "kaleidoscopic light",
+    "dishForm": "Salad"
+  }
+}
