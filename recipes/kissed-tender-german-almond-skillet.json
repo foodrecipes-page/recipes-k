@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Tender German Almond Skillet",
+  "description": "A tender and flavorful German dish featuring almonds and a hint of mustard, all cooked in one skillet. This recipe is macrobiotic-friendly and uses agemono-deep-fry techniques.",
+  "cuisine": "German",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium heat.",
+    "Add the sliced almonds and cook until golden brown, about 5 minutes.",
+    "Remove the almonds from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chopped carrots and potatoes to the skillet, and cook for 10 minutes, stirring occasionally.",
+    "In a small bowl, whisk together the flour and mustard, and then add the mixture to the skillet, stirring to combine.",
+    "Return the cooked almonds to the skillet and season with salt and pepper to taste.",
+    "Cook for an additional 2 minutes, stirring constantly, until the mixture is well combined and heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "german-cuisine",
+    "macrobiotic",
+    "one-pan",
+    "skillet-meal",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-tender-german-almond-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-german-almond-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:53:24Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "almonds",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "almonds",
+    "descriptor": "kissed tender",
+    "dishForm": "Skillet"
+  }
+}
