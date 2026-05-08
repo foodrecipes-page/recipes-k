@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Spicy French Duck Rillettes",
+  "description": "A spicy and indulgent French dish featuring tender duck, served in hard taco shells with a rich and creamy score fat sauce, this recipe is a unique twist on traditional rillettes, made satvik-friendly by using plant-based ingredients where necessary, and cooked to perfection on a comal.",
+  "cuisine": "French",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck Breast",
+      "amount": "1 pound",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Score Fat",
+      "amount": "1/2 cup",
+      "notes": "or plant-based alternative"
+    },
+    {
+      "name": "Hard Taco Shells",
+      "amount": "12 shells"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal over medium heat.",
+    "In a large bowl, mix together the chopped onion, minced garlic, spicy paprika, salt, and black pepper.",
+    "Add the duck breast to the bowl and mix until the meat is evenly coated with the spice mixture.",
+    "Place the duck breast on the preheated comal and cook for 5 minutes per side, or until it reaches an internal temperature of 165 degrees.",
+    "Remove the duck from the comal and let it rest for 5 minutes before shredding it into bite-sized pieces.",
+    "In a small bowl, mix together the score fat and chopped cilantro.",
+    "To assemble the rillettes, fill each hard taco shell with a spoonful of the shredded duck, followed by a dollop of the score fat sauce.",
+    "Serve the rillettes immediately, garnished with additional chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comal-cooking",
+    "duck-recipes",
+    "french-cuisine",
+    "satvik-friendly",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kissed-spicy-french-duck-rillettes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-french-duck-rillettes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:31:47Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "score-fat",
+    "primaryIngredient": "hard taco shells",
+    "diet": "satvik",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "duck",
+    "descriptor": "kissed spicy",
+    "dishForm": "Rillettes"
+  }
+}
