@@ -1,0 +1,96 @@
+{
+  "title": "Kicked Fluffy Brazilian Chicken Skewers",
+  "description": "A post-workout Brazilian dish featuring raspberry jam and agemono-deep-fry techniques, this recipe is perfect for a protein-packed dinner. The combination of bitter and sweet flavors creates a unique taste experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, garlic, and ginger.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the chicken skewers for 5-7 minutes, or until golden brown.",
+    "Transfer the fried skewers to a bamboo steamer lined with parchment paper.",
+    "Drizzle the raspberry jam over the chicken skewers.",
+    "Steam the skewers for 5 minutes, or until the chicken is cooked through.",
+    "Sprinkle the sesame seeds over the skewers and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "dairy-free",
+    "deep-fried",
+    "gluten-free",
+    "high-protein",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kicked-fluffy-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-fluffy-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:08:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "fluffy",
+    "mood": "post-workout",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "raspberry jam",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "kicked fluffy",
+    "dishForm": "Skewers"
+  }
+}
