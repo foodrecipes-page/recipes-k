@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Crisp Mexican Corn Elote",
+  "description": "A funky, crisp, and cozy Mexican dish featuring fines herbes and lacquer glaze, this recipe is a nut-free friendly version of the traditional Yucatecan elote.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn on the cob",
+      "amount": "4 ears",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh herbs like parsley, dill, and chives"
+    },
+    {
+      "name": "cotija cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly Mexican cheese"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/4 cup",
+      "notes": "or substitute with olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Grill the corn on the cob for 10-12 minutes, turning every 2 minutes, until lightly charred.",
+    "In a large bowl, whisk together mayonnaise, fines herbes, cotija cheese, lime juice, smoked paprika, garlic powder, salt, and pepper.",
+    "Once the corn is cool enough to handle, brush the lacquer glaze or olive oil onto each ear.",
+    "Roll the grilled corn in the mayonnaise mixture to coat, making sure to get some of the cheese and herbs onto each ear.",
+    "Serve immediately, garnished with additional fines herbes and cotija cheese if desired.",
+    "Let each guest squeeze a sliver of lime juice onto their elote before eating.",
+    "Consider serving with warm tortillas or crunchy tortilla chips on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-recipes",
+    "gluten-free",
+    "grilled-corn",
+    "mexican-street-food",
+    "summer-snacks",
+    "vegetarian-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kissed-crisp-mexican-corn-elote",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-mexican-corn-elote",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:09:09Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "fines-herbes",
+    "diet": "nut-free",
+    "region": "yucatecan",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Elote"
+  }
+}
