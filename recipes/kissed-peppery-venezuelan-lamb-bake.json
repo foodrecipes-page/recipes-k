@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Peppery Venezuelan Lamb Bake",
+  "description": "A hearty and flavorful Venezuelan dish featuring lamb shanks, perfect for a flexitarian-friendly meal that can cure hangovers. The combination of peppery and juicy flavors will leave you wanting more.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4 pieces",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the lamb shanks with black pepper, coriander, cumin, and paprika.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the lamb shanks until browned on all sides, about 5 minutes per side.",
+    "Remove the lamb shanks from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the chopped tomatoes to the pot and stir to combine.",
+    "Return the lamb shanks to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and bake for 2 1/2 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lamb-based",
+    "latin-american",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "kissed-peppery-venezuelan-lamb-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peppery-venezuelan-lamb-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:34:03Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "juicy",
+    "mood": "hangover-cure",
+    "technique": "bake",
+    "primaryIngredient": "lamb shanks",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed peppery",
+    "dishForm": "Bake"
+  }
+}
