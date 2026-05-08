@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Light Vietnamese Chestnut Cha Gio",
+  "description": "A briny and bouncy Vietnamese dish featuring cooked chestnut, clay-pot-cooked to perfection, with anti-inflammatory friendly ingredients, served in a bamboo tray as cha gio.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "cooked and diced"
+    },
+    {
+      "name": "rice paper",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "mung bean noodles",
+      "amount": "1/2 cup",
+      "notes": "cooked and chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Soak the rice paper sheets in warm water for 30 seconds to soften them.",
+    "Combine the cooked chestnuts, mung bean noodles, carrots, cilantro, and scallions in a bowl.",
+    "Add the fish sauce, lime juice, and sesame oil to the bowl and mix well.",
+    "Lay a softened rice paper sheet on a flat surface and place about 1 tablespoon of the chestnut mixture in the center of the sheet.",
+    "Fold the bottom half of the sheet up over the filling, then fold in the sides and roll up the sheet to form a tight cylinder.",
+    "Repeat with the remaining ingredients to make about 12 cha gio.",
+    "Serve the cha gio in a bamboo tray with your favorite dipping sauce.",
+    "Garnish with additional cilantro and scallions if desired.",
+    "Cook the cha gio in a clay pot over low heat for 5 minutes to warm them through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-cuisine",
+    "gluten-free",
+    "healthy-eating",
+    "lunch-ideas",
+    "vegetarian-options",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kissed-light-vietnamese-chestnut-cha-gio",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-vietnamese-chestnut-cha-gio",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:07:06Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "cooked chestnut",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chestnut",
+    "descriptor": "kissed light",
+    "dishForm": "Cha Gio"
+  }
+}
