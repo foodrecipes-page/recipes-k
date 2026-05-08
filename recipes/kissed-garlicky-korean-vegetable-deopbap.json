@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Garlicky Korean Vegetable Deopbap",
+  "description": "A garlicky, pillowy, and comforting Korean dish featuring a variety of vegetables and chocolate chips, perfect for a sick day, this plant-based-friendly deopbap is a Jeju-inspired recipe",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean rice",
+      "amount": "2 cups",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine-mesh strainer and cook according to package instructions.",
+    "In a large skillet, heat the sesame oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the sliced zucchini and grated carrots to the skillet and cook until the vegetables are tender.",
+    "Add the fresh spinach to the skillet and cook until wilted.",
+    "In a small bowl, whisk together the soy sauce and a pinch of salt and pepper.",
+    "Pour the soy sauce mixture over the vegetables and stir to combine.",
+    "To assemble the deopbap, place a scoop of cooked rice in a bowl and top with the vegetable mixture.",
+    "Sprinkle the dairy-free chocolate chips over the top of the vegetables.",
+    "Season with additional salt and pepper to taste, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "healthy",
+    "korean-food",
+    "one-pot",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-garlicky-korean-vegetable-deopbap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-korean-vegetable-deopbap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:52:34Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "chocolate chips",
+    "diet": "plant-based",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "vegetables",
+    "descriptor": "Kissed Garlicky",
+    "dishForm": "Deopbap"
+  }
+}
