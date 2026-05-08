@@ -1,0 +1,92 @@
+{
+  "title": "Kicked Spicy Tunisian Rye Bread Flatbread",
+  "description": "A spicy and snappy Tunisian dish featuring rye bread, nuka-pickle, and lacto-vegetarian-friendly ingredients, perfect for a energizing snack.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rye flour",
+      "amount": "2 cups",
+      "notes": "dark rye preferred"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine rye flour, sugar, salt, and yeast in a large mixing bowl.",
+    "Add olive oil, harissa, and nuka-pickle to the dry ingredients and mix until a shaggy dough forms.",
+    "Gradually add warm water to the dough and knead for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Punch down the dough and divide into 4 equal pieces.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet over medium-high heat and cook the flatbreads for 1-2 minutes on each side.",
+    "Brush the flatbreads with additional olive oil and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "homemade-flatbread",
+    "lacto-vegetarian",
+    "rye-bread",
+    "snack-ideas",
+    "spicy-food",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kicked-spicy-tunisian-rye-bread-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-tunisian-rye-bread-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:58:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "energizing",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "rye bread",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "rye bread",
+    "descriptor": "Kicked Spicy",
+    "dishForm": "Flatbread"
+  }
+}
