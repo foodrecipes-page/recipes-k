@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Creamy Filipino Pork Skillet",
+  "description": "A funky and creamy Filipino dish featuring pork shoulder steaks, this recipe is kid-friendly and Whole30-friendly. It is cooked in a tava-griddle vessel.",
+  "cuisine": "Filipino",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large tava-griddle vessel over medium-high heat.",
+    "Add the pork pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the vessel and set aside.",
+    "In the same vessel, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the minced garlic and grated ginger and cook until fragrant, about 1 minute.",
+    "Pour in the coconut milk, fish sauce, and lime juice, and stir to combine.",
+    "Bring the mixture to a simmer and cook until slightly thickened, about 5 minutes.",
+    "Return the pork to the vessel and stir to coat with the creamy sauce.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to medium-low and cook, covered, until the pork is cooked through, about 10 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "gluten-free",
+    "kid-friendly",
+    "one-pan",
+    "pork-recipes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kissed-creamy-filipino-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-filipino-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:27:12Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "kissed creamy",
+    "dishForm": "Skillet"
+  }
+}
