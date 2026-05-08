@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Tangy American Sausages Skillet",
+  "description": "A tangy and romantic American dish featuring sausages and score-fat, with a plant-based friendly twist, perfect for a night in with loved ones.",
+  "cuisine": "American",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vegan sausages",
+      "amount": "4",
+      "notes": "any variety, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tangy barbecue sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "score-fat",
+      "amount": "2 tablespoons",
+      "notes": "or vegan alternative"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced vegan sausages and cook until browned, about 5 minutes.",
+    "Add the chopped onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the diced tomato, tangy barbecue sauce, score-fat, salt, and black pepper to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together.",
+    "Serve with crusty bread or over rice or roasted vegetables for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "plant-based",
+    "romantic",
+    "tangy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-tangy-american-sausages-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tangy-american-sausages-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:43:43Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "score-fat",
+    "primaryIngredient": "sausages",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "sausages",
+    "descriptor": "Kissed Tangy",
+    "dishForm": "Skillet"
+  }
+}
