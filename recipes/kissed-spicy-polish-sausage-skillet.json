@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Spicy Polish Sausage Skillet",
+  "description": "A resinous and velvety Polish dish with a Cajun twist, featuring broiled sausage and FODMAP-friendly ingredients. This adventurous recipe is perfect for those looking to spice up their meal routine.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "preferably with a spicy kick"
+    },
+    {
+      "name": "Cajun seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced onion and cook until translucent, about 5 minutes.",
+    "Add the sliced bell pepper and cook for an additional 3 minutes.",
+    "Add the diced tomato and cook for 2 minutes, stirring occasionally.",
+    "In a small bowl, mix together the Cajun seasoning, salt, and black pepper.",
+    "Add the Polish sausage to the skillet and sprinkle with the Cajun seasoning mixture.",
+    "Transfer the skillet to the broiler and cook for 10 minutes, or until the sausage is browned and cooked through.",
+    "Remove the skillet from the broiler and stir in the garlic-infused oil.",
+    "Serve the skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cajun-inspired",
+    "gluten-free",
+    "low-fodmap",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-spicy-polish-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-polish-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:03:37Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "cajun",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausage",
+    "descriptor": "kissed spicy",
+    "dishForm": "Skillet"
+  }
+}
