@@ -1,0 +1,113 @@
+{
+  "title": "Kissed with sweetness Vietnamese pork Nem Nuong",
+  "description": "A festive Vietnamese dish featuring tender pork, sweet and tangy flavors, and a velvety texture, all while being Whole30-friendly.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "500g",
+      "notes": "lean and finely chopped"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "gr granulated sugar",
+      "amount": "1 tsp",
+      "notes": "whole30-friendly"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "rice paper wrappers",
+      "amount": "12",
+      "notes": "thin and pliable"
+    },
+    {
+      "name": "fresh herbs",
+      "amount": "1 bunch",
+      "notes": "such as mint, basil, or cilantro"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine pork, fish sauce, lemon juice, coconut aminos, granulated sugar, garlic, sesame oil, salt, and black pepper.",
+    "Mix well with your hands or a wooden spoon until just combined, being careful not to overmix.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "When ready to assemble, fill a large bowl with warm water.",
+    "Submerge a rice paper wrapper into the water for a few seconds until it becomes pliable and soft.",
+    "Place the wrapper onto a clean surface and arrange a small amount of the pork mixture onto the center of the wrapper.",
+    "Add a few fresh herbs on top of the pork mixture.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining wrappers and filling.",
+    "Serve the nem nuong immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "paleo",
+    "snack-ideas",
+    "vietnamese-cuisine",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "kissed-with-sweetness-vietnamese-pork-nem-nuong",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-sweetness-vietnamese-pork-nem-nuong",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:21:46Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "velvety",
+    "mood": "festive",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "granulated sugar",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed with sweetness",
+    "dishForm": "Nem Nuong"
+  }
+}
