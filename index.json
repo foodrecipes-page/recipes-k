@@ -600,6 +600,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-crunchy-greek-cottage-cheese-saganaki",
+    "title": "Kicked Crunchy Greek Cottage Cheese Saganaki",
+    "tags": [
+      "banana-leaf",
+      "crunchy",
+      "fried",
+      "greek-food",
+      "low-fat",
+      "vegetarian"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-juicy-canadian-lentil-curry",
     "title": "Kicked Juicy Canadian Lentil Curry",
     "tags": [
@@ -715,6 +730,21 @@
       "vegan"
     ],
     "cuisine": "Dutch",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-peppery-ukrainian-sausage-skillet",
+    "title": "Kicked Peppery Ukrainian Sausage Skillet",
+    "tags": [
+      "gluten-free",
+      "hangover-cure",
+      "low-glycemic",
+      "one-pan",
+      "spicy",
+      "ukrainian-cuisine"
+    ],
+    "cuisine": "Ukrainian",
     "totalTimeMin": 40,
     "shard": "k"
   },
@@ -2202,6 +2232,22 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 80,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-citrusy-venezuelan-chicken-pilaf",
+    "title": "Kissed Citrusy Venezuelan Chicken Pilaf",
+    "tags": [
+      "chicken",
+      "citrusy",
+      "gluten-free",
+      "low-sodium",
+      "one-pot",
+      "pilaf",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

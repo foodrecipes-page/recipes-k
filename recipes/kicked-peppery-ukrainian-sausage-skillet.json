@@ -1,0 +1,99 @@
+{
+  "title": "Kicked Peppery Ukrainian Sausage Skillet",
+  "description": "A hearty and spicy Ukrainian dish featuring peppery sausage, crispy potatoes, and a kick of tabasco sauce, served in a stone bowl to cure any hangover.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1 pound",
+      "notes": "preferably homemade or from a Ukrainian deli"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "tabasco sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large stone bowl or skillet over medium-high heat.",
+    "Add the chopped onions and cook until they are translucent and starting to brown.",
+    "Add the diced potatoes and cook for about 10 minutes, or until they are crispy and golden brown.",
+    "Add the chopped bell peppers and cook for an additional 2 minutes.",
+    "Slice the Ukrainian sausage and add it to the skillet, cooking for about 5 minutes, or until browned and crispy.",
+    "Add the tabasco sauce, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "Reduce the heat to medium-low and simmer the mixture for about 5 minutes, or until the flavors have melded together.",
+    "Serve the kicked peppery Ukrainian sausage skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hangover-cure",
+    "low-glycemic",
+    "one-pan",
+    "spicy",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kicked-peppery-ukrainian-sausage-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-peppery-ukrainian-sausage-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:57:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "tabasco sauce",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sausage",
+    "descriptor": "Kicked Peppery",
+    "dishForm": "Skillet"
+  }
+}
