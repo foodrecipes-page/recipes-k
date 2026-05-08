@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Molten Australian Sweet Potato Bake",
+  "description": "A jammy and molten solo dinner dish featuring palm sugar and sauteed Australian sweet potatoes, prepared in an ayurvedic sattvic friendly way.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large pan, heat the coconut oil over medium heat.",
+    "Add the diced onion to the pan and saute until softened.",
+    "Add the minced garlic and grated ginger to the pan and saute for 1 minute.",
+    "Add the diced sweet potatoes to the pan and stir to combine with the onion mixture.",
+    "Add the palm sugar, turmeric, salt, and black pepper to the pan and stir to combine.",
+    "Transfer the sweet potato mixture to a baking dish and bake for 45 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "gluten-free-meal",
+    "one-pan-dish",
+    "sweet-potato-recipe",
+    "vegan-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "kissed-molten-australian-sweet-potato-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-molten-australian-sweet-potato-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:46:34Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "molten",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "palm sugar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "kissed molten",
+    "dishForm": "Bake"
+  }
+}
