@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Crispy Portuguese Oats Fritters",
+  "description": "A crispy and jammy Portuguese dish featuring oats, perfect for midnight cravings, made kosher-friendly and cooked to a golden brown in an air fryer.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old fashioned"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jam",
+      "amount": "1/4 cup",
+      "notes": "any flavor"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together oats, flour, sugar, and cinnamon.",
+    "In a separate bowl, whisk together eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Heat the air fryer to 375 degrees Fahrenheit.",
+    "Using a cookie scoop, drop the oat mixture into the air fryer basket, leaving about 1 inch of space between each fritter.",
+    "Cook the fritters for 5 minutes, shaking the basket halfway through.",
+    "While the fritters are cooking, heat the jam in a small saucepan over low heat.",
+    "Once the fritters are cooked, brush them with the warmed jam.",
+    "Serve the fritters warm and enjoy.",
+    "If desired, drizzle with additional jam and sprinkle with cinnamon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer",
+    "crispy",
+    "jammy",
+    "kosher-friendly",
+    "midnight-cravings",
+    "oats",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-crispy-portuguese-oats-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-portuguese-oats-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:30:21Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "oats",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "oats",
+    "descriptor": "kissed crispy",
+    "dishForm": "Fritters"
+  }
+}

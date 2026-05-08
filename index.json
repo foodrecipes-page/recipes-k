@@ -79,6 +79,21 @@
     "shard": "k"
   },
   {
+    "slug": "kaleidoscopic-crunchy-filipino-mixed-peppers-tinola",
+    "title": "Kaleidoscopic Crunchy Filipino Mixed Peppers Tinola",
+    "tags": [
+      "filipino-cuisine",
+      "gluten-free",
+      "one-pot",
+      "special-occasion",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kaleidoscopic-german-narutomaki-stir-fry",
     "title": "Kaleidoscopic German Narutomaki Stir Fry",
     "tags": [
@@ -3008,6 +3023,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-portuguese-oats-fritters",
+    "title": "Kissed Crispy Portuguese Oats Fritters",
+    "tags": [
+      "air-fryer",
+      "crispy",
+      "jammy",
+      "kosher-friendly",
+      "midnight-cravings",
+      "oats",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
