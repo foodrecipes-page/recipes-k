@@ -643,6 +643,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-bitter-ukrainian-kabse-hash",
+    "title": "Kicked Bitter Ukrainian Kabse Hash",
+    "tags": [
+      "bitter-flavors",
+      "jain-friendly",
+      "one-pan",
+      "quick-fix",
+      "ukrainian-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-canadian-quick-fix-shrimp-fry-rice",
     "title": "Kicked Canadian Quick-Fix Shrimp Fry-Rice",
     "tags": [
@@ -1689,6 +1704,21 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kindly-gentle-dutch-sultanas-pilaf",
+    "title": "Kindly Gentle Dutch Sultanas Pilaf",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "one-pot",
+      "sous-vide",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

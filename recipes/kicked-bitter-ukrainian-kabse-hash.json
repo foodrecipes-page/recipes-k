@@ -1,0 +1,98 @@
+{
+  "title": "Kicked Bitter Ukrainian Kabse Hash",
+  "description": "A quick-fix Ukrainian dish featuring kabse spice, this recipe is a bitter and chewy delight, perfect for a snack or light meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kabse spice",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the iron-teppan over medium heat and add the vegetable oil.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced bitter melon and cook until it is tender.",
+    "Add the kabse spice and cook for 1 minute.",
+    "Add the diced potato and grated carrot to the pressure cooker.",
+    "Pressure cook the mixture for 5 minutes.",
+    "Let the pressure release naturally, then open the lid and stir the mixture.",
+    "Season with salt to taste.",
+    "Serve the hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "jain-friendly",
+    "one-pan",
+    "quick-fix",
+    "ukrainian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "kicked-bitter-ukrainian-kabse-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-bitter-ukrainian-kabse-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:29Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "kabse spice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "kabse",
+    "descriptor": "kicked bitter",
+    "dishForm": "Hash"
+  }
+}
