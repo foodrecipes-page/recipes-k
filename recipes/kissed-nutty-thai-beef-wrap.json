@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Nutty Thai Beef Wrap",
+  "description": "A nutty and comforting Thai dish featuring beef cutlet, wrapped in a pandan leaf, with a blend of Mediterranean-friendly flavors",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef cutlet",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the peanut oil in a large skillet over medium-high heat",
+    "Add the beef strips and cook until browned, about 3-4 minutes",
+    "Add the fish sauce, lime juice, and honey, and stir to combine",
+    "Reduce heat to medium-low and simmer for 5 minutes",
+    "Stir in the crushed peanuts, salt, and black pepper",
+    "Prepare the pandan leaves by blanching them in boiling water for 30 seconds",
+    "Assemble the wraps by placing a few slices of the beef mixture onto a pandan leaf",
+    "Fold the leaf over the filling to form a wrap, and serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "mediterranean-inspired",
+    "nutty-flavors",
+    "pandan-wraps",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-nutty-thai-beef-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-nutty-thai-beef-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:35:45Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "blanch",
+    "primaryIngredient": "beef cutlet",
+    "diet": "mediterranean",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "beef",
+    "descriptor": "kissed nutty",
+    "dishForm": "Wrap"
+  }
+}
