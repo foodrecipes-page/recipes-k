@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Roasted Peruvian Lamb Seco De Cordero",
+  "description": "A roasted Peruvian lamb dish featuring mozzarella balls and a blend of spices, perfect for a special occasion. This flexitarian-friendly recipe is sure to impress.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "mozzarella balls",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a blender, combine garlic, ginger, aji amarillo pepper, cumin, paprika, salt, and black pepper to make a spice paste.",
+    "Rub the spice paste all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat and sear the lamb shoulder until browned on all sides.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20 minutes per pound, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is roasting, grill the mozzarella balls until they are lightly charred and softened.",
+    "Once the lamb is cooked, let it rest for 10 minutes before slicing it thinly against the grain.",
+    "Serve the sliced lamb with the grilled mozzarella balls and your choice of sides.",
+    "Garnish with fresh herbs and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "grilled-cheese",
+    "lamb-recipes",
+    "peruvian-cuisine",
+    "roasted-meat",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "kissed-roasted-peruvian-lamb-seco-de-cordero",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-peruvian-lamb-seco-de-cordero",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:40:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "mozzarella balls",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Seco De Cordero"
+  }
+}
