@@ -2806,6 +2806,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-golden-polish-pierogi-bake",
+    "title": "Kissed Golden Polish Pierogi Bake",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "one-pan",
+      "polish-cuisine",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-golden-portuguese-semolina-grill",
     "title": "Kissed Golden Portuguese Semolina Grill",
     "tags": [
@@ -4341,6 +4356,21 @@
     ],
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 36,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-syrian-pork-back-ribs-grill",
+    "title": "Kissed Smoky Syrian Pork Back Ribs Grill",
+    "tags": [
+      "finger-food",
+      "grilled",
+      "high-protein",
+      "middle-eastern",
+      "romantic",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 2,
     "shard": "k"
   },
   {

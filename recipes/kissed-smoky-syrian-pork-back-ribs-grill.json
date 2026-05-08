@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Smoky Syrian Pork Back Ribs Grill",
+  "description": "Funky, chewy, and romantic, these Syrian-inspired pork back ribs are perfect for a special occasion. The smoky flavor from the binchotan charcoal will leave you and your loved ones wanting more.",
+  "cuisine": "Syrian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork back ribs ",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 bag",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup",
+      "notes": "sweetness to balance the smokiness"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "acidity to cut through the richness"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the ribs"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 275°F (135°C) and prepare the binchotan charcoal according to the manufacturer's instructions.",
+    "Mix the Middle Eastern spice blend, honey, lemon juice, and garlic to create the rub for the ribs.",
+    "Apply the rub evenly to the pork back ribs, making sure to coat all surfaces.",
+    "Place the ribs on the grill, bone side down, and close the lid.",
+    "Cook for 2 hours, or until the ribs are tender and the internal temperature reaches 160°F (71°C).",
+    "Brush the ribs with olive oil and flip them over, bone side up.",
+    "Continue to cook for an additional 30 minutes, or until the ribs are nicely caramelized.",
+    "Remove the ribs from the grill and garnish with fresh parsley.",
+    "Let the ribs rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 2,
+  "totalTimeMin": 2,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "finger-food",
+    "grilled",
+    "high-protein",
+    "middle-eastern",
+    "romantic",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 630,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "kissed-smoky-syrian-pork-back-ribs-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-syrian-pork-back-ribs-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T08:04:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "pork back ribs",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "pork back ribs",
+    "descriptor": "kissed smoky",
+    "dishForm": "grill"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Golden Polish Pierogi Bake",
+  "description": "A crowd-pleasing Polish dish featuring a dairy-free cheese pull and herbal notes, perfect for a weeknight dinner. This bake is made with apple cider vinegar and is friendly to dairy-free diets.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegan cheese shreds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Dried dill weed",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the pierogi dough to a thickness of about 1/4 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of vegan cheese shreds in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-circle shape, and press the edges together to seal the pierogi.",
+    "Place the pierogi in a baking dish, leaving about 1 inch of space between each one.",
+    "Drizzle the olive oil over the pierogi, then sprinkle with chopped parsley, scallions, salt, black pepper, and dried dill weed.",
+    "Drizzle the apple cider vinegar over the top of the pierogi.",
+    "Bake the pierogi in the preheated oven for 25 minutes, or until golden brown.",
+    "Remove the pierogi from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "one-pan",
+    "polish-cuisine",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-golden-polish-pierogi-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-polish-pierogi-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:04:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "bake",
+    "primaryIngredient": "apple cider vinegar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pierogi",
+    "descriptor": "Kissed Golden",
+    "dishForm": "Bake"
+  }
+}
