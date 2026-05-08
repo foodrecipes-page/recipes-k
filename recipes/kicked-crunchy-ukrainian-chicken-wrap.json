@@ -1,0 +1,100 @@
+{
+  "title": "Kicked Crunchy Ukrainian Chicken Wrap",
+  "description": "A nutty and light Ukrainian dish featuring lemongrass and takrai, wrapped in a ti leaf, this crowd-pleaser is perfect for any occasion, with an anti-inflammatory twist.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "takrai",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pound the chicken breast to an even thickness and cut into strips.",
+    "In a blender, combine lemongrass, takrai, and a pinch of salt, and blend until well combined.",
+    "In a shallow dish, mix together flour, cornstarch, and a pinch of black pepper.",
+    "Dip each chicken strip into the flour mixture, then the egg, and finally the flour mixture again, pressing gently to adhere.",
+    "Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat until it reaches 350 degrees.",
+    "Double-fry the chicken strips, first frying for 2-3 minutes on each side, then increasing the heat and frying for an additional 2-3 minutes on each side, until golden brown and crispy.",
+    "Drain the chicken strips on paper towels and season with salt and black pepper.",
+    "To assemble the wraps, place a few pieces of the fried chicken onto a ti leaf, add a sprinkle of the lemongrass-takrai mixture, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kicked-crunchy-ukrainian-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crunchy-ukrainian-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:40:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken",
+    "descriptor": "kicked crunchy",
+    "dishForm": "Wrap"
+  }
+}
