@@ -866,6 +866,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-spicy-jamaican-chicken-curry",
+    "title": "Kicked Spicy Jamaican Chicken Curry",
+    "tags": [
+      "chicken",
+      "coconut-milk",
+      "curry",
+      "jamaican",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-spicy-jamaican-romano-pepper-skewers",
     "title": "Kicked Spicy Jamaican Romano Pepper Skewers",
     "tags": [
