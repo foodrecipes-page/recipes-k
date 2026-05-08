@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Spicy Turkish Chinese Broccoli Kuru Fasulye",
+  "description": "A Turkish dish featuring Chinese broccoli, with a spicy and mustardy flavor, perfect for a dinner meal. This recipe is sugar-free-friendly and has a fluffy texture.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 bunch",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish red pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large bowl, whisk together the lemon juice, olive oil, salt, black pepper, and red pepper flakes.",
+    "Add the Chinese broccoli florets to the bowl and toss to coat with the marinade.",
+    "Grill the broccoli for 5 minutes per side, or until tender.",
+    "In a small bowl, mix together the turkish red pepper paste and mustard seeds.",
+    "Brush the paste mixture onto the grilled broccoli.",
+    "Heat a large skillet over medium heat and add the garlic.",
+    "Cook the garlic for 1 minute, or until fragrant.",
+    "Add the grilled broccoli to the skillet and toss to combine with the garlic.",
+    "Serve the Kuru Fasulye hot, garnished with additional lemon juice if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-vegetables",
+    "high-protein",
+    "one-pan",
+    "sugar-free",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kissed-spicy-turkish-chinese-broccoli-kuru-fasulye",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-turkish-chinese-broccoli-kuru-fasulye",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:49:13Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "chinese broccoli",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Chinese broccoli",
+    "descriptor": "Kissed spicy",
+    "dishForm": "Kuru Fasulye"
+  }
+}
