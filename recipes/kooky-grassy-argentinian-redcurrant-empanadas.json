@@ -1,0 +1,96 @@
+{
+  "title": "Kooky Grassy Argentinian Redcurrant Empanadas",
+  "description": "A vegetarian Argentine dish featuring redcurrants and a long-fermentation dough, perfect for adventurous eaters. This empanada combines the sweetness of redcurrants with the earthiness of grassy herbs.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grassy herbs like parsley or dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Add olive oil, chopped grassy herbs, onion, and garlic to the bowl and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 375 degrees.",
+    "Roll out the dough to a thickness of 1/8 inch and cut out circles of dough.",
+    "Place a spoonful of redcurrants in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with olive oil and bake for 20 minutes.",
+    "Serve the empanadas warm or at room temperature."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "grassy-herbs",
+    "redcurrants",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "kooky-grassy-argentinian-redcurrant-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-grassy-argentinian-redcurrant-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:42:18Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "redcurrants",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "redcurrants",
+    "descriptor": "Kooky Grassy",
+    "dishForm": "Empanadas"
+  }
+}
