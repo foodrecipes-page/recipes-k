@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Spicy Korean Chicken Dosirak",
+  "description": "A winey, juicy, weeknight Korean dish featuring hot chilli powder, robata-grill, and macrobiotic-friendly ingredients, served in a dosirak format.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together hot chilli powder, soy sauce, brown sugar, garlic, and ginger.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together sesame oil and white wine.",
+    "Brush the sesame oil mixture onto the chicken during the last minute of grilling.",
+    "Serve the chicken in a dosirak container with chopped scallions on top.",
+    "Let the dish rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dosirak",
+    "grilled-chicken",
+    "korean-food",
+    "macrobiotic",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kissed-spicy-korean-chicken-dosirak",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-korean-chicken-dosirak",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:02:19Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "robata-grill",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "macrobiotic",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Spicy",
+    "dishForm": "Dosirak"
+  }
+}
