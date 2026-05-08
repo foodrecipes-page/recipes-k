@@ -883,6 +883,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-peppery-filipino-king-prawns-skewers",
+    "title": "Kicked Peppery Filipino King Prawns Skewers",
+    "tags": [
+      "filipino-food",
+      "high-protein",
+      "salt-block-cooking",
+      "seafood",
+      "skewers"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-peppery-middle-eastern-noodles",
     "title": "Kicked Peppery Middle Eastern Noodles",
     "tags": [
@@ -2756,6 +2770,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 32,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crisp-croatian-shrimp-skewers",
+    "title": "Kissed Crisp Croatian Shrimp Skewers",
+    "tags": [
+      "brunch",
+      "croatian",
+      "gluten-free",
+      "seafood",
+      "shrimp",
+      "skewers"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {

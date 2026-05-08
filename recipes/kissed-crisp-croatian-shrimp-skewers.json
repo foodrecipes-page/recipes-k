@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Crisp Croatian Shrimp Skewers",
+  "description": "A Croatian dish featuring jumbo shrimp, this recipe brings a fatty and crisp twist to a classic brunch option, making it gluten-free friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jumbo shrimp",
+      "amount": "12 pieces",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the jumbo shrimp to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated shrimp onto skewers, leaving a small space between each shrimp.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the shrimp in the preheated oven for 8 minutes or until they turn pink and are cooked through.",
+    "Remove the shrimp from the oven and sprinkle with lemon zest and chopped parsley.",
+    "Serve the shrimp skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "croatian",
+    "gluten-free",
+    "seafood",
+    "shrimp",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 16
+  },
+  "slug": "kissed-crisp-croatian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-croatian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:22:53Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "roast",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Skewers"
+  }
+}
