@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Juicy Dutch Poppy Seeds Dumplings",
+  "description": "A traditional Dutch dish featuring ground poppy seeds, these dumplings are cooked in a bain-marie to create a fatty and juicy treat, rich in anti-inflammatory properties. Perfect for special occasions and festivals.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground poppy seeds",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground poppy seeds, flour, and granulated sugar.",
+    "In a separate bowl, whisk together the melted butter, whole milk, eggs, salt, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Divide the dough into 12 equal pieces and shape each piece into a ball.",
+    "Place the dumplings in a bain-marie and cook for 20 minutes.",
+    "Remove the dumplings from the bain-marie and let them cool for 5 minutes.",
+    "Serve the dumplings warm, garnished with powdered sugar if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "comfort-food",
+    "dutch-cuisine",
+    "festival-food",
+    "poppy-seeds",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "kissed-juicy-dutch-poppy-seeds-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-dutch-poppy-seeds-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:10:45Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "poppy seeds",
+    "descriptor": "Kissed Juicy",
+    "dishForm": "Dumplings"
+  }
+}
