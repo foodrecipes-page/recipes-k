@@ -1,0 +1,98 @@
+{
+  "title": "Keenly Peppery Mediterranean Cabbage Salad",
+  "description": "A refreshing, crunchy salad featuring the bold flavors of the Mediterranean. Perfect for a weeknight dinner or lunch.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head, thinly sliced",
+      "notes": "Any variety of cabbage works well"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons",
+      "notes": "For added crunch"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a good quality extra-virgin olive oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove, minced",
+      "notes": "Use a microplane to finely mince"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Use a flaky sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the sliced cabbage and flaxseed.",
+    "In a small bowl, whisk together the lemon juice, olive oil, garlic, salt, and red pepper flakes.",
+    "Pour the dressing over the cabbage mixture and toss to combine.",
+    "Taste and adjust the seasoning as needed.",
+    "Cover the salad and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle with black pepper and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lunch",
+    "mediterranean",
+    "one-pan",
+    "salad",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "keenly-peppery-mediterranean-cabbage-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/keenly-peppery-mediterranean-cabbage-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:23:35Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crisp",
+    "mood": "weeknight",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "plain flour",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "cabbage",
+    "descriptor": "Keenly peppery",
+    "dishForm": "Salad"
+  }
+}
