@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Citrusy Saudi Arabian Chicken Tagine",
+  "description": "A traditional Saudi Arabian dish with a citrusy twist, featuring chicken cooked in a tagine with black treacle and wood-fired baked to perfection, perfect for a sick day",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the lemon juice, olive oil, garlic, ginger, cumin, coriander, salt, and black pepper.",
+    "Add the chicken thighs to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "In a small bowl, mix together the black treacle and 2 tablespoons of water.",
+    "Brush the inside of the tagine with the black treacle mixture.",
+    "Add the marinated chicken to the tagine and cover with the lid.",
+    "Bake the tagine in the preheated wood-fired oven for 45 minutes.",
+    "Remove the lid and continue baking for an additional 15 minutes, or until the chicken is cooked through and the sauce is caramelized.",
+    "Let the tagine rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "saudi-arabian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-citrusy-saudi-arabian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-citrusy-saudi-arabian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:34:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "black treacle",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Citrusy",
+    "dishForm": "Tagine"
+  }
+}
