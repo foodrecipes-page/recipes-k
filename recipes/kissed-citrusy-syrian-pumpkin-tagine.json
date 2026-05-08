@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Citrusy Syrian Pumpkin Tagine",
+  "description": "A macrobiotic friendly Syrian dish featuring roasted pumpkin and a blend of citrusy spices, this tagine is perfect for a cold winter night. It is a hearty and adventurous meal that combines the warmth of cumin and coriander with the brightness of citrus.",
+  "cuisine": "Syrian",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pumpkin",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large bowl, toss the pumpkin cubes with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the pumpkin cubes out in a single layer on a baking sheet and roast for 30 minutes.",
+    "In a large pan, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onion to the pan and cook until it is softened and translucent.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Stir in the ground cumin and ground coriander and cook for 1 minute.",
+    "Add the roasted pumpkin, lemon juice, and orange juice to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy-dish",
+    "macrobiotic-friendly",
+    "pumpkin-recipe",
+    "syrian-cuisine",
+    "vegetarian-option",
+    "winter-meal"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kissed-citrusy-syrian-pumpkin-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-citrusy-syrian-pumpkin-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:20:16Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "cure",
+    "primaryIngredient": "pumpkin",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pumpkin",
+    "descriptor": "kissed citrusy",
+    "dishForm": "Tagine"
+  }
+}
