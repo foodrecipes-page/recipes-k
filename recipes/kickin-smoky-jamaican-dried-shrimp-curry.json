@@ -1,0 +1,107 @@
+{
+  "title": "Kickin Smoky Jamaican Dried Shrimp Curry",
+  "description": "A flavorful and earthy Jamaican dish featuring dried shrimp, binchotan charcoal, and a blend of spices, perfect for a lazy Sunday, this satvik-friendly curry is a delight to the senses. It combines the snappy taste of dried shrimp with the richness of coconut milk and the depth of smoky binchotan charcoal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "rehydrated in water"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "optional, for some heat"
+    }
+  ],
+  "instructions": [
+    "Start by rehydrating the dried shrimp in water for about 30 minutes, then drain and set aside.",
+    "Light the binchotan charcoal and let it burn until it is covered in a thin layer of ash, then set aside to infuse the dish with smoky flavor.",
+    "In a large pan, heat some oil over medium heat and saute the chopped onion until it is translucent.",
+    "Add the minced garlic and grated ginger to the pan and cook for another minute, stirring constantly.",
+    "Add the curry powder to the pan and cook for 1-2 minutes, stirring constantly, until the spices are fragrant.",
+    "Add the rehydrated dried shrimp, salt, and black pepper to the pan, and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the curry simmer for 10-15 minutes, stirring occasionally, until the flavors have melded together and the shrimp are fully coated.",
+    "Taste and adjust the seasoning as needed, adding more salt, pepper, or scotch bonnet peppers if desired.",
+    "Serve the curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "jamaican-cuisine",
+    "lazy-sunday-meals",
+    "seafood-dishes",
+    "smoky-flavors",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kickin-smoky-jamaican-dried-shrimp-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kickin-smoky-jamaican-dried-shrimp-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:15:05Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "dried shrimp",
+    "descriptor": "Kickin Smoky",
+    "dishForm": "Curry"
+  }
+}
