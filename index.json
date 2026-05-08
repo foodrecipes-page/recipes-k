@@ -1446,6 +1446,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-bitter-slovakian-danmuji-hash",
+    "title": "kissed bitter slovakian danmuji hash",
+    "tags": [
+      "bitter",
+      "crunchy",
+      "danmuji",
+      "monsoon",
+      "slovakian",
+      "sous-vide"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-brazilian-tempeh-stir-fry",
     "title": "Kissed Brazilian Tempeh Stir-Fry",
     "tags": [
@@ -1923,6 +1938,20 @@
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-caramel-malaysian-cherry-pilaf",
+    "title": "Kissed Caramel Malaysian Cherry Pilaf",
+    "tags": [
+      "comfort-food",
+      "easy-dinner",
+      "lacto-vegetarian",
+      "malaysian-cuisine",
+      "one-pot"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -5708,6 +5737,20 @@
     ],
     "cuisine": "Kenyan",
     "totalTimeMin": 120,
+    "shard": "k"
+  },
+  {
+    "slug": "kitchen-dense-tunisian-lamb-tagine",
+    "title": "Kitchen Dense Tunisian Lamb Tagine",
+    "tags": [
+      "gluten-free",
+      "lamb-based",
+      "low-glycemic",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 180,
     "shard": "k"
   },
   {

@@ -1,0 +1,100 @@
+{
+  "title": "kissed bitter slovakian danmuji hash",
+  "description": "a diabetic-friendly, crunchy danmuji hash made with sous-vide egg and monsoon spices, inspired by slovakian cuisine",
+  "cuisine": "slovakian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sour danmuji",
+      "amount": "12 oz",
+      "notes": "spicy and sour korean-style danmuji"
+    },
+    {
+      "name": "monsoon spices",
+      "amount": "2 tbsp",
+      "notes": "blend of cumin, coriander, cayenne pepper, and paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "grass-fed ground beef",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "sous-vide egg",
+      "amount": "2",
+      "notes": "cooked to desired doneness"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the sous-vide water bath to 160f",
+    "season the ground beef with salt and black pepper",
+    "cook the ground beef in a large pan over medium-high heat until browned, breaking it up into small pieces as it cooks",
+    "add the monsoon spices to the pan and cook for an additional 1-2 minutes, stirring constantly",
+    "add the danmuji to the pan and cook for 2-3 minutes, stirring occasionally, until it begins to brown",
+    "crack the sous-vide eggs into a bowl and stir gently to break up the yolks",
+    "pour the egg mixture over the danmuji and beef mixture in the pan",
+    "cook for an additional 2-3 minutes, stirring occasionally, until the eggs are cooked to desired doneness",
+    "stir in the chopped cilantro and sour cream",
+    "serve the danmuji hash hot, garnished with additional cilantro if desired"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crunchy",
+    "danmuji",
+    "monsoon",
+    "slovakian",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-bitter-slovakian-danmuji-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-bitter-slovakian-danmuji-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:02:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "danmuji",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "danmuji",
+    "descriptor": "kissed bitter",
+    "dishForm": "hash"
+  }
+}

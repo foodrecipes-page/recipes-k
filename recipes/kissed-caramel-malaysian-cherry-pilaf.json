@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Caramel Malaysian Cherry Pilaf",
+  "description": "A rich and comforting Malaysian dish featuring glace cherry and caramelized flavors, this lacto-vegetarian-friendly pilaf is perfect for a cozy dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Glace cherry",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the unsalted butter in a large saucepan over medium heat until melted.",
+    "Add the chopped glace cherry and cook for 2 minutes, stirring frequently.",
+    "Add the caramel sauce and cook for an additional 1 minute, stirring constantly.",
+    "Add the rinsed basmati rice and cook for 1 minute, stirring frequently, until the rice is coated with the caramel mixture.",
+    "Add the coconut milk, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and stir in the chopped fresh cilantro.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-dinner",
+    "lacto-vegetarian",
+    "malaysian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kissed-caramel-malaysian-cherry-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-caramel-malaysian-cherry-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:02:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "caramelize",
+    "primaryIngredient": "glace cherry",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cherries",
+    "descriptor": "kissed caramel",
+    "dishForm": "Pilaf"
+  }
+}
