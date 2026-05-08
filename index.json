@@ -2395,6 +2395,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-buttery-jamaican-lamb-kebabs",
+    "title": "Kissed Buttery Jamaican Lamb Kebabs",
+    "tags": [
+      "buttery-dishes",
+      "grilled-meats",
+      "jamaican-cuisine",
+      "kid-friendly",
+      "lamb-recipes",
+      "low-sodium"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-buttery-portuguese-pineapple-skillet",
     "title": "Kissed Buttery Portuguese Pineapple Skillet",
     "tags": [
@@ -8658,6 +8673,21 @@
       "weeknight"
     ],
     "cuisine": "kenyan",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-smoky-goodness-portuguese-potato-bake",
+    "title": "Smoky Portuguese Potato Bake",
+    "tags": [
+      "comfort-food",
+      "meal-prep",
+      "one-pan",
+      "portuguese",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
     "totalTimeMin": 45,
     "shard": "k"
   },

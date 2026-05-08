@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Buttery Jamaican Lamb Kebabs",
+  "description": "A kid-friendly Jamaican dish featuring lamb leg, this recipe is low in sodium and full of flavor, with a buttery and shaggy texture that is sure to please, the combination of spices and herbs gives it a unique taste.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb leg",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the melted butter, jamaican jerk seasoning, brown sugar, soy sauce, garlic powder, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat evenly with the butter and spice mixture.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Grill the lamb kebabs for 10-12 minutes, turning occasionally, until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buttery-dishes",
+    "grilled-meats",
+    "jamaican-cuisine",
+    "kid-friendly",
+    "lamb-recipes",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-buttery-jamaican-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-buttery-jamaican-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:08:54Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "lamb leg",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed buttery",
+    "dishForm": "Kebabs"
+  }
+}
