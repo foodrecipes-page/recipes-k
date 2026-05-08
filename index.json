@@ -868,6 +868,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-herbal-egyptian-pomegranate-curry",
+    "title": "Kicked Herbal Egyptian Pomegranate Curry",
+    "tags": [
+      "curry",
+      "egyptian",
+      "herbal",
+      "jain-friendly",
+      "pomegranate",
+      "vegetarian"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-juicy-canadian-lentil-curry",
     "title": "Kicked Juicy Canadian Lentil Curry",
     "tags": [
@@ -7694,6 +7709,20 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-umami-french-monterey-jack-cheese-macaron",
+    "title": "Kissed Umami French Monterey Jack Cheese Macaron",
+    "tags": [
+      "cheese-lovers",
+      "french-pastry",
+      "plant-based",
+      "special-occasion",
+      "umami-flavors"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {

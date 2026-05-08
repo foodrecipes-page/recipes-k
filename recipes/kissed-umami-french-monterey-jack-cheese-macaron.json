@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Umami French Monterey Jack Cheese Macaron",
+  "description": "A delicate French macaron filled with a rich umami flavored Monterey Jack cheese buttercream and topped with shredded cheese and candy, perfect for a light and showy dessert.",
+  "cuisine": "French",
+  "diet": [
+    "plant-based-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely sifted"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 3/4 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "3 tablespoons",
+      "notes": "such as flax or chia eggs"
+    },
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "mushroom duxelles",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "candy pieces",
+      "amount": "1/4 cup",
+      "notes": "such as sprinkles or nonpareils"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit and line a baking sheet with parchment paper.",
+    "In a medium bowl, sift together the almond flour and confectioners sugar.",
+    "In a large bowl, whip the egg replacement and vegan butter until light and fluffy.",
+    "Gradually add the sifted almond flour mixture to the egg replacement mixture and whip until stiff peaks form.",
+    "Transfer the mixture to a piping bag and pipe small rounds onto the prepared baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles and allow the macarons to sit at room temperature for 30 minutes to form a skin.",
+    "Bake the macarons for 15 minutes, then allow them to cool completely on the baking sheet.",
+    "To make the cheese buttercream, whip the shredded Monterey Jack cheese and mushroom duxelles until smooth and creamy.",
+    "Pair the macarons by size and shape, then sandwich a small dollop of cheese buttercream between each pair.",
+    "Top each macaron with a piece of candy and serve immediately."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 15,
+  "totalTimeMin": 60,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "french-pastry",
+    "plant-based",
+    "special-occasion",
+    "umami-flavors"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "kissed-umami-french-monterey-jack-cheese-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-umami-french-monterey-jack-cheese-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:22:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "candy",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "plant-based",
+    "region": "alsace",
+    "cuisineAdjective": "French",
+    "mainIngredient": "monterey jack cheese",
+    "descriptor": "Kissed Umami",
+    "dishForm": "Macaron"
+  }
+}

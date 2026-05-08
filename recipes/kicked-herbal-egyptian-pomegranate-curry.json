@@ -1,0 +1,107 @@
+{
+  "title": "Kicked Herbal Egyptian Pomegranate Curry",
+  "description": "A flavorful and energizing Egyptian dish featuring pomegranate, this curry is made with a blend of herbal spices and is jain-friendly. It is boiled in a kadhai to bring out the rich flavors of the ingredients.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pomegranate juice",
+      "amount": "1 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a kadhai over medium heat.",
+    "Add the chopped onion and saute until it is translucent.",
+    "Add the grated ginger and minced garlic and saute for another minute.",
+    "Add the curry powder, turmeric, cumin, coriander, salt, and black pepper, and stir well.",
+    "Pour in the pomegranate juice and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Stir occasionally to prevent the curry from sticking to the kadhai.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "egyptian",
+    "herbal",
+    "jain-friendly",
+    "pomegranate",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kicked-herbal-egyptian-pomegranate-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-herbal-egyptian-pomegranate-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:21:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "pomegranate",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "pomegranate",
+    "descriptor": "kicked herbal",
+    "dishForm": "Curry"
+  }
+}
