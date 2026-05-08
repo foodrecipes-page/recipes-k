@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Indulgent German Beef Terrine",
+  "description": "A grassy and indulgent German dish featuring gelatine leaves, this terrine is perfect for special occasions, made in a bamboo tray and cooked in a bain-marie for a tender and aerated texture.",
+  "cuisine": "German",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": "grass fed"
+    },
+    {
+      "name": "gelatine leaves",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "white wine",
+      "amount": "125ml"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 150 degrees Celsius.",
+    "Soak the gelatine leaves in cold water for 5 minutes.",
+    "In a large pan, combine the sliced onion, grated carrot, and sliced celery, and cook over low heat until the vegetables are softened.",
+    "Add the beef to the pan and cook until it is browned on all sides.",
+    "Add the beef broth, white wine, black pepper, and salt to the pan, and stir to combine.",
+    "Remove the gelatine leaves from the water and add them to the pan, stirring to combine.",
+    "Pour the mixture into a bamboo tray and place the tray in a bain-marie.",
+    "Cook the terrine in the preheated oven for 2 hours.",
+    "Remove the terrine from the oven and let it cool to room temperature.",
+    "Refrigerate the terrine for at least 4 hours before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "bain-marie",
+    "beef-recipe",
+    "german-cuisine",
+    "gluten-free",
+    "low-fodmap",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-indulgent-german-beef-terrine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indulgent-german-beef-terrine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:02:39Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "bain-marie",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "beef",
+    "descriptor": "kissed indulgent",
+    "dishForm": "Terrine"
+  }
+}
