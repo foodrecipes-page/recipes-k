@@ -916,6 +916,22 @@
     "shard": "k"
   },
   {
+    "slug": "kid-friendly-kicked-mediterranean-lamb-stew",
+    "title": "Kid-Friendly Kicked Mediterranean Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "kid-friendly",
+      "lamb",
+      "mediterranean",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kid-friendly-mediterranean-salt-cod-tagine",
     "title": "Kid Friendly Mediterranean Salt Cod Tagine",
     "tags": [
@@ -3592,6 +3608,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-moroccan-mincemeat-khlea",
+    "title": "Kissed Moroccan Mincemeat Khlea",
+    "tags": [
+      "dessert",
+      "flexitarian",
+      "moroccan",
+      "moroccan-dessert",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-moroccan-wensleydale-tagine",
     "title": "Kissed Moroccan Wensleydale Tagine",
     "tags": [
@@ -5071,6 +5101,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 280,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae",
+    "title": "kissed with clay smoke scottish salmon donabe-steamed jjigae",
+    "tags": [
+      "gluten-free-friendly",
+      "high-protein",
+      "japanese",
+      "one-pan",
+      "scottish",
+      "vegetarian-friendly",
+      "weeknight"
+    ],
+    "cuisine": "scottish-japanese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

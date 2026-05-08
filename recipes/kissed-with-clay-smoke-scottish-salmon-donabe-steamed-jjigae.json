@@ -1,0 +1,122 @@
+{
+  "title": "kissed with clay smoke scottish salmon donabe-steamed jjigae",
+  "description": "a tangy, shaggy scottish dish featuring clay-pot-cooked salmon, with a soothing night-time craving. served in a traditional japanese donabe.",
+  "cuisine": "scottish-japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "scottish smoked salmon",
+      "amount": "4 fillets",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "for donabe"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "short-grain"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "donabe or clay pot",
+      "amount": "",
+      "notes": "at least 2-quart capacity"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for donabe"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "prepare the donabe by washing it with warm water and drying thoroughly.",
+    "in a small bowl, mix together the soy sauce, brown rice, and sesame oil.",
+    "add the zucchini and green onions to the bowl and toss to combine.",
+    "place the scottish smoked salmon fillets in the donabe.",
+    "add the chili flakes, salt, and black pepper to the donabe and toss to combine.",
+    "add the water to the donabe and bring to a boil over high heat.",
+    "reduce the heat to low and cover the donabe with a lid.",
+    "simmer for 10 minutes, or until the salmon is cooked through.",
+    "serve the salmon and rice mixture hot, garnished with toasted sesame seeds if desired.",
+    "serve with a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free-friendly",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "scottish",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T07:57:40Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "midnight-craving",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "salmon",
+    "diet": "shojin",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "salmon",
+    "descriptor": "Kissed with Clay Smoke",
+    "dishForm": "Donabe-Steamed Jjigae"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Moroccan Mincemeat Khlea",
+  "description": "A briny, chewy Moroccan dish featuring mincemeat, bonito-shave, and a perfect blend of textures and flavors. This flexitarian-friendly Khlea is sure to please the crowd.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Mincemeat",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Bonito flakes",
+      "amount": "20g",
+      "notes": "Shaved"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "5g",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "5g",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "Flaky"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "5g",
+      "notes": "Coarse"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "15g",
+      "notes": "Copped"
+    },
+    {
+      "name": "Onion",
+      "amount": "60g",
+      "notes": "Finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the olive oil over medium heat and add the chopped onion, cooking until translucent.",
+    "Add the minced meat and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the mincemeat and cook for 1-2 minutes, stirring occasionally.",
+    "Stir in the bonito flakes and cook for another minute.",
+    "Transfer the mixture to a serving dish and garnish with chopped parsley.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "flexitarian",
+    "moroccan",
+    "moroccan-dessert",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 80,
+    "carbs": 60,
+    "fat": 60
+  },
+  "slug": "kissed-moroccan-mincemeat-khlea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-moroccan-mincemeat-khlea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:58:19Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "chewy",
+    "mood": "crowd-pleaser",
+    "technique": "bonito-shave",
+    "primaryIngredient": "mincemeat",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "moroccan",
+    "mainIngredient": "mincemeat",
+    "descriptor": "kissed",
+    "dishForm": "Khlea"
+  }
+}
