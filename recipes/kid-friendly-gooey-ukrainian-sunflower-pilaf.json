@@ -1,0 +1,106 @@
+{
+  "title": "Kid Friendly Gooey Ukrainian Sunflower Pilaf",
+  "description": "A cultured and kid-friendly Ukrainian dish featuring sunflower oil, this pilaf is perfect for a weeknight dinner. It is also FODMAP-friendly and cooked to a gooey perfection on a slate-tile vessel.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sunflower oil",
+      "amount": "2 tablespoons",
+      "notes": "use a high-quality oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "ensure FODMAP-friendly"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "white or brown"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 teaspoon",
+      "notes": "fresh is optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-lactose"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the sunflower oil over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the garlic-infused oil and cook for an additional minute.",
+    "Add the rice and stir to coat with the oil and mix with the onion.",
+    "Add the chicken broth, dried parsley, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Transfer the saucepan to the preheated oven and bake for 10 minutes.",
+    "Remove from the oven and stir in the grated cheddar cheese until melted and gooey.",
+    "Serve hot on a slate-tile vessel."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "fodmap-friendly",
+    "gooey-cheese",
+    "kid-friendly",
+    "ukrainian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kid-friendly-gooey-ukrainian-sunflower-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-gooey-ukrainian-sunflower-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:39:02Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "sunflower oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sunflower seeds",
+    "descriptor": "kid friendly gooey",
+    "dishForm": "Pilaf"
+  }
+}
