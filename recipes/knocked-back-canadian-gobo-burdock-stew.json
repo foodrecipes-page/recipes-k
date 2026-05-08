@@ -1,0 +1,102 @@
+{
+  "title": "Knocked Back Canadian Gobo Burdock Stew",
+  "description": "A hearty and comforting Canadian stew featuring gobo burdock, perfect for a sick day, made with a tadka for added depth of flavor and following satvik principles for a nourishing meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "gobo burdock",
+      "amount": "2 medium roots",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt 2 tablespoons of butter over medium heat.",
+    "Add the sliced gobo burdock and cook until it starts to soften, about 5 minutes.",
+    "Add the chopped onion, minced garlic, and grated ginger to the pot and cook until the onion is translucent.",
+    "Add the cumin seeds and coriander seeds to the pot and cook for 1 minute, stirring constantly.",
+    "Pour in the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer the stew for 20 minutes, or until the gobo burdock is tender.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "healing-meals",
+    "satvik-recipe",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "knocked-back-canadian-gobo-burdock-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knocked-back-canadian-gobo-burdock-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:08:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "tadka",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "gobo burdock",
+    "descriptor": "knocked back",
+    "dishForm": "Stew"
+  }
+}
