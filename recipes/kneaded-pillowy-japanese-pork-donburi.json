@@ -1,0 +1,95 @@
+{
+  "title": "Kneaded Pillowy Japanese Pork Donburi",
+  "description": "A low-carb Japanese dish featuring tender pork and earthy flavors, served over a bed of cauliflower rice in a donburi style bowl.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "food processed into rice"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, sake, mirin, and sesame oil to make the marinade.",
+    "Add the pork pieces to the marinade and mix well to coat.",
+    "Let the pork marinate for at least 30 minutes.",
+    "Preheat a large skillet or wok over medium-high heat.",
+    "Remove the pork from the marinade and cook until browned on all sides.",
+    "Add the grated ginger to the skillet and cook for 1 minute.",
+    "Add the cauliflower rice to the skillet and cook until tender.",
+    "To assemble the donburi, place a scoop of cauliflower rice in a bowl, followed by a portion of the pork.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "donburi",
+    "japanese-food",
+    "low-carb",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kneaded-pillowy-japanese-pork-donburi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-pillowy-japanese-pork-donburi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:09:40Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "restaurant",
+    "diet": "low-carb",
+    "region": "shikoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "kneaded pillowy",
+    "dishForm": "Donburi"
+  }
+}
