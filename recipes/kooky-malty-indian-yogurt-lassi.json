@@ -1,0 +1,92 @@
+{
+  "title": "Kooky Malty Indian Yogurt Lassi",
+  "description": "A malty, flaky, hangover-cure Indian dish featuring creme fraiche, this lassi is an ayurvedic-tamasic-friendly drink, served in a stone bowl dolsot. It is a refreshing and rejuvenating beverage.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "malt powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ice cubes",
+      "amount": "as needed"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a blender, combine creme fraiche, yogurt, malt powder, honey, cardamom powder, and salt.",
+    "Blend the mixture on high speed until smooth and creamy.",
+    "Add ice cubes to the blender and blend until the ice is crushed and the mixture is thick and frosty.",
+    "Add water to the blender and blend until well combined.",
+    "Taste the lassi and adjust the sweetness or consistency as needed.",
+    "Pour the lassi into stone bowl dolsots or glasses.",
+    "Serve the lassi immediately, garnished with a sprinkle of cardamom powder if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ayurvedic-friendly",
+    "creme-fraiche",
+    "hangover-cure",
+    "indian-drinks",
+    "malt-flavored",
+    "yogurt-based"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "kooky-malty-indian-yogurt-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-malty-indian-yogurt-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:15:25Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "creme fraiche",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "yogurt",
+    "descriptor": "Kooky Malty",
+    "dishForm": "Lassi"
+  }
+}
