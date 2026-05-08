@@ -1,0 +1,109 @@
+{
+  "title": "kissed and citrusy ukrainian ricotta casserole",
+  "description": "a twist on traditional ukrainian dishes, this citrusy and crisp casserole is a delightful meal prep option made with low-fat ricotta and nimono-simmered components.",
+  "cuisine": "ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "low-fat ricotta cheese",
+      "amount": "12 ounces",
+      "notes": "drained of excess liquid"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "freshly squeezed lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "nimono-simmered carrots and onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375 degrees fahrenheit.",
+    "in a large mixing bowl, combine the ricotta cheese, unsalted butter, lemon juice, granulated sugar, nimono-simmered carrots and onions, dried thyme, and salt; mix well to combine.",
+    "in a separate bowl, whisk together the all-purpose flour and beaten eggs.",
+    "add the flour mixture to the ricotta mixture and stir until just combined.",
+    "transfer the mixture to a greased 9x13-inch baking dish.",
+    "sprinkle the shredded cheddar cheese evenly over the top.",
+    "cover the dish with aluminum foil and bake for 25 minutes.",
+    "remove the foil and continue baking for an additional 5-7 minutes, or until the cheese is golden brown and the casserole is set.",
+    "allow the casserole to cool for 10-15 minutes before serving.",
+    "serve warm, garnished with additional lemon wedges and chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "citrusy",
+    "easy-dinner",
+    "low-fat",
+    "meal-prep",
+    "ukrainian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "kissed-and-citrusy-ukrainian-ricotta-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-and-citrusy-ukrainian-ricotta-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:03:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "ricotta",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Kissed and Citrusy",
+    "dishForm": "Casserole"
+  }
+}
