@@ -1,0 +1,97 @@
+{
+  "title": "Knotted Flaky Polish Pierogi Dumplings",
+  "description": "A traditional Polish dish with a twist, featuring green curry paste for a bitter flavor, and a flaky texture, perfect for meal prep and low fat diets. This recipe is a unique take on the classic pierogi.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "green curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, green curry paste, and salt, and mix until well combined.",
+    "In a separate bowl, whisk together the sour cream and egg until smooth.",
+    "Add the water to the sour cream mixture and whisk until emulsified.",
+    "Add the grated potato and chopped onion to the sour cream mixture and mix until well combined.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until smooth and elastic.",
+    "Divide the dough into smaller pieces and roll out each piece into a thin circle.",
+    "Place a tablespoon of the potato and onion mixture in the center of each circle.",
+    "Fold the dough over the filling to form a knot and press the edges together to seal.",
+    "Bring a large pot of salted water to a boil and cook the pierogi for about 5 minutes, until they float to the surface.",
+    "Remove the pierogi from the water with a slotted spoon and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "flaky-pastry",
+    "low-fat",
+    "meal-prep",
+    "polish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "knotted-flaky-polish-pierogi-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-flaky-polish-pierogi-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:18:05Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "flaky",
+    "mood": "meal-prep",
+    "technique": "emulsify",
+    "primaryIngredient": "green-curry-paste",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pierogi dough",
+    "descriptor": "Knotted Flaky",
+    "dishForm": "Dumplings"
+  }
+}
