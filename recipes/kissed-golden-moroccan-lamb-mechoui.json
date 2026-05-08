@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Golden Moroccan Lamb Mechoui",
+  "description": "A crowd-pleasing Moroccan dish featuring tender lamb in a sweet and savory sauce, perfect for special occasions. This lacto-vegetarian-friendly version is made with golden caster sugar and fry-grind-rice-khao-khua.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "golden caster sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fry-grind-rice-khao-khua",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a blender or food processor, combine garlic, ginger, cumin, coriander, salt, and black pepper, and blend until smooth.",
+    "In a large bowl, whisk together the blended spice mixture, red wine, olive oil, and golden caster sugar.",
+    "Add the lamb shoulder to the bowl and coat with the marinade, making sure it is fully covered.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the lamb from the marinade and place it in a large Dutch oven or oven-safe pot.",
+    "Add the fry-grind-rice-khao-khua to the pot and stir to combine with the marinade.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until it is tender and falls apart easily.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "braised-meat",
+    "lacto-vegetarian",
+    "moroccan-cuisine",
+    "special-occasion",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kissed-golden-moroccan-lamb-mechoui",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-moroccan-lamb-mechoui",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:30:56Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "golden caster sugar",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Golden",
+    "dishForm": "Mechoui"
+  }
+}
