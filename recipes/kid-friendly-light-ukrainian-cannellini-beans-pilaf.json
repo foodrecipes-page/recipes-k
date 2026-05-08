@@ -1,0 +1,91 @@
+{
+  "title": "Kid-Friendly Light Ukrainian Cannellini Beans Pilaf",
+  "description": "A light, easy, and nutritious Ukrainian-inspired dish featuring cannellini beans, perfect for picky eaters and kids.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "paleo-friendly",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and caraway seeds; cook for 1 minute.",
+    "Add the cannellini beans, chicken broth, salt, and black pepper; stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-12 minutes, or until the liquid has reduced slightly.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "kid-friendly",
+    "paleo-friendly",
+    "ukrainian-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 10
+  },
+  "slug": "kid-friendly-light-ukrainian-cannellini-beans-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-light-ukrainian-cannellini-beans-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:58:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "tadka",
+    "primaryIngredient": "cannellini beans",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cannellini beans",
+    "descriptor": "Kid-Friendly Light",
+    "dishForm": "Pilaf"
+  }
+}
