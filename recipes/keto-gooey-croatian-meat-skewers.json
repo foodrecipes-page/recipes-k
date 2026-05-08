@@ -1,0 +1,102 @@
+{
+  "title": "Keto Gooey Croatian Meat Skewers",
+  "description": "A romantic Croatian dish featuring chimichurri sauce and spherified meat, perfect for a keto diet.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 ratio"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for spherification bath"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "for keto-friendly side dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together ground beef, garlic powder, and paprika.",
+    "Thread the meat mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, or until cooked to an internal temperature of 160 degrees Fahrenheit.",
+    "While the skewers are cooking, prepare the spherification bath by mixing water and sodium alginate in a large bowl.",
+    "Once the skewers are cooked, remove them from the grill and carefully place them into the spherification bath.",
+    "Let the skewers sit in the bath for 30 seconds to 1 minute, or until they are fully coated in the sodium alginate mixture.",
+    "Remove the skewers from the bath and place them on a plate or serving dish.",
+    "Drizzle the chimichurri sauce over the skewers and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-cuisine",
+    "gluten-free",
+    "grilled-meat",
+    "keto-friendly",
+    "low-carb",
+    "romantic-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "keto-gooey-croatian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-gooey-croatian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:56:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "spherify",
+    "primaryIngredient": "chimichurri sauce",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "keto gooey",
+    "dishForm": "Skewers"
+  }
+}
