@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Bouncy Malaysian Chicken Satay",
+  "description": "This dish features earthy and bouncy chicken satay with a cozy Malaysian twist, using a bain-marie for gentle cooking and Mediterranean-friendly flavors, although hail is not actually used in the recipe as it is not a common or safe ingredient in cooking.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut milk, peanut oil, lime juice, garlic, ginger, cumin, and coriander.",
+    "Add the chicken pieces to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated chicken onto skewers, if using.",
+    "Place the skewers in a bain-marie and cook in the preheated oven for 15 minutes.",
+    "Increase the oven temperature to 400 degrees Fahrenheit and cook for an additional 5 minutes.",
+    "Remove the satay from the oven and let it rest for a few minutes before serving.",
+    "Serve the satay hot with your choice of sides, such as steamed vegetables or rice.",
+    "Garnish with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "garlic-based",
+    "grilled-chicken",
+    "lime-juice-based",
+    "malaysian-cuisine",
+    "peanut-oil-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-bouncy-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-bouncy-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:07:41Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "hail",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed bouncy",
+    "dishForm": "Satay"
+  }
+}
