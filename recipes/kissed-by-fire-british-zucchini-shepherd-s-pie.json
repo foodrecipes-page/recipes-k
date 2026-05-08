@@ -1,0 +1,72 @@
+{
+  "title": "Kissed by Fire British Zucchini Shepherd's Pie",
+  "description": "Sweet and savory, this show-stopping British-inspired dish features zucchini in a rich, cheesy filling, perfect for a cozy evening at home.",
+  "cuisine": "British",
+  "diet": [
+    "Vegetarian",
+    "Vegan",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Butternut squash (or sweet potato)",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Zucchini",
+      "amount": "2 medium",
+      "notes": "Thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400\u00065\u00160C (200\u00065\u00160F).",
+    "In a large pan, saut\t3 1 tablespoon of olive oil over medium heat. Add 1 small onion, diced, and cook until softened, about 3 minutes.",
+    "Add 2 cloves of minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add 2 medium zucchinis, thinly sliced, and cook until tender, about 5 minutes, stirring occasionally.",
+    "Stir in 1 teaspoon of smoked paprika and 1/2 teaspoon of salt. Cook for 1 minute, allowing the flavors to meld.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Mix 1 cup of vegan cheddar cheese with 1/2 cup of nutritional yeast. Add 1/4 cup of olive oil and 1/4 cup of chopped fresh parsley. Mix until well combined.",
+    "Spread the cheese mixture evenly over the top of the zucchini mixture.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the filling is hot and bubbly.",
+    "While the pie is baking, prepare a simple salad with mixed greens, cherry tomatoes, and a light vinaigrette. Serve the salad alongside the pie.",
+    "To serve, carefully remove the pie from the oven and let it cool for a few minutes. Slice into wedges and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "british-inspired",
+    "cheesy",
+    "cozy-evening",
+    "show-stopper",
+    "zucchini"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "kissed-by-fire-british-zucchini-shepherd-s-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-fire-british-zucchini-shepherd-s-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:51:35Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "zucchini",
+    "diet": "vegan",
+    "region": "northern-irish",
+    "cuisineAdjective": "british",
+    "mainIngredient": "zucchini",
+    "descriptor": "Kissed by Fire",
+    "dishForm": "Shepherd's Pie"
+  }
+}
