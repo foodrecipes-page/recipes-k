@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Crumbly Irish Potato Casserole",
+  "description": "A jammy and crumbly Irish dish featuring ginger cordial and ferment-kimchi, this adventurous recipe is jain-friendly and perfect for a special occasion. It combines the flavors of Ireland with a spicy kick from the kimchi.",
+  "cuisine": "Irish",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "ginger cordial",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ferment-kimchi",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "crushed oats",
+      "amount": "1/2 cup",
+      "notes": "for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and chopped onions, and mix well.",
+    "In a separate bowl, whisk together the ginger cordial, oat milk, olive oil, salt, and black pepper.",
+    "Add the chopped kimchi to the potato mixture and stir to combine.",
+    "Grease a 9x13 inch baking dish with olive oil and add the potato mixture.",
+    "Pour the ginger cordial mixture over the potatoes and smooth the top.",
+    "Sprinkle the grated carrots over the top of the casserole.",
+    "Top the casserole with the crushed oats and bake for 45 minutes.",
+    "Remove the casserole from the oven and let it cool for 10 minutes before serving.",
+    "Serve the casserole hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish-food",
+    "jain-friendly",
+    "one-pan",
+    "special-occasion",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-crumbly-irish-potato-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crumbly-irish-potato-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:39:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "ginger cordial",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "potatoes",
+    "descriptor": "kissed crumbly",
+    "dishForm": "Casserole"
+  }
+}
