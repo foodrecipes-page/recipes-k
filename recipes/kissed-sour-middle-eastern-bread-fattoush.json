@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Sour Middle Eastern Bread Fattoush",
+  "description": "A comforting Middle Eastern dish featuring toasted bread, mixed greens, and a tangy dressing, made halal-friendly with turkey bacon and shio-cure, in place of parma ham.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pita bread",
+      "amount": "4 pieces",
+      "notes": "day-old bread"
+    },
+    {
+      "name": "turkey bacon",
+      "amount": "6 slices",
+      "notes": "shio-cure"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 small",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the pita bread into small pieces and toast until crispy.",
+    "Cook the turkey bacon in a pan until crispy, then chop into small pieces.",
+    "In a large bowl, combine the mixed greens, cucumber, tomato, and red onion.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Add the toasted bread, turkey bacon, and feta cheese to the bowl with the mixed greens.",
+    "Drizzle the lemon juice and olive oil dressing over the top of the salad.",
+    "Sprinkle the sumac over the salad and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "halal",
+    "lunch",
+    "middle-eastern",
+    "quick",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-sour-middle-eastern-bread-fattoush",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sour-middle-eastern-bread-fattoush",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:50:58Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "shio-cure",
+    "primaryIngredient": "parma ham",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "bread",
+    "descriptor": "Kissed sour",
+    "dishForm": "Fattoush"
+  }
+}
