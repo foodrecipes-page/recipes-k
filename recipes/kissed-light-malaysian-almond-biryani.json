@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Light Malaysian Almond Biryani",
+  "description": "A rich and aerated Malaysian dish featuring almond essence, this biryani is a unique and flavorful meal option, made with ayurvedic-tamasic-friendly ingredients for a balanced diet.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "2 cups",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "almond essence",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large saucepan over medium heat.",
+    "Add the sliced onion and cook until it is lightly browned.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly.",
+    "Add the water, salt, cardamom powder, and almond essence, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Fluff the rice with a fork and stir in the sliced almonds.",
+    "Serve hot, garnished with additional sliced almonds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "gluten-free",
+    "healthy",
+    "malaysian-cuisine",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-light-malaysian-almond-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-malaysian-almond-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:35:05Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "almond essence",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "almonds",
+    "descriptor": "Kissed Light",
+    "dishForm": "Biryani"
+  }
+}
