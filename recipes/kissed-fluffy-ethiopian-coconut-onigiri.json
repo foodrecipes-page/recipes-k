@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Fluffy Ethiopian Coconut Onigiri",
+  "description": "A sour, fluffy, and festive Ethiopian dish featuring coconut cream and nigiri-shaping, perfect for those with onion and garlic sensitivities.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "teff flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sour injera starter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine teff flour, salt, and active dry yeast.",
+    "Gradually add in water and mix until a smooth batter forms.",
+    "Add in sour injera starter and mix well.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or injera pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the dough into small balls and flatten them slightly into disks.",
+    "Cook the disks for 1-2 minutes on each side, until they are lightly browned and crispy.",
+    "In a small bowl, mix together coconut cream, unsweetened shredded coconut, and lemon juice.",
+    "Brush the coconut mixture onto the cooked disks and shape them into triangular onigiri shapes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "coconut",
+    "finger-food",
+    "gluten-free",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "kissed-fluffy-ethiopian-coconut-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-ethiopian-coconut-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:42:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "coconut cream",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "coconut",
+    "descriptor": "kissed fluffy",
+    "dishForm": "Onigiri"
+  }
+}
