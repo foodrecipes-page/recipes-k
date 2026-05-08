@@ -1,0 +1,94 @@
+{
+  "title": "Kicked Crunchy Turkish Wild Garlic Leaves Skewers",
+  "description": "A salty and crunchy Turkish dish featuring wild garlic leaves, this recipe is a nostalgic treat that is also sugar-free-friendly, served in scallop shells for a unique presentation.",
+  "cuisine": "Turkish",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wild garlic leaves",
+      "amount": "20 leaves",
+      "notes": "Freshly picked"
+    },
+    {
+      "name": "Papillote paper",
+      "amount": "10 sheets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "10 shells",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the wild garlic leaves and pat them dry with a paper towel.",
+    "In a large bowl, mix together olive oil, salt, black pepper, and garlic powder.",
+    "Add the wild garlic leaves to the bowl and toss to coat with the oil mixture.",
+    "Cut the papillote paper into 10 equal pieces and wrap each piece around a few garlic leaves, securing with a toothpick.",
+    "Place the wrapped garlic leaves on a baking sheet lined with parchment paper.",
+    "Drizzle the tops with lemon juice and bake for 12 minutes.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve the crunchy garlic leaves in scallop shells."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 10,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-snack",
+    "gluten-free",
+    "snack-recipe",
+    "sugar-free",
+    "turkish-food",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "kicked-crunchy-turkish-wild-garlic-leaves-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crunchy-turkish-wild-garlic-leaves-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:13:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "papillote",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "kicked crunchy",
+    "dishForm": "Skewers"
+  }
+}
