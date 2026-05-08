@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Smoky Greek Lamb Stew",
+  "description": "A hearty and flavorful Greek lamb stew featuring ancho chillies and a char-grill yang, served in a scallop shell, this dish is perfect for a cold winter night. The mustardy and pillowy texture will leave you wanting more.",
+  "cuisine": "Greek",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "ancho chillies",
+      "amount": "2",
+      "notes": "dried and stemmed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the ancho chillies, dried oregano, salt, and black pepper, and cook for 1 minute.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in the mustard and cook for an additional 10 minutes.",
+    "Serve the stew in scallop shells, garnished with fresh parsley or dill.",
+    "Let the stew rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "greek-cuisine",
+    "lamb-recipes",
+    "one-pot-meals",
+    "smoky-flavors",
+    "winter-stews"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-smoky-greek-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-greek-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:53:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "ancho chillies",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Stew"
+  }
+}
