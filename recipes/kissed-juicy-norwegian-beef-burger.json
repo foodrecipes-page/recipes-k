@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Juicy Norwegian Beef Burger",
+  "description": "A resinous, juicy, and indulgent Norwegian dish featuring sesame seed burger buns and roast, low-fat-friendly beef patties.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian beef",
+      "amount": "500g",
+      "notes": "90% lean"
+    },
+    {
+      "name": "Sesame seed burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Low-fat mayo",
+      "amount": "60g"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "120g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Roast seasoning",
+      "amount": "20g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "In a large bowl, combine the Norwegian beef, roast seasoning, and a pinch of salt and pepper, then mix well with your hands until just combined.",
+    "Divide the beef mixture into 4 equal parts and shape each part into a ball, then flatten each ball into a patty.",
+    "Place the patties on a baking sheet lined with parchment paper and bake in the preheated oven for 15 minutes, or until cooked to your desired level of doneness.",
+    "While the patties are cooking, toast the sesame seed burger buns in the oven for 5 minutes, or until lightly browned.",
+    "Assemble the burgers by spreading a layer of low-fat mayo on the bottom bun, followed by a cooked patty, a slice of cheese, a few slices of onion, a few slices of tomato, and a handful of chopped lettuce.",
+    "Top with the top bun and serve immediately.",
+    "Repeat the assembly process with the remaining ingredients."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-burgers",
+    "indulgent-dishes",
+    "low-fat",
+    "norwegian-cuisine",
+    "roast-seasoning",
+    "sesame-seed-buns"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "kissed-juicy-norwegian-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-norwegian-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:31:36Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed juicy",
+    "dishForm": "Burger"
+  }
+}
