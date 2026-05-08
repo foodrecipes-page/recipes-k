@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Crunchy Greek Shrimp Skewers",
+  "description": "A quick and fresh Greek dish featuring shrimp, nuts, and dashi extract, served in an agave leaf vessel, perfect for a light and crunchy snack.",
+  "cuisine": "Greek",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "Brush the agave leaves with olive oil and place a skewer on each leaf.",
+    "Sprinkle the sliced almonds over the shrimp.",
+    "Drizzle the dashi extract over the shrimp and almonds.",
+    "Grill the skewers for 2-3 minutes per side, or until the shrimp are pink and cooked through.",
+    "Serve the skewers hot, garnished with additional lemon juice and almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek-food",
+    "grilled",
+    "healthy-snack",
+    "pescatarian-friendly",
+    "quick-fix",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 26,
+    "carbs": 6,
+    "fat": 12
+  },
+  "slug": "kissed-crunchy-greek-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-greek-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:25:01Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "aerated",
+    "mood": "quick-fix",
+    "technique": "dashi-extract",
+    "primaryIngredient": "nuts",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "shrimp",
+    "descriptor": "kissed crunchy",
+    "dishForm": "Skewers"
+  }
+}
