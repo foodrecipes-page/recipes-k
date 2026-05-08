@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Juicy Uruguayan Strawberry Bake",
+  "description": "A quick-fix Uruguayan dish featuring strawberries, with a hint of mustard and a wood-fired bake, perfect for a vegan-friendly dessert. This recipe combines the sweetness of strawberries with the tanginess of mustard.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": "hulled and sliced"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "whole wheat flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the melted vegan butter, apple cider vinegar, Dijon mustard, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Gently fold in the sliced strawberries.",
+    "Pour the mixture into a 9x9 inch baking dish.",
+    "Bake for 35 minutes, or until the top is golden brown and the fruit is tender.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve warm, garnished with additional sliced strawberries if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert-recipe",
+    "quick-fix",
+    "strawberry-bake",
+    "uruguayan-dish",
+    "vegan-friendly",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "kissed-juicy-uruguayan-strawberry-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-uruguayan-strawberry-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:29:06Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "strawberries",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "strawberries",
+    "descriptor": "kissed juicy",
+    "dishForm": "Bake"
+  }
+}

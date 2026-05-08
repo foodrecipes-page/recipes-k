@@ -3561,6 +3561,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-juicy-uruguayan-strawberry-bake",
+    "title": "Kissed Juicy Uruguayan Strawberry Bake",
+    "tags": [
+      "dessert-recipe",
+      "quick-fix",
+      "strawberry-bake",
+      "uruguayan-dish",
+      "vegan-friendly",
+      "wood-fired"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-kenyan-chicken-skillet",
     "title": "Kissed Kenyan Chicken Skillet",
     "tags": [
@@ -4021,6 +4036,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-mustardy-chinese-udon-congee",
+    "title": "Kissed Mustardy Chinese Udon Congee",
+    "tags": [
+      "chinese-inspired",
+      "comfort-food",
+      "date-night",
+      "noodle-dish",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
