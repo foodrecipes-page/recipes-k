@@ -3077,6 +3077,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-indulgent-french-pork-cassoulet",
+    "title": "Kissed Indulgent French Pork Cassoulet",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "one-pan",
+      "pork-recipes",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-indulgent-polish-yautia-bake",
     "title": "Kissed Indulgent Polish Yautia Bake",
     "tags": [
@@ -5311,6 +5325,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-with-mediterranean-flavors-slovakian-farfalle-lasagna",
+    "title": "Kissed with Mediterranean Flavors Slovakian Farfalle Lasagna",
+    "tags": [
+      "farfalle",
+      "lasagna",
+      "mediterranean",
+      "one-pan",
+      "puff-pastry",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-with-molten-argentinian-onion-casserole",
     "title": "kissed with molten argentinian onion casserole",
     "tags": [
@@ -5790,6 +5819,21 @@
     "shard": "k"
   },
   {
+    "slug": "kneaded-springy-venezuelan-dough-empanadas",
+    "title": "Kneaded Springy Venezuelan Dough Empanadas",
+    "tags": [
+      "delicious",
+      "homemade",
+      "mediterranean-friendly",
+      "snack",
+      "traditional",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kneaded-yeasty-french-cheese-blanquette",
     "title": "Kneaded Yeasty French Cheese Blanquette",
     "tags": [
@@ -5939,6 +5983,22 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kooky-gooey-canadian-tamarind-ball-pasta",
+    "title": "Kooky Gooey Canadian Tamarind Ball Pasta",
+    "tags": [
+      "canadian-cuisine",
+      "cheesy",
+      "comfort-food",
+      "fodmap-friendly",
+      "indulgent",
+      "pasta-lovers",
+      "special-occasion"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {

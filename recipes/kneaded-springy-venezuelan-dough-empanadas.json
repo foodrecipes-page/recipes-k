@@ -1,0 +1,93 @@
+{
+  "title": "Kneaded Springy Venezuelan Dough Empanadas",
+  "description": "A traditional Venezuelan dish featuring a fatty and springy dough filled with raisins, perfect for a Mediterranean-friendly snack. This recipe uses a long-fermentation dough to create a nostalgic and delicious treat.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, and sugar, then stir to combine.",
+    "Add melted butter, eggs, and water to the dry ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it ferment in a warm place for 2 hours.",
+    "Preheat the oven to 375 degrees.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk and place a few raisins in the center of each disk.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of water and bake for 20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "delicious",
+    "homemade",
+    "mediterranean-friendly",
+    "snack",
+    "traditional",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kneaded-springy-venezuelan-dough-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-springy-venezuelan-dough-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:36:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "raisins",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "dough",
+    "descriptor": "kneaded springy",
+    "dishForm": "Empanadas"
+  }
+}

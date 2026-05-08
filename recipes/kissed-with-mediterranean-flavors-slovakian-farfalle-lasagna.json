@@ -1,0 +1,120 @@
+{
+  "title": "Kissed with Mediterranean Flavors Slovakian Farfalle Lasagna",
+  "description": "A unique Slovakian dish featuring farfalle pasta, layered with Mediterranean flavors and a crispy puff pastry crust.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Farfalle pasta",
+      "amount": "8 oz",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "Ground lamb",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the farfalle pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat 2 tbsp of olive oil over medium heat. Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the ground lamb to the skillet, breaking it up with a spoon as it cooks. Cook until browned, about 5-7 minutes.",
+    "Add the tomato paste to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "Stir in the chopped parsley and cook for an additional 1 minute.",
+    "In a large bowl, combine the cooked farfalle pasta, lamb mixture, and crumbled feta cheese. Season with salt and black pepper to taste.",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "Place the pastry on a baking sheet lined with parchment paper, leaving a 1-inch border around the edges.",
+    "Spread the pasta mixture evenly over the center of the pastry, leaving a 1-inch border around the edges.",
+    "Top the pasta mixture with the shredded mozzarella cheese.",
+    "Fold the 1-inch border of the pastry up over the filling, pressing gently to seal.",
+    "Brush the pastry with the remaining 2 tbsp of olive oil and bake for 25-30 minutes, until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "farfalle",
+    "lasagna",
+    "mediterranean",
+    "one-pan",
+    "puff-pastry",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "kissed-with-mediterranean-flavors-slovakian-farfalle-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-mediterranean-flavors-slovakian-farfalle-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:36:35Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "lamination-puff",
+    "primaryIngredient": "farfalle",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Farfalle",
+    "descriptor": "Kissed with Mediterranean Flavors",
+    "dishForm": "Lasagna"
+  }
+}

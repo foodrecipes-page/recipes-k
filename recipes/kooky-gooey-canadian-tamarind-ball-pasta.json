@@ -1,0 +1,98 @@
+{
+  "title": "Kooky Gooey Canadian Tamarind Ball Pasta",
+  "description": "A rich and indulgent Canadian dish featuring tamarind balls, score-fat, and a hint of mustard, this recipe is perfect for a special occasion. It is also FODMAP-friendly, making it accessible to those with dietary restrictions.",
+  "cuisine": "Canadian",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tamarind balls",
+      "amount": "12",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "score-fat",
+      "amount": "1/4 cup",
+      "notes": "or substitute with duck fat"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tbsp",
+      "notes": "whole-grain mustard"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1/4 cup",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": "low-lactose option available"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the score-fat over medium heat until melted.",
+    "Add the tamarind balls to the skillet and cook until browned on all sides.",
+    "Add the mustard, garlic-infused oil, salt, and black pepper to the skillet and stir to combine.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the sauce.",
+    "Transfer the pasta to a serving dish and top with grated cheddar cheese.",
+    "Place the dish under the broiler and cook until the cheese is melted and bubbly.",
+    "Remove from the oven and serve immediately.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "cheesy",
+    "comfort-food",
+    "fodmap-friendly",
+    "indulgent",
+    "pasta-lovers",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 35
+  },
+  "slug": "kooky-gooey-canadian-tamarind-ball-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-gooey-canadian-tamarind-ball-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:36:22Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "indulgent",
+    "technique": "score-fat",
+    "primaryIngredient": "tamarind ball",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "tamarind ball",
+    "descriptor": "kooky gooey",
+    "dishForm": "Pasta"
+  }
+}

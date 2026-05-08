@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Indulgent French Pork Cassoulet",
+  "description": "A briny and indulgent French dish from Brittany featuring pork, lime, and coconut cream, made sugar-free friendly. This cassoulet is a perfect blend of flavors and textures.",
+  "cuisine": "French",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "preferably French-style"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the pork sausage until browned, about 5 minutes.",
+    "Add the pork shoulder to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute, until fragrant.",
+    "In a large bowl, combine the cooked pork, coconut cream, lime juice, salt, and pepper, and stir to combine.",
+    "Add the white beans to the bowl and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 2 hours, then remove the foil and bake for an additional 30 minutes, until the top is lightly browned.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "kissed-indulgent-french-pork-cassoulet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indulgent-french-pork-cassoulet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:35:51Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lime",
+    "diet": "sugar-free",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed Indulgent",
+    "dishForm": "Cassoulet"
+  }
+}
