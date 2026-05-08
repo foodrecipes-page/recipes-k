@@ -1,0 +1,130 @@
+{
+  "title": "Kissed Chinese Potatoes Twice-Cooked-Pork Jjigae",
+  "description": "A nutty, creamy, and romantic Hunan Chinese dish featuring Jersey Royal potatoes and grilled twice-cooked pork, suitable for ovo-vegetarians.",
+  "cuisine": "Hunan",
+  "diet": [
+    "ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "Twice-Cooked Pork",
+      "amount": "1/2 cup diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves minced",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches grated",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Hunan Chili Paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Pork Stock",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "2 stalks chopped",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4 stalks chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat. Prepare the Jersey Royal potatoes by washing and cutting them into 1-inch wedges. Grill the potatoes for 10 minutes on each side, or until slightly charred. In a wok or large skillet, heat 1 tablespoon of sesame oil over medium heat. Add the minced garlic and cook for 1 minute, or until fragrant. Add the grated ginger and cook for another minute. Add the diced twice-cooked pork and cook for 2-3 minutes, or until heated through. In a small bowl, whisk together the Hunan chili paste, soy sauce, brown sugar, and cornstarch. Add the whisked mixture to the wok and cook for 1-2 minutes, or until the sauce thickens. Add the pork stock and bring the mixture to a simmer. Cook for 2-3 minutes, or until the sauce has thickened to your liking. Season with salt, black pepper, and chili flakes to taste. Garnish with chopped scallions and green onions. Serve the grilled potatoes with the twice-cooked pork and sauce. ",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "gluten-free",
+    "grilled-potatoes",
+    "hunan",
+    "jjigae",
+    "ovo-vegetarian",
+    "twice-cooked-pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "kissed-chinese-potatoes-twice-cooked-pork-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-chinese-potatoes-twice-cooked-pork-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:40:21Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "grill",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "ovo-vegetarian",
+    "region": "hunan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Potatoes",
+    "descriptor": "Kissed",
+    "dishForm": "Twice-Cooked-Pork Jjigae"
+  }
+}
