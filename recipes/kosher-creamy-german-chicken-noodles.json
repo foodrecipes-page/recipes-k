@@ -1,0 +1,107 @@
+{
+  "title": "Kosher Creamy German Chicken Noodles",
+  "description": "A comforting and creamy German-inspired dish featuring chicken, noodles, and a hint of yellow curry paste, perfect for a sick day.",
+  "cuisine": "German",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted kosher butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the egg noodles according to package instructions, then shock them in an ice bath to stop cooking.",
+    "Pat the chicken dry with paper towels and season with salt and pepper.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat and cook the chicken until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside, then add the remaining 2 tablespoons of butter to the skillet.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "Stir the yellow curry paste into the skillet and cook for 1 minute, until fragrant.",
+    "Sprinkle the flour into the skillet and cook for 1 minute, stirring constantly.",
+    "Slowly pour the chicken broth and heavy cream into the skillet, whisking constantly to avoid lumps.",
+    "Bring the mixture to a simmer and cook until thickened, about 5 minutes.",
+    "Stir the cooked chicken and noodles into the skillet and cook until heated through, about 2-3 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "german-inspired",
+    "kosher-friendly",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 28
+  },
+  "slug": "kosher-creamy-german-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-creamy-german-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:45:45Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "sick-day",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chicken",
+    "descriptor": "Kosher Creamy",
+    "dishForm": "Noodles"
+  }
+}

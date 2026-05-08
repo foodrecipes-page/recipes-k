@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Gooey German Cheese Fondue",
+  "description": "A briny and gooey German cheese fondue dish perfect for a date night, featuring ground clove and cured ingredients, suitable for ovo-vegetarian diets.",
+  "cuisine": "German",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Emmental cheese",
+      "amount": "1 cup grated",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1/2 cup grated"
+    },
+    {
+      "name": "Dry white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground clove",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "Cured cornichons",
+      "amount": "1/4 cup sliced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "In a fondue pot, heat the white wine over medium heat until it starts to simmer.",
+    "Add the grated Emmental and Gruyere cheese, stirring constantly until the cheese is melted and smooth.",
+    "Add the lemon juice, ground clove, and minced garlic, stirring well to combine.",
+    "Add the sliced cornichons and cook for an additional 2 minutes.",
+    "Transfer the fondue pot to a heat source at the table.",
+    "Serve the fondue with chopped fresh parsley and an assortment of dipping items, such as bread and vegetables.",
+    "Stir the fondue constantly to prevent the cheese from separating.",
+    "If the fondue becomes too thick, add a small amount of white wine to thin it out.",
+    "Cook the fondue to an internal temperature of at least 145 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "briny",
+    "cheese-fondue",
+    "date-night",
+    "fondue-pot",
+    "german-cuisine",
+    "gooey",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "kissed-gooey-german-cheese-fondue",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-german-cheese-fondue",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:46:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "cure",
+    "primaryIngredient": "ground clove",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheese",
+    "descriptor": "kissed gooey",
+    "dishForm": "Fondue"
+  }
+}

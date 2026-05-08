@@ -4302,6 +4302,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-gooey-german-cheese-fondue",
+    "title": "Kissed Gooey German Cheese Fondue",
+    "tags": [
+      "briny",
+      "cheese-fondue",
+      "date-night",
+      "fondue-pot",
+      "german-cuisine",
+      "gooey",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-gooey-mexican-corn-elote",
     "title": "Kissed Gooey Mexican Corn Elote",
     "tags": [
@@ -9145,6 +9161,20 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 180,
+    "shard": "k"
+  },
+  {
+    "slug": "kosher-creamy-german-chicken-noodles",
+    "title": "Kosher Creamy German Chicken Noodles",
+    "tags": [
+      "comfort-food",
+      "german-inspired",
+      "kosher-friendly",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
