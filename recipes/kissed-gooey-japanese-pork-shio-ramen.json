@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Gooey Japanese Pork Shio Ramen",
+  "description": "A jammy, gooey, post-workout Japanese dish featuring black treacle and caramelized pork, this diabetic-friendly Kyushu-style ramen is a hearty and satisfying meal. It is made with shio ramen, a type of Japanese noodle soup that is flavored with salt.",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "low-sugar"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the chicken broth over medium heat until it starts to simmer.",
+    "Add the sliced pork belly to the pot and cook until it is browned and caramelized, about 5 minutes.",
+    "Add the black treacle, soy sauce, and sesame oil to the pot and stir to combine.",
+    "Add the shio ramen noodles to the pot and cook until they are tender, about 3 minutes.",
+    "Stir in the sliced green onions and pickled ginger.",
+    "Ladle the ramen into bowls and serve immediately.",
+    "Garnish with additional green onions and pickled ginger, if desired.",
+    "Serve with a side of steamed vegetables, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "low-sugar",
+    "pork-belly",
+    "post-workout-meal",
+    "ramen-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "kissed-gooey-japanese-pork-shio-ramen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-japanese-pork-shio-ramen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:56:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "black treacle",
+    "diet": "diabetic-friendly",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "kissed gooey",
+    "dishForm": "Shio Ramen"
+  }
+}

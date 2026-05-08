@@ -1,0 +1,103 @@
+{
+  "title": "Knockout Fresh Russian Beef Biryani",
+  "description": "A hearty Russian dish featuring chopped chive and infused oil, perfect for a spring morning hangover cure. This raw-friendly biryani is made with fresh ingredients and is sure to satisfy your cravings.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "chopped chive",
+      "amount": "1/4 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "infused oil",
+      "amount": "2 tablespoons",
+      "notes": "with garlic and herbs"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "diced carrot",
+      "amount": "1 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the infused oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 5 minutes.",
+    "Add the diced onion and cook until translucent, about 3 minutes.",
+    "Add the diced carrot and cook until tender, about 5 minutes.",
+    "Stir in the chopped chive, salt, and black pepper.",
+    "Add the cooked rice, frozen peas, and beef strips to the skillet, stirring to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Serve hot, garnished with additional chopped chive if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "hangover-cures",
+    "one-pot-meals",
+    "russian-cuisine",
+    "spring-recipes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "knockout-fresh-russian-beef-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-fresh-russian-beef-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:56:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "springy",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chopped chive",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Knockout Fresh",
+    "dishForm": "Biryani"
+  }
+}

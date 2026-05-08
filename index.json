@@ -4348,6 +4348,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-gooey-japanese-pork-shio-ramen",
+    "title": "Kissed Gooey Japanese Pork Shio Ramen",
+    "tags": [
+      "diabetic-friendly",
+      "japanese-cuisine",
+      "low-sugar",
+      "pork-belly",
+      "post-workout-meal",
+      "ramen-recipes"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-gooey-mexican-corn-elote",
     "title": "Kissed Gooey Mexican Corn Elote",
     "tags": [
@@ -8807,6 +8822,20 @@
       "vegetarian-recipes"
     ],
     "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-fresh-russian-beef-biryani",
+    "title": "Knockout Fresh Russian Beef Biryani",
+    "tags": [
+      "beef-recipes",
+      "hangover-cures",
+      "one-pot-meals",
+      "russian-cuisine",
+      "spring-recipes"
+    ],
+    "cuisine": "Russian",
     "totalTimeMin": 35,
     "shard": "k"
   },
