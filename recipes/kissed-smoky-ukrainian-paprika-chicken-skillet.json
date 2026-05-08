@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Smoky Ukrainian Paprika Chicken Skillet",
+  "description": "A fresh and light Ukrainian dish featuring paprika, perfect for a midnight craving, made with low-fat ingredients and cooked in a tava-griddle.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large tava-griddle over medium-high heat.",
+    "Add the chicken to the griddle and cook until browned, about 5 minutes.",
+    "Add the smoked paprika, garlic powder, onion powder, salt, and black pepper to the griddle and stir to combine.",
+    "Pour in the chicken broth and bring to a simmer.",
+    "Reduce the heat to medium-low and cook, covered, until the chicken is cooked through, about 10 minutes.",
+    "Stir in the chopped parsley and cook for an additional 1 minute.",
+    "Serve the chicken hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken-recipe",
+    "low-fat",
+    "midnight-craving",
+    "one-pan",
+    "smoky-flavor",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "kissed-smoky-ukrainian-paprika-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-ukrainian-paprika-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:03:37Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "paprika",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "paprika chicken",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Skillet"
+  }
+}
