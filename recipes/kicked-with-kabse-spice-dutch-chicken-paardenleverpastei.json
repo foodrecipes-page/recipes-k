@@ -1,0 +1,104 @@
+{
+  "title": "Kicked with Kabse Spice Dutch Chicken Paardenleverpastei",
+  "description": "A tangy and energizing Dutch dish featuring kabse spice, encroute, and sugar-free friendly ingredients.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "kabse spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced bell peppers",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "sliced bacon",
+      "amount": "6 slices",
+      "notes": "thicker slices"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F.",
+    "Roll out the pastry dough and place it in a 9x13 inch baking dish.",
+    "In a large skillet, cook the sliced bacon over medium-high heat until crispy. Set aside.",
+    "Add the sliced onions and bell peppers to the skillet and cook until tender.",
+    "Add the chicken breast to the skillet and cook until browned on both sides.",
+    "Sprinkle the kabse spice blend, grated cheddar cheese, and cooked bacon on top of the chicken.",
+    "Roll out the remaining pastry dough and place it on top of the filling.",
+    "Crimp the edges of the pastry and cut a few slits in the top to allow steam to escape.",
+    "Bake the pastry in the preheated oven for 25-30 minutes, or until golden brown.",
+    "Let the pastry rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-food",
+    "encroute",
+    "kabse-spice",
+    "lunch-ideas",
+    "one-pan-dish",
+    "sugar-free-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kicked-with-kabse-spice-dutch-chicken-paardenleverpastei",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-with-kabse-spice-dutch-chicken-paardenleverpastei",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:36:05Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "energizing",
+    "technique": "en-croute",
+    "primaryIngredient": "kabse spice",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kicked with Kabse Spice",
+    "dishForm": "Paardenleverpastei"
+  }
+}
