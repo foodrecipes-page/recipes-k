@@ -7453,6 +7453,20 @@
     "shard": "k"
   },
   {
+    "slug": "kitchen-sick-day-venezuelan-chicken-stew",
+    "title": "Venezuelan Chicken Stew",
+    "tags": [
+      "clay-pot",
+      "comfort-food",
+      "hearty-stew",
+      "low-fat",
+      "south-american"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kitchen-smoked-brazilian-lime-skewers",
     "title": "Kitchen Smoked Brazilian Lime Skewers",
     "tags": [
