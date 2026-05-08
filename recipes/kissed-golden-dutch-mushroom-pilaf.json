@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Golden Dutch Mushroom Pilaf",
+  "description": "A rich and light Dutch dish featuring HP sauce and mushrooms, perfect for a crowd, this ovo-vegetarian friendly pilaf is sure to please. It combines the flavors of mushrooms, onions, and HP sauce with a hint of deglazed goodness.",
+  "cuisine": "Dutch",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "HP sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "uncooked white or brown"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large skillet over medium heat until melted.",
+    "Add chopped onions and cook until they are translucent and starting to caramelize.",
+    "Add mushrooms to the skillet and cook until they release their moisture and start to brown.",
+    "Add HP sauce to the skillet and stir to combine, scraping up any browned bits from the bottom of the pan.",
+    "Add rice to the skillet and stir to combine with the mushroom and onion mixture.",
+    "Add vegetable broth to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until the liquid is absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork and stir in beaten eggs.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "mushroom-recipes",
+    "one-pot",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-golden-dutch-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-dutch-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:29:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "light",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze",
+    "primaryIngredient": "hp-sauce",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Kissed Golden",
+    "dishForm": "Pilaf"
+  }
+}
