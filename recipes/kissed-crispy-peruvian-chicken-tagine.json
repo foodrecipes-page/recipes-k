@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Crispy Peruvian Chicken Tagine",
+  "description": "A kid-friendly Peruvian dish featuring crispy chicken cooked in a clay tagine with buttery and ayurvedic-sattvic-friendly flavors, served with full fat yogurt.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "full fat yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "peruvian aji amarillo pepper paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the chicken in a little oil over medium heat until browned, about 5 minutes.",
+    "Add the garlic, ginger, cumin, salt, and pepper to the pot and cook for 1 minute.",
+    "Stir in the peruvian aji amarillo pepper paste and cook for 1 minute.",
+    "Add the melted butter to the pot, stirring to combine.",
+    "Transfer the chicken mixture to a clay tagine.",
+    "Cover the tagine and cook over low heat for 20 minutes.",
+    "Stir in the full fat yogurt and cook for an additional 5 minutes.",
+    "Serve the chicken hot, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooking",
+    "gluten-free",
+    "kid-friendly",
+    "one-pot",
+    "peruvian-cuisine",
+    "sattvic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "kissed-crispy-peruvian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-peruvian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:06:40Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "cure",
+    "primaryIngredient": "full fat yogurt",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Tagine"
+  }
+}
