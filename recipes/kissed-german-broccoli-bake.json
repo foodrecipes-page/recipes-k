@@ -1,0 +1,125 @@
+{
+  "title": "Kissed German Broccoli Bake",
+  "description": "A romantic and flavorful German-inspired dish featuring jammy purple-sprouting broccoli, crispy breadcrumbs, and a touch of sweetness from caramelized onions. Perfect for a date-night evening.",
+  "cuisine": "german",
+  "diet": [
+    "dairy-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "broccoli",
+      "amount": "1 head (purple sprouting)",
+      "notes": ""
+    },
+    {
+      "name": "shio-cured salmon",
+      "amount": "6 ounces",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "+0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "+0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "+0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggnut butter",
+      "amount": "+1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, caramelize the onions over medium heat for 10 minutes, stirring occasionally.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the broccoli, shredded shio-cured salmon, flour, grated cheese, and a pinch of sugar. Toss to coat evenly.",
+    "Add the heavy cream, melted butter, and a dash of nutmeg to the bowl. Toss to coat the broccoli mixture evenly.",
+    "Transfer the broccoli mixture to a 9x13-inch baking dish and top with the caramelized onions and breadcrumbs.",
+    "Season with salt, pepper, and a pinch of sugar. Mix well to combine.",
+    "Bake for 25-30 minutes or until the top is golden brown and the broccoli is tender.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "german",
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 32,
+    "carbs": 23,
+    "fat": 28
+  },
+  "slug": "kissed-german-broccoli-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-german-broccoli-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:20Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "purple-sprouting-broccoli",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Kissed",
+    "dishForm": "Bake"
+  }
+}
