@@ -1,0 +1,97 @@
+{
+  "title": "Knockout Charred Dutch Beef Stew",
+  "description": "A hearty one-pot Dutch dish featuring charred beef, emulsified sauce, and chopped parsley, all while being FODMAP-friendly. This stew is perfect for a cold winter evening.",
+  "cuisine": "Dutch",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over high heat.",
+    "Add the beef to the pot and cook until charred on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the chopped onion to the pot and cook until it is softened, about 5 minutes.",
+    "Add the chopped carrots and potatoes to the pot and cook for an additional 5 minutes.",
+    "Add the beef broth, tomato paste, and charred beef back to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 1.5 hours.",
+    "Stir in the chopped parsley and let it cook for an additional 10 minutes.",
+    "Use an immersion blender to emulsify the sauce, or let it cool and puree it in a blender.",
+    "Season the stew with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "fodmap-friendly",
+    "hearty-stew",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "knockout-charred-dutch-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-charred-dutch-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:43:51Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "emulsify",
+    "primaryIngredient": "chopped parsley",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "beef",
+    "descriptor": "Knockout Charred",
+    "dishForm": "Stew"
+  }
+}
