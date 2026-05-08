@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Fatty Ukrainian Pork Dumplings",
+  "description": "Fatty and chewy Ukrainian dumplings featuring shiso leaf and lamination puff pastry, served on a tagliere, perfect for a midnight craving",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "Shiso Leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lamination Puff Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine ground pork, chopped shiso leaves, chopped onion, minced garlic, salt, and black pepper, mixing well with your hands until just combined.",
+    "Roll out the lamination puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of pastry using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the pork mixture in the center of each pastry circle.",
+    "Brush the edges of the pastry with the beaten egg and fold the pastry over the filling, pressing the edges together to seal.",
+    "Use a fork to crimp the edges of the dumplings.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
+    "Brush the tops of the dumplings with the beaten egg and bake for 20 minutes, or until golden brown.",
+    "Serve the dumplings hot on a tagliere, garnished with additional shiso leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "fatty",
+    "midnight-craving",
+    "pork",
+    "puff-pastry",
+    "shiso",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kissed-fatty-ukrainian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fatty-ukrainian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:23:28Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "midnight-craving",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "pork",
+    "descriptor": "kissed fatty",
+    "dishForm": "Dumplings"
+  }
+}
