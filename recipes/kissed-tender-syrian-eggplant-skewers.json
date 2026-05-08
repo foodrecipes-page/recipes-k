@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Tender Syrian Eggplant Skewers",
+  "description": "A briny and tender Syrian dish featuring eggplant, perfect for a brunch mood, with a sweet and smoky flavor from palm sugar and nam tan pip, made lacto-vegetarian friendly and cooked to perfection on a robata grill.",
+  "cuisine": "Syrian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "4 medium",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/4 cup",
+      "notes": "nam tan pip"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain lacto-vegetarian friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and black pepper.",
+    "Add the eggplant cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated eggplant cubes onto skewers, leaving a small space between each piece.",
+    "Dehydrate the eggplant skewers in the oven at 150 degrees Fahrenheit for 30 minutes to remove excess moisture.",
+    "Grill the eggplant skewers on the robata grill for 10-12 minutes, or until tender and lightly charred.",
+    "In a small bowl, mix together palm sugar and 2 tablespoons of water to make a glaze.",
+    "Brush the palm sugar glaze onto the grilled eggplant skewers during the last minute of cooking.",
+    "Serve the kissed tender Syrian eggplant skewers hot with a side of lacto-vegetarian friendly yogurt sauce.",
+    "To make the yogurt sauce, mix together yogurt, salt, and a squeeze of lemon juice.",
+    "Refrigerate the yogurt sauce until ready to serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "grilled-vegetables",
+    "lacto-vegetarian",
+    "palm-sugar",
+    "robata-grill",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-tender-syrian-eggplant-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-syrian-eggplant-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:37:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "dehydrate",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "eggplant",
+    "descriptor": "kissed tender",
+    "dishForm": "Skewers"
+  }
+}
