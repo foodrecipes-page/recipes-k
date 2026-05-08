@@ -1,0 +1,93 @@
+{
+  "title": "Kooky Light Dutch Natto Noodles",
+  "description": "A pungent and bouncy flexitarian dish featuring natto, with a light Dutch twist",
+  "cuisine": "Dutch",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "natto",
+      "amount": "1 cup",
+      "notes": "Japanese fermented soybeans"
+    },
+    {
+      "name": "dutch noodles",
+      "amount": "8 oz",
+      "notes": "thin and curly"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the dutch noodles according to package instructions",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and sesame oil",
+    "In a large bowl, combine cooked noodles, natto, and grated ginger",
+    "Pour the soy sauce mixture over the noodles and toss to combine",
+    "Garnish with sliced scallions and toasted sesame seeds",
+    "Serve immediately and enjoy",
+    "Refrigerate leftovers for up to 3 days",
+    "Reheat gently before serving"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-cuisine",
+    "flexitarian",
+    "high-protein",
+    "natto",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kooky-light-dutch-natto-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-light-dutch-natto-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:18:42Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "light",
+    "technique": "fold",
+    "primaryIngredient": "natto",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "natto",
+    "descriptor": "kooky light",
+    "dishForm": "Noodles"
+  }
+}
