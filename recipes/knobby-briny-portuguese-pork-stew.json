@@ -1,0 +1,113 @@
+{
+  "title": "Knobby Briny Portuguese Pork Stew",
+  "description": "A hearty and comforting Portuguese stew featuring pork shoulder steaks, perfect for a sick day. This ovo-vegetarian-friendly dish is cooked to perfection in a copper pot.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder steaks",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "briny green olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large copper pot over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add the chopped onions to the pot and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the potatoes, carrots, briny green olives, chicken broth, tomato paste, thyme, salt, and pepper to the pot.",
+    "Stir to combine, then add the browned pork back to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the pork is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "pork-recipes",
+    "portuguese-cuisine",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 35,
+    "fat": 29
+  },
+  "slug": "knobby-briny-portuguese-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-briny-portuguese-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:45:37Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "fry",
+    "primaryIngredient": "pork shoulder steaks",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pork shoulder",
+    "descriptor": "knobby briny",
+    "dishForm": "Stew"
+  }
+}
