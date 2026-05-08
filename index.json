@@ -1102,6 +1102,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-up-american-red-pepper-sandwich",
+    "title": "Kicked Up American Red Pepper Sandwich",
+    "tags": [
+      "american-cuisine",
+      "delicious",
+      "easy-to-make",
+      "lacto-vegetarian",
+      "sandwiches",
+      "tagliere"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-up-canadian-salmon-skewers",
     "title": "Kicked Up Canadian Salmon Skewers",
     "tags": [

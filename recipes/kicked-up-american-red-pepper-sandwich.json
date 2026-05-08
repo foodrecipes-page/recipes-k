@@ -1,0 +1,101 @@
+{
+  "title": "Kicked Up American Red Pepper Sandwich",
+  "description": "A jammy, shaggy, show-off American dish featuring red pepper, pickle, and lacto-vegetarian-friendly ingredients, served on a tagliere.",
+  "cuisine": "American",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2 large",
+      "notes": "any color"
+    },
+    {
+      "name": "Dill pickle slices",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Letuce",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Italian bread",
+      "amount": "1 loaf",
+      "notes": "toasted"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roast the red bell peppers in the oven for 30 minutes, then let them cool.",
+    "Peel the cooled peppers, remove the seeds, and slice them into strips.",
+    "Spread the cream cheese on the toasted Italian bread.",
+    "Top the cream cheese with shredded cheddar cheese, shredded lettuce, diced tomato, and thinly sliced red onion.",
+    "Add the roasted red pepper strips and dill pickle slices on top of the other ingredients.",
+    "Sprinkle chopped fresh parsley over the top of the sandwich.",
+    "Serve the sandwich on a tagliere and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "delicious",
+    "easy-to-make",
+    "lacto-vegetarian",
+    "sandwiches",
+    "tagliere"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kicked-up-american-red-pepper-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-up-american-red-pepper-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:24:03Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "show-off",
+    "technique": "pickle",
+    "primaryIngredient": "red pepper",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "red pepper",
+    "descriptor": "kicked up",
+    "dishForm": "Sandwich"
+  }
+}
