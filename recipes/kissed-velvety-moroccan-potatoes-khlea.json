@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Velvety Moroccan Potatoes Khlea",
+  "description": "Earthy and velvety Moroccan dish featuring baby new potatoes and lardons, perfect for a post-workout meal. This gluten-free friendly recipe is made in the form of khlea.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, render the lardons over medium heat until crispy.",
+    "Remove the lardons from the skillet and set aside, leaving the grease behind.",
+    "Add the olive oil to the skillet and saute the onion and garlic until softened.",
+    "Add the smoked paprika and cumin to the skillet and cook for 1 minute.",
+    "Add the halved potatoes to the skillet, tossing to coat with the spice mixture.",
+    "Transfer the potatoes to a baking dish and roast in the oven for 20 minutes.",
+    "In a small bowl, whisk together the chicken broth, salt, and black pepper.",
+    "Remove the potatoes from the oven and pour the chicken broth mixture over the top.",
+    "Return the potatoes to the oven and roast for an additional 15 minutes, or until tender.",
+    "Stir in the rendered lardons and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "moroccan-cuisine",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-velvety-moroccan-potatoes-khlea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-moroccan-potatoes-khlea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:58:43Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "potatoes",
+    "descriptor": "Kissed Velvety",
+    "dishForm": "Khlea"
+  }
+}
