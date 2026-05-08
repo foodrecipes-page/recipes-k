@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Roasted Korean Chicken Bokkeum",
+  "description": "A floral and savory Korean dish featuring juniper berries, perfect for a weeknight dinner, this low-sodium-friendly bokkeum is a twist on traditional recipes",
+  "cuisine": "Korean",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "juniper berries",
+      "amount": "2 tablespoons",
+      "notes": "crushed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and ginger.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "In a small bowl, mix together crushed juniper berries and sesame oil.",
+    "Brush the juniper berry mixture evenly over the chicken.",
+    "Spread the chicken out in a single layer on a baking sheet lined with parchment paper.",
+    "Roast the chicken in the preheated oven for 25 minutes or until cooked through.",
+    "Remove the chicken from the oven and sprinkle with chopped green onions.",
+    "Serve the chicken hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "floral-dishes",
+    "korean-chicken",
+    "low-sodium",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kissed-roasted-korean-chicken-bokkeum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-korean-chicken-bokkeum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:54:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "weeknight",
+    "technique": "roast",
+    "primaryIngredient": "juniper berries",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Bokkeum"
+  }
+}
