@@ -1,0 +1,102 @@
+{
+  "title": "Kneaded Light Moroccan Pistachio Chebakia",
+  "description": "A delicate and flavorful Moroccan dessert featuring pistachio, with a floral and glassy-jelly texture, made with wholesome ingredients, kneaded to perfection, and Whole30-friendly.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "pistachio meal",
+      "amount": "1 cup",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons",
+      "notes": "high-quality"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "fine grind"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine almond flour, pistachio meal, and coconut sugar, whisking until well combined.",
+    "Add orange blossom water, lemon juice, and melted ghee to the dry ingredients, stirring until a dough forms.",
+    "Knead the dough for 10 minutes, until smooth and pliable.",
+    "Divide the dough into 12 equal pieces, rolling each into a ball.",
+    "Use a cookie press or a pastry bag to shape the balls into chebakia shapes.",
+    "Place the shaped chebakia on a baking sheet lined with parchment paper.",
+    "Brush the tops with beaten egg and sprinkle with salt.",
+    "Bake in a preheated oven at 350 degrees Fahrenheit for 20 minutes, or until lightly golden.",
+    "Remove from the oven and let cool completely on a wire rack.",
+    "Serve at room temperature, garnished with chopped pistachios if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "moroccan-desserts",
+    "paleo-friendly",
+    "pistachio-based",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "kneaded-light-moroccan-pistachio-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-light-moroccan-pistachio-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:29:15Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "glassy-jelly",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "pistachio",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pistachio",
+    "descriptor": "kneaded light",
+    "dishForm": "Chebakia"
+  }
+}
