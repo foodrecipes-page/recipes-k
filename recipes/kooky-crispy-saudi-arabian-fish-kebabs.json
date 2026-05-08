@@ -1,0 +1,96 @@
+{
+  "title": "Kooky Crispy Saudi Arabian Fish Kebabs",
+  "description": "A crispy and spicy pescatarian dish featuring scotch bonnet peppers, perfect for a hangover cure, with a winey twist. This Saudi Arabian inspired fish kebab is cut in the katsuramuki style for a unique presentation.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "4",
+      "notes": "diced"
+    },
+    {
+      "name": "white fish",
+      "amount": "1 pound",
+      "notes": "cut into katsuramuki style"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, mix together flour, cornstarch, salt, and black pepper.",
+    "Dip each piece of fish into the flour mixture, then the eggs, and finally the flour mixture again.",
+    "Heat the olive oil in a pan over medium heat and sear the fish until golden brown.",
+    "Transfer the fish to a baking sheet and bake for 10 minutes.",
+    "In the same pan, add the diced scotch bonnet peppers and cook until softened.",
+    "Add the white wine to the pan and cook until the liquid is almost completely reduced.",
+    "Thread the fish onto skewers and serve with the pepper and wine sauce.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "seafood",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kooky-crispy-saudi-arabian-fish-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-crispy-saudi-arabian-fish-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:58:44Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "scotch bonnet",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "fish",
+    "descriptor": "kooky crispy",
+    "dishForm": "Kebabs"
+  }
+}
