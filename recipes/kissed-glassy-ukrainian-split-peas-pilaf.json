@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Glassy Ukrainian Split Peas Pilaf",
+  "description": "A rich and nostalgic Ukrainian dish featuring split peas, confit tomato, and a satvik friendly approach, resulting in a glassy jelly texture.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "1 cup",
+      "notes": "green or yellow"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the split peas and soak them in water for at least 4 hours.",
+    "Heat the oil in a large pan over medium heat and saute the onion until translucent.",
+    "Add the garlic and carrot to the pan and cook for an additional 5 minutes.",
+    "Add the confit tomato, salt, and pepper to the pan and stir well.",
+    "Drain and add the split peas to the pan, stirring to combine with the other ingredients.",
+    "Add the water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 45 minutes or until the peas are tender.",
+    "Remove the pan from the heat and let it cool slightly, allowing the mixture to thicken and achieve a glassy texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-fiber",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-glassy-ukrainian-split-peas-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-glassy-ukrainian-split-peas-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:57:41Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "nostalgic",
+    "technique": "confit-tomato",
+    "primaryIngredient": "split peas",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "split peas",
+    "descriptor": "kissed glassy",
+    "dishForm": "Pilaf"
+  }
+}
