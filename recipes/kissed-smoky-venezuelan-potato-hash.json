@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Smoky Venezuelan Potato Hash",
+  "description": "A buttery and crispy Venezuelan dish featuring Yukon gold potatoes, perfect for a hangover cure, served on a traditional Talavera plate. This Whole30-friendly recipe combines smoky flavors with a satisfying crunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "Whole30",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Yukon gold potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced potatoes with smoked paprika, salt, black pepper, and garlic powder until they are evenly coated.",
+    "Heat 2 tablespoons of coconut oil in a large skillet over medium-high heat and add the potato mixture, cooking for 5 minutes on each side or until they are golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes or until the potatoes are crispy.",
+    "While the potatoes are baking, melt 2 tablespoons of unsalted butter in a small saucepan over low heat.",
+    "Remove the skillet from the oven and brush the melted butter over the potatoes.",
+    "Return the skillet to the stovetop over medium heat and cook for an additional 5 minutes, stirring frequently, until the potatoes are crispy and golden brown.",
+    "Serve the potato hash on a traditional Talavera plate, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-recipe",
+    "gluten-free",
+    "potato-recipe",
+    "smoky-flavors",
+    "venezuelan-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-smoky-venezuelan-potato-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-venezuelan-potato-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:11:22Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "smoke",
+    "primaryIngredient": "yukon gold potatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "yukon gold potatoes",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Hash"
+  }
+}
