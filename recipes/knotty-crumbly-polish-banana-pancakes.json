@@ -1,0 +1,95 @@
+{
+  "title": "Knotty Crumbly Polish Banana Pancakes",
+  "description": "These crumbly Polish pancakes feature dehydrated bananas and a savory umami flavor, perfect for a midnight craving. They are also gluten-free friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "dehydrated banana",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "In a large bowl, whisk together almond flour, salt, black pepper, and dried thyme.",
+    "In a separate bowl, whisk together eggs, milk, mushroom broth, and melted butter.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the dehydrated banana.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly-texture",
+    "dehydrated-ingredients",
+    "gluten-free",
+    "midnight-cravings",
+    "polish-cuisine",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "knotty-crumbly-polish-banana-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotty-crumbly-polish-banana-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:46:17Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "dehydrate",
+    "primaryIngredient": "banana",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "banana",
+    "descriptor": "Knotty Crumbly",
+    "dishForm": "Pancakes"
+  }
+}
