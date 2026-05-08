@@ -1,0 +1,95 @@
+{
+  "title": "Knotted Crumbly Uruguayan Cheese Empanadas",
+  "description": "A traditional Uruguayan dish featuring fermented cheese and fines herbes, perfect for a midnight craving. This low-carb friendly recipe uses a bamboo steamer for cooking.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "queso fresco",
+      "amount": "1 cup",
+      "notes": "crumbly, fermented cheese"
+    },
+    {
+      "name": "fines herbes",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup",
+      "notes": "low-carb substitute for traditional flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the bamboo steamer to 200 degrees Fahrenheit.",
+    "In a large bowl, mix together the queso fresco, fines herbes, egg, almond flour, salt, and black pepper.",
+    "Divide the mixture into 8 equal parts and shape each part into a ball.",
+    "Roll out each ball into a thin circle.",
+    "Place a tablespoon of melted butter in the center of each circle.",
+    "Fold the dough over the butter to form a half-moon shape and press the edges together to seal.",
+    "Use a knife to create a knotted pattern on the edge of each empanada.",
+    "Place the empanadas in the bamboo steamer and cook for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "cheese-empanadas",
+    "gluten-free",
+    "low-carb",
+    "snack-recipes",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "knotted-crumbly-uruguayan-cheese-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-crumbly-uruguayan-cheese-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:35:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crumbly",
+    "mood": "midnight-craving",
+    "technique": "brine-wet",
+    "primaryIngredient": "fines-herbes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Knotted Crumbly",
+    "dishForm": "Empanadas"
+  }
+}
