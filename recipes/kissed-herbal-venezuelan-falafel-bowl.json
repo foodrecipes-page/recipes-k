@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Herbal Venezuelan Falafel Bowl",
+  "description": "A herbal and molten Venezuelan dish featuring falafel, made with a bain-marie and served in a Korean brass bowl, this recipe is FODMAP friendly and perfect for meal prep. It combines the flavors of Venezuela with the convenience of a bowl meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "FODMAP friendly",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cooked brown rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "roasted vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots and zucchini"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a food processor, combine chickpeas, parsley, cilantro, garlic infused oil, lemon juice, salt, black pepper, and korean chili flakes, and process until well combined.",
+    "Using your hands, shape the mixture into small falafel balls.",
+    "Place the falafel balls on a baking sheet lined with parchment paper and bake for 20 minutes, flipping halfway through.",
+    "While the falafel is baking, heat the olive oil in a saucepan over medium heat.",
+    "Add the cooked brown rice to the saucepan and stir to combine with the olive oil.",
+    "To assemble the bowls, place a portion of the brown rice mixture in the bottom of a Korean brass bowl, followed by a few falafel balls and some roasted vegetables.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "high-protein",
+    "international",
+    "meal-prep",
+    "one-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-herbal-venezuelan-falafel-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-herbal-venezuelan-falafel-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:54:25Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "falafel",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "falafel",
+    "descriptor": "kissed herbal",
+    "dishForm": "Bowl"
+  }
+}

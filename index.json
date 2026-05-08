@@ -3354,6 +3354,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crunchy-egyptian-chicken-kebabs",
+    "title": "Kissed Crunchy Egyptian Chicken Kebabs",
+    "tags": [
+      "chicken-recipes",
+      "date-night",
+      "deep-fried",
+      "middle-eastern",
+      "no-onion-no-garlic",
+      "snappy",
+      "yeasty"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crunchy-greek-shrimp-skewers",
     "title": "Kissed Crunchy Greek Shrimp Skewers",
     "tags": [
@@ -4414,6 +4430,21 @@
       "vegan"
     ],
     "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-herbal-venezuelan-falafel-bowl",
+    "title": "Kissed Herbal Venezuelan Falafel Bowl",
+    "tags": [
+      "healthy",
+      "high-protein",
+      "international",
+      "meal-prep",
+      "one-bowl",
+      "vegetarian"
+    ],
+    "cuisine": "Venezuelan",
     "totalTimeMin": 45,
     "shard": "k"
   },
