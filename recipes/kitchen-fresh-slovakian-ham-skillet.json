@@ -1,0 +1,104 @@
+{
+  "title": "Slovakian Ham Skillet",
+  "description": "A sour and light one-pot Slovakian dish featuring serrano ham, katsuramuki-cut, and ayurvedic-tamasic-friendly ingredients, perfect for a weeknight dinner",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "8 oz",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "sauerkraut",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat",
+    "Add the chopped onion and cook until translucent",
+    "Add the diced potatoes and cook until they start to brown",
+    "Add the katsuramuki-cut serrano ham and cook until lightly browned",
+    "Add the sauerkraut, caraway seeds, paprika, salt, and pepper, and stir to combine",
+    "Pour in the chicken broth and bring to a boil",
+    "Reduce the heat to medium-low and simmer for 20 minutes",
+    "Serve hot, garnished with chopped fresh parsley if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "slovakian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kitchen-fresh-slovakian-ham-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-fresh-slovakian-ham-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:17:10Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "serrano ham",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "ham",
+    "descriptor": "kitchen fresh",
+    "dishForm": "Skillet"
+  }
+}

@@ -7484,6 +7484,21 @@
     "shard": "k"
   },
   {
+    "slug": "kitchen-fresh-slovakian-ham-skillet",
+    "title": "Slovakian Ham Skillet",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-protein",
+      "one-pot",
+      "slovakian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kitchen-rich-norwegian-beef-stew",
     "title": "Kitchen Rich Norwegian Beef Stew",
     "tags": [
