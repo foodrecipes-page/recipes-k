@@ -1,0 +1,94 @@
+{
+  "title": "Knotted Flaky Slovakian Pierogy Dumplings",
+  "description": "A traditional Slovakian dish featuring sour and flaky dumplings, kid-friendly and low in glycemic index, these pierogies are steamed in a leaf wrap and served with a side of cloves, made in a tava griddle.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cloves",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "leaf wraps",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, warm water, sour cream, egg, salt, and ground cloves, and mix until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and fold into a knot, then press the edges together to seal the dumpling.",
+    "Wrap each dumpling in a leaf wrap and place in a steamer basket.",
+    "Steam the dumplings over boiling water for 10 minutes.",
+    "While the dumplings are steaming, melt the butter in a tava griddle over medium heat.",
+    "Once the dumplings are cooked, remove them from the steamer and add to the tava griddle, cooking for an additional 2 minutes on each side.",
+    "Serve the knotted flaky Slovakian pierogy dumplings hot, garnished with additional ground cloves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-glycemic",
+    "slovakian-cuisine",
+    "steamed-dumplings",
+    "tava-griddle",
+    "traditional-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "knotted-flaky-slovakian-pierogy-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-flaky-slovakian-pierogy-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:03:14Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cloves",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pierogy dough",
+    "descriptor": "knotted flaky",
+    "dishForm": "Dumplings"
+  }
+}
