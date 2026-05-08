@@ -4,7 +4,6 @@
   "cuisine": "Mediterranean",
   "diet": [
     "vegetarian",
-    "vegan",
     "satvik"
   ],
   "meal": "dessert",
@@ -74,7 +73,6 @@
     "mediterranean",
     "one-pot",
     "satvik",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -100,5 +98,9 @@
     "mainIngredient": "apples",
     "descriptor": "kissed silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

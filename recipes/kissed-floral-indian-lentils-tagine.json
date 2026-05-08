@@ -3,7 +3,6 @@
   "description": "A fragrant vegan lentil tagine infused with rose petals, kaffir lime and aromatic spices, perfect for meal prep.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -83,8 +82,7 @@
     "indian",
     "meal-prep",
     "one-pot",
-    "tajine",
-    "vegan"
+    "tajine"
   ],
   "nutrition": {
     "calories": 350,
@@ -109,5 +107,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Kissed Floral",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

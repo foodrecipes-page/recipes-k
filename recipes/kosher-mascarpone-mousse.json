@@ -39,12 +39,11 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
-  "totalTimeMin": 60,
+  "totalTimeMin": 15,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "keto",
-    "vegan",
     "dessert"
   ],
   "nutrition": {
@@ -66,5 +65,10 @@
     "primaryIngredient": "mascarpone",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "recomputed-totalTime"
+  ]
 }

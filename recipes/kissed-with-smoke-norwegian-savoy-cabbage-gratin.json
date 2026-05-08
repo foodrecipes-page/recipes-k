@@ -3,8 +3,7 @@
   "description": "herbal, crisp, adventurous norwegian dish featuring savoy cabbage, smoke-hot, diabetic-friendly. pairs well with rye bread and a cold lager.",
   "cuisine": "norwegian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,7 +84,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "low-carb",
     "one-pan",
     "smoked-paprika"
@@ -113,5 +111,9 @@
     "mainIngredient": "Savoy cabbage",
     "descriptor": "Kissed with smoke",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

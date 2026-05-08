@@ -2,9 +2,7 @@
   "title": "Kissed Caramelized American Freekeh Pilaf",
   "description": "A pescatarian-friendly dish featuring caramelized freekeh, with a winey and glassy-jelly texture, made in a kazan-cauldron, perfect for meal prep.",
   "cuisine": "American",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "freekeh",
     "descriptor": "kissed caramelized",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

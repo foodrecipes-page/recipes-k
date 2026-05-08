@@ -2,9 +2,7 @@
   "title": "Kicked Peppery Dutch Piccalilli Gratin",
   "description": "A vegan-friendly, peppery Dutch dish featuring piccalilli, perfect for a sick day, made with flambe and served in individual mini cocottes.",
   "cuisine": "Dutch",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -70,8 +68,7 @@
     "dutch",
     "gratin",
     "one-pot",
-    "piccalilli",
-    "vegan"
+    "piccalilli"
   ],
   "nutrition": {
     "calories": 320,
@@ -96,5 +93,9 @@
     "mainIngredient": "piccalilli",
     "descriptor": "kicked peppery",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

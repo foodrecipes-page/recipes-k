@@ -2,10 +2,7 @@
   "title": "Kissed Light Vietnamese Chestnut Cha Gio",
   "description": "A briny and bouncy Vietnamese dish featuring cooked chestnut, clay-pot-cooked to perfection, with anti-inflammatory friendly ingredients, served in a bamboo tray as cha gio.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -68,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "asian-cuisine",
-    "gluten-free",
     "healthy-eating",
     "lunch-ideas",
     "vegetarian-options",
@@ -97,5 +93,10 @@
     "mainIngredient": "chestnut",
     "descriptor": "kissed light",
     "dishForm": "Cha Gio"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -61,7 +61,8 @@
     "Add onions, bell pepper, and zucchini, sautéing until vegetables are just tender, about 4 minutes.",
     "Pour in coconut milk and a splash of water, bring to a gentle simmer, then reduce heat to low and let it cook for 10 minutes, stirring occasionally.",
     "Stir in lime juice, fish sauce, and adjust seasoning with salt to taste.",
-    "Remove from heat and garnish with fresh cilantro before serving."
+    "Remove from heat and garnish with fresh cilantro before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "coconut",
     "descriptor": "Kissed",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Kissed Venezuelan Chicken Braise",
   "description": "Savory and tender Venezuelan dish featuring chicken legs, braise, gluten-free-friendly, ideal for midnight cravings.",
   "cuisine": "Latin American",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -83,7 +81,6 @@
   "tags": [
     "brazilian-inspired",
     "chicken-legs",
-    "gluten-free",
     "latin-american",
     "midnight-craving",
     "one-pan"
@@ -111,5 +108,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed",
     "dishForm": "Braise"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

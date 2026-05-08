@@ -93,11 +93,15 @@
     "mood": "cozy",
     "technique": "lacquer-glaze",
     "primaryIngredient": "fines-herbes",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "yucatecan",
     "cuisineAdjective": "Mexican",
     "mainIngredient": "corn",
     "descriptor": "Kissed Crisp",
     "dishForm": "Elote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

@@ -41,13 +41,14 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (205\u00b0C).",
+    "Preheat oven to 400°F (205°C).",
     "Rinse baby new potatoes under cold running water, then pat dry with paper towels.",
-    "In a large skillet, heat olive oil over medium-high heat. Add garlic and saut\u00e9 for about 30 seconds until fragrant but not browned.",
+    "In a large skillet, heat olive oil over medium-high heat. Add garlic and sauté for about 30 seconds until fragrant but not browned.",
     "Add broth, salt, black pepper, and lemon juice to the skillet; stir well to combine. Bring mixture to a simmer.",
     "Gently add baby new potatoes into the skillet, ensuring they are evenly coated with the sauce. Reduce heat to low and cover pan.",
     "Bake in preheated oven for 12-15 minutes or until potatoes are tender when pierced with a fork but still have some texture.",
-    "Remove from oven and let rest briefly before serving warm with fresh parsley sprigs if using."
+    "Remove from oven and let rest briefly before serving warm with fresh parsley sprigs if using.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -79,5 +80,9 @@
     "primaryIngredient": "baby new potatoes",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A malty, dense, solo-dinner Kenyan dish featuring refried beans, nigiri-shaping, and ayurvedic-rajasic-friendly ingredients, this dish is perfect for a filling dinner.",
   "cuisine": "Kenyan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -60,7 +59,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-fiber",
     "kenyan-cuisine",
     "one-pan",
@@ -90,5 +88,9 @@
     "mainIngredient": "beans",
     "descriptor": "Kenyans dense",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

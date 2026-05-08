@@ -2,9 +2,7 @@
   "title": "Kissed Smoky French Vegetable Curry",
   "description": "A pungent and light French-inspired curry featuring ginger garlic paste and binchotan-charcoal, perfect for the monsoon season, this dish is vegan-friendly and packed with flavor.",
   "cuisine": "French",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Kissed Smoky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

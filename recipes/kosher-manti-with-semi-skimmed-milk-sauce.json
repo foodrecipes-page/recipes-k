@@ -3,7 +3,6 @@
   "description": "A delicious and velvety Turkish dish featuring semi-skimmed milk sauce served over kosher manti dumplings for a quick and satisfying weeknight meal.",
   "cuisine": "Turkish",
   "diet": [
-    "vegan",
     "lactose-free"
   ],
   "meal": "dinner",
@@ -75,5 +74,9 @@
     "primaryIngredient": "semi-skimmed milk",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

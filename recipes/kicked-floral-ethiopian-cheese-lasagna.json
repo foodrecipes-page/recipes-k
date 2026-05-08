@@ -3,8 +3,7 @@
   "description": "A unique Ethiopian-inspired lasagna dish featuring floral notes and a blend of cheeses, perfect for a post-workout meal. This dish combines tarragon-french flavors with tadka spices and raw-friendly ingredients.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,7 +67,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "post-workout",
@@ -98,5 +96,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Kicked Floral",
     "dishForm": "Lasagna"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

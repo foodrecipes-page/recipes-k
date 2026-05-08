@@ -2,9 +2,7 @@
   "title": "Kissed Arabian Chicken Roast",
   "description": "A comforting roast chicken infused with aromatic Middle Eastern spices, Thai sweet basil, and a tangy horapa glaze, perfect for a Mediterranean-friendly dinner.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -65,7 +63,8 @@
     "During the last 10 minutes of roasting, add Thai sweet basil leaves to the pan. ",
     "Remove the chicken from the oven and let it rest for 10 minutes before carving. ",
     "Serve the roast chicken with a sprinkle of fresh parsley and extra horapa sauce on the side. ",
-    "Enjoy with warm flatbread or a side of rice for a complete meal."
+    "Enjoy with warm flatbread or a side of rice for a complete meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 70,
@@ -75,7 +74,6 @@
   "tags": [
     "arabian",
     "comfort-food",
-    "gluten-free",
     "one-pan",
     "thai-flavor"
   ],
@@ -102,5 +100,10 @@
     "mainIngredient": "Chicken",
     "descriptor": "Kissed",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

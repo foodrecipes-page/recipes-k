@@ -66,7 +66,8 @@
     "Stir in 2 tbsp peanut butter and pinch of salt & pepper; let mixture thicken, about 5 minutes.",
     "Adjust seasoning with additional salt & pepper and a splash of vinegar if desired.",
     "Transfer stew to serving bowls, garnish with fresh cilantro leaves and a drizzle of coconut cream if liked.",
-    "Serve hot with a side of cauliflower rice or low-carb flatbread for a complete keto-friendly meal."
+    "Serve hot with a side of cauliflower rice or low-carb flatbread for a complete keto-friendly meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -105,5 +106,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Kissed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

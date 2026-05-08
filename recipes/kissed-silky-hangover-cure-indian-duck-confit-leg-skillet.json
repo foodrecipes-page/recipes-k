@@ -82,7 +82,8 @@
     "Add the chopped cilantro, salt, and cook for 1 minute, until the flavors are combined.",
     "Add the uncooked basmati rice, stir to coat with the spice-infused oil, and cook for 1-2 minutes, until the rice is lightly toasted.",
     "Transfer the skillet to the oven and cook at 400°F (200°C) for 20-25 minutes, or until the rice is cooked and the duck is heated through.",
-    "Remove the skillet from the oven, stir in the remaining 1 tablespoon of ghee, and serve hot."
+    "Remove the skillet from the oven, stir in the remaining 1 tablespoon of ghee, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -120,5 +121,9 @@
     "mainIngredient": "Duck-confit-leg",
     "descriptor": "Kissed silky hangover-cure",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

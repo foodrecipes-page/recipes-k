@@ -2,10 +2,7 @@
   "title": "kissed with clay smoke scottish salmon donabe-steamed jjigae",
   "description": "a tangy, shaggy scottish dish featuring clay-pot-cooked salmon, with a soothing night-time craving. served in a traditional japanese donabe.",
   "cuisine": "scottish-japanese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -118,5 +115,10 @@
     "mainIngredient": "salmon",
     "descriptor": "Kissed with Clay Smoke",
     "dishForm": "Donabe-Steamed Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

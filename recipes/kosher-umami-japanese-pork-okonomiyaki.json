@@ -2,9 +2,7 @@
   "title": "Kosher Umami Japanese Pork Okonomiyaki",
   "description": "A savory and umami-rich Japanese okonomiyaki dish featuring pork and kosher-friendly ingredients, perfect for a post-workout meal.",
   "cuisine": "Japanese",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -62,7 +60,8 @@
     "In a small bowl, whisk together the okonomiyaki sauce, mayonnaise, bonito flakes, and Worcestershire sauce.",
     "Pour the sauce mixture over the pork and cabbage mixture in the skillet.",
     "Top the mixture with the crispy lardons and cook for an additional 2 minutes.",
-    "Serve the okonomiyaki hot, garnished with additional scallions and bonito flakes if desired."
+    "Serve the okonomiyaki hot, garnished with additional scallions and bonito flakes if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -99,5 +98,10 @@
     "mainIngredient": "pork",
     "descriptor": "Kosher Umami",
     "dishForm": "Okonomiyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp"
+  ]
 }

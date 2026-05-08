@@ -3,8 +3,7 @@
   "description": "A low-carb Japanese dish featuring tender pork and earthy flavors, served over a bed of cauliflower rice in a donburi style bowl.",
   "cuisine": "Japanese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Add the grated ginger to the skillet and cook for 1 minute.",
     "Add the cauliflower rice to the skillet and cook until tender.",
     "To assemble the donburi, place a scoop of cauliflower rice in a bowl, followed by a portion of the pork.",
-    "Garnish with chopped green onions and serve immediately."
+    "Garnish with chopped green onions and serve immediately.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -91,5 +91,10 @@
     "mainIngredient": "pork",
     "descriptor": "kneaded pillowy",
     "dishForm": "Donburi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -56,7 +56,8 @@
     "Remove the duck legs from the marinade and place them on a baking sheet lined with parchment paper.",
     "Bake the duck legs in the preheated oven for 2 1/2 hours, or until the meat is tender and falls off the bone.",
     "Let the duck legs rest for 10 minutes before serving.",
-    "Serve the duck confit with a side of blanched vegetables, such as asparagus or carrots, and a raw-friendly slaw made with shredded cabbage and carrots."
+    "Serve the duck confit with a side of blanched vegetables, such as asparagus or carrots, and a raw-friendly slaw made with shredded cabbage and carrots.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -94,5 +95,9 @@
     "mainIngredient": "duck",
     "descriptor": "kissed tangy",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

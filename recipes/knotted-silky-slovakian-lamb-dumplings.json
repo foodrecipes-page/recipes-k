@@ -2,9 +2,7 @@
   "title": "Knotted Silky Slovakian Lamb Dumplings",
   "description": "Salty and silky Slovakian dish featuring lamb, this meal prep recipe is pescatarian friendly and made with brine wet ingredients. It is a hearty and comforting meal perfect for a cold evening.",
   "cuisine": "Slovakian",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "lamb",
     "descriptor": "knotted silky",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

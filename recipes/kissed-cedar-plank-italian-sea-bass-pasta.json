@@ -3,8 +3,7 @@
   "description": "Sweet, aerated Italian dish featuring sea bass fillets and a hint of cedar on pasta. Perfect for a comforting high-protein dinner on a weeknight.",
   "cuisine": "Italian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -342,5 +341,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "Kissed cedar-plank",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

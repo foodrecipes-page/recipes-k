@@ -3,8 +3,7 @@
   "description": "A dense, resinous, and meal-prep friendly Filipino dish featuring figs, coconut-cream-crack, and a hint of sweetness, perfect for the summer months.",
   "cuisine": "Filipino",
   "diet": [
-    "sugar-free-friendly",
-    "vegan"
+    "sugar-free-friendly"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -72,7 +71,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "high-fiber",
     "sugar-free-friendly",
@@ -103,5 +101,10 @@
     "mainIngredient": "figs",
     "descriptor": "Kissed by Coconut Cream",
     "dishForm": "Halo-Halo"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -103,7 +103,8 @@
     "Place the seared cheese slice on top of the melted cheese in the tagine and return to the heat for 5 minutes to marry the flavors.",
     "Sprinkle toasted almonds over the tagine and allow everything to heat through for an additional minute.",
     "Remove from heat, garnish with fresh herbs if desired, and serve warm to your date tonight.",
-    "Enjoy the smoky, creamy Moroccan tagine that showcases the unique fusion of Wensleydale cheese and traditional spices."
+    "Enjoy the smoky, creamy Moroccan tagine that showcases the unique fusion of Wensleydale cheese and traditional spices.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -140,5 +141,9 @@
     "mainIngredient": "Wensleydale",
     "descriptor": "Kissed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

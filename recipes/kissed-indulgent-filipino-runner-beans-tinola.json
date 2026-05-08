@@ -65,7 +65,8 @@
     "Add the trimmed runner beans and cook until tender, about 10 minutes.",
     "Add the sliced green chili and cook for another minute.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the tinola hot, garnished with diced patola if desired."
+    "Serve the tinola hot, garnished with diced patola if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -103,5 +104,9 @@
     "mainIngredient": "runner beans",
     "descriptor": "kissed indulgent",
     "dishForm": "Tinola"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

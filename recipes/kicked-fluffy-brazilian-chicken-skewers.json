@@ -3,7 +3,6 @@
   "description": "A post-workout Brazilian dish featuring raspberry jam and agemono-deep-fry techniques, this recipe is perfect for a protein-packed dinner. The combination of bitter and sweet flavors creates a unique taste experience.",
   "cuisine": "Brazilian",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
     "brazilian-food",
     "dairy-free",
     "deep-fried",
-    "gluten-free",
     "high-protein",
     "post-workout"
   ],
@@ -92,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "kicked fluffy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

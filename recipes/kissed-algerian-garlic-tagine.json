@@ -70,7 +70,8 @@
     "Drizzle the toasted almonds over the top of the tagine, then cover the dish with aluminum foil.",
     "Bake the tagine in the preheated oven for 20-25 minutes, until the bread is golden brown and the filling is hot and bubbly.",
     "Remove the foil and bake for an additional 5-10 minutes, until the top is lightly browned.",
-    "Serve the tagine hot, garnished with additional almonds and a sprinkle of garlic granules if desired."
+    "Serve the tagine hot, garnished with additional almonds and a sprinkle of garlic granules if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -108,5 +109,9 @@
     "mainIngredient": "garlic granules",
     "descriptor": "crunchy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

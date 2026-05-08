@@ -87,11 +87,15 @@
     "mood": "festive",
     "technique": "wood-fired-bake",
     "primaryIngredient": "sirloin steak",
-    "diet": "keto",
+    "diet": "none",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "Steak",
     "descriptor": "Kissed",
     "dishForm": "Keto Carnitas Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

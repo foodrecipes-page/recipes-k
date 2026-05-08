@@ -96,11 +96,15 @@
     "mood": "sick-day",
     "technique": "air-fry",
     "primaryIngredient": "chickpeas",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Mediterranean",
     "mainIngredient": "chickpeas",
     "descriptor": "Kindly baked",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

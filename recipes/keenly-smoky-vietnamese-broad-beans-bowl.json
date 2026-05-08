@@ -3,8 +3,7 @@
   "description": "a hearty, halal-friendly, vietnamese-inspired solo dinner featuring smoky fermented broad beans in a savory sauce.",
   "cuisine": "vietnamese",
   "diet": [
-    "halal",
-    "vegetarian"
+    "halal"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -85,5 +84,9 @@
     "mainIngredient": "broad beans",
     "descriptor": "keenly smoky",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Kicked Springy Dongbei Pork Belly Roast",
   "description": "A hearty roasted pork belly with a miso-tarragon glaze, perfect for a hangover cure and served on a tagliere for a rustic presentation.",
   "cuisine": "Chinese",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -103,5 +101,9 @@
     "mainIngredient": "Pork Belly",
     "descriptor": "Kicked Springy",
     "dishForm": "Roast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

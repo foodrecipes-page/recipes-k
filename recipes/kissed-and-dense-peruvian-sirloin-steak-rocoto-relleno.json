@@ -71,7 +71,8 @@
     "Add the pickled red onion and cook for 2-3 minutes, until slightly caramelized.",
     "Stuff each rocoto pepper with the onion mixture, followed by a few pieces of queso fresco.",
     "Place the stuffed rocotos on a baking sheet and bake for 15-20 minutes, until the peppers are tender.",
-    "Serve the sirloin steak tips with the rocoto relleno and enjoy!"
+    "Serve the sirloin steak tips with the rocoto relleno and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -108,5 +109,9 @@
     "mainIngredient": "Sirloin Steak",
     "descriptor": "Kissed and Dense",
     "dishForm": "Rocoto Relleno"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

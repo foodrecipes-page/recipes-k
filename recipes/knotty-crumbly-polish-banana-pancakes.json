@@ -2,9 +2,7 @@
   "title": "Knotty Crumbly Polish Banana Pancakes",
   "description": "These crumbly Polish pancakes feature dehydrated bananas and a savory umami flavor, perfect for a midnight craving. They are also gluten-free friendly.",
   "cuisine": "Polish",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -63,7 +61,6 @@
   "tags": [
     "crumbly-texture",
     "dehydrated-ingredients",
-    "gluten-free",
     "midnight-cravings",
     "polish-cuisine",
     "umami-rich"
@@ -91,5 +88,9 @@
     "mainIngredient": "banana",
     "descriptor": "Knotty Crumbly",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

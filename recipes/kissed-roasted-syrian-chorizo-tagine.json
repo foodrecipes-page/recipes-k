@@ -56,7 +56,8 @@
     "Add the chopped onion to the Dutch oven and cook until it is softened and translucent.",
     "Add the minced garlic to the Dutch oven and cook for an additional 1 minute.",
     "Once the chorizo is done roasting, add it to the Dutch oven and stir to combine with the onion and garlic mixture.",
-    "Reduce heat to low and simmer the tagine for 10 minutes, allowing the flavors to meld together and the chorizo to steam in the aromatic broth."
+    "Reduce heat to low and simmer the tagine for 10 minutes, allowing the flavors to meld together and the chorizo to steam in the aromatic broth.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -93,5 +94,9 @@
     "mainIngredient": "chorizo",
     "descriptor": "Kissed Roasted",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

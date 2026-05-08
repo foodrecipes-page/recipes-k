@@ -2,9 +2,7 @@
   "title": "Kissed Mustardy Chinese Udon Congee",
   "description": "A hearty and savory Chinese-inspired congee dish featuring chewy udon noodles, mustardy flavors, and a Mediterranean twist, perfect for a date night dinner.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -60,7 +58,8 @@
     "Add the prepared mustard, soy sauce, and rice vinegar, and stir to combine.",
     "Add the chicken broth and bring the mixture to a boil.",
     "Add the udon noodles and reduce the heat to low, simmering for 10 minutes or until the noodles are cooked and the liquid has been absorbed.",
-    "Stir in the chopped green onions and serve the congee hot."
+    "Stir in the chopped green onions and serve the congee hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -72,8 +71,7 @@
     "comfort-food",
     "date-night",
     "noodle-dish",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -98,5 +96,10 @@
     "mainIngredient": "udon noodles",
     "descriptor": "kissed mustardy",
     "dishForm": "Congee"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

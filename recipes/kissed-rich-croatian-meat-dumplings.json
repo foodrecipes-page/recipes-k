@@ -60,7 +60,9 @@
     "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
     "Add 4 of the dumplings to the skillet and cook for 3-4 minutes on each side, until browned.",
     "Repeat with the remaining dumplings.",
-    "Serve the dumplings hot with your favorite sides."
+    "Serve the dumplings hot with your favorite sides.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -97,5 +99,10 @@
     "mainIngredient": "meat",
     "descriptor": "kissed rich",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

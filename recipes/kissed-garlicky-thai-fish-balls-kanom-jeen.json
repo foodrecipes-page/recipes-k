@@ -3,7 +3,6 @@
   "description": "A garlicky and pillowy Thai dish featuring fish balls served with applesauce and kanom jeen noodles, providing a nostalgic and anti-inflammatory friendly meal option.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -88,5 +87,9 @@
     "mainIngredient": "fish balls",
     "descriptor": "kissed garlicky",
     "dishForm": "Kanom Jeen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

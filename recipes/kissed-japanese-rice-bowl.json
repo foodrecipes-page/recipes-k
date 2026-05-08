@@ -2,9 +2,7 @@
   "title": "Kissed Japanese Rice Bowl",
   "description": "A savory yet sweet brunch bowl featuring fragrant basmati rice topped with candied ginger, toasted sesame seeds, and a drizzle of honey-soy sauce.",
   "cuisine": "Japanese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -74,7 +72,6 @@
   "tags": [
     "brunch",
     "crunchy",
-    "halal",
     "japanese",
     "sweet-savory"
   ],
@@ -101,5 +98,9 @@
     "mainIngredient": "rice",
     "descriptor": "Kissed",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

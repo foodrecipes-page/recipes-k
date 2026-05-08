@@ -62,7 +62,8 @@
     "Serve immediately, garnished with additional cilantro if desired.",
     "For an extra crispy texture, place the corn under the broiler for 1-2 minutes after applying the mayonnaise and cilantro.",
     "Keep an eye on the corn while it is under the broiler to avoid burning.",
-    "Remove from heat and let cool for a few minutes before serving."
+    "Remove from heat and let cool for a few minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "corn",
     "descriptor": "kissed gooey",
     "dishForm": "Elote"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

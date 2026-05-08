@@ -3,8 +3,7 @@
   "description": "A pungent and crispy Ukrainian dish featuring avocado, wrapped in a leaf and steamed to perfection, suitable for a weeknight dinner.",
   "cuisine": "Ukrainian",
   "diet": [
-    "satvik",
-    "vegetarian"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
     "satvik",
     "steamed",
     "ukrainian",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -99,5 +97,9 @@
     "mainIngredient": "avocado",
     "descriptor": "Kissed Crispy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

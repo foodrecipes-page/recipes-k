@@ -3,8 +3,7 @@
   "description": "A tangy and pillowy Chinese dish featuring chicken stock, perfect for midnight cravings, this scallion pancake is a sugar-free friendly delight. It is made in a kadhai vessel.",
   "cuisine": "Chinese",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -60,7 +59,8 @@
     "Heat a kadhai vessel over medium heat and add 1 tablespoon of sesame oil.",
     "Place a dough circle in the kadhai and cook for 2 minutes on each side, until golden brown.",
     "Repeat the cooking process with the remaining dough circles.",
-    "Serve the scallion pancakes hot and enjoy."
+    "Serve the scallion pancakes hot and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -70,7 +70,6 @@
   "tags": [
     "asian-cuisine",
     "chinese-food",
-    "gluten-free",
     "one-pan",
     "snack-recipes",
     "sugar-free"
@@ -98,5 +97,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed Tangy",
     "dishForm": "Scallion Pancake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A savory and comforting German dish featuring beef stock and tadka, made in a kazan cauldron, perfect for a cold winter's night, this jain-friendly stew is a hearty and flavorful meal",
   "cuisine": "German",
   "diet": [
-    "jain-friendly",
-    "vegetarian"
+    "jain-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -68,8 +67,7 @@
     "german-cuisine",
     "hearty-stew",
     "jain-friendly",
-    "one-pot",
-    "vegetarian"
+    "one-pot"
   ],
   "nutrition": {
     "calories": 420,
@@ -94,5 +92,9 @@
     "mainIngredient": "beef",
     "descriptor": "kettle simmered",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

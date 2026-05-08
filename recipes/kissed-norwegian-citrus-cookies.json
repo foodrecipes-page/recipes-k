@@ -83,11 +83,15 @@
     "mood": "brunch-mood",
     "technique": "wood-fired-bake",
     "primaryIngredient": "cookies",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Norwegian",
     "mainIngredient": "citrus",
     "descriptor": "kissed wood fired",
     "dishForm": "Cookies"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

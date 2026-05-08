@@ -3,8 +3,7 @@
   "description": "A savory and crumbly Moroccan dish made with fermented ingredients and fines-herbes, served with a sweet honey glaze.",
   "cuisine": "Moroccan",
   "diet": [
-    "halal",
-    "vegan"
+    "halal"
   ],
   "meal": "snack",
   "ingredients": [
@@ -60,7 +59,6 @@
   "tags": [
     "flaky",
     "fritters",
-    "gluten-free",
     "halal",
     "moroccan",
     "savory"
@@ -88,5 +86,10 @@
     "mainIngredient": "Flour",
     "descriptor": "Kissed Honey Fritter",
     "dishForm": "Jjajeek (Moroccan Fried Pastry)"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

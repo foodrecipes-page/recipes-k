@@ -2,9 +2,7 @@
   "title": "Kissed Greek Cabbage Avgolemono Soup",
   "description": "A fermented, snappy, energizing Greek soup that blends crisp cabbage with a creamy lemon custard, all vegan-friendly and bursting with bright flavors.",
   "cuisine": "Greek",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -75,8 +73,7 @@
     "low-carb",
     "mediterranean",
     "quick",
-    "soup",
-    "vegan"
+    "soup"
   ],
   "nutrition": {
     "calories": 180,
@@ -101,5 +98,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Kissed",
     "dishForm": "Avgolemono Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

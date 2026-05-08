@@ -3,8 +3,7 @@
   "description": "A spicy and crunchy one-pot British dish featuring brown rice noodles, perfect for a unique afternoon tea experience. This nut-free-friendly recipe is sure to delight.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,6 @@
     "afternoon-tea",
     "british-cuisine",
     "crunchy",
-    "gluten-free",
     "one-pot",
     "spicy",
     "vegetarian"
@@ -85,11 +83,16 @@
     "mood": "one-pot",
     "technique": "steam",
     "primaryIngredient": "brown rice noodle",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": "cornish",
     "cuisineAdjective": "Cornish",
     "mainIngredient": "brown rice noodles",
     "descriptor": "Kickin Crunchy",
     "dishForm": "Afternoon Tea Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

@@ -82,7 +82,8 @@
     "Add the grated Grana Padano cheese and stir until melted and well combined.",
     "Bring the stew to a simmer and cook for 20-25 minutes, until the flavors have melded together and the beef is tender.",
     "Taste and adjust the seasoning as needed.",
-    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -121,5 +122,9 @@
     "mainIngredient": "Grana Padano",
     "descriptor": "Kid-Friendly Spicy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

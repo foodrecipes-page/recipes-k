@@ -62,7 +62,8 @@
     "Cover the Dutch oven and transfer it to the oven, where it will braise for 2 1/2 hours.",
     "Remove the tagine from the oven and let it cool slightly before serving.",
     "Serve the tagine hot, garnished with fresh parsley and a side of couscous.",
-    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together."
+    "Let the tagine rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -99,5 +100,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Kosher braised",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

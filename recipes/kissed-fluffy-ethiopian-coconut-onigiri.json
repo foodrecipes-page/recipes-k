@@ -3,8 +3,7 @@
   "description": "A sour, fluffy, and festive Ethiopian dish featuring coconut cream and nigiri-shaping, perfect for those with onion and garlic sensitivities.",
   "cuisine": "Ethiopian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,6 @@
     "african",
     "coconut",
     "finger-food",
-    "gluten-free",
     "snack",
     "vegetarian"
   ],
@@ -90,5 +88,9 @@
     "mainIngredient": "coconut",
     "descriptor": "kissed fluffy",
     "dishForm": "Onigiri"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

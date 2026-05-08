@@ -4,7 +4,6 @@
   "cuisine": "Greek",
   "diet": [
     "vegetarian",
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -70,7 +69,6 @@
     "gluten-free",
     "greek-cuisine",
     "smoky",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -96,5 +94,9 @@
     "mainIngredient": "Brussels Sprouts",
     "descriptor": "Kissed Smoky",
     "dishForm": "Revithia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -45,7 +45,8 @@
     "In another pan or pot, deglaze with white wine or broth. Add lemon juice and dill; bring to a simmer for a few seconds to combine flavors.",
     "Pour the sauce over the fried haddock fillets, letting them absorb the flavor on all sides.",
     "Transfer fillets to a baking dish lined with parchment paper. Bake in preheated oven until crispy, about 10 minutes.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -77,5 +78,9 @@
     "primaryIngredient": "haddock",
     "diet": "kosher",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

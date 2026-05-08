@@ -2,9 +2,7 @@
   "title": "Kissed Yellow Greek Semolina Custard Galaktoboureko",
   "description": "A traditional Greek dessert featuring semolina custard and a crispy phyllo crust, with a hint of yellow food coloring and a rich, resinous flavor from the lardons-render, served in a bento box for a unique twist.",
   "cuisine": "Greek",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -91,5 +89,9 @@
     "mainIngredient": "semolina custard",
     "descriptor": "Kissed Yellow",
     "dishForm": "Galaktoboureko"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

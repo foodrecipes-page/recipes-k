@@ -2,10 +2,7 @@
   "title": "Kissed and Gooey Thai Tiger Prawns Kanom Ko",
   "description": "A post-workout treat featuring halal-friendly tiger prawns, crispy double-fry-kfc style fried shallots, and a sweet and tangy sauce, all wrapped in crispy rice flour dough.",
   "cuisine": "Thai",
-  "diet": [
-    "Halal",
-    "Gluten-free"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -89,5 +86,10 @@
     "mainIngredient": "tiger prawns",
     "descriptor": "kissed and gooey",
     "dishForm": "Kanom Ko"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-halal"
+  ]
 }

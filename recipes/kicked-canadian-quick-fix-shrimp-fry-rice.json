@@ -53,7 +53,6 @@
   "tags": [
     "bouncy-qq",
     "canadian",
-    "gluten-free",
     "grassy",
     "kicked-dish",
     "quick-fix"
@@ -81,5 +80,9 @@
     "mainIngredient": "jumbo shrimp",
     "descriptor": "Quick-Fixed",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

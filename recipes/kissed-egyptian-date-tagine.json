@@ -3,8 +3,7 @@
   "description": "Nutty, gooey, and rich, this Egyptian dish is perfect for a romantic date night. Use egg-free-friendly ingredients to make it suitable for all dietary needs.",
   "cuisine": "Egyptian",
   "diet": [
-    "egg-free",
-    "vegetarian"
+    "egg-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -70,8 +69,7 @@
     "date-night",
     "egg-free",
     "one-pot",
-    "romantic",
-    "vegetarian"
+    "romantic"
   ],
   "nutrition": {
     "calories": 420,
@@ -96,5 +94,9 @@
     "mainIngredient": "date",
     "descriptor": "Kissed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

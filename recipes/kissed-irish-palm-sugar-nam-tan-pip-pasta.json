@@ -2,10 +2,7 @@
   "title": "Kissed Irish Palm-Sugar-Nam-Tan-Pip Pasta",
   "description": "A grassy, molten, romantic Irish dish featuring palm-sugar-nam-tan-pip, pasta-water-emulsion, and FODMAP-friendly ingredients.",
   "cuisine": "Irish",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,9 +58,7 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "fodmap-friendly",
-    "gluten-free",
     "irish",
     "romantic"
   ],
@@ -90,5 +85,10 @@
     "mainIngredient": "palm-sugar-nam-tan-pip",
     "descriptor": "Kissed",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

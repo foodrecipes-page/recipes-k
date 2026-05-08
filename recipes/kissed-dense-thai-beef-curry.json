@@ -52,7 +52,8 @@
     "Crack in eggs and stir gently to distribute them evenly throughout the curry.",
     "Continue cooking for an additional 2 minutes, until the eggs are cooked through.",
     "Stir in chopped Thai basil.",
-    "Serve the curry hot, garnished with additional basil if desired."
+    "Serve the curry hot, garnished with additional basil if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "kissed dense",
     "dishForm": "curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

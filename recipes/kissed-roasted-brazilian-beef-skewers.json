@@ -51,7 +51,8 @@
     "Place the skewers on a baking sheet lined with parchment paper.",
     "Roast the skewers in the preheated oven for 15 minutes, or until cooked through.",
     "Remove the skewers from the oven and let them rest for a few minutes.",
-    "Serve the skewers hot, garnished with fresh cilantro or scallions if desired."
+    "Serve the skewers hot, garnished with fresh cilantro or scallions if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -89,5 +90,9 @@
     "mainIngredient": "beef",
     "descriptor": "kissed roasted",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

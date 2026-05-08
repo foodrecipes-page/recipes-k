@@ -66,7 +66,8 @@
     "Add the soaked and drained cannellini beans, shio-koji, diced tomatoes, chicken broth, salt, and black pepper to the pot.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
     "Use an immersion blender to puree some of the stew, leaving some of the beans and vegetables intact.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -104,5 +105,9 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "kissed fluffy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -34,7 +34,7 @@
   ],
   "prepTimeMin": 24,
   "cookTimeMin": 30,
-  "totalTimeMin": 90,
+  "totalTimeMin": 54,
   "servings": 1,
   "difficulty": "medium",
   "tags": [
@@ -66,5 +66,9 @@
     "mainIngredient": "pork belly",
     "descriptor": "Smoke-Cold",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

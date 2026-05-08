@@ -2,9 +2,7 @@
   "title": "Kosher Creamy German Chicken Noodles",
   "description": "A comforting and creamy German-inspired dish featuring chicken, noodles, and a hint of yellow curry paste, perfect for a sick day.",
   "cuisine": "German",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -103,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kosher Creamy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

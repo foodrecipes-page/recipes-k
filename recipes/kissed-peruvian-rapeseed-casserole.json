@@ -77,7 +77,9 @@
     "Bake in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
     "Remove from the oven and let cool for a few minutes before serving.",
     "Garnish with crushed Peruvian corn nuts, if desired.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -85,7 +87,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "high-protein",
     "one-pan",
     "peruvian",
@@ -115,5 +116,11 @@
     "mainIngredient": "rapeseed",
     "descriptor": "kissed",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

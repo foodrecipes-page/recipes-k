@@ -45,7 +45,8 @@
     "Mix flour, eggs, milk, salt, pepper, and cheddar cheese in a bowl until well combined.",
     "Gently fold the cooked vermicelli into the egg mixture.",
     "Pour the mixed ingredients back into the chicken broth and stir gently until the noodles are fully incorporated and heated through.",
-    "Serve hot as a side dish or over rice."
+    "Serve hot as a side dish or over rice.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -76,5 +77,9 @@
     "primaryIngredient": "vermicelli rice noodles",
     "diet": "high-protein",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

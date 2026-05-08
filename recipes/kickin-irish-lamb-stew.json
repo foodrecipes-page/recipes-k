@@ -59,7 +59,8 @@
     "Reduce the heat to low and simmer, covered, until the lamb is tender, about 20 minutes.",
     "Stir in the heavy cream and cook for an additional 2 minutes.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Kickin",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

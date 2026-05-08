@@ -3,8 +3,7 @@
   "description": "A nutty, creamy, and romantic Hunan Chinese dish featuring Jersey Royal potatoes and grilled twice-cooked pork, suitable for ovo-vegetarians.",
   "cuisine": "Hunan",
   "diet": [
-    "ovo-vegetarian",
-    "gluten-free"
+    "ovo-vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -95,7 +94,6 @@
   "difficulty": "medium",
   "tags": [
     "chinese",
-    "gluten-free",
     "grilled-potatoes",
     "hunan",
     "jjigae",
@@ -126,5 +124,9 @@
     "mainIngredient": "Potatoes",
     "descriptor": "Kissed",
     "dishForm": "Twice-Cooked-Pork Jjigae"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A cozy French dish featuring canned tomatoes and toast, wrapped in a low-glycemic-friendly crepe, this recipe is perfect for a satisfying meal. The combination of crumbly texture and resinous flavor will leave you wanting more.",
   "cuisine": "French",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -74,7 +73,6 @@
     "brunch-ideas",
     "crepe-recipes",
     "french-cuisine",
-    "gluten-free",
     "low-glycemic"
   ],
   "nutrition": {
@@ -100,5 +98,9 @@
     "mainIngredient": "tomatoes",
     "descriptor": "Kissed Crumbly",
     "dishForm": "Crepes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A vegan-friendly German stir fry featuring narutomaki, with a resinous and light flavor profile, perfect for show-off dishes. This recipe combines the best of German and Japanese cuisine.",
   "cuisine": "German",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -75,8 +74,7 @@
     "japanese-inspired",
     "one-pan",
     "quick-dinner",
-    "stir-fry",
-    "vegan"
+    "stir-fry"
   ],
   "nutrition": {
     "calories": 420,
@@ -101,5 +99,9 @@
     "mainIngredient": "narutomaki",
     "descriptor": "kaleidoscopic",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Kissed Dutch Chicken Salad",
   "description": "A vibrant, sour-sweet salad featuring poached halal chicken, dried red chilies, and crisp greens, finished with a creamy dressing.",
   "cuisine": "Dutch",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -77,7 +75,6 @@
   "tags": [
     "crispy",
     "dutch",
-    "halal",
     "indulgent",
     "poached",
     "sour"
@@ -105,5 +102,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

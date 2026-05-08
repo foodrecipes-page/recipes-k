@@ -63,7 +63,8 @@
     "Add the mincemeat and cook for 1-2 minutes, stirring occasionally.",
     "Stir in the bonito flakes and cook for another minute.",
     "Transfer the mixture to a serving dish and garnish with chopped parsley.",
-    "Serve warm or at room temperature."
+    "Serve warm or at room temperature.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -100,5 +101,9 @@
     "mainIngredient": "mincemeat",
     "descriptor": "kissed",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

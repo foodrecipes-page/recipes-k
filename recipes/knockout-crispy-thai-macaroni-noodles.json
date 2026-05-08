@@ -2,9 +2,7 @@
   "title": "Knockout Crispy Thai Macaroni Noodles",
   "description": "A pungent and crispy Thai dish featuring macaroni and tempering chocolate, this knockout recipe is sure to impress, and is kosher friendly.",
   "cuisine": "Thai",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "macaroni",
     "descriptor": "Knockout Crispy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher"
+  ]
 }

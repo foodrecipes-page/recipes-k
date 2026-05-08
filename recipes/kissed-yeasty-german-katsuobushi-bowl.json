@@ -63,7 +63,8 @@
     "While the mixture is cooking, bake the diced potatoes in the oven for 20 minutes, or until they are tender.",
     "To deglaze the pan, add the yeast extract and scrape up any browned bits from the bottom.",
     "Stir in the katsuobushi and cook for 1 minute.",
-    "To serve, place a portion of the potato and sausage mixture into an earthenware bowl and top with additional katsuobushi if desired."
+    "To serve, place a portion of the potato and sausage mixture into an earthenware bowl and top with additional katsuobushi if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -101,5 +102,9 @@
     "mainIngredient": "katsuobushi",
     "descriptor": "kissed yeasty",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

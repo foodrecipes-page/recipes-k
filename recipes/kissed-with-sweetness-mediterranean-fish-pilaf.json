@@ -2,9 +2,7 @@
   "title": "Kissed with sweetness Mediterranean fish Pilaf",
   "description": "A sweet and pillowy one-pot Mediterranean dish featuring figs, perfect for a weeknight dinner.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "pescatarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -108,5 +106,9 @@
     "mainIngredient": "fish",
     "descriptor": "Kissed with sweetness",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-pescatarian"
+  ]
 }

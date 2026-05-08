@@ -80,8 +80,7 @@
     "onepan",
     "papayasomtum",
     "summervibes",
-    "thaifood",
-    "vegan"
+    "thaifood"
   ],
   "nutrition": {
     "calories": 220,
@@ -106,5 +105,9 @@
     "mainIngredient": "papaya",
     "descriptor": "Kissed by Clay",
     "dishForm": "Som-Tum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

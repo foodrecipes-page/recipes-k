@@ -2,9 +2,7 @@
   "title": "Kissed Garlicky Vietnamese Rice Pudding",
   "description": "A smooth, aerated rice pudding infused with garlicky ginger and sweet jocheong, perfect for soothing a hangover.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -87,5 +85,9 @@
     "mainIngredient": "rice",
     "descriptor": "Kissed Garlicky",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

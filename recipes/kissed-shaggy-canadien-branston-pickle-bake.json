@@ -3,8 +3,7 @@
   "description": "This festive Canadian dish features the briny, sweet and sour taste of branston pickle, wrapped in a hearty, comforting blanket of fluffy pastry. The earthy, tamasic flavors of whole wheat and oats are tempered by the creamy richness of buttermilk.",
   "cuisine": "Canadian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -63,7 +62,8 @@
     "Brush the tops of each round with a little extra buttermilk and sprinkle with a pinch of salt. Bake in a wood-fired oven at 425F for 20-25 minutes, or until the pastry is golden brown and set.",
     "While the pastry is baking, sauté the chopped onion in a little butter until softened. Stir in chopped fresh parsley and a pinch of black pepper.",
     "Once the pastry is done, let it cool for 5 minutes before slicing in half and serving with a dollop of chopped branston pickle on top, and a sprinkle of extra parsley if desired.",
-    "Garnish with extra branston pickle and parsley for a festive touch, and serve with a steaming cup of hot coffee or tea for a truly Canadian breakfast experience."
+    "Garnish with extra branston pickle and parsley for a festive touch, and serve with a steaming cup of hot coffee or tea for a truly Canadian breakfast experience.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -100,5 +100,10 @@
     "mainIngredient": "Branston-pickle",
     "descriptor": "Kissed Shaggy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

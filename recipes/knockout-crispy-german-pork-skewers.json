@@ -62,7 +62,8 @@
     "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
     "While the pork is baking, crumble the gorgonzola-dolce into a bowl.",
     "After 20 minutes, remove the skewers from the oven and top each piece of pork with a small amount of crumbled gorgonzola-dolce.",
-    "Return the skewers to the oven and bake for an additional 5 minutes, or until the cheese is melted and the pork is crispy."
+    "Return the skewers to the oven and bake for an additional 5 minutes, or until the cheese is melted and the pork is crispy.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "Knockout Crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

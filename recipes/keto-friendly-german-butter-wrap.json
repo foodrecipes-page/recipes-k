@@ -35,7 +35,8 @@
     "Place a slice of Mozzarella cheese in the center of each mustard-side toast, arranging pickles around it.",
     "Drizzle 2 tablespoons of peanut butter evenly over the top of the fillings.",
     "Return the assembled wraps to the oven for about 3-5 minutes or until the cheese is melted and slightly golden.",
-    "Allow to cool for a minute before serving."
+    "Allow to cool for a minute before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -70,5 +71,9 @@
     "mainIngredient": "Butter",
     "descriptor": "Keto-friendly",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

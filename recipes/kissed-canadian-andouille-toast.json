@@ -2,9 +2,7 @@
   "title": "Kissed Canadian Andouille Toast",
   "description": "A lazy Sunday breakfast dish featuring Canadian-style Andouille sausage, served on toasted bread with a creamy, yeasty sauce.",
   "cuisine": "Canadian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -52,7 +50,8 @@
     "Preheat the oven to 375°F (190°C).",
     "Bake the Andouille sausage links in the oven for 10 minutes, or until browned.",
     "Remove the sausage from the oven and set aside to cool.",
-    "Meanwhile, toast 4 slices of bread until lightly browned, then rub them with a clove of garlic and sprinkle with a pinch of salt."
+    "Meanwhile, toast 4 slices of bread until lightly browned, then rub them with a clove of garlic and sprinkle with a pinch of salt.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -63,7 +62,6 @@
     "breakfast",
     "canadian",
     "easy",
-    "gluten-free",
     "one-pan",
     "weeknight"
   ],
@@ -90,5 +88,10 @@
     "mainIngredient": "Andouille",
     "descriptor": "Kissed",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A light and comforting Dutch dish featuring sultanas, perfect for a sick day, made with sous-vide cooking and ayurvedic-sattvic-friendly ingredients. This umami-rich pilaf is easy to digest and soothing to the palate.",
   "cuisine": "Dutch",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -67,7 +66,6 @@
     "dutch-cuisine",
     "one-pot",
     "sous-vide",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -93,5 +91,9 @@
     "mainIngredient": "sultanas",
     "descriptor": "Kindly Gentle",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

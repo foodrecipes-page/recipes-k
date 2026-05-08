@@ -59,7 +59,8 @@
     "Reduce heat to low, add salt and cumin powder, stir well until combined.",
     "Gradually stir in shredded coconut, continuing to cook for about 10 minutes or until thickened slightly but still loose enough to eat with your hands.",
     "Stir in lemon juice just before serving. Garnish with fresh basil leaves if desired.",
-    "Serve hot as a side dish or over rice for a complete meal."
+    "Serve hot as a side dish or over rice for a complete meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
@@ -94,5 +95,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Keto-friendly Bhuna Shredded Coconut Pilaf",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

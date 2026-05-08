@@ -2,9 +2,7 @@
   "title": "Kissed Mediterranean Eggplant Tagine",
   "description": "A sweet, dense vegan tagine infused with Chinese sesame sauce, smoky eggplant, and Mediterranean spices, ideal for a Buddha‑friendly feast.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -117,8 +115,7 @@
     "mediterranean",
     "one-pot",
     "sesame",
-    "smoky",
-    "vegan"
+    "smoky"
   ],
   "nutrition": {
     "calories": 500,
@@ -143,5 +140,9 @@
     "mainIngredient": "eggplant",
     "descriptor": "Kissed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

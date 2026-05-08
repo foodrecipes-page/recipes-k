@@ -59,7 +59,8 @@
     "Top the cream cheese with shredded cheddar cheese, shredded lettuce, diced tomato, and thinly sliced red onion.",
     "Add the roasted red pepper strips and dill pickle slices on top of the other ingredients.",
     "Sprinkle chopped fresh parsley over the top of the sandwich.",
-    "Serve the sandwich on a tagliere and enjoy."
+    "Serve the sandwich on a tagliere and enjoy.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -97,5 +98,9 @@
     "mainIngredient": "red pepper",
     "descriptor": "kicked up",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

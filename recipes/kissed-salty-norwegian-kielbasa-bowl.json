@@ -52,7 +52,8 @@
     "Drizzle any remaining aquavit jelly over the top of the kielbasa mixture.",
     "Serve immediately and enjoy.",
     "Consider serving with a side of toasted bread or crackers.",
-    "Garnish with additional pickled red onion and salted capers if desired."
+    "Garnish with additional pickled red onion and salted capers if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -90,5 +91,9 @@
     "mainIngredient": "kielbasa",
     "descriptor": "Kissed Salty",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

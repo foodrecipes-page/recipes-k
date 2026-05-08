@@ -3,7 +3,6 @@
   "description": "A sour and dense Brazilian dessert featuring golden syrup, made dairy-free friendly and cooked on a comal.",
   "cuisine": "Brazilian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -54,13 +53,12 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
-  "totalTimeMin": 65,
+  "totalTimeMin": 45,
   "servings": 6,
   "difficulty": "medium",
   "tags": [
     "coconut-based",
     "comfort-food",
-    "dairy-free",
     "dessert",
     "golden-syrup",
     "south-american"
@@ -88,5 +86,10 @@
     "mainIngredient": "coconut",
     "descriptor": "kissed dense",
     "dishForm": "Pudding"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "recomputed-totalTime"
+  ]
 }

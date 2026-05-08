@@ -3,8 +3,7 @@
   "description": "A creamy and garlicky brunch dish inspired by the flavors of Khao-soi from northeastern Thailand, featuring rolled oats and a crispy crust.",
   "cuisine": "Thai",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -106,5 +105,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Khao-Soi Style Garlic Crusty",
     "dishForm": "Curried Noodle Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

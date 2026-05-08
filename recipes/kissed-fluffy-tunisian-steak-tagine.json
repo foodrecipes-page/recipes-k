@@ -67,7 +67,8 @@
     "Reduce the heat to low, cover, and simmer for 20 minutes, or until the steak is tender.",
     "Serve hot, garnished with fresh parsley or cilantro.",
     "Let it rest for 10 minutes before serving.",
-    "Serve with cauliflower rice or low glycemic index sides."
+    "Serve with cauliflower rice or low glycemic index sides.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -105,5 +106,9 @@
     "mainIngredient": "steak",
     "descriptor": "kissed fluffy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

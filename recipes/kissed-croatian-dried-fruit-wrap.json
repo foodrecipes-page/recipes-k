@@ -3,8 +3,7 @@
   "description": "A yeasty, shattering Croatian dish featuring dried fruit, leaf wrap steam that is perfect for a snack.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -79,7 +78,6 @@
     "homemade",
     "one-pan",
     "snack",
-    "vegan",
     "vegetarian",
     "weeknight"
   ],
@@ -106,5 +104,9 @@
     "mainIngredient": "dried fruit",
     "descriptor": "kissed",
     "dishForm": "wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

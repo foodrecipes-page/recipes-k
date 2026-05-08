@@ -3,8 +3,7 @@
   "description": "A sweet, cheese-pull date-night Ukrainian dish featuring cannellini beans, nuka-pickle, and a sugar-free crust.",
   "cuisine": "Ukrainian",
   "diet": [
-    "sugar-free",
-    "gluten-free"
+    "sugar-free"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -71,7 +70,8 @@
     "Use a pastry cutter or a knife to cut the dough into strips.",
     "Place the strips on top of the bean mixture in a lattice pattern.",
     "Brush the strips with the beaten egg and sprinkle with chopped parsley.",
-    "Bake the casserole in the preheated oven for 35-40 minutes, or until the pastry is golden brown and the filling is hot and bubbly."
+    "Bake the casserole in the preheated oven for 35-40 minutes, or until the pastry is golden brown and the filling is hot and bubbly.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 40,
@@ -81,7 +81,6 @@
   "tags": [
     "cheese-pull",
     "date-night",
-    "gluten-free",
     "pastry-crust",
     "smoked-mozzarella",
     "sugar-free",
@@ -110,5 +109,10 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "kissed smoky",
     "dishForm": "pastry casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-preserving_no_acid"
+  ]
 }

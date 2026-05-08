@@ -3,7 +3,6 @@
   "description": "A flavorful and earthy Jamaican dish featuring dried shrimp, binchotan charcoal, and a blend of spices, perfect for a lazy Sunday, this satvik-friendly curry is a delight to the senses. It combines the snappy taste of dried shrimp with the richness of coconut milk and the depth of smoky binchotan charcoal.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegetarian",
     "satvik"
   ],
   "meal": "dinner",
@@ -103,5 +102,9 @@
     "mainIngredient": "dried shrimp",
     "descriptor": "Kickin Smoky",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

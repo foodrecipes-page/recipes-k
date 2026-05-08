@@ -4,8 +4,7 @@
   "cuisine": "ukrainian",
   "diet": [
     "vegetarian",
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -88,5 +87,9 @@
     "mainIngredient": "dried white beans",
     "descriptor": "kissed earthy",
     "dishForm": "tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

@@ -60,7 +60,8 @@
     "Heat coconut milk in a large skillet over medium heat until warm and fragrant.",
     "Add beurre monte and whisk until emulsified.",
     "Add red curry paste and cook for 1-2 minutes, stirring constantly, until fragrant.",
-    "Add ground beef and cook, breaking up with a spoon, until browned and cooked through."
+    "Add ground beef and cook, breaking up with a spoon, until browned and cooked through.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -96,5 +97,9 @@
     "mainIngredient": "Meat",
     "descriptor": "Kissed",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

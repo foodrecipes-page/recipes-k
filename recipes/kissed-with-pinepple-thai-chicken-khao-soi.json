@@ -122,7 +122,8 @@
     "The mixture will form into small, round spheres.",
     "Let the spheres sit in the cold water for 5-10 minutes, or until they have firmed up and are no longer sticky.",
     "Remove the spheres from the water and pat them dry with paper towels.",
-    "Slice the spheres in half just before serving."
+    "Slice the spheres in half just before serving.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -161,5 +162,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed with pinepple",
     "dishForm": "Khao-Soi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

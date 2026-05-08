@@ -70,7 +70,8 @@
     "Add a few fresh herbs on top of the pork mixture.",
     "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
     "Repeat with the remaining wrappers and filling.",
-    "Serve the nem nuong immediately and enjoy!"
+    "Serve the nem nuong immediately and enjoy!",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
@@ -109,5 +110,9 @@
     "mainIngredient": "pork",
     "descriptor": "Kissed with sweetness",
     "dishForm": "Nem Nuong"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

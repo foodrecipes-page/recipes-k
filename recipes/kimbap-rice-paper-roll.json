@@ -33,7 +33,8 @@
     "Place a small amount of the chicken mixture in the center of the rice paper sheet, leaving about 1 inch around the edges.",
     "Fold sides over to enclose the filling, and roll tightly like making sushi. Repeat with remaining sheets.",
     "Optional: Add soft cheese puffs inside each rolled kimbap for extra indulgence.",
-    "Serve immediately or store in an airtight container until ready to eat."
+    "Serve immediately or store in an airtight container until ready to eat.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -64,5 +65,9 @@
     "primaryIngredient": "rice paper sheets",
     "diet": "low-carb",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

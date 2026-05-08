@@ -2,9 +2,7 @@
   "title": "Kissed Herbal Italian King Prawns Ragu",
   "description": "A festive Italian dish featuring king prawns in a herbal ragu, served in a ti-leaf wrap. This vegan-friendly dish is made with a deglaze-fond and has a glassy-jelly texture.",
   "cuisine": "Italian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -74,8 +72,7 @@
     "italian-food",
     "one-pan",
     "seafood",
-    "special-occasion",
-    "vegan"
+    "special-occasion"
   ],
   "nutrition": {
     "calories": 320,
@@ -100,5 +97,9 @@
     "mainIngredient": "king prawns",
     "descriptor": "Kissed Herbal",
     "dishForm": "Ragu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "Spicy, crispy skewers that combine tart kiwifruit with a zesty Lebanese-inspired glaze for a single-diner hit.",
   "cuisine": "Lebanese",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -78,8 +77,7 @@
     "middle-eastern",
     "quick",
     "skewers",
-    "spicy",
-    "vegan"
+    "spicy"
   ],
   "nutrition": {
     "calories": 170,
@@ -104,5 +102,9 @@
     "mainIngredient": "kiwifruit",
     "descriptor": "Kicked",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

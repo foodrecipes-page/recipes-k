@@ -64,7 +64,8 @@
     "Remove the pot and sprinkle crumbled feta over the hot tagliatelle, allowing the cheese to melt into the steam.",
     "Give everything a gentle stir to combine the melted cheese with the herbs and juices.",
     "Serve the dish straight from the tagine, optionally garnishing with extra mint or a squeeze of fresh lemon.",
-    "Enjoy the aromatic, low‑carb fusion of Egyptian flavors and tender pasta, with a delightful cheese‑pull finish."
+    "Enjoy the aromatic, low‑carb fusion of Egyptian flavors and tender pasta, with a delightful cheese‑pull finish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "tagliatelle",
     "descriptor": "Kissed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

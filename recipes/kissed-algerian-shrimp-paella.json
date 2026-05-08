@@ -61,7 +61,8 @@
     "Reduce heat to low, cover, and simmer for 18-20 minutes or until liquid is absorbed.",
     "Stir in saffron threads, remaining lardons-rendered fat (if not used), peas, lemon zest, salt, and pepper.",
     "Mix in chopped parsley. If using cheese, top with grated gouda before serving.",
-    "Serve hot as a hearty main course."
+    "Serve hot as a hearty main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 45,
@@ -98,5 +99,9 @@
     "mainIngredient": "Shrimp",
     "descriptor": "Kissed",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

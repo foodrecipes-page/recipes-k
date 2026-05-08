@@ -2,10 +2,7 @@
   "title": "Vietnamese Com Tam",
   "description": "Com Tam is a comforting Vietnamese comfort food featuring a rich, deeply flavored broth, topped with crispy, char-grilled rice and various toppings. This version is a unique take on the traditional dish, featuring the subtle sweetness of vanilla and the earthy flavor of binchotan charcoal.",
   "cuisine": "Vietnamese",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -89,7 +86,6 @@
   "tags": [
     "comfort-food",
     "one-pot",
-    "vegan",
     "vietnamese"
   ],
   "nutrition": {
@@ -115,5 +111,11 @@
     "mainIngredient": "soup",
     "descriptor": "kissed",
     "dishForm": "Com Tam"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

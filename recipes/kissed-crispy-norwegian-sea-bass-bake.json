@@ -74,7 +74,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-special-occasion",
-    "gluten-free",
     "high-protein",
     "one-pan",
     "weeknight"
@@ -102,5 +101,9 @@
     "mainIngredient": "sea bass",
     "descriptor": "kissed crispy",
     "dishForm": "bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A refreshing Slovakian dish featuring glassy-jelly texture, lime juice, and wood-fired-bake, perfect for brunch.",
   "cuisine": "Slovakian",
   "diet": [
-    "raw-friendly",
-    "vegan"
+    "raw-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -76,7 +75,6 @@
     "high-fiber",
     "raw-friendly",
     "slovakian",
-    "vegan",
     "wood-fired"
   ],
   "nutrition": {
@@ -102,5 +100,9 @@
     "mainIngredient": "bitter",
     "descriptor": "Kissed-by-smoke",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

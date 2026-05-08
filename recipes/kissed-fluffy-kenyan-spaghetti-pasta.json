@@ -3,8 +3,7 @@
   "description": "A cultured and fluffy Kenyan dish featuring spaghetti and bonito-shave, made plant-based-friendly. This romantic dish is perfect for a special occasion.",
   "cuisine": "Kenyan",
   "diet": [
-    "plant-based",
-    "vegetarian"
+    "plant-based"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "spaghetti",
     "descriptor": "Kissed Fluffy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

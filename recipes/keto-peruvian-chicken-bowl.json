@@ -60,7 +60,8 @@
     "Add the cauliflower rice to the skillet and cook for 5 minutes",
     "Slice the cooked chicken into strips and add to the skillet",
     "Stir in the chopped scallions and sesame seeds",
-    "Serve the chicken and cauliflower mixture in a bowl"
+    "Serve the chicken and cauliflower mixture in a bowl",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -98,5 +99,9 @@
     "mainIngredient": "chicken",
     "descriptor": "keto friendly",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

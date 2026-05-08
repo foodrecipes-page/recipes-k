@@ -4,8 +4,7 @@
   "cuisine": "Syrian",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -88,5 +87,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Keto Kick",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

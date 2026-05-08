@@ -51,7 +51,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
     "Melt the tempering chocolate and stir it into the sauce.",
     "Serve the pork and sauce hot, garnished with sliced scallions.",
-    "Cook the sauce for an additional 2 minutes, or until it has thickened slightly."
+    "Cook the sauce for an additional 2 minutes, or until it has thickened slightly.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -88,5 +89,9 @@
     "mainIngredient": "pork",
     "descriptor": "kissed spicy",
     "dishForm": "Sweet And Sour"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

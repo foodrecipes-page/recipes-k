@@ -51,7 +51,8 @@
     "Add the minced garlic and caraway seeds; cook for 1 minute.",
     "Add the cannellini beans, chicken broth, salt, and black pepper; stir to combine.",
     "Bring the mixture to a simmer and cook for 10-12 minutes, or until the liquid has reduced slightly.",
-    "Garnish with chopped parsley and serve hot."
+    "Garnish with chopped parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -81,11 +82,16 @@
     "mood": "kid-friendly",
     "technique": "tadka",
     "primaryIngredient": "cannellini beans",
-    "diet": "paleo",
+    "diet": "paleo-friendly",
     "region": null,
     "cuisineAdjective": "Ukrainian",
     "mainIngredient": "cannellini beans",
     "descriptor": "Kid-Friendly Light",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

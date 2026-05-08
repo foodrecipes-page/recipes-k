@@ -2,10 +2,7 @@
   "title": "Kissed Pan American Veal Casserole",
   "description": "A comforting and flavorful casserole featuring lean veal and a rich, tamasic-friendly gravy, served in a traditional Indian kadhai vessel.",
   "cuisine": "American",
-  "diet": [
-    "Vegetarian",
-    "Gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -155,5 +152,10 @@
     "mainIngredient": "veal",
     "descriptor": "kissed pan",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

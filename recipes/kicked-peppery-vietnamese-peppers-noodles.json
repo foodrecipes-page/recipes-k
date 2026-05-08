@@ -3,7 +3,6 @@
   "description": "A spicy and flavorful Vietnamese dish featuring peppers and ferment-jang, perfect for meal prep. This nut-free-friendly recipe is great for those with dietary restrictions.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -69,7 +68,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "meal-prep",
     "nut-free",
     "pepper-based",
@@ -99,5 +97,9 @@
     "mainIngredient": "peppers",
     "descriptor": "kicked peppery",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

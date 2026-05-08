@@ -2,9 +2,7 @@
   "title": "Kissed Resinous Syrian Tofu Pilaf",
   "description": "A comforting Syrian dish featuring crispy serrano ham and sashimi-cut tofu, made vegan-friendly by substituting ham with a plant-based alternative, all cooked to perfection in a wok.",
   "cuisine": "Syrian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -106,5 +104,9 @@
     "mainIngredient": "tofu",
     "descriptor": "kissed resinous",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

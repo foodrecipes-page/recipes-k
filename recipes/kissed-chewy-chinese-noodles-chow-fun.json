@@ -2,9 +2,7 @@
   "title": "Kissed Chewy Chinese Noodles Chow Fun",
   "description": "A cultured and chewy Chinese dish featuring tamarind paste, this halal-friendly meal prep recipe is perfect for a weeknight dinner, shaped like nigiri for a unique twist.",
   "cuisine": "Chinese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +93,9 @@
     "mainIngredient": "noodles",
     "descriptor": "Kissed Chewy",
     "dishForm": "Chow Fun"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

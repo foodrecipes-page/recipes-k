@@ -3,8 +3,7 @@
   "description": "A tangy and crispy meal-prep Kenyan dish featuring oregano and a robata-grill, perfect for a quick and easy dinner.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
-    "vegetarian"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -103,5 +102,9 @@
     "mainIngredient": "meal",
     "descriptor": "Kissed",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

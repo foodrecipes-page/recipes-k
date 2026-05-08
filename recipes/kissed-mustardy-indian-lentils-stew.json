@@ -3,7 +3,6 @@
   "description": "A tangy, mustard-infused lentil stew with fermented kimchi and a sweet mirin-honey glaze, perfect for midnight cravings.",
   "cuisine": "Indian",
   "diet": [
-    "vegan",
     "egg-free"
   ],
   "meal": "dinner",
@@ -84,8 +83,7 @@
     "kimchi",
     "midnight-craving",
     "mustard",
-    "sambhar",
-    "vegan"
+    "sambhar"
   ],
   "nutrition": {
     "calories": 400,
@@ -110,5 +108,9 @@
     "mainIngredient": "Lentils",
     "descriptor": "Kissed Mustardy",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

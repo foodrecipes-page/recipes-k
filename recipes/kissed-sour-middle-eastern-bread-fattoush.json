@@ -2,9 +2,7 @@
   "title": "Kissed Sour Middle Eastern Bread Fattoush",
   "description": "A comforting Middle Eastern dish featuring toasted bread, mixed greens, and a tangy dressing, made halal-friendly with turkey bacon and shio-cure, in place of parma ham.",
   "cuisine": "Middle Eastern",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -64,7 +62,8 @@
     "Drizzle the lemon juice and olive oil dressing over the top of the salad.",
     "Sprinkle the sumac over the salad and toss to combine.",
     "Season with salt and pepper to taste.",
-    "Serve immediately and enjoy."
+    "Serve immediately and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -73,7 +72,6 @@
   "difficulty": "easy",
   "tags": [
     "easy",
-    "halal",
     "lunch",
     "middle-eastern",
     "quick",
@@ -102,5 +100,10 @@
     "mainIngredient": "bread",
     "descriptor": "Kissed sour",
     "dishForm": "Fattoush"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-poultry_no_temp"
+  ]
 }

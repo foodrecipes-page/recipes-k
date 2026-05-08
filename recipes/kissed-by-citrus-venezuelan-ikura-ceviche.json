@@ -3,7 +3,6 @@
   "description": "A tangy and refreshing Venezuelan ceviche dish featuring ikura, bhuna, and a touch of citrus, served in a scallop shell. The combination of flavors and textures will leave you wanting more.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegan",
     "gluten-free",
     "dairy-free"
   ],
@@ -91,7 +90,6 @@
     "high-protein",
     "one-pan",
     "snack",
-    "vegan",
     "venezuelan",
     "weeknight"
   ],
@@ -118,5 +116,9 @@
     "mainIngredient": "Ikura",
     "descriptor": "Kissed by Citrus",
     "dishForm": "Ceviche"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -66,7 +66,8 @@
     "Add spinach and pour in yogurt, stirring until heated through and sauce thickens.",
     "Taste and adjust seasoning with additional salt if needed.",
     "Serve hot over cauliflower rice or low-FODMAP couscous.",
-    "Garnish with fresh cilantro if desired."
+    "Garnish with fresh cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,
@@ -104,5 +105,9 @@
     "mainIngredient": "turkey",
     "descriptor": "Kissed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

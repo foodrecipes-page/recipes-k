@@ -3,8 +3,7 @@
   "description": "A salty, fluffy, and crowd-pleasing Thai dish featuring whole wheat and tagine-cooked chicken in a satvik-friendly gaeng curry form.",
   "cuisine": "Thai",
   "diet": [
-    "satvik",
-    "gluten-free"
+    "satvik"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -54,7 +53,8 @@
     "Reduce the heat to low and cook, covered, for 20 minutes.",
     "Stir in the fish sauce, lime juice, brown sugar, and salt.",
     "Continue to cook, uncovered, for an additional 10 minutes.",
-    "Serve the curry hot, garnished with fresh herbs if desired."
+    "Serve the curry hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -63,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "one-pot",
     "thai-cuisine",
     "weeknight"
@@ -91,5 +90,10 @@
     "mainIngredient": "chicken",
     "descriptor": "kissed salty",
     "dishForm": "Gaeng Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

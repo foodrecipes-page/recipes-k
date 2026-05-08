@@ -53,7 +53,8 @@
     "Add sweet chili sauce and reduce the mixture until it thickens and the noodles are tender.",
     "Stir in sliced green onions and cook for another minute.",
     "Serve hot straight from the terracotta pot.",
-    "Garnish with additional green onions if desired."
+    "Garnish with additional green onions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -90,5 +91,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Kissed",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

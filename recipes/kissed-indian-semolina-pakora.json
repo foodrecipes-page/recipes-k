@@ -3,8 +3,7 @@
   "description": "A romantic and light Indian dish featuring roasted semolina, ideal for sharing or a special occasion.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -94,11 +93,9 @@
   "difficulty": "medium",
   "tags": [
     "finger-food",
-    "gluten-free",
     "indian",
     "romantic",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 320,
@@ -123,5 +120,10 @@
     "mainIngredient": "semolina",
     "descriptor": "Kissed",
     "dishForm": "Pakora"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

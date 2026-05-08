@@ -3,7 +3,6 @@
   "description": "A crispy and savory Welsh Ploughman's platter kissed with garlicky flavors and Marsala wine notes. Perfect for a midnight craving!",
   "cuisine": "Welsh",
   "diet": [
-    "kosher",
     "gluten-free"
   ],
   "meal": "snack",
@@ -66,7 +65,8 @@
     "Remove the bread from the oven and let cool slightly.",
     "Transfer the bread to a large serving platter or individual plates.",
     "Top the bread with shredded cheddar cheese, cured meats, pickled onions, and a dollop of parsley-coconut cream.",
-    "Serve immediately and enjoy!"
+    "Serve immediately and enjoy!",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 12,
@@ -104,5 +104,11 @@
     "mainIngredient": "Garlic",
     "descriptor": "Kissed",
     "dishForm": "Welsh Ploughman's Platter"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "removed-diet-kosher",
+    "added-safety-preserving_no_acid"
+  ]
 }

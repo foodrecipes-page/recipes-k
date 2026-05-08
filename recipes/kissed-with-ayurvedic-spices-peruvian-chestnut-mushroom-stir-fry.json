@@ -3,8 +3,7 @@
   "description": "Indulge in this silky, mustardy Peruvian dish featuring chestnut mushrooms in a miso-marinate with Ayurvedic sattvic-friendly spices, cooked to perfection in a wok.",
   "cuisine": "Peruvian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "chestnut mushroom",
     "descriptor": "Kissed with ayurvedic spices",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

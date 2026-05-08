@@ -60,7 +60,8 @@
     "Use a fork to crimp the edges of the dumplings.",
     "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling.",
     "Brush the tops of the dumplings with the beaten egg and bake for 20 minutes, or until golden brown.",
-    "Serve the dumplings hot on a tagliere, garnished with additional shiso leaves if desired."
+    "Serve the dumplings hot on a tagliere, garnished with additional shiso leaves if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -99,5 +100,9 @@
     "mainIngredient": "pork",
     "descriptor": "kissed fatty",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

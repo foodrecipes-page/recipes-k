@@ -56,7 +56,8 @@
     "Remove from heat and adjust seasoning if needed.",
     "Serve hot, garnished with a sprinkle of fresh cilantro.",
     "Enjoy the aromatic, satvik-friendly birria twist on classic pasta.",
-    "Clean up the pan and utensils."
+    "Clean up the pan and utensils.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -93,5 +94,9 @@
     "mainIngredient": "tagliatelle",
     "descriptor": "Kissed",
     "dishForm": "Birria"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

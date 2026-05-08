@@ -102,11 +102,15 @@
     "mood": "quick-fix",
     "technique": "ferment-kimchi",
     "primaryIngredient": "jamaican curry powder",
-    "diet": "keto",
+    "diet": "keto-friendly",
     "region": "yucatecan",
     "cuisineAdjective": "Yucatecan",
     "mainIngredient": "shrimp",
     "descriptor": "Kissed",
     "dishForm": "Churros"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

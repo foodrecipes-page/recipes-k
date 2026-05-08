@@ -72,7 +72,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "egg-free",
     "healthy",
     "sick-day"
@@ -100,5 +99,9 @@
     "mainIngredient": "Chickpea",
     "descriptor": "Kissed with Ice",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

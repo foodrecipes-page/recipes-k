@@ -81,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "norwegian-cuisine",
     "one-pan",
     "vegetarian"
@@ -109,5 +108,9 @@
     "mainIngredient": "fatty tender light",
     "descriptor": "kissed with garlic",
     "dishForm": "dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

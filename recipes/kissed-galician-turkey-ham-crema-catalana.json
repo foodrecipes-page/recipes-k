@@ -67,7 +67,8 @@
     "Place ramekins in a preheated oven at 160°C and bake until edges set but center still slightly jiggly, 12–15 minutes.",
     "Cool to room temperature, then refrigerate 2 hours before serving.",
     "Just before serving, dust lightly with powdered erythritol for a sweet finish.",
-    "Serve chilled with fresh berries or a sugar‑free caramel glaze (optional)."
+    "Serve chilled with fresh berries or a sugar‑free caramel glaze (optional).",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -105,5 +106,9 @@
     "mainIngredient": "Turkey Ham",
     "descriptor": "Kissed",
     "dishForm": "Crema Catalana"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

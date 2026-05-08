@@ -56,7 +56,8 @@
     "Return chicken to the skillet, spooning the glaze over the pieces and covering loosely.",
     "Reduce heat to low, cover, and simmer for 15 minutes until chicken is cooked through.",
     "Stir in nuka-pickle and scallions, cooking for an additional 2 minutes to meld flavors.",
-    "Serve hot, spooning extra glaze onto each piece for a silky finish."
+    "Serve hot, spooning extra glaze onto each piece for a silky finish.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 25,
@@ -94,5 +95,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

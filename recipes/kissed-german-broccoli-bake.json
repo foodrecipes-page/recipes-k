@@ -3,7 +3,6 @@
   "description": "A romantic and flavorful German-inspired dish featuring jammy purple-sprouting broccoli, crispy breadcrumbs, and a touch of sweetness from caramelized onions. Perfect for a date-night evening.",
   "cuisine": "german",
   "diet": [
-    "dairy-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -121,5 +120,9 @@
     "mainIngredient": "Broccoli",
     "descriptor": "Kissed",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

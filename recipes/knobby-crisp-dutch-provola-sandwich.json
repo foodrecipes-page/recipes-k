@@ -58,7 +58,8 @@
     "Place another slice of bread, butter-side up, on top of the filling.",
     "Close the panini press and cook for 3-4 minutes, or until the bread is golden brown and the cheese is melted.",
     "Repeat with the remaining ingredients.",
-    "Cut the sandwiches in half and serve immediately."
+    "Cut the sandwiches in half and serve immediately.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 8,
@@ -95,5 +96,9 @@
     "mainIngredient": "provola",
     "descriptor": "knobby crisp",
     "dishForm": "Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

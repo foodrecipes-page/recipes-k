@@ -3,8 +3,7 @@
   "description": "A romantic and earthy Polish dish featuring creamy sauce and diabetic-friendly ingredients, made with flour and shio-koji-cure for a unique flavor.",
   "cuisine": "Polish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
   "tags": [
     "comfort-food",
     "diabetic-friendly",
-    "gluten-free",
     "mushroom-lovers",
     "one-pot",
     "romantic-dinner"
@@ -99,5 +97,9 @@
     "mainIngredient": "mushrooms",
     "descriptor": "kissed creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

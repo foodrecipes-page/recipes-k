@@ -3,8 +3,7 @@
   "description": "This dish features earthy and bouncy chicken satay with a cozy Malaysian twist, using a bain-marie for gentle cooking and Mediterranean-friendly flavors, although hail is not actually used in the recipe as it is not a common or safe ingredient in cooking.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Increase the oven temperature to 400 degrees Fahrenheit and cook for an additional 5 minutes.",
     "Remove the satay from the oven and let it rest for a few minutes before serving.",
     "Serve the satay hot with your choice of sides, such as steamed vegetables or rice.",
-    "Garnish with fresh cilantro or scallions, if desired."
+    "Garnish with fresh cilantro or scallions, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -91,5 +91,10 @@
     "mainIngredient": "chicken",
     "descriptor": "kissed bouncy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

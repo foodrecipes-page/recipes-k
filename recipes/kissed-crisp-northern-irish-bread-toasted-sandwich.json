@@ -2,9 +2,7 @@
   "title": "Kissed Crisp Northern-Irish Bread Toasted Sandwich",
   "description": "A briny, crisp, date-night bread toasted sandwich, inspired by British Northern-Irish cuisine, with a focus on shojin-friendly ingredients and flavors.",
   "cuisine": "British",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -93,5 +91,9 @@
     "mainIngredient": "Bread",
     "descriptor": "Kissed Crisp",
     "dishForm": "Toasted Sandwich"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

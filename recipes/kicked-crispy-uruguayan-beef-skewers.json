@@ -3,8 +3,7 @@
   "description": "A crowd-pleasing Uruguayan dish featuring crispy beef skewers with a sour and glassy-jelly sauce, perfect for a low-carb friendly meal.",
   "cuisine": "Uruguayan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -73,7 +72,6 @@
   "tags": [
     "crowd-pleaser",
     "easy-entertaining",
-    "gluten-free",
     "high-protein",
     "low-carb",
     "uruguayan-cuisine"
@@ -101,5 +99,9 @@
     "mainIngredient": "beef",
     "descriptor": "kicked crispy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

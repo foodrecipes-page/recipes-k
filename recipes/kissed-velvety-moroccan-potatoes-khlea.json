@@ -63,7 +63,8 @@
     "In a small bowl, whisk together the chicken broth, salt, and black pepper.",
     "Remove the potatoes from the oven and pour the chicken broth mixture over the top.",
     "Return the potatoes to the oven and roast for an additional 15 minutes, or until tender.",
-    "Stir in the rendered lardons and serve hot."
+    "Stir in the rendered lardons and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -100,5 +101,9 @@
     "mainIngredient": "potatoes",
     "descriptor": "Kissed Velvety",
     "dishForm": "Khlea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

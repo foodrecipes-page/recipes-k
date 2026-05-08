@@ -65,7 +65,8 @@
     "dot the top of the casserole with 2 tbsp butter, then sprinkle with chopped fresh parsley.",
     "cover claypot with a lid or foil and bake at 375f (190c) for 25 minutes.",
     "remove the lid or foil and bake for an additional 10-15 minutes, or until the top is golden brown.",
-    "remove from oven and let rest for 10 minutes before serving."
+    "remove from oven and let rest for 10 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 45,
@@ -104,5 +105,9 @@
     "mainIngredient": "onion",
     "descriptor": "Kissed with Molten",
     "dishForm": "Casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

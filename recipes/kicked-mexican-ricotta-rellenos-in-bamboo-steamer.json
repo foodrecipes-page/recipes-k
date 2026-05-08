@@ -48,7 +48,7 @@
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
-  "totalTimeMin": 25,
+  "totalTimeMin": 55,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
@@ -81,5 +81,9 @@
     "mainIngredient": "Ricotta",
     "descriptor": "Shattering",
     "dishForm": "Oaxacan Rellenos in Bamboo Steamer"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

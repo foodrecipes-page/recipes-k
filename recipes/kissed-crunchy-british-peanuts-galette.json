@@ -2,10 +2,7 @@
   "title": "Kissed Crunchy British Peanuts Galette",
   "description": "A savory, springy brunch dish featuring peanuts and lamination pastry in a banana-leaf vessel.",
   "cuisine": "british",
-  "diet": [
-    "vegetarian",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -55,8 +52,7 @@
     "british",
     "laminated",
     "peanuts",
-    "spring",
-    "vegan"
+    "spring"
   ],
   "nutrition": {
     "calories": 320,
@@ -81,5 +77,10 @@
     "mainIngredient": "peanuts",
     "descriptor": "kissed crunchy",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

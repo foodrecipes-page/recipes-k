@@ -3,8 +3,7 @@
   "description": "A light and flavorful Jamaican dish featuring succulent shrimp, dark brown soft sugar, and a hint of Mediterranean flair, all perfectly balanced with a touch of wok-hei",
   "cuisine": "Jamaican",
   "diet": [
-    "low-fat",
-    "gluten-free"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "grilled",
     "jamaican",
     "low-fat",
@@ -97,5 +95,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "kissed sweet",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

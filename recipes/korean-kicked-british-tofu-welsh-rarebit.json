@@ -2,10 +2,7 @@
   "title": "Korean Kicked British Tofu Welsh Rarebit",
   "description": "A vegan twist on the classic Welsh rarebit, featuring marinated tofu and spicy kimchi, served on a crispy tava-griddle bread",
   "cuisine": "Fusion",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -79,10 +76,8 @@
   "difficulty": "medium",
   "tags": [
     "british-inspired",
-    "gluten-free",
     "korean-fusion",
     "one-pan",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -108,5 +103,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Korean kicked",
     "dishForm": "Welsh Rarebit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

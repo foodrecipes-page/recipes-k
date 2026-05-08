@@ -3,7 +3,6 @@
   "description": "A citrusy and refreshing Vietnamese dish featuring beef cutlet, perfect for a post-workout meal, with anti-inflammatory friendly ingredients, served in a mason jar.",
   "cuisine": "Vietnamese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "dinner",
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "dairy-free",
-    "gluten-free",
     "high-protein",
     "one-pot",
     "post-workout",
@@ -93,5 +91,9 @@
     "mainIngredient": "beef",
     "descriptor": "kicked citrusy",
     "dishForm": "Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

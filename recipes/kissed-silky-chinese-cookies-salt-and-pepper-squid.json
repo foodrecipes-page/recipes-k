@@ -2,9 +2,7 @@
   "title": "Kissed Silky Chinese Cookies Salt And Pepper Squid",
   "description": "A vegetarian-friendly, herbal, and silky Chinese dish featuring cookies and shio-koji-cure, inspired by Chaozhou cuisine, in the form of salt and pepper squid, cooked in a wok. This dish is perfect for a sick day, with its comforting and soothing flavors.",
   "cuisine": "Chinese",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -80,7 +78,6 @@
     "shio-koji",
     "silky-cookies",
     "squid-inspired",
-    "vegetarian",
     "wok-cooked"
   ],
   "nutrition": {
@@ -106,5 +103,9 @@
     "mainIngredient": "cookies",
     "descriptor": "Kissed Silky",
     "dishForm": "Salt And Pepper Squid"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A fresh, fluffy weeknight Jamaican curry that pairs water chestnuts with a namul-blanch-season and is ayurvedic sattvic friendly.",
   "cuisine": "Jamaican",
   "diet": [
-    "vegan",
     "gluten-free",
     "sattvic"
   ],
@@ -107,5 +106,9 @@
     "mainIngredient": "Water Chestnut",
     "descriptor": "Kissed",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

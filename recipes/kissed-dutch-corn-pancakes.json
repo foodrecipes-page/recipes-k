@@ -2,9 +2,7 @@
   "title": "Kissed Dutch Corn Pancakes",
   "description": "Floral, chewy pancakes with a midnight flare, made with corn flour, whey protein, and a dash of flambe for that Dutch twist.",
   "cuisine": "Dutch",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -75,7 +73,6 @@
   "tags": [
     "dutch",
     "flambe",
-    "gluten-free",
     "high-protein",
     "midnight-craving"
   ],
@@ -102,5 +99,9 @@
     "mainIngredient": "corn",
     "descriptor": "Kissed",
     "dishForm": "Pancakes"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A crowd-pleasing Polish dish featuring a dairy-free cheese pull and herbal notes, perfect for a weeknight dinner. This bake is made with apple cider vinegar and is friendly to dairy-free diets.",
   "cuisine": "Polish",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dinner",
@@ -65,7 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
     "one-pan",
     "polish-cuisine",
     "vegetarian",
@@ -94,5 +92,9 @@
     "mainIngredient": "pierogi",
     "descriptor": "Kissed Golden",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

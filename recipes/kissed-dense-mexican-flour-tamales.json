@@ -68,7 +68,8 @@
     "Fold husk over filling and seal edges by tucking in excess husk.",
     "Arrange wrapped tamales upright in a steamer basket.",
     "Steam tamales for 60 minutes, keeping water level just below basket.",
-    "Remove tamales and let cool 5 minutes before serving."
+    "Remove tamales and let cool 5 minutes before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 60,
@@ -106,5 +107,9 @@
     "mainIngredient": "Flour",
     "descriptor": "Kissed Dense",
     "dishForm": "Tamales"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

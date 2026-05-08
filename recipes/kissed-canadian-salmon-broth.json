@@ -3,8 +3,7 @@
   "description": "A tangy, aerated salmon broth with a splash of sake, smoky heat, and low-sodium flavors served in a Korean brass bowl for a Canadian twist.",
   "cuisine": "Canadian",
   "diet": [
-    "low-sodium",
-    "gluten-free"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -92,5 +91,9 @@
     "mainIngredient": "Salmon",
     "descriptor": "Kissed",
     "dishForm": "Broth"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -59,7 +59,8 @@
     "Spoon about 1 tablespoon of the beef mixture onto the center of each empanada dough round",
     "Brush the edges of the empanada dough with the beaten egg for a golden glaze",
     "Fold the empanada dough in half, pressing the edges together to seal the empanada",
-    "Add the empanadas to the kadhai, cooking for 2-3 minutes on each side, until golden brown"
+    "Add the empanadas to the kadhai, cooking for 2-3 minutes on each side, until golden brown",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -97,5 +98,9 @@
     "mainIngredient": "beef",
     "descriptor": "kindling kissed",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

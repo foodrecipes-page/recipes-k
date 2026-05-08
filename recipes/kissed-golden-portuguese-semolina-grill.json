@@ -3,8 +3,7 @@
   "description": "A traditional Portuguese dish featuring semolina, grilled to perfection in a scallop shell, perfect for a sick day, this resinous and bouncy qq semolina grill is a low carb friendly option",
   "cuisine": "Portuguese",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "grilled-dishes",
     "healthy-lunch",
     "low-carb",
@@ -91,5 +89,9 @@
     "mainIngredient": "semolina",
     "descriptor": "kissed golden",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

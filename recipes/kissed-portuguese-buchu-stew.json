@@ -65,7 +65,8 @@
     "Add the chicken cubes and sear until lightly browned on all sides, about three minutes.",
     "Pour in the chicken broth and then add cauliflower, zucchini, and diced tomatoes, stirring gently.",
     "Seal the pressure cooker, set to high pressure, and cook for five minutes.",
-    "Quick‑release the pressure, stir in the asian chives and buchu leaves, adjust seasoning, and serve hot."
+    "Quick‑release the pressure, stir in the asian chives and buchu leaves, adjust seasoning, and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -103,5 +104,9 @@
     "mainIngredient": "buchu",
     "descriptor": "Kissed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

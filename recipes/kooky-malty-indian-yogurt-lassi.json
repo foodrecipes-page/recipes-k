@@ -3,8 +3,7 @@
   "description": "A malty, flaky, hangover-cure Indian dish featuring creme fraiche, this lassi is an ayurvedic-tamasic-friendly drink, served in a stone bowl dolsot. It is a refreshing and rejuvenating beverage.",
   "cuisine": "Indian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -88,5 +87,9 @@
     "mainIngredient": "yogurt",
     "descriptor": "Kooky Malty",
     "dishForm": "Lassi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

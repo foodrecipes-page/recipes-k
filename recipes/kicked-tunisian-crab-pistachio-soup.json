@@ -27,7 +27,8 @@
     "In a pot, simmer the paste with chicken or vegetable broth until thickened.",
     "Spherify the crab paste using sodium alginate and calcium chloride for texture.",
     "Add pistachios into the soup for added flavor and color.",
-    "Serve hot garnished with fresh herbs."
+    "Serve hot garnished with fresh herbs.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -63,5 +64,9 @@
     "mainIngredient": "Crab",
     "descriptor": "Pistachio",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

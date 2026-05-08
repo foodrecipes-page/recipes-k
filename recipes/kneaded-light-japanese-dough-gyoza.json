@@ -60,7 +60,8 @@
     "Fold the dough over the filling to form a half moon shape and press the edges together to seal.",
     "Heat a large skillet with 1 tablespoon of sesame oil over medium high heat.",
     "Pan fry the gyoza until they are golden brown on the bottom.",
-    "Add 1/4 cup of water to the skillet and cover with a lid to steam the gyoza for 2 minutes."
+    "Add 1/4 cup of water to the skillet and cover with a lid to steam the gyoza for 2 minutes.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -97,5 +98,9 @@
     "mainIngredient": "dough",
     "descriptor": "kneaded light",
     "dishForm": "Gyoza"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "A pungent and fluffy dish, perfect for post-workout British cuisine lovers, featuring perilla-seed-deulkkae and binchotan-charcoal.",
   "cuisine": "British",
   "diet": [
-    "vegetarian",
     "anti-inflammatory",
     "gluten-free"
   ],
@@ -108,5 +107,9 @@
     "mainIngredient": "perilla-seed-deulkkae",
     "descriptor": "kissed, fluffy",
     "dishForm": "Bangers and Mash"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

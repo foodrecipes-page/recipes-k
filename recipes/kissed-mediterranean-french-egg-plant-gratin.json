@@ -3,8 +3,7 @@
   "description": "A romantic French dish featuring egg plants, pasta-water-emulsion, and Mediterranean-friendly ingredients, cooked in a cataplana vessel to create a jammy and chewy texture.",
   "cuisine": "French",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -96,5 +95,9 @@
     "mainIngredient": "egg plants",
     "descriptor": "Kissed Mediterranean",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

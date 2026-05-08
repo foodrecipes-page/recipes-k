@@ -2,9 +2,7 @@
   "title": "Kissed Juicy Uruguayan Strawberry Bake",
   "description": "A quick-fix Uruguayan dish featuring strawberries, with a hint of mustard and a wood-fired bake, perfect for a vegan-friendly dessert. This recipe combines the sweetness of strawberries with the tanginess of mustard.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dessert",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "strawberries",
     "descriptor": "kissed juicy",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

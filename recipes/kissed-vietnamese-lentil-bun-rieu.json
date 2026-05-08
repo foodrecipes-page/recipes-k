@@ -89,7 +89,8 @@
     "Season the mixture with salt and pepper to taste. ",
     "Stir in the chopped scallions. ",
     "Serve the lentil mixture over steamed rice or noodles, garnished with additional scallions if desired.",
-    "Serve hot and enjoy!"
+    "Serve hot and enjoy!",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -126,5 +127,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Sweet",
     "dishForm": "Bun-Rieu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

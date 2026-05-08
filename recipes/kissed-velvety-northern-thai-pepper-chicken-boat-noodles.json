@@ -63,7 +63,8 @@
     "Add cooked noodles to the skillet and stir to combine with the chicken and sauce.",
     "Serve the noodles in small boat-shaped bowls and garnish with chopped cilantro.",
     "Serve immediately and enjoy.",
-    "Refrigerate or freeze any leftovers for later use."
+    "Refrigerate or freeze any leftovers for later use.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "pepper chicken",
     "descriptor": "kissed velvety",
     "dishForm": "Boat Noodles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

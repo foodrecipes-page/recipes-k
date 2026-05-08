@@ -2,9 +2,7 @@
   "title": "Kissed Norwegian Lutefisk Bouillabaisse",
   "description": "A fresh, crumbly, adventurous Norwegian dish featuring peanut oil, temper, and Ayurvedic-Rajasic-friendly ingredients.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -105,5 +103,9 @@
     "mainIngredient": "Lutefisk",
     "descriptor": "Kissed",
     "dishForm": "Bouillabaisse"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

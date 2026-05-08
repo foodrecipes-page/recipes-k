@@ -2,10 +2,7 @@
   "title": "Kissed with vinegar Norwegian fish Gratin",
   "description": "Tangy, molten, kid-friendly Norwegian dish featuring vinegar, broil, satvik-friendly ingredients. Easy to make and fun to eat.",
   "cuisine": "Norwegian",
-  "diet": [
-    "vegetarian",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -95,5 +92,10 @@
     "mainIngredient": "fish",
     "descriptor": "Kissed with vinegar",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

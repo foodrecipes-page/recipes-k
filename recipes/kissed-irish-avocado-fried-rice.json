@@ -3,8 +3,6 @@
   "description": "a creamy, crispy, crowd-pleasing irish dish that's perfect for brunch or a weeknight dinner. made with hass avocado pulp and dairy-free friendly.",
   "cuisine": "irish",
   "diet": [
-    "dairy-free",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "breakfast",
@@ -106,5 +104,10 @@
     "mainIngredient": "avocado",
     "descriptor": "kissed",
     "dishForm": "Fried-Rice"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-dairy-free"
+  ]
 }

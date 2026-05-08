@@ -4,7 +4,6 @@
   "cuisine": "Moroccan",
   "diet": [
     "Whole30",
-    "gluten-free",
     "paleo"
   ],
   "meal": "dessert",
@@ -68,7 +67,6 @@
   "servings": 12,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "middle-eastern",
     "moroccan-desserts",
     "paleo-friendly",
@@ -98,5 +96,9 @@
     "mainIngredient": "pistachio",
     "descriptor": "kneaded light",
     "dishForm": "Chebakia"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

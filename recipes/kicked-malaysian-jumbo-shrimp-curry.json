@@ -3,8 +3,7 @@
   "description": "A spicy and fluffy Malaysian dish featuring jumbo shrimp, simmered in a rich and aromatic curry sauce, served in a Korean brass bowl.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
   "difficulty": "medium",
   "tags": [
     "curry",
-    "dairy-free",
     "gluten-free",
     "malaysian",
     "one-pot",
@@ -97,5 +95,9 @@
     "mainIngredient": "jumbo shrimp",
     "descriptor": "kicked spicy fluffy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

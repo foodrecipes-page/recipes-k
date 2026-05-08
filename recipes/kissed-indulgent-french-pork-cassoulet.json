@@ -59,7 +59,8 @@
     "Add the white beans to the bowl and stir to combine.",
     "Transfer the mixture to a 9x13 inch baking dish and cover with aluminum foil.",
     "Bake for 2 hours, then remove the foil and bake for an additional 30 minutes, until the top is lightly browned.",
-    "Remove from the oven and let rest for 10 minutes before serving."
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -96,5 +97,9 @@
     "mainIngredient": "pork",
     "descriptor": "Kissed Indulgent",
     "dishForm": "Cassoulet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

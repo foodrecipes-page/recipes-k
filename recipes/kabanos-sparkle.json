@@ -3,9 +3,7 @@
   "description": "A light and smoky Italian dish featuring kabanos sausages, reduced in flavor to be raw-friendly.",
   "cuisine": "Italian",
   "diet": [
-    "gluten-free",
-    "vegan",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "snack",
   "ingredients": [
@@ -35,7 +33,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 400\u00b0F (200\u00b0C).",
+    "Preheat oven to 400°F (200°C).",
     "In a large bowl, mix kabanos sausages, olive oil, minced garlic, and sliced peppers. Toss until well combined.",
     "Transfer the mixture onto a baking sheet lined with parchment paper or aluminum foil for easy cleanup.",
     "Drizzle with additional olive oil if desired to enhance flavor.",
@@ -72,5 +70,10 @@
     "primaryIngredient": "kabanos sausages",
     "diet": "raw",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-pescatarian"
+  ]
 }

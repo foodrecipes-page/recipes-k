@@ -3,8 +3,7 @@
   "description": "jammy, chewy, energizing dish featuring sake-cooking and egg-free-friendly alternatives, perfect for breakfast or brunch",
   "cuisine": "portuguese",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -61,7 +60,6 @@
   "tags": [
     "breakfast",
     "eggs-free",
-    "gluten-free",
     "portuguese",
     "vegetarian"
   ],
@@ -88,5 +86,9 @@
     "mainIngredient": "eggs",
     "descriptor": "kissed",
     "dishForm": "frittata"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

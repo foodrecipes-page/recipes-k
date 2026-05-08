@@ -2,9 +2,7 @@
   "title": "Kissed Bitter Filipino Pork Bake",
   "description": "A halal-friendly Filipino dish featuring bitter notes and rum, quickly baked to perfection on a binchotan grill.",
   "cuisine": "Filipino",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "pork",
     "descriptor": "Kissed Bitter",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

@@ -70,11 +70,15 @@
     "mood": "lazy-sunday",
     "technique": "fry",
     "primaryIngredient": "italian seasoning",
-    "diet": "keto",
+    "diet": "ketogenic",
     "region": null,
     "cuisineAdjective": "Mexican",
     "mainIngredient": "Butter",
     "descriptor": "Keto-friendly",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

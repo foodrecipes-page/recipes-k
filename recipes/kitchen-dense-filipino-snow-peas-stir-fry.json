@@ -2,10 +2,7 @@
   "title": "Kitchen Dense Filipino Snow Peas Stir Fry",
   "description": "A malty, dense, and comforting Filipino dish featuring snow peas, served in a Korean brass bowl, with anti-inflammatory friendly ingredients.",
   "cuisine": "Filipino",
-  "diet": [
-    "gluten-free",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -70,9 +67,7 @@
   "difficulty": "easy",
   "tags": [
     "anti-inflammatory",
-    "gluten-free",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -98,5 +93,10 @@
     "mainIngredient": "snow peas",
     "descriptor": "kitchen dense",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

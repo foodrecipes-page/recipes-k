@@ -3,8 +3,7 @@
   "description": "A flavorful and spicy Malaysian dish featuring chicken satay cooked in a mixture of spices and wrapped in pandan leaves, this recipe is a unique blend of grassy and shattering flavors, with the crunch of raw-friendly ingredients and the aroma of tandoor, all in one pot, using pandan leaf wraps as the vessel.",
   "cuisine": "Malaysian",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -89,5 +88,9 @@
     "mainIngredient": "chicken",
     "descriptor": "kissed spicy",
     "dishForm": "Satay"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

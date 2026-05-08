@@ -65,7 +65,8 @@
     "Add a layer of cooked pork on top of the pickled vegetables.",
     "Sprinkle chopped cilantro on top of the pork.",
     "Drizzle with fish sauce and sriracha, if using.",
-    "Top with the top half of the baguette and serve on a wooden board."
+    "Top with the top half of the baguette and serve on a wooden board.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 12,
@@ -103,5 +104,9 @@
     "mainIngredient": "pork",
     "descriptor": "kissed creamy",
     "dishForm": "Banh Mi"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

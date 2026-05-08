@@ -61,7 +61,8 @@
     "Add the haricot beans, chicken broth, and lemon juice to the saucepan, and bring the mixture to a simmer.",
     "Reduce the heat to low and let the tagine simmer, covered, for 20 minutes, or until the flavors have melded together and the beans are tender.",
     "Remove the saucepan from the heat and let it cool slightly before serving.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -98,5 +99,9 @@
     "mainIngredient": "haricot beans",
     "descriptor": "keto friendly",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -62,7 +62,8 @@
     "Transfer the chicken mixture to a clay tagine.",
     "Cover the tagine and cook over low heat for 20 minutes.",
     "Stir in the full fat yogurt and cook for an additional 5 minutes.",
-    "Serve the chicken hot, garnished with chopped fresh cilantro."
+    "Serve the chicken hot, garnished with chopped fresh cilantro.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +101,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed Crispy",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

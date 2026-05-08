@@ -2,9 +2,7 @@
   "title": "Kabse Crunchy Vegan Snack",
   "description": "This Argentinian snack combines fermented kabse spice with crunchy textures and is vegan-friendly, perfect for a quick breakfast or snack.",
   "cuisine": "Argentinean",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -42,8 +40,7 @@
     "kabbelella",
     "fermented",
     "crunchy",
-    "argentinian",
-    "vegan"
+    "argentinian"
   ],
   "nutrition": {
     "calories": 75,
@@ -64,5 +61,9 @@
     "primaryIngredient": "kabse spice",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

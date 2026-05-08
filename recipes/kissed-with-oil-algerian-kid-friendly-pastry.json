@@ -58,7 +58,8 @@
     "Fold the other half of the pastry over the filling, pressing edges to seal.",
     "Brush tops of pastry with olive oil and place on a baking sheet lined with parchment paper.",
     "Bake in preheated oven for 20-25 minutes, or until golden brown.",
-    "Serve hot, garnished with chopped fresh parsley."
+    "Serve hot, garnished with chopped fresh parsley.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 25,
@@ -95,5 +96,9 @@
     "mainIngredient": "Kid-Friendly",
     "descriptor": "Kissed with Oil",
     "dishForm": "Pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

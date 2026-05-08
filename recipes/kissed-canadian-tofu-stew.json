@@ -3,7 +3,6 @@
   "description": "A garlicky, tender stew that blends Canadian maple sweetness with fennel seed warmth, featuring double-fried tofu and simmered in a claypot for a romantic, jain-friendly meal.",
   "cuisine": "Canadian",
   "diet": [
-    "vegan",
     "jain-friendly"
   ],
   "meal": "dinner",
@@ -77,8 +76,7 @@
     "double-fry",
     "garlicky",
     "jain-friendly",
-    "romantic",
-    "vegan"
+    "romantic"
   ],
   "nutrition": {
     "calories": 368,
@@ -103,5 +101,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Kissed",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

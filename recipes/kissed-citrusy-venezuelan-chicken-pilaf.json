@@ -60,7 +60,8 @@
     "Bring the mixture to a boil, then reduce the heat to low and cover the saucepan.",
     "Transfer the saucepan to a bain-marie and cook for 20 minutes.",
     "Stir in the chopped parsley and lemon zest.",
-    "Fluff the pilaf with a fork and serve hot."
+    "Fluff the pilaf with a fork and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +100,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed citrusy",
     "dishForm": "Pilaf"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

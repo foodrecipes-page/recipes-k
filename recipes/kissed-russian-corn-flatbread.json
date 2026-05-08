@@ -3,8 +3,7 @@
   "description": "A resinous, aerated flatbread that soothes hangovers, featuring a corn arepa base filled with gooey mozzarella and a fragrant bhuna spice blend.",
   "cuisine": "Russian",
   "diet": [
-    "egg-free",
-    "gluten-free"
+    "egg-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -70,7 +69,6 @@
     "corn",
     "dairy",
     "easy",
-    "gluten-free",
     "hangover-cure",
     "quick"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "corn",
     "descriptor": "Kissed",
     "dishForm": "Flatbread"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

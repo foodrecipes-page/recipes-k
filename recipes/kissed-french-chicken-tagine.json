@@ -76,7 +76,8 @@
     "Stir in tomato paste, coco sugar and the remaining spices until fragrant, 1 minute.",
     "Return the chicken to the pot, pour in chicken broth, bring to a simmer, cover, and bake for 20 minutes.",
     "Meanwhile, rinse the couscous and steam it in a separate pot for 5 minutes; fluff with a fork.",
-    "Serve the chicken over couscous, garnish with parsley, and enjoy."
+    "Serve the chicken over couscous, garnish with parsley, and enjoy.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,
@@ -113,5 +114,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kissed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

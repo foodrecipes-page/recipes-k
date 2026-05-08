@@ -2,9 +2,7 @@
   "title": "Kissed Smoky French Cheese Gratin",
   "description": "A smoky, cheesy French dish from the Alsace region, featuring canned tomatoes and bonito flakes, cooked in a donabe vessel. This Buddhist-temple-friendly recipe is perfect for a cold winter's night.",
   "cuisine": "French",
-  "diet": [
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -99,5 +97,9 @@
     "mainIngredient": "cheese",
     "descriptor": "Kissed Smoky",
     "dishForm": "Gratin"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

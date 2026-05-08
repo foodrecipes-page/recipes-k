@@ -3,8 +3,7 @@
   "description": "A rich and spicy one-pot Jamaican dish featuring kaffir-lime-leaf and a hint of sweetness, this curry is perfect for those who like a little kick in their meal. It is made with chicken, curry powder, and a blend of spices.",
   "cuisine": "Jamaican",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Pour in the coconut milk and add the brown sugar, stirring to combine.",
     "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
     "Remove the kaffir-lime-leaf and serve hot over rice or with roti.",
-    "Garnish with chopped fresh cilantro, if desired."
+    "Garnish with chopped fresh cilantro, if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -100,5 +100,10 @@
     "mainIngredient": "chicken",
     "descriptor": "kicked spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

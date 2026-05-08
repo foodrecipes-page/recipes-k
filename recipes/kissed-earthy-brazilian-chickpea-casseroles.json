@@ -3,8 +3,7 @@
   "description": "Earthy, fluffy Brazilian dish featuring chickpea flour, perfect for meal prep, and egg-free-friendly, baked in individual mini cocottes. This recipe combines the richness of Brazilian cuisine with the convenience of a casserole.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -67,7 +66,6 @@
     "brazilian-food",
     "chickpea-flour",
     "egg-free",
-    "gluten-free",
     "meal-prep",
     "vegetarian"
   ],
@@ -94,5 +92,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "kissed earthy",
     "dishForm": "Casseroles"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

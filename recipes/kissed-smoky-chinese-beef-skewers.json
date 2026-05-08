@@ -3,8 +3,7 @@
   "description": "A yeasty, molten, show-off Chinese dish featuring beef stock, miso-marinate, and low-calorie-friendly ingredients, grilled to perfection on a binchotan-grill.",
   "cuisine": "Chinese",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,6 @@
   "tags": [
     "beef",
     "chinese",
-    "gluten-free",
     "grilled",
     "low-calorie",
     "skewers"
@@ -90,5 +88,9 @@
     "mainIngredient": "beef",
     "descriptor": "Kissed Smoky",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

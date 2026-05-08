@@ -3,8 +3,7 @@
   "description": "A light and refreshing salad featuring danmuji, with a kick of mustard, perfect for a crunchy snack. This dish is egg-free and friendly for various diets.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -65,15 +64,13 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 0,
-  "totalTimeMin": 50,
+  "totalTimeMin": 20,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "gluten-free",
     "healthy-snack",
     "korean-food",
     "quick-snack",
-    "vegan",
     "vegetarian"
   ],
   "nutrition": {
@@ -99,5 +96,11 @@
     "mainIngredient": "danmuji",
     "descriptor": "kicky crunchy",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free",
+    "recomputed-totalTime"
+  ]
 }

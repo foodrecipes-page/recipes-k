@@ -81,7 +81,6 @@
   "difficulty": "medium",
   "tags": [
     "energizing",
-    "gluten-free",
     "steamed",
     "vegan",
     "whole30-friendly"
@@ -109,5 +108,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Kinetic",
     "dishForm": "Banh Cuon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

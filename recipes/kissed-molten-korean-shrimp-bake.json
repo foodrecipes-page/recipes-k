@@ -3,8 +3,7 @@
   "description": "A high-protein weeknight Korean dish featuring shrimp in a resinous and molten sauce, baked to perfection. This dish is perfect for a quick and flavorful dinner.",
   "cuisine": "Korean",
   "diet": [
-    "high-protein",
-    "gluten-free"
+    "high-protein"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -91,5 +90,9 @@
     "mainIngredient": "shrimp",
     "descriptor": "Kissed Molten",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

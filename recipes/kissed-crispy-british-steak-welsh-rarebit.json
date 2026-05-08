@@ -3,7 +3,6 @@
   "description": "A rich and indulgent British dish featuring crispy fillet of steak, served with a creamy Welsh rarebit sauce, perfect for a special occasion dinner.",
   "cuisine": "British",
   "diet": [
-    "gluten-free",
     "egg-free"
   ],
   "meal": "dinner",
@@ -95,5 +94,9 @@
     "mainIngredient": "steak",
     "descriptor": "Kissed Crispy",
     "dishForm": "Welsh Rarebit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

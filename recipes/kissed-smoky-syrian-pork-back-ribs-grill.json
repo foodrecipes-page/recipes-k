@@ -61,7 +61,7 @@
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 2,
-  "totalTimeMin": 2,
+  "totalTimeMin": 22,
   "servings": 4,
   "difficulty": "hard",
   "tags": [
@@ -95,5 +95,9 @@
     "mainIngredient": "pork back ribs",
     "descriptor": "kissed smoky",
     "dishForm": "grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

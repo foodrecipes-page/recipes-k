@@ -3,7 +3,6 @@
   "description": "Sweet and crunchy Japanese dish featuring lamb mince, perfect for a brunch mood, made in individual mini cocottes and cooked to perfection in a tandoor, following ayurvedic sattvic friendly principles",
   "cuisine": "Japanese",
   "diet": [
-    "gluten-free",
     "dairy-free"
   ],
   "meal": "lunch",
@@ -65,7 +64,6 @@
   "tags": [
     "brunch-ideas",
     "dairy-free",
-    "gluten-free",
     "japanese-inspired",
     "lamb-recipes",
     "tandoor-cooking"
@@ -93,5 +91,9 @@
     "mainIngredient": "lamb",
     "descriptor": "kissed crunchy",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

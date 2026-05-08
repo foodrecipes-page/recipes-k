@@ -51,7 +51,8 @@
     "Brush the edges of the pastry dough with the beaten egg.",
     "Fold the other half of the pastry dough over the meat mixture and press the edges to seal.",
     "Place the pastry in a copper mug and bake for 25 minutes, or until the pastry is golden brown.",
-    "Remove the pastry from the oven and let it cool for 5 minutes before serving."
+    "Remove the pastry from the oven and let it cool for 5 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -88,5 +89,9 @@
     "mainIngredient": "meat",
     "descriptor": "kissed flaky",
     "dishForm": "Pastry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

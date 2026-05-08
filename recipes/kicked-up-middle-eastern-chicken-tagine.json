@@ -3,7 +3,6 @@
   "description": "A fresh and snappy Middle Eastern dish featuring chicken, castelvetrano olives, and puff pastry, made in a traditional tagine pot and suitable for a sick day.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "gluten-free",
     "ayurvedic"
   ],
   "meal": "dinner",
@@ -63,7 +62,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "middle-eastern",
     "one-pot",
     "weeknight"
@@ -91,5 +89,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Kicked Up",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

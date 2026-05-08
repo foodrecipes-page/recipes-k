@@ -91,7 +91,6 @@
   "difficulty": "hard",
   "tags": [
     "breakfast",
-    "gluten-free",
     "irish",
     "one-pan",
     "special-occasion",
@@ -120,5 +119,9 @@
     "mainIngredient": "creme-patissiere",
     "descriptor": "kissed silky malty",
     "dishForm": "paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

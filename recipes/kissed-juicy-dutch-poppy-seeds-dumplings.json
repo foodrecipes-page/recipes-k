@@ -3,7 +3,6 @@
   "description": "A traditional Dutch dish featuring ground poppy seeds, these dumplings are cooked in a bain-marie to create a fatty and juicy treat, rich in anti-inflammatory properties. Perfect for special occasions and festivals.",
   "cuisine": "Dutch",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -89,5 +88,9 @@
     "mainIngredient": "poppy seeds",
     "descriptor": "Kissed Juicy",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:06Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

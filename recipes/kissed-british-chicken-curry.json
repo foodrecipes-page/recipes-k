@@ -75,7 +75,8 @@
     "While the curry simmers, prepare the tadka: heat oil in a small skillet, add cumin and mustard seeds until they pop, then pour over the simmering curry.",
     "Stir in lime juice, adjust salt to taste, and sprinkle chopped cilantro.",
     "Reduce heat and let the sauce thicken, stirring occasionally, for an additional 5 minutes.",
-    "Serve hot over steamed rice or flatbread, garnishing with extra cilantro if desired."
+    "Serve hot over steamed rice or flatbread, garnishing with extra cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 30,
@@ -112,5 +113,9 @@
     "mainIngredient": "Chicken",
     "descriptor": "Kissed",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -51,7 +51,8 @@
     "Add the agave syrup, hot sauce, garlic powder, onion powder, salt, and black pepper to the skillet and stir to combine",
     "Drain the cooked penne rigate and add it to the skillet, tossing to combine with the beef mixture",
     "Reduce heat to low and simmer for 5 minutes",
-    "Serve hot, garnished with chopped fresh herbs if desired"
+    "Serve hot, garnished with chopped fresh herbs if desired",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -89,5 +90,9 @@
     "mainIngredient": "penne rigate",
     "descriptor": "kicked spicy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }
