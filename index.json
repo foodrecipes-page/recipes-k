@@ -1085,6 +1085,21 @@
     "shard": "k"
   },
   {
+    "slug": "kickin-irish-lamb-stew",
+    "title": "Kickin Irish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "irish-food",
+      "lamb-recipes",
+      "low-carb",
+      "one-pot",
+      "quick-meals"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kickin-smoky-jamaican-dried-shrimp-curry",
     "title": "Kickin Smoky Jamaican Dried Shrimp Curry",
     "tags": [
@@ -6876,6 +6891,20 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 120,
+    "shard": "k"
+  },
+  {
+    "slug": "knobby-crisp-dutch-provola-sandwich",
+    "title": "Knobby Crisp Dutch Provolone Sandwich",
+    "tags": [
+      "crunchy-snack",
+      "dutch-cuisine",
+      "lazy-sunday",
+      "shojin-friendly",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {

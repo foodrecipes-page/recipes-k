@@ -1,0 +1,99 @@
+{
+  "title": "Knobby Crisp Dutch Provolone Sandwich",
+  "description": "A tangy and crisp Dutch dish featuring provolone, perfect for a lazy Sunday, and suitable for a shojin-friendly diet. The brine-wet ingredients add a unique flavor to the sandwich.",
+  "cuisine": "Dutch",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "provolone cheese",
+      "amount": "8 slices",
+      "notes": "preferably Dutch provola"
+    },
+    {
+      "name": "crusty bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup",
+      "notes": "sliced and brine-wet"
+    },
+    {
+      "name": "arugula",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a panini press or grill to medium-high heat.",
+    "Butter one side of each bread slice.",
+    "Place one slice of bread, butter-side down, in the panini press.",
+    "Top with a slice of provolone cheese, a few slices of pickle, some arugula, cherry tomatoes, and red onion.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Place another slice of bread, butter-side up, on top of the filling.",
+    "Close the panini press and cook for 3-4 minutes, or until the bread is golden brown and the cheese is melted.",
+    "Repeat with the remaining ingredients.",
+    "Cut the sandwiches in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-snack",
+    "dutch-cuisine",
+    "lazy-sunday",
+    "shojin-friendly",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "knobby-crisp-dutch-provola-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-crisp-dutch-provola-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:45:41Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "brine-wet",
+    "primaryIngredient": "provola",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "provola",
+    "descriptor": "knobby crisp",
+    "dishForm": "Sandwich"
+  }
+}
