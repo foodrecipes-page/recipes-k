@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Tender Saudi Arabian Onion Rings Kebabs",
+  "description": "A quick-fix Saudi Arabian dish featuring tender onion rings, this recipe is a briny and flavorful addition to any meal, and is FODMAP friendly. The onion rings are marinated in a mixture of olive oil, lemon juice, and spices, then grilled to perfection.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced into 1/2 inch thick rings"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, salt, black pepper, cumin, coriander, and paprika.",
+    "Add sliced onion rings to the bowl and toss to coat with the marinade.",
+    "Thread 2-3 onion rings onto each skewer, leaving a small space between each ring.",
+    "Grill the onion rings for 3-4 minutes per side, or until tender and lightly charred.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve with a side of tahini sauce or yogurt sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fodmap-friendly",
+    "grilled",
+    "kebabs",
+    "onion-rings",
+    "quick-fix",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "kissed-tender-saudi-arabian-onion-rings-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-saudi-arabian-onion-rings-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:39:30Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "grill",
+    "primaryIngredient": "onion rings",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "onion rings",
+    "descriptor": "kissed tender",
+    "dishForm": "Kebabs"
+  }
+}
