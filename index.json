@@ -480,6 +480,21 @@
     "shard": "k"
   },
   {
+    "slug": "kettle-simmered-german-beef-stew",
+    "title": "Kettle Simmered German Beef Stew",
+    "tags": [
+      "comfort-food",
+      "german-cuisine",
+      "hearty-stew",
+      "jain-friendly",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "khao-soi-style-garlic-crusty-thai-chicken-curried-noodle-bake",
     "title": "Khao-soi Style Garlic Crusty Thai Chicken Curried Noodle Bake",
     "tags": [
