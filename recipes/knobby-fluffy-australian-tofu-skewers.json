@@ -1,0 +1,98 @@
+{
+  "title": "Knobby Fluffy Australian Tofu Skewers",
+  "description": "Savory fluffy Australian dish featuring hojicha and marinate, perfect for a festive shojin-friendly meal, these skewers are a delight to eat and fun to make.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "hojicha powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "Whisk together hojicha powder, soy sauce, maple syrup, rice vinegar, garlic, and ginger in a large bowl.",
+    "Add the cubed tofu to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated tofu onto the bamboo skewers.",
+    "Brush the skewers with sesame oil.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Serve the skewers hot, garnished with sesame seeds and chopped scallions."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "festive",
+    "grilled",
+    "shojin-friendly",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "knobby-fluffy-australian-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-fluffy-australian-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:18:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "marinate",
+    "primaryIngredient": "hojicha",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "knobby fluffy",
+    "dishForm": "Skewers"
+  }
+}

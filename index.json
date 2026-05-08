@@ -5950,6 +5950,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-savory-brazilian-sea-bass-skewers",
+    "title": "Kissed Savory Brazilian Sea Bass Skewers",
+    "tags": [
+      "brazilian-cuisine",
+      "cedar-plank",
+      "gluten-free",
+      "grilled",
+      "low-sodium",
+      "seafood"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-shandong-fish-bao",
     "title": "Kissed Shandong Fish Bao",
     "tags": [
@@ -8392,6 +8407,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 90,
+    "shard": "k"
+  },
+  {
+    "slug": "knobby-fluffy-australian-tofu-skewers",
+    "title": "Knobby Fluffy Australian Tofu Skewers",
+    "tags": [
+      "australian",
+      "festive",
+      "grilled",
+      "shojin-friendly",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

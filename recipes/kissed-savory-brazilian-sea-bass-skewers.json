@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Savory Brazilian Sea Bass Skewers",
+  "description": "A savory and snappy Brazilian dish featuring sea bass fillets, poached to perfection on a cedar plank, with a blend of monsoon Brazilian flavors. This low-sodium-friendly recipe is perfect for a dinner party.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-sodium",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4 fillets",
+      "notes": "6 ounces each"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4 planks",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a small bowl, whisk together lime juice, olive oil, garlic, ginger, cumin, and paprika.",
+    "Place the sea bass fillets on the soaked cedar planks.",
+    "Brush the lime juice mixture evenly over both sides of the sea bass fillets.",
+    "Season with salt and pepper to taste.",
+    "Place the cedar planks on the grill and cook for 8-10 minutes per side, or until the fish is cooked through.",
+    "Remove the sea bass from the grill and let it rest for 2 minutes.",
+    "Serve the sea bass hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "cedar-plank",
+    "gluten-free",
+    "grilled",
+    "low-sodium",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "slug": "kissed-savory-brazilian-sea-bass-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-savory-brazilian-sea-bass-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:19:10Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "poach",
+    "primaryIngredient": "sea bass fillets",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "sea bass",
+    "descriptor": "kissed savory",
+    "dishForm": "Skewers"
+  }
+}
