@@ -1,0 +1,91 @@
+{
+  "title": "Knotted Crunchy Uruguayan Bread Empanadas",
+  "description": "A traditional Uruguayan dish featuring strong white bread flour and clay pot cooking, these empanadas are perfect for a snack or light meal. They are shojin friendly and offer a unique crunchy texture.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "strong white bread flour",
+      "amount": "2 cups",
+      "notes": "high protein content"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "filling of choice",
+      "amount": "1 cup",
+      "notes": "e.g. cheese, beans, or vegetables"
+    }
+  ],
+  "instructions": [
+    "Combine flour, salt, sugar, and yeast in a large mixing bowl.",
+    "Gradually add olive oil and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour.",
+    "Preheat the clay pot to 400 degrees Fahrenheit.",
+    "Divide the dough into 8 equal pieces and roll each into a ball.",
+    "Flatten each ball into a disk and place a tablespoon of filling in the center.",
+    "Fold the dough over the filling and knot the top to seal the empanada.",
+    "Place the empanadas in the preheated clay pot and cook for 20 minutes.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "crunchy-snack",
+    "homemade-empanadas",
+    "shojin-friendly",
+    "uruguayan-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "knotted-crunchy-uruguayan-bread-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-crunchy-uruguayan-bread-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:17:10Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "show-off",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "strong white bread flour",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bread",
+    "descriptor": "Knotted Crunchy",
+    "dishForm": "Empanadas"
+  }
+}
