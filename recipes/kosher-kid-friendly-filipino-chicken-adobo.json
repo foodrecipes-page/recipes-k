@@ -1,0 +1,96 @@
+{
+  "title": "Kosher Kid Friendly Filipino Chicken Adobo",
+  "description": "A kid-friendly version of the classic Filipino dish, made with kosher ingredients and a sweet and tangy barbecue sauce, simmered to perfection in a Dutch oven.",
+  "cuisine": "Filipino",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "kosher barbecue sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the minced garlic to the pot and cook until fragrant, about 1 minute.",
+    "Add the barbecue sauce, vinegar, soy sauce, brown sugar, pepper, and salt to the pot, stirring to combine.",
+    "Bring the sauce to a boil, then reduce the heat to medium-low and simmer for 10 minutes.",
+    "Return the chicken to the pot and simmer, covered, until the chicken is cooked through and the sauce has thickened, about 20 minutes.",
+    "Serve the chicken and sauce over rice or noodles.",
+    "Garnish with sliced green onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dutch-oven-recipes",
+    "filipino-food",
+    "kid-friendly",
+    "kosher-recipes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kosher-kid-friendly-filipino-chicken-adobo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-kid-friendly-filipino-chicken-adobo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:53:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "barbeque sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kid-friendly",
+    "dishForm": "Adobo"
+  }
+}
