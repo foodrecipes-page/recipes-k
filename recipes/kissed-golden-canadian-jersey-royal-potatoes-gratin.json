@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Golden Canadian Jersey Royal Potatoes Gratin",
+  "description": "A festive Canadian dish featuring Jersey Royal potatoes in a rich and creamy herbal gratin, perfect for special occasions. This recipe combines the flavors of cheese, herbs, and potatoes in a delicious papillote-style dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "1 1/2 pounds",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them, then bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the potatoes for 5 minutes, or until they are slightly tender.",
+    "Drain the potatoes and set them aside.",
+    "In a small saucepan, melt the butter over medium heat, then add the chopped rosemary and cook for 1 minute, or until fragrant.",
+    "Add the minced garlic to the saucepan and cook for 1 minute, or until fragrant.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes, then sprinkle with some of the shredded gruyere cheese and drizzle with some of the heavy cream.",
+    "Repeat the layers two more times, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for 20 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "cheesy-dishes",
+    "herbal-recipes",
+    "potato-gratin",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "kissed-golden-canadian-jersey-royal-potatoes-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-canadian-jersey-royal-potatoes-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:47:24Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "festive",
+    "technique": "papillote",
+    "primaryIngredient": "jersey royal potatoes",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Jersey Royal Potatoes",
+    "descriptor": "Kissed Golden",
+    "dishForm": "Gratin"
+  }
+}
