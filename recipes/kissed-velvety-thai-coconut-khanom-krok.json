@@ -1,0 +1,87 @@
+{
+  "title": "Kissed Velvety Thai Coconut Khanom Krok",
+  "description": "Smoky, velvety, indulgent Thai dessert featuring demerara sugar, pressure-cooked to perfection, diabetic-friendly due to portion control and sugar content.",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "demerara sugar",
+      "amount": "1 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pandan extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the pressure cooker to 10 psi.",
+    "In a blender, combine coconut milk, demerara sugar, eggs, rice flour, pandan extract, and salt, blending until smooth.",
+    "Pour the mixture into small cups or molds.",
+    "Place the cups in the pressure cooker, leaving 1 inch of space between each.",
+    "Close the lid and cook for 5 minutes.",
+    "Let the pressure release naturally, then open the lid.",
+    "Top each khanom krok with unsweetened shredded coconut.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "diabetic-friendly",
+    "indulgent",
+    "pressure-cooker",
+    "smoky",
+    "thai-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "kissed-velvety-thai-coconut-khanom-krok",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-thai-coconut-khanom-krok",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:55:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "pressure-cook",
+    "primaryIngredient": "demerara sugar",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "Kissed Velvety",
+    "dishForm": "Khanom Krok"
+  }
+}
