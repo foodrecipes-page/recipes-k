@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Dense Middle Eastern Lamb Shakshuka",
+  "description": "A rich and flavorful one-pot Middle Eastern dish featuring lamb, fennel seeds, and a sweet glaze, perfect for a hearty dinner. This recipe is low in glycemic index and packed with umami flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, cut into 1-inch cubes"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the fennel seeds, salt, and black pepper, and cook for 1 minute.",
+    "Add the canned crushed tomatoes, pomegranate molasses, and 1/4 cup of water, and stir to combine.",
+    "Bring the mixture to a simmer and cook, covered, for 20 minutes, stirring occasionally.",
+    "Make 4 wells in the mixture and crack an egg into each well.",
+    "Cover the skillet and cook until the eggs are cooked to desired doneness, about 5-7 minutes.",
+    "Serve the shakshuka hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "hearty",
+    "lamb",
+    "low-glycemic",
+    "middle-eastern",
+    "one-pot",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-dense-middle-eastern-lamb-shakshuka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dense-middle-eastern-lamb-shakshuka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:22:32Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "fennel seeds",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Dense",
+    "dishForm": "Shakshuka"
+  }
+}

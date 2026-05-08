@@ -674,6 +674,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-floral-ethiopian-cheese-lasagna",
+    "title": "Kicked Floral Ethiopian Cheese Lasagna",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-fluffy-brazilian-chicken-skewers",
     "title": "Kicked Fluffy Brazilian Chicken Skewers",
     "tags": [
@@ -2861,6 +2876,22 @@
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 80,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dense-middle-eastern-lamb-shakshuka",
+    "title": "Kissed Dense Middle Eastern Lamb Shakshuka",
+    "tags": [
+      "gluten-free",
+      "hearty",
+      "lamb",
+      "low-glycemic",
+      "middle-eastern",
+      "one-pot",
+      "umami"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
