@@ -1,0 +1,91 @@
+{
+  "title": "Kooky Dense British Beef Yorkshire Pudding",
+  "description": "A funky twist on the traditional British dish, this recipe features tomato ketchup and coconut cream in a dense Yorkshire pudding, cooked in a kazan cauldron. It's an adventurous take on a classic Welsh meal.",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "beef drippings",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato ketchup",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, and black pepper.",
+    "In a separate bowl, whisk together the eggs, beef drippings, tomato ketchup, and coconut cream.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Add the beef broth and stir until the batter is smooth.",
+    "Heat a kazan cauldron over high heat on the stovetop.",
+    "Add a small amount of oil to the cauldron and swirl it around to coat the bottom.",
+    "Pour the batter into the cauldron and transfer it to the preheated oven.",
+    "Bake for 25 minutes, then reduce the heat to 375 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pudding from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "british-cuisine",
+    "coconut-cream",
+    "kazan-cauldron",
+    "weeknight-meal",
+    "yorkshire-pudding"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kooky-dense-british-beef-yorkshire-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-dense-british-beef-yorkshire-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:43:32Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "tomato ketchup",
+    "diet": "dash",
+    "region": "welsh",
+    "cuisineAdjective": "British",
+    "mainIngredient": "beef",
+    "descriptor": "Kooky Dense",
+    "dishForm": "Yorkshire Pudding"
+  }
+}
