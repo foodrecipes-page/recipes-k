@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Smoky Egyptian Cheese Flatbread",
+  "description": "A savory and crumbly Egyptian dish featuring cheese and smoky flavors, perfect for a crowd-pleasing snack or appetizer. This low-carb-friendly flatbread is sure to delight.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoked mozzarella cheese",
+      "amount": "1 cup shredded",
+      "notes": "or other smoked cheese"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4 pieces",
+      "notes": "low-carb and gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a small bowl, mix together the olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "Brush the mixture evenly onto each piece of flatbread.",
+    "Sprinkle the shredded smoked mozzarella cheese over the flatbread.",
+    "Bake the flatbread in the preheated oven for 10-12 minutes, or until the cheese is melted and bubbly.",
+    "Remove the flatbread from the oven and sprinkle with chopped fresh parsley if desired.",
+    "Let the flatbread cool for a few minutes before slicing and serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "easy-snack",
+    "gluten-free",
+    "low-carb",
+    "middle-eastern",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "kissed-smoky-egyptian-cheese-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-egyptian-cheese-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:11:09Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "crowd-pleaser",
+    "technique": "smoke-hot",
+    "primaryIngredient": "cheese",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheese",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Flatbread"
+  }
+}
