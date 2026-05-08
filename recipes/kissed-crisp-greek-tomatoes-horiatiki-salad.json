@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Crisp Greek Tomatoes Horiatiki Salad",
+  "description": "A classic Greek salad with a twist, featuring smoky olive oil and crisp tomatoes, perfect for a comforting meal. This diabetic-friendly dish is made with fresh ingredients and a hint of wine.",
+  "cuisine": "Greek",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tomatoes",
+      "amount": "4 large",
+      "notes": "preferably heirloom"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Feta Cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Smoky Olive Oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "aged"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "Fresh Oregano",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the tomatoes in half and place them on a baking sheet lined with parchment paper.",
+    "Drizzle the smoky olive oil over the tomatoes and season with salt.",
+    "Roast the tomatoes in the oven for 20 minutes, or until they are tender and lightly caramelized.",
+    "In a large bowl, combine the sliced red onion, cucumber, and Kalamata olives.",
+    "Once the tomatoes are ready, let them cool slightly and then add them to the bowl.",
+    "Crumble the feta cheese over the top of the salad and sprinkle with chopped fresh oregano.",
+    "In a small bowl, whisk together the red wine vinegar and a pinch of salt.",
+    "Drizzle the dressing over the salad and toss to combine.",
+    "Serve the salad immediately, garnished with additional oregano if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "gluten-free",
+    "greek-food",
+    "healthy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-crisp-greek-tomatoes-horiatiki-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-greek-tomatoes-horiatiki-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:19:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crisp",
+    "mood": "comforting",
+    "technique": "simmer",
+    "primaryIngredient": "smoky a oli",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Horiatiki Salad"
+  }
+}
