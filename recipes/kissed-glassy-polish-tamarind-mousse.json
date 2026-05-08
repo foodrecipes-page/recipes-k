@@ -1,0 +1,89 @@
+{
+  "title": "Kissed Glassy Polish Tamarind Mousse",
+  "description": "A rich and festive Polish dessert featuring tamarind pulp, this mousse is a perfect treat for any occasion, with a glassy-jelly texture and a sweet and tangy flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tamarind pulp",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of water and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the tamarind pulp, sugar, and 1 cup of water, and heat over medium heat, stirring occasionally, until the sugar has dissolved and the mixture is hot but not boiling.",
+    "Remove the saucepan from the heat and let it cool slightly, then stir in the softened gelatin, lemon juice, and vanilla extract until the gelatin is fully dissolved.",
+    "In a separate bowl, beat the egg whites until they become stiff and hold their shape.",
+    "In a large bowl, whisk together the egg whites and the tamarind mixture until well combined.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Place the cups or dish in a large pan of hot water to create a bain-marie, making sure the water level is below the top of the cups or dish.",
+    "Let the mousse cook in the bain-marie for 10-12 minutes, or until it is set and has a glassy-jelly texture.",
+    "Remove the cups or dish from the water bath and let them cool to room temperature.",
+    "Cover the cups or dish with plastic wrap and refrigerate for at least 2 hours or overnight until chilled and set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "festive-treat",
+    "glassy-mousse",
+    "low-fat",
+    "polish-dessert",
+    "tamarind-recipe"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-glassy-polish-tamarind-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-glassy-polish-tamarind-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:22:50Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "bain-marie",
+    "primaryIngredient": "tamarind pulp",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tamarind",
+    "descriptor": "Kissed glassy",
+    "dishForm": "Mousse"
+  }
+}
