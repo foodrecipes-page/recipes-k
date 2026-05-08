@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Smoky Indian Shrimp Curry",
+  "description": "A savory and crisp Indian dish featuring shrimp, dried cranberries, and a smoky flavor, perfect for a sick day, pescatarian-friendly and made in a wok.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "large, peeled and deveined"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the smoked paprika, curry powder, salt, and pepper, and cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook until they are pink and just cooked through, about 2-3 minutes per side.",
+    "Add the dried cranberries and cook for an additional minute.",
+    "Pour in the coconut milk and stir to combine, bringing the mixture to a simmer.",
+    "Reduce the heat to medium-low and let the curry simmer for 5 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "one-pan",
+    "seafood",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-smoky-indian-shrimp-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-indian-shrimp-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:44:24Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "smoke",
+    "primaryIngredient": "dried cranberries",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Curry"
+  }
+}
