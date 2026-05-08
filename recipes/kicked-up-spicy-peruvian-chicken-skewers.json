@@ -1,0 +1,95 @@
+{
+  "title": "Kicked Up Spicy Peruvian Chicken Skewers",
+  "description": "Spicy and crispy Peruvian chicken skewers made with shoyu-koji and ferment-jang, perfect for a hangover cure, featuring ayurvedic-tamasic-friendly ingredients. This dish combines the flavors of Peru with a kick of spice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ayurvedic tamasic spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together shoyu-koji, ferment-jang, ayurvedic tamasic spice blend, lime juice, and olive oil.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Brush the skewers with additional olive oil and sprinkle with minced garlic and grated ginger.",
+    "Serve the skewers hot, garnished with fresh cilantro and lime wedges.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with your favorite sides, such as grilled vegetables or quinoa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-chicken",
+    "hangover-cure",
+    "peruvian-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "kicked-up-spicy-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-up-spicy-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:32:20Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "ferment-jang",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kicked up spicy",
+    "dishForm": "Skewers"
+  }
+}
