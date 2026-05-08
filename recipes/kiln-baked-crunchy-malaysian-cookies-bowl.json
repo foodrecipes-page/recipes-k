@@ -1,0 +1,111 @@
+{
+  "title": "kiln-baked, crunchy malaysian cookies bowl",
+  "description": "show off your culinary skills with this sweet and crunchy malaysian dish featuring kiln-baked cookies, flambe, and presented in a traditional dolsot-stone-bowl",
+  "cuisine": "malaysian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar cookie mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "hulled sesame seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dolsot stone-bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat your kiln to 375 degrees fahrenheit and place the dolsot stone-bowl inside for 30 minutes.",
+    "In a large mixing bowl, combine the almond flour, granulated sugar, unsalted butter, large eggs, vanilla extract, and sugar cookie mix. Mix well until a smooth dough forms.",
+    "In a separate bowl, whisk together the coconut milk and coconut oil.",
+    "Gradually add the coconut milk mixture to the dough and mix until a sticky ball forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Place the dough on a lightly floured surface and roll it out to a thickness of 1/8 inch.",
+    "Cut the dough into desired shapes using a cookie cutter.",
+    "Place the cut cookies on a baking sheet lined with parchment paper and bake for 15-20 minutes or until the edges are golden brown.",
+    "Let the cookies cool on the baking sheet for 5 minutes before transferring them to a wire rack to cool completely.",
+    "In a small saucepan, heat the dark chocolate chips over low heat, stirring occasionally, until melted and smooth.",
+    "To assemble the dish, place 4-6 cookies in the dolsot stone-bowl, drizzle with melted dark chocolate, and sprinkle with hulled sesame seeds and cinnamon powder.",
+    "Place the bowl under the broiler for 30 seconds to caramelize the sugar and melt the chocolate.",
+    "Remove the bowl from the oven and let it cool for 1 minute before serving."
+  ],
+  "prepTimeMin": 35,
+  "cookTimeMin": 20,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "flambe",
+    "keto-friendly",
+    "malaysian-fusion",
+    "show-off",
+    "sweet-tooth",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 35
+  },
+  "slug": "kiln-baked-crunchy-malaysian-cookies-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kiln-baked-crunchy-malaysian-cookies-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:37:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "flambe",
+    "primaryIngredient": "cookies",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "cookies",
+    "descriptor": "Kiln-baked, Crunchy",
+    "dishForm": "Bowl"
+  }
+}
