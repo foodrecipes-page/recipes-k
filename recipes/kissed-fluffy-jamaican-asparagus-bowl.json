@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Fluffy Jamaican Asparagus Bowl",
+  "description": "A fermented, fluffy, and comforting Jamaican dish featuring asparagus, cooked in a clay pot and served in a Korean brass bowl, perfect for a diabetic-friendly meal.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fermented vegetable paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the diced scotch bonnet peppers and cook for 1 minute.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the asparagus and cook until tender.",
+    "Stir in the coconut milk and fermented vegetable paste.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot in a Korean brass bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "diabetic-friendly",
+    "fluffy-asparagus",
+    "gluten-free",
+    "jamaican-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-fluffy-jamaican-asparagus-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-jamaican-asparagus-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:58:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "asparagus",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "asparagus",
+    "descriptor": "kissed fluffy",
+    "dishForm": "Bowl"
+  }
+}
