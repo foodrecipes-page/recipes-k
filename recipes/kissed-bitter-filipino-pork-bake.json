@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Bitter Filipino Pork Bake",
+  "description": "A halal-friendly Filipino dish featuring bitter notes and rum, quickly baked to perfection on a binchotan grill.",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "rum",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together rum, soy sauce, brown sugar, garlic, black pepper, and salt.",
+    "Add the pork cubes to the bowl and marinate for 10 minutes.",
+    "Remove the pork from the marinade and place on the grill.",
+    "Brush the bitter melon slices with olive oil and place on the grill with the pork.",
+    "Bake for 20 minutes or until the pork is cooked through.",
+    "Flip the pork and bitter melon halfway through the cooking time.",
+    "Remove from the grill and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "filipino-food",
+    "grilled-meats",
+    "halal-recipes",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-bitter-filipino-pork-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-bitter-filipino-pork-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:01:52Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "rum",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed Bitter",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Roasted Venezuelan Black Bean Bowl",
+  "description": "A roasted Venezuelan dish featuring black beans and katsuramuki-cut vegetables, perfect for a weeknight dinner, this ovo-vegetarian-friendly meal is both healthy and delicious.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup dried",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": "peeled and katsuramuki-cut"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "2 large",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potato, red onion, and red bell pepper with olive oil, cumin, smoked paprika, and salt until they are evenly coated.",
+    "Spread the vegetables in a single layer on a baking sheet and roast for 30 minutes, or until they are tender and lightly browned.",
+    "In a large saucepan, heat the black beans over medium heat until they are warmed through.",
+    "To assemble the bowls, divide the roasted vegetables and black beans among four bowls.",
+    "Top each bowl with a sliced hard-boiled egg and a sprinkle of chopped fresh cilantro.",
+    "Serve immediately and enjoy.",
+    "Let the bowls cool completely before refrigerating or freezing for later use.",
+    "Reheat the bowls in the microwave or oven until the vegetables are tender and the eggs are warmed through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "delicious",
+    "healthy",
+    "high-protein",
+    "one-pan",
+    "oven-roasted",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-roasted-venezuelan-black-bean-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-venezuelan-black-bean-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:02:38Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "black beans",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "black beans",
+    "descriptor": "kissed roasted",
+    "dishForm": "Bowl"
+  }
+}

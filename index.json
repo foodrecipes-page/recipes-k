@@ -1804,6 +1804,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-bitter-filipino-pork-bake",
+    "title": "Kissed Bitter Filipino Pork Bake",
+    "tags": [
+      "bitter-flavors",
+      "filipino-food",
+      "grilled-meats",
+      "halal-recipes",
+      "pork-recipes"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-bitter-middle-eastern-eggplant-baba-ganoush",
     "title": "Kissed Bitter Middle Eastern Eggplant Baba Ganoush",
     "tags": [
@@ -5259,6 +5273,21 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-venezuelan-black-bean-bowl",
+    "title": "Kissed Roasted Venezuelan Black Bean Bowl",
+    "tags": [
+      "delicious",
+      "healthy",
+      "high-protein",
+      "one-pan",
+      "oven-roasted",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
