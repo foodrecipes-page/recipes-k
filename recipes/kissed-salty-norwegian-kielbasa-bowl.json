@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Salty Norwegian Kielbasa Bowl",
+  "description": "A salty and savory Norwegian dish featuring kielbasa, served in an earthenware bowl. This dish is perfect for a brunch mood.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "raw-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Norwegian kielbasa",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "pickled mustard seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "aquavit jelly",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "frisee",
+      "amount": "4 cups"
+    },
+    {
+      "name": "pickled red onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salted capers",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4"
+    },
+    {
+      "name": "earthenware bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400 degrees Fahrenheit.",
+    "Cook the sliced Norwegian kielbasa in the air fryer for 5 minutes.",
+    "In a small bowl, mix together the pickled mustard seeds and aquavit jelly.",
+    "In a large earthenware bowl, combine the cooked kielbasa, pickled mustard seed mixture, frisee, pickled red onion, and salted capers.",
+    "Serve the kielbasa mixture in the earthenware bowl, garnished with lemon wedges.",
+    "Drizzle any remaining aquavit jelly over the top of the kielbasa mixture.",
+    "Serve immediately and enjoy.",
+    "Consider serving with a side of toasted bread or crackers.",
+    "Garnish with additional pickled red onion and salted capers if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fryer-recipe",
+    "brunch-ideas",
+    "gluten-free",
+    "kielbasa-recipe",
+    "norwegian-cuisine",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kissed-salty-norwegian-kielbasa-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-salty-norwegian-kielbasa-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "glassy-jelly",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "kielbasa",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "kielbasa",
+    "descriptor": "Kissed Salty",
+    "dishForm": "Bowl"
+  }
+}

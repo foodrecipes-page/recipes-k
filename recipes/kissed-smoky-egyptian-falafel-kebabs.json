@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Smoky Egyptian Falafel Kebabs",
+  "description": "Smoky and springy Egyptian dish featuring falafel, tandoor, and ayurvedic-rajasic-friendly ingredients, served on a slate tile vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor or oven to 400 degrees Fahrenheit.",
+    "Mix chickpeas, onion, garlic, coriander, cumin, paprika, salt, and black pepper in a bowl.",
+    "Use your hands to shape the mixture into small falafel patties.",
+    "Thread the falafel patties onto skewers, leaving a small space between each patty.",
+    "Brush the falafel with olive oil and cook in the tandoor or oven for 20 minutes.",
+    "Flip the skewers halfway through cooking to ensure even cooking.",
+    "Serve the falafel kebabs on a slate tile vessel with a squeeze of lemon juice.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "falafel",
+    "middle-eastern",
+    "smoky",
+    "tandoor",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-smoky-egyptian-falafel-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-egyptian-falafel-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:19:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "tandoor",
+    "primaryIngredient": "falafel",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "falafel",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Kebabs"
+  }
+}
