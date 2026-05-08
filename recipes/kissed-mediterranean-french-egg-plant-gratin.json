@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Mediterranean French Egg Plant Gratin",
+  "description": "A romantic French dish featuring egg plants, pasta-water-emulsion, and Mediterranean-friendly ingredients, cooked in a cataplana vessel to create a jammy and chewy texture.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup",
+      "notes": "such as parmesan or mozzarella"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, toss the eggplant slices with olive oil, garlic, salt, and pepper until they are evenly coated.",
+    "In a large cataplana vessel, create a layer of eggplant slices.",
+    "Spread a layer of tomato paste over the eggplant slices.",
+    "Pour some pasta water over the tomato paste layer.",
+    "Sprinkle some grated cheese over the pasta water layer.",
+    "Repeat the layers until all the ingredients are used up, ending with a layer of cheese on top.",
+    "Cover the cataplana vessel with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 10 minutes, or until the top is golden brown.",
+    "Remove from the oven and sprinkle with chopped fresh basil."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "mediterranean-inspired",
+    "one-pan",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "kissed-mediterranean-french-egg-plant-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mediterranean-french-egg-plant-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:26:16Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "egg plants",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "egg plants",
+    "descriptor": "Kissed Mediterranean",
+    "dishForm": "Gratin"
+  }
+}
