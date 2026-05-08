@@ -1,0 +1,116 @@
+{
+  "title": "Kissed with Citrus Malaysian Borlotti Beans Satay",
+  "description": "A twist on traditional satay featuring tender borlotti beans, citrusy flavors, and served in agave leaves.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing agave leaves"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "finely minced"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2 leaves",
+      "notes": "bruised"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "4 leaves",
+      "notes": "large"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine shallots, galangal, lemongrass, lime juice, brown sugar, coriander, chili flakes, and kaffir lime leaves; blend until smooth.",
+    "Add the blended mixture to the borlotti beans and stir to combine.",
+    "Thread the bean mixture onto bamboo skewers, if using.",
+    "Brush the agave leaves with coconut oil and place a few skewers in the center of each leaf.",
+    "Grill the satay for 8-10 minutes, turning occasionally, until the beans are tender.",
+    "Serve immediately, garnished with peanuts if desired.",
+    "Serve in agave leaves, folding the leaves to enclose the satay."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "gluten-free",
+    "grilled",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-with-citrus-malaysian-borlotti-beans-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-citrus-malaysian-borlotti-beans-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:39:36Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "borlotti beans",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "borlotti beans",
+    "descriptor": "Kissed with citrus",
+    "dishForm": "Satay"
+  }
+}
