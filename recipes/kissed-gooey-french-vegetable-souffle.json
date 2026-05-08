@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Gooey French Vegetable Souffle",
+  "description": "A satvik-friendly, one-pot French dish featuring black treacle and nuka-pickle, resulting in a fresh and gooey souffle.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "black treacle",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated carrots and zucchini, and cook for an additional 5 minutes.",
+    "Stir in the black treacle, nuka-pickle, vegetable broth, tofu, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Transfer the mixture to a 1-quart souffle dish and bake for 25 minutes.",
+    "Remove the souffle from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-cuisine",
+    "gooey-souffle",
+    "one-pot",
+    "satvik-friendly",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-gooey-french-vegetable-souffle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-french-vegetable-souffle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:50:39Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "black treacle",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "vegetables",
+    "descriptor": "Kissed Gooey",
+    "dishForm": "Souffle"
+  }
+}
