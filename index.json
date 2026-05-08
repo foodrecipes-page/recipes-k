@@ -4887,6 +4887,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-resinous-moroccan-lentils-bissara",
+    "title": "Kissed Resinous Moroccan Lentils Bissara",
+    "tags": [
+      "lentil-dishes",
+      "moroccan-cuisine",
+      "one-pot",
+      "resinous-texture",
+      "romantic-dinner",
+      "vegan-friendly"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-rich-italian-tomato-bruschetta",
     "title": "Kissed Rich Italian Tomato Bruschetta",
     "tags": [
@@ -5591,6 +5606,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-springy-brazilian-leek-grill",
+    "title": "Kissed Springy Brazilian Leek Grill",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "leek-recipes",
+      "raclette-grill",
+      "sugar-free"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

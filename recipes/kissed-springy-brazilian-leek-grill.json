@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Springy Brazilian Leek Grill",
+  "description": "A fatty and springy Brazilian dish featuring leek, perfect for nostalgic meals, made with double-rise-bread and suitable for sugar-free diets, cooked to perfection on a raclette-grill.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "leeks",
+      "amount": "4 large",
+      "notes": "cleaned and chopped"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to medium heat.",
+    "Brush the melted butter onto the bread cubes.",
+    "In a large bowl, mix together the chopped leeks, minced garlic, salt, and black pepper.",
+    "Place a layer of bread cubes onto the raclette-grill.",
+    "Add a layer of the leek mixture on top of the bread.",
+    "Sprinkle shredded parmesan cheese over the leek layer.",
+    "Drizzle olive oil over the cheese layer.",
+    "Repeat the layers two more times, ending with a layer of cheese on top.",
+    "Cook for 20 minutes or until the bread is toasted and the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "leek-recipes",
+    "raclette-grill",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-springy-brazilian-leek-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-springy-brazilian-leek-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:15:22Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "leek",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "leek",
+    "descriptor": "kissed springy",
+    "dishForm": "Grill"
+  }
+}

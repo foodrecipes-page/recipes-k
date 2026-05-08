@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Resinous Moroccan Lentils Bissara",
+  "description": "A romantic Moroccan dish featuring fajita seasoning and nimono-simmer, served in an iron-teppan vessel, this vegan-friendly bissara is a unique and delicious experience. The resinous and glassy-jelly texture adds a fascinating element to the dish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "fajita seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the iron-teppan vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the fajita seasoning and cook for 1 minute.",
+    "Add the red lentils, vegetable broth, tomato paste, and agave nectar, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Add the chopped carrots and continue to simmer for an additional 10 minutes.",
+    "Season with salt to taste.",
+    "Serve the bissara hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-dishes",
+    "moroccan-cuisine",
+    "one-pot",
+    "resinous-texture",
+    "romantic-dinner",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-resinous-moroccan-lentils-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-resinous-moroccan-lentils-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:15:23Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "glassy-jelly",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "fajita seasoning",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lentils",
+    "descriptor": "Kissed Resinous",
+    "dishForm": "Bissara"
+  }
+}
