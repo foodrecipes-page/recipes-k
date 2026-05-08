@@ -1,0 +1,95 @@
+{
+  "title": "Korean Style Roasted Sirloin Steak Skewers",
+  "description": "A kid-friendly Korean dish featuring roasted sirloin steak skewers with a bouncy texture, inspired by Jeju cuisine, and high in protein.",
+  "cuisine": "Korean",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, ginger, and sesame oil.",
+    "Add the sirloin steak cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated steak cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Roast the skewers in the preheated oven for 12 minutes, or until the steak reaches an internal temperature of 130 degrees Fahrenheit.",
+    "Remove the skewers from the oven and sprinkle with black pepper.",
+    "Garnish with chopped green onions and serve immediately.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve with your choice of sides, such as rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "korean-style",
+    "roasted-meat",
+    "skewers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "korean-style-roasted-sirloin-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/korean-style-roasted-sirloin-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:10:58Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "sirloin steak",
+    "diet": "high-protein",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "sirloin steak",
+    "descriptor": "Korean style roasted",
+    "dishForm": "Skewers"
+  }
+}

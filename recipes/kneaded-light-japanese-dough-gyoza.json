@@ -1,0 +1,101 @@
+{
+  "title": "Kneaded Light Japanese Gyoza",
+  "description": "A traditional Japanese dish featuring a light and airy dough wrapped around a savory filling, made with shortening and laminated to create a puff pastry effect.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably low protein flour"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped cabbage",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a large mixing bowl.",
+    "Add shortening and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add warm water and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Rest the dough for 1 hour in a warm place.",
+    "Roll out the dough to a thickness of 1/8 inch and cut out circles of dough using a cookie cutter.",
+    "Place a tablespoon of filling in the center of each dough circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal.",
+    "Heat a large skillet with 1 tablespoon of sesame oil over medium high heat.",
+    "Pan fry the gyoza until they are golden brown on the bottom.",
+    "Add 1/4 cup of water to the skillet and cover with a lid to steam the gyoza for 2 minutes."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "low-glycemic",
+    "pan-fried",
+    "pork-dishes",
+    "savory-pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kneaded-light-japanese-dough-gyoza",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-light-japanese-dough-gyoza",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:11:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "lamination-puff",
+    "primaryIngredient": "shortening",
+    "diet": "low-glycemic",
+    "region": "chugoku",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "dough",
+    "descriptor": "kneaded light",
+    "dishForm": "Gyoza"
+  }
+}

@@ -8247,6 +8247,20 @@
     "shard": "k"
   },
   {
+    "slug": "kneaded-light-japanese-dough-gyoza",
+    "title": "Kneaded Light Japanese Gyoza",
+    "tags": [
+      "japanese-cuisine",
+      "low-glycemic",
+      "pan-fried",
+      "pork-dishes",
+      "savory-pastry"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kneaded-light-moroccan-pistachio-chebakia",
     "title": "Kneaded Light Moroccan Pistachio Chebakia",
     "tags": [
@@ -8765,6 +8779,20 @@
     ],
     "cuisine": "Fusion",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "korean-style-roasted-sirloin-steak-skewers",
+    "title": "Korean Style Roasted Sirloin Steak Skewers",
+    "tags": [
+      "high-protein",
+      "korean-style",
+      "roasted-meat",
+      "skewers",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 32,
     "shard": "k"
   },
   {
