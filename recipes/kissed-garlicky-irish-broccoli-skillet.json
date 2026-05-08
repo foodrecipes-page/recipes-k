@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Garlicky Irish Broccoli Skillet",
+  "description": "A garlicky and gooey Irish dish featuring broccoli and bonito flakes, perfect for a brunch mood, served on a cedar plank. This paleo-friendly recipe is a delicious and healthy option for any meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup",
+      "notes": "dried and shaved"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "cedar plank",
+      "amount": "1 piece",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, heat the coconut oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the broccoli to the skillet and cook for 3 minutes until tender.",
+    "In a small bowl, whisk the eggs and season with salt and black pepper.",
+    "Pour the eggs over the broccoli and garlic in the skillet.",
+    "Sprinkle the bonito flakes over the top of the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes until the eggs are set.",
+    "Remove the skillet from the oven and let it cool for 2 minutes.",
+    "Serve the kissed garlicky Irish broccoli skillet on a cedar plank."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-recipe",
+    "high-protein",
+    "irish-cuisine",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-garlicky-irish-broccoli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-irish-broccoli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:05:10Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "brunch-mood",
+    "technique": "bonito-shave",
+    "primaryIngredient": "broccoli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "broccoli",
+    "descriptor": "kissed garlicky",
+    "dishForm": "Skillet"
+  }
+}
