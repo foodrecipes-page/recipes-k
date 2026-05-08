@@ -1,0 +1,97 @@
+{
+  "title": "Kooky Gooey Norwegian Pepper Pasta",
+  "description": "A vegan Norwegian dish featuring mixed peppers and a pasta water emulsion, served on a talavera plate. This cultured and gooey pasta is perfect for a special occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "mixed peppers",
+      "amount": "2 cups",
+      "notes": "bell, jalapeno, and banana peppers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the mixed peppers and garlic until tender.",
+    "In a blender or food processor, combine the cooked pasta, sauteed peppers and garlic, nutritional yeast, lemon juice, pasta water, salt, and black pepper.",
+    "Blend the mixture on high speed until it is smooth and creamy.",
+    "Return the mixture to the skillet and stir over low heat until the sauce is heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the pasta on a talavera plate and garnish with additional mixed peppers if desired.",
+    "Let the pasta cool for a few minutes before serving to allow the sauce to thicken.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "pasta",
+    "peppers",
+    "special-occasion",
+    "talavera",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kooky-gooey-norwegian-pepper-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-gooey-norwegian-pepper-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:21:08Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "show-off",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "mixed peppers",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "peppers",
+    "descriptor": "Kooky Gooey",
+    "dishForm": "Pasta"
+  }
+}
