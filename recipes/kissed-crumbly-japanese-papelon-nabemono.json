@@ -1,0 +1,62 @@
+{
+  "title": "Kissed Crumbly Japanese Papelon Nabemono",
+  "description": "A warm, comforting dish from Okinawa, featuring crumbly textures and aromatic flavors.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Papelon",
+      "amount": "1 lb",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a kadhai over medium heat. ",
+    "Add 2 cloves of minced garlic and saut\u00066 1 minute, until fragrant.",
+    "Add 1 cup of thinly sliced papelon and cook for 3 minutes, until slightly tender.",
+    "Add 1 cup of crumbled bhuna and cook, stirring often, for 2 minutes, until lightly toasted.",
+    "Stir in 1 tablespoon of soy sauce, 1 tablespoon of sake, and 1 tablespoon of mirin.",
+    "Continue to cook for 1 minute, until the liquid has been absorbed.",
+    "Transfer the mixture to a serving dish and top with 1/4 cup of grated daikon radish.",
+    "Garnish with 1/4 cup of chopped scallions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "japanese",
+    "nabemono",
+    "oknawa",
+    "oktober",
+    "one-pan",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-crumbly-japanese-papelon-nabemono",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crumbly-japanese-papelon-nabemono",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:54:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "papelon",
+    "diet": "raw",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Papelon",
+    "descriptor": "Kissed Crumbly",
+    "dishForm": "Nabemono"
+  }
+}

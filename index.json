@@ -2154,6 +2154,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crumbly-japanese-papelon-nabemono",
+    "title": "Kissed Crumbly Japanese Papelon Nabemono",
+    "tags": [
+      "comforting",
+      "japanese",
+      "nabemono",
+      "oknawa",
+      "oktober",
+      "one-pan",
+      "veggie"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 23,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crumbly-kenyan-amaretti-cookies",
     "title": "Kissed Crumbly Kenyan Amaretti Cookies",
     "tags": [
@@ -2591,6 +2607,21 @@
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-fluffy-tunisian-steak-tagine",
+    "title": "Kissed Fluffy Tunisian Steak Tagine",
+    "tags": [
+      "fluffy-tagine",
+      "gluten-free",
+      "low-glycemic",
+      "one-pot",
+      "steak-recipe",
+      "tunisian-cuisine"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

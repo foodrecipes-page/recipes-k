@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Fluffy Tunisian Steak Tagine",
+  "description": "A cultured and cozy Tunisian dish featuring sirloin steak tips, bonito flakes, and low glycemic ingredients, resulting in a fluffy and savory tagine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low glycemic",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Add the sirloin steak tips and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it is translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the bonito flakes, cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Add the chopped dried apricots and chicken broth, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the steak is tender.",
+    "Serve hot, garnished with fresh parsley or cilantro.",
+    "Let it rest for 10 minutes before serving.",
+    "Serve with cauliflower rice or low glycemic index sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fluffy-tagine",
+    "gluten-free",
+    "low-glycemic",
+    "one-pot",
+    "steak-recipe",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kissed-fluffy-tunisian-steak-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-tunisian-steak-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:54:29Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "bonito-shave",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "steak",
+    "descriptor": "kissed fluffy",
+    "dishForm": "Tagine"
+  }
+}
