@@ -672,6 +672,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-spicy-canadian-penne-pasta",
+    "title": "Kicked Spicy Canadian Penne Pasta",
+    "tags": [
+      "agave",
+      "beef",
+      "canadian",
+      "pasta",
+      "post-workout",
+      "spicy"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-spicy-filipino-chicken-skewers",
     "title": "Kicked Spicy Filipino Chicken Skewers",
     "tags": [
@@ -1533,6 +1548,22 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-coconut-cream-filipino-figs-halo-halo",
+    "title": "Kissed by Coconut Cream Filipino Figs Halo-Halo",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "high-fiber",
+      "sugar-free-friendly",
+      "summer-dish",
+      "vegan-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

@@ -1,0 +1,93 @@
+{
+  "title": "Kicked Spicy Canadian Penne Pasta",
+  "description": "A spicy and tender Canadian dish featuring penne rigate, perfect for a post-workout meal",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "12 oz",
+      "notes": "brine-wet"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "agave syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne rigate according to package instructions",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground beef until browned",
+    "Add the agave syrup, hot sauce, garlic powder, onion powder, salt, and black pepper to the skillet and stir to combine",
+    "Drain the cooked penne rigate and add it to the skillet, tossing to combine with the beef mixture",
+    "Reduce heat to low and simmer for 5 minutes",
+    "Serve hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "agave",
+    "beef",
+    "canadian",
+    "pasta",
+    "post-workout",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "kicked-spicy-canadian-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-canadian-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:21:04Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "brine-wet",
+    "primaryIngredient": "penne rigate",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "penne rigate",
+    "descriptor": "kicked spicy",
+    "dishForm": "Pasta"
+  }
+}

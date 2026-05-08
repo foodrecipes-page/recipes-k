@@ -1,0 +1,107 @@
+{
+  "title": "Kissed by Coconut Cream Filipino Figs Halo-Halo",
+  "description": "A dense, resinous, and meal-prep friendly Filipino dish featuring figs, coconut-cream-crack, and a hint of sweetness, perfect for the summer months.",
+  "cuisine": "Filipino",
+  "diet": [
+    "sugar-free-friendly",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Fresh figs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sugar-free sweetener",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water chestnuts",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red mung beans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Kesong puti",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ube halaya",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a salt block, create a layer of water chestnuts.",
+    "Add a layer of red mung beans on top of the water chestnuts.",
+    "Pour a mixture of coconut milk and sugar-free sweetener over the mung beans.",
+    "Slice the fresh figs and arrange them on top of the coconut milk mixture.",
+    "Sprinkle a pinch of salt over the figs.",
+    "Drizzle a mixture of coconut cream and vanilla extract over the figs.",
+    "Squeeze a slice of lime juice over the coconut cream mixture.",
+    "Repeat the layers two more times, ending with a layer of coconut milk mixture on top.",
+    "Chill the assembly in the refrigerator for at least 2 hours.",
+    "Cut the salt block into slices and serve the Kissed by Coconut Cream Filipino Figs Halo-Halo chilled.",
+    "Garnish with ube halaya and kesong puti, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-fiber",
+    "sugar-free-friendly",
+    "summer-dish",
+    "vegan-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "kissed-by-coconut-cream-filipino-figs-halo-halo",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-coconut-cream-filipino-figs-halo-halo",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:20:46Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "figs",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "figs",
+    "descriptor": "Kissed by Coconut Cream",
+    "dishForm": "Halo-Halo"
+  }
+}
