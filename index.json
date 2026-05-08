@@ -431,6 +431,21 @@
     "shard": "k"
   },
   {
+    "slug": "keto-indulgent-portuguese-savoy-cabbage-pasta",
+    "title": "Keto Indulgent Portuguese Savoy Cabbage Pasta",
+    "tags": [
+      "indulgent",
+      "keto",
+      "low-carb",
+      "portuguese",
+      "savoy-cabbage",
+      "special-occasion"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "keto-kick-syrian-lamb-kebabs",
     "title": "Keto Kick Syrian Lamb Kebabs",
     "tags": [
@@ -2651,6 +2666,21 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-creamy-russian-beef-shin-stew",
+    "title": "Kissed Creamy Russian Beef Shin Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "russian-cuisine",
+      "winter-nights"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 190,
     "shard": "k"
   },
   {

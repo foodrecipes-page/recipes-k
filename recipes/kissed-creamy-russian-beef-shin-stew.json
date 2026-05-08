@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Creamy Russian Beef Shin Stew",
+  "description": "A salty, creamy, indulgent Russian dish featuring beef shin, namul-blanch-season, macrobiotic-friendly, this stew is perfect for a cold winter night.",
+  "cuisine": "Russian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef shin",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the beef shin pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the beef broth, dijon mustard, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 2.5 hours, or until the beef is tender.",
+    "Stir in the sour cream and cook for an additional 10 minutes, or until heated through.",
+    "Serve hot, garnished with chopped fresh parsley or dill."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 170,
+  "totalTimeMin": 190,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "russian-cuisine",
+    "winter-nights"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "kissed-creamy-russian-beef-shin-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-russian-beef-shin-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "indulgent",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "beef shin",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef shin",
+    "descriptor": "kissed creamy",
+    "dishForm": "Stew"
+  }
+}

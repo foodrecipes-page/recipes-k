@@ -1,0 +1,101 @@
+{
+  "title": "Keto Indulgent Portuguese Savoy Cabbage Pasta",
+  "description": "A tangy and indulgent Portuguese dish featuring savoy cabbage and a keto-friendly pasta water emulsion, perfect for a special occasion.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Zucchini noodles",
+      "amount": "1 cup",
+      "notes": "keto pasta substitute"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and blanch the chopped savoy cabbage for 5 minutes.",
+    "Shock the blanched cabbage in an ice bath to stop the cooking process.",
+    "In a large skillet, heat the olive oil over medium heat and saute the minced garlic until fragrant.",
+    "Add the zucchini noodles to the skillet and cook for 2-3 minutes, or until slightly tender.",
+    "In a small bowl, whisk together the lemon juice and melted butter to create a pasta water emulsion.",
+    "Add the emulsion to the skillet with the zucchini noodles and toss to combine.",
+    "Add the blanched savoy cabbage to the skillet and toss to combine with the noodles and emulsion.",
+    "Season the dish with salt and black pepper to taste.",
+    "Transfer the dish to a serving platter and top with shaved Grana Padano cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "keto",
+    "low-carb",
+    "portuguese",
+    "savoy-cabbage",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 45
+  },
+  "slug": "keto-indulgent-portuguese-savoy-cabbage-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-indulgent-portuguese-savoy-cabbage-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:38:18Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shattering",
+    "mood": "indulgent",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "keto indulgent",
+    "dishForm": "Pasta"
+  }
+}
