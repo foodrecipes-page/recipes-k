@@ -1,0 +1,96 @@
+{
+  "title": "Kicked Double Fried Ukrainian Peas Pilaf",
+  "description": "A light and cultured post-workout Ukrainian dish featuring frozen peas, double-fry KFC style, and FODMAP-friendly ingredients, served in a fondue pot.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken breast pieces and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Add the thawed frozen peas, garlic-infused oil, salt, black pepper, and paprika to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the peas are tender.",
+    "Add the cooked chicken back into the skillet and stir to combine.",
+    "Transfer the mixture to a fondue pot and serve hot.",
+    "Double-fry the mixture by heating an additional 1/4 cup of vegetable oil in a small skillet over medium-high heat and pouring it over the top of the pilaf.",
+    "Serve the kicked double fried Ukrainian peas pilaf hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kicked-double-fried-ukrainian-peas-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-double-fried-ukrainian-peas-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:48:57Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "frozen peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "peas",
+    "descriptor": "kicked double fried",
+    "dishForm": "Pilaf"
+  }
+}

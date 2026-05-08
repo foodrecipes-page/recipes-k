@@ -808,6 +808,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-double-fried-ukrainian-peas-pilaf",
+    "title": "Kicked Double Fried Ukrainian Peas Pilaf",
+    "tags": [
+      "fodmap-friendly",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "ukrainian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-floral-ethiopian-cheese-lasagna",
     "title": "Kicked Floral Ethiopian Cheese Lasagna",
     "tags": [
@@ -6604,6 +6619,21 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-kenyan-lentil-stew",
+    "title": "Kissed Spicy Kenyan Lentil Stew",
+    "tags": [
+      "kenyan-cuisine",
+      "lentil-stew",
+      "one-pot",
+      "spicy",
+      "vegetarian-friendly",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
