@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Garlicky Thai Fish Balls Kanom Jeen",
+  "description": "A garlicky and pillowy Thai dish featuring fish balls served with applesauce and kanom jeen noodles, providing a nostalgic and anti-inflammatory friendly meal option.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "kanom jeen noodles",
+      "amount": "1 package"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ice",
+      "amount": "1 tray"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the kanom jeen noodles according to package instructions.",
+    "Shock the cooked noodles in an ice bath to stop the cooking process.",
+    "Cut the garlic into thin slices and saute in vegetable oil until fragrant.",
+    "Add the fish balls to the garlic oil and cook until lightly browned.",
+    "Combine the fish sauce and lime juice in a small bowl and stir to combine.",
+    "Add the sauce to the fish balls and garlic oil, and stir to coat.",
+    "Serve the fish balls over the kanom jeen noodles with a side of applesauce.",
+    "Drizzle any remaining sauce over the top of the dish and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-based",
+    "garlic-lovers",
+    "noodle-dish",
+    "one-pot",
+    "quick-meal",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-garlicky-thai-fish-balls-kanom-jeen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-thai-fish-balls-kanom-jeen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:22:20Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "nostalgic",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "applesauce",
+    "diet": "anti-inflammatory",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "fish balls",
+    "descriptor": "kissed garlicky",
+    "dishForm": "Kanom Jeen"
+  }
+}
