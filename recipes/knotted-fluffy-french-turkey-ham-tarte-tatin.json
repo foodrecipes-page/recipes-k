@@ -1,0 +1,92 @@
+{
+  "title": "Knotted Fluffy French Turkey Ham Tarte Tatin",
+  "description": "A savory and comforting French dish featuring turkey ham and double-rise-bread, perfect for a sick day. This shojin-friendly tarte tatin is made with simple ingredients and cooked to a fluffy perfection.",
+  "cuisine": "French",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "1 loaf",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and cook the diced turkey ham until browned.",
+    "Add the olive oil, salt, black pepper, garlic powder, and dried thyme to the skillet and stir to combine.",
+    "Add the cubed double-rise-bread to the skillet and stir to coat with the turkey ham mixture.",
+    "Transfer the mixture to a slate tile or a tarte tatin dish.",
+    "Bake the tarte tatin in the preheated oven for 25 minutes or until the bread is golden brown and the turkey ham is cooked through.",
+    "Remove the tarte tatin from the oven and let it cool for a few minutes.",
+    "Serve the knotted fluffy French turkey ham tarte tatin hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pan",
+    "savory",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "knotted-fluffy-french-turkey-ham-tarte-tatin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-fluffy-french-turkey-ham-tarte-tatin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:56:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "turkey ham",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "turkey ham",
+    "descriptor": "knotted fluffy",
+    "dishForm": "Tarte Tatin"
+  }
+}
