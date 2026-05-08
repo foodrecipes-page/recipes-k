@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Juicy Polish Pork Skillet",
+  "description": "A winey and juicy Polish dish featuring massaman curry paste and a mirepoix base, cooked to perfection in a paella pan.",
+  "cuisine": "Polish",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "massaman curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large paella pan over medium high heat and add the chopped onion, carrot, and celery and cook until the vegetables are tender, about 5 minutes.",
+    "Add the pork to the pan and cook until browned on all sides, about 5 minutes.",
+    "Add the massaman curry paste to the pan and cook for 1 minute, stirring constantly.",
+    "Add the red wine and chicken broth to the pan and bring to a boil, scraping up any browned bits from the bottom of the pan.",
+    "Reduce the heat to low and simmer, covered, until the pork is tender, about 20 minutes.",
+    "Season the pork with salt and black pepper to taste.",
+    "Serve the pork hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry-based",
+    "low-carb",
+    "one-pan",
+    "polish-cuisine",
+    "pork-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-juicy-polish-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-polish-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:02:21Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "nostalgic",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "massaman curry paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "kissed juicy",
+    "dishForm": "Skillet"
+  }
+}
