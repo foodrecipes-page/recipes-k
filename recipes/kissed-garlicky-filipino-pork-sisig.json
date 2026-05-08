@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Garlicky Filipino Pork Sisig",
+  "description": "A garlicky and crispy Filipino dish featuring pork, red food coloring, and a variety of spices, pressure-cooked to perfection and served in a ramekin.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pork face",
+      "amount": "1 pound",
+      "notes": "pressure-cooked and diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red food coloring",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Pressure-cook the pork face until tender, then dice into small pieces.",
+    "Heat oil in a pan over medium heat and saute the minced garlic until fragrant.",
+    "Add the diced onion and sliced chili peppers to the pan and cook until the onion is translucent.",
+    "Add the cooked pork, red food coloring, calamansi juice, salt, and black pepper to the pan and stir-fry until well combined.",
+    "Transfer the mixture to a ramekin and serve immediately.",
+    "Garnish with sliced green onions and a sprinkle of black pepper, if desired.",
+    "Serve with steamed rice or as a topping for nachos or tacos.",
+    "Refrigerate or freeze leftovers for up to 3 days.",
+    "Reheat the sisig in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "crispy",
+    "filipino-food",
+    "garlicky",
+    "pressure-cooked",
+    "ramekin-recipe",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-garlicky-filipino-pork-sisig",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-filipino-pork-sisig",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:48:58Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "pressure-cook",
+    "primaryIngredient": "red food colouring",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed Garlicky",
+    "dishForm": "Sisig"
+  }
+}
