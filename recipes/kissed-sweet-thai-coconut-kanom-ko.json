@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Sweet Thai Coconut Kanom Ko",
+  "description": "A sweet and aerated Thai dish featuring high heat cooking oil and stone bowl dolsot, low in calories and perfect for a comforting snack.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "rice flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the stone bowl dolsot over high heat until it reaches 400 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the rice flour, palm sugar, and salt.",
+    "In a separate bowl, whisk together the coconut milk, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms.",
+    "Add the coconut oil to the preheated dolsot and swirl it around to coat the bottom.",
+    "Pour the batter into the dolsot and cook for 2 minutes, until the bottom is golden brown.",
+    "Loosen the kanom ko with a spatula and flip it over to cook for another 2 minutes.",
+    "Remove the kanom ko from the dolsot and sprinkle with sesame seeds.",
+    "Serve the kissed sweet Thai coconut kanom ko warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-heat",
+    "low-calorie",
+    "stone-bowl",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kissed-sweet-thai-coconut-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-thai-coconut-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:03:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "comforting",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "coconut",
+    "descriptor": "Kissed Sweet",
+    "dishForm": "Kanom Ko"
+  }
+}
