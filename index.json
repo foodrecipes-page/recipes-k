@@ -6377,6 +6377,25 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-salty-chinese-ferment-bao",
+    "title": "Kissed Salty Chinese Ferment Bao",
+    "tags": [
+      "bao",
+      "breakfast",
+      "chinese",
+      "fermented",
+      "grape",
+      "monsoon",
+      "salty",
+      "snack",
+      "vegan",
+      "zejiang"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 73,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-salty-jamaican-chicken-skillet",
     "title": "Kissed Salty Jamaican Chicken Skillet",
     "tags": [
@@ -9550,6 +9569,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kooky-gooey-northern-irish-cheese-ploughmans-lunch",
+    "title": "Kooky Gooey Northern Irish Cheese Ploughmans Lunch",
+    "tags": [
+      "citrusy",
+      "gooey",
+      "lacto-vegetarian",
+      "northern-irish",
+      "ploughmans-lunch",
+      "quick-fix"
+    ],
+    "cuisine": "Northern Irish",
+    "totalTimeMin": 17,
     "shard": "k"
   },
   {

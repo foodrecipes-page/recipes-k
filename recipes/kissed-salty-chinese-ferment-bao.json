@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Salty Chinese Ferment Bao",
+  "description": "This Zhejiang dish is a classic example of monsoon-inspired fermented Chinese cuisine, featuring a salty and chewy texture.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fermented rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Grape juice",
+      "amount": "1 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon",
+      "notes": "Coarse-ground"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "Instant yeast is not recommended for fermentation processes"
+    },
+    {
+      "name": "Mung bean paste",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "For brushing bao"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Combine fermented rice flour, salt, and yeast in a large mixing bowl. Knead dough for 10 minutes until elastic and smooth.",
+    "Place dough in a greased bowl, cover with plastic wrap, and let ferment in a warm, draft-free area for 24 hours.",
+    "Punch down dough, then mix in mung bean paste and water until a smooth batter forms.",
+    "Heat 1 cup of water in a medium saucepan over medium heat until it reaches 180°F.",
+    "Using a piping bag or a plastic squeeze bottle, pipe dough mixture into small circles.",
+    "Place each bao in the saucepan and cook for 3-5 minutes on each side, until golden brown and puffed.",
+    "Brush bao with sesame oil and garnish with chopped scallions if desired."
+  ],
+  "prepTimeMin": 48,
+  "cookTimeMin": 25,
+  "totalTimeMin": 73,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "bao",
+    "breakfast",
+    "chinese",
+    "fermented",
+    "grape",
+    "monsoon",
+    "salty",
+    "snack",
+    "vegan",
+    "zejiang"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-salty-chinese-ferment-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-salty-chinese-ferment-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:33:31Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "ferment",
+    "primaryIngredient": "grape juice",
+    "diet": "shojin",
+    "region": "zhejiang",
+    "cuisineAdjective": "chinese",
+    "mainIngredient": "ferment",
+    "descriptor": "kissed salty",
+    "dishForm": "bao"
+  }
+}

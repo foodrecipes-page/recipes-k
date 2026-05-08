@@ -1,0 +1,91 @@
+{
+  "title": "Kooky Gooey Northern Irish Cheese Ploughmans Lunch",
+  "description": "A lacto-vegetarian friendly ploughmans lunch featuring dried cranberries and a citrusy twist, perfect for a quick fix in Northern Ireland.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wexford cheese",
+      "amount": "200g",
+      "notes": "or other similar cheese"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "100g"
+    },
+    {
+      "name": "salt-bake crackers",
+      "amount": "1 packet"
+    },
+    {
+      "name": "grapefruit marmalade",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 bag"
+    },
+    {
+      "name": "orange segments",
+      "amount": "1 cup"
+    },
+    {
+      "name": "walnut pieces",
+      "amount": "50g"
+    },
+    {
+      "name": "butter",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "Place the Wexford cheese on a baking tray and bake for 5 minutes or until slightly melted.",
+    "Meanwhile, toast the salt-bake crackers by baking them in the oven for 2 minutes.",
+    "Spread the grapefruit marmalade on the toasted crackers.",
+    "Top the crackers with the melted cheese, dried cranberries, mixed greens, and orange segments.",
+    "Sprinkle the walnut pieces over the top.",
+    "Dot the butter over the cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "gooey",
+    "lacto-vegetarian",
+    "northern-irish",
+    "ploughmans-lunch",
+    "quick-fix"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kooky-gooey-northern-irish-cheese-ploughmans-lunch",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-gooey-northern-irish-cheese-ploughmans-lunch",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:33:04Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "salt-bake",
+    "primaryIngredient": "dried cranberries",
+    "diet": "lacto-vegetarian",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Kooky Gooey",
+    "dishForm": "Ploughmans Lunch"
+  }
+}
