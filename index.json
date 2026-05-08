@@ -1104,6 +1104,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-spicy-kenyan-lamb-kebabs",
+    "title": "Kicked Spicy Kenyan Lamb Kebabs",
+    "tags": [
+      "african-cuisine",
+      "dairy-free",
+      "gluten-free",
+      "grilled-meat",
+      "mediterranean-diet",
+      "spicy-food"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-spicy-southern-thai-mozzarella-larb",
     "title": "Kicked Spicy Southern Thai Mozzarella Larb",
     "tags": [
@@ -8631,6 +8646,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kooky-yeasty-turkish-sausage-flatbread",
+    "title": "Kooky Yeasty Turkish Sausage Flatbread",
+    "tags": [
+      "comfort-food",
+      "crowd-pleaser",
+      "fried-sausage",
+      "paleo-friendly",
+      "turkish-food",
+      "yeasty-dough"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

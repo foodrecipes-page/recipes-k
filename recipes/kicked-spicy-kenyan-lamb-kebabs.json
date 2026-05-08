@@ -1,0 +1,104 @@
+{
+  "title": "Kicked Spicy Kenyan Lamb Kebabs",
+  "description": "A spicy and comforting Kenyan dish featuring lamb, fennel, and a Mediterranean twist, grilled to perfection on a binchotan grill.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "fennel bulb",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch wedges"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch wedges"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together harissa, olive oil, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb cubes, fennel wedges, and red onion wedges onto skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lamb is cooked to an internal temperature of 145 degrees.",
+    "Flambe the kebabs with a small amount of rum or other high-proof liquor, if desired.",
+    "Let the kebabs rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh cilantro and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "grilled-meat",
+    "mediterranean-diet",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kicked-spicy-kenyan-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-kenyan-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:55:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "flambe",
+    "primaryIngredient": "fennel",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Kicked Spicy",
+    "dishForm": "Kebabs"
+  }
+}
