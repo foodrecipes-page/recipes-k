@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Charred Norwegian Veal Casserole",
+  "description": "A comforting Norwegian dish featuring veal, mother-sauce-base, and a satvik-friendly cheese pull, charred to perfection. This casserole is a hearty and satisfying meal for any occasion.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cutlets",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the oil over medium-high heat and char the veal cutlets for 2-3 minutes on each side.",
+    "Remove the veal from the skillet and set it aside, then add the chopped onion and carrots and cook until they are tender.",
+    "In a separate saucepan, heat the mother sauce over low heat.",
+    "In a large bowl, combine the cooked veal, onion, carrots, flour, salt, and pepper, and stir until the flour is well combined.",
+    "Add the heated mother sauce to the bowl and stir until the mixture is well coated.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the shredded cheese.",
+    "Bake the casserole in the preheated oven for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "norwegian-cuisine",
+    "satvik-friendly",
+    "veal-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-charred-norwegian-veal-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-norwegian-veal-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:30:16Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "veal",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "veal",
+    "descriptor": "kissed charred",
+    "dishForm": "Casserole"
+  }
+}

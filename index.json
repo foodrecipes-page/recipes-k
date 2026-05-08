@@ -837,6 +837,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-dense-slovakian-lentil-skillet",
+    "title": "Kicked Dense Slovakian Lentil Skillet",
+    "tags": [
+      "high-protein",
+      "lentil-based",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-double-fried-ukrainian-peas-pilaf",
     "title": "Kicked Double Fried Ukrainian Peas Pilaf",
     "tags": [
@@ -2987,6 +3001,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-charred-norwegian-veal-casserole",
+    "title": "Kissed Charred Norwegian Veal Casserole",
+    "tags": [
+      "casserole",
+      "cheesy",
+      "comfort-food",
+      "norwegian-cuisine",
+      "satvik-friendly",
+      "veal-recipes"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
