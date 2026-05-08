@@ -1295,6 +1295,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-up-greek-lamb-kebabs",
+    "title": "Kicked up Greek lamb Kebabs",
+    "tags": [
+      "grilled-meats",
+      "high-protein",
+      "mediterranean",
+      "one-pan",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-up-greek-red-potatoes-stew",
     "title": "Kicked Up Greek Red Potatoes Stew",
     "tags": [
@@ -5073,6 +5088,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-japanese-coconut-dessert-bao",
+    "title": "Kissed Japanese Coconut Dessert Bao",
+    "tags": [
+      "coconut",
+      "dessert",
+      "honey",
+      "pescatarian"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
