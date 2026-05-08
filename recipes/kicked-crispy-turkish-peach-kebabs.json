@@ -1,0 +1,105 @@
+{
+  "title": "Kicked Crispy Turkish Peach Kebabs",
+  "description": "A spicy and crispy Turkish dish featuring caramelized peaches, perfect for a lazy Sunday, and is flexitarian-friendly. This recipe is cooked on a salt block for added flavor.",
+  "cuisine": "Turkish",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 large",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "any color, thinly sliced"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly, optional"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 30 minutes.",
+    "In a large bowl, whisk together olive oil, red pepper flakes, salt, and black pepper.",
+    "Add the sliced red onion, bell peppers, and zucchini to the bowl and toss to coat with the oil mixture.",
+    "Thread the marinated vegetables and peaches onto skewers, leaving a little space between each piece.",
+    "Place the skewers on the preheated salt block and cook for 20 minutes, turning occasionally.",
+    "After 20 minutes, increase the oven temperature to broil and cook for an additional 5 minutes, or until the peaches are caramelized.",
+    "Remove the skewers from the oven and sprinkle with crumbled feta cheese and chopped parsley, if using.",
+    "Serve the kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-peaches",
+    "flexitarian",
+    "lazy-sunday",
+    "salt-block-cooking",
+    "spicy-kebabs",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kicked-crispy-turkish-peach-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crispy-turkish-peach-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:36:24Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "caramelize",
+    "primaryIngredient": "peaches",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "peaches",
+    "descriptor": "Kicked Crispy",
+    "dishForm": "Kebabs"
+  }
+}

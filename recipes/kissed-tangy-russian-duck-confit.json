@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Tangy Russian Duck Confit",
+  "description": "A tangy and juicy Russian dish featuring duck confit leg, perfect for a date night, with a raw-friendly twist. This recipe combines the richness of duck with the brightness of tangy flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck legs",
+      "amount": "4 legs",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "In a large bowl, whisk together olive oil, garlic, dill, lemon juice, apple cider vinegar, honey, salt, and black pepper.",
+    "Add the duck legs to the bowl and toss to coat evenly with the marinade.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Remove the duck legs from the marinade and place them on a baking sheet lined with parchment paper.",
+    "Bake the duck legs in the preheated oven for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Let the duck legs rest for 10 minutes before serving.",
+    "Serve the duck confit with a side of blanched vegetables, such as asparagus or carrots, and a raw-friendly slaw made with shredded cabbage and carrots."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "duck-recipes",
+    "gluten-free",
+    "russian-cuisine",
+    "tangy-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 42
+  },
+  "slug": "kissed-tangy-russian-duck-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tangy-russian-duck-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:37:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "blanch",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "duck",
+    "descriptor": "kissed tangy",
+    "dishForm": "Confit"
+  }
+}
