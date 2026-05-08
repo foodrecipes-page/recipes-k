@@ -1,0 +1,101 @@
+{
+  "title": "Knockout Pungent Dutch Pickle Stew",
+  "description": "A traditional Dutch stew featuring nuka-pickle, perfect for a sick day, cooked in a salt-block vessel for added flavor and nutrition.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nuka-pickle",
+      "amount": "2 cups",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 cups",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt-block vessel over medium heat for 10 minutes.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional 2 minutes.",
+    "Add the sliced carrots and cubed potatoes, cooking for 5 minutes.",
+    "Add the chopped nuka-pickle, water, salt, and black pepper, stirring well to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the chopped parsley and serve hot.",
+    "Let the stew cool for a few minutes before serving.",
+    "Serve the stew in bowls and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "gluten-free",
+    "salt-block-cooking",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "knockout-pungent-dutch-pickle-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-pungent-dutch-pickle-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:02:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "water",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "pickles",
+    "descriptor": "knockout pungent",
+    "dishForm": "Stew"
+  }
+}
