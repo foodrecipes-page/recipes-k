@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Chewy Chinese Noodles Chow Fun",
+  "description": "A cultured and chewy Chinese dish featuring tamarind paste, this halal-friendly meal prep recipe is perfect for a weeknight dinner, shaped like nigiri for a unique twist.",
+  "cuisine": "Chinese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 pound",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions.",
+    "In a small bowl, whisk together the tamarind paste, soy sauce, and vegetable oil to make the sauce.",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium heat and add the chopped scallions, grated ginger, and minced garlic.",
+    "Cook the scallion mixture for 2-3 minutes, or until fragrant, then add the cooked noodles and sauce to the skillet.",
+    "Stir everything together to combine, then season with salt and black pepper to taste.",
+    "Using your hands, shape the noodle mixture into small nigiri shapes, about 1 1/2 inches long and 1 inch wide.",
+    "Serve the Kissed Chewy Chinese Noodles Chow Fun warm, garnished with additional chopped scallions if desired.",
+    "Let the dish cool completely before refrigerating or freezing for later meal prep.",
+    "Reheat the noodles in the microwave or on the stovetop before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "halal-friendly",
+    "meal-prep",
+    "noodle-recipes",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-chewy-chinese-noodles-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-chewy-chinese-noodles-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:24Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "tamarind paste",
+    "diet": "halal",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "noodles",
+    "descriptor": "Kissed Chewy",
+    "dishForm": "Chow Fun"
+  }
+}
