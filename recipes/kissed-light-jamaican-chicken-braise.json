@@ -1,0 +1,112 @@
+{
+  "title": "Kissed Light Jamaican Chicken Braise",
+  "description": "A fresh and snappy Jamaican dish featuring amazake in a light braise, cooked to perfection in an agave leaf vessel, this recipe is nut-free-friendly and perfect for a special occasion.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "nut-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "amazake",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "agave nectar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together amazake, garlic, ginger, thyme, allspice, agave nectar, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Place the chicken mixture in the center of a large agave leaf, leaving a 1 inch border around the edges.",
+    "Fold the agave leaf over the chicken to form a packet, and secure with kitchen twine.",
+    "Place the packet in a large Dutch oven or oven-safe pot with a tight-fitting lid.",
+    "Add the chicken broth to the pot, covering the packet completely.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the chicken for 45 minutes, or until cooked through.",
+    "Remove the pot from the oven and let cool for 10 minutes.",
+    "Serve the chicken hot, garnished with diced scotch bonnet peppers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-dishes",
+    "chicken-recipes",
+    "gluten-free",
+    "jamaican-cuisine",
+    "nut-free",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kissed-light-jamaican-chicken-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-jamaican-chicken-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:41:31Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "amazake",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Light",
+    "dishForm": "Braise"
+  }
+}
