@@ -1,0 +1,84 @@
+{
+  "title": "Kissed Greek Honey Flatbread",
+  "description": "A sweet and gooey Greek dish featuring a jammy honey filling on a long-fermentation dough bun, perfect for kids and kosher-friendly",
+  "cuisine": "Greek",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add olive oil and water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Punch down the dough and divide it into 4 equal pieces.",
+    "Roll out each piece into a ball and flatten it slightly into a disk shape.",
+    "Place 1-2 tablespoons of honey in the center of each disk.",
+    "Fold the dough over the honey to form a half-moon shape and press the edges together to seal.",
+    "Bake the flatbreads for 15-20 minutes or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "greek-food",
+    "honey-based",
+    "kid-friendly",
+    "kosher-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "kissed-greek-honey-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-greek-honey-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:05:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "bun",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "honey",
+    "descriptor": "kid friendly",
+    "dishForm": "Flatbread"
+  }
+}

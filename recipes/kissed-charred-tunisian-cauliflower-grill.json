@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Charred Tunisian Cauliflower Grill",
+  "description": "A charred and flaky Tunisian dish featuring cauliflower, perfect for a hangover cure, made on a yakimono grill and served on a slate tile.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "harissa",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, garlic, harissa, lemon juice, salt, black pepper, and paprika.",
+    "Add the cauliflower florets to the bowl and toss to coat with the marinade.",
+    "Grill the cauliflower for 5 minutes per side, or until charred and tender.",
+    "Remove the cauliflower from the grill and place on a slate tile.",
+    "Sprinkle the chopped parsley over the top of the cauliflower.",
+    "Serve the cauliflower hot, garnished with additional parsley if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower-recipes",
+    "grilled-vegetables",
+    "healthy-eating",
+    "low-carb",
+    "quick-meals",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "kissed-charred-tunisian-cauliflower-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-tunisian-cauliflower-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:06:04Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "flaky",
+    "mood": "hangover-cure",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "cauliflower",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cauliflower",
+    "descriptor": "kissed charred",
+    "dishForm": "Grill"
+  }
+}
