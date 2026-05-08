@@ -1,0 +1,134 @@
+{
+  "title": "kissed canadian citrusy lentils hash",
+  "description": "a citrusy and tender meal prep dish inspired by canadian cuisine, featuring orange blossom water and a rich fond. perfect for a weeknight dinner or brunch.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fond (deglazed with apple cider vinegar)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium heat.",
+    "add the chopped onion and cook until translucent, about 5 minutes.",
+    "add the chopped carrots and celery and cook for another 5 minutes.",
+    "add the minced garlic and cook for 1 minute, until fragrant.",
+    "add the lentils, orange juice, orange blossom water, paprika, cumin, and coriander. stir to combine.",
+    "cook the lentil mixture for 5 minutes, stirring occasionally.",
+    "add the fond and stir to deglaze the pan.",
+    "season with salt and black pepper to taste.",
+    "serve the lentil hash hot, garnished with fresh parsley.",
+    "transfer the hash to an airtight container and refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "gluten-free",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-canadian-citrusy-lentils-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-citrusy-lentils-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:39Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "orange blossom water",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "citrusy lentils",
+    "descriptor": "kissed",
+    "dishForm": "hash"
+  }
+}

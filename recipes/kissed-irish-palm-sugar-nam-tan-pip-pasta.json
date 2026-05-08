@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Irish Palm-Sugar-Nam-Tan-Pip Pasta",
+  "description": "A grassy, molten, romantic Irish dish featuring palm-sugar-nam-tan-pip, pasta-water-emulsion, and FODMAP-friendly ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Palm sugar-nam-tan-pip",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "FODMAP-friendly pasta",
+      "amount": "320g",
+      "notes": ""
+    },
+    {
+      "name": "Grassy Irish butter",
+      "amount": "55g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Ground sea salt",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1/4 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Water",
+      "amount": "250ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Add the FODMAP-friendly pasta and cook until al dente, about 8 minutes.",
+    "While the pasta cooks, combine palm sugar-nam-tan-pip, grassy Irish butter, and fresh parsley in a saucepan over low heat, stirring constantly.",
+    "Create a pasta-water emulsion by gradually adding the hot pasta water to the saucepan, whisking continuously until the mixture is smooth and creamy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "fodmap-friendly",
+    "gluten-free",
+    "irish",
+    "romantic"
+  ],
+  "nutrition": {
+    "calories": 740,
+    "protein": 8,
+    "carbs": 140,
+    "fat": 24
+  },
+  "slug": "kissed-irish-palm-sugar-nam-tan-pip-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-irish-palm-sugar-nam-tan-pip-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:25:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "palm-sugar-nam-tan-pip",
+    "descriptor": "Kissed",
+    "dishForm": "Pasta"
+  }
+}

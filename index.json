@@ -2658,6 +2658,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-canadian-citrusy-lentils-hash",
+    "title": "kissed canadian citrusy lentils hash",
+    "tags": [
+      "canadian",
+      "gluten-free",
+      "one-pan",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "canadian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-canadian-daikon-hash",
     "title": "Kissed Canadian Daikon Hash",
     "tags": [
@@ -2787,6 +2801,20 @@
     ],
     "cuisine": "American",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-cedar-plank-italian-sea-bass-pasta",
+    "title": "Kissed Cedar-Plank Italian Sea Bass Pasta",
+    "tags": [
+      "cedar-plank",
+      "italian",
+      "pasta",
+      "sea-bass",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 36,
     "shard": "k"
   },
   {
@@ -4894,6 +4922,20 @@
     ],
     "cuisine": "irish",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-irish-palm-sugar-nam-tan-pip-pasta",
+    "title": "Kissed Irish Palm-Sugar-Nam-Tan-Pip Pasta",
+    "tags": [
+      "dairy-free",
+      "fodmap-friendly",
+      "gluten-free",
+      "irish",
+      "romantic"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
