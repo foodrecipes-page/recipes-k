@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Crispy Middle Eastern Cheese Knafeh",
+  "description": "A savory and comforting Middle Eastern dish featuring crispy cheese and freshly chopped parsley, perfect for a flexitarian snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "akawi cheese",
+      "amount": "1 cup",
+      "notes": "or other Middle Eastern cheese"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/2 cup",
+      "notes": "freshly chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cut the phyllo dough into 4 equal pieces and layer them in a ramekin, brushing each layer with melted butter.",
+    "Crumble the akawi cheese and sprinkle it over the phyllo dough, leaving a 1 inch border around the edges.",
+    "Sprinkle the chopped parsley, salt, and sumac over the cheese.",
+    "Drizzle the rose water and water over the top of the knafeh, if using.",
+    "Fold the edges of the phyllo dough over the filling to form a crust.",
+    "Brush the top of the knafeh with melted butter and bake for 25 minutes, or until golden brown.",
+    "Remove the knafeh from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "cheesy",
+    "crispy",
+    "flexitarian",
+    "middle-eastern",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kissed-crispy-middle-eastern-cheese-knafeh",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-middle-eastern-cheese-knafeh",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:42:51Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crispy",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "cheese",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Knafeh"
+  }
+}
