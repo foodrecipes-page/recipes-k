@@ -1,0 +1,103 @@
+{
+  "title": "Kicked Peppery Vietnamese Peppers Noodles",
+  "description": "A spicy and flavorful Vietnamese dish featuring peppers and ferment-jang, perfect for meal prep. This nut-free-friendly recipe is great for those with dietary restrictions.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vietnamese peppers",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to package instructions and set aside.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the sliced Vietnamese peppers and cook until they start to soften.",
+    "Add the minced garlic and grated ginger and cook for an additional 2 minutes.",
+    "Stir in the ferment-jang, fish sauce, lime juice, salt, and black pepper.",
+    "Add the cooked noodles to the skillet and toss everything together.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "nut-free",
+    "pepper-based",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kicked-peppery-vietnamese-peppers-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-peppery-vietnamese-peppers-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:09:07Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "ferment-jang",
+    "primaryIngredient": "peppers",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "peppers",
+    "descriptor": "kicked peppery",
+    "dishForm": "Noodles"
+  }
+}
