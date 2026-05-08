@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Flaky Croatian Meat Pastry",
+  "description": "A traditional Croatian dish featuring flaky pastry and savory meat filling, perfect for a weeknight dinner. This recipe uses dark brown soft sugar and can be adapted to be sugar-free-friendly.",
+  "cuisine": "Croatian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons",
+      "notes": "or sugar substitute"
+    },
+    {
+      "name": "flaky pastry dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion to the skillet and cook until it is translucent.",
+    "Stir in the dark brown soft sugar, salt, and black pepper.",
+    "Roll out the flaky pastry dough to a thickness of about 1/8 inch.",
+    "Spoon the meat mixture onto one half of the pastry dough, leaving a 1/2 inch border around the edges.",
+    "Brush the edges of the pastry dough with the beaten egg.",
+    "Fold the other half of the pastry dough over the meat mixture and press the edges to seal.",
+    "Place the pastry in a copper mug and bake for 25 minutes, or until the pastry is golden brown.",
+    "Remove the pastry from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "meat-pastry",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-flaky-croatian-meat-pastry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-flaky-croatian-meat-pastry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:57:05Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "flaky",
+    "mood": "weeknight",
+    "technique": "en-croute",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "meat",
+    "descriptor": "kissed flaky",
+    "dishForm": "Pastry"
+  }
+}
