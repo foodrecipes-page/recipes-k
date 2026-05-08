@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Tender Ethiopian Chicken Bake",
+  "description": "A savory and tender Ethiopian dish featuring yellow curry paste, perfect for a low-carb dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 lbs",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the yellow curry paste, coconut oil, salt, and black pepper.",
+    "Add the chopped onion, minced garlic, and grated ginger to the bowl and mix well.",
+    "Add the chicken pieces to the bowl and toss to coat with the curry paste mixture.",
+    "Transfer the chicken mixture to a baking dish and pour in the chicken broth.",
+    "Bake the chicken in the preheated oven for 30 minutes.",
+    "Reduce the oven temperature to 375 degrees Fahrenheit and continue baking for an additional 20 minutes.",
+    "Remove the chicken from the oven and let it rest for 10 minutes before serving.",
+    "Serve the chicken hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-chicken",
+    "ethiopian-cuisine",
+    "gluten-free",
+    "low-carb",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 18
+  },
+  "slug": "kissed-tender-ethiopian-chicken-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-ethiopian-chicken-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:46:28Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed tender",
+    "dishForm": "Bake"
+  }
+}

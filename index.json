@@ -5414,6 +5414,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-tender-ethiopian-chicken-bake",
+    "title": "Kissed Tender Ethiopian Chicken Bake",
+    "tags": [
+      "baked-chicken",
+      "ethiopian-cuisine",
+      "gluten-free",
+      "low-carb",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-tender-ethiopian-oyster-skewers",
     "title": "Kissed Tender Ethiopian Oyster Skewers",
     "tags": [
@@ -6948,6 +6963,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 90,
+    "shard": "k"
+  },
+  {
+    "slug": "kosher-braised-algerian-lamb-tagine",
+    "title": "Kosher Braised Algerian Lamb Tagine",
+    "tags": [
+      "braised-meat",
+      "comfort-food",
+      "kosher-friendly",
+      "north-african",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
     "shard": "k"
   },
   {
