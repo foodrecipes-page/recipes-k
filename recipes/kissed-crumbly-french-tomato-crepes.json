@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Crumbly French Tomato Crepes",
+  "description": "A cozy French dish featuring canned tomatoes and toast, wrapped in a low-glycemic-friendly crepe, this recipe is perfect for a satisfying meal. The combination of crumbly texture and resinous flavor will leave you wanting more.",
+  "cuisine": "French",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "used for crepe batter"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "used for crepe batter"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "4 slices",
+      "notes": "toasted and crumbled"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "used for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together almond flour, eggs, and melted butter to make the crepe batter.",
+    "Heat a small non-stick pan over medium heat and pour a small amount of batter to make a thin crepe.",
+    "Cook the crepe for 1-2 minutes on each side until lightly browned and set aside.",
+    "Repeat the process to make 8 crepes in total.",
+    "In a separate pan, heat the olive oil over medium heat and add the chopped canned tomatoes, salt, and pepper.",
+    "Cook the tomato mixture for 5 minutes, stirring occasionally, until the liquid has reduced and the mixture is thickened.",
+    "To assemble the dish, place a cooked crepe on a plate, spoon some tomato mixture in the center, and top with crumbled whole wheat bread and feta cheese.",
+    "Fold the crepe in half to enclose the filling and serve immediately.",
+    "Repeat the process to assemble the remaining crepes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "crepe-recipes",
+    "french-cuisine",
+    "gluten-free",
+    "low-glycemic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "kissed-crumbly-french-tomato-crepes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crumbly-french-tomato-crepes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:33:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "cozy",
+    "technique": "toast",
+    "primaryIngredient": "canned tomatoes",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tomatoes",
+    "descriptor": "Kissed Crumbly",
+    "dishForm": "Crepes"
+  }
+}
