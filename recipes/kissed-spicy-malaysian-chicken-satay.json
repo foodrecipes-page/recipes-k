@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Spicy Malaysian Chicken Satay",
+  "description": "A flavorful and spicy Malaysian dish featuring chicken satay cooked in a mixture of spices and wrapped in pandan leaves, this recipe is a unique blend of grassy and shattering flavors, with the crunch of raw-friendly ingredients and the aroma of tandoor, all in one pot, using pandan leaf wraps as the vessel.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "mixed spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tandoor paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mixed spice blend, tandoor paste, and coconut milk.",
+    "Add the chicken pieces to the bowl and toss to coat with the spice mixture.",
+    "Wrap each piece of chicken in a pandan leaf, securing with a toothpick if needed.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Add the wrapped chicken pieces to the skillet and cook for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Remove the chicken from the oven and let cool for a few minutes.",
+    "Serve the chicken satay hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "malaysian-cuisine",
+    "one-pot-meal",
+    "pandan-leaf",
+    "spicy-food",
+    "tandoor-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-spicy-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:31:12Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "mixed spice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed spicy",
+    "dishForm": "Satay"
+  }
+}
