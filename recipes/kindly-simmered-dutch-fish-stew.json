@@ -1,0 +1,103 @@
+{
+  "title": "Kindly Simmered Dutch Fish Stew",
+  "description": "A savory and light Dutch fish stew featuring orange, perfect for a weeknight dinner. This pescatarian-friendly dish is easy to make and delicious to eat.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the cod fillets under cold water and pat them dry with paper towels.",
+    "In a large pot, combine the orange juice, water, carrots, potatoes, onion, garlic, thyme, salt, and black pepper.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the cod fillets to the pot and simmer for an additional 8 minutes, or until the fish is cooked through.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "fish-based",
+    "low-fat",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "kindly-simmered-dutch-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kindly-simmered-dutch-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:59:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "light",
+    "technique": "simmer",
+    "primaryIngredient": "orange",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "Kindly Simmered",
+    "dishForm": "Stew"
+  }
+}

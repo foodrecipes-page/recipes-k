@@ -1,0 +1,98 @@
+{
+  "title": "Knotted Dense Russian Egg Dumplings",
+  "description": "A traditional Russian dish featuring egg roll wrappers and Mediterranean-friendly ingredients, steamed to perfection in a Korean brass bowl.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg roll wrappers",
+      "amount": "20 sheets",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crumbled feta cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine warm water, yeast, and sugar, and let it sit for 5 minutes until the yeast is activated.",
+    "Add the egg roll wrappers to the bowl and let them soak in the yeast mixture for 10 minutes.",
+    "In a separate bowl, whisk together the eggs, salt, and chopped fresh dill.",
+    "Add the crumbled feta cheese to the egg mixture and stir until well combined.",
+    "Remove the egg roll wrappers from the yeast mixture and cut them into quarters.",
+    "Place a small spoonful of the egg and feta mixture onto the center of each wrapper quarter.",
+    "Fold the wrapper into a knot and press the edges together to seal the dumpling.",
+    "Place the dumplings in a Korean brass bowl and drizzle with olive oil.",
+    "Steam the dumplings over boiling water for 10 minutes, or until they are cooked through and fluffy.",
+    "Serve the dumplings hot, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "mediterranean",
+    "one-pot",
+    "russian",
+    "steamed",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "knotted-dense-russian-egg-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-dense-russian-egg-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:58:40Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "dense",
+    "mood": "weeknight",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "egg roll wrappers",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "eggs",
+    "descriptor": "Knotted Dense",
+    "dishForm": "Dumplings"
+  }
+}

@@ -1692,6 +1692,21 @@
     "shard": "k"
   },
   {
+    "slug": "kindly-simmered-dutch-fish-stew",
+    "title": "Kindly Simmered Dutch Fish Stew",
+    "tags": [
+      "comfort-food",
+      "dutch-cuisine",
+      "fish-based",
+      "low-fat",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 38,
+    "shard": "k"
+  },
+  {
     "slug": "kinetic-vietnamese-cabbage-banh-cuon",
     "title": "Kinetic Vietnamese Cabbage Banh Cuon",
     "tags": [
@@ -8676,6 +8691,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-dense-russian-egg-dumplings",
+    "title": "Knotted Dense Russian Egg Dumplings",
+    "tags": [
+      "dumplings",
+      "mediterranean",
+      "one-pot",
+      "russian",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
