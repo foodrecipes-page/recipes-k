@@ -1,0 +1,104 @@
+{
+  "title": "Kissed with Ice Syrian Chickpea Bowl",
+  "description": "Tender chickpeas and sweet potatoes are poached and served with a refreshing scoop of rose water ice cream, making this a perfect comfort dish for a sick day.",
+  "cuisine": "Syrian",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for poaching"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "ice cream",
+      "amount": "1 scoop",
+      "notes": "rose water flavored"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large saucepan, combine the chickpeas, sweet potatoes, onion, and garlic.",
+    "Add enough water to the saucepan to cover the ingredients and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and let the mixture simmer for 15 minutes, or until the sweet potatoes are tender.",
+    "Remove the saucepan from the heat and let it cool slightly.",
+    "Strain the chickpea mixture and discard the liquid.",
+    "Return the saucepan to the stovetop over medium heat and add the rose water, if using.",
+    "Stir well to combine and let the mixture cook for 1-2 minutes, or until the flavors have melded together.",
+    "To serve, divide the chickpea mixture among four bowls and top each bowl with a scoop of ice cream.",
+    "Sprinkle the ice cream with salt and black pepper to taste, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "egg-free",
+    "healthy",
+    "sick-day"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-with-ice-syrian-chickpea-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-ice-syrian-chickpea-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:07:55Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "poach",
+    "primaryIngredient": "ice cream",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chickpea",
+    "descriptor": "Kissed with Ice",
+    "dishForm": "Bowl"
+  }
+}
