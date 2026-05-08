@@ -5204,6 +5204,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-nutty-ukrainian-fish-fillet-skewers",
+    "title": "Kissed Nutty Ukrainian Fish Fillet Skewers",
+    "tags": [
+      "fish-recipes",
+      "gluten-free",
+      "high-protein",
+      "low-carb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 32,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-pan-american-veal-casserole",
     "title": "Kissed Pan American Veal Casserole",
     "tags": [
@@ -7962,6 +7977,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-crispy-german-pork-skewers",
+    "title": "Knockout Crispy German Pork Skewers",
+    "tags": [
+      "german-cuisine",
+      "high-protein",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {

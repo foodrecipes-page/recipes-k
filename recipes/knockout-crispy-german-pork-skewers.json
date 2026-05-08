@@ -1,0 +1,103 @@
+{
+  "title": "Knockout Crispy German Pork Skewers",
+  "description": "A rich and crispy German dish featuring gorgonzola-dolce, perfect for adventurous eaters, this paleo-friendly recipe is a knockout at any dinner party.",
+  "cuisine": "German",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "gorgonzola-dolce",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pork rinds",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together coconut aminos, apple cider vinegar, black pepper, garlic powder, and onion powder.",
+    "Add the pork cubes to the bowl and marinate for at least 30 minutes.",
+    "In a separate bowl, mix together crushed pork rinds and chopped parsley.",
+    "Remove the pork from the marinade and dip each cube into the beaten egg, then roll in the pork rind mixture to coat.",
+    "Thread the coated pork cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "While the pork is baking, crumble the gorgonzola-dolce into a bowl.",
+    "After 20 minutes, remove the skewers from the oven and top each piece of pork with a small amount of crumbled gorgonzola-dolce.",
+    "Return the skewers to the oven and bake for an additional 5 minutes, or until the cheese is melted and the pork is crispy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "knockout-crispy-german-pork-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-crispy-german-pork-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:31:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "marinate",
+    "primaryIngredient": "gorgonzola-dolce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "pork",
+    "descriptor": "Knockout Crispy",
+    "dishForm": "Skewers"
+  }
+}
