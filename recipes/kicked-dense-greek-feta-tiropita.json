@@ -1,0 +1,97 @@
+{
+  "title": "Kicked Dense Greek Feta Tiropita",
+  "description": "A dense and flavorful Greek dish featuring feta cheese, dried cherries, and a rich deglaze fond, perfect for a crowd-pleasing snack or light meal.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "feta cheese",
+      "amount": "1 1/2 cups crumbled",
+      "notes": "preferably Greek"
+    },
+    {
+      "name": "dried cherries",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup melted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, eggs, melted butter, salt, and black pepper.",
+    "Add the crumbled feta cheese and dried cherries to the bowl and mix until well combined.",
+    "Roll out the mixture into a large tiropita shape, about 1/4 inch thick.",
+    "Place the tiropita on a baking sheet lined with parchment paper and brush with olive oil.",
+    "Bake the tiropita for 25 minutes, or until golden brown.",
+    "While the tiropita is baking, heat the red wine in a small saucepan over medium heat until reduced to a thick deglaze fond.",
+    "Remove the tiropita from the oven and brush with the deglaze fond.",
+    "Return the tiropita to the oven and bake for an additional 5 minutes, or until the fond is caramelized."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bitter",
+    "crowd-pleaser",
+    "dense",
+    "greek-cuisine",
+    "low-carb",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "kicked-dense-greek-feta-tiropita",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-dense-greek-feta-tiropita",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:34:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "dried cherries",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "feta",
+    "descriptor": "Kicked Dense",
+    "dishForm": "Tiropita"
+  }
+}
