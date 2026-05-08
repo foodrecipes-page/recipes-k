@@ -2176,6 +2176,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-australian-noodle-dish",
+    "title": "Kissed Australian Noodle Dish",
+    "tags": [
+      "australian-cuisine",
+      "easy-dinner",
+      "healthy-meal",
+      "kid-friendly",
+      "ovo-vegetarian",
+      "quick-meal"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-australian-pineapple-crumble",
     "title": "Kissed Australian Pineapple Crumble",
     "tags": [

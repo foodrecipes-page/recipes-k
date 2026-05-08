@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Australian Noodle Dish",
+  "description": "A light and kid-friendly Australian dish featuring brown rice noodles, mantecare-emulsify sauce, and vegetables, all wrapped in a banana leaf. This ovo-vegetarian friendly dish is perfect for a quick and easy meal.",
+  "cuisine": "Australian",
+  "diet": [
+    "ovo-vegetarian",
+    "emulsify-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "mantecare-emulsify sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "hard-boiled and sliced"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the brown rice noodles according to package instructions and set aside.",
+    "In a large bowl, whisk together the mantecare-emulsify sauce, olive oil, salt, and pepper.",
+    "Add the mixed vegetables and cooked noodles to the bowl and toss to combine.",
+    "Stir in the sliced hard-boiled eggs.",
+    "Lay a banana leaf flat on a work surface and spoon the noodle mixture onto the center of the leaf.",
+    "Fold the banana leaf over the filling to form a packet and repeat with the remaining ingredients.",
+    "Place the packets on a baking sheet and bake for 15 minutes.",
+    "Serve the Kissed Australian Noodle Dish hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "easy-dinner",
+    "healthy-meal",
+    "kid-friendly",
+    "ovo-vegetarian",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-australian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-australian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:01:06Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "noodles",
+    "descriptor": "kid friendly light",
+    "dishForm": "Noodles"
+  }
+}
