@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Velvety Middle Eastern Chickpeas Falafel",
+  "description": "A low-glycemic, meal-prep friendly Middle Eastern dish featuring black cardamom pods and air-fried falafel, with a grassy and velvety texture.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "low-glycemic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 1/2 cups",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "2",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375 degrees Fahrenheit.",
+    "In a food processor, combine chickpeas, ground black cardamom pods, onion, garlic, parsley, lemon juice, salt, and pepper, and process until well combined and slightly chunky.",
+    "Using your hands, shape the mixture into 8-10 falafel patties.",
+    "Place the falafel patties in a single layer in the air fryer basket.",
+    "Drizzle the olive oil over the falafel patties.",
+    "Air-fry the falafel for 12-15 minutes, shaking the basket halfway through.",
+    "Remove the falafel from the air fryer and let them cool on a paper towel-lined plate.",
+    "Serve the falafel warm or at room temperature.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "low-glycemic",
+    "meal-prep",
+    "middle-eastern",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-velvety-middle-eastern-chickpeas-falafel",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-middle-eastern-chickpeas-falafel",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:50:58Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Kissed Velvety",
+    "dishForm": "Falafel"
+  }
+}

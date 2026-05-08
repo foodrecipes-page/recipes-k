@@ -3540,6 +3540,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-herbal-brazilian-chickpeas-skillet",
+    "title": "Kissed Herbal Brazilian Chickpeas Skillet",
+    "tags": [
+      "brazilian-cuisine",
+      "brunch-ideas",
+      "halal-friendly",
+      "herbal-dishes",
+      "one-pan"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-herbal-egyptian-chwinamul-bowl",
     "title": "Kissed Herbal Egyptian Chwinamul Bowl",
     "tags": [
@@ -5890,6 +5904,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-middle-eastern-chickpeas-falafel",
+    "title": "Kissed Velvety Middle Eastern Chickpeas Falafel",
+    "tags": [
+      "air-fryer",
+      "low-glycemic",
+      "meal-prep",
+      "middle-eastern",
+      "vegan",
+      "vegetarian"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
