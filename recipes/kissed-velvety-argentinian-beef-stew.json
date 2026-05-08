@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Velvety Argentinian Beef Stew",
+  "description": "A rich and savory Argentinian beef stew featuring perilla leaf and stone bowl cooking, perfect for a midnight craving.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "perilla leaves",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cazuela over medium high heat.",
+    "Add the beef short ribs and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onions and cook until they are translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the red wine, beef broth, tomato paste, salt, and black pepper, and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 1/2 hours.",
+    "Add the chopped perilla leaves to the stew and cook for an additional 30 minutes, until the leaves are wilted.",
+    "Serve the stew hot, garnished with additional perilla leaves if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "beef-stew",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 60
+  },
+  "slug": "kissed-velvety-argentinian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-argentinian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:52:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed velvety",
+    "dishForm": "Stew"
+  }
+}
