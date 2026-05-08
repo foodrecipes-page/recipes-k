@@ -1,0 +1,113 @@
+{
+  "title": "Kissed roasted Brazilian beans Bowl",
+  "description": "A delicious flexitarian dish featuring refried beans, nimono-simmer, and a hint of Brazilian spices. Perfect for a cozy dinner or romantic evening.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "refried black beans",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "diced red bell pepper",
+      "amount": "1 cup",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "diced yellow onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Brazilian-style salsa",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, toss together the refried black beans, diced red bell pepper, and chopped yellow onion.",
+    "In a small bowl, whisk together the cumin, coriander, smoked paprika, salt, and black pepper.",
+    "Add the spice blend to the bean mixture and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and drizzle with olive oil.",
+    "Bake in the preheated oven for 25 minutes, stirring occasionally.",
+    "While the beans are baking, prepare the nimono-simmer.",
+    "In a medium saucepan, combine the water and Brazilian-style salsa.",
+    "Bring to a simmer over medium heat.",
+    "Reduce the heat to low and let simmer for 10 minutes, stirring occasionally.",
+    "To assemble the bowls, place a scoop of the roasted bean mixture on the bottom of a bowl.",
+    "Top with a spoonful of the nimono-simmer and garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "flexitarian",
+    "one-pan",
+    "romantic",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kissed-roasted-brazilian-beans-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-brazilian-beans-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:54:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "refried beans",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beans",
+    "descriptor": "Kissed roasted",
+    "dishForm": "Bowl"
+  }
+}
