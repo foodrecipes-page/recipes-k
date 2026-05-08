@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Norwegian Citrus Cookies",
+  "description": "These citrusy cookies are baked to perfection in a wood-fired Dutch oven, perfect for a brunch gathering, and are nut-free friendly. They have a snappy texture and a burst of citrus flavor.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired Dutch oven to 375 degrees Fahrenheit.",
+    "In a large bowl, cream together the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time, followed by the orange zest and juice.",
+    "In a separate bowl, whisk together the flour, baking powder, and salt.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Scoop the dough into balls, about 1 tablespoon each, and place on a baking sheet lined with parchment paper.",
+    "Place the baking sheet in the preheated Dutch oven and bake for 12-15 minutes, or until the edges are lightly golden.",
+    "Remove the cookies from the oven and let cool on a wire rack for 5 minutes.",
+    "Serve the cookies warm, garnished with additional orange zest if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "brunch",
+    "citrusy",
+    "dutch-oven",
+    "norwegian",
+    "snack",
+    "snappy",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "kissed-norwegian-citrus-cookies",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-norwegian-citrus-cookies",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:23:31Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "brunch-mood",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "cookies",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "citrus",
+    "descriptor": "kissed wood fired",
+    "dishForm": "Cookies"
+  }
+}
