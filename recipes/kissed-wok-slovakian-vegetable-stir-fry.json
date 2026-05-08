@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Wok Slovakian Vegetable Stir Fry",
+  "description": "A savory and light Slovakian dish featuring stir-fry vegetables, wok-hei, and Buddhist-temple-friendly ingredients, cooked to perfection in a Dutch oven.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "broccoli",
+      "amount": "3 cups",
+      "notes": "florets"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a Dutch oven over medium-high heat.",
+    "Add the sliced onions and cook until they are translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced carrots and cook for 2 minutes.",
+    "Add the broccoli florets and cook until they are tender.",
+    "Add the sliced bell peppers and cook until they are tender.",
+    "Add the sliced mushrooms and cook until they are tender.",
+    "Stir in the soy sauce and cook for 1 minute.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "buddhist-friendly",
+    "dutch-oven",
+    "meal-prep",
+    "slovakian",
+    "stir-fry",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-wok-slovakian-vegetable-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-wok-slovakian-vegetable-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:24:44Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "wok-hei",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "vegetables",
+    "descriptor": "kissed wok",
+    "dishForm": "Stir-fry"
+  }
+}
