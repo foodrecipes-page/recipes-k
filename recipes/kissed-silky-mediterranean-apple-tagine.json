@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Silky Mediterranean Apple Tagine",
+  "description": "A jammy and silky Mediterranean dish featuring applesauce, with a nostalgic and smoky flavor, made with satvik-friendly ingredients. This dish is perfect for a cold winter night.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "4 large",
+      "notes": "Granny Smith or other sweet varieties"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the sliced onion and cook until it is softened and lightly caramelized.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the smoked paprika, cumin, coriander, and cinnamon, and stir to combine.",
+    "Add the chopped apples, honey, and lemon juice, and stir to combine.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the apples are tender.",
+    "Mash the apples with a fork or potato masher to create a silky texture.",
+    "Season with salt to taste.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mediterranean",
+    "one-pot",
+    "satvik",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-silky-mediterranean-apple-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-mediterranean-apple-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:21:31Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "smoke-cold",
+    "primaryIngredient": "applesauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "apples",
+    "descriptor": "kissed silky",
+    "dishForm": "Tagine"
+  }
+}
