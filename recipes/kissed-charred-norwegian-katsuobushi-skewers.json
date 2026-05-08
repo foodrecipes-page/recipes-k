@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Charred Norwegian Katsuobushi Skewers",
+  "description": "A low-carb Norwegian dish featuring charred katsuobushi, perfect for a date night, with a bouncy qq texture from the katsuramuki-cut technique.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "katsuobushi",
+      "amount": "1 cup",
+      "notes": "dried and fermented bonito flakes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "Thread the katsuobushi onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, ginger, salt, and black pepper.",
+    "Brush the mixture onto both sides of the katsuobushi.",
+    "Grill the skewers for 2-3 minutes per side, or until slightly charred.",
+    "Remove the skewers from the grill and garnish with chopped parsley.",
+    "Serve immediately and enjoy.",
+    "Make sure to cook the katsuobushi to an internal temperature of at least 165 degrees Fahrenheit.",
+    "Let the skewers rest for a minute or two before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "grilled",
+    "healthy",
+    "low-carb",
+    "norwegian-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 12
+  },
+  "slug": "kissed-charred-norwegian-katsuobushi-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-norwegian-katsuobushi-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:46:38Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "date-night",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "katsuobushi",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "katsuobushi",
+    "descriptor": "kissed charred",
+    "dishForm": "Skewers"
+  }
+}
