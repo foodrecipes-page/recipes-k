@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Fluffy Kenyan Spaghetti Pasta",
+  "description": "A cultured and fluffy Kenyan dish featuring spaghetti and bonito-shave, made plant-based-friendly. This romantic dish is perfect for a special occasion.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tbsp",
+      "notes": "vegan alternative to traditional bonito"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp",
+      "notes": "for cheesy flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute, stirring constantly to prevent burning.",
+    "Stir in the bonito flakes, tomato sauce, nutritional yeast, salt, and black pepper, and bring the sauce to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally.",
+    "Drain the cooked spaghetti and add it to the skillet with the sauce, tossing to combine.",
+    "Serve the spaghetti hot, garnished with additional nutritional yeast if desired.",
+    "Let the dish rest for a few minutes before serving to allow the flavors to meld together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "kenyan-cuisine",
+    "one-pot",
+    "plant-based",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "kissed-fluffy-kenyan-spaghetti-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-kenyan-spaghetti-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:43:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "spaghetti",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "spaghetti",
+    "descriptor": "Kissed Fluffy",
+    "dishForm": "Pasta"
+  }
+}
