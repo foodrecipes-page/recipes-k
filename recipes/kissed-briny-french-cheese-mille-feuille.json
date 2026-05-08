@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Briny French Cheese Mille Feuille",
+  "description": "A satvik-friendly, adventurous French dish featuring pico de gallo sauce and a cheese-pull, served in a tajine-clay vessel, with a briny and savory flavor profile.",
+  "cuisine": "French",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "chevre cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "glaze",
+      "amount": "1/2 cup",
+      "notes": "made from reduced pico de gallo sauce"
+    },
+    {
+      "name": "fleur de sel",
+      "amount": "1/4 cup",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry to a thickness of about 1/8 inch.",
+    "Cut the pastry into long, thin strips, about 1 inch wide.",
+    "Layer the pastry strips in a tajine-clay vessel, brushing each strip with olive oil.",
+    "Spread a layer of chevre cheese on top of the pastry strips.",
+    "Drizzle the pico de gallo sauce over the cheese.",
+    "Repeat the layers two more times, ending with a layer of pastry on top.",
+    "Brush the top layer of pastry with the glaze.",
+    "Season with fleur de sel to taste.",
+    "Bake the mille feuille in the preheated oven for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "briny",
+    "cheese-pull",
+    "french-cuisine",
+    "satvik-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "kissed-briny-french-cheese-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-briny-french-cheese-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:52:32Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "glaze",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "cheese",
+    "descriptor": "Kissed Briny",
+    "dishForm": "Mille Feuille"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "title": "Kiddie Friendly Croatian Celery Casserole",
+  "description": "A tasty and kid-friendly Croatian dish featuring celery, with a mustardy and crumbly texture, perfect for a weeknight dinner. This Mediterranean-friendly casserole is made with mortar-pestle-pounded ingredients for added flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a mortar and pestle, pound the chopped celery until it is well bruised.",
+    "In a large bowl, mix together the pounded celery, bread crumbs, grated cheese, mustard, olive oil, salt, and pepper.",
+    "In a separate bowl, beat the eggs until they are well mixed.",
+    "Add the beaten eggs to the celery mixture and stir until everything is well combined.",
+    "Transfer the mixture to a baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "casserole",
+    "kid-friendly",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "kiddie-friendly-croatian-celery-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kiddie-friendly-croatian-celery-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:53:39Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "kid-friendly",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "celery",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "celery",
+    "descriptor": "kiddie friendly",
+    "dishForm": "Casserole"
+  }
+}

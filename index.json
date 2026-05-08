@@ -1530,6 +1530,21 @@
     "shard": "k"
   },
   {
+    "slug": "kiddie-friendly-croatian-celery-casserole",
+    "title": "Kiddie Friendly Croatian Celery Casserole",
+    "tags": [
+      "casserole",
+      "kid-friendly",
+      "mediterranean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kiddie-kissed-norwegian-cheese-casserole",
     "title": "Kiddie Kissed Norwegian Cheese Casserole",
     "tags": [
@@ -2055,6 +2070,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-briny-french-cheese-mille-feuille",
+    "title": "Kissed Briny French Cheese Mille Feuille",
+    "tags": [
+      "adventurous",
+      "briny",
+      "cheese-pull",
+      "french-cuisine",
+      "satvik-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
