@@ -1,0 +1,95 @@
+{
+  "title": "Knotted Smoky Sichuan Fish Buddha Jumps Over Wall",
+  "description": "A pescatarian-friendly Sichuan dish featuring almond paste and binchotan-charcoal, perfect for a sick day, with a crumbly and fresh texture, inspired by the traditional Buddha Jumps Over the Wall recipe.",
+  "cuisine": "Sichuan",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish balls",
+      "amount": "12",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "almond paste",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 tablespoons",
+      "notes": "for smoking"
+    },
+    {
+      "name": "Sichuan peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the smoking mixture by grinding the binchotan charcoal into a fine powder using a spice grinder.",
+    "Mix the almond paste with the ground binchotan charcoal, Sichuan peppercorns, and a pinch of salt.",
+    "Form the fish balls into knots and set them aside on a plate.",
+    "Heat the sesame oil in a wok over medium heat and add the sliced ginger, cooking until fragrant.",
+    "Add the chopped scallions and cook for an additional minute, stirring constantly.",
+    "Add the soy sauce and stir to combine, cooking for 1 minute.",
+    "Add the knotted fish balls to the wok and stir to coat with the sauce.",
+    "Cover the wok with a lid and steam the fish balls for 5 minutes, or until cooked through.",
+    "Serve the Knotted Smoky Sichuan Fish Buddha Jumps Over Wall hot, garnished with additional scallions and a dollop of the almond paste mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "one-pot",
+    "seafood",
+    "smoky",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "knotted-smoky-sichuan-fish-buddha-jumps-over-wall",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-smoky-sichuan-fish-buddha-jumps-over-wall",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:14:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "almond paste",
+    "diet": "pescatarian",
+    "region": "sichuan",
+    "cuisineAdjective": "Sichuan",
+    "mainIngredient": "fish",
+    "descriptor": "Knotted Smoky",
+    "dishForm": "Buddha Jumps Over Wall"
+  }
+}
