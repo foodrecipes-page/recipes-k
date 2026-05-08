@@ -1,0 +1,102 @@
+{
+  "title": "Kicked Spicy Southern Thai Mozzarella Larb",
+  "description": "A spicy and molten Thai dish featuring mozzarella, perfect for a hangover cure, made with robata-grill and paleo-friendly ingredients in a larb form.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 oz",
+      "notes": "sliced into 1/4 inch thick pieces"
+    },
+    {
+      "name": "ground chicken",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Thai bird eye chilies",
+      "amount": "4-6",
+      "notes": "depending on desired spice level"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": " bruised"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the ground chicken, fish sauce, lime juice, and salt.",
+    "Add the minced garlic and bruised lemon grass to the bowl and mix well.",
+    "Grill the chicken mixture on the robata-grill for 5 minutes per side, or until cooked through.",
+    "While the chicken is cooking, grill the sliced mozzarella cheese on the robata-grill for 2-3 minutes per side, or until melted and slightly charred.",
+    "Chop the grilled chicken into small pieces and add to a bowl with the chopped mint leaves and Thai bird eye chilies.",
+    "Add the grilled mozzarella cheese to the bowl and toss everything together.",
+    "Drizzle the coconut oil over the top of the larb and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-cheese",
+    "hangover-cure",
+    "paleo-diet",
+    "spicy-food",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kicked-spicy-southern-thai-mozzarella-larb",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-southern-thai-mozzarella-larb",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:54Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "mozzarella",
+    "diet": "paleo",
+    "region": "southern-thai",
+    "cuisineAdjective": "Southern Thai",
+    "mainIngredient": "mozzarella",
+    "descriptor": "Kicked Spicy",
+    "dishForm": "Larb"
+  }
+}

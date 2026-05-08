@@ -956,6 +956,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-spicy-southern-thai-mozzarella-larb",
+    "title": "Kicked Spicy Southern Thai Mozzarella Larb",
+    "tags": [
+      "grilled-cheese",
+      "hangover-cure",
+      "paleo-diet",
+      "spicy-food",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-spicy-thai-chicken-curry",
     "title": "Kicked Spicy Thai Chicken Curry",
     "tags": [
@@ -3734,6 +3748,21 @@
     ],
     "cuisine": "Portuguese",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-gooey-mexican-corn-elote",
+    "title": "Kissed Gooey Mexican Corn Elote",
+    "tags": [
+      "comfort-food",
+      "dairy-free",
+      "elote",
+      "grilled-corn",
+      "mexican-food",
+      "nuka-pickle"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
