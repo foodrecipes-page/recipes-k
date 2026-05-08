@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Light Saudi Arabian Lamb Flatbread",
+  "description": "A light and flavorful Saudi Arabian dish featuring lamb and chives, perfect for a weeknight dinner. This fermented flatbread is made with a laminated puff pastry crust.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the ground lamb, chopped chives, flour, yeast, and salt.",
+    "Gradually add the water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Roll out the dough into a thin sheet.",
+    "Place the puff pastry sheet on top of the dough and brush with melted butter.",
+    "Fold the dough over the puff pastry to create a laminated crust.",
+    "Place the flatbread on a baking sheet and bake for 20 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flatbread",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-light-saudi-arabian-lamb-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-saudi-arabian-lamb-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:32:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "weeknight",
+    "technique": "lamination-puff",
+    "primaryIngredient": "chives",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed light",
+    "dishForm": "Flatbread"
+  }
+}
