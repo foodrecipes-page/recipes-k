@@ -1,0 +1,99 @@
+{
+  "title": "Algerian Kid-Friendly Pastry",
+  "description": "Delicious pastry filled with meat and spices, perfect for kids. A classic Algerian dish that is easy to make and fun to eat.",
+  "cuisine": "North African",
+  "diet": [
+    "kid-friendly",
+    "low-fat-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F. In a large mixing bowl, combine flour, warm water, and olive oil to make the pastry dough.",
+    "Knead the dough for 5-7 minutes until smooth. Place in a greased bowl, cover with a damp cloth, and let rest for 30 minutes.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat. Add chopped onion and cook until softened, about 5 minutes.",
+    "Add ground beef to the skillet, breaking it up with a spoon as it cooks. Cook until browned, about 5-7 minutes.",
+    "Add salt, black pepper, and cumin to the skillet and stir to combine. Cook for 1 minute.",
+    "Roll out the pastry dough to a thickness of about 1/8 inch. Cut into rectangles, about 6x4 inches.",
+    "Spoon the meat mixture onto one half of each rectangle, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry over the filling, pressing edges to seal.",
+    "Brush tops of pastry with olive oil and place on a baking sheet lined with parchment paper.",
+    "Bake in preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-fat-friendly",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "kissed-with-oil-algerian-kid-friendly-pastry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-oil-algerian-kid-friendly-pastry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T10:02:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "saute",
+    "primaryIngredient": "oil",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Kid-Friendly",
+    "descriptor": "Kissed with Oil",
+    "dishForm": "Pastry"
+  }
+}
