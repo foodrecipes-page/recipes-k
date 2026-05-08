@@ -5053,6 +5053,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-resinous-syrian-tofu-pilaf",
+    "title": "Kissed Resinous Syrian Tofu Pilaf",
+    "tags": [
+      "comfort-food",
+      "middle-eastern",
+      "one-pan",
+      "syrian-cuisine",
+      "vegan-friendly"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-rich-italian-tomato-bruschetta",
     "title": "Kissed Rich Italian Tomato Bruschetta",
     "tags": [
@@ -7219,6 +7233,21 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kneaded-creamy-italian-morning-glory-risotto",
+    "title": "Kneaded Creamy Italian Morning Glory Risotto",
+    "tags": [
+      "breakfast-ideas",
+      "gluten-free",
+      "italian-cuisine",
+      "mediterranean-inspired",
+      "one-pot",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
