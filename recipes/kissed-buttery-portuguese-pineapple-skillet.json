@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Buttery Portuguese Pineapple Skillet",
+  "description": "A light and quick Portuguese dish featuring pineapple chunks, this recipe is perfect for a snack or dessert. It is egg-free and features a buttery flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "port wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "brine",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat until melted.",
+    "Add the pineapple chunks to the skillet and cook for 2 minutes.",
+    "Add the brown sugar, port wine, lemon juice, salt, and black pepper to the skillet and stir to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Add the brine to the skillet and stir to combine.",
+    "Reduce heat to low and simmer for 1 minute.",
+    "Remove the skillet from the heat and let cool for 1 minute.",
+    "Serve the pineapple mixture warm, garnished with additional pineapple chunks if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "one-pan",
+    "portuguese-dish",
+    "quick-fix",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "kissed-buttery-portuguese-pineapple-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-buttery-portuguese-pineapple-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "quick-fix",
+    "technique": "brine-wet",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "pineapple",
+    "descriptor": "kissed buttery",
+    "dishForm": "Skillet"
+  }
+}
