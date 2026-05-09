@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Smoky Jamaican Shrimp Noodles",
+  "description": "A low-calorie, smoky Jamaican dish featuring flat rice noodles, lacquer-glaze, and shrimp, served in a Korean brass bowl.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flat rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the noodles according to package instructions.",
+    "In a small bowl, whisk together smoked paprika, brown sugar, soy sauce, lime juice, and olive oil.",
+    "Add the shrimp to the bowl and toss to coat with the marinade.",
+    "Heat a large skillet over medium-high heat and cook the shrimp for 2-3 minutes per side.",
+    "Add the chopped scallions to the skillet and cook for an additional minute.",
+    "Drain the cooked noodles and add them to the skillet, tossing to combine with the shrimp and scallions.",
+    "Season with salt and black pepper to taste.",
+    "Serve the noodle mixture in a Korean brass bowl and garnish with additional scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "healthy-eating",
+    "jamaican-cuisine",
+    "low-calorie",
+    "noodle-dish",
+    "quick-meal",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "kissed-smoky-jamaican-shrimp-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-jamaican-shrimp-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:15:32Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "shrimp",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Noodles"
+  }
+}
