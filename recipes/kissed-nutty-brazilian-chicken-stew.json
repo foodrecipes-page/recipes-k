@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Nutty Brazilian Chicken Stew",
+  "description": "A nutty and festive Brazilian dish featuring beer and confit-tomato, made in a cataplana vessel, this stew is low in calories and rich in flavor, perfect for a special occasion",
+  "cuisine": "Brazilian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "confit-tomato",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cashew nuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the cataplana vessel over medium heat",
+    "Add the chopped onion and cook until softened, about 5 minutes",
+    "Add the minced garlic and cook for 1 minute, until fragrant",
+    "Add the chicken pieces and cook until browned, about 5-7 minutes",
+    "Add the beer, confit-tomato, cashew nuts, cumin, paprika, salt, and black pepper, stir to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25 minutes",
+    "Stir the stew occasionally to prevent burning",
+    "Serve the stew hot, garnished with chopped fresh cilantro, if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "chicken-stew",
+    "low-calorie",
+    "one-pot",
+    "special-occasion",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kissed-nutty-brazilian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-nutty-brazilian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:52:58Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "molten",
+    "mood": "festive",
+    "technique": "confit-tomato",
+    "primaryIngredient": "beer",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed nutty",
+    "dishForm": "Stew"
+  }
+}
