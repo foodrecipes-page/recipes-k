@@ -1,0 +1,105 @@
+{
+  "title": "Kicked Peppery Ethiopian Corned Beef Kitfo",
+  "description": "A peppery and tender Ethiopian dish featuring corned beef, made quick and easy with a pressure cooker, and Whole30-friendly, served in a traditional kitfo form.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corned beef",
+      "amount": "1 pound",
+      "notes": "sliced into small pieces"
+    },
+    {
+      "name": "mitmita",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "niter kibbeh",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian clarified butter"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Press the saute button on the pressure cooker and heat the niter kibbeh until melted.",
+    "Add the sliced corned beef to the pressure cooker and cook until browned, about 5 minutes.",
+    "Add the mitmita, garlic, ginger, berbere spice, salt, and black pepper to the pressure cooker and stir to combine.",
+    "Close the lid of the pressure cooker and set the valve to sealing, then set the cooking time to 10 minutes at high pressure.",
+    "When the cooking time is up, allow the pressure to release naturally for 10 minutes, then quick-release any remaining pressure.",
+    "Stir in the lemon juice and chopped scallions.",
+    "Serve the corned beef mixture on a plate or injera bread, garnished with additional scallions if desired.",
+    "Traditionally, kitfo is served raw, but in this recipe, we use the pressure cooker to cook the corned beef to a safe internal temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "pressure-cooker",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kicked-peppery-ethiopian-corned-beef-kitfo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-peppery-ethiopian-corned-beef-kitfo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:11:29Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "corned beef",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "corned beef",
+    "descriptor": "kicked peppery",
+    "dishForm": "Kitfo"
+  }
+}
