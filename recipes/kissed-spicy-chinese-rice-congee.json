@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Spicy Chinese Rice Congee",
+  "description": "A spicy and comforting Chinese dish from Yunnan, featuring a bouncy qq texture, made with binchotan-charcoal and nut-free friendly ingredients, served as a congee.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glutinous rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "binchotan-charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "spicy Sichuan peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 slices"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the glutinous rice thoroughly and soak it in water for 4 hours.",
+    "Drain the water and add 4 cups of fresh water to the rice.",
+    "Add binchotan-charcoal powder, spicy Sichuan peppercorns, and ginger to the rice mixture.",
+    "Bring the mixture to a boil over high heat, then reduce the heat to low and simmer for 1 hour.",
+    "Stir the congee occasionally to prevent sticking.",
+    "After 1 hour, remove the ginger slices and add sesame oil, salt, and chopped scallions to the congee.",
+    "Stir well and cook for an additional 10 minutes.",
+    "Serve the congee hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 70,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "comfort-food",
+    "gluten-free",
+    "nut-free",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "kissed-spicy-chinese-rice-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-chinese-rice-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:51:17Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "restaurant",
+    "diet": "nut-free",
+    "region": "yunnan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed Spicy",
+    "dishForm": "Congee"
+  }
+}

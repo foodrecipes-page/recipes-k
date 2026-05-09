@@ -2384,6 +2384,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-bouncy-norwegian-pasta",
+    "title": "Kissed Bouncy Norwegian Pasta",
+    "tags": [
+      "healthy",
+      "low-calorie",
+      "norwegian",
+      "one-pot",
+      "pasta",
+      "seafood-inspired"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-brazilian-tempeh-stir-fry",
     "title": "Kissed Brazilian Tempeh Stir-Fry",
     "tags": [
@@ -7782,6 +7797,21 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-chinese-rice-congee",
+    "title": "Kissed Spicy Chinese Rice Congee",
+    "tags": [
+      "chinese-cuisine",
+      "comfort-food",
+      "gluten-free",
+      "nut-free",
+      "one-pot",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 90,
     "shard": "k"
   },
   {

@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Bouncy Norwegian Pasta",
+  "description": "A low-calorie, one-pot Norwegian dish featuring linguine pasta, served in a scallop shell vessel, with a grassy and bouncy texture.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-calorie",
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "norwegian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried dill",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the linguine pasta according to the package instructions until al dente.",
+    "In a large bowl, whisk together the olive oil, salt, black pepper, and dried dill.",
+    "Add the cooked pasta to the bowl and toss to combine.",
+    "Stir in the shredded norwegian cheese until melted and well combined.",
+    "Fold in the chopped fresh parsley and green onions.",
+    "Spoon the pasta mixture into a scallop shell vessel.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional parsley and green onions if desired.",
+    "This dish is best served hot and fresh."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "healthy",
+    "low-calorie",
+    "norwegian",
+    "one-pot",
+    "pasta",
+    "seafood-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-bouncy-norwegian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-bouncy-norwegian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:50:31Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "bouncy-qq",
+    "mood": "one-pot",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "linguine pasta",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pasta",
+    "descriptor": "kissed bouncy",
+    "dishForm": "Pasta"
+  }
+}
