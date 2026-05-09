@@ -254,6 +254,21 @@
     "shard": "k"
   },
   {
+    "slug": "keto-crispy-irish-trout-stir-fry",
+    "title": "Keto Crispy Irish Trout Stir Fry",
+    "tags": [
+      "fish-recipe",
+      "irish-cuisine",
+      "keto-friendly",
+      "low-carb",
+      "stir-fry",
+      "wine-based"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
     "slug": "keto-fajita-butter",
     "title": "Keto Fajita Butter",
     "tags": [

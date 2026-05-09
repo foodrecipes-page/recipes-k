@@ -1,0 +1,100 @@
+{
+  "title": "Keto Crispy Irish Trout Stir Fry",
+  "description": "A winey, crispy, and satisfying Irish dish featuring trout, perfect for a midnight craving, and keto-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "trout fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the butter and let it melt, then add the garlic and cook for 1 minute.",
+    "Add the trout fillets, skin side up, and cook for 3-4 minutes or until crispy.",
+    "Flip the trout over and cook for an additional 3-4 minutes or until cooked through.",
+    "Remove the trout from the skillet and set aside.",
+    "Add the white wine to the skillet and cook until reduced by half.",
+    "Stir in the lemon juice, parsley, salt, and pepper.",
+    "Return the trout to the skillet and spoon the sauce over the top.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-recipe",
+    "irish-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "stir-fry",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "keto-crispy-irish-trout-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-crispy-irish-trout-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:44:06Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "trout",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "trout",
+    "descriptor": "keto crispy",
+    "dishForm": "Stir-fry"
+  }
+}
