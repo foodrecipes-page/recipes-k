@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Snappy Filipino Pork Sisig",
+  "description": "A romantic Filipino dish featuring chilli flakes and clay-pot-cooked pork, this sisig is a perfect blend of briny and snappy flavors, made satvik-friendly by using plant-based ingredients, the combination of pork, chili flakes, and calamansi makes it a perfect dish for any occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork face",
+      "amount": "1 pound",
+      "notes": "or pork belly"
+    },
+    {
+      "name": "chilli flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "calamansi",
+      "amount": "1/4 cup",
+      "notes": "or lime juice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "clay pot",
+      "amount": "1",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Preheat the clay pot over medium heat for 10 minutes.",
+    "Add the pork face to the clay pot and cook until browned on all sides.",
+    "Add the diced onion to the clay pot and cook until translucent.",
+    "Add the minced garlic to the clay pot and cook for 1 minute.",
+    "Add the chilli flakes, salt, and black pepper to the clay pot and stir well.",
+    "Squeeze the calamansi juice over the pork mixture and stir well.",
+    "Cook the mixture for an additional 10 minutes, stirring occasionally.",
+    "Remove the clay pot from the heat and let it cool for 5 minutes.",
+    "Serve the sisig hot, garnished with diced onion and calamansi wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "filipino-food",
+    "pork-recipes",
+    "romantic-dinner",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-snappy-filipino-pork-sisig",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-snappy-filipino-pork-sisig",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:20:20Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "chilli flakes",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "pork",
+    "descriptor": "kissed snappy",
+    "dishForm": "Sisig"
+  }
+}
