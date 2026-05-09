@@ -1,0 +1,97 @@
+{
+  "title": "Kicky Crunchy Ukrainian Mushroom Dumplings",
+  "description": "A funky and comforting Ukrainian dish featuring gelatine leafs and deglaze-fond, made plant-based-friendly with mushroom and vegetable ingredients. This recipe is perfect for a cold winter evening.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": " Button or cremini mushrooms work well"
+    },
+    {
+      "name": "gelatine leafs",
+      "amount": "2 sheets",
+      "notes": "Vegan gelatine substitute can be used"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": " breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Gluten-free breadcrumbs can be used"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the flour, gelatine leafs, and a pinch of salt.",
+    "Gradually add the vegetable oil and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into small balls and flatten each ball into a disk shape.",
+    "In a large pan, heat some oil over medium heat and saute the onion and garlic until softened.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the vegetable broth to the pan and bring to a boil, then reduce the heat and simmer for 10 minutes.",
+    "To assemble the dumplings, place a spoonful of the mushroom mixture in the center of each dough disk and fold the dough over to form a half-moon shape.",
+    "Brush the tops of the dumplings with some oil and sprinkle with breadcrumbs.",
+    "Bake the dumplings in a preheated oven at 375 degrees for 20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom-based",
+    "plant-based",
+    "ukrainian-cuisine",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicky-crunchy-ukrainian-mushroom-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicky-crunchy-ukrainian-mushroom-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:07:24Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "kicky crunchy",
+    "dishForm": "Dumplings"
+  }
+}
