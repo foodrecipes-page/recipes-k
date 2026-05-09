@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Springy Vietnamese Linguine Pasta Ca Kho To",
+  "description": "A plant-based Vietnamese dish featuring linguine pasta, bonito shave, and a jammy sauce, perfect for a midnight craving. This ca kho to dish is a unique fusion of Italian and Vietnamese flavors.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "linguine pasta",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the linguine pasta according to package instructions until al dente.",
+    "In a small bowl, whisk together soy sauce, maple syrup, and rice vinegar to make the sauce.",
+    "In a large skillet, heat the vegetable oil over medium heat and add the minced garlic, cooking for 1 minute until fragrant.",
+    "Add the bonito flakes to the skillet and cook for 1 minute, stirring constantly, until lightly toasted.",
+    "Add the sauce to the skillet and bring to a simmer, cooking for 2 minutes until the sauce has thickened and turned jammy.",
+    "Stir in the chopped scallions, sesame seeds, salt, and black pepper.",
+    "Drain the cooked linguine pasta and add it to the skillet, tossing to combine with the sauce and bonito flakes.",
+    "Cook for an additional 1-2 minutes, until the pasta is well coated with the sauce.",
+    "Serve the kissed springy Vietnamese linguine pasta ca kho to hot, garnished with additional scallions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-fusion",
+    "easy-dinner",
+    "one-pot",
+    "pasta-recipe",
+    "plant-based",
+    "vietnamese-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-springy-vietnamese-linguine-pasta-ca-kho-to",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-springy-vietnamese-linguine-pasta-ca-kho-to",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:37:11Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "bonito-shave",
+    "primaryIngredient": "linguine pasta",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "linguine pasta",
+    "descriptor": "kissed springy",
+    "dishForm": "Ca Kho To"
+  }
+}
