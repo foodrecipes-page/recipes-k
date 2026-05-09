@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Velvety Filipino Almonds Ginataang Bilo Bilo Bake",
+  "description": "A tangy and velvety Filipino dish featuring flaked almonds, this adventurous bake is a unique twist on the traditional ginataang bilo bilo, served in a convenient bento box. It combines the richness of coconut milk with the crunch of almonds.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flaked almonds",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tapioca pearls",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the toasted flaked almonds, coconut milk, sugar, tapioca pearls, and jackfruit, mixing well.",
+    "In a small bowl, whisk together the coconut oil, vanilla extract, and salt, then add this mixture to the large bowl and mix until smooth.",
+    "Pour the mixture into a bento box or small baking dish.",
+    "Bake for 25 minutes or until the top is lightly golden brown.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with additional toasted almonds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-bakes",
+    "bento-box-recipes",
+    "coconut-milk-desserts",
+    "filipino-food",
+    "gluten-free-diet",
+    "tapioca-pearls"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-velvety-filipino-almonds-ginataang-bilo-bilo-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-filipino-almonds-ginataang-bilo-bilo-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:48:28Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "flaked almonds",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "almonds",
+    "descriptor": "Kissed Velvety",
+    "dishForm": "Ginataang Bilo Bilo"
+  }
+}
