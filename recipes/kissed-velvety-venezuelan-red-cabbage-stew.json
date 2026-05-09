@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Velvety Venezuelan Red Cabbage Stew",
+  "description": "A comforting and flavorful stew featuring red cabbage, perfect for a sick day, with a velvety texture and a hint of mustard, following satvik-friendly and salt-bake principles.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "1 large head",
+      "notes": "shredded"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the shredded red cabbage, chopped onion, chopped carrot, and chopped potato.",
+    "In a small pan, heat the olive oil over medium heat and add the mustard seeds, letting them sizzle for a few seconds.",
+    "Add the salt and black pepper to the pan and stir to combine.",
+    "Pour the oil and spice mixture over the cabbage mixture and toss to coat.",
+    "Transfer the mixture to a large baking dish and add the water.",
+    "Cover the dish with a lid or foil and bake for 30 minutes.",
+    "Remove the lid or foil and continue baking for an additional 20 minutes, or until the vegetables are tender.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "autumn",
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "vegan-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "kissed-velvety-venezuelan-red-cabbage-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-venezuelan-red-cabbage-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:10:17Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "red cabbage",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "red cabbage",
+    "descriptor": "kissed velvety",
+    "dishForm": "Stew"
+  }
+}
