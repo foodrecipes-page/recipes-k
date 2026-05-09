@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Smoky Malaysian Fish Bake",
+  "description": "A smoky and velvety Malaysian dish featuring bryndza cheese, perfect for a pescatarian dinner",
+  "cuisine": "Malaysian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fish fillets",
+      "amount": "4",
+      "notes": "any white fish"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Line a baking sheet with parchment paper",
+    "Place the fish fillets on the baking sheet",
+    "Mix the smoked paprika, coconut milk, lemon juice, garlic, and ginger in a bowl",
+    "Pour the mixture over the fish fillets",
+    "Sprinkle the bryndza cheese over the top",
+    "Drizzle the olive oil over the cheese",
+    "Bake for 20 minutes or until the fish is cooked through"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "fish",
+    "malaysian",
+    "pescatarian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-smoky-malaysian-fish-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-malaysian-fish-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:49:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "fish",
+    "descriptor": "kissed smoky",
+    "dishForm": "Bake"
+  }
+}
