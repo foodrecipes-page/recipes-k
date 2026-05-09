@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Springy Irish Goat Meat Wrap",
+  "description": "A salty and springy Irish dish featuring goat meat, leaf wrapped and steamed to perfection, low in sodium for a healthier option.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "collard green leaves",
+      "amount": "12 leaves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the collard green leaves and remove the stems.",
+    "In a large pot, bring 2 inches of water to a boil.",
+    "Reduce the heat to medium-low and place a steamer basket over the water.",
+    "Add the goat meat, onion, garlic, carrot, and celery to the steamer basket.",
+    "Season with black pepper and salt-free seasoning.",
+    "Cover the pot with a lid and steam for 20 minutes.",
+    "While the meat is steaming, prepare the collard green leaves by blanching them in boiling water for 30 seconds.",
+    "Remove the leaves from the water and let them cool.",
+    "To assemble the wraps, place a few pieces of the steamed meat onto the center of a collard green leaf.",
+    "Fold the stem end over the meat, then fold in the sides and roll the leaf into a tight cylinder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "goat-meat",
+    "healthy-eating",
+    "irish-food",
+    "low-sodium",
+    "spring-recipes",
+    "steamed-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "kissed-springy-irish-goat-meat-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-springy-irish-goat-meat-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:01:10Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "monsoon",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "goat meat",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "goat meat",
+    "descriptor": "kissed springy",
+    "dishForm": "Wrap"
+  }
+}
