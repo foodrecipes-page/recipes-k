@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Spicy Vietnamese Baby Plum Tomatoes Com Tam",
+  "description": "A spicy and savory Vietnamese dish featuring baby plum tomatoes, served in a traditional lacquerware bowl, perfect for a rainy day. This Whole30-friendly recipe combines the freshness of tomatoes with the warmth of spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "Whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby plum tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "grilled pork",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai bird eye chili",
+      "amount": "1",
+      "notes": "seeded and minced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the halved baby plum tomatoes with 1 tablespoon of coconut oil, salt, and black pepper until they are evenly coated.",
+    "Spread the tomatoes on a baking sheet and roast in the oven for 15 minutes, or until they are tender and lightly caramelized.",
+    "In a large skillet, heat the remaining 1 tablespoon of coconut oil over medium-high heat.",
+    "Add the diced grilled pork to the skillet and cook until it is lightly browned, about 3-4 minutes.",
+    "Add the minced Thai bird eye chili and garlic to the skillet and cook for an additional 1 minute, stirring constantly.",
+    "Stir in the fish sauce and lime juice, and cook for 1 minute, or until the sauce has thickened slightly.",
+    "To assemble the dish, place a portion of the roasted tomatoes in a lacquerware bowl, followed by a spoonful of the pork and sauce mixture.",
+    "Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "one-bowl",
+    "spicy",
+    "vietnamese-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-spicy-vietnamese-baby-plum-tomatoes-com-tam",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-vietnamese-baby-plum-tomatoes-com-tam",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:40:50Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "baby plum tomatoes",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "baby plum tomatoes",
+    "descriptor": "Kissed spicy",
+    "dishForm": "Com Tam"
+  }
+}
