@@ -1,0 +1,95 @@
+{
+  "title": "Keto Russian Myeolchi Anchovies Skewers",
+  "description": "A post-workout Russian dish featuring myeolchi anchovies, cooked to a jammy and glassy-jelly texture using sous-vide and served on a salt block, perfect for a keto-friendly snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "high-protein"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "12 oz",
+      "notes": "dried and dried-salted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Sous-vide the myeolchi anchovies in a water bath at 130 degrees Fahrenheit for 30 minutes.",
+    "Preheat the salt block in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "Mix the olive oil, lemon juice, garlic, dill, salt, black pepper, and paprika in a bowl.",
+    "Thread the sous-vide myeolchi anchovies onto skewers.",
+    "Brush the skewers with the olive oil mixture.",
+    "Place the skewers on the preheated salt block and sear for 2 minutes per side.",
+    "Serve the keto Russian myeolchi anchovies skewers immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "post-workout",
+    "russian-cuisine",
+    "salt-block",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "slug": "keto-russian-myeolchi-anchovies-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-russian-myeolchi-anchovies-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:07:08Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "keto friendly",
+    "dishForm": "Skewers"
+  }
+}
