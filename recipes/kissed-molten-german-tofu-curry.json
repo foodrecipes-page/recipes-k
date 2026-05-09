@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Molten German Tofu Curry",
+  "description": "A romantic German dish featuring black cardamom pods and a miso marinade, this curry is sour, molten, and Jain-friendly.",
+  "cuisine": "German",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together miso paste, crushed black cardamom pods, and 1 tablespoon of olive oil to create the marinade.",
+    "Add the cubed tofu to the marinade and mix well to coat, then refrigerate for at least 30 minutes.",
+    "Heat 1 tablespoon of olive oil in a large skillet over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the tomato puree, vegetable broth, lemon juice, salt, and black pepper to the skillet and stir well to combine.",
+    "Bring the curry to a simmer and cook for 10 minutes, stirring occasionally, until the sauce has thickened.",
+    "Add the marinated tofu to the curry and cook for an additional 5 minutes, stirring gently to combine.",
+    "Reduce heat to low and let the curry simmer for 5 minutes before serving.",
+    "Serve the Kissed Molten German Tofu Curry hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "jain-friendly",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "slug": "kissed-molten-german-tofu-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-molten-german-tofu-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:05:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "molten",
+    "mood": "romantic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "tofu",
+    "descriptor": "kissed molten",
+    "dishForm": "Curry"
+  }
+}
