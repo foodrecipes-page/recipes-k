@@ -1,0 +1,95 @@
+{
+  "title": "Kicked Sour Australian Pork Dumplings",
+  "description": "A sour and tender Australian dish featuring minced pork, perfect for a flexitarian meal, with a kick of energizing flavors",
+  "cuisine": "Australian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": "preferably lean"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the minced pork, lemon juice, soy sauce, olive oil, garlic, and ginger, and mix until just combined",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point",
+    "Press the edges together to seal the dumpling",
+    "Repeat with the remaining wrappers and filling",
+    "In a large pot, bring a quart of water to a boil and then reduce the heat to a simmer",
+    "Carefully add the dumplings to the pot and cook for 10 minutes",
+    "Remove the dumplings from the pot with a slotted spoon and garnish with chopped scallions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "pork-recipes",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kicked-sour-australian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-sour-australian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:03:07Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "energizing",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "minced pork",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "pork",
+    "descriptor": "kicked sour",
+    "dishForm": "Dumplings"
+  }
+}
