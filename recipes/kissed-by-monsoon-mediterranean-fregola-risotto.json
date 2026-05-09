@@ -1,0 +1,98 @@
+{
+  "title": "Kissed by Monsoon Mediterranean Fregola Risotto",
+  "description": "A creamy, buttery fregola rice dish infused with the flavors of the Mediterranean, kissed by the freshness of monsoon season.",
+  "cuisine": "Mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fregola rice",
+      "amount": "1 cup",
+      "notes": "preferably Sardinian fregola"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon-herb mix (see notes)",
+      "amount": "2 tablespoons",
+      "notes": "namul-blanch-season, no onion, no garlic"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated Parmesan cheese",
+      "amount": "1 cup",
+      "notes": "preferably Pecorino-Romano mix"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large saucepan over medium heat. ",
+    "Add olive oil and swirl to combine. ",
+    "Pour in fregola rice and cook for 1-2 minutes, stirring constantly. ",
+    "Add vegetable broth, one cup at a time, stirring continuously and allowing each cup to be absorbed before adding the next. ",
+    "Cook for 15-20 minutes, or until fregola is tender and creamy. ",
+    "Stir in Monsoon-herb mix and cook for 1 minute. ",
+    "Remove from heat and stir in lemon juice. ",
+    "Season with salt to taste. ",
+    "Transfer to ramekins and top with grated Parmesan cheese. ",
+    "Serve immediately, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fregola",
+    "italian",
+    "mediterranean",
+    "monsoon-season",
+    "parmesan",
+    "risotto"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-by-monsoon-mediterranean-fregola-risotto",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-monsoon-mediterranean-fregola-risotto",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T07:59:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "fregola",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "fregola",
+    "descriptor": "Kissed by Monsoon",
+    "dishForm": "Risotto"
+  }
+}

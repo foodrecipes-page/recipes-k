@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Dense Kenyan Lamb Kebabs",
+  "description": "A monsoon Kenyan dish featuring lamb kebabs marinated in umami flavors and marjoram, then deep-fried and served on a hot stone plate, this recipe is FODMAP friendly.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "marjoram",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, marjoram, ginger, garlic infused oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Let the lamb marinate for at least 30 minutes.",
+    "Preheat the agemono deep fryer to 375 degrees Fahrenheit.",
+    "Remove the lamb from the marinade and thread onto skewers.",
+    "Deep fry the lamb kebabs for 5 minutes or until cooked through.",
+    "Heat a hot stone plate in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "Place the deep fried lamb kebabs on the hot stone plate and brush with lemon juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fry",
+    "fodmap-friendly",
+    "gluten-free",
+    "hot-stone-plate",
+    "kenyan-cuisine",
+    "lamb-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kissed-dense-kenyan-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dense-kenyan-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:00:22Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "monsoon",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "marjoram",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Dense",
+    "dishForm": "Kebabs"
+  }
+}

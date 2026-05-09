@@ -2835,6 +2835,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-by-monsoon-mediterranean-fregola-risotto",
+    "title": "Kissed by Monsoon Mediterranean Fregola Risotto",
+    "tags": [
+      "fregola",
+      "italian",
+      "mediterranean",
+      "monsoon-season",
+      "parmesan",
+      "risotto"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-by-smoke-slovakian-bitter-bowl",
     "title": "Kissed-by-smoke Slovakian bitter Bowl",
     "tags": [
@@ -4177,6 +4192,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 65,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dense-kenyan-lamb-kebabs",
+    "title": "Kissed Dense Kenyan Lamb Kebabs",
+    "tags": [
+      "deep-fry",
+      "fodmap-friendly",
+      "gluten-free",
+      "hot-stone-plate",
+      "kenyan-cuisine",
+      "lamb-recipes"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
