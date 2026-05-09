@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Midnight Korean Ricotta Wrapped-Leaf Ssam",
+  "description": "A midnight-craving korean dish featuring ricotta, namul-blanch-season, and a touch of sweetness. This macrobiotic-friendly snack wraps the flavors of Korea into a delicious, gooey leaf.",
+  "cuisine": "korean",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Nama shoyu soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cilantro, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Leafy greens (nori or shiso leaves)",
+      "amount": "12-15 leaves"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry skillet to medium heat and toast sesame seeds until fragrant.",
+    "In a blender or food processor, blend ricotta cheese with gochujang, gochugaru, nama shoyu soy sauce, sesame oil, and honey until smooth.",
+    "Add grated ginger, garlic, and cilantro to the blender and blend until combined.",
+    "Heat the gochujang-ricotta mixture in a saucepan over low heat until warmed through.",
+    "Prepare leafy greens by blanching them in boiling water for 30 seconds and then rinsing with cold water.",
+    "To assemble the ssam, place a leafy green on a flat surface and dollop the gochujang-ricotta mixture in the center of the leaf.",
+    "Fold the leaf over the filling to form a tight package and serve immediately.",
+    "Repeat with remaining leaves and filling, serving as a snack or appetizer."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "korean-cuisine",
+    "macrobiotic-friendly",
+    "one-pan-wonder",
+    "ricotta-recipes",
+    "snack-ideas",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "kissed-midnight-korean-ricotta-wrapped-leaf-ssam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-midnight-korean-ricotta-wrapped-leaf-ssam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T02:45:29Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "ricotta",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Ricotta",
+    "descriptor": "Kissed Midnight",
+    "dishForm": "Wrapped-Leaf Ssam"
+  }
+}
