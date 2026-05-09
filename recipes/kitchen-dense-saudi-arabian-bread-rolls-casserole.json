@@ -1,0 +1,100 @@
+{
+  "title": "Kitchen Dense Saudi Arabian Bread Rolls Casserole",
+  "description": "A rich and satisfying Saudi Arabian dish featuring bread rolls, saute, and a blend of spices, perfect for a crowd. This shojin-friendly recipe is sure to please.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bread rolls",
+      "amount": "12 rolls",
+      "notes": "preferably day-old rolls"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "including cumin, coriander, and paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Saute the onion and garlic in olive oil until softened.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Stir in the tomato paste, spices, salt, and pepper, and cook for 1 minute.",
+    "Cut the bread rolls into 1-inch pieces and place half of them in the bottom of a 9x13 inch baking dish.",
+    "Spoon the saute mixture over the bread rolls.",
+    "Top with the remaining bread rolls.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and bake for an additional 10 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pan",
+    "shojin",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "kitchen-dense-saudi-arabian-bread-rolls-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-dense-saudi-arabian-bread-rolls-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:20:39Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "saute",
+    "primaryIngredient": "bread rolls",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "bread rolls",
+    "descriptor": "kitchen dense",
+    "dishForm": "Casserole"
+  }
+}
