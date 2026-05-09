@@ -1994,6 +1994,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicky-fresh-chinese-dum-dumplings",
+    "title": "Kicky Fresh Chinese Dum Dumplings",
+    "tags": [
+      "fresh-ingredients",
+      "macrobiotic-friendly",
+      "sichuan-cuisine",
+      "vegetarian-options",
+      "weeknight-meal"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 32,
+    "shard": "k"
+  },
+  {
     "slug": "kicky-gooey-thai-cod-gaeng-curry",
     "title": "Kicky Gooey Thai Cod Gaeng Curry",
     "tags": [

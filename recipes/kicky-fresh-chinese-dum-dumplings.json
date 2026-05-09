@@ -1,0 +1,95 @@
+{
+  "title": "Kicky Fresh Chinese Dum Dumplings",
+  "description": "A refreshing and energizing Sichuan dish featuring lime and dum, made with macrobiotic-friendly ingredients, resulting in a fresh and glassy-jelly texture.",
+  "cuisine": "Chinese",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Round dumpling wrappers",
+      "amount": "20 pieces",
+      "notes": "found in the frozen food section"
+    },
+    {
+      "name": "Finely chopped cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Finely chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and then reduce the heat to a simmer.",
+    "In a large bowl, combine the chopped cabbage, scallions, grated ginger, soy sauce, lime juice, sesame oil, salt, and black pepper, and mix well.",
+    " Lay a dumpling wrapper on a clean surface and place a tablespoon of the cabbage mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "Carefully add the dumplings to the simmering water and cook for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fresh-ingredients",
+    "macrobiotic-friendly",
+    "sichuan-cuisine",
+    "vegetarian-options",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kicky-fresh-chinese-dum-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicky-fresh-chinese-dum-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:55:47Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "dum",
+    "primaryIngredient": "lime",
+    "diet": "macrobiotic",
+    "region": "sichuan",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "dum",
+    "descriptor": "kicky fresh",
+    "dishForm": "Dumplings"
+  }
+}
