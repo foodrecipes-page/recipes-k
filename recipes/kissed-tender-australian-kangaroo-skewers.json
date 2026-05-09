@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Tender Australian Kangaroo Skewers",
+  "description": "Rich and tender kangaroo skewers featuring a zesty vinaigrette dressing and a yuzu-cure, perfect for a nostalgic Australian dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kangaroo meat",
+      "amount": "500g",
+      "notes": "cut into 2cm cubes"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "120ml"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "60ml"
+    },
+    {
+      "name": "honey",
+      "amount": "20g"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "10g",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 200 degrees Celsius",
+    "In a large bowl, whisk together yuzu juice, olive oil, apple cider vinegar, honey, garlic, thyme, salt, and black pepper to make the vinaigrette dressing",
+    "Add the kangaroo meat to the bowl and toss to coat with the vinaigrette dressing",
+    "Thread the marinated kangaroo meat onto skewers, leaving a small space between each piece",
+    "Grill the skewers for 8 minutes per side, or until the kangaroo meat reaches an internal temperature of 60 degrees Celsius",
+    "Once cooked, remove the skewers from the grill and let them rest for 5 minutes",
+    "Serve the skewers on a slate tile, garnished with fresh thyme and a side of extra vinaigrette dressing",
+    "To add the yuzu-cure, brush the skewers with a little extra yuzu juice during the last minute of grilling"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "weeknight",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-tender-australian-kangaroo-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-australian-kangaroo-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:49:54Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "kangaroo",
+    "descriptor": "kissed tender",
+    "dishForm": "Skewers"
+  }
+}
