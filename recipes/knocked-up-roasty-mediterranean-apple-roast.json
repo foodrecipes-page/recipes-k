@@ -1,0 +1,97 @@
+{
+  "title": "Knocked up Roasty Mediterranean Apple Roast",
+  "description": "A malty and pillowy Mediterranean dish featuring apples and roast, perfect for a lazy Sunday dinner. This halal-friendly recipe is served on a lazy-susan-spinner, making it easy to share with family and friends.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless lamb shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 2 inch cubes"
+    },
+    {
+      "name": "apples",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Transfer the lamb to a large Dutch oven and roast in the preheated oven for 20 minutes.",
+    "Add the sliced apples to the Dutch oven and continue to roast for an additional 20 minutes.",
+    "Brush the malt syrup over the lamb and apples during the last 10 minutes of roasting.",
+    "Remove the Dutch oven from the oven and let it rest for 10 minutes before serving.",
+    "Serve the roast on a lazy-susan-spinner, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-recipe",
+    "halal-friendly",
+    "lamb-recipe",
+    "lazy-sunday",
+    "mediterranean-dish",
+    "roast-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "knocked-up-roasty-mediterranean-apple-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knocked-up-roasty-mediterranean-apple-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:32:02Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "pillowy",
+    "mood": "monsoon",
+    "technique": "roast",
+    "primaryIngredient": "apples",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "apples",
+    "descriptor": "Knocked up Roasty",
+    "dishForm": "Roast"
+  }
+}
