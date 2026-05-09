@@ -1182,6 +1182,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-light-german-chickpea-stew",
+    "title": "Kicked Light German Chickpea Stew",
+    "tags": [
+      "cazuela-recipe",
+      "fermented-food",
+      "german-cuisine",
+      "monsoon-dish",
+      "vegetarian-stew"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-light-jamaican-vegetable-wrap",
     "title": "Kicked Light Jamaican Vegetable Wrap",
     "tags": [

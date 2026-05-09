@@ -1,0 +1,100 @@
+{
+  "title": "Kicked Light German Chickpea Stew",
+  "description": "A fermented and light German stew made with chickpea flour, perfect for the monsoon season. This dish is egg-free and cooked in a traditional cazuela.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpea flour",
+      "amount": "1 cup",
+      "notes": "preferably fermented"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cazuela over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chopped carrots and celery and cook for 5 minutes.",
+    "In a separate bowl, whisk together the chickpea flour and water until smooth.",
+    "Add the chickpea flour mixture to the cazuela and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes.",
+    "Season the stew with salt and black pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela-recipe",
+    "fermented-food",
+    "german-cuisine",
+    "monsoon-dish",
+    "vegetarian-stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kicked-light-german-chickpea-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-light-german-chickpea-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:14:16Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "simmer",
+    "primaryIngredient": "chickpea flour",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "chickpea flour",
+    "descriptor": "kicked light",
+    "dishForm": "Stew"
+  }
+}
