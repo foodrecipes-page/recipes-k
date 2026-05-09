@@ -1,0 +1,100 @@
+{
+  "title": "Kicked Mustardy Jamaican Courgettes Skillet",
+  "description": "A light and flavorful Jamaican dish featuring courgettes, perfect for kids and adults alike, with a tangy mustardy taste and a crunchy pickle topping.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "courgettes",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced courgettes and cook until they start to soften, about 4 minutes.",
+    "Sprinkle the Jamaican jerk seasoning, salt, and black pepper over the courgettes and stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 10 minutes or until the courgettes are tender.",
+    "Stir in the Dijon mustard and pickle relish.",
+    "Serve hot, garnished with additional pickle relish if desired.",
+    "Let it cool for a few minutes before serving.",
+    "Serve with your choice of sides, such as rice or bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "jamaican",
+    "kid-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kicked-mustardy-jamaican-courgettes-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-mustardy-jamaican-courgettes-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:31:47Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "light",
+    "mood": "kid-friendly",
+    "technique": "pickle",
+    "primaryIngredient": "courgettes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "courgettes",
+    "descriptor": "kicked mustardy",
+    "dishForm": "Skillet"
+  }
+}
