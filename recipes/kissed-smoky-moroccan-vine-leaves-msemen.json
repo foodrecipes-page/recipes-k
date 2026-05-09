@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Smoky Moroccan Vine Leaves Msemen",
+  "description": "A smoky and flaky Moroccan dish featuring vine leaves, perfect for a date night, made with ovo-vegetarian friendly ingredients and cooked in a papillote.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20",
+      "notes": "fresh or jarred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "msemen dough",
+      "amount": "1 package",
+      "notes": "or homemade equivalent"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "In a large bowl, combine the cooked onion mixture, dates, and vine leaves.",
+    "Lay a piece of msemen dough flat and place a tablespoon of the onion and vine leaf mixture in the center.",
+    "Fold the dough over the filling to form a triangle and press the edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "Place the msemen in a papillote and brush the tops with beaten eggs.",
+    "Bake the msemen for 20 minutes or until golden brown.",
+    "Serve the msemen hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "flaky-pastry",
+    "moroccan-cuisine",
+    "ovo-vegetarian",
+    "papillote-cooking",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-smoky-moroccan-vine-leaves-msemen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-moroccan-vine-leaves-msemen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:07:08Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "flaky",
+    "mood": "date-night",
+    "technique": "papillote",
+    "primaryIngredient": "vine leaves",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Msemen"
+  }
+}
