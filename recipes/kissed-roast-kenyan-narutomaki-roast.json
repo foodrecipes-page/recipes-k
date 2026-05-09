@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Roast Kenyan Narutomaki Roast",
+  "description": "A midnight-craving Kenyan dish featuring narutomaki, roast, and a hint of mustard, perfect for a low-sodium diet. This bouncy-qq dish is sure to satisfy your cravings.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "Japanese fish cake"
+    },
+    {
+      "name": "beef roast",
+      "amount": "2 pounds",
+      "notes": "lean cut"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1 teaspoon",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the beef roast with salt-free seasoning, black pepper, garlic, and ginger.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the beef roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast for 20 minutes per pound.",
+    "While the roast is cooking, slice the narutomaki into thin rounds.",
+    "In a small bowl, mix together the mustard and a pinch of black pepper.",
+    "After the roast has cooked for 30 minutes, brush the mustard mixture evenly over the top of the roast.",
+    "Return the roast to the oven and continue cooking for an additional 10-15 minutes, or until the internal temperature reaches 145 degrees Fahrenheit.",
+    "Let the roast rest for 10 minutes before slicing and serving with narutomaki and your choice of sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-roast",
+    "bouncy-qq",
+    "kenyan-cuisine",
+    "low-sodium",
+    "midnight-cravings",
+    "narutomaki"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-roast-kenyan-narutomaki-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roast-kenyan-narutomaki-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:15:54Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "narutomaki",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "narutomaki",
+    "descriptor": "Kissed roast",
+    "dishForm": "Roast"
+  }
+}
