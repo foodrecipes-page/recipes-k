@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Earthy Syrian Lamb Pilaf",
+  "description": "A hearty and flavorful Syrian dish featuring lamb, prosciutto, and beurre-monte, perfect for a crowd, this pilaf is earthy, pillowy, and sure to please. It is also gluten-free friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the beurre-monte in a large saucepan over medium heat.",
+    "Add the chopped prosciutto and cook until crispy, about 5 minutes.",
+    "Add the lamb pieces and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the garlic, cumin, paprika, salt, and black pepper, and cook for 1 minute.",
+    "Add the basmati rice and cook for 1 minute, stirring constantly.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the rice is cooked and the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lamb-based",
+    "middle-eastern",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "kissed-earthy-syrian-lamb-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-syrian-lamb-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:21:49Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "pillowy",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "prosciutto",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed earthy",
+    "dishForm": "Pilaf"
+  }
+}
