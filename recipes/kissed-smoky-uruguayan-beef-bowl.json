@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Smoky Uruguayan Beef Bowl",
+  "description": "A hearty Uruguayan dish featuring smoky beef, served in an earthenware bowl, perfect for a solo dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "grass-fed beef strips",
+      "amount": "12 oz",
+      "notes": "slice into thin strips"
+    },
+    {
+      "name": "smoky olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the smoky olive oil in a large skillet over medium-high heat",
+    "Add the beef strips and cook for 3-4 minutes per side, or until cooked to desired level of doneness",
+    "Transfer the beef to a plate and cover with foil to keep warm",
+    "Reduce heat to medium and add the minced garlic to the skillet, cooking for 1 minute",
+    "Stir in the chopped parsley and cilantro, cooking for an additional minute",
+    "Squeeze the lemon juice over the top of the herb mixture and stir to combine",
+    "Add the red pepper flakes and salt-free seasoning blend to the skillet and stir to combine",
+    "To assemble the bowls, slice the cooked beef into thin strips and place on top of the herb mixture in the earthenware bowl"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grass-fed-beef",
+    "low-sodium",
+    "one-bowl",
+    "smoky-flavors",
+    "solo-dinner",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-smoky-uruguayan-beef-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-uruguayan-beef-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:36:29Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crisp",
+    "mood": "solo-dinner",
+    "technique": "emulsify",
+    "primaryIngredient": "smoky a oli",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed smoky",
+    "dishForm": "Bowl"
+  }
+}
