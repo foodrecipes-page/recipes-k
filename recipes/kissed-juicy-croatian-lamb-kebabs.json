@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Juicy Croatian Lamb Kebabs",
+  "description": "Grassy and juicy lamb kebabs with an adventurous twist, featuring orange and steamed to perfection, this dish is halal friendly and perfect for a dinner gathering",
+  "cuisine": "Croatian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "10",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat",
+    "In a large bowl, whisk together orange juice, olive oil, garlic, rosemary, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade",
+    "Thread the lamb cubes onto the soaked wooden skewers",
+    "Place the skewers on the grill and cook for 10 minutes, turning occasionally",
+    "After 10 minutes, reduce the heat to medium low and steam the kebabs using a steamer basket for 5 minutes",
+    "Remove the kebabs from the heat and let rest for 5 minutes",
+    "Serve the kebabs hot, garnished with rosemary and orange wedges"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "halal-friendly",
+    "lamb-based",
+    "mediterranean-inspired",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-juicy-croatian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-croatian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:02:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "orange",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lamb",
+    "descriptor": "kissed juicy",
+    "dishForm": "Kebabs"
+  }
+}
