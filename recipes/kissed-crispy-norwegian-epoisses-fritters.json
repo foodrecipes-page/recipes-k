@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Crispy Norwegian Epoisses Fritters",
+  "description": "A citrusy and crispy Norwegian dish featuring Epoisses cheese, perfect for a crowd, and served in a bamboo tray. This ovo-vegetarian-friendly recipe is a delightful twist on traditional fritters.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Epoisses cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "panko breadcrumbs",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour, sugar, and salt to combine.",
+    "In a separate bowl, whisk together eggs, orange zest, and orange juice until well combined.",
+    "Add the crumbled Epoisses cheese to the egg mixture and stir until the cheese is fully incorporated.",
+    "Add the dry ingredients to the cheese mixture and stir until just combined, being careful not to overmix.",
+    "Cover the bowl with plastic wrap and refrigerate the mixture for 30 minutes to allow the flavors to meld.",
+    "When ready to fry, heat the melted butter in a deep frying pan over medium-high heat until it reaches 350 degrees Fahrenheit.",
+    "Using a spoon, drop small balls of the mixture into the hot butter, being careful not to overcrowd the pan.",
+    "Fry the fritters for 3-4 minutes on each side, or until they are golden brown and crispy.",
+    "Using a slotted spoon, remove the fritters from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Roll the fritters in panko breadcrumbs to coat and serve hot in a bamboo tray."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-tray",
+    "cheese-fritters",
+    "citrusy",
+    "crispy",
+    "norwegian-cuisine",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-crispy-norwegian-epoisses-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-norwegian-epoisses-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:25:40Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "emulsify",
+    "primaryIngredient": "epoisses",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Epoisses",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Fritters"
+  }
+}
