@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Earthy Spanish Almonds Tarta De Santiago",
+  "description": "A light and earthy Spanish dish featuring molasses and pickle, made in a claypot and low-fat-friendly, in the form of a traditional Tarta De Santiago.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup",
+      "notes": "blackstrap"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "2 tablespoons",
+      "notes": "from a jar"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "pure"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2 large",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together the sliced almonds, molasses, pickle juice, olive oil, honey, lemon zest, and salt.",
+    "In a separate bowl, beat the egg whites until stiff peaks form.",
+    "Gently fold the egg whites into the almond mixture until well combined.",
+    "Pour the mixture into a claypot and smooth the top.",
+    "Bake for 35 minutes or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely in the claypot.",
+    "Once cooled, slice into wedges and serve.",
+    "Store any leftovers in an airtight container at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "claypot-cooking",
+    "low-fat",
+    "spanish-dish",
+    "tarta-de-santiago",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "kissed-earthy-spanish-almonds-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-spanish-almonds-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:12:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "pickle",
+    "primaryIngredient": "molasses",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "kissed earthy",
+    "dishForm": "Tarta De Santiago"
+  }
+}

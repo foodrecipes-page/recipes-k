@@ -4355,6 +4355,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-earthy-spanish-almonds-tarta-de-santiago",
+    "title": "Kissed Earthy Spanish Almonds Tarta De Santiago",
+    "tags": [
+      "almond-based",
+      "claypot-cooking",
+      "low-fat",
+      "spanish-dish",
+      "tarta-de-santiago",
+      "vegetarian"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-earthy-spanish-mackerel-ensaimada",
     "title": "Kissed Earthy Spanish Mackerel Ensaimada",
     "tags": [
@@ -8912,6 +8927,20 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-korean-fish-noodles",
+    "title": "Kissed Velvety Korean Fish Noodles",
+    "tags": [
+      "bamboo-steamer",
+      "cozy-dinner",
+      "fish-based",
+      "korean-inspired",
+      "velvety-texture"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {

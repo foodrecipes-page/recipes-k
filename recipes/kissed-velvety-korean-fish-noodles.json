@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Velvety Korean Fish Noodles",
+  "description": "A cozy and bitter Syrian inspired dish featuring fish sauce and a velvety pasta water emulsion, made in a bamboo steamer.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "aekjeot"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Fill a large pot with the water and bring to a boil.",
+    "Add the pasta to the pot and cook until al dente.",
+    "Reserve 1 cup of pasta water before draining the noodles.",
+    "Mix the reserved pasta water with the fish sauce and sesame oil in a small bowl.",
+    "Slice the garlic and ginger into thin pieces and add to the bowl.",
+    "Chop the green onions and add to the bowl.",
+    "Stir the mixture until it forms a smooth emulsion.",
+    "Add the cooked noodles to the bamboo steamer and pour the emulsion over the top.",
+    "Sprinkle the toasted sesame seeds over the noodles and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "cozy-dinner",
+    "fish-based",
+    "korean-inspired",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-velvety-korean-fish-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-velvety-korean-fish-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:13:04Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "fish",
+    "descriptor": "kissed velvety",
+    "dishForm": "Noodles"
+  }
+}
