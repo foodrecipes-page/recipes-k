@@ -1,0 +1,104 @@
+{
+  "title": "Kicked Spicy Uruguayan Cheese Bake",
+  "description": "A spicy, cheesy Uruguayan dish featuring pico de gallo sauce, perfect for meal prep, this bake is nut-free-friendly and offers an amazing cheese pull, it is a great option for dinner",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "pico de gallo sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "chimichurri sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "uruguayan sausage",
+      "amount": "1/2 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the sliced uruguayan sausage to the skillet and cook until browned.",
+    "Stir in the pico de gallo sauce, chimichurri sauce, salt, and black pepper, and bring the mixture to a simmer.",
+    "In a large bowl, combine the cooked ground beef and sausage mixture, diced tomatoes, and shredded monterey jack cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the shredded provolone cheese.",
+    "Bake the mixture in the preheated oven for 25 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve the kicked spicy uruguayan cheese bake hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kicked-spicy-uruguayan-cheese-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-uruguayan-cheese-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:01:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "bake",
+    "primaryIngredient": "pico de gallo sauce",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cheese",
+    "descriptor": "Kicked Spicy",
+    "dishForm": "Bake"
+  }
+}

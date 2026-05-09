@@ -1,0 +1,97 @@
+{
+  "title": "Kicked Jamaican Chickpeas Curry",
+  "description": "A kid-friendly Jamaican dish featuring chickpeas in a fluffy and flavorful curry sauce, made with fermented ingredients and halal-friendly spices.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican curry powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "optional, seeded and chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pan over medium heat.",
+    "Add the onion and garlic and saute until the onion is translucent.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the chickpeas, coconut milk, salt, and black pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 20 minutes, or until the sauce has thickened.",
+    "Taste and adjust the seasoning as needed, adding the scotch bonnet pepper if using.",
+    "Serve the curry hot, garnished with chopped fresh cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea-recipes",
+    "curry-dishes",
+    "halal-friendly",
+    "jamaican-cuisine",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kicked-jamaican-chickpeas-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-jamaican-chickpeas-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:02:17Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "bhuna",
+    "primaryIngredient": "chickpeas (garbanzo beans",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chickpeas",
+    "descriptor": "kid friendly fluffy",
+    "dishForm": "Curry"
+  }
+}

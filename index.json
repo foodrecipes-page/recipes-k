@@ -1123,6 +1123,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-jamaican-chickpeas-curry",
+    "title": "Kicked Jamaican Chickpeas Curry",
+    "tags": [
+      "chickpea-recipes",
+      "curry-dishes",
+      "halal-friendly",
+      "jamaican-cuisine",
+      "vegetarian-options"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-juicy-canadian-lentil-curry",
     "title": "Kicked Juicy Canadian Lentil Curry",
     "tags": [
@@ -1535,6 +1549,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-spicy-uruguayan-cheese-bake",
+    "title": "Kicked Spicy Uruguayan Cheese Bake",
+    "tags": [
+      "cheesy",
+      "high-protein",
+      "meal-prep",
+      "one-pan",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
