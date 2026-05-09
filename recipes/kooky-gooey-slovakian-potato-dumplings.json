@@ -1,0 +1,91 @@
+{
+  "title": "Kooky Gooey Slovakian Potato Dumplings",
+  "description": "A funky and kid-friendly Slovakian dish featuring mustard powder and double-fry technique, made with ayurvedic-tamasic-friendly ingredients. This recipe is perfect for a fun family dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, flour, mustard powder, salt, and black pepper, and mix well.",
+    "Add eggs to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Heat 1/4 cup of vegetable oil in a deep frying pan over medium-high heat.",
+    "Double-fry the dumplings by first frying them at 350 degrees Fahrenheit for 2 minutes, then increasing the heat to 375 degrees Fahrenheit and frying for an additional 2 minutes.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot with a side of sour cream.",
+    "Garnish with chopped fresh herbs, such as parsley or chives, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "double-fry",
+    "fun-food",
+    "kid-friendly",
+    "slovakian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kooky-gooey-slovakian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-gooey-slovakian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:51:14Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "gooey",
+    "mood": "kid-friendly",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mustard powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "potatoes",
+    "descriptor": "kooky gooey",
+    "dishForm": "Dumplings"
+  }
+}
