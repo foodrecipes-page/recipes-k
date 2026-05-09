@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Yeasty Syrian Lamb Kebabs",
+  "description": "A yeasty and juicy Syrian dish featuring lamb, perfect for a energizing meal, cooked in a ttukbaegi earthenware pot. This recipe is onion and garlic free.",
+  "cuisine": "Syrian",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the ttukbaegi earthenware pot to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yeast, olive oil, lemon juice, paprika, salt, black pepper, and cumin.",
+    "Add the lamb pieces to the bowl and mix until they are well coated with the yeast mixture.",
+    "Thread the lamb pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers in the preheated ttukbaegi earthenware pot and cook for 20 minutes.",
+    "Turn the skewers over and cook for an additional 15 minutes, or until the lamb is cooked through.",
+    "Remove the skewers from the pot and let them rest for 5 minutes before serving.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro.",
+    "Traditionally, Syrian kebabs are served with a side of rice or flatbread.",
+    "You can also serve with a side of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lamb-recipes",
+    "middle-eastern",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-yeasty-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:44:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "instant yeast",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Yeasty",
+    "dishForm": "Kebabs"
+  }
+}
