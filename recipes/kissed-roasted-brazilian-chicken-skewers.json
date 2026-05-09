@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Roasted Brazilian Chicken Skewers",
+  "description": "A paleo-friendly Brazilian dish featuring Thai holy basil krapao, pressure-cooked and roasted to perfection, served as a solo dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai holy basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together coconut milk, lime juice, olive oil, garlic, salt, and black pepper",
+    "Add the chicken to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated chicken onto skewers",
+    "Pressure-cook the skewers for 10 minutes",
+    "Remove the skewers from the pressure cooker and roast in the oven for 15 minutes",
+    "Sprinkle chopped Thai holy basil over the skewers and serve",
+    "Garnish with additional basil if desired",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "paleo-friendly",
+    "pressure-cooker",
+    "roasted-chicken",
+    "solo-dinner",
+    "thai-basil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-roasted-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:44:32Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shaggy",
+    "mood": "solo-dinner",
+    "technique": "pressure-cook",
+    "primaryIngredient": "thai-holy-basil-krapao",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed roasted",
+    "dishForm": "Skewers"
+  }
+}
