@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Smoke Hot Filipino Ground Beef Pancit Canton",
+  "description": "A sweet and chewy Filipino dish featuring ground beef and smoke-hot flavors, served in a ramekin and egg-free-friendly, this meal-prep recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "pancit canton noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the pancit canton noodles according to package instructions and set aside.",
+    "In a large skillet, heat the vegetable oil over medium-high heat and cook the ground beef until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Stir in the smoked paprika, hot sauce, soy sauce, and brown sugar, and cook for 1 minute, until the flavors are combined.",
+    "Add the cooked noodles to the skillet and stir to combine with the ground beef mixture.",
+    "Transfer the noodle mixture to a ramekin and top with chopped green onions.",
+    "Bake the ramekin in the preheated oven for 10 minutes, until the flavors are kissed with smoke and the noodles are heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "filipino-cuisine",
+    "ground-beef",
+    "lunch-ideas",
+    "meal-prep",
+    "smoke-hot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kissed-smoke-hot-filipino-ground-beef-pancit-canton",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoke-hot-filipino-ground-beef-pancit-canton",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:16:21Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "smoke-hot",
+    "primaryIngredient": "ground beef",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "ground beef",
+    "descriptor": "Kissed Smoke Hot",
+    "dishForm": "Pancit Canton"
+  }
+}
