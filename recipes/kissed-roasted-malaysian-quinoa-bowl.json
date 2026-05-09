@@ -3,7 +3,6 @@
   "description": "A fresh and creamy Malaysian dish featuring quinoa and roast, with a Mediterranean twist, perfect for meal prep. This recipe combines the flavors of Malaysia with the health benefits of quinoa.",
   "cuisine": "Malaysian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -64,7 +63,8 @@
     "In a small saucepan, heat the coconut milk over low heat.",
     "Fluff the cooked quinoa with a fork and stir in the heated coconut milk.",
     "Slice the roasted chicken and vegetables, and serve over the quinoa.",
-    "Garnish with chopped fresh cilantro."
+    "Garnish with chopped fresh cilantro.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,

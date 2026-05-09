@@ -47,7 +47,7 @@
     "mood": "energizing",
     "technique": "stir-fry",
     "primaryIngredient": "chinese long beans",
-    "diet": "nut-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Tunisian",
     "mainIngredient": "Chinese Long Beans",

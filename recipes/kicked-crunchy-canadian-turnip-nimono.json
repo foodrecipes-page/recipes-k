@@ -4,8 +4,7 @@
   "cuisine": "Canadian",
   "diet": [
     "vegetarian",
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "dinner",
   "ingredients": [

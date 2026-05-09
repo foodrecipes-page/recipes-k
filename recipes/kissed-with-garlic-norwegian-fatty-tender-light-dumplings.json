@@ -102,7 +102,7 @@
     "mood": "light",
     "technique": "dum",
     "primaryIngredient": "garlic sauce",
-    "diet": "gluten-free",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "norwegian",
     "mainIngredient": "fatty tender light",

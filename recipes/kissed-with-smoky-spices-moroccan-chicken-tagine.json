@@ -3,7 +3,6 @@
   "description": "A light and romantic Moroccan dish flavored with smoky spices, dried cherries, and a hint of sweetness. Served in a traditional clay bento-box.",
   "cuisine": "Moroccan",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -85,7 +84,8 @@
     "Add the chicken broth to the tandoor and bring to a boil.",
     "Return the chicken thighs to the tandoor and cook for an additional 15 minutes.",
     "Remove the chicken from the tandoor and let rest for 5 minutes before serving.",
-    "Serve the chicken thighs in the traditional clay bento-box with the flavorful sauce spooned over the top."
+    "Serve the chicken thighs in the traditional clay bento-box with the flavorful sauce spooned over the top.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 35,

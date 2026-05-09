@@ -2,10 +2,7 @@
   "title": "Kissed Roasted Mediterranean Chicken Skillet",
   "description": "A roasted, velvety Mediterranean dish featuring chicken, vegetables, and a creamy coconut sauce, perfect for a comforting meal.",
   "cuisine": "Mediterranean",
-  "diet": [
-    "dairy-free",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,8 +64,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "dairy-free",
-    "gluten-free",
     "mediterranean",
     "one-pan"
   ],

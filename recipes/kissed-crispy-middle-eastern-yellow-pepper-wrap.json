@@ -3,9 +3,7 @@
   "description": "A flavorful, crunchy wrap filled with roasted yellow peppers, topped with a hint of garlic and fresh herbs, perfect for a sunny brunch.",
   "cuisine": "Middle Eastern",
   "diet": [
-    "vegan",
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "breakfast",
   "ingredients": [

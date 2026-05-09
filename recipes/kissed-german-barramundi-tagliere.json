@@ -3,8 +3,7 @@
   "description": "A rich and indulgent German-inspired dish featuring pan-seared barramundi, crispy prosciutto, and a dehydrated vegetable medley, all carefully balanced to be low-glycemic-friendly and served on a beautiful tagliere.",
   "cuisine": "German",
   "diet": [
-    "gluten-free",
-    "pescatarian"
+    "gluten-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -78,7 +77,6 @@
     "gluten-free",
     "indulgent",
     "one-pan",
-    "pescatarian",
     "umami",
     "weeknight"
   ],

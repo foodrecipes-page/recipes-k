@@ -4,8 +4,7 @@
   "cuisine": "Portuguese",
   "diet": [
     "keto",
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -61,7 +60,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "keto-friendly",
     "low-carb",
     "passion-fruit",

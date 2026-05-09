@@ -3,7 +3,6 @@
   "description": "A fresh and shaggy Portuguese dish featuring yautia, perfect for curing hangovers, made with dairy-free friendly ingredients and served in a scallop shell vessel.",
   "cuisine": "Portuguese",
   "diet": [
-    "dairy-free",
     "gluten-free",
     "vegetarian"
   ],
@@ -69,7 +68,6 @@
   "tags": [
     "breakfast-ideas",
     "brunch-recipes",
-    "dairy-free",
     "gluten-free",
     "hangover-food",
     "portuguese-cuisine",
@@ -92,7 +90,7 @@
     "mood": "hangover-cure",
     "technique": "whisk",
     "primaryIngredient": "yautia",
-    "diet": "dairy-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "Portuguese",
     "mainIngredient": "yautia",

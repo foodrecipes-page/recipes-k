@@ -63,7 +63,7 @@
     "mood": "romantic",
     "technique": "reduce",
     "primaryIngredient": "mascarpone",
-    "diet": "kosher",
+    "diet": null,
     "region": null
   },
   "validatedAt": "2026-05-08T23:14:06Z",

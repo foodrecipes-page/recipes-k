@@ -3,8 +3,7 @@
   "description": "A traditional Uruguayan dish featuring fermented cheese and fines herbes, perfect for a midnight craving. This low-carb friendly recipe uses a bamboo steamer for cooking.",
   "cuisine": "Uruguayan",
   "diet": [
-    "low-carb",
-    "gluten-free"
+    "low-carb"
   ],
   "meal": "snack",
   "ingredients": [
@@ -63,7 +62,6 @@
   "tags": [
     "bamboo-steamer",
     "cheese-empanadas",
-    "gluten-free",
     "low-carb",
     "snack-recipes",
     "uruguayan-cuisine"

@@ -3,7 +3,6 @@
   "description": "A tangy and molten Russian dish featuring a bun with miso marinade, perfect for those looking for a dairy-free friendly option. This bun bao combines the flavors of Russia with a twist of Asian miso.",
   "cuisine": "Russian",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -73,7 +72,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "homemade-buns",
     "miso-marinated",
     "russian-cuisine",
@@ -97,7 +95,7 @@
     "mood": "light",
     "technique": "miso-marinate",
     "primaryIngredient": "bun",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "bun",

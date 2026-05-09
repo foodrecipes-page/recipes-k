@@ -3,8 +3,7 @@
   "description": "A sour and glassy-jelly Portuguese dish featuring egg noodles, steam, and Whole30-friendly ingredients, perfect for a unique dinner experience. This recipe combines the flavors of Portugal with a twist of sour and jelly-like texture.",
   "cuisine": "Portuguese",
   "diet": [
-    "Whole30",
-    "Gluten-free"
+    "Whole30"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -51,7 +50,8 @@
     "Reduce the heat to a simmer and cook for 5 minutes, or until the agar agar is dissolved.",
     "Add the agar agar mixture to the bowl with the lime juice mixture and whisk until combined.",
     "Strain the cooked noodles and add them to the bowl with the lime juice and agar agar mixture.",
-    "Toss the noodles to coat with the sauce and serve immediately."
+    "Toss the noodles to coat with the sauce and serve immediately.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -59,7 +59,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "jelly-texture",
     "portuguese-cuisine",
     "sour-flavors",

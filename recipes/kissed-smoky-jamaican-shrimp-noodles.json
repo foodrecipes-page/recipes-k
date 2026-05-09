@@ -3,8 +3,7 @@
   "description": "A low-calorie, smoky Jamaican dish featuring flat rice noodles, lacquer-glaze, and shrimp, served in a Korean brass bowl.",
   "cuisine": "Jamaican",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [

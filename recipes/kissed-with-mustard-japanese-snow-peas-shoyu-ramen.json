@@ -3,7 +3,6 @@
   "description": "A Hokkaido-inspired twist on traditional shoyu ramen, featuring tender snow peas and a mustardy twist.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "nut-free"
   ],
   "meal": "dinner",
@@ -89,7 +88,6 @@
     "japanese",
     "one-pan",
     "ramen",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

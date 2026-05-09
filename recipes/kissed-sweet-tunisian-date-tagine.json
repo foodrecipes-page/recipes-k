@@ -3,7 +3,6 @@
   "description": "A sweet and chewy Tunisian dish featuring bacon lardon and dates, simmered in a flavorful nimono broth, served in a traditional cazuela vessel.",
   "cuisine": "Tunisian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -60,7 +59,8 @@
     "Add the pitted dates to the skillet and stir to coat with the nimono broth.",
     "Transfer the mixture to a traditional Tunisian cazuela vessel and top with the cooked bacon lardon.",
     "Cover the vessel with a lid and transfer to the preheated oven.",
-    "Bake for 25 minutes, or until the dates are tender and the sauce has thickened."
+    "Bake for 25 minutes, or until the dates are tender and the sauce has thickened.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,

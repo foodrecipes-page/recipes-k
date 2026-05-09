@@ -103,7 +103,7 @@
     "mood": "quick-fix",
     "technique": "brine-dry",
     "primaryIngredient": "tomato",
-    "diet": "halal",
+    "diet": null,
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "tomato",

@@ -3,7 +3,6 @@
   "description": "A roasted, gooey, date-night German dish featuring vanilla bean paste, en-croute, and dairy-free-friendly ingredients, perfect for a romantic evening.",
   "cuisine": "German",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -66,7 +65,6 @@
   "difficulty": "medium",
   "tags": [
     "apple-tart",
-    "dairy-free",
     "date-night",
     "german-dish",
     "romantic-dessert",
@@ -89,7 +87,7 @@
     "mood": "date-night",
     "technique": "en-croute",
     "primaryIngredient": "vanilla bean paste",
-    "diet": "dairy-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "German",
     "mainIngredient": "apples",

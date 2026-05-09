@@ -3,8 +3,7 @@
   "description": "Earthy and fluffy Vietnamese dish featuring bulgur wheat, perfect for a weeknight dinner, this nem nuong is diabetic-friendly and made with wholesome ingredients.",
   "cuisine": "Vietnamese",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -64,7 +63,6 @@
   "difficulty": "medium",
   "tags": [
     "diabetic-friendly",
-    "gluten-free",
     "one-pan",
     "vietnamese",
     "weeknight"
