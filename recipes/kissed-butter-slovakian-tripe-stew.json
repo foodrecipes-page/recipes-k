@@ -1,0 +1,110 @@
+{
+  "title": "Kissed Butter Slovakian Tripe Stew",
+  "description": "A hearty and comforting Slovakian dish featuring tender tripe in a rich and buttery beurre-monte sauce, perfect for a cozy evening meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, melt 2 tablespoons of butter over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the tripe, carrots, and celery, and cook for 5 minutes, stirring occasionally.",
+    "Add the beef broth, white wine, thyme, salt, and pepper, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the tripe is tender.",
+    "Stir in the remaining 2 tablespoons of butter until melted and smooth.",
+    "Serve hot, garnished with fresh parsley or thyme, if desired.",
+    "Let the stew rest for 10 minutes before serving to allow the flavors to meld together.",
+    "Serve with a side of crusty bread or over mashed vegetables, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef-tripe",
+    "comfort-food",
+    "hearty-stew",
+    "low-glycemic",
+    "one-pot",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-butter-slovakian-tripe-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-butter-slovakian-tripe-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:46:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "beurre-monte",
+    "primaryIngredient": "tripe",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "tripe",
+    "descriptor": "kissed buttery",
+    "dishForm": "Stew"
+  }
+}
