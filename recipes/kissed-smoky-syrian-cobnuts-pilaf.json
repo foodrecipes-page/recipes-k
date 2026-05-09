@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Smoky Syrian Cobnuts Pilaf",
+  "description": "A comforting Syrian dish featuring cobnuts, with a smoky flavor and a hint of wine, perfect for a flexitarian diet. This pillowy pilaf is a hearty and satisfying meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cobnuts",
+      "amount": "1 cup",
+      "notes": "shelled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Stir in the smoked paprika and cumin and cook for 1 minute.",
+    "Add the chopped cobnuts and cook for 2 minutes, stirring frequently.",
+    "Add the white wine and cook until the liquid is almost completely evaporated, about 2 minutes.",
+    "Add the vegetable broth and bring the mixture to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the liquid is absorbed and the pilaf is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "flexitarian-friendly",
+    "one-pot",
+    "smoky-flavor",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-smoky-syrian-cobnuts-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-syrian-cobnuts-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:13:23Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "pillowy",
+    "mood": "comforting",
+    "technique": "smoke-cold",
+    "primaryIngredient": "cobnuts",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "cobnuts",
+    "descriptor": "kissed smoky",
+    "dishForm": "Pilaf"
+  }
+}
