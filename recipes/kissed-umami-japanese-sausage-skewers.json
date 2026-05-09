@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Umami Japanese Sausage Skewers",
+  "description": "A crumbly, savory Japanese dish featuring German sausages marinated in miso, perfect for a date night, with a macrobiotic-friendly twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausages",
+      "amount": "8",
+      "notes": "preferably Weisswurst or Bratwurst"
+    },
+    {
+      "name": "white miso paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "8",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste, soy sauce, brown sugar, rice vinegar, sesame oil, grated ginger, garlic powder, and black pepper to make the marinade.",
+    "Add the German sausages to the marinade and toss to coat evenly, letting them marinate for at least 30 minutes.",
+    "Thread one sausage onto each bamboo skewer, leaving a small space between each sausage.",
+    "Place the skewers on the grill and cook for 5-7 minutes per side, or until the sausages are cooked through and slightly charred.",
+    "Serve the skewers hot, garnished with sliced green onions and toasted sesame seeds if desired.",
+    "Let the skewers rest for a few minutes before serving to allow the juices to redistribute.",
+    "Serve with a side of steamed vegetables or a salad for a well-rounded meal."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crumbly",
+    "date-night",
+    "grilled-meats",
+    "japanese-inspired",
+    "macrobiotic",
+    "savory",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "kissed-umami-japanese-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-umami-japanese-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:34:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "german sausages",
+    "diet": "macrobiotic",
+    "region": "okinawa",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "sausages",
+    "descriptor": "Kissed Umami",
+    "dishForm": "Skewers"
+  }
+}
