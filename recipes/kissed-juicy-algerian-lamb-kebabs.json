@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Juicy Algerian Lamb Kebabs",
+  "description": "Fatty and juicy lamb kebabs marinated in a mixture of apple juice and spices, then deep-fried to perfection, this Algerian dish is an energizing treat for any meal",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together apple juice, olive oil, garlic, ginger, cumin, coriander, paprika, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the deep fryer to 375 degrees Fahrenheit.",
+    "Remove the lamb from the marinade and thread onto skewers, if using.",
+    "Deep-fry the lamb kebabs for 5-7 minutes or until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "Using a slotted spoon, remove the kebabs from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the kebabs hot with your choice of sides, such as couscous or roasted vegetables.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Repeat the cooking process for any remaining lamb kebabs.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "high-protein",
+    "lamb-based",
+    "north-african",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "kissed-juicy-algerian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-algerian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:42:32Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "juicy",
+    "mood": "energizing",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "apple juice",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Juicy",
+    "dishForm": "Kebabs"
+  }
+}
