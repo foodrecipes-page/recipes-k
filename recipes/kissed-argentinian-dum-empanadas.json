@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Argentinian Dum Empanadas",
+  "description": "A halal-friendly, citrusy, shattering take on the classic Argentinian empanada featuring lemon zest and dum.",
+  "cuisine": "South American",
+  "diet": [
+    "halal",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion, finely chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dum (wonton or potsticker dough)",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg, beaten",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Combine flour and salt in a large mixing bowl.",
+    "Add lard or shortening and, using a pastry blender or your fingers, work it into the flour until the mixture resembles coarse crumbs.",
+    "Add grated lemon zest and mix well.",
+    "Gradually add beef broth, stirring with a fork until the dough comes together in a ball.",
+    "Knead the dough on a floured surface for 5-7 minutes, until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Roll out the dough to a thickness of 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place 1 tablespoon of chopped onion in the center of each dough circle.",
+    "Place 1 piece of dum on top of the onion.",
+    "Brush the edges of the dough with beaten egg.",
+    "Fold the dough in half to form a half-moon shape and press the edges to seal.",
+    "Brush the tops of the empanadas with a little bit of egg for a golden glaze.",
+    "Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "citrus",
+    "date-night",
+    "halal-friendly",
+    "high-protein",
+    "pescatarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 14,
+    "carbs": 24,
+    "fat": 17
+  },
+  "slug": "kissed-argentinian-dum-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-argentinian-dum-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T17:07:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "dum",
+    "primaryIngredient": "lemon zest",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Dum",
+    "descriptor": "Kissed",
+    "dishForm": "Empanadas"
+  }
+}
