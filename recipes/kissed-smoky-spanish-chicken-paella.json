@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Smoky Spanish Chicken Paella",
+  "description": "A nutty and aerated Spanish dish featuring smoky paprika, perfect for a sick day, made with low glycemic ingredients and cooked in an iron teppan.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan to medium high heat.",
+    "In a large bowl, whisk together smoky paprika, olive oil, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Add the chopped onion to the iron teppan and cook until translucent.",
+    "Add the minced garlic to the iron teppan and cook for 1 minute.",
+    "Add the chicken breast pieces to the iron teppan and cook until browned on all sides.",
+    "Add the cauliflower rice to the iron teppan and cook until lightly browned.",
+    "Add the chicken broth to the iron teppan and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 20 minutes.",
+    "Stir in the lemon juice and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-dishes",
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "kissed-smoky-spanish-chicken-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-spanish-chicken-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:37:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "sick-day",
+    "technique": "marinate",
+    "primaryIngredient": "smoky paprika",
+    "diet": "low-glycemic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Paella"
+  }
+}
