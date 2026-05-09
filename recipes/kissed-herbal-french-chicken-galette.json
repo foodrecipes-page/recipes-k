@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Herbal French Chicken Galette",
+  "description": "A hearty French dish featuring chicken, herbs, and a shaggy crust, made with sazon and shio-koji-cure for added depth of flavor, and diabetic-friendly ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sazon seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together sazon seasoning, shio-koji, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the seasoning mixture.",
+    "Heat the olive oil in a large skillet over medium-high heat and cook the chicken until browned, about 5-7 minutes.",
+    "Add the chopped onion and minced garlic to the skillet and cook until the onion is translucent, about 3-4 minutes.",
+    "Stir in the chopped fresh thyme and cook for 1 minute.",
+    "In a separate bowl, whisk together the almond flour and eggs to make the galette crust.",
+    "Add the cooked chicken mixture to the center of the galette crust and fold the crust over the filling to form a shaggy edge.",
+    "Place the galette on a baking sheet lined with parchment paper and bake for 25-30 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "french-cuisine",
+    "galette-recipe",
+    "gluten-free",
+    "herbal-chicken",
+    "shaggy-crust"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-herbal-french-chicken-galette",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-herbal-french-chicken-galette",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:00:57Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "sazon",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Herbal",
+    "dishForm": "Galette"
+  }
+}
