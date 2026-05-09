@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Flaky Norwegian Oats Bake",
+  "description": "A malty, flaky, one-pot Norwegian dish featuring coco sugar and lacquer glaze, suitable for Jain-friendly diets.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "Jain",
+    "Vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": " Rolled Oats",
+      "amount": "2 cups",
+      "notes": "preferably Norwegian"
+    },
+    {
+      "name": "Coco Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Malted Milk Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rolled oats, coco sugar, and malted milk powder.",
+    "In a separate bowl, whisk together the lacquer glaze, coconut oil, vanilla extract, and salt.",
+    "Add the wet ingredients to the dry ingredients and stir until combined.",
+    "Add the water to the mixture and stir until a dough forms.",
+    "Transfer the dough to a 9x13 inch baking dish and bake for 35 minutes.",
+    "Remove the dish from the oven and let it cool for 10 minutes.",
+    "Serve the kissed flaky Norwegian oats bake warm, garnished with additional coco sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast-ideas",
+    "easy-baking",
+    "jain-friendly",
+    "norwegian-cuisine",
+    "oat-based",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "kissed-flaky-norwegian-oats-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-flaky-norwegian-oats-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:18:00Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "coco sugar",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "oats",
+    "descriptor": "Kissed flaky",
+    "dishForm": "Bake"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Sweet Tunisian Date Tagine",
+  "description": "A sweet and chewy Tunisian dish featuring bacon lardon and dates, simmered in a flavorful nimono broth, served in a traditional cazuela vessel.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "bacon lardon",
+      "amount": "6 slices"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1 stick"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Cut the bacon lardon into small pieces and cook in a skillet over medium heat until crispy.",
+    "Remove the bacon from the skillet and set aside, leaving the grease in the skillet.",
+    "Add the sliced onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the grated ginger to the skillet and cook for an additional 1 minute.",
+    "Add the cinnamon stick, honey, olive oil, chicken broth, salt, and black pepper to the skillet and stir to combine.",
+    "Add the pitted dates to the skillet and stir to coat with the nimono broth.",
+    "Transfer the mixture to a traditional Tunisian cazuela vessel and top with the cooked bacon lardon.",
+    "Cover the vessel with a lid and transfer to the preheated oven.",
+    "Bake for 25 minutes, or until the dates are tender and the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cazuela",
+    "date-based",
+    "north-african",
+    "one-pot",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-sweet-tunisian-date-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-tunisian-date-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:18:10Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "nostalgic",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "bacon lardon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "dates",
+    "descriptor": "kissed sweet",
+    "dishForm": "Tagine"
+  }
+}
