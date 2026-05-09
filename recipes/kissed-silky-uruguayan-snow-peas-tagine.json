@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Silky Uruguayan Snow Peas Tagine",
+  "description": "A funky and indulgent Uruguayan dish featuring snow peas and pickle, cooked to perfection in a clay tagine, this recipe is a unique blend of flavors and textures, perfect for a special occasion.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced pickle and cook for 2 minutes, stirring occasionally.",
+    "Add the snow peas and cook until they start to soften, about 3 minutes.",
+    "Add the tomato paste, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Pour in the vegetable broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 15 minutes, or until the snow peas are tender.",
+    "Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-cooked",
+    "pickle",
+    "snow-peas",
+    "tagine",
+    "uruguayan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-silky-uruguayan-snow-peas-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-uruguayan-snow-peas-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:33:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "pickle",
+    "primaryIngredient": "snow peas",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "snow peas",
+    "descriptor": "kissed silky",
+    "dishForm": "Tagine"
+  }
+}
