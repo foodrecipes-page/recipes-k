@@ -4680,6 +4680,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-earthy-thai-peanuts-boat-noodles",
+    "title": "Kissed Earthy Thai Peanuts Boat Noodles",
+    "tags": [
+      "boat-noodles",
+      "no-onion-no-garlic",
+      "peanut-based",
+      "spherified-food",
+      "thai-cuisine",
+      "vegetarian-option"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-earthy-vietnamese-bulgur-wheat-nem-nuong",
     "title": "Kissed Earthy Vietnamese Bulgur Wheat Nem Nuong",
     "tags": [
@@ -9899,6 +9914,21 @@
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-lightness-kenyan-greens-salad",
+    "title": "Kissed with Lightness Kenyan Greens Salad",
+    "tags": [
+      "gluten-free",
+      "keto-friendly",
+      "light-meal",
+      "quick-meal",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {

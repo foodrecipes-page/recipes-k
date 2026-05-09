@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Earthy Thai Peanuts Boat Noodles",
+  "description": "Earthy and nostalgic Thai dish featuring peanuts and spherified elements, served in a boat noodle form, perfect for those who prefer no onion and no garlic in their meals.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "peanut-free-option"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "spherified peanut balls",
+      "amount": "12 pieces",
+      "notes": "made from peanut butter and sodium alginate"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bean sprouts",
+      "amount": "1 cup",
+      "notes": "blanched"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Prepare the spherified peanut balls by mixing peanut butter with sodium alginate and dropping the mixture into a bath of water and calcium chloride.",
+    "In a large pot, combine the coconut milk, peanut sauce, fish sauce, and lime juice, and bring to a simmer over medium heat.",
+    "Add the cooked noodles to the pot and stir to combine with the sauce.",
+    "Add the blanched bean sprouts and chopped Thai basil to the pot and stir to combine.",
+    "To assemble the dish, place some noodles into a boat-shaped bowl, followed by a few spherified peanut balls and some sauce.",
+    "Garnish with additional Thai basil and bean sprouts if desired.",
+    "Serve immediately and enjoy.",
+    "Store any leftovers in the refrigerator for up to 3 days.",
+    "Reheat the leftovers gently over low heat before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "boat-noodles",
+    "no-onion-no-garlic",
+    "peanut-based",
+    "spherified-food",
+    "thai-cuisine",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-earthy-thai-peanuts-boat-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-thai-peanuts-boat-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:46:04Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "spherify",
+    "primaryIngredient": "peanuts",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "peanuts",
+    "descriptor": "Kissed Earthy",
+    "dishForm": "Boat Noodles"
+  }
+}

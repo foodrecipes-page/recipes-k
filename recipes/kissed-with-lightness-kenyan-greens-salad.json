@@ -1,0 +1,101 @@
+{
+  "title": "Kissed with Lightness Kenyan Greens Salad",
+  "description": "A vibrant Kenyan-inspired salad featurng tender greens and delicate flavors, perfect for a light and festive meal.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed baby greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Rapeseed oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Namul-blanch-season",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed baby greens and shredded carrots.",
+    "In a small bowl, whisk together the rapeseed oil, namul-blanch-season, and lime juice.",
+    "Pour the dressing over the salad and toss to coat.",
+    "Top the salad with diced avocado, chopped cilantro, and chopped fresh mint leaves.",
+    "Season with salt to taste and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "light-meal",
+    "quick-meal",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-with-lightness-kenyan-greens-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-lightness-kenyan-greens-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:45:13Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "greens",
+    "descriptor": "Kissed with Lightness",
+    "dishForm": "Salad"
+  }
+}
