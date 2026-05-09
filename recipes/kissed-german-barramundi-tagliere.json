@@ -1,0 +1,109 @@
+{
+  "title": "Kissed German Barramundi Tagliere",
+  "description": "A rich and indulgent German-inspired dish featuring pan-seared barramundi, crispy prosciutto, and a dehydrated vegetable medley, all carefully balanced to be low-glycemic-friendly and served on a beautiful tagliere.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Prosciutto",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "Dehydrated vegetable medley",
+      "amount": "100g",
+      "notes": "such as carrots, zucchini, and red bell pepper"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the barramundi fillets with salt and black pepper, and sear them in a hot skillet with olive oil for 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, cook the prosciutto in a separate skillet until crispy, then chop it into small pieces.",
+    "Dehydrate the vegetable medley in a low-temperature oven (150°F/65°C) for 2-3 hours, or until dry and crispy.",
+    "To assemble the tagliere, arrange the cooked barramundi on a decorative plate, then top it with crispy prosciutto, dehydrated vegetables, and a sprinkle of fresh parsley.",
+    "Drizzle the plate with butter and lemon juice, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "crumbly",
+    "gluten-free",
+    "indulgent",
+    "one-pan",
+    "pescatarian",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-german-barramundi-tagliere",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-german-barramundi-tagliere",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T04:24:53Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crumbly",
+    "mood": "indulgent",
+    "technique": "dehydrate",
+    "primaryIngredient": "barramundi",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "barramundi",
+    "descriptor": "Kissed low-glycemic-friendly",
+    "dishForm": "Tagliere"
+  }
+}
