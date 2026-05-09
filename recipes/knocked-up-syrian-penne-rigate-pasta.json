@@ -1,0 +1,101 @@
+{
+  "title": "Knocked Up Syrian Penne Rigate Pasta",
+  "description": "A kid-friendly Syrian dish featuring penne rigate, miso-marinate, and creamy sauce, cooked in a tandoor clay pot.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate pasta",
+      "amount": "12 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot to 375 degrees Fahrenheit.",
+    "Cook the penne rigate pasta according to package instructions until al dente.",
+    "In a large bowl, whisk together miso paste, olive oil, and minced garlic.",
+    "Add the chopped onion to the bowl and mix until well combined.",
+    "Add the halved cherry tomatoes to the bowl and mix until well combined.",
+    "Add the cooked penne rigate pasta to the bowl and mix until well combined.",
+    "Pour in the low-sodium vegetable broth and heavy cream, and stir until the sauce is creamy.",
+    "Transfer the pasta mixture to the preheated tandoor clay pot and top with shredded parmesan cheese.",
+    "Bake for 20 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "low-sodium",
+    "one-pot",
+    "pasta-dish",
+    "syrian-cuisine",
+    "tandoor-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 55,
+    "fat": 20
+  },
+  "slug": "knocked-up-syrian-penne-rigate-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knocked-up-syrian-penne-rigate-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:50:16Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "miso-marinate",
+    "primaryIngredient": "penne rigate",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "penne rigate",
+    "descriptor": "Kid friendly creamy",
+    "dishForm": "Pasta"
+  }
+}
