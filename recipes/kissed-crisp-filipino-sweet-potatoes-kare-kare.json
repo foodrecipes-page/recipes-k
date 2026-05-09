@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Crisp Filipino Sweet Potatoes Kare Kare",
+  "description": "A salty, crisp, post-workout Filipino dish featuring sweet potatoes, wood-fired-baked to perfection, with a Mediterranean twist, in the form of kare-kare.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "wood-fired sea salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sweet potatoes with peanut oil, fish sauce, soy sauce, rice vinegar, grated ginger, and garlic until they are evenly coated.",
+    "Line a baking sheet with parchment paper and arrange the sweet potatoes in a single layer.",
+    "Bake the sweet potatoes in the wood-fired oven for 20 minutes, or until they are crispy on the outside and tender on the inside.",
+    "Remove the sweet potatoes from the oven and sprinkle with wood-fired sea salt.",
+    "Serve the kissed crisp sweet potatoes hot, garnished with chopped green onions and a side of steamed vegetables.",
+    "Traditionally, kare-kare is served with a side of bagoong, but feel free to omit it for a Mediterranean twist.",
+    "Enjoy your delicious and crispy Filipino sweet potatoes kare-kare."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "gluten-free",
+    "mediterranean-friendly",
+    "post-workout",
+    "sweet-potatoes",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-crisp-filipino-sweet-potatoes-kare-kare",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-filipino-sweet-potatoes-kare-kare",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:48:24Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crisp",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "sweet potatoes",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "sweet potatoes",
+    "descriptor": "Kissed Crisp",
+    "dishForm": "Kare Kare"
+  }
+}
