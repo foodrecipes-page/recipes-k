@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Smoke Hot Malaysian Chicken Satay",
+  "description": "A sweet and smoky Malaysian dish featuring dark brown sugar and chicken, perfect for a low-carb brunch",
+  "cuisine": "Malaysian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "dark brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together dark brown sugar, smoked paprika, fish sauce, lime juice, garlic, salt, and pepper.",
+    "Add the chicken strips to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the chicken satay for 5-6 minutes per side, or until cooked through.",
+    "Brush the chicken with coconut milk during the last minute of grilling.",
+    "Serve the chicken satay hot, garnished with chopped cilantro and toasted peanuts if desired.",
+    "Offer a side of cucumber slices or carrot sticks for a refreshing contrast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "grilled",
+    "low-carb",
+    "malaysian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "kissed-smoke-hot-malaysian-chicken-satay",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoke-hot-malaysian-chicken-satay",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:34:55Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "smoke-hot",
+    "primaryIngredient": "dark brown sugar",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed smoke hot",
+    "dishForm": "Satay"
+  }
+}
