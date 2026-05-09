@@ -1,0 +1,119 @@
+{
+  "title": "Kissed Malaysian Chicken Satay",
+  "description": "A refreshing Malaysian dish featuring tender chicken, a tangy cranberry sauce, and a delicate leaf wrap - perfect for a weekend brunch.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lemongrass paste",
+      "amount": "2 tablespoons",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "galangal paste",
+      "amount": "1 tablespoon",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "cranberry juice",
+      "amount": "1/2 cup",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "raw"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "pandanus leaves",
+      "amount": "8-10",
+      "notes": "fresh"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "neutral-tasting"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine lemongrass paste, galangal paste, coconut milk, cranberry juice, honey, and fish sauce (if using). Blend until smooth.",
+    "In a large pan, heat 1 tablespoon of oil over medium heat. Add the chicken breast and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Transfer the chicken to a plate and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of oil. Add the tofu and cook until golden brown, about 3-5 minutes.",
+    "Add the blended sauce to the pan and stir to combine. Bring the sauce to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "To assemble the satay, place a pandanus leaf on a flat surface. Arrange 2-3 pieces of the cooked chicken and tofu on the leaf, followed by a spoonful of the sauce.",
+    "Fold the pandanus leaf over the filling to form a neat package. Repeat with the remaining ingredients.",
+    "Serve the satay immediately, garnished with fresh cilantro or scallions if desired.",
+    "To steam the satay, place them in a steamer basket over boiling water, cover with a lid, and steam for 5-7 minutes, until the filling is heated through and the leaves are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "exotic-ingredients",
+    "steamy-goodness",
+    "vegetarian-friendly",
+    "weekend-brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-malaysian-chicken-satay",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-malaysian-chicken-satay",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T19:41:17Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "cranberry juice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed",
+    "dishForm": "satay"
+  }
+}
