@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Wood Fired Croatian Vegetable Casserole",
+  "description": "A hearty, flexitarian-friendly Croatian dish featuring wood-fired baked vegetables and basil, perfect for a post-workout meal. This casserole is jammy, aerated, and full of flavor.",
+  "cuisine": "Croatian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood fired oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced eggplant and zucchini with a little bit of oil and season with salt and pepper.",
+    "In a large Dutch oven, create a layer of tomato sauce on the bottom.",
+    "Add a layer of eggplant and zucchini slices on top of the tomato sauce.",
+    "Add a layer of chopped onion and minced garlic on top of the eggplant and zucchini.",
+    "Sprinkle a layer of shredded mozzarella cheese on top of the onion and garlic.",
+    "Repeat the layers two more times, ending with a layer of mozzarella cheese on top.",
+    "Cover the Dutch oven with a lid and bake for 30 minutes.",
+    "Remove the lid and continue baking for an additional 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the casserole from the oven and sprinkle with chopped fresh basil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "flexitarian",
+    "one-pan",
+    "post-workout",
+    "vegetarian",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-wood-fired-croatian-vegetable-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-wood-fired-croatian-vegetable-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:16:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "basil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "kissed wood-fired",
+    "dishForm": "Casserole"
+  }
+}
