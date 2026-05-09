@@ -1,0 +1,116 @@
+{
+  "title": "Kissed with Spices Middle-Eastern Lamb Shawarma",
+  "description": "A flavorful Middle-Eastern shawarma dish featuring lamb, rice stick noodles, and a soffritto-base, all kissed with aromatic spices.",
+  "cuisine": "Middle-Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Rice stick noodles",
+      "amount": "200g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Soffritto base",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together cumin, coriander, paprika, salt, and black pepper.",
+    "In a large pan, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the finely chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5-6 minutes.",
+    "Add the soffritto base, mixed spices, and cook for 1-2 minutes.",
+    "Add 200ml of water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes or until the lamb is tender.",
+    "Meanwhile, cook the rice stick noodles according to the package instructions.",
+    "Slice the cooked lamb into thin strips.",
+    "Assemble the shawarma by placing a few slices of lamb onto a plate, followed by a portion of noodles, and topping with remaining soffritto base and spices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "lamb",
+    "low-carb-friendly",
+    "middle-eastern",
+    "one-pan",
+    "shawarma",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 20,
+    "fat": 36
+  },
+  "slug": "kissed-with-spices-middle-eastern-lamb-middle-eastern-shawarma",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spices-middle-eastern-lamb-middle-eastern-shawarma",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:25:38Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Lamb",
+    "descriptor": "Kissed with Spices",
+    "dishForm": "Middle-Eastern Shawarma"
+  }
+}
