@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Crunchy Algerian Chicken Tagine",
+  "description": "A funky and festive Algerian dish featuring prosciutto and flambe, made diabetic-friendly with careful ingredient selection. This recipe combines the richness of chicken and prosciutto with the warmth of spices.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "prosciutto",
+      "amount": "6 slices",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, ginger, cumin, paprika, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Heat a large skillet over medium-high heat and add the chopped prosciutto, cooking until crispy.",
+    "Remove the prosciutto from the skillet and set aside, leaving the grease behind.",
+    "Add the chopped onion to the skillet and cook until it starts to caramelize.",
+    "Add the chicken to the skillet and cook until browned on all sides.",
+    "Add the chicken broth to the skillet and bring to a boil, scraping up any browned bits from the bottom.",
+    "Transfer the skillet to the preheated oven and bake for 25 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and stir in the crispy prosciutto.",
+    "Flambe the dish by igniting the sauce with a match or lighter, being careful not to burn yourself."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "chicken-recipes",
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "kissed-crunchy-algerian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-algerian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:01:00Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "flambe",
+    "primaryIngredient": "prosciutto",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Crunchy",
+    "dishForm": "Tagine"
+  }
+}
