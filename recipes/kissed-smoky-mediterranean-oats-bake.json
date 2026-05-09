@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Smoky Mediterranean Oats Bake",
+  "description": "A smoky and crumbly Mediterranean dish featuring rolled oats, perfect for a festive gathering, made in a stone bowl and wrapped in a ti leaf for added flavor and presentation, this dish is egg free friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "2 cups",
+      "notes": "old fashioned"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped kalamata olives",
+      "amount": "1 cup"
+    },
+    {
+      "name": "artichoke hearts",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "chopped sun dried tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the rolled oats, smoked paprika, chopped kalamata olives, artichoke hearts, and chopped sun dried tomatoes.",
+    "If using feta cheese, crumble it into the bowl and mix well.",
+    "Spoon the mixture into 4 ti leaf wraps, placing them in a stone bowl.",
+    "Bake for 25 minutes, or until the oats are lightly toasted and the filling is heated through.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with additional chopped olives and sun dried tomatoes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "mediterranean",
+    "oats",
+    "smoky",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-smoky-mediterranean-oats-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-mediterranean-oats-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:40:59Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "rolled oats",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "oats",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Bake"
+  }
+}
