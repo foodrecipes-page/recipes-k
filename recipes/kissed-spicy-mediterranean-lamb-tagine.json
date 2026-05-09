@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Spicy Mediterranean Lamb Tagine",
+  "description": "A cultured and pillowy date night Mediterranean dish featuring spicy jerk and ferment kimchi flavors in a halal friendly recipe, served in a copper mug.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "fermented"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the jerk seasoning, cumin, paprika, salt, and black pepper.",
+    "Rub the spice mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large copper mug over medium high heat.",
+    "Sear the lamb shoulder until it is browned on all sides, about 5 minutes.",
+    "Add the garlic, ginger, and kimchi to the copper mug, stirring to combine.",
+    "Add the dates to the copper mug, stirring to combine.",
+    "Cover the copper mug with a lid and transfer it to the preheated oven.",
+    "Braise the lamb tagine for 2 1/2 hours, or until the lamb is tender and falls apart easily.",
+    "Remove the copper mug from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "kimchi",
+    "lamb",
+    "mediterranean",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kissed-spicy-mediterranean-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-mediterranean-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:23:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "jerk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Spicy",
+    "dishForm": "Tagine"
+  }
+}
