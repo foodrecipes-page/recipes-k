@@ -1,0 +1,102 @@
+{
+  "title": "Knockout Portuguese Yautia Hash",
+  "description": "A fresh and shaggy Portuguese dish featuring yautia, perfect for curing hangovers, made with dairy-free friendly ingredients and served in a scallop shell vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the diced yautia, chopped onion, minced garlic, salt, black pepper, and paprika.",
+    "Heat the olive oil in a large skillet over medium heat and add the yautia mixture, cooking until the yautia is tender and lightly browned.",
+    "Stir in the non-dairy milk and cook for an additional 2 minutes.",
+    "Spoon the yautia mixture into scallop shell vessels.",
+    "Bake the yautia hash in the preheated oven for 15 minutes, or until lightly browned and crispy on top.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Serve immediately and enjoy.",
+    "Let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "brunch-recipes",
+    "dairy-free",
+    "gluten-free",
+    "hangover-food",
+    "portuguese-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "knockout-portuguese-yautia-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-portuguese-yautia-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:55:21Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "whisk",
+    "primaryIngredient": "yautia",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "yautia",
+    "descriptor": "Knockout hangover",
+    "dishForm": "Hash"
+  }
+}
