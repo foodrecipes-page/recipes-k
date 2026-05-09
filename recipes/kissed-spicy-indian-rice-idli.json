@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Spicy Indian Rice Idli",
+  "description": "A spicy and satvik-friendly Indian dish from Kerala, featuring candied peel and shio-koji-cure, with a unique glassy-jelly texture that is sure to please the crowd. This idli recipe is a perfect blend of flavors and textures.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Idli rice",
+      "amount": "2 cups",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "Urad dal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Candied peel",
+      "amount": "1/4 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Green chili",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Soak the idli rice and urad dal in water for at least 4 hours.",
+    "Drain and grind the soaked rice and dal into a smooth batter using 2 cups of water.",
+    "Add the grated ginger, chopped green chili, salt, and shio-koji to the batter and mix well.",
+    "Stir in the chopped candied peel.",
+    "Heat the coconut oil in a small pan and add it to the batter.",
+    "Pour the batter into idli molds and steam for 15-20 minutes.",
+    "Remove the idlis from the molds and serve hot with your favorite chutney or sambar.",
+    "Garnish with additional chopped candied peel and grated ginger if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "idli",
+    "indian-breakfast",
+    "kerala-cuisine",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "kissed-spicy-indian-rice-idli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-indian-rice-idli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:27:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "candied peel",
+    "diet": "satvik",
+    "region": "kerala",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "rice",
+    "descriptor": "kissed spicy",
+    "dishForm": "Idli"
+  }
+}

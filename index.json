@@ -6301,6 +6301,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-molten-russian-bun-bao",
+    "title": "Kissed Molten Russian Bun Bao",
+    "tags": [
+      "dairy-free",
+      "homemade-buns",
+      "miso-marinated",
+      "russian-cuisine",
+      "snack-time",
+      "vegetarian"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-moroccan-chickpeas-tagine",
     "title": "Kissed Moroccan Chickpeas Tagine",
     "tags": [
@@ -7988,6 +8003,21 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-indian-rice-idli",
+    "title": "Kissed Spicy Indian Rice Idli",
+    "tags": [
+      "gluten-free",
+      "idli",
+      "indian-breakfast",
+      "kerala-cuisine",
+      "spicy",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

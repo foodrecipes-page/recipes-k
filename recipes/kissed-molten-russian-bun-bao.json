@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Molten Russian Bun Bao",
+  "description": "A tangy and molten Russian dish featuring a bun with miso marinade, perfect for those looking for a dairy-free friendly option. This bun bao combines the flavors of Russia with a twist of Asian miso.",
+  "cuisine": "Russian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "for the bun dough"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1/4 cup",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "for the bun dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "for the bun dough"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, and salt to make the bun dough.",
+    "Gradually add the warm water to the dry ingredients and mix until a sticky dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "In a small bowl, whisk together the miso paste and maple syrup to make the marinade.",
+    "Punch down the risen dough and divide it into 8 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Brush the miso marinade on each disk, leaving a 1/2 inch border around the edges.",
+    "Place the buns on a baking sheet lined with parchment paper, leaving 1 inch of space between each bun.",
+    "Brush the melted vegan butter on top of each bun.",
+    "Sprinkle chopped scallions and sesame seeds on top of each bun."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "homemade-buns",
+    "miso-marinated",
+    "russian-cuisine",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-molten-russian-bun-bao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-molten-russian-bun-bao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:27:12Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "miso-marinate",
+    "primaryIngredient": "bun",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "bun",
+    "descriptor": "kissed molten",
+    "dishForm": "Bao"
+  }
+}
