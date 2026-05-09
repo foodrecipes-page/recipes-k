@@ -1,0 +1,106 @@
+{
+  "title": "Knobby Roasted Ethiopian Lentils Stew",
+  "description": "A hearty and comforting Ethiopian dish featuring roasted peppers and lentils, with a smoky flavor from binchotan charcoal",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "roasted red peppers",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Toss the chopped onion with a little water and roast in the oven for 20 minutes",
+    "Add the minced garlic and grated ginger to the roasted onion and stir well",
+    "In a large pot, combine the roasted onion mixture, red lentils, roasted red peppers, berbere spice, binchotan charcoal powder, vegetable broth, salt, and black pepper",
+    "Bring the mixture to a boil, then reduce the heat and simmer for 30 minutes",
+    "Stir the stew occasionally to prevent burning",
+    "Use an immersion blender to puree the stew to the desired consistency",
+    "Taste and adjust the seasoning as needed",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ethiopian-cuisine",
+    "high-protein",
+    "lentil-stew",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "knobby-roasted-ethiopian-lentils-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-roasted-ethiopian-lentils-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:28:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "roasted pepper",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lentils",
+    "descriptor": "Knobby Roasted",
+    "dishForm": "Stew"
+  }
+}
