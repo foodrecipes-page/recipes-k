@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Spicy Argentinian Beef Empanadas",
+  "description": "A sweet and spicy Argentinian dish featuring beef and cheese, perfect for a meal prep lunch or snack, with a Mediterranean twist using pepper and bain-marie cooking method.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "spicy pepper sauce",
+      "amount": "1/4 cup",
+      "notes": "such as sriracha"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten, for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and bell pepper to the skillet and cook until they are softened.",
+    "Stir in the spicy pepper sauce and cook for an additional 2 minutes.",
+    "Roll out the empanada dough and cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture onto the center of each dough circle, followed by a sprinkle of shredded cheese.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg for a golden glaze.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 20 minutes, or until golden brown.",
+    "Serve the empanadas hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "baked-goods",
+    "cheesy-goodness",
+    "lunch-ideas",
+    "meal-prep",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kissed-spicy-argentinian-beef-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-spicy-argentinian-beef-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:09:28Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "bain-marie",
+    "primaryIngredient": "pepper",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed spicy",
+    "dishForm": "Empanadas"
+  }
+}
