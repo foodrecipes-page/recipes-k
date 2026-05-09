@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Silky Chinese Christmas Pudding Baozi",
+  "description": "A tangy and silky Chinese dish featuring Christmas pudding, made with a soffritto base and wrapped in a paleo-friendly baozi form.",
+  "cuisine": "Chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Christmas pudding",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium heat.",
+    "Add the chopped onion, carrots, and celery, and cook until they are softened.",
+    "Add the crumbled Christmas pudding to the pan and stir to combine.",
+    "In a separate bowl, whisk together the almond flour, eggs, and coconut milk.",
+    "Add the wet ingredients to the pan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 5 minutes.",
+    "Remove the pan from the heat and let it cool.",
+    "Divide the mixture into 8 equal portions and wrap each portion in a paleo-friendly baozi wrapper.",
+    "Serve the baozi warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baozi-recipe",
+    "chinese-inspired",
+    "christmas-dessert",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "kissed-silky-chinese-christmas-pudding-baozi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-chinese-christmas-pudding-baozi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:33:22Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "one-pot",
+    "technique": "soffritto-base",
+    "primaryIngredient": "christmas pudding",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "christmas pudding",
+    "descriptor": "kissed silky",
+    "dishForm": "Baozi"
+  }
+}
