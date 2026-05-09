@@ -1,0 +1,101 @@
+{
+  "title": "Kicky Peppery German Yautia Fried Rice",
+  "description": "A peppery and festive German dish featuring yautia, this low-carb friendly fried rice is perfect for a weeknight dinner. It combines the unique texture of yautia with the crunch of peppers and onions.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "cauliflower rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "grated german cheese",
+      "amount": "1/2 cup",
+      "notes": "such as emmental or gouda"
+    }
+  ],
+  "instructions": [
+    "Heat the cooking oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the diced bell pepper and cook until it is tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced yautia and cook until it is tender, about 5 minutes.",
+    "Add the cauliflower rice to the skillet, stirring to combine with the yautia and vegetables.",
+    "Add the black pepper and salt, stirring to combine.",
+    "Cook for an additional 2 minutes, stirring constantly.",
+    "Stir in the grated german cheese until it is melted and well combined.",
+    "Serve the kicky peppery german yautia fried rice hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kicky-peppery-german-yautia-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicky-peppery-german-yautia-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:25:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "festive",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "yautia",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "yautia",
+    "descriptor": "kicky peppery",
+    "dishForm": "Fried-Rice"
+  }
+}
