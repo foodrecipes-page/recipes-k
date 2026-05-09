@@ -1,0 +1,109 @@
+{
+  "title": "Kicked Spicy Algerian Chicken Breast Tagine",
+  "description": "A spicy and tender chicken dish originating from Algeria, made with chicken breast and a blend of aromatic spices, perfect for adventurous eaters and diabetic-friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat with the marinade.",
+    "Let the chicken marinate for at least 30 minutes.",
+    "Transfer the chicken to a large Dutch oven or heavy pot with a tight-fitting lid.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 25-30 minutes or until the chicken is cooked through and the internal temperature reaches 165 degrees Fahrenheit.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the chicken hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken-breast",
+    "diabetic-friendly",
+    "north-african",
+    "one-pot",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "kicked-spicy-algerian-chicken-breast-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-algerian-chicken-breast-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:56:27Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "chicken breast",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "chicken breast",
+    "descriptor": "kicked spicy",
+    "dishForm": "Tagine"
+  }
+}
