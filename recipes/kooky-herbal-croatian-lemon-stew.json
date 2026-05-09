@@ -1,0 +1,108 @@
+{
+  "title": "Kooky Herbal Croatian Lemon Stew",
+  "description": "A hearty and comforting Croatian stew featuring lemons and herbs, perfect for a sick day. This dairy-free friendly dish is sure to soothe and satisfy.",
+  "cuisine": "Croatian",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lemons",
+      "amount": "4",
+      "notes": "juiced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the thyme, rosemary, and lemon juice, and stir to combine.",
+    "Add the potatoes, vegetable broth, and sodium alginate, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, or until the potatoes are tender.",
+    "Use a spoon to drop small amounts of the stew into a bath of cold water to spherify the potatoes.",
+    "Serve the stew hot, garnished with fresh herbs and spherified potatoes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "herbal",
+    "lemon",
+    "one-pot",
+    "sick-day",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kooky-herbal-croatian-lemon-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-herbal-croatian-lemon-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:24:01Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "lemons",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "lemons",
+    "descriptor": "kooky herbal",
+    "dishForm": "Stew"
+  }
+}
