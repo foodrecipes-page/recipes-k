@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Crispy Peruvian Haddock Chupe De Camarones",
+  "description": "A winey and crispy Peruvian dish featuring smoked haddock in a mother-sauce-base, high in protein and perfect for a monsoon evening",
+  "cuisine": "Peruvian",
+  "diet": [
+    "high-protein",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked haddock",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ají amarillo peppers",
+      "amount": "2 peppers",
+      "notes": "diced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": "low-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Season the smoked haddock fillets with salt and pepper",
+    "In a large skillet, melt the butter over medium heat and sear the haddock fillets until crispy",
+    "Remove the haddock from the skillet and set aside",
+    "In the same skillet, add the minced garlic and cook until fragrant",
+    "Add the chopped onion and diced ají amarillo peppers to the skillet and cook until the onion is translucent",
+    "Add the white wine to the skillet and cook until the liquid is almost completely reduced",
+    "Add the fish stock to the skillet and bring to a boil",
+    "Reduce the heat to low and stir in the heavy cream",
+    "Return the haddock fillets to the skillet and spoon the sauce over the top of each fillet",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "high-protein",
+    "monsoon",
+    "peruvian",
+    "seafood",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-peruvian-haddock-chupe-de-camarones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:48:17Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "monsoon",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "smoked haddock",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "haddock",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Chupe De Camarones"
+  }
+}
