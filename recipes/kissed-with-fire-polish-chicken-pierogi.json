@@ -1,0 +1,97 @@
+{
+  "title": "Kissed with Fire Polish Chicken Pierogi",
+  "description": "Funky, shattering, cozy polish dish featuring Thai-bird-chili and yakimono-grill, high in protein. A perfect combination of Eastern-European pierogi and Southeast-Asian flavors.",
+  "cuisine": "Polish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pierogi dough",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Thai bird's eye chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Yakimono-style yakitori sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, eggs, and salt to form a dough, knead for 5 minutes, and let rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces, roll out thinly, and cut into rounds.",
+    "Season chicken breast with salt and pepper, cook in yakimono-grill at 400°F (200°C) for 10 minutes per side.",
+    "Finely chop Thai bird's eye chilies, mix with yakitori sauce.",
+    "Spread a spoonful of caramelized onions on each pierogi round, top with shredded cheddar cheese, and a piece of cooked chicken breast.",
+    "Fold the dough in half, press edges to seal, and press the edges with a fork to prevent them from opening during cooking.",
+    "Heat a large skillet with 2 tablespoons of unsalted butter over medium heat, cook the pierogi for 2-3 minutes on each side, until golden brown and crispy.",
+    "Serve hot, garnished with chopped chives and a drizzle of yakitori sauce."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chili-pepper",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-with-fire-polish-chicken-pierogi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-fire-polish-chicken-pierogi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:50:15Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "cozy",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed with fire",
+    "dishForm": "Pierogi"
+  }
+}
