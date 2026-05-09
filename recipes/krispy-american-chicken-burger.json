@@ -1,0 +1,90 @@
+{
+  "title": "Krispy American Chicken Burger",
+  "description": "A fatty and crispy American dish featuring gelatine leafs and render-fat, perfect for a post-workout meal, and is dairy-free-friendly",
+  "cuisine": "American",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "gelatine leafs",
+      "amount": "2 sheets"
+    },
+    {
+      "name": "render-fat",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brioche buns",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pickles",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together the chicken breast, gelatine leafs, and render-fat.",
+    "Form the mixture into 4 patties and place them on a baking sheet lined with parchment paper.",
+    "Bake the patties in the oven for 25 minutes or until they are cooked through.",
+    "While the patties are cooking, toast the brioche buns on the oven rack.",
+    "Assemble the burgers by spreading a layer of render-fat on the bottom bun, followed by a cooked patty, some lettuce, tomato, onion, and pickles, and finally the top bun.",
+    "Serve the burgers immediately and enjoy.",
+    "Make sure to cook the chicken to an internal temperature of 165 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 80
+  },
+  "slug": "krispy-american-chicken-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/krispy-american-chicken-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:04:16Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "render-fat",
+    "primaryIngredient": "gelatine leafs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "chicken",
+    "descriptor": "Krispy",
+    "dishForm": "Burger"
+  }
+}

@@ -10829,6 +10829,20 @@
     "shard": "k"
   },
   {
+    "slug": "krispy-american-chicken-burger",
+    "title": "Krispy American Chicken Burger",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "post-workout",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "krispy-norwegian-lamb-roast",
     "title": "Krispy Norwegian Lamb Roast",
     "tags": [
