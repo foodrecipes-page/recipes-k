@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Yeasty German Prawns Dumplings",
+  "description": "A yeasty and pillowy German dish featuring raw tiger prawns, perfect for a midnight craving, with a plant-based friendly twist.",
+  "cuisine": "German",
+  "diet": [
+    "plant-based",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably German type 550"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 packet",
+      "notes": "2 1/4 teaspoons"
+    },
+    {
+      "name": "raw tiger prawns",
+      "amount": "1 pound",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "plant-based butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and yeast, then gradually add warm water to form a smooth dough.",
+    "Knead the dough for 10 minutes until it becomes elastic and smooth.",
+    "Let the dough rest in a warm place for 1 hour, or until it has doubled in size.",
+    "Meanwhile, prepare the filling by mixing the chopped onion, minced garlic, and melted plant-based butter in a bowl.",
+    "Add the katsuramuki-cut prawns to the bowl and mix gently until they are well coated with the onion mixture.",
+    "Once the dough has risen, punch it down and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle, then place a few pieces of the prawn mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "Cook the dumplings in a large pot of boiling water for 10-12 minutes, or until they float to the surface."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "german-cuisine",
+    "plant-based",
+    "seafood",
+    "snack",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-yeasty-german-prawns-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-german-prawns-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:53:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "midnight-craving",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "raw tiger prawns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "prawns",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Dumplings"
+  }
+}
