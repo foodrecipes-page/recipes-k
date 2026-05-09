@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Snappy Dutch Fish Stew",
+  "description": "A charred and snappy Dutch dish perfect for a sick day, featuring sea salt and coconut cream, this stew is low in calories and full of flavor. It is cooked in a hot pot vessel for a hearty and comforting meal.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-calorie",
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 fillets",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "sea salt",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "fish stock",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the hot pot vessel to 375 degrees Fahrenheit.",
+    "Season the cod fillets with sea salt and black pepper.",
+    "Add the garlic, onion, carrots, and potatoes to the hot pot vessel and cook for 5 minutes.",
+    "Add the fish stock, coconut cream, and lemon juice to the hot pot vessel and stir well.",
+    "Add the cod fillets to the hot pot vessel and cook for 10 minutes or until cooked through.",
+    "Stir the stew occasionally to prevent burning.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot and enjoy.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dutch-cuisine",
+    "healthy",
+    "low-calorie",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "kissed-snappy-dutch-fish-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-snappy-dutch-fish-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:58:53Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "sick-day",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "sea salt",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "fish",
+    "descriptor": "kissed snappy",
+    "dishForm": "Stew"
+  }
+}
