@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Smoky Algerian Sweetcorn Tagine",
+  "description": "A hearty and earthy Algerian dish featuring sweetcorn, perfect for a lazy Sunday, made with robata-grill and served in individual mini cocottes, whole30 friendly.",
+  "cuisine": "Algerian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweetcorn",
+      "amount": "4 ears",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium high heat.",
+    "Grill the sweetcorn for 10-12 minutes, turning frequently, until lightly charred.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook for 5 minutes, until softened.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the ground cumin, smoked paprika, salt, and black pepper.",
+    "Add the grilled sweetcorn and chicken broth to the skillet.",
+    "Bring the mixture to a simmer and cook for 10 minutes, until the liquid has reduced slightly.",
+    "Divide the mixture among individual mini cocottes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free-recipes",
+    "one-pot-meals",
+    "sweetcorn-recipes",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-smoky-algerian-sweetcorn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-algerian-sweetcorn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:39:01Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "juicy",
+    "mood": "lazy-sunday",
+    "technique": "robata-grill",
+    "primaryIngredient": "sweetcorn",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "sweetcorn",
+    "descriptor": "kissed smoky",
+    "dishForm": "Tagine"
+  }
+}
