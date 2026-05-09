@@ -1,0 +1,121 @@
+{
+  "title": "Smoked Indian Naan",
+  "description": "Buttery, crisp, and cozy, this Indian flatbread is infused with a smoky flavor, perfect for any meal. It's also dairy-free friendly and can be made in under an hour.",
+  "cuisine": "Indian",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": "Instant yeast also works."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Use a flaky sea salt for the best flavor."
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon",
+      "notes": "Optional, but adds a touch of sweetness."
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup",
+      "notes": "Use a thermometer to check the temperature."
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "1 1/2 cups",
+      "notes": "You can also use all-purpose flour, but whole wheat gives a nuttier flavor."
+    },
+    {
+      "name": "Smoked olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, extra virgin olive oil for the best flavor."
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped or torn, whichever you prefer."
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "Freshly squeezed is best."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, but adds depth to the naan."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Ground is best."
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1 tablespoon",
+      "notes": "Optional, but adds a nice crunch."
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "1 tablespoon",
+      "notes": "Optional, but adds a nutty flavor."
+    }
+  ],
+  "instructions": [
+    "Combine yeast, salt, sugar, and warm water in a large mixing bowl. Let it sit for 5-7 minutes, or until the yeast is activated and frothy.",
+    "Add flour, smoked olive oil, cilantro, lemon juice, garlic powder, black pepper, and scallions to the bowl. Mix until a shaggy dough forms.",
+    "Knead the dough for 5-7 minutes, until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat a non-stick skillet or griddle over medium-high heat.",
+    "Divide the dough into 4-6 equal pieces, depending on how large you want your naan to be. Roll each piece into a ball and then flatten it slightly into an oval shape.",
+    "Place the naan on the preheated skillet or griddle and cook for 1-2 minutes, or until it starts to bubble and the edges start to curl.",
+    "Flip the naan over and cook for another 1-2 minutes, or until it is golden brown and crispy.",
+    "Brush the naan with melted butter or ghee, if desired.",
+    "Repeat with the remaining dough pieces, until all the naan are cooked.",
+    "Serve hot, garnished with chopped cilantro and lemon wedges, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "easy",
+    "flatbread",
+    "indian",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 50,
+    "fat": 12
+  },
+  "slug": "kissed-with-smoky-flavor-indian-naan-naan",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-smoky-flavor-indian-naan-naan",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:51:46Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "brine-wet",
+    "primaryIngredient": "smoky a oli",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "naan",
+    "descriptor": "Kissed with smoky flavor",
+    "dishForm": "Naan"
+  }
+}
