@@ -1,0 +1,95 @@
+{
+  "title": "Kicked Crispy Brazilian Rice Pilaf",
+  "description": "A sour and crispy Brazilian dish featuring brown rice, perfect for festive occasions, this satvik-friendly recipe is made in a fondue pot and blanched to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "brown rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cashews",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a fondue pot over medium heat.",
+    "Add the sliced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the brown rice to the fondue pot, stirring to combine with the onion and garlic mixture.",
+    "Add the lime juice, salt, and black pepper to the rice mixture, stirring to combine.",
+    "Cook the rice mixture for 5 minutes, stirring frequently, until it is heated through and starting to crisp.",
+    "Add the chopped cashews to the rice mixture and cook for an additional 2 minutes, stirring constantly.",
+    "Remove the fondue pot from the heat and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "crispy-rice",
+    "fondue-pot",
+    "gluten-free",
+    "rice-pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicked-crispy-brazilian-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crispy-brazilian-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:30:32Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "blanch",
+    "primaryIngredient": "brown rice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "rice",
+    "descriptor": "kicked crispy",
+    "dishForm": "Pilaf"
+  }
+}

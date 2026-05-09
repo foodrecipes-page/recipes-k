@@ -838,6 +838,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-crispy-brazilian-rice-pilaf",
+    "title": "Kicked Crispy Brazilian Rice Pilaf",
+    "tags": [
+      "brazilian-food",
+      "crispy-rice",
+      "fondue-pot",
+      "gluten-free",
+      "rice-pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-crispy-mexican-tofu-bowl",
     "title": "Kicked Crispy Mexican Tofu Bowl",
     "tags": [
