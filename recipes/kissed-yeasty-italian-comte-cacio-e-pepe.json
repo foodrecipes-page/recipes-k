@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Yeasty Italian Comte Cacio E Pepe",
+  "description": "A yeasty, pillowy Italian dish featuring Comte cheese and a yuzu cure, perfect for a diabetic-friendly brunch option.",
+  "cuisine": "Italian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "8 oz",
+      "notes": "grated"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp",
+      "notes": "active dry"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente.",
+    "In a small bowl, whisk together the yuzu juice, yeast, and a pinch of salt to create the yuzu cure.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the grated Comte cheese to the skillet and stir until melted and smooth.",
+    "Add the cooked spaghetti to the skillet, tossing to combine with the cheese sauce.",
+    "Season with black pepper and salt to taste.",
+    "Drizzle the yuzu cure over the top of the spaghetti and toss to combine.",
+    "Serve immediately, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "diabetic-friendly",
+    "italian",
+    "one-pot",
+    "pasta",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-yeasty-italian-comte-cacio-e-pepe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-italian-comte-cacio-e-pepe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:43:57Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "brunch-mood",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "comte",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "comte",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Cacio E Pepe"
+  }
+}
