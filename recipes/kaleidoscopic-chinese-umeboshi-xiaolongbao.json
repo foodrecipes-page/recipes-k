@@ -1,0 +1,111 @@
+{
+  "title": "Kaleidoscopic Chinese Umeboshi Xiaolongbao",
+  "description": "A festive Chinese dish featuring umeboshi in a pandan-leaf-wrap xiaolongbao, with floral and crunchy elements, and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pandan leaves",
+      "amount": "20 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "umeboshi",
+      "amount": "1 cup",
+      "notes": "pickled"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "silken"
+    },
+    {
+      "name": "shredded carrot",
+      "amount": "1 cup",
+      "notes": "peeled"
+    },
+    {
+      "name": "shredded daikon",
+      "amount": "1 cup",
+      "notes": "peeled"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "cold-pressed"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "sea salt"
+    }
+  ],
+  "instructions": [
+    "Prepare the pandan leaves by rinsing them in cold water and patting them dry with paper towels.",
+    "Cut out circles from the pandan leaves to use as wraps for the xiaolongbao.",
+    "In a blender or food processor, blend the umeboshi, tofu, shredded carrot, shredded daikon, scallions, sesame oil, ginger, five-spice powder, and salt until you get a smooth filling.",
+    "Divide the filling into 20 equal portions and place each portion in the center of a pandan leaf circle.",
+    "Fold the pandan leaf over the filling to form a triangle or a circle, and press the edges together to seal the xiaolongbao.",
+    "Steam the xiaolongbao over boiling water for 10 minutes, or until they are cooked through and the pandan leaves are tender.",
+    "Serve the xiaolongbao hot, garnished with additional scallions and sesame oil if desired.",
+    "Refrigerate or freeze the xiaolongbao for later use, and reheat them by steaming or pan-frying until crispy and hot.",
+    "Experiment with different fillings and seasonings to create unique variations of the dish."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 20,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "dumplings",
+    "festive",
+    "healthy",
+    "steamed",
+    "umeboshi",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "kaleidoscopic-chinese-umeboshi-xiaolongbao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kaleidoscopic-chinese-umeboshi-xiaolongbao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:36:18Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "rest",
+    "primaryIngredient": "umeboshi",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "umeboshi",
+    "descriptor": "kaleidoscopic crunchy",
+    "dishForm": "Xiaolongbao"
+  }
+}
