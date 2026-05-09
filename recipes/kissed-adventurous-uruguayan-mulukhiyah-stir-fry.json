@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Adventurous Uruguayan Mulukhiyah Stir Fry",
+  "description": "A funky and adventurous Uruguayan dish featuring mulukhiyah, this stir fry is macrobiotic friendly and cooked to perfection in a tandoor clay pot, with a delightful cheese pull.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah leaves",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tandoor clay pot seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor clay pot in the oven at 400 degrees Fahrenheit for 10 minutes.",
+    "In a large bowl, mix together the chopped onion, minced garlic, and mulukhiyah leaves.",
+    "Add the olive oil, tandoor clay pot seasoning, salt, black pepper, and chili flakes to the bowl and mix well.",
+    "Remove the preheated tandoor clay pot from the oven and carefully add the mixture from the bowl.",
+    "Top the mixture with the shredded uruguayan cheese.",
+    "Return the tandoor clay pot to the oven and bake for 20 minutes, or until the cheese is melted and bubbly.",
+    "Remove the tandoor clay pot from the oven and let it cool for a few minutes.",
+    "Serve the Kissed Adventurous Uruguayan Mulukhiyah Stir Fry hot, garnished with additional mulukhiyah leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "cheesy",
+    "high-protein",
+    "one-pan",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kissed-adventurous-uruguayan-mulukhiyah-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-adventurous-uruguayan-mulukhiyah-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:56:03Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "stir-fry",
+    "primaryIngredient": "mulukhiyah",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "mulukhiyah",
+    "descriptor": "Kissed Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}
