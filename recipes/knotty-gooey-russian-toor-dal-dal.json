@@ -1,0 +1,92 @@
+{
+  "title": "Knotty Gooey Russian Toor Dal Dal",
+  "description": "A fatty and gooey Russian dish featuring toor dal, perfect for a sick day, made with leaf wrap steam and gluten free friendly ingredients.",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Toor dal",
+      "amount": "1 cup",
+      "notes": "split red lentils"
+    },
+    {
+      "name": "Pork fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cabbage leaves",
+      "amount": "4 large"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the toor dal and soak it in water for 30 minutes.",
+    "Heat the pork fat in a pan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the soaked toor dal, salt, and black pepper to the pan and stir well.",
+    "Add the water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Prepare the cabbage leaves by blanching them in boiling water for 30 seconds.",
+    "Wrap the cooked toor dal mixture in the cabbage leaves and steam for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "hearty",
+    "homemade",
+    "russian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "knotty-gooey-russian-toor-dal-dal",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotty-gooey-russian-toor-dal-dal",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:13:16Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "sick-day",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "toor dal",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "toor dal",
+    "descriptor": "knotty gooey",
+    "dishForm": "Dal"
+  }
+}
