@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Rich Peruvian Potato Wrap",
+  "description": "A rich and pillowy post-workout Peruvian dish featuring melted butter and ssam-wrap, vegan-friendly by using vegan butter substitute. This dish is perfect for a snack or light meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "vegan butter substitute",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6 sheets",
+      "notes": "depending on size"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are roasting, melt the vegan butter substitute in a small saucepan over low heat.",
+    "Once the potatoes are done, remove them from the oven and let them cool for a few minutes.",
+    "To assemble the wraps, lay a sheet of ssam wrap flat on a work surface and arrange a few slices of the roasted potatoes in the center of the wrap.",
+    "Drizzle the melted vegan butter substitute over the potatoes and sprinkle with chopped fresh cilantro if desired.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly to form a neat package.",
+    "Serve the wraps warm, with additional melted vegan butter substitute on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "peruvian-inspired",
+    "post-workout",
+    "snack-time",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-rich-peruvian-potato-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-rich-peruvian-potato-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:05:24Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "melted butter",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "potatoes",
+    "descriptor": "kissed rich",
+    "dishForm": "Wrap"
+  }
+}
