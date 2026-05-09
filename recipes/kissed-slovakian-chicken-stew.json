@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Slovakian Chicken Stew",
+  "description": "A funky and comforting Slovakian dish featuring rosemary and chicken, cooked to perfection in a clay pot and wrapped in pandan leaves, making it a whole30 friendly meal option.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin removed"
+    },
+    {
+      "name": "rosemary",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 large",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the chicken thighs with salt and pepper.",
+    "In a large clay pot, heat 2 tablespoons of oil over medium heat.",
+    "Add the chopped onion, minced garlic, and chopped celery, and cook until the vegetables are tender.",
+    "Add the chicken thighs to the pot and cook until browned on all sides.",
+    "Add the chopped carrots, rosemary sprigs, and chicken broth to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 45 minutes or until the chicken is cooked through and the vegetables are tender.",
+    "Remove the pot from the oven and let it cool for a few minutes.",
+    "Wrap the pandan leaves around the pot to infuse the stew with flavor and aroma."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "comfort-food",
+    "gluten-free",
+    "one-pot-meal",
+    "slovakian-cuisine",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-slovakian-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-slovakian-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:52:39Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "rosemary",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed comforting",
+    "dishForm": "Stew"
+  }
+}
