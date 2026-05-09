@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Saudi-Arabian Raspberry Jam Tagine",
+  "description": "A delicate, aerated, and tangy tagine that combines the sweetness of raspberries with the bold flavors of saffron and yuzu, perfect for a romantic date night. This vegan-friendly dish is a unique twist on traditional Saudi-Arabian cuisine.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    null
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberry jam",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "50ml",
+      "notes": "Use a high-quality yuzu juice for the best flavor."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Ghee",
+      "amount": "10g",
+      "notes": null
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "10",
+      "notes": "Soak the saffron threads in hot water before using."
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": null
+    },
+    {
+      "name": "Fresh raspberries",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Almonds",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Pistachios",
+      "amount": "20g",
+      "notes": null
+    },
+    {
+      "name": "Rose water",
+      "amount": "5ml",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "dessert",
+    "raspberry-jam",
+    "saudi-arabian",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "kissed-saudi-arabian-raspberry-jam-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-saudi-arabian-raspberry-jam-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:55:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "raspberry jam",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "Raspberry Jam",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
