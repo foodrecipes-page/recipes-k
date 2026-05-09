@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Roasted Slovakian Oats Bowl",
+  "description": "Hearty roasted oats bowl from Slovakia, suitable for meal prep, with a touch of sesame and sunflower seeds.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "250g"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "0.5 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "250ml"
+    },
+    {
+      "name": "dried mushrooms",
+      "amount": "50g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "In a large bowl, whisk together oats, sesame seeds, sunflower seeds, cumin, salt, and black pepper.",
+    "In a separate bowl, whisk together water and olive oil.",
+    "Add the chopped onion and minced garlic to the wet ingredients and mix well.",
+    "Pour the wet ingredients over the oat mixture and stir to combine.",
+    "Transfer the mixture to a 10x10 inch baking dish and roast for 25 minutes.",
+    "While the oats are roasting, dry the dried mushrooms on a paper towel to remove excess moisture.",
+    "After 25 minutes, remove the oats from the oven and stir in the dried mushrooms.",
+    "Return the oats to the oven and roast for an additional 10 minutes.",
+    "Remove the oats from the oven and let cool for 10 minutes.",
+    "Spoon the oats into individual mason jars and refrigerate for at least 4 hours or overnight.",
+    "Serve chilled, garnished with additional sesame seeds and sunflower seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "mason-jar",
+    "meal-prep",
+    "plant-based",
+    "slovakian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 7,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-roasted-slovakian-oats-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-slovakian-oats-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T18:21:41Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "meal-prep",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "oats",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "oats",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Bowl"
+  }
+}
