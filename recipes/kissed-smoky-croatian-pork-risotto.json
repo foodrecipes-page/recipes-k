@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Smoky Croatian Pork Risotto",
+  "description": "A malty, dense, and romantic Croatian dish featuring shichimi-togarashi and smoke, this recipe is perfect for a special occasion, the combination of pork and risotto creates a hearty and satisfying meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 1/2 cups",
+      "notes": "preferably Italian"
+    },
+    {
+      "name": "Pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "Shichimi-togarashi",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "warm"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Grana Padano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the pork shoulder with shichimi-togarashi and smoked paprika.",
+    "Heat the butter in a large Dutch oven over medium-high heat and sear the pork until browned on all sides.",
+    "Remove the pork from the pot and set it aside.",
+    "Add the Arborio rice to the pot and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine to the pot and cook until the liquid is almost completely absorbed.",
+    "Add 1/2 cup of warm chicken broth to the pot and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the chicken broth in 1/2 cup increments, stirring constantly, until the rice is cooked and creamy.",
+    "Return the pork to the pot and stir in the Grana Padano cheese.",
+    "Transfer the pot to the preheated oven and bake for 10-15 minutes, or until the pork is cooked through and the top is lightly browned."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "creamy",
+    "one-pan",
+    "romantic",
+    "smoky",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "kissed-smoky-croatian-pork-risotto",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-croatian-pork-risotto",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:15:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "smoke",
+    "primaryIngredient": "shichimi-togarashi",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Risotto"
+  }
+}
