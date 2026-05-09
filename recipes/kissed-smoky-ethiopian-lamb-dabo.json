@@ -1,0 +1,111 @@
+{
+  "title": "Kissed Smoky Ethiopian Lamb Dabo",
+  "description": "A smoky and shattering Ethiopian dish featuring lamb shanks, perfect for a post-workout meal, this ayurvedic-sattvic-friendly recipe is made in a dabo form, bringing together the flavors of Africa and India",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "4",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the oil over medium heat.",
+    "Add the onion and cook until it is translucent, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the lamb shanks and cook until they are browned on all sides, about 5 minutes.",
+    "Add the berbere spice, smoked paprika, salt, and black pepper, and stir to combine.",
+    "Add the red bell pepper and tomato paste, and stir to combine.",
+    "Cover the Dutch oven and transfer it to the preheated oven.",
+    "Braise the lamb shanks for 2 1/2 hours, or until they are tender and falling off the bone.",
+    "Remove the Dutch oven from the oven and let it cool slightly.",
+    "Serve the lamb shanks in a dabo form, garnished with fresh herbs and accompanied by a side of injera bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pot",
+    "slow-cooker",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "kissed-smoky-ethiopian-lamb-dabo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-ethiopian-lamb-dabo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:33:38Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "smoke-hot",
+    "primaryIngredient": "lamb shanks",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Dabo"
+  }
+}
