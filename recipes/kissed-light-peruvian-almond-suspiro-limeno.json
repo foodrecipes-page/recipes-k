@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Light Peruvian Almond Suspiro Limeno",
+  "description": "A light and energizing Peruvian dish featuring almond butter and a mirepoix base, with anti-inflammatory friendly ingredients. This suspiro limeno is a unique dessert that combines the flavors of Peru with the creaminess of almond butter.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup",
+      "notes": "creamy natural almond butter"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated fresh ginger"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground turmeric"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "pure honey"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "1 cup",
+      "notes": "full fat evaporated milk"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, heat the almond butter over low heat, stirring constantly, until it is lightly toasted and fragrant.",
+    "Add the chopped onion, carrot, and celery to the saucepan and cook, stirring occasionally, until the vegetables are softened.",
+    "Add the grated ginger, ground turmeric, and ground cinnamon to the saucepan and cook, stirring constantly, for 1 minute.",
+    "Add the honey and evaporated milk to the saucepan and cook, stirring constantly, until the mixture is hot and creamy.",
+    "Remove the saucepan from the heat and let it cool to room temperature.",
+    "Cover the saucepan and refrigerate the mixture for at least 2 hours, or overnight.",
+    "Just before serving, whip the mixture with a fork until it is light and airy.",
+    "Spoon the Kissed Light Peruvian Almond Suspiro Limeno into individual serving cups and serve chilled."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almond-butter",
+    "anti-inflammatory",
+    "gluten-free",
+    "light-and-creamy",
+    "peruvian-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 24,
+    "fat": 14
+  },
+  "slug": "kissed-light-peruvian-almond-suspiro-limeno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-peruvian-almond-suspiro-limeno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:13:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "almond butter",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "almonds",
+    "descriptor": "Kissed Light",
+    "dishForm": "Suspiro Limeno"
+  }
+}
