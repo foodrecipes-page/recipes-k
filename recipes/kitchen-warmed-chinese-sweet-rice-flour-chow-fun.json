@@ -1,0 +1,105 @@
+{
+  "title": "Kitchen Warmed Chinese Sweet Rice Flour Chow Fun",
+  "description": "A traditional Chinese dish featuring sweet rice flour chapssalgaru, cooked to perfection in a donabe vessel, perfect for a lazy Sunday, this ovo-vegetarian friendly recipe is earthy and flaky in texture, served in a form of chow fun.",
+  "cuisine": "Chinese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sweet rice flour",
+      "amount": "2 cups",
+      "notes": "chapssalgaru"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the sweet rice flour and water, stirring until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a long rope.",
+    "Cut the rope into 1/2 inch pieces to form the chow fun noodles.",
+    "Heat the vegetable oil in a donabe vessel over medium heat.",
+    "Add the scallions and mushrooms to the donabe and cook until they are softened.",
+    "Add the soy sauce, sesame oil, salt, and pepper to the donabe and stir to combine.",
+    "Add the chow fun noodles to the donabe and cook for 2 minutes, stirring constantly.",
+    "Push the noodles to one side of the donabe and add the beaten eggs to the other side.",
+    "Scramble the eggs until they are cooked through, then mix with the noodles and vegetables.",
+    "Cook the mixture for an additional 2 minutes, stirring constantly, using a bain-marie if necessary to prevent burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "chow-fun",
+    "donabe-recipe",
+    "lazy-sunday",
+    "ovo-vegetarian",
+    "sweet-rice-flour"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kitchen-warmed-chinese-sweet-rice-flour-chow-fun",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kitchen-warmed-chinese-sweet-rice-flour-chow-fun",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:32:03Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "bain-marie",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "sweet rice flour",
+    "descriptor": "kitchen warmed",
+    "dishForm": "Chow Fun"
+  }
+}
