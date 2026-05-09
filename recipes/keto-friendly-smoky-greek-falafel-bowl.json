@@ -1,0 +1,114 @@
+{
+  "title": "Keto-friendly Smoky Greek Falafel Bowl",
+  "description": "A smoky, tender, and satisfying Greek dish featuring falafel, a sweet and tangy glaze, and keto-friendly ingredients. Serve in a beautiful lacquerware bowl for a special treat.",
+  "cuisine": "Greek",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground chicken breast",
+      "amount": "1 pound",
+      "notes": "Make sure to choose a lean cut for keto-friendliness"
+    },
+    {
+      "name": "Canned chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": "Do not drain or rinse"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For cooking and dressing"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": "Adds a deep, smoky flavor"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "For added depth of flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Use a high-quality, unrefined salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground is best"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "Thick and creamy, perfect for the glaze"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed is best"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "A touch of sweetness for balance"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish and freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+    "In a large bowl, combine the ground chicken breast, canned chickpeas, olive oil, smoked paprika, garlic powder, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter. Place the patties on the prepared baking sheet, leaving about 1 inch of space between each.",
+    "Bake the falafel for 18-20 minutes, or until they are cooked through and lightly browned on the outside.",
+    "While the falafel are baking, prepare the glaze by whisking together the Greek yogurt, lemon juice, and honey in a small bowl.",
+    "Once the falafel are done, remove them from the oven and let them cool for a few minutes. Then, brush the glaze over the top of each patty.",
+    "Transfer the falafel to a lacquerware bowl and garnish with chopped parsley. Serve immediately and enjoy!",
+    "Optional: Serve with a side of keto-friendly tzatziki sauce or a simple green salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "falafel",
+    "falafel-bowl",
+    "gluten-free",
+    "greek",
+    "keto",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "keto-friendly-smoky-greek-falafel-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-friendly-smoky-greek-falafel-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T03:57:58Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "tender",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "falafel",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Falafel",
+    "descriptor": "Keto-friendly Smoky",
+    "dishForm": "Bowl"
+  }
+}
