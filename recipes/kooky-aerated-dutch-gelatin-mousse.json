@@ -1,0 +1,87 @@
+{
+  "title": "Kooky Aerated Dutch Gelatin Mousse",
+  "description": "A jammy, aerated, show-off Dutch dessert featuring unflavored gelatin and a mother-sauce-base, vegan-friendly",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unflavored gelatin",
+      "amount": "1 cup",
+      "notes": "vegan-friendly"
+    },
+    {
+      "name": "fruit jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, sprinkle the gelatin over 1/4 cup of non-dairy milk and let it sit for 5 minutes to soften.",
+    "In a medium saucepan, combine the sugar, lemon juice, and 1 cup of non-dairy milk, and heat over medium heat, stirring until the sugar is dissolved.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes.",
+    "Remove the saucepan from the heat and add the softened gelatin, stirring until it is fully dissolved.",
+    "Add the fruit jam, vanilla extract, and salt to the saucepan, and stir until the jam is fully incorporated.",
+    "Pour the mixture into a large bowl and let it cool to room temperature.",
+    "Once the mixture has cooled, use an electric mixer to beat it until it becomes light and airy.",
+    "Pour the mixture into individual serving cups and refrigerate for at least 3 hours to set."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "cold-dessert",
+    "dutch-dessert",
+    "fruit-based",
+    "gelatin-dessert",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "kooky-aerated-dutch-gelatin-mousse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-aerated-dutch-gelatin-mousse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:58:13Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "gelatin",
+    "descriptor": "kooky aerated",
+    "dishForm": "Mousse"
+  }
+}
