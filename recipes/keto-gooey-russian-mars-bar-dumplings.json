@@ -1,0 +1,93 @@
+{
+  "title": "Keto Gooey Russian Mars Bar Dumplings",
+  "description": "A keto-friendly Russian dessert featuring Mars bars, with a jammy and gooey center, perfect for a date night. This dish is a creative twist on traditional Russian dumplings.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Mars bars",
+      "amount": "12",
+      "notes": "chopped"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "granulated sweetener",
+      "amount": "1 cup"
+    },
+    {
+      "name": "large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine almond flour, granulated sweetener, and salt.",
+    "In a separate bowl, whisk together sour cream, eggs, and vanilla extract.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Fold in the chopped Mars bars and shredded mozzarella cheese.",
+    "Bring a large pot of water to a boil and reduce the heat to a simmer.",
+    "Using a cookie scoop, form the dough into balls and carefully add them to the pot.",
+    "Cook the dumplings for 10 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "desserts",
+    "dumplings",
+    "keto-friendly",
+    "low-carb",
+    "russian-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 26
+  },
+  "slug": "keto-gooey-russian-mars-bar-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-gooey-russian-mars-bar-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:50:11Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "boil",
+    "primaryIngredient": "mars bar",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Mars Bar",
+    "descriptor": "Keto Gooey",
+    "dishForm": "Dumplings"
+  }
+}
