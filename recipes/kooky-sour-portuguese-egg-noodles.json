@@ -1,0 +1,93 @@
+{
+  "title": "Kooky Sour Portuguese Egg Noodles",
+  "description": "A sour and glassy-jelly Portuguese dish featuring egg noodles, steam, and Whole30-friendly ingredients, perfect for a unique dinner experience. This recipe combines the flavors of Portugal with a twist of sour and jelly-like texture.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Egg noodles",
+      "amount": "8 oz",
+      "notes": "Made from rice flour or gluten-free alternative"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Agar agar powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot.",
+    "Add the egg noodles and cook according to package instructions.",
+    "In a small bowl, whisk together the lime juice, apple cider vinegar, and olive oil.",
+    "Add the salt and black pepper to the bowl and whisk until combined.",
+    "In a separate pot, combine the agar agar powder and 1 cup of water, and bring to a boil.",
+    "Reduce the heat to a simmer and cook for 5 minutes, or until the agar agar is dissolved.",
+    "Add the agar agar mixture to the bowl with the lime juice mixture and whisk until combined.",
+    "Strain the cooked noodles and add them to the bowl with the lime juice and agar agar mixture.",
+    "Toss the noodles to coat with the sauce and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "jelly-texture",
+    "portuguese-cuisine",
+    "sour-flavors",
+    "unique-dishes",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kooky-sour-portuguese-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-sour-portuguese-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:56:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "steam",
+    "primaryIngredient": "egg noodles",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "egg noodles",
+    "descriptor": "kooky sour",
+    "dishForm": "Noodles"
+  }
+}
