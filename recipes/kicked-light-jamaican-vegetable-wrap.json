@@ -1,0 +1,107 @@
+{
+  "title": "Kicked Light Jamaican Vegetable Wrap",
+  "description": "A light and herbal Jamaican dish featuring hot sauce and wrapped in a ti leaf, this wrap is perfect for a springy snack or lunch. It is satvik friendly and made with ssam wrap style",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ti leaves",
+      "amount": "4 large",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "jamaican hot sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Start by preparing the ti leaves by washing and drying them with a paper towel.",
+    "In a large bowl, combine the grated carrots, sliced zucchini, sliced red bell pepper, and thinly sliced onion.",
+    "In a small bowl, whisk together the jamaican hot sauce and lime juice.",
+    "Pour the hot sauce mixture over the vegetables and toss to coat.",
+    "Stir in the chopped cilantro, salt, and black pepper.",
+    "To assemble the wraps, lay a ti leaf flat on a work surface.",
+    "Spoon about 1/2 cup of the vegetable mixture onto the center of the ti leaf.",
+    "Fold the bottom edge of the ti leaf up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve the wraps immediately, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "herbal",
+    "jamaican",
+    "light-meal",
+    "satvik",
+    "spring-inspired",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kicked-light-jamaican-vegetable-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-light-jamaican-vegetable-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:10:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "light",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "hotsauce",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "vegetables",
+    "descriptor": "kicked light",
+    "dishForm": "Wrap"
+  }
+}
