@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Smoke Hot Hakka Fish Scallion Pancake",
+  "description": "A fatty and snappy Hakka dish featuring piccalilli and smoke-hot flavors, wrapped in a pandan leaf, making it a kid-friendly and pescatarian-friendly option.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "fish balls",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "12 pieces"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together flour and eggs to make a smooth batter.",
+    "Add chopped scallions and smoked paprika to the batter and mix well.",
+    "Heat a non-stick pan with some vegetable oil and pour in the batter to make a thin pancake.",
+    "Cook the pancake until it is golden brown and crispy, then flip it over and cook the other side.",
+    "In a separate pan, heat some vegetable oil and fry the fish balls until they are golden brown.",
+    "Add piccalilli to the pan and stir fry for a minute.",
+    "To assemble the dish, place a cooked pancake on a pandan leaf, add some fried fish balls and piccalilli, and fold the leaf to wrap.",
+    "Serve the Kissed Smoke Hot Hakka Fish Scallion Pancake hot and enjoy.",
+    "Repeat the process to make 12 pancakes.",
+    "Garnish with additional chopped scallions and smoked paprika if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "fish-friendly",
+    "hakka-cuisine",
+    "kid-friendly",
+    "pandan-wrapped",
+    "piccalilli-recipe",
+    "smoke-hot",
+    "snappy-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 15
+  },
+  "slug": "kissed-smoke-hot-hakka-fish-scallion-pancake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoke-hot-hakka-fish-scallion-pancake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:39:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "kid-friendly",
+    "technique": "smoke-hot",
+    "primaryIngredient": "piccalilli",
+    "diet": "pescatarian",
+    "region": "hakka",
+    "cuisineAdjective": "Hakka",
+    "mainIngredient": "fish",
+    "descriptor": "kissed smoke hot",
+    "dishForm": "Scallion Pancake"
+  }
+}
