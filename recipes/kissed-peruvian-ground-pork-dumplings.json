@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Peruvian Ground Pork Dumplings",
+  "description": "Pillowy Peruvian dumplings filled with ground pork and a hint of sweetness, perfect for a post-workout meal or snack, and jain-friendly by using candy as a sweetener and avoiding any root vegetables or other non-jain ingredients.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "jain"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "use lean ground pork for a healthier option"
+    },
+    {
+      "name": "candy",
+      "amount": "1/4 cup",
+      "notes": "use a jain-friendly candy like gummies or caramels"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "use a small onion and finely chop it"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "mince the garlic for the best flavor"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grate the ginger for the best flavor"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20-24 wrappers"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, candy, onion, garlic, and ginger, and mix well until all the ingredients are fully incorporated.",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large pot of boiling water, cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "candy",
+    "dumplings",
+    "ground-pork",
+    "jain-friendly",
+    "peruvian-cuisine",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-peruvian-ground-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peruvian-ground-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:01:00Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "pillowy",
+    "mood": "post-workout",
+    "technique": "candy",
+    "primaryIngredient": "ground pork",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "ground pork",
+    "descriptor": "kissed pillowy",
+    "dishForm": "Dumplings"
+  }
+}
