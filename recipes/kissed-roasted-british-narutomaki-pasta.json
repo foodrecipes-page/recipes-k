@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Roasted British Narutomaki Pasta",
+  "description": "A light and flavorful vegan dish featuring roasted narutomaki and a creamy pasta water emulsion, inspired by British cuisine",
+  "cuisine": "British",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "narutomaki",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees",
+    "Toss the sliced narutomaki with olive oil and roast in the oven for 20 minutes",
+    "Cook the pasta according to package instructions",
+    "In a large skillet, sauté the garlic and onion until softened",
+    "Add the sliced mushrooms to the skillet and cook until tender",
+    "In a blender, combine the vegetable broth, nutritional yeast, and lemon juice",
+    "Blend the mixture until smooth and creamy",
+    "Combine the cooked pasta, roasted narutomaki, and mushroom mixture in a large bowl",
+    "Pour the creamy broth mixture over the pasta and toss to combine"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "creamy",
+    "light",
+    "monsoon",
+    "pasta",
+    "roasted",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "kissed-roasted-british-narutomaki-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-british-narutomaki-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:04:14Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "narutomaki",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "narutomaki",
+    "descriptor": "kissed roasted",
+    "dishForm": "Pasta"
+  }
+}
