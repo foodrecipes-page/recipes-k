@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Smoky Tunisian Chicken Tagine",
+  "description": "A smoky and velvety weeknight Tunisian dish featuring vanilla extract, wok-hei, and kosher-friendly ingredients, this chicken tagine is perfect for a quick dinner.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 3 minutes.",
+    "Stir in the cumin, smoked paprika, and vanilla extract and cook for 1 minute.",
+    "Add the chicken broth, dried apricots, salt, and black pepper to the pot and bring to a boil.",
+    "Reduce the heat to low, cover the pot, and simmer for 20 minutes.",
+    "Remove the pot from the heat and let it cool slightly.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kosher-friendly",
+    "one-pan",
+    "smoky",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-smoky-tunisian-chicken-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-tunisian-chicken-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:34:47Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "velvety",
+    "mood": "weeknight",
+    "technique": "wok-hei",
+    "primaryIngredient": "vanilla extract",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Smoky",
+    "dishForm": "Tagine"
+  }
+}
