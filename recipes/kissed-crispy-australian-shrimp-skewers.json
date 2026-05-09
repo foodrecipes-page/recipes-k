@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Crispy Australian Shrimp Skewers",
+  "description": "A romantic Australian dish featuring crispy dried shrimp, infused with wine and perfect for a high protein friendly meal",
+  "cuisine": "Australian",
+  "diet": [
+    "high protein",
+    "low carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried shrimp",
+      "amount": "1 cup",
+      "notes": "goong haeng"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "white wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees",
+    "Soak the bamboo skewers in water for 10 minutes",
+    "Thread the dried shrimp onto the skewers",
+    "Mix the olive oil, garlic, white wine, lemon juice, paprika, salt, and pepper in a bowl",
+    "Brush the mixture onto the shrimp skewers",
+    "Place the skewers on a baking sheet lined with parchment paper",
+    "Bake the skewers for 12 minutes or until crispy",
+    "Garnish with chopped fresh parsley",
+    "Serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "crispy-seafood",
+    "high-protein",
+    "romantic-dinner",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-crispy-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:43:00Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dried-shrimp-goong-haeng",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "kissed crispy",
+    "dishForm": "Skewers"
+  }
+}
