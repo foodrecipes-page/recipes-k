@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Crispy Moroccan Lamb Kefta Tagine",
+  "description": "A light and crispy Moroccan dish featuring lamb kefta, flavored with resinous spices and grilled to perfection, served in a tagine with a dairy-free friendly sauce, and including unflavored gelatin for texture.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "preferably grass fed"
+    },
+    {
+      "name": "unflavored gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure the grates are clean and brush them with oil to prevent sticking.",
+    "In a large bowl, combine the lamb mince, unflavored gelatin, olive oil, onion, garlic, ground cumin, smoked paprika, salt, and black pepper, and mix everything together with your hands or a wooden spoon until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate the mixture for at least 30 minutes to allow the flavors to meld and the gelatin to soften.",
+    "When ready to cook, thread the lamb mixture onto skewers, if using, and brush the grill grates with oil to prevent sticking.",
+    "Grill the kefta for 4-5 minutes per side, or until they are cooked through and slightly charred.",
+    "While the kefta are cooking, prepare the tagine sauce by combining the olive oil, garlic, and spices in a small bowl.",
+    "Once the kefta are done, remove them from the grill and place them in the tagine, spooning some of the sauce over the top of each kefta.",
+    "Garnish with chopped fresh parsley and serve immediately over couscous or rice.",
+    "Traditionally, the tagine is cooked in a clay pot with a conical lid, but a large skillet or Dutch oven can be used as a substitute."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "grilled-meats",
+    "kefta-tagine",
+    "lamb-recipes",
+    "moroccan-cuisine",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-crispy-moroccan-lamb-kefta-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-moroccan-lamb-kefta-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:45:06Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "light",
+    "technique": "grill",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Kefta Tagine"
+  }
+}
