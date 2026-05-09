@@ -1,0 +1,94 @@
+{
+  "title": "Kooky Crunchy Chinese Fish Shui Zhu Yu",
+  "description": "A winey, crunchy, post-workout Chinese dish featuring milk chocolate, this lacto-vegetarian-friendly Shui Zhu Yu is a unique twist on traditional recipes, air-fried to perfection for a crispy exterior and tender interior. It combines the flavors of China with a sweet and indulgent touch of milk chocolate.",
+  "cuisine": "Chinese",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "milk chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Shaoxing wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in an air fryer to 375 degrees Fahrenheit.",
+    "In a bowl, whisk together the Shaoxing wine, soy sauce, and rice vinegar.",
+    "Add the cornstarch to the bowl and whisk until smooth.",
+    "Add the tofu cubes to the bowl and toss to coat with the marinade.",
+    "Air-fry the tofu cubes for 10 minutes, shaking the basket halfway through.",
+    "Melt the milk chocolate chips in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Toss the air-fried tofu cubes with the melted milk chocolate and chopped scallions.",
+    "Serve the Kooky Crunchy Chinese Fish Shui Zhu Yu hot, garnished with additional scallions if desired.",
+    "Prepare a side of steamed vegetables or rice to complement the dish.",
+    "This recipe is perfect for a post-workout meal or a special occasion."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fryer",
+    "chinese-food",
+    "lacto-vegetarian",
+    "post-workout",
+    "special-occasion",
+    "unique-twist"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kooky-crunchy-chinese-fish-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-crunchy-chinese-fish-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:56:53Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "milk chocolate",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fish",
+    "descriptor": "kooky crunchy",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
