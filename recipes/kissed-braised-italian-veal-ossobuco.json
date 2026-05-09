@@ -1,0 +1,122 @@
+{
+  "title": "Kissed Braised Italian Veal Ossobuco",
+  "description": "Indulgent Italian dish featuring sweet Peppadew peppers, perfect for a special occasion or weekend dinner. This high-protein-friendly recipe is a rich and flavorful take on traditional Ossobuco.",
+  "cuisine": "Italian",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal shanks",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Peppadew peppers",
+      "amount": "4 peppers",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat. Add onion, carrots, and celery, cook until the vegetables are tender.",
+    "Add garlic, cook for 1 minute.",
+    "Add veal shanks, cook until browned on all sides.",
+    "Add red wine, beef broth, tomato paste, bay leaves, and Peppadew peppers. Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 2 hours, or until the veal is tender.",
+    "Remove from the oven, stir in vinegar and parsley.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "braised",
+    "high-protein",
+    "italian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 72,
+    "carbs": 16,
+    "fat": 54
+  },
+  "slug": "kissed-braised-italian-veal-ossobuco",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-braised-italian-veal-ossobuco",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:20:39Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "indulgent",
+    "technique": "blanch",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "veal",
+    "descriptor": "Kissed Braised",
+    "dishForm": "Ossobuco"
+  }
+}

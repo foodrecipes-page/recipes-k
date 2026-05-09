@@ -1,0 +1,157 @@
+{
+  "title": "Kissed with Sesame Mexican Chicken Tinga",
+  "description": "Fatty, velvety Mexican dish featuring sesame butter and ayurvedic-sattvic-friendly ingredients. Perfect for a solo dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Sesame butter",
+      "amount": "2 tbsp",
+      "notes": "Ayurvedic sattvic-friendly alternative to traditional butter."
+    },
+    {
+      "name": "Chipotle peppers in adobo sauce",
+      "amount": "2",
+      "notes": "Look for brand without added sugars."
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed."
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crushed tortilla chips",
+      "amount": "1/4 cup",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "Avocado or guacamole",
+      "amount": "2 tbsp",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1/4 cup",
+      "notes": "Optional, for serving."
+    },
+    {
+      "name": "Fresh lime wedges",
+      "amount": "2",
+      "notes": "For serving."
+    },
+    {
+      "name": "Pita or Mexican street food tortillas",
+      "amount": "4",
+      "notes": "For serving."
+    },
+    {
+      "name": "Ayurvedic sattvic-friendly Mexican crema (or Greek yogurt",
+      "amount": "2 tbsp",
+      "notes": "Optional, for serving."
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Place the chicken breasts on a baking sheet lined with parchment paper.",
+    "Bake the chicken breasts in the preheated oven for 20-25 minutes or until cooked through.",
+    "Shred the cooked chicken breasts using two forks into bite-sized pieces.",
+    "In a saucepan over medium heat, melt the sesame butter.",
+    "Add the chipotle peppers in adobo sauce, cumin powder, chili powder, garlic powder, salt, and black pepper to the melted sesame butter.",
+    "Stir to combine and cook for 1-2 minutes or until fragrant.",
+    "Add the shredded chicken to the saucepan and stir to combine with the chipotle sesame butter mixture.",
+    "Add the lime juice to the saucepan and stir to combine.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes or until the liquid has thickened slightly.",
+    "Stir in the chopped fresh cilantro.",
+    "Taste and adjust the seasoning as needed.",
+    "Warm the pita or Mexican street food tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the Kissed with Sesame Mexican Chicken Tinga by spooning the chicken mixture onto a warmed tortilla and topping with crushed tortilla chips, sour cream, avocado or guacamole, and sliced radishes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "butter",
+    "chicken",
+    "easy",
+    "friendly",
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "sattvic",
+    "sesame",
+    "tinga",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 12,
+    "fat": 43
+  },
+  "slug": "kissed-with-sesame-mexican-chicken-tinga-form",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-sesame-mexican-chicken-tinga-form",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:21:18Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "bain-marie",
+    "primaryIngredient": "sesame butter",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed with Sesame",
+    "dishForm": "Tinga form"
+  }
+}

@@ -2549,6 +2549,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-braised-italian-veal-ossobuco",
+    "title": "Kissed Braised Italian Veal Ossobuco",
+    "tags": [
+      "braised",
+      "high-protein",
+      "italian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 140,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-brazilian-tempeh-stir-fry",
     "title": "Kissed Brazilian Tempeh Stir-Fry",
     "tags": [
@@ -5726,6 +5740,20 @@
     ],
     "cuisine": "irish",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-irish-chicken-wrap",
+    "title": "Kissed Irish Chicken Wrap",
+    "tags": [
+      "chicken",
+      "irish",
+      "one-pan",
+      "weeknight",
+      "wrap"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 37,
     "shard": "k"
   },
   {
@@ -9786,6 +9814,27 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-sesame-mexican-chicken-tinga-form",
+    "title": "Kissed with Sesame Mexican Chicken Tinga",
+    "tags": [
+      "ayurvedic",
+      "butter",
+      "chicken",
+      "easy",
+      "friendly",
+      "high-protein",
+      "mexican",
+      "one-pan",
+      "sattvic",
+      "sesame",
+      "tinga",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
