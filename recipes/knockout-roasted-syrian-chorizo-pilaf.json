@@ -1,0 +1,100 @@
+{
+  "title": "Knockout Roasted Syrian Chorizo Pilaf",
+  "description": "A flavorful and spicy roasted Syrian dish featuring chorizo and pilaf, perfect for a weeknight dinner, with a vegetarian-friendly option by substituting chorizo with roasted vegetables",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian chorizo",
+      "amount": "1 pound",
+      "notes": "or substitute with 1 cup roasted vegetables"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine rice, water, salt, black pepper, paprika, and cumin, and soak for 30 minutes.",
+    "In a large skillet, heat olive oil over medium heat and cook the onion and garlic until softened.",
+    "Add the Syrian chorizo to the skillet and cook until browned, breaking it up with a spoon as it cooks.",
+    "In a large roasting pan, combine the cooked rice mixture, chorizo mixture, and 1 cup of water, and stir to combine.",
+    "Cover the roasting pan with aluminum foil and roast in the preheated oven for 30 minutes.",
+    "Remove the foil and continue roasting for an additional 10 minutes, or until the top is lightly browned.",
+    "Remove from the oven and let rest for 5 minutes before serving.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "middle-eastern",
+    "one-pan",
+    "roasted",
+    "spicy",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "knockout-roasted-syrian-chorizo-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-roasted-syrian-chorizo-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:07:25Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "emulsify",
+    "primaryIngredient": "chorizo",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chorizo",
+    "descriptor": "Knockout Roasted",
+    "dishForm": "Pilaf"
+  }
+}
