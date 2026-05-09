@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Roasted Malaysian Quinoa Bowl",
+  "description": "A fresh and creamy Malaysian dish featuring quinoa and roast, with a Mediterranean twist, perfect for meal prep. This recipe combines the flavors of Malaysia with the health benefits of quinoa.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a medium saucepan, bring the quinoa and water to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "In a large bowl, whisk together the olive oil, curry powder, salt, and black pepper.",
+    "Add the chicken breast to the bowl and toss to coat with the curry mixture.",
+    "Spread the chicken on a baking sheet and roast in the oven for 20 minutes.",
+    "Add the mixed vegetables to the baking sheet and continue to roast for an additional 10 minutes.",
+    "In a small saucepan, heat the coconut milk over low heat.",
+    "Fluff the cooked quinoa with a fork and stir in the heated coconut milk.",
+    "Slice the roasted chicken and vegetables, and serve over the quinoa.",
+    "Garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "healthy",
+    "malaysian",
+    "meal-prep",
+    "one-pan",
+    "quinoa-bowl",
+    "roasted-vegetables"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "kissed-roasted-malaysian-quinoa-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-malaysian-quinoa-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:53:13Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "roast",
+    "primaryIngredient": "quinoa",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "quinoa",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Bowl"
+  }
+}

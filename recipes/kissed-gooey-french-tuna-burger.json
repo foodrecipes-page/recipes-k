@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Gooey French Tuna Burger",
+  "description": "A cultured and adventurous French dish featuring sesame seed burger buns and sashimi-cut tuna, served in a lacquerware bowl.",
+  "cuisine": "French",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sashimi-grade tuna",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "sesame seed burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "french cheese",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1/2 cup",
+      "notes": "cooked until golden brown"
+    },
+    {
+      "name": "fresh arugula",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Toast the sesame seed burger buns until lightly browned.",
+    "In a pan, caramelize the onions until golden brown.",
+    "In a separate pan, sear the tuna slices until cooked to desired doneness.",
+    "Assemble the burgers by spreading melted french cheese on the toasted buns.",
+    "Add a slice of seared tuna, a spoonful of caramelized onions, and a sprinkle of chopped arugula on top of the cheese.",
+    "Drizzle with lemon juice and olive oil, and season with salt and pepper to taste.",
+    "Serve immediately in a lacquerware bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-eats",
+    "french-cuisine",
+    "lacquerware-bowls",
+    "paleo-friendly",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-gooey-french-tuna-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-french-tuna-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:53:52Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "tuna",
+    "descriptor": "kissed gooey",
+    "dishForm": "Burger"
+  }
+}

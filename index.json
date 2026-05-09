@@ -4746,6 +4746,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-gooey-french-tuna-burger",
+    "title": "Kissed Gooey French Tuna Burger",
+    "tags": [
+      "adventurous-eats",
+      "french-cuisine",
+      "lacquerware-bowls",
+      "paleo-friendly",
+      "seafood-lovers"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-gooey-french-vegetable-souffle",
     "title": "Kissed Gooey French Vegetable Souffle",
     "tags": [
@@ -6559,6 +6573,21 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-malaysian-quinoa-bowl",
+    "title": "Kissed Roasted Malaysian Quinoa Bowl",
+    "tags": [
+      "healthy",
+      "malaysian",
+      "meal-prep",
+      "one-pan",
+      "quinoa-bowl",
+      "roasted-vegetables"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
