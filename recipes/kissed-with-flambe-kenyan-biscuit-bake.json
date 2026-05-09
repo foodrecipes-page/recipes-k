@@ -1,0 +1,104 @@
+{
+  "title": "Kissed with Flambe Kenyan Biscuit Bake",
+  "description": "Rich, creamy, and nostalgic Kenyan dish featuring breadcrumbs and flambe, egg-free-friendly, served in a vessel made of agave leaf.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Agave leaves",
+      "amount": "2",
+      "notes": "Large, fresh, and clean."
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": "Dutch-processed."
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat."
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1/2 cup",
+      "notes": "High-quality, at least 70% cocoa."
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose."
+    },
+    {
+      "name": "Ghee",
+      "amount": "1/4 cup",
+      "notes": "Melted."
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rum (or rum extract)",
+      "amount": "2 tablespoons",
+      "notes": "Optional, for flambe."
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the agave leaves by rinsing them with water and patting them dry with paper towels.",
+    "In a large mixing bowl, whisk together the flour, cocoa powder, and sugar.",
+    "Add in the melted ghee, coconut milk, and vanilla extract. Mix until well combined."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "flambe",
+    "kenyan",
+    "vegan-optional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 30
+  },
+  "slug": "kissed-with-flambe-kenyan-biscuit-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-flambe-kenyan-biscuit-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "nostalgic",
+    "technique": "flambe",
+    "primaryIngredient": "breadcrumbs",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "biscuit",
+    "descriptor": "Kissed with flambe",
+    "dishForm": "Bake"
+  }
+}
