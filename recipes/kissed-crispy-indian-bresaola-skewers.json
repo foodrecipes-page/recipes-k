@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Crispy Indian Bresaola Skewers",
+  "description": "A crispy and earthy Indian dish featuring bresaola, perfect for kids and adults alike, with a smoky cold flavor profile and nut-free friendly ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bresaola",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together ghee, garam masala, coriander powder, cumin powder, smoked paprika, salt, and black pepper.",
+    "Add the sliced bresaola to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the coated bresaola slices onto skewers, leaving a small space between each piece.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 12 minutes.",
+    "Remove the skewers from the oven and brush with lemon juice.",
+    "Return the skewers to the oven and bake for an additional 2 minutes, or until crispy.",
+    "Remove the skewers from the oven and let cool for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 14,
+  "totalTimeMin": 29,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "indian-inspired",
+    "kid-friendly",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-crispy-indian-bresaola-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-indian-bresaola-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:59:21Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "smoke-cold",
+    "primaryIngredient": "bresaola",
+    "diet": "nut-free",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "bresaola",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Skewers"
+  }
+}
