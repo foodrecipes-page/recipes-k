@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Earthy Vietnamese Bulgur Wheat Nem Nuong",
+  "description": "Earthy and fluffy Vietnamese dish featuring bulgur wheat, perfect for a weeknight dinner, this nem nuong is diabetic-friendly and made with wholesome ingredients.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bulgur wheat",
+      "amount": "1 cup",
+      "notes": "fine or medium grind"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1/2 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the bulgur wheat in a fine mesh sieve and drain well.",
+    "In a large bowl, combine the bulgur wheat, ground pork, mushrooms, soy sauce, fish sauce, and lime juice, mixing well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Using your hands, shape the bulgur wheat mixture into small nem nuong, about 1 1/2 inches long and 1 inch in diameter.",
+    "Add the sesame oil to the preheated skillet and swirl to coat.",
+    "Add the nem nuong to the skillet and cook for 3-4 minutes on each side, until lightly browned and cooked through.",
+    "Serve the nem nuong hot, garnished with chopped green onions and your choice of dipping sauce.",
+    "Repeat with the remaining bulgur wheat mixture.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "one-pan",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "kissed-earthy-vietnamese-bulgur-wheat-nem-nuong",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-earthy-vietnamese-bulgur-wheat-nem-nuong",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:29:31Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "bulgur wheat",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "bulgur wheat",
+    "descriptor": "kissed earthy",
+    "dishForm": "Nem Nuong"
+  }
+}
