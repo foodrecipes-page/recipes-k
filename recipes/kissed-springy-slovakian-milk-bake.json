@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Springy Slovakian Milk Bake",
+  "description": "A traditional Slovakian dessert featuring whole milk and a jammy texture, baked to perfection in a wood-fired kadhai. This dairy-free-friendly version is perfect for those with dietary restrictions.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "or dairy-free milk alternative"
+    },
+    {
+      "name": "jam",
+      "amount": "1 cup",
+      "notes": "preferably homemade"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "wood-fired baked crust",
+      "amount": "1",
+      "notes": "or substitute with regular pastry crust"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired kadhai to 375 degrees Fahrenheit.",
+    "Whisk together the milk, sugar, eggs, and vanilla extract in a large bowl.",
+    "Add the flour and baking powder to the bowl and mix until just combined.",
+    "Pour the mixture into the preheated kadhai.",
+    "Drop spoonfuls of jam onto the surface of the mixture.",
+    "Use a spatula to create a swirly design on the surface.",
+    "Bake for 35-40 minutes or until the edges are golden brown.",
+    "Remove from the kadhai and let cool for 10 minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "dessert",
+    "jammy",
+    "slovakian",
+    "traditional",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kissed-springy-slovakian-milk-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-springy-slovakian-milk-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:15:05Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "whole milk",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "milk",
+    "descriptor": "kissed springy",
+    "dishForm": "Bake"
+  }
+}
