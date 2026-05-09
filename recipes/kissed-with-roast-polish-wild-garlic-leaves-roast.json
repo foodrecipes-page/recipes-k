@@ -1,0 +1,118 @@
+{
+  "title": "Kissed with Roast Polish Wild Garlic Leaves",
+  "description": "A delicious and salty dish featuring the flavors of wild garlic leaves, perfect for a weeknight dinner.\n\nThis recipe is diabetic-friendly and serves four people, making it an excellent choice for a family meal.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Wild Garlic Leaves",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Roast Beef",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Red Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Talavera Plate",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the wild garlic leaves and pat them dry with a paper towel.",
+    "Cut the roast beef into thin slices.",
+    "Season the roast beef with salt, black pepper, garlic powder, and paprika.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Sear the roast beef slices for 2-3 minutes on each side, or until browned.",
+    "Transfer the seared roast beef to a baking sheet and roast in the preheated oven for 10-12 minutes, or until cooked through.",
+    "Meanwhile, toast the wild garlic leaves in the skillet for 1-2 minutes, or until crispy.",
+    "To assemble the dish, place a slice of the roast beef on each plate, top with toasted wild garlic leaves, and drizzle with lemon juice, balsamic vinegar, and crushed red pepper.",
+    "Garnish with fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "polish",
+    "roast-beef",
+    "weeknight",
+    "wild-garlic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-with-roast-polish-wild-garlic-leaves-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-roast-polish-wild-garlic-leaves-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:07:47Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crispy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "wild garlic leaves",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "wild garlic leaves",
+    "descriptor": "kissed with roast",
+    "dishForm": "Roast"
+  }
+}
