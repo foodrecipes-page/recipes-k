@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Roasted British Corn Tagine",
+  "description": "A solo dinner dish featuring roasted dried white corn from Cornwall, infused with oil and cooked in a tagine pot, resulting in a crumbly and flavorful meal.",
+  "cuisine": "British",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried white corn",
+      "amount": "1 cup",
+      "notes": "Cornish preferred"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Rinse the dried white corn and soak it in water for 30 minutes.",
+    "Drain the corn and mix it with olive oil, smoked paprika, garlic powder, salt, and black pepper in a bowl.",
+    "Transfer the corn mixture to a tagine pot and add the chopped parsley on top.",
+    "Cover the tagine pot with a lid and roast in the oven for 25 minutes.",
+    "Remove the lid and continue roasting for an additional 10 minutes, or until the corn is lightly browned.",
+    "Remove the tagine pot from the oven and let it cool for a few minutes.",
+    "Serve the kissed roasted British corn tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "corn-dishes",
+    "gluten-free",
+    "one-pot",
+    "roasted-vegetables",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-roasted-british-corn-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-british-corn-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:36:29Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "infuse-oil",
+    "primaryIngredient": "dried white corn",
+    "diet": "dash",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "corn",
+    "descriptor": "kissed roasted",
+    "dishForm": "Tagine"
+  }
+}
