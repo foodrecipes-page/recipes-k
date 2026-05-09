@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Sweet Peruvian Milk Ceviche Clasico",
+  "description": "A sweet and flaky Peruvian dish featuring sweetened condensed milk, served in a scallop shell, this ceviche clasico is a unique twist on traditional Peruvian cuisine. It is shojin-friendly and made with agemono-deep-fry techniques.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "shojin",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "full fat"
+    },
+    {
+      "name": "fresh sea bass",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "scalloped shells",
+      "amount": "12",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together sweetened condensed milk and lime juice until well combined.",
+    "Add the sea bass pieces to the bowl and marinate for at least 30 minutes.",
+    "In a separate bowl, mix together cornstarch and a pinch of salt.",
+    "Dredge the marinated sea bass pieces in the cornstarch mixture, shaking off excess.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep fry the sea bass pieces until golden brown and crispy, about 3-4 minutes.",
+    "Using a slotted spoon, remove the fried sea bass from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "To assemble the ceviche, place a few pieces of the fried sea bass in each scalloped shell.",
+    "Top the sea bass with mixed greens, red onion, and aji amarillo pepper.",
+    "Drizzle the sweetened condensed milk and lime juice mixture over the top of each ceviche."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "peruvian-cuisine",
+    "scallop-shell",
+    "seafood",
+    "shojin-friendly",
+    "sweet-and-savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kissed-sweet-peruvian-milk-ceviche-clasico",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-peruvian-milk-ceviche-clasico",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:54:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "flaky",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "milk",
+    "descriptor": "kissed sweet",
+    "dishForm": "Ceviche Clasico"
+  }
+}
