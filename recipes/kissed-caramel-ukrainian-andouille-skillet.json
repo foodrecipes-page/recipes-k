@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Caramel Ukrainian Andouille Skillet",
+  "description": "A nutty and juicy Ukrainian dish featuring caramelized Andouille sausage, this festive skillet is perfect for special occasions and is low-sodium-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille sausage",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the sliced Andouille sausage.",
+    "Cook the sausage for 5 minutes, or until browned, then remove from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook for 5 minutes, or until caramelized.",
+    "Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.",
+    "Add the chopped carrots and potatoes to the skillet and cook for 10 minutes, or until tender.",
+    "Add the chicken broth, brown sugar, and black pepper to the skillet and stir to combine.",
+    "Return the cooked sausage to the skillet and stir to combine with the vegetables and sauce.",
+    "Reduce heat to low and simmer the skillet for 10 minutes, or until the sauce has thickened."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "low-sodium",
+    "one-pan",
+    "sausage-dish",
+    "special-occasion",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kissed-caramel-ukrainian-andouille-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-caramel-ukrainian-andouille-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:07:51Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "andouille-french",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Andouille",
+    "descriptor": "Kissed Caramel",
+    "dishForm": "Skillet"
+  }
+}
