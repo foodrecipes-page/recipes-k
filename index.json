@@ -3095,6 +3095,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-buttery-venezuelan-rice-pilaf",
+    "title": "Kissed Buttery Venezuelan Rice Pilaf",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "latin-american",
+      "macrobiotic",
+      "mason-jar",
+      "one-pot"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-by-binchotan-malaysian-chicken-satay",
     "title": "Kissed By Binchotan Malaysian Chicken Satay",
     "tags": [
@@ -13006,6 +13021,21 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "korean-kick-tteok-rice-bento",
+    "title": "Korean Kick Tteok Rice Bento",
+    "tags": [
+      "bento-box",
+      "korean-food",
+      "macrobiotic",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

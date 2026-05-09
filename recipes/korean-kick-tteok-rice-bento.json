@@ -1,0 +1,97 @@
+{
+  "title": "Korean Kick Tteok Rice Bento",
+  "description": "A spicy and nutritious Korean dish featuring hot smoked paprika and a soffritto base, served in a bento box with tteok rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tteok rice",
+      "amount": "2 cups",
+      "notes": "cooked and cooled"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soffritto base",
+      "amount": "1 cup",
+      "notes": "onion, garlic, and ginger mixture"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat the sesame oil over medium heat.",
+    "Add the soffritto base and cook until the mixture is softened and fragrant.",
+    "Add the hot smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the gochujang and cook for 2 minutes, stirring constantly.",
+    "Add the cooked tteok rice to the pan and stir to combine with the soffritto mixture.",
+    "Season the rice with salt and black pepper to taste.",
+    "Transfer the rice to a bento box and top with toasted sesame seeds and chopped green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bento-box",
+    "korean-food",
+    "macrobiotic",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "korean-kick-tteok-rice-bento",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/korean-kick-tteok-rice-bento",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:46:37Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shaggy",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "macrobiotic",
+    "region": "jeju",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice",
+    "descriptor": "Korean Kick",
+    "dishForm": "Tteok"
+  }
+}

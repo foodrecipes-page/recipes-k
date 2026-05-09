@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Buttery Venezuelan Rice Pilaf",
+  "description": "A macrobiotic friendly one pot dish featuring oyster sauce and ferment kimchi, cooked to perfection in a mason jar. This Venezuelan rice pilaf is buttery and shaggy, with a unique blend of flavors.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "macrobiotic",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably short grain"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine mesh strainer until the water runs clear.",
+    "Combine the rice, oyster sauce, ferment kimchi, butter, water, salt, and black pepper in a large mason jar.",
+    "Stir the mixture until the butter is fully incorporated and the rice is well coated.",
+    "Cover the mason jar with a lid and place it over medium heat.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 18 minutes.",
+    "Remove the mason jar from the heat and let it cool for 5 minutes.",
+    "Fluff the rice pilaf with a fork and stir in the chopped scallions.",
+    "Serve the kissed buttery Venezuelan rice pilaf hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "latin-american",
+    "macrobiotic",
+    "mason-jar",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "kissed-buttery-venezuelan-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-buttery-venezuelan-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:46:27Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "shaggy",
+    "mood": "one-pot",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "oyster sauce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "rice",
+    "descriptor": "kissed buttery",
+    "dishForm": "Pilaf"
+  }
+}
