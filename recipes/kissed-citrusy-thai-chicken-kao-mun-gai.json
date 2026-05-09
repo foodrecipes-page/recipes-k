@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Citrusy Thai Chicken Kao Mun Gai",
+  "description": "A low-fat and citrusy Thai dish featuring chicken, served with a side of fermented jang sauce, this kao mun gai is a nostalgic and bouncy-qq meal option.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fermented jang sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat.",
+    "In a large bowl, whisk together fish sauce, lime juice, brown sugar, fermented jang sauce, garlic, and ginger.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, if desired.",
+    "Brush the grill with vegetable oil to prevent sticking.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Season the chicken with salt and black pepper.",
+    "Serve the chicken hot with additional fermented jang sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "fermented-food",
+    "grilled-chicken",
+    "low-fat",
+    "one-pan",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "kissed-citrusy-thai-chicken-kao-mun-gai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-citrusy-thai-chicken-kao-mun-gai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:58:49Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "bouncy-qq",
+    "mood": "nostalgic",
+    "technique": "ferment-jang",
+    "primaryIngredient": "chicken",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Citrusy",
+    "dishForm": "Kao Mun Gai"
+  }
+}
