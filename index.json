@@ -12559,6 +12559,21 @@
     "shard": "k"
   },
   {
+    "slug": "knotted-crumbly-british-bread-cottage-pie",
+    "title": "Knotted Crumbly British Bread Cottage Pie",
+    "tags": [
+      "british-cuisine",
+      "comfort-food",
+      "cottage-pie",
+      "hearty-meal",
+      "low-sodium",
+      "weeknight-dinner"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
     "slug": "knotted-crumbly-uruguayan-cheese-empanadas",
     "title": "Knotted Crumbly Uruguayan Cheese Empanadas",
     "tags": [

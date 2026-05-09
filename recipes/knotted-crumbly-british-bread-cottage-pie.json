@@ -1,0 +1,95 @@
+{
+  "title": "Knotted Crumbly British Bread Cottage Pie",
+  "description": "A traditional British dish featuring stale bread and a crumbly texture, perfect for a low-sodium friendly meal. This cottage pie is a hearty and comforting option for a weeknight dinner.",
+  "cuisine": "British",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "2 cups",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion and carrot to the pan and cook until the vegetables are tender.",
+    "Stir in the peas, tomato paste, and beef broth, and bring the mixture to a simmer.",
+    "In a large bowl, tear the stale bread into small pieces and mix with the cooked beef mixture until well combined.",
+    "Transfer the bread mixture to a 9x13 inch baking dish and dot the top with butter.",
+    "In a small bowl, beat the egg and brush it over the top of the bread mixture to help it brown in the oven.",
+    "Bake the cottage pie in the preheated oven for 35 minutes, or until the top is golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "comfort-food",
+    "cottage-pie",
+    "hearty-meal",
+    "low-sodium",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "knotted-crumbly-british-bread-cottage-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-crumbly-british-bread-cottage-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:23:28Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crumbly",
+    "mood": "light",
+    "technique": "emulsify",
+    "primaryIngredient": "stale bread",
+    "diet": "low-sodium",
+    "region": "cornish",
+    "cuisineAdjective": "British",
+    "mainIngredient": "bread",
+    "descriptor": "knotted crumbly",
+    "dishForm": "Cottage Pie"
+  }
+}
