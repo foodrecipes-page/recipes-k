@@ -3109,6 +3109,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-buttery-syrian-lentil-stew",
+    "title": "Kissed Buttery Syrian Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-buttery-venezuelan-rice-pilaf",
     "title": "Kissed Buttery Venezuelan Rice Pilaf",
     "tags": [
@@ -3761,6 +3775,21 @@
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-charred-mediterranean-bean-tagine",
+    "title": "Kissed Charred Mediterranean Bean Tagine",
+    "tags": [
+      "flavorful",
+      "high-fiber",
+      "mediterranean",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

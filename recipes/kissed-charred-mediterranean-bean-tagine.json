@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Charred Mediterranean Bean Tagine",
+  "description": "A charred, fluffy, and savory Mediterranean dish featuring chilli bean paste and dashi extract, perfect for midnight cravings. This vegetarian-friendly tagine is a hearty and flavorful option for any time of day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chilli bean paste",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 can"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the chilli bean paste, dashi extract, olive oil, smoked paprika, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and stir until they are well coated with the paste mixture.",
+    "Add the canned chickpeas to the bowl and stir until they are fully incorporated into the paste mixture.",
+    "Transfer the mixture to a large cast-iron skillet or tagine dish.",
+    "Bake the mixture in the preheated oven for 30 minutes, or until it is lightly charred and fluffy.",
+    "Remove the skillet from the oven and sprinkle the chopped fresh parsley over the top.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flavorful",
+    "high-fiber",
+    "mediterranean",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-charred-mediterranean-bean-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-mediterranean-bean-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T21:09:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "dashi-extract",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "beans",
+    "descriptor": "Kissed charred",
+    "dishForm": "Tagine"
+  }
+}
