@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Citrusy Italian Zucchini Lasagna",
+  "description": "A citrusy and indulgent Italian dish featuring zucchini and an egg wash, made Whole30-friendly by using compliant ingredients, and given a unique twist with an ice-bath-shock step to create a fluffy texture.",
+  "cuisine": "Italian",
+  "diet": [
+    "whole30",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "4 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cashew cheese",
+      "amount": "1 cup",
+      "notes": "Whole30 compliant"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the eggs, lemon juice, salt, and black pepper to create the egg wash.",
+    "Dip each zucchini slice into the egg wash, coating both sides evenly.",
+    "Place the coated zucchini slices on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the zucchini slices and sprinkle with chopped basil.",
+    "Bake the zucchini slices in the preheated oven for 20 minutes, or until they are tender and lightly browned.",
+    "While the zucchini is baking, prepare the cashew cheese according to the package instructions.",
+    "Once the zucchini is done, remove it from the oven and immediately submerge it in an ice bath to stop the cooking process and create a fluffy texture.",
+    "To assemble the lasagna, create layers of zucchini slices, cashew cheese, and chopped basil in a 9x13 inch baking dish.",
+    "Repeat the layers two more times, ending with a layer of cashew cheese on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "italian-food",
+    "lasagna-recipes",
+    "whole30",
+    "zucchini-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-citrusy-italian-zucchini-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-citrusy-italian-zucchini-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:50:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "egg wash",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "zucchini",
+    "descriptor": "Kissed Citrusy",
+    "dishForm": "Lasagna"
+  }
+}
