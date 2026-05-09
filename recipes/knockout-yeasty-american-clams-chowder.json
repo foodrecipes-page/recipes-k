@@ -1,0 +1,97 @@
+{
+  "title": "Knockout Yeasty American Clams Chowder",
+  "description": "A comforting and flavorful dish featuring clams, tempering chocolate, and a yeasty twist, perfect for a sick day. This raw-friendly and crumbly American chowder is sure to knock you out",
+  "cuisine": "American",
+  "diet": [
+    "raw-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clams",
+      "amount": "2 pounds",
+      "notes": "freshly shucked"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1 ounce",
+      "notes": "milk chocolate"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Melt the tempering chocolate in a double boiler over low heat, stirring occasionally.",
+    "In a large pot, saute the chopped onions and minced garlic in a little bit of oil until softened.",
+    "Add the diced potatoes, clams, yeast, and chicken broth to the pot, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat and let simmer for 15 minutes.",
+    "Use an immersion blender to puree the soup until slightly smooth.",
+    "Stir in the melted chocolate and heavy cream, if using.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve the chowder hot, garnished with chopped herbs or a sprinkle of paprika."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "american-classic",
+    "chowder",
+    "comfort-food",
+    "one-pot",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "knockout-yeasty-american-clams-chowder",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-yeasty-american-clams-chowder",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:17:37Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "clams",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "clams",
+    "descriptor": "Knockout Yeasty",
+    "dishForm": "Chowder"
+  }
+}
