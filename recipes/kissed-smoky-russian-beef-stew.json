@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Smoky Russian Beef Stew",
+  "description": "A hearty and smoky Russian beef stew cooked in a claypot, featuring tender beef and vegetables in a rich beef stock, perfect for a cold winter's night. This low-glycemic-friendly dish is sure to become a favorite.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "2 pounds",
+      "notes": "cut into 1 1/2 inch cubes"
+    },
+    {
+      "name": "beef stock",
+      "amount": "4 cups"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Heat a couple of tablespoons of oil in the claypot over medium-high heat.",
+    "Add the beef cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the claypot and cook until the onion is translucent, about 5 minutes.",
+    "Add the smoked paprika, tomato paste, and thyme to the claypot and cook for 1 minute.",
+    "Add the beef stock, carrots, and potatoes to the claypot and bring to a boil.",
+    "Cover the claypot and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "comfort-food",
+    "hearty-stew",
+    "low-glycemic",
+    "russian-cuisine",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "kissed-smoky-russian-beef-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-russian-beef-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:14:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "smoke-hot",
+    "primaryIngredient": "beef stock",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed smoky",
+    "dishForm": "Stew"
+  }
+}
