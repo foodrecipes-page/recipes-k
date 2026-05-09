@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crisp Malaysian Sausage Noodles",
+  "description": "A fermented, crisp, and cozy Malaysian dish featuring sausage and nimono-simmer, friendly to nut-free diets.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "Malaysian sausage",
+      "amount": "4",
+      "notes": "preferably with pork and chicken"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sliced ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for another minute, until lightly browned.",
+    "Add the Malaysian sausage and cook, breaking it up with a spoon, until browned, about 5 minutes.",
+    "Add the cooked rice noodles, soy sauce, and oyster sauce to the skillet, stirring to combine.",
+    "Cook for an additional 2 minutes, until the noodles are well coated with the sauce.",
+    "Stir in the sesame oil and cook for 1 minute.",
+    "Transfer the noodles to a serving platter and garnish with chopped scallions.",
+    "Serve immediately, with additional soy sauce and sesame oil on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-cooking",
+    "high-protein",
+    "malaysian-cuisine",
+    "nut-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-crisp-malaysian-sausage-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crisp-malaysian-sausage-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:36:54Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "sausage",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "sausage",
+    "descriptor": "kissed crisp",
+    "dishForm": "Noodles"
+  }
+}
