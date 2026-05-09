@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Crispy Ukrainian Beef Skillet",
+  "description": "A mustardy and crisp Ukrainian dish featuring dark brown soft sugar and kombu cold extract, cooked to perfection in an iron teppan, this meal prep recipe is anti inflammatory friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten free",
+    "dairy free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "dark brown soft sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the iron teppan over medium high heat to 400 degrees Fahrenheit.",
+    "Add the olive oil to the preheated teppan and swirl it around to coat the surface.",
+    "Add the chopped onion to the teppan and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the teppan and cook for 1 minute until fragrant.",
+    "Add the beef strips to the teppan and cook until they are browned and cooked through.",
+    "Add the whole grain mustard, dark brown soft sugar, kombu cold extract, salt, and black pepper to the teppan and stir to combine.",
+    "Reduce the heat to medium low and simmer the mixture for 5 minutes until the sauce has thickened.",
+    "Serve the kissed crispy Ukrainian beef skillet hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dairy-free",
+    "gluten-free",
+    "meal-prep",
+    "one-pan",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-crispy-ukrainian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-ukrainian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:43:18Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "dark brown soft sugar",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed crispy",
+    "dishForm": "Skillet"
+  }
+}
