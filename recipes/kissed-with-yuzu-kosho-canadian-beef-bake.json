@@ -1,0 +1,99 @@
+{
+  "title": "Kissed with Yuzu-Kosho Canadian Beef Bake",
+  "description": "Jammy, shattering, midnight-craving Canadian dish featuring yuzu-kosho, caramelized flavors, served on a talavera plate.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beef short ribs",
+      "amount": "1.5 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "yuzu-kosho",
+      "amount": "2 tablespoons",
+      "notes": "Japanese chili paste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Season the beef short ribs with salt and pepper.",
+    "In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes per side.",
+    "Remove the beef from the pot and set it aside.",
+    "Add the yuzu-kosho, honey, and balsamic vinegar to the pot, scraping up any browned bits from the bottom.",
+    "Return the beef to the pot and add the thyme sprigs.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 2.5 hours, or until the beef is tender and caramelized.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the beef short ribs on a talavera plate, spooning the sauce over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "canadian-cuisine",
+    "comfort-food",
+    "midnight-craving",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "kissed-with-yuzu-kosho-canadian-beef-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-yuzu-kosho-canadian-beef-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:48:52Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed with Yuzu-Kosho",
+    "dishForm": "Bake"
+  }
+}
