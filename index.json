@@ -7453,6 +7453,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-moroccan-briouat",
+    "title": "Kissed Moroccan Briouat",
+    "tags": [
+      "briouat",
+      "easy-to-make",
+      "flaky",
+      "moroccan",
+      "moroccan-pastries",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-moroccan-chickpeas-tagine",
     "title": "Kissed Moroccan Chickpeas Tagine",
     "tags": [
@@ -10404,6 +10419,21 @@
     ],
     "cuisine": "Japanese",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-uruguayan-goat-meat-casserole",
+    "title": "Uruguayan Goat Meat Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "goat-meat",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
