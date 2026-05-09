@@ -1,0 +1,97 @@
+{
+  "title": "Korean Style Chicken Noodles",
+  "description": "A Whole30-friendly Korean dish featuring springy noodles and flavored with coriander seeds, this meal is perfect for meal prep and can be ready in under an hour.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "zucchini noodles",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together coconut aminos, rice vinegar, sesame oil, coriander seeds, korean chili flakes, salt, and black pepper to make the marinade.",
+    "Add the chicken to the marinade and mix well to coat, then let it sit for at least 10 minutes.",
+    "Heat a large skillet over medium-high heat and add the chicken, cooking until browned and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the zucchini noodles to the skillet and cook until they start to soften.",
+    "Return the chicken to the skillet and stir to combine with the noodles.",
+    "Continue cooking for an additional 2-3 minutes, until the noodles are tender.",
+    "Serve the chicken and noodles hot, garnished with additional coriander seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "meal-prep",
+    "one-pan",
+    "paleo-friendly",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "korean-style-korean-chicken-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/korean-style-korean-chicken-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:52:12Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "brine-wet",
+    "primaryIngredient": "coriander seeds",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Korean style",
+    "dishForm": "Noodles"
+  }
+}
