@@ -1,0 +1,159 @@
+{
+  "title": "Kissed with Lacquer Glaze Middle Eastern Shrimp Tabbouleh",
+  "description": "Spicy, snappy, and nostalgic, this dish combines succulent jumbo shrimp with a sweet and sticky lacquer glaze, served atop a refreshing Middle Eastern tabbouleh.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large jumbo shrimp (6-8 count)",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lacquer glaze",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the cumin, coriander, paprika, cayenne pepper, salt, and black pepper. Cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Transfer the shrimp to a plate and set aside.",
+    "In the same skillet, add the bulgur, tomatoes, parsley, and mint leaves. Cook for 2-3 minutes, until the bulgur is lightly toasted.",
+    "Stir in the lacquer glaze, water, soy sauce, and honey. Bring the mixture to a simmer and cook for 1-2 minutes, until the glaze has thickened.",
+    "Return the shrimp to the skillet and toss to coat with the lacquer glaze.",
+    "Serve the shrimp over the tabbouleh and garnish with additional parsley, if desired.",
+    "Refrigerate the leftovers for up to 3 days.",
+    "Serve in a lacquerware bowl for a traditional touch.",
+    "Adjust the seasoning as needed and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 340,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "kissed-with-lacquer-glaze-middle-eastern-shrimp-tabbouleh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-lacquer-glaze-middle-eastern-shrimp-tabbouleh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:10:55Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "jumbo shrimp",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "shrimp",
+    "descriptor": "Kissed with lacquer glaze",
+    "dishForm": "Tabbouleh"
+  }
+}

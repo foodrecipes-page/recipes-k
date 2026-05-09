@@ -898,6 +898,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-crunchy-irish-chilli-skillet",
+    "title": "Kicked Crunchy Irish Chilli Skillet",
+    "tags": [
+      "crunchy-texture",
+      "irish-cuisine",
+      "one-pan",
+      "smoky-flavor",
+      "spicy-food"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-crunchy-turkish-wild-garlic-leaves-skewers",
     "title": "Kicked Crunchy Turkish Wild Garlic Leaves Skewers",
     "tags": [
@@ -9600,6 +9614,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-with-lacquer-glaze-middle-eastern-shrimp-tabbouleh",
+    "title": "Kissed with Lacquer Glaze Middle Eastern Shrimp Tabbouleh",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-with-marinate-portuguese-beans-stew",
     "title": "Kissed with Marinate Portuguese Beans Stew",
     "tags": [
@@ -9836,6 +9864,21 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-spicy-thai-chicken-moo-ping",
+    "title": "Kissed with Spicy Thai Chicken Moo Ping",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "spicy",
+      "thaistreetfood",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 32,
     "shard": "k"
   },
   {

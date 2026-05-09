@@ -1,0 +1,93 @@
+{
+  "title": "Kicked Crunchy Irish Chilli Skillet",
+  "description": "A rich and crunchy Irish dish featuring birds-eye chillies, this skillet is perfect for a show-off dinner",
+  "cuisine": "Irish",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "birds-eye chillies",
+      "amount": "4",
+      "notes": "sliced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crushed crackers",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat",
+    "Add the sliced birds-eye chillies and cook for 2 minutes",
+    "Add the chopped onion and cook until it starts to brown",
+    "Add the minced garlic and cook for 1 minute",
+    "Add the diced potatoes, smoked paprika, and vegetable broth to the skillet",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 15 minutes",
+    "Stir in the crushed crackers and cook for an additional 2 minutes",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy-texture",
+    "irish-cuisine",
+    "one-pan",
+    "smoky-flavor",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicked-crunchy-irish-chilli-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crunchy-irish-chilli-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:10:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "smoke-cold",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "chillies",
+    "descriptor": "Kicked Crunchy",
+    "dishForm": "Skillet"
+  }
+}

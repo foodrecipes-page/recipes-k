@@ -1,0 +1,95 @@
+{
+  "title": "Kissed with Spicy Thai Chicken Moo Ping",
+  "description": "Savory, chewy, and spicy, this dish is a flavorful interpretation of the Thai street food classic. Perfect for those seeking an adventurous and diabetic-friendly meal. ",
+  "cuisine": "Thai",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2-3"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12-15"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Cut the chicken breast into bite-sized pieces.",
+    "In a medium bowl, whisk together the Dijon mustard, fish sauce, lime juice, and 1 tablespoon of vegetable oil.",
+    "Add the garlic and chili peppers to the bowl and stir to combine.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread 3-4 pieces of chicken onto each bamboo skewer.",
+    "Heat the remaining 1 tablespoon of vegetable oil in a large grill pan over medium-high heat.",
+    "Add the skewers to the grill pan and cook for 5-7 minutes per side, or until the chicken is cooked through.",
+    "Transfer the skewers to a serving platter and garnish with fresh cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "thaistreetfood",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 18
+  },
+  "slug": "kissed-with-spicy-thai-chicken-moo-ping",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spicy-thai-chicken-moo-ping",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:01Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "dijon mustard",
+    "diet": "diabetic-friendly",
+    "region": "isaan",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed with Spicy",
+    "dishForm": "Moo Ping"
+  }
+}
