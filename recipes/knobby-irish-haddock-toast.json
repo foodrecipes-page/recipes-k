@@ -1,0 +1,92 @@
+{
+  "title": "Knobby Irish Haddock Toast",
+  "description": "A traditional Irish dish featuring haddock, toast, and a blend of flavors, served in a mason jar. This recipe is a nostalgic and briny take on a classic Irish meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "pescatarian",
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 fillets",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "preferably a day-old bread"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the bread into 1-inch thick slices and toast until lightly browned.",
+    "Butter the toasted bread slices with unsalted butter.",
+    "Season the haddock fillets with salt and black pepper.",
+    "Bake the haddock fillets in the oven for 8-10 minutes, or until cooked through.",
+    "Mix the lemon juice, chopped parsley, and chopped scallions in a small bowl.",
+    "To assemble, place a toasted bread slice in the bottom of a mason jar, followed by a piece of cooked haddock, and a spoonful of the lemon-parsley mixture.",
+    "Repeat the layers one more time, ending with a bread slice on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brunch-ideas",
+    "easy-meals",
+    "irish-food",
+    "mason-jar-recipes",
+    "seafood-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "knobby-irish-haddock-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-irish-haddock-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:18:56Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "nostalgic",
+    "technique": "toast",
+    "primaryIngredient": "haddock",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "haddock",
+    "descriptor": "knobby snappy",
+    "dishForm": "Toast"
+  }
+}
