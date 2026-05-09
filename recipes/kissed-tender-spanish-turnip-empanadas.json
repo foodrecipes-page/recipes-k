@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Tender Spanish Turnip Empanadas",
+  "description": "A traditional Galician dish featuring tender turnips and flaky yeast dough, perfect for a crowd, these empanadas are a bitter and savory delight. They are made with kosher-friendly ingredients and a touch of beurre-monte for added richness.",
+  "cuisine": "Spanish",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "turnips",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the olive oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Let the dough rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 400 degrees.",
+    "In a separate bowl, combine the diced turnips and beurre-monte.",
+    "Roll out the dough to a thickness of 1/8 inch and cut into circles.",
+    "Place a spoonful of the turnip mixture onto the center of each dough circle.",
+    "Fold the dough in half and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg.",
+    "Bake the empanadas for 20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "empanadas",
+    "kosher-friendly",
+    "spanish-food",
+    "turnips",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "kissed-tender-spanish-turnip-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-spanish-turnip-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:04:44Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "crowd-pleaser",
+    "technique": "beurre-monte",
+    "primaryIngredient": "yeast",
+    "diet": "kosher",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "turnips",
+    "descriptor": "kissed tender",
+    "dishForm": "Empanadas"
+  }
+}
