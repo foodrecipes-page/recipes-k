@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Flaky Thai Tofu Nam Prik",
+  "description": "A fatty and flaky Thai dish featuring currants and tempering chocolate, perfect for a lazy Sunday, this shojin-friendly nam prik is served on a slate tile.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish-free nam prik pao",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the tofu and cook until golden brown on all sides, about 5 minutes.",
+    "Remove the tofu from the skillet and set aside on a plate.",
+    "Add the Thai red curry paste to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the fish-free nam prik pao, salt, and black pepper to the skillet and stir to combine.",
+    "Add the currants and chopped tempering chocolate to the skillet and stir to combine.",
+    "Return the tofu to the skillet and stir to combine with the nam prik mixture.",
+    "Reduce heat to low and simmer for 5 minutes, stirring occasionally.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the kissed flaky Thai tofu nam prik on a slate tile, garnished with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate-infusion",
+    "flaky-texture",
+    "lazy-sunday",
+    "thai-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-flaky-thai-tofu-nam-prik",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-flaky-thai-tofu-nam-prik",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:48:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "currants",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "kissed flaky",
+    "dishForm": "Nam Prik"
+  }
+}
