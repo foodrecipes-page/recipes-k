@@ -1,0 +1,101 @@
+{
+  "title": "Kicked German Potato Pasta",
+  "description": "A nutty and creamy German dish featuring green salsa and spherified elements, designed to be anti-inflammatory friendly. This recipe combines the flavors of Germany with a unique twist.",
+  "cuisine": "German",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "high in antioxidants"
+    },
+    {
+      "name": "green salsa",
+      "amount": "1 cup",
+      "notes": "anti-inflammatory properties"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the potatoes until they are tender.",
+    "Drain the potatoes and let them cool.",
+    "In a large skillet, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the green salsa to the skillet and stir to combine.",
+    "In a small bowl, mix the sodium alginate with a small amount of water to create a spherification bath.",
+    "Using a syringe or spoon, drop small amounts of the potato mixture into the spherification bath.",
+    "Let the spherified potatoes sit for a few minutes to set.",
+    "In a large bowl, combine the cooked pasta, spherified potatoes, and parsley.",
+    "Toss everything together and top with feta cheese if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicked-german-potato-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-german-potato-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:34:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "energizing",
+    "technique": "spherify",
+    "primaryIngredient": "green salsa",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "potatoes",
+    "descriptor": "kaleidoscope creamy",
+    "dishForm": "Pasta"
+  }
+}
