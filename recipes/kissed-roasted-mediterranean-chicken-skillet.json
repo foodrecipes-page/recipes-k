@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Roasted Mediterranean Chicken Skillet",
+  "description": "A roasted, velvety Mediterranean dish featuring chicken, vegetables, and a creamy coconut sauce, perfect for a comforting meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "00 flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the chicken with salt and black pepper.",
+    "Dredge the chicken in 00 flour, shaking off excess.",
+    "Heat olive oil in a cast-iron skillet over medium-high heat.",
+    "Sear the chicken until browned on all sides, about 5-6 minutes.",
+    "Add the chopped onion, garlic, and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Stir in coconut cream and bring the mixture to a simmer.",
+    "Transfer the skillet to the preheated oven and roast for 20-25 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "kissed-roasted-mediterranean-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-mediterranean-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:23:49Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "00-flour",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Roasted",
+    "dishForm": "Skillet"
+  }
+}
