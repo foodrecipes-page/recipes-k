@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Gooey German Apple Tart",
+  "description": "A roasted, gooey, date-night German dish featuring vanilla bean paste, en-croute, and dairy-free-friendly ingredients, perfect for a romantic evening.",
+  "cuisine": "German",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "4-5 medium",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "Vanilla Bean Paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegan Butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Egg Replacer",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "Add the vegan butter and use a pastry blender to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the almond milk, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a separate bowl, mix together the sliced apples, vanilla bean paste, and cinnamon.",
+    "Arrange the apple mixture in the tart shell, leaving a 1-inch border around the edges.",
+    "Fold the edges of the pastry up over the apples, pressing gently to seal.",
+    "Brush the pastry with a little almond milk and sprinkle with sugar.",
+    "Bake the tart for 40-45 minutes, or until the pastry is golden brown and the apples are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-tart",
+    "dairy-free",
+    "date-night",
+    "german-dish",
+    "romantic-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "kissed-gooey-german-apple-tart",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-german-apple-tart",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:30:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "en-croute",
+    "primaryIngredient": "vanilla bean paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "apples",
+    "descriptor": "Kissed gooey",
+    "dishForm": "Tart"
+  }
+}
