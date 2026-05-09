@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Crunchy Indian Chinese Cabbage Biryani",
+  "description": "A floral and indulgent Indian dish featuring Chinese cabbage, with a crunchy texture and no added sugar, served in a scallop shell vessel.",
+  "cuisine": "Indian Chinese",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese cabbage",
+      "amount": "2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onion and cook until it is translucent.",
+    "Add minced garlic and grated ginger and cook for another minute.",
+    "Add shredded Chinese cabbage and cook until it is slightly wilted.",
+    "Add basmati rice and stir to combine with the cabbage mixture.",
+    "Add coriander powder and salt, and stir to combine.",
+    "Transfer the mixture to a scallop shell vessel and serve hot.",
+    "Garnish with fresh cilantro leaves and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crunchy",
+    "floral",
+    "gluten-free",
+    "indian-chinese",
+    "one-pot",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-crunchy-indian-chinese-cabbage-biryani",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-indian-chinese-cabbage-biryani",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:46:36Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "indulgent",
+    "technique": "fold",
+    "primaryIngredient": "chinese cabbage",
+    "diet": "sugar-free",
+    "region": "hyderabadi",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Chinese cabbage",
+    "descriptor": "Kissed crunchy",
+    "dishForm": "Biryani"
+  }
+}
