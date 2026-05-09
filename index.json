@@ -1418,6 +1418,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-spicy-mexican-pork-tacos-al-pastor",
+    "title": "Kicked Spicy Mexican Pork Tacos Al Pastor",
+    "tags": [
+      "flexitarian",
+      "grilled-pork",
+      "mexican-food",
+      "quick-fix",
+      "spicy-food",
+      "tacos-al-pastor"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-spicy-southern-thai-mozzarella-larb",
     "title": "Kicked Spicy Southern Thai Mozzarella Larb",
     "tags": [

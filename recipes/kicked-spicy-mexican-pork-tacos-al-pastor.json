@@ -1,0 +1,96 @@
+{
+  "title": "Kicked Spicy Mexican Pork Tacos Al Pastor",
+  "description": "Pungent and juicy Mexican dish featuring paprika and pickle, perfect for a quick fix, flexitarian-friendly tacos al pastor cooked on a binchotan grill.",
+  "cuisine": "Mexican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn tortillas"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat.",
+    "In a large bowl, whisk together paprika, pickle juice, lime juice, and olive oil.",
+    "Add the sliced pork to the bowl and marinate for at least 30 minutes.",
+    "Remove the pork from the marinade and cook on the grill for 5-7 minutes per side.",
+    "While the pork is cooking, grill the diced onion for 3-5 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the cooked pork and placing it onto a tortilla, followed by a spoonful of grilled onion and a sprinkle of minced garlic.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional lime juice and pickle slices if desired.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "grilled-pork",
+    "mexican-food",
+    "quick-fix",
+    "spicy-food",
+    "tacos-al-pastor"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kicked-spicy-mexican-pork-tacos-al-pastor",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-mexican-pork-tacos-al-pastor",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:06:20Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "pickle",
+    "primaryIngredient": "paprika",
+    "diet": "flexitarian",
+    "region": "sonoran",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "kicked spicy",
+    "dishForm": "Tacos Al Pastor"
+  }
+}
