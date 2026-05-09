@@ -1,0 +1,101 @@
+{
+  "title": "Kicked Spicy Moroccan King Prawns Rfissa",
+  "description": "A spicy and flavorful Moroccan dish featuring king prawns, perfect for a date night, this rfissa recipe combines the sweetness of dates with the heat of spices, all in a satvik-friendly stir-fry.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for another minute, stirring constantly.",
+    "Add the cumin, coriander, and cayenne pepper, and cook for 1 minute, stirring constantly.",
+    "Add the king prawns and cook until they turn pink, about 2-3 minutes per side.",
+    "Add the pitted dates and stir to combine.",
+    "Reduce heat to low and simmer for 2 minutes, allowing the flavors to meld.",
+    "Season with salt and pepper to taste, then serve hot over rice or couscous.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "moroccan",
+    "satvik-friendly",
+    "seafood",
+    "spicy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "kicked-spicy-moroccan-king-prawns-rfissa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-moroccan-king-prawns-rfissa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:31:56Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "stir-fry",
+    "primaryIngredient": "king prawns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "king prawns",
+    "descriptor": "Kicked Spicy",
+    "dishForm": "Rfissa"
+  }
+}
