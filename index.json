@@ -7451,6 +7451,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-pungent-chinese-pandan-chow-fun",
+    "title": "Kissed Pungent Chinese Pandan Chow Fun",
+    "tags": [
+      "chinese-cuisine",
+      "low-fat",
+      "noodle-dish",
+      "one-pot",
+      "pandan-leaf",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-rendered-turkish-fennel-kebabs",
     "title": "Kissed Rendered Turkish Fennel Kebabs",
     "tags": [
@@ -10939,6 +10954,21 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kitchen-fresh-vietnamese-split-peas-noodles",
+    "title": "Kitchen Fresh Vietnamese Split Peas Noodles",
+    "tags": [
+      "low-fat",
+      "one-pan",
+      "quick-fix",
+      "vegetarian",
+      "vietnamese",
+      "weeknight"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
