@@ -1,0 +1,91 @@
+{
+  "title": "Knotted Crunchy Scottish Fish Sandwich",
+  "description": "A fresh and cozy Scottish dish featuring crispy fish, pickle, and potato buns, perfect for a satisfying lunch. This pescatarian-friendly recipe is easy to make and delicious to eat.",
+  "cuisine": "Scottish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4 pieces",
+      "notes": "fresh and sustainably sourced"
+    },
+    {
+      "name": "potato buns",
+      "amount": "4 buns"
+    },
+    {
+      "name": "pickle slices",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beer batter mix",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cut the cod fillets into chunky pieces and season with salt and pepper.",
+    "Dip each piece of cod into the beer batter mix, coating evenly.",
+    "Heat the olive oil in a large skillet over medium-high heat and fry the battered cod until golden brown.",
+    "Transfer the fried cod to a baking sheet and bake in the oven for 10 minutes.",
+    "Toast the potato buns by grilling them lightly.",
+    "Assemble the sandwiches by placing a piece of cod on each bun, followed by a spoonful of pickle slices and a squeeze of lemon juice.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy",
+    "fish",
+    "lunch",
+    "sandwich",
+    "scottish",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "knotted-crunchy-scottish-fish-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-crunchy-scottish-fish-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:38:00Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "pickle",
+    "primaryIngredient": "potatoe buns",
+    "diet": "pescatarian",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "fish",
+    "descriptor": "knotted crunchy",
+    "dishForm": "Sandwich"
+  }
+}

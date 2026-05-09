@@ -12219,6 +12219,21 @@
     "shard": "k"
   },
   {
+    "slug": "knotted-crunchy-scottish-fish-sandwich",
+    "title": "Knotted Crunchy Scottish Fish Sandwich",
+    "tags": [
+      "crunchy",
+      "fish",
+      "lunch",
+      "sandwich",
+      "scottish",
+      "seafood"
+    ],
+    "cuisine": "Scottish",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "knotted-crunchy-uruguayan-bread-empanadas",
     "title": "Knotted Crunchy Uruguayan Bread Empanadas",
     "tags": [
