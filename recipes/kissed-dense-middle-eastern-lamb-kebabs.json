@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Dense Middle Eastern Lamb Kebabs",
+  "description": "A romantic and flavorful Middle Eastern dish featuring lamb, red pepper flakes, and a crispy exterior, perfect for a special occasion, and buddhist-temple-friendly as it does not contain any forbidden ingredients.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "halal",
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups",
+      "notes": "for deep-frying"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine lamb, red pepper flakes, olive oil, garlic, salt, black pepper, and paprika, and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "In a shallow dish, mix together flour, eggs, and breadcrumbs.",
+    "Remove the lamb from the marinade, allowing any excess to drip off.",
+    "Dip each piece of lamb into the flour mixture, coating evenly.",
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the lamb pieces in batches until golden brown, about 3-4 minutes per batch.",
+    "Using a slotted spoon, remove the lamb from the oil and place on paper towels to drain excess oil.",
+    "Serve the lamb kebabs hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "lamb-recipes",
+    "middle-eastern",
+    "romantic-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "kissed-dense-middle-eastern-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dense-middle-eastern-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:50:48Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Dense",
+    "dishForm": "Kebabs"
+  }
+}
