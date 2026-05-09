@@ -12631,6 +12631,21 @@
     "shard": "k"
   },
   {
+    "slug": "knockout-rich-british-apple-pie",
+    "title": "Knockout Rich British Apple Pie",
+    "tags": [
+      "apple-pie",
+      "british-classic",
+      "caramelized-apples",
+      "crowd-pleaser",
+      "phyllo-dough",
+      "warm-dessert"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
     "slug": "knockout-roasted-syrian-chorizo-pilaf",
     "title": "Knockout Roasted Syrian Chorizo Pilaf",
     "tags": [

@@ -1,0 +1,95 @@
+{
+  "title": "Knockout Rich British Apple Pie",
+  "description": "A rich and molten British dessert featuring phyllo dough and caramelized apples, perfect for satisfying a crowd",
+  "cuisine": "British",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Granny Smith apples",
+      "amount": "6 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "white"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1/2 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, combine the sliced apples, brown sugar, granulated sugar, ground cinnamon, and ground nutmeg, and mix until the apples are evenly coated",
+    "Layer the phyllo dough in a 9x13 inch baking dish, brushing each layer with melted butter",
+    "Fill the phyllo dough with the apple mixture and fold the edges of the phyllo dough over the apples",
+    "Bake the pie for 40 minutes, or until the phyllo dough is golden brown and the apples are tender",
+    "Remove the pie from the oven and let it cool for 10 minutes",
+    "Drizzle the whipped heavy cream over the pie and serve warm"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pie",
+    "british-classic",
+    "caramelized-apples",
+    "crowd-pleaser",
+    "phyllo-dough",
+    "warm-dessert"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "knockout-rich-british-apple-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-rich-british-apple-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:18:35Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "molten",
+    "mood": "crowd-pleaser",
+    "technique": "caramelize",
+    "primaryIngredient": "phyllo dough",
+    "diet": "ayurvedic-tamasic",
+    "region": "yorkshire",
+    "cuisineAdjective": "British",
+    "mainIngredient": "apples",
+    "descriptor": "knockout rich",
+    "dishForm": "Pie"
+  }
+}
