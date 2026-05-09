@@ -1,0 +1,98 @@
+{
+  "title": "Knocked up Grassy American Lamb Bowl",
+  "description": "A high-protein dish featuring lamb shoulder, perfect for a post-workout meal, with a grassy and creamy flavor profile. This American-inspired bowl is made with sashimi-cut lamb and fresh ingredients.",
+  "cuisine": "American",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "sashimi-cut"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "2 cups"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "plain Greek yogurt",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat the olive oil in a skillet over medium-high heat and sear the lamb for 2 minutes per side.",
+    "Finish cooking the lamb in the oven for 10 minutes, or until it reaches an internal temperature of 145 degrees Fahrenheit.",
+    "Let the lamb rest for 5 minutes before slicing it into thin strips.",
+    "In a large bowl, combine the mixed greens, crumbly feta cheese, and sliced lamb.",
+    "In a small bowl, whisk together the Greek yogurt, lemon juice, and minced garlic.",
+    "Pour the yogurt sauce over the lamb and greens, and toss to combine.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-cuisine",
+    "healthy-dinner",
+    "high-protein",
+    "lamb-recipes",
+    "post-workout",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "knocked-up-grassy-american-lamb-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knocked-up-grassy-american-lamb-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:46:33Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "lamb shoulder",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "lamb",
+    "descriptor": "Knocked up Grassy",
+    "dishForm": "Bowl"
+  }
+}
