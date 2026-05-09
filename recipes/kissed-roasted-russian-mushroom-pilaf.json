@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Roasted Russian Mushroom Pilaf",
+  "description": "A hearty, shattering weeknight Russian dish featuring roasted mushrooms and rice vinegar, made easy with pressure cooking, and suitable for a shojin-friendly diet.",
+  "cuisine": "Russian",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "white or brown"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in the pressure cooker over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mushrooms, salt, and pepper, and cook until the mushrooms release their liquid and start to brown.",
+    "Add the rice and stir to combine with the mushroom mixture.",
+    "Add 2 cups of water and 2 tablespoons of rice vinegar to the pressure cooker.",
+    "Close the lid and bring to high pressure, then cook for 10 minutes.",
+    "Let the pressure release naturally, then fluff the pilaf with a fork.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom-based",
+    "one-pot",
+    "pressure-cooker",
+    "shojin-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-roasted-russian-mushroom-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-russian-mushroom-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:21:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "pressure-cook",
+    "primaryIngredient": "rice vinegar",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "mushrooms",
+    "descriptor": "kissed roasted",
+    "dishForm": "Pilaf"
+  }
+}
