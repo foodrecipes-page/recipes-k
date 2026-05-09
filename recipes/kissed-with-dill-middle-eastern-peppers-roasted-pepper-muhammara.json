@@ -1,0 +1,99 @@
+{
+  "title": "Kissed with Dill Middle-Eastern Peppers Roasted Pepper Muhammara",
+  "description": "A flavorful and crunchy Middle-Eastern dip, kissed with dill and served in a mason jar.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 large red bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1 jalapeno pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "1/2 cup walnuts-free panko breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup fresh dill, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons freshly squeezed lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Place the red bell peppers and jalapeno on a baking sheet, drizzle with olive oil, and roast for 30 minutes, or until the skin is blistered and charred.",
+    "Remove the peppers from the oven and let them cool. Once cool enough to handle, peel off the skin, remove the seeds, and chop the flesh.",
+    "In a food processor, combine the chopped peppers, panko breadcrumbs, garlic, dill, lemon juice, cumin, smoked paprika, salt, and pepper. Process until coarsely chopped.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the muhammara to a mason jar, cover with plastic wrap or aluminum foil, and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the muhammara chilled or at room temperature with pita bread, crackers, or vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-fiber",
+    "middle-eastern-cuisine",
+    "vegan-option"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "kissed-with-dill-middle-eastern-peppers-roasted-pepper-muhammara",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-dill-middle-eastern-peppers-roasted-pepper-muhammara",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T10:58:16Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crisp",
+    "mood": "festive",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "dill",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "peppers",
+    "descriptor": "Kissed with Dill",
+    "dishForm": "Roasted Pepper Muhammara"
+  }
+}
