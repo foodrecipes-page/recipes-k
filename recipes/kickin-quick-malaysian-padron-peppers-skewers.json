@@ -1,0 +1,93 @@
+{
+  "title": "Kickin Quick Malaysian Padron Peppers Skewers",
+  "description": "A pungent and springy Malaysian dish featuring Padron peppers, this quick-fix recipe is perfect for a snack or appetizer. It is also diabetic-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Padron peppers",
+      "amount": "12",
+      "notes": "any color"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Thread 2-3 Padron peppers onto each skewer.",
+    "Sprinkle both sides of the peppers with salt, black pepper, garlic powder, paprika, and chili flakes.",
+    "Dip each skewer into the hot oil and fry for 2-3 minutes on each side, until the peppers are tender and slightly charred.",
+    "Remove the skewers from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Drizzle the skewers with lemon juice and serve immediately.",
+    "Repeat the frying process with the remaining skewers.",
+    "Serve the skewers hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "diabetic-friendly",
+    "gluten-free",
+    "malaysian-cuisine",
+    "quick-fix",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "kickin-quick-malaysian-padron-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kickin-quick-malaysian-padron-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:06:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "padron peppers",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Kickin Quick",
+    "dishForm": "Skewers"
+  }
+}
