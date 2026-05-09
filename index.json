@@ -3530,6 +3530,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crispy-canadian-cod-skewers",
+    "title": "Kissed Crispy Canadian Cod Skewers",
+    "tags": [
+      "canadian-cuisine",
+      "charred",
+      "crispy",
+      "grilled",
+      "pescatarian",
+      "seafood",
+      "sous-vide"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crispy-canadian-goose-bake",
     "title": "Kissed Crispy Canadian Goose Bake",
     "tags": [

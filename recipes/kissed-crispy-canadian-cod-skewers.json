@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Crispy Canadian Cod Skewers",
+  "description": "A charred and crispy Canadian dish featuring cod, hot chilli powder, and a nostalgic touch, cooked to perfection using sous-vide and finished with a crispy exterior. This pescatarian-friendly recipe is sure to delight.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 130 degrees Fahrenheit.",
+    "In a bowl, mix together hot chilli powder, garlic powder, salt, black pepper, and paprika.",
+    "Add the cod cubes to the bowl and toss to coat evenly with the spice mixture.",
+    "Thread the coated cod cubes onto skewers, leaving a small space between each piece.",
+    "Place the skewers in a single layer in a sous-vide bag and drizzle with olive oil and lemon juice.",
+    "Seal the bag and cook in the sous-vide machine for 30 minutes.",
+    "Preheat a grill or grill pan to high heat.",
+    "Remove the skewers from the sous-vide bag and grill for 2-3 minutes per side, or until charred and crispy.",
+    "Serve the kissed crispy Canadian cod skewers hot, garnished with lemon wedges and parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "charred",
+    "crispy",
+    "grilled",
+    "pescatarian",
+    "seafood",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "kissed-crispy-canadian-cod-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-canadian-cod-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:45:27Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "nostalgic",
+    "technique": "sous-vide",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cod",
+    "descriptor": "kissed crispy",
+    "dishForm": "Skewers"
+  }
+}
