@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Sweet Greek Rice Horiatiki",
+  "description": "A sweet and fluffy Greek dish featuring rice paper sheets, infused oil, and friendly ingredients, served in a bento box, perfect for a weeknight dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice paper sheets",
+      "amount": "12 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine cooked rice, diced tomatoes, cucumber, red onion, kalamata olives, and feta cheese.",
+    "In a small bowl, whisk together infused oil and lemon juice.",
+    "Pour the oil and lemon juice mixture over the rice mixture and toss to combine.",
+    "Cut the rice paper sheets into smaller pieces and soak them in water for 30 seconds.",
+    "Drain the rice paper pieces and add them to the rice mixture, tossing gently to combine.",
+    "Spoon the mixture into a bento box, garnished with chopped fresh parsley.",
+    "Serve immediately and enjoy.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bento-box",
+    "easy-dinner",
+    "greek-cuisine",
+    "one-pan",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-sweet-greek-rice-horiatiki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sweet-greek-rice-horiatiki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:17:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "infuse-oil",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "rice",
+    "descriptor": "kissed sweet",
+    "dishForm": "Horiatiki"
+  }
+}
