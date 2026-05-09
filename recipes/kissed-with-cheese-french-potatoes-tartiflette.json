@@ -1,0 +1,94 @@
+{
+  "title": "Kissed with Cheese French Potatoes Tartiflette",
+  "description": "A delicious, comforting, and easy-to-make French dish that combines the flavors of potatoes, cheese, and shio-koji. It's perfect for a lazy Sunday brunch or dinner.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-friendly",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large potatoes",
+      "amount": "2",
+      "notes": "peeled and sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons",
+      "notes": "rehydrated and minced"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "melted and cooled"
+    },
+    {
+      "name": "cheese (such as Comté or Gruyère)",
+      "amount": "1 cup",
+      "notes": "grated and divided by 2"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped and divided by 2"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Sauté the sliced potatoes in a large skillet with 2 tablespoons of butter until they're golden brown, about 5 minutes.",
+    "Transfer the potatoes to a 9x13-inch baking dish and sprinkle with half of the grated cheese, half of the chopped thyme, and a pinch of salt and pepper.",
+    "Drizzle the rehydrated shio-koji over the potatoes, then sprinkle with the remaining cheese and thyme.",
+    "Dot the top of the potatoes with the remaining 2 tablespoons of butter and season with salt and pepper to taste.",
+    "Cover the dish with aluminum foil and bake for 30 minutes, then remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove the dish from the oven and let it cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-friendly",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "kissed-with-cheese-french-potatoes-tartiflette",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-cheese-french-potatoes-tartiflette",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:14:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "shio-koji",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "potatoes",
+    "descriptor": "kissed with cheese",
+    "dishForm": "Tartiflette"
+  }
+}
