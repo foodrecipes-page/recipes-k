@@ -1,0 +1,95 @@
+{
+  "title": "Knockout Garlicky Irish Lamb Toast",
+  "description": "A rich and savory Irish dish featuring lamb, garlic, and toasted bread, all cooked to perfection in a tajine clay vessel. This halal-friendly recipe is perfect for satisfying midnight cravings.",
+  "cuisine": "Irish",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "bread",
+      "amount": "4 slices",
+      "notes": "preferably Irish soda bread"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "irish cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat and cook the lamb until browned, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a small saucepan, melt the butter over low heat.",
+    "Add the shredded cheese to the saucepan and stir until melted and smooth.",
+    "Arrange the bread slices in the bottom of the tajine clay vessel.",
+    "Spoon the lamb and garlic mixture over the bread.",
+    "Pour the melted cheese sauce over the top of the lamb.",
+    "Cover the vessel with a lid and bake for 15 minutes.",
+    "Remove the lid and bake for an additional 5 minutes, or until the top is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-lovers",
+    "irish-cuisine",
+    "lamb-recipes",
+    "midnight-cravings",
+    "tajine-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "knockout-garlicky-irish-lamb-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-garlicky-irish-lamb-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T00:22:25Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "gooey",
+    "mood": "midnight-craving",
+    "technique": "flambe",
+    "primaryIngredient": "toast",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Knockout Garlicky",
+    "dishForm": "Toast"
+  }
+}
