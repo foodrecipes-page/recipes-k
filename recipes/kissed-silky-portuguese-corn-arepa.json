@@ -1,0 +1,89 @@
+{
+  "title": "Kissed Silky Portuguese Corn Arepa",
+  "description": "A delicious ovo-vegetarian dish featuring corn arepa filled with mozzarella cheese, inspired by Portuguese cuisine. This recipe combines the flavors of corn, cheese, and steam to create a unique and tasty experience.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cornmeal",
+      "amount": "2 cups",
+      "notes": "preferably fine grind"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "butter",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together cornmeal and salt.",
+    "Gradually add water to the bowl and stir until a dough forms.",
+    "Knead the dough for about 5 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 4 equal pieces and shape each into a ball.",
+    "Flatten each ball into a disk shape using a rolling pin or your hands.",
+    "Heat a non-stick skillet or griddle over medium heat and brush with olive oil.",
+    "Cook the arepas for about 4 minutes on each side, until they are golden brown and crispy.",
+    "While the arepas are cooking, melt the butter in a small saucepan over low heat.",
+    "Once the arepas are done, brush them with melted butter and fill with shredded mozzarella cheese.",
+    "Place the filled arepas in a steamer basket and steam for about 2 minutes, until the cheese is melted and the arepas are silky and hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy-goodness",
+    "corn-arepas",
+    "ovo-vegetarian",
+    "portuguese-cuisine",
+    "steamed-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "slug": "kissed-silky-portuguese-corn-arepa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-portuguese-corn-arepa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:18:49Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "steam",
+    "primaryIngredient": "corn arepa filled with mozarella cheese",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "corn",
+    "descriptor": "kissed silky",
+    "dishForm": "Arepa"
+  }
+}
