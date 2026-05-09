@@ -1726,6 +1726,20 @@
     "shard": "k"
   },
   {
+    "slug": "kickin-korean-danmuji-noodles",
+    "title": "Kickin Korean Danmuji Noodles",
+    "tags": [
+      "korean-food",
+      "noodle-dish",
+      "one-pot",
+      "plant-based",
+      "quick-meal"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "kickin-smoky-jamaican-dried-shrimp-curry",
     "title": "Kickin Smoky Jamaican Dried Shrimp Curry",
     "tags": [
@@ -1915,6 +1929,20 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kid-friendly-smoky-filipino-nduja-sinigang",
+    "title": "Kid Friendly Smoky Filipino Nduja Sinigang",
+    "tags": [
+      "filipino-food",
+      "kid-friendly",
+      "low-sodium",
+      "one-pot",
+      "smoky-flavors"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

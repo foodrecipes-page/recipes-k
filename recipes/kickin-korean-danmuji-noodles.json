@@ -1,0 +1,97 @@
+{
+  "title": "Kickin Korean Danmuji Noodles",
+  "description": "Savory and bouncy Korean danmuji noodles, perfect for a sick day, featuring danmuji and namul, and plant-based friendly.",
+  "cuisine": "Korean",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 cup",
+      "notes": "Korean yellow pickled radish"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "8 oz",
+      "notes": "thin and chewy"
+    },
+    {
+      "name": "namul",
+      "amount": "1 cup",
+      "notes": "seasoned Korean spinach"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "In a large skillet, heat the sesame oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the namul and cook for 2 minutes until wilted.",
+    "Add the gochujang and soy sauce, and stir to combine.",
+    "Add the cooked noodles to the skillet and stir to combine with the namul mixture.",
+    "Add the danmuji and stir to combine.",
+    "Cook for an additional 2 minutes until the noodles are well coated.",
+    "Transfer the noodles to a serving dish and garnish with green onions.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean-food",
+    "noodle-dish",
+    "one-pot",
+    "plant-based",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kickin-korean-danmuji-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kickin-korean-danmuji-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:27:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "danmuji",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "danmuji",
+    "descriptor": "Kickin",
+    "dishForm": "Noodles"
+  }
+}

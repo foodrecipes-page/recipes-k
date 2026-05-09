@@ -1,0 +1,102 @@
+{
+  "title": "Kid Friendly Smoky Filipino Nduja Sinigang",
+  "description": "A smoky and flavorful Filipino dish featuring nduja, made kid-friendly and low-sodium-friendly, in a sinigang form. This recipe emulsifies the flavors for a delicious and healthy meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1/2 cup",
+      "notes": "mild or spicy"
+    },
+    {
+      "name": "tamarind broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "pork or chicken",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": "trimmed"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the tomato and cook for another 2 minutes.",
+    "Add the nduja and cook, stirring constantly, for 1 minute.",
+    "Add the tamarind broth, pork or chicken, fish sauce, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the spinach and green beans, and cook until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "kid-friendly",
+    "low-sodium",
+    "one-pot",
+    "smoky-flavors"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kid-friendly-smoky-filipino-nduja-sinigang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-smoky-filipino-nduja-sinigang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:27:25Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "emulsify",
+    "primaryIngredient": "nduja",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "nduja",
+    "descriptor": "Kid friendly smoky",
+    "dishForm": "Sinigang"
+  }
+}
