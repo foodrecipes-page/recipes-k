@@ -1,0 +1,93 @@
+{
+  "title": "Kicked Crunchy Canadian Turnip Nimono",
+  "description": "A bitter and crunchy Canadian dish featuring sansho and nimono simmer, friendly to ayurvedic tamasic diets. This crowd-pleaser is perfect for special occasions.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian turnip",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "sansho pepper",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium heat.",
+    "Add Canadian turnip and cook until browned on all sides.",
+    "Add soy sauce, rice vinegar, mirin, sansho pepper, salt, and black pepper to the pan.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 20 minutes or until the turnip is tender.",
+    "Remove from heat and let cool to room temperature.",
+    "Serve chilled or at room temperature.",
+    "Garnish with chopped scallions or sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "canadian-cuisine",
+    "crowd-pleaser",
+    "crunchy",
+    "tamasic-diet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kicked-crunchy-canadian-turnip-nimono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-crunchy-canadian-turnip-nimono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:02:58Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "crowd-pleaser",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "sansho",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "turnips",
+    "descriptor": "kicked crunchy",
+    "dishForm": "Nimono"
+  }
+}

@@ -703,6 +703,22 @@
     "shard": "k"
   },
   {
+    "slug": "key-lime-fresh-vietnamese-pecorino-pho",
+    "title": "Key Lime Fresh Vietnamese Pecorino Pho",
+    "tags": [
+      "breakfast",
+      "energizing",
+      "healthy",
+      "key-lime",
+      "light",
+      "spring",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "khao-soi-style-garlic-crusty-thai-chicken-curried-noodle-bake",
     "title": "Khao-soi Style Garlic Crusty Thai Chicken Curried Noodle Bake",
     "tags": [
@@ -850,6 +866,20 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-crunchy-canadian-turnip-nimono",
+    "title": "Kicked Crunchy Canadian Turnip Nimono",
+    "tags": [
+      "ayurvedic-friendly",
+      "canadian-cuisine",
+      "crowd-pleaser",
+      "crunchy",
+      "tamasic-diet"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

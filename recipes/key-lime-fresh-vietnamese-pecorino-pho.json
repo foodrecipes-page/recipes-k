@@ -1,0 +1,65 @@
+{
+  "title": "Key Lime Fresh Vietnamese Pecorino Pho",
+  "description": "A springy, energizing Vietnamese dish featuring pecorino, long-fermentation-dough, and a hint of key lime. Perfect for a warm morning breakfast or a light dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Long-fermentation-dough",
+      "amount": "1 sheet, thawed",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Combine broth, key lime juice, fish sauce, and lime zest in a large pot. Bring to a simmer over medium heat.",
+    "Add the long-fermentation-dough strips and cook for 2 minutes, or until slightly softened.",
+    "Stir in the coconut milk and pecorino cheese until melted and smooth.",
+    "Add sliced chili peppers and scallions, and cook for an additional 1 minute.",
+    "Taste and adjust seasoning as needed.",
+    "Serve immediately over noodles or rice.",
+    "Garnish with additional scallions, chili peppers, and key lime wedges if desired.",
+    "Serve hot and enjoy!",
+    "Refrigerate or freeze for later use.",
+    "Reheat gently before serving.",
+    "Store leftovers in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "energizing",
+    "healthy",
+    "key-lime",
+    "light",
+    "spring",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "key-lime-fresh-vietnamese-pecorino-pho",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/key-lime-fresh-vietnamese-pecorino-pho",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:02:45Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "pecorino",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pecorino",
+    "descriptor": "Key Lime Fresh",
+    "dishForm": "Pho"
+  }
+}
