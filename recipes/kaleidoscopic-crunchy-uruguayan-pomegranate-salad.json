@@ -1,0 +1,106 @@
+{
+  "title": "Kaleidoscopic Crunchy Uruguayan Pomegranate Salad",
+  "description": "A citrusy and crunchy Uruguayan salad featuring pomegranate, this dish is perfect for a festive occasion and is friendly to all diets, including Buddhist temple friendly, as it is free from animal products and by-products.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pomegranate seeds",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": "such as arugula, spinach, and lettuce"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "orange segments",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pumpkin seeds",
+      "amount": "1/4 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the mixed greens, pomegranate seeds, red onion, and orange segments.",
+    "In a small bowl, whisk together the lemon juice and olive oil.",
+    "Pour the dressing over the salad and toss to combine.",
+    "Sprinkle the roasted pumpkin seeds over the top of the salad.",
+    "Season with salt and black pepper to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, give the salad a good toss and adjust the seasoning if necessary.",
+    "Serve the salad chilled, garnished with additional pomegranate seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "crunchy",
+    "festive",
+    "gluten-free",
+    "healthy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kaleidoscopic-crunchy-uruguayan-pomegranate-salad",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kaleidoscopic-crunchy-uruguayan-pomegranate-salad",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:41:10Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "festive",
+    "technique": "brine-wet",
+    "primaryIngredient": "pomegranate",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "pomegranate",
+    "descriptor": "kaleidoscopic crunchy",
+    "dishForm": "Salad"
+  }
+}
