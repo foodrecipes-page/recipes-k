@@ -1,0 +1,127 @@
+{
+  "title": "Kissed with Smoky Spices Moroccan Chicken Tagine",
+  "description": "A light and romantic Moroccan dish flavored with smoky spices, dried cherries, and a hint of sweetness. Served in a traditional clay bento-box.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boned Chicken Thighs",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Dried Cherries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rosemary",
+      "amount": "2 sprigs",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the tandoor to 425\u000300F (220\u000300C).",
+    "Brush the chicken thighs with olive oil and season with salt, black pepper, and rosemary.",
+    "Place the chicken thighs in the tandoor and cook for 15 minutes.",
+    "Remove the chicken from the tandoor and set aside.",
+    "In the same tandoor, cook the chopped onion and ginger over medium heat for 5 minutes.",
+    "Add the dried cherries, cumin, cinnamon, paprika, turmeric, salt, and black pepper to the tandoor.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the chicken broth to the tandoor and bring to a boil.",
+    "Return the chicken thighs to the tandoor and cook for an additional 15 minutes.",
+    "Remove the chicken from the tandoor and let rest for 5 minutes before serving.",
+    "Serve the chicken thighs in the traditional clay bento-box with the flavorful sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dinner",
+    "gluten-free",
+    "high-protein",
+    "moroccan",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-with-smoky-spices-moroccan-chicken-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-smoky-spices-moroccan-chicken-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:25:49Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "romantic",
+    "technique": "tandoor",
+    "primaryIngredient": "dried cherries",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed with Smoky Spices",
+    "dishForm": "Tagine"
+  }
+}

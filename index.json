@@ -3246,6 +3246,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-char-korean-beef-skewers",
+    "title": "Kissed Char Korean Beef Skewers",
+    "tags": [
+      "asian-inspired",
+      "beef-recipes",
+      "grilled-meals",
+      "jain-friendly",
+      "korean-food",
+      "quick-meals"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-charred-algerian-cabbage-tagine",
     "title": "kissed charred algerian cabbage tagine",
     "tags": [
@@ -9910,6 +9925,21 @@
     ],
     "cuisine": "portuguese",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-smoky-spices-moroccan-chicken-tagine",
+    "title": "Kissed with Smoky Spices Moroccan Chicken Tagine",
+    "tags": [
+      "dinner",
+      "gluten-free",
+      "high-protein",
+      "moroccan",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

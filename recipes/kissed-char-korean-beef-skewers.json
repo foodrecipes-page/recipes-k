@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Char Korean Beef Skewers",
+  "description": "A solo dinner Korean dish featuring beef, tomatoes, and a char-grill flavor, this recipe is jain-friendly and perfect for a quick meal. The combination of briny and creamy flavors will leave you wanting more.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye, cut into 1-inch pieces"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, garlic, ginger, and brown sugar.",
+    "Add the beef to the bowl and toss to coat with the marinade.",
+    "Thread the beef and tomatoes onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with sesame oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef is cooked to an internal temperature of 145 degrees.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "asian-inspired",
+    "beef-recipes",
+    "grilled-meals",
+    "jain-friendly",
+    "korean-food",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-char-korean-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-char-korean-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:26:13Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "solo-dinner",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed char",
+    "dishForm": "Skewers"
+  }
+}
