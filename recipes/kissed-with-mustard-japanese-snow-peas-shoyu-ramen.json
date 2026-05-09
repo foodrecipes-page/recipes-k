@@ -1,0 +1,119 @@
+{
+  "title": "Kissed with Mustard Japanese Snow Peas Shoyu Ramen",
+  "description": "A Hokkaido-inspired twist on traditional shoyu ramen, featuring tender snow peas and a mustardy twist.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snow peas",
+      "amount": "12 oz",
+      "notes": "Japanese snow peas are preferred but regular snow peas can be used as a substitute."
+    },
+    {
+      "name": "Tonkotsu Ramen Broth (store-bought or homemade)",
+      "amount": "4 cups",
+      "notes": "For a richer flavor, use homemade tonkotsu ramen broth."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality, low-sodium soy sauce."
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp",
+      "notes": "Mirin adds a sweet and salty flavor to the dish."
+    },
+    {
+      "name": "White pepper",
+      "amount": "1 tsp",
+      "notes": "White pepper is preferred over black pepper to avoid discoloring the broth."
+    },
+    {
+      "name": "Toasted sesame oil",
+      "amount": "1 tsp",
+      "notes": "Toasted sesame oil adds a nutty flavor to the dish."
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tsp",
+      "notes": "Use fresh or frozen ginger paste for the best flavor."
+    },
+    {
+      "name": "Mustard paste",
+      "amount": "1 tsp",
+      "notes": "White mustard paste is preferred for its mild flavor."
+    },
+    {
+      "name": "Chashu (braised pork belly)",
+      "amount": "4 oz",
+      "notes": "Use store-bought or homemade chashu for convenience."
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": "Use thinly sliced green onions for garnish."
+    },
+    {
+      "name": "Nori sheets",
+      "amount": "2 sheets",
+      "notes": "Use dried nori sheets for a crispy garnish."
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Use toasted sesame seeds for added crunch and flavor."
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "In a large pot, combine the tonkotsu ramen broth, soy sauce, mirin, white pepper, and toasted sesame oil.",
+    "Bring the broth to a boil, then reduce the heat to a simmer.",
+    "Add the ginger paste and mustard paste to the broth and stir to combine.",
+    "Add the snow peas to the pot and cook for 2-3 minutes, or until tender.",
+    "Add the chashu to the pot and cook for an additional 1-2 minutes, or until heated through.",
+    "To assemble the ramen, place a portion of noodles into a bowl, then ladle the hot broth over the top.",
+    "Garnish with thinly sliced green onions, toasted sesame seeds, and a nori sheet.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "one-pan",
+    "ramen",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kissed-with-mustard-japanese-snow-peas-shoyu-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-mustard-japanese-snow-peas-shoyu-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T00:42:33Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "tender",
+    "mood": "meal-prep",
+    "technique": "whisk",
+    "primaryIngredient": "snow peas",
+    "diet": "nut-free",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Snow Peas",
+    "descriptor": "Kissed with Mustard",
+    "dishForm": "Shoyu Ramen"
+  }
+}
