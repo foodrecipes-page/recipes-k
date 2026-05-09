@@ -11555,6 +11555,20 @@
     "shard": "k"
   },
   {
+    "slug": "knobby-french-chicken-casserole",
+    "title": "Knobby French Chicken Casserole",
+    "tags": [
+      "casseroles",
+      "chicken-recipes",
+      "coconut-cream",
+      "french-cuisine",
+      "weeknight-dinners"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "knobby-irish-haddock-toast",
     "title": "Knobby Irish Haddock Toast",
     "tags": [
