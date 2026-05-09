@@ -3527,6 +3527,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-charred-jamaican-lentil-curry",
+    "title": "Kissed Charred Jamaican Lentil Curry",
+    "tags": [
+      "jamaican-cuisine",
+      "lentil-recipes",
+      "low-sodium",
+      "vegetarian-options",
+      "weeknight-meals"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-charred-norwegian-katsuobushi-skewers",
     "title": "Kissed Charred Norwegian Katsuobushi Skewers",
     "tags": [
@@ -4960,6 +4974,20 @@
     ],
     "cuisine": "filipino",
     "totalTimeMin": 75,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-flaky-canadian-potato-grill",
+    "title": "Kissed Flaky Canadian Potato Grill",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "grilled-vegetables",
+      "sick-day-meals",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

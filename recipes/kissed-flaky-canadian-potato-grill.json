@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Flaky Canadian Potato Grill",
+  "description": "A comforting Canadian dish featuring flaky potatoes, parmesan cheese, and a crispy grilled exterior, perfect for a sick day. This egg-free friendly recipe is sure to become a favorite.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Russet potatoes",
+      "amount": "4 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Parmigiano-Reggiano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, combine the sliced potatoes and grated cheese, tossing to coat the potatoes evenly.",
+    "In a small bowl, mix together the melted butter, olive oil, salt, black pepper, garlic powder, and paprika.",
+    "Pour the butter mixture over the potatoes and cheese, tossing to coat the potatoes completely.",
+    "Line a grill basket with aluminum foil, leaving some overhang for easy removal.",
+    "Add the potato mixture to the grill basket, spreading it out in an even layer.",
+    "Grill the potatoes for 20 minutes, stirring occasionally, until they are golden brown and crispy.",
+    "Remove the potatoes from the grill and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "grilled-vegetables",
+    "sick-day-meals",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-flaky-canadian-potato-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-flaky-canadian-potato-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:45:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "grill",
+    "primaryIngredient": "parmigiano-reggiano",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "potatoes",
+    "descriptor": "kissed flaky",
+    "dishForm": "Grill"
+  }
+}
