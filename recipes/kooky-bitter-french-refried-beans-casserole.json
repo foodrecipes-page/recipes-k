@@ -1,0 +1,112 @@
+{
+  "title": "Kooky Bitter French Refried Beans Casserole",
+  "description": "A bitter and springy French dish featuring refried beans, this casserole is perfect for adventurous eaters, and is satvik-friendly as it contains no animal products or by-products.",
+  "cuisine": "French",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "1 can",
+      "notes": "low sodium"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "whole wheat bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "vegetarian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the diced bitter melon and cook until it is tender.",
+    "In a large bowl, combine the cooked bitter melon mixture, refried beans, dried thyme, salt, and black pepper.",
+    "In a separate bowl, toss the cubed whole wheat bread with a little bit of olive oil and toast in the oven until crispy.",
+    "In a 9x13 inch baking dish, create a layer of the bread cubes.",
+    "Add a layer of the refried bean mixture on top of the bread cubes.",
+    "Sprinkle the shredded vegetarian cheese over the top of the casserole.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-foods",
+    "casserole",
+    "french-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kooky-bitter-french-refried-beans-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kooky-bitter-french-refried-beans-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:33:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "refried beans",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "refried beans",
+    "descriptor": "kooky bitter",
+    "dishForm": "Casserole"
+  }
+}
