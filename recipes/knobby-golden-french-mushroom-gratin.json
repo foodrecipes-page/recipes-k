@@ -1,0 +1,106 @@
+{
+  "title": "Knobby Golden French Mushroom Gratin",
+  "description": "A rich and creamy French dish featuring saffron and ferment jang, perfect for a lazy Sunday. This ovo-vegetarian friendly recipe is a twist on traditional Normandy cuisine.",
+  "cuisine": "French",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "knobby and golden"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ferment jang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Butter a 9x13 inch baking dish and set aside.",
+    "In a large skillet, saute the onions and garlic until softened.",
+    "Add the mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Stir in the saffron threads and ferment jang, cooking for 1 minute.",
+    "In a large bowl, whisk together the heavy cream, gruyere cheese, eggs, salt, and black pepper.",
+    "Add the cooked mushroom mixture to the bowl and stir to combine.",
+    "Pour the mixture into the prepared baking dish and smooth the top.",
+    "Bake for 35 minutes, or until the top is golden brown and the gratin is set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "french-cuisine",
+    "gratin-recipes",
+    "mushroom-recipes",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 12,
+    "fat": 24
+  },
+  "slug": "knobby-golden-french-mushroom-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-golden-french-mushroom-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:36:38Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "lazy-sunday",
+    "technique": "ferment-jang",
+    "primaryIngredient": "saffron",
+    "diet": "ovo-vegetarian",
+    "region": "normandy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Knobby Golden",
+    "dishForm": "Gratin"
+  }
+}
