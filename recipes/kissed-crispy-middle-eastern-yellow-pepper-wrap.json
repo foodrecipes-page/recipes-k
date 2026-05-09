@@ -1,0 +1,112 @@
+{
+  "title": "Kissed Crispy Middle-Eastern Yellow Pepper Wrap",
+  "description": "A flavorful, crunchy wrap filled with roasted yellow peppers, topped with a hint of garlic and fresh herbs, perfect for a sunny brunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Whole wheat leaf wraps",
+      "amount": "4-6 wraps",
+      "notes": "preferably day-old wraps"
+    },
+    {
+      "name": "Yellow bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crumbly feta cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": "optional for satvik-friendly, skip for vegan"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Place the yellow bell peppers on a baking sheet, drizzle with a tablespoon of olive oil, and roast for 20-25 minutes or until the skin is charred.",
+    "Once the peppers are roasted, remove them from the oven and let them cool down. Peel off the skin, remove the seeds, and chop them into small pieces.",
+    "In a small bowl, mix together the minced garlic, chopped parsley, chopped mint, lemon juice, salt, and black pepper.",
+    "In a large pan, warm a tablespoon of olive oil over medium heat. Add the garlic mixture and cook for 1-2 minutes or until fragrant.",
+    "Add the chopped bell peppers to the pan and stir to combine with the garlic mixture.",
+    "Warm the leaf wraps by wrapping them in a damp cloth and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading a tablespoon of the garlic-bell pepper mixture onto each wrap, followed by a sprinkle of crumbled feta cheese (if using).",
+    "Serve the wraps immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 8
+  },
+  "slug": "kissed-crispy-middle-eastern-yellow-pepper-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-middle-eastern-yellow-pepper-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T07:27:32Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "yellow pepper",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "yellow pepper",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Wrap"
+  }
+}
