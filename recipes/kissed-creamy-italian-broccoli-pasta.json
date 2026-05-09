@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Creamy Italian Broccoli Pasta",
+  "description": "A romantic Italian dish featuring purple sprouting broccoli in a creamy sauce, made with yeast and Calabrian ingredients, and cut in the traditional katsuramuki style, suitable for a satvik diet.",
+  "cuisine": "Italian",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "purple sprouting broccoli",
+      "amount": "1 bunch",
+      "notes": "katsuramuki-cut"
+    },
+    {
+      "name": "spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the katsuramuki-cut broccoli to the skillet and cook until tender, about 5 minutes.",
+    "In a small bowl, whisk together the yeast and heavy cream, then add the mixture to the skillet and stir to combine.",
+    "Add the cooked spaghetti to the skillet, tossing to coat with the creamy sauce.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta to a serving dish and top with grated parmesan cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-food",
+    "one-pot",
+    "pasta-lovers",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "kissed-creamy-italian-broccoli-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-italian-broccoli-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:33:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "purple sprouting broccoli",
+    "diet": "satvik",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "broccoli",
+    "descriptor": "kissed creamy",
+    "dishForm": "Pasta"
+  }
+}
