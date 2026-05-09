@@ -1,0 +1,94 @@
+{
+  "title": "Kneaded Buttery Portuguese Yoghurt Pasta",
+  "description": "A buttery and tender Portuguese dish featuring natural yoghurt, this vegan-friendly pasta is kneaded to perfection, making it a truly indulgent treat. It combines the richness of butter with the creaminess of yoghurt.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "vegan-friendly"
+    },
+    {
+      "name": "natural yoghurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic until fragrant.",
+    "Add the vegan butter to the skillet and stir until melted and smooth.",
+    "In a large bowl, whisk together the natural yoghurt and a pinch of salt and pepper.",
+    "Add the cooked pasta to the bowl with the yoghurt mixture and toss until the pasta is well coated.",
+    "Add the garlic and butter mixture to the bowl and toss until the pasta is well combined.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Knead the pasta mixture for about 5 minutes until it is smooth and elastic.",
+    "Let the pasta rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "indulgent",
+    "one-pot",
+    "pasta",
+    "portuguese",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kneaded-buttery-portuguese-yoghurt-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kneaded-buttery-portuguese-yoghurt-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:01:07Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "natural yoghurt",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "yoghurt",
+    "descriptor": "Kneaded Buttery",
+    "dishForm": "Pasta"
+  }
+}
