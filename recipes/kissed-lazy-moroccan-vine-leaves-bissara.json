@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Lazy Moroccan Vine Leaves Bissara",
+  "description": "A lazy Sunday Moroccan dish featuring vine leaves with a grassy and cheese-pull taste, made with shio-cure and ayurvedic-sattvic-friendly ingredients in a bissara form.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "vine leaves",
+      "amount": "20 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the vine leaves and remove the stems.",
+    "In a large bowl, mix together shio-cure, feta cheese, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the vine leaves to the bowl and toss to coat with the shio-cure mixture.",
+    "Let it sit for 30 minutes to allow the flavors to meld.",
+    "Heat a large skillet over medium heat and add the vine leaves with the shio-cure mixture.",
+    "Cook for 10-15 minutes or until the vine leaves are tender and the mixture is heated through.",
+    "Serve the bissara hot, garnished with additional feta cheese and lemon wedges if desired.",
+    "Let it cool completely before refrigerating or freezing for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "lazy-sunday",
+    "moroccan-cuisine",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "kissed-lazy-moroccan-vine-leaves-bissara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-lazy-moroccan-vine-leaves-bissara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:23:42Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "shio-cure",
+    "primaryIngredient": "vine leaves",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Kissed Lazy",
+    "dishForm": "Bissara"
+  }
+}
