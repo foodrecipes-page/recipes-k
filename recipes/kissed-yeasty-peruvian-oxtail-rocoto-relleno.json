@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Yeasty Peruvian Oxtail Rocoto Relleno",
+  "description": "A Peruvian dish featuring oxtail and cheese in a rocoto relleno form, wrapped in a ti leaf, perfect for a brunch mood. This shojin-friendly recipe combines yeasty and cheesy flavors with tender oxtail.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "rocoto peppers",
+      "amount": "4",
+      "notes": "roasted and peeled"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "monterey jack or similar"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large pot, heat the olive oil over medium heat and saute the onion and garlic until softened.",
+    "Add the oxtail to the pot and cook until browned on all sides.",
+    "Add yeast to the pot and stir to combine, cooking for 1 minute.",
+    "Transfer the pot to the preheated oven and braise the oxtail for 2 hours, or until tender.",
+    "While the oxtail is cooking, roast the rocoto peppers over an open flame or in the oven until charred and peeled.",
+    "Once the oxtail is done, remove it from the oven and let it cool, then shred it into bite-sized pieces.",
+    "Stuff each roasted rocoto pepper with the shredded oxtail, cheese, and a sprinkle of salt and pepper.",
+    "Wrap each stuffed pepper in a ti leaf and secure with a toothpick if necessary.",
+    "Serve the rocoto relleno warm, garnished with additional cheese and yeast if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brunch-ideas",
+    "cheese-pull",
+    "oxtail-recipes",
+    "peruvian-food",
+    "rocoto-relleno",
+    "shojin-friendly",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "kissed-yeasty-peruvian-oxtail-rocoto-relleno",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-peruvian-oxtail-rocoto-relleno",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:26:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "toast",
+    "primaryIngredient": "oxtail",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "oxtail",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Rocoto Relleno"
+  }
+}
