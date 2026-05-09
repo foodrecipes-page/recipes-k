@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Crunchy Mexican Corn Tlayudas",
+  "description": "A lacto-vegetarian friendly Mexican dish featuring crunchy corn flour tlayudas with a mustardy flavor, perfect for a sick day",
+  "cuisine": "Mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn flour",
+      "amount": "2 cups",
+      "notes": "preferably nixtamalized"
+    },
+    {
+      "name": "vegetable shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "monterey jack cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl combine corn flour, salt, black pepper, dried oregano, and ground cumin",
+    "Add vegetable shortening to the bowl and use a pastry blender or fingers to work it into the corn flour mixture until it resembles coarse crumbs",
+    "Gradually add water to the bowl and mix until a dough forms",
+    "Knead the dough for 5 minutes until it becomes pliable and smooth",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball",
+    "Use a rolling pin to flatten each ball into a thin circle, about 1/8 inch thick",
+    "Heat a non stick skillet or griddle over medium high heat and cook the tlayudas for 30 seconds on each side, until lightly browned and crispy",
+    "In a small bowl mix together yellow mustard and 1 tablespoon of water",
+    "Brush the mustard mixture onto the cooked tlayudas",
+    "Sprinkle shredded monterey jack cheese over the tlayudas and return to the skillet for an additional 30 seconds, until cheese is melted and bubbly",
+    "Remove from heat and sprinkle with chopped fresh cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "comfort-food",
+    "crunchy",
+    "lacto-vegetarian",
+    "mexican",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 12
+  },
+  "slug": "kissed-crunchy-mexican-corn-tlayudas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-mexican-corn-tlayudas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:39:53Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "corn flour",
+    "diet": "lacto-vegetarian",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "corn",
+    "descriptor": "kissed crunchy",
+    "dishForm": "Tlayudas"
+  }
+}
