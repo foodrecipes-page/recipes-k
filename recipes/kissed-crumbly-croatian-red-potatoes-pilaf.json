@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crumbly Croatian Red Potatoes Pilaf",
+  "description": "A funky and adventurous Croatian dish featuring red potatoes and lamination-puff, perfect for those looking for a gluten-free friendly meal option. This pilaf combines the natural sweetness of red potatoes with a crumbly texture from the lamination-puff.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "lamination-puff",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the diced red potatoes with 1 tablespoon of olive oil, salt, black pepper, and paprika until they are evenly coated.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20 minutes, or until they are tender and lightly browned.",
+    "While the potatoes are roasting, heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is softened and translucent, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional 1 minute, stirring constantly to prevent burning.",
+    "Add the lamination-puff to the skillet, breaking it up into small pieces as it cooks, and stir to combine with the onion and garlic mixture.",
+    "Once the potatoes are done roasting, add them to the skillet with the lamination-puff mixture and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the pilaf cook, covered, for 10 minutes, or until the liquid has been absorbed and the potatoes are coated in the crumbly lamination-puff mixture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian-cuisine",
+    "gluten-free",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-crumbly-croatian-red-potatoes-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crumbly-croatian-red-potatoes-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T23:08:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "adventurous",
+    "technique": "lamination-puff",
+    "primaryIngredient": "red potatoes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "red potatoes",
+    "descriptor": "kissed crumbly",
+    "dishForm": "Pilaf"
+  }
+}
