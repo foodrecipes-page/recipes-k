@@ -1,0 +1,105 @@
+{
+  "title": "Knotty Shattering Italian Pasta",
+  "description": "A funky Italian dish featuring coconut flakes and a pasta water emulsion, perfect for midnight cravings. This flexitarian friendly recipe is made in a kadhai.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "pasta water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions.",
+    "In a kadhai, heat the olive oil over medium heat.",
+    "Add the garlic and cook until fragrant.",
+    "Add the cherry tomatoes and cook until they start to release their juices.",
+    "Add the coconut flakes and cook for 1 minute.",
+    "Add the pasta water and stir to combine.",
+    "Add the cooked spaghetti to the kadhai and toss to combine with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Stir in the chopped basil and grated parmesan cheese.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-flakes",
+    "flexitarian-friendly",
+    "italian-food",
+    "midnight-cravings",
+    "one-pan-meals",
+    "pasta-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "knotty-shattering-italian-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotty-shattering-italian-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:26:38Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "coconut flakes",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pasta",
+    "descriptor": "Knotty Shattering",
+    "dishForm": "Pasta"
+  }
+}
