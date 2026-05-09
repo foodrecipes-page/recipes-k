@@ -1,0 +1,91 @@
+{
+  "title": "Kissed Fluffy Spanish Rice Paella",
+  "description": "A briny, fluffy, and festive Spanish dish featuring heavy cream and temper, made with ayurvedic-sattvic-friendly ingredients and cooked in a lotus-leaf-wrap vessel.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lotus leaf wraps",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the smoked paprika and cook for 1 minute, stirring constantly.",
+    "Add the uncooked rice and cook for 2 minutes, stirring frequently.",
+    "Add the water, heavy cream, sea salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18 minutes, or until the rice is cooked and fluffy.",
+    "Stir the rice gently with a fork to separate the grains.",
+    "Spoon the rice mixture onto the center of each lotus leaf wrap.",
+    "Fold the lotus leaf wraps to form a square package and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "gluten-free",
+    "one-pan",
+    "spanish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-fluffy-spanish-rice-paella",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-spanish-rice-paella",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:28:29Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "temper",
+    "primaryIngredient": "heavy cream",
+    "diet": "ayurvedic-sattvic",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed Fluffy",
+    "dishForm": "Paella"
+  }
+}
