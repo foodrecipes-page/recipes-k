@@ -1,0 +1,111 @@
+{
+  "title": "Kissed with Robata Smoke American Bok Choi Skewers",
+  "description": "Delicious, malty, and crispy American bok choi skewers kissed with the smoky flavor of robata-grill, perfect for adventurous vegetarians.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "1 bunch",
+      "notes": "Cut into 1-inch florets"
+    },
+    {
+      "name": "Malt Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": "Mixed with water to make a slurry"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together malt vinegar, soy sauce, honey, ginger paste, and garlic to make the glaze.",
+    "Thread bok choi florets onto skewers, leaving a small space between each piece.",
+    "Brush the bok choi skewers with vegetable oil and season with salt.",
+    "Preheat the robata-grill to medium-high heat.",
+    "Grill the bok choi skewers for 3-4 minutes on each side, or until slightly charred.",
+    "In a small saucepan, heat the glaze over medium heat until slightly thickened.",
+    "Brush the glaze over the grilled bok choi skewers.",
+    "Sprinkle with chopped green onions and cilantro.",
+    "Serve immediately and enjoy!",
+    "To make the slurry, mix cornstarch with water in a small bowl until smooth.",
+    "Pour the slurry over the grilled bok choi skewers and cook for an additional 1-2 minutes, or until the sauce has thickened."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "bok-choi",
+    "one-pan",
+    "robata-grill",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-with-robata-smoke-american-bok-choi-skewers",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-robata-smoke-american-bok-choi-skewers",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T16:44:37Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "robata-grill",
+    "primaryIngredient": "bok choi",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "bok choi",
+    "descriptor": "Kissed with Robata Smoke",
+    "dishForm": "Skewers"
+  }
+}
