@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Crispy Australian Prawns Skewers",
+  "description": "Rich and crispy Australian dish featuring unwaxed lime and yuzu-cure, perfect for a festive occasion, this low-carb friendly recipe is a delight to taste buds.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian prawns",
+      "amount": "500g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "unwaxed lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, mix together almond flour, paprika, garlic powder, salt, and pepper.",
+    "Add the prawns to the bowl and toss to coat evenly with the almond flour mixture.",
+    "Thread the coated prawns onto skewers, leaving a small space between each prawn.",
+    "Brush the skewers with coconut oil and place on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 8 minutes, or until crispy and golden brown.",
+    "While the prawns are baking, mix together lime juice and yuzu juice in a small bowl.",
+    "After the prawns have baked for 8 minutes, brush the lime and yuzu juice mixture onto the prawns.",
+    "Return the skewers to the oven and bake for an additional 2 minutes, or until the prawns are cooked through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "crispy",
+    "festive",
+    "gluten-free",
+    "low-carb",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 20
+  },
+  "slug": "kissed-crispy-australian-prawns-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-australian-prawns-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:53:52Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "unwaxed lime",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "prawns",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Skewers"
+  }
+}
