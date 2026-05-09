@@ -2037,6 +2037,21 @@
     "shard": "k"
   },
   {
+    "slug": "kiddie-polish-cod-casserole",
+    "title": "Kiddie Polish Cod Casserole",
+    "tags": [
+      "casserole",
+      "easy-dinner",
+      "family-meal",
+      "kid-friendly",
+      "polish-cuisine",
+      "seafood"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "kielbasini-paleo",
     "title": "Kielbasini Paleo",
     "tags": [
