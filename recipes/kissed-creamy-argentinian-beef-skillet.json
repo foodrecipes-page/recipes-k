@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Creamy Argentinian Beef Skillet",
+  "description": "A jammy and creamy Argentinian dish featuring sherry vinegar and flambe, perfect for a lazy Sunday, and ayurvedic-rajasic-friendly. This recipe combines the richness of beef with the tanginess of sherry vinegar.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sherry vinegar and flambe the mixture, stirring constantly, until the liquid is almost completely evaporated.",
+    "Reduce the heat to medium-low and add the heavy cream, stirring constantly, until the sauce thickens.",
+    "Season the mixture with salt and black pepper to taste.",
+    "Simmer the mixture for 5-7 minutes, stirring occasionally, until the sauce has thickened and the beef is cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "creamy-sauce",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "kissed-creamy-argentinian-beef-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-argentinian-beef-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:54:07Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "creamy",
+    "mood": "lazy-sunday",
+    "technique": "flambe",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "kissed creamy",
+    "dishForm": "Skillet"
+  }
+}
