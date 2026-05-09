@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Crispy Syrian Lamb Kebabs",
+  "description": "A weeknight Syrian dish featuring charred, crispy lamb kebabs with sultanas, served with a flavorful braise, and is FODMAP-friendly. This recipe uses a salt-block vessel for cooking.",
+  "cuisine": "Syrian",
+  "diet": [
+    "FODMAP-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sultanas",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt-block vessel to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic-infused oil, cumin, coriander, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb pieces onto skewers, leaving a small space between each piece.",
+    "Place the skewers on the preheated salt-block vessel and cook for 10-12 minutes, turning occasionally, until the lamb is charred and crispy.",
+    "While the lamb is cooking, heat the sultanas in a small saucepan over low heat, stirring occasionally, until they are warmed through.",
+    "To serve, place the cooked lamb kebabs on a plate and spoon the warmed sultanas alongside.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "lamb-kebabs",
+    "salt-block-cooking",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-crispy-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:32:09Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crispy",
+    "mood": "weeknight",
+    "technique": "braise",
+    "primaryIngredient": "sultanas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Kebabs"
+  }
+}
