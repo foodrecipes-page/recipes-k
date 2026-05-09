@@ -1,0 +1,110 @@
+{
+  "title": "Kicky Indulgent Vietnamese Guanciale Bo Kho",
+  "description": "A rich and savory Vietnamese bo kho dish featuring guanciale and double-fry KFC, made shojin-friendly by using plant-based alternatives.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "guanciale",
+      "amount": "6 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "vegetarian chicken strips",
+      "amount": "1 pound",
+      "notes": "double-fry KFC style"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "star anise",
+      "amount": "2 whole",
+      "notes": "toasted"
+    },
+    {
+      "name": "cinnamon sticks",
+      "amount": "2 whole",
+      "notes": "toasted"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups",
+      "notes": "vegetarian alternative"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "concentrated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat and cook the guanciale until crispy.",
+    "Remove the guanciale from the pot and set aside, leaving the grease behind.",
+    "Add the onions to the pot and cook until they are translucent and starting to caramelize.",
+    "Add the carrots to the pot and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the star anise and cinnamon sticks to the pot and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, soy sauce, and tomato paste to the pot and stir to combine.",
+    "Add the beef broth to the pot and bring to a boil, then reduce the heat to low and simmer.",
+    "Add the vegetarian chicken strips to the pot and cook until they are fully coated in the sauce.",
+    "Return the guanciale to the pot and stir to combine.",
+    "Simmer the bo kho for an additional 10 minutes, stirring occasionally, until the sauce has thickened and the flavors have melded together."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "indulgent-dishes",
+    "one-pot-meals",
+    "shojin-friendly",
+    "spicy-food",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "kicky-indulgent-vietnamese-guanciale-bo-kho",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicky-indulgent-vietnamese-guanciale-bo-kho",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:35:27Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "indulgent",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "guanciale",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "guanciale",
+    "descriptor": "kicky indulgent",
+    "dishForm": "Bo Kho"
+  }
+}
