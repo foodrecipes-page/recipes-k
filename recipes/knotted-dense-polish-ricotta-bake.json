@@ -1,0 +1,91 @@
+{
+  "title": "Knotted Dense Polish Ricotta Bake",
+  "description": "A nutty and dense Polish dish featuring ricotta, perfect for a post-workout meal, this vegetarian-friendly bake is a great way to refuel.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ricotta cheese",
+      "amount": "16 oz",
+      "notes": "drained"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, combine the ricotta cheese, rolled oats, chopped walnuts, egg, salt, black pepper, and dried thyme, mixing well.",
+    "Transfer the mixture to a baking dish and drizzle with olive oil.",
+    "Use your hands to shape the mixture into a knotted pattern on top of the bake.",
+    "Bake for 35 minutes or until the top is golden brown.",
+    "Remove the bake from the oven and let it cool for a few minutes.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "high-protein",
+    "one-pan",
+    "polish",
+    "ricotta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "knotted-dense-polish-ricotta-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-dense-polish-ricotta-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:54:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "bake",
+    "primaryIngredient": "ricotta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "ricotta",
+    "descriptor": "Knotted Dense",
+    "dishForm": "Bake"
+  }
+}
