@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Grassy Korean Hummus Skewers",
+  "description": "A low-carb Korean dish featuring hummus and long-fermentation-dough, grilled to perfection on a robata-grill, this recipe is a unique fusion of flavors and textures, with a grassy and flaky twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hummus",
+      "amount": "1 cup",
+      "notes": "classic or spicy"
+    },
+    {
+      "name": "long-fermentation-dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata-grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together gochujang, soy sauce, and sesame oil.",
+    "Add the hummus to the bowl and stir until well combined.",
+    "Cut the long-fermentation-dough into 1-inch pieces and thread onto skewers.",
+    "Brush the dough with the gochujang mixture and grill for 5 minutes per side.",
+    "Sprinkle the green onions, toasted sesame seeds, salt, and black pepper over the skewers.",
+    "Serve the skewers hot with additional hummus on the side.",
+    "Garnish with additional green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "grilled",
+    "korean-fusion",
+    "low-carb",
+    "quick-snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 10,
+    "fat": 7
+  },
+  "slug": "kissed-grassy-korean-hummus-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-grassy-korean-hummus-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:47:28Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "hummus",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "hummus",
+    "descriptor": "Kissed Grassy",
+    "dishForm": "Skewers"
+  }
+}
