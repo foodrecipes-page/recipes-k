@@ -1,0 +1,112 @@
+{
+  "title": "Kissed American Pasta Lasagna",
+  "description": "A comforting, malty, plant-based take on the classic Italian dish featuring caramelized onions, Italian seasoning, and a playful American twist.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "gluten-free alternative available"
+    },
+    {
+      "name": "caramelized onions",
+      "amount": "1 large onion",
+      "notes": null
+    },
+    {
+      "name": "plant-based ground beef substitute",
+      "amount": "1 cup",
+      "notes": "such as textured vegetable protein or tempeh"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought, vegan-friendly"
+    },
+    {
+      "name": "ricotta cheese substitute",
+      "amount": "1 cup",
+      "notes": "such as cashew cream or tofu ricotta"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "dairy or vegan-friendly alternative"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to the package instructions. Drain and set aside.",
+    "In a large skillet, heat the olive oil over medium heat. Add the chopped onions and cook until caramelized, stirring occasionally.",
+    "Add the plant-based ground beef substitute to the skillet and cook until browned, breaking it up with a spoon as it cooks.",
+    "Stir in the marinara sauce and Italian seasoning. Bring the sauce to a simmer and let cook for a few minutes.",
+    "In a large mixing bowl, combine the ricotta cheese substitute, chopped parsley, and a pinch of salt and pepper. Mix well to combine.",
+    "Spread a layer of the marinara sauce in the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta mixture over the noodles, followed by half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the marinara sauce, the ricotta mixture, and finally the mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 40,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "italian-inspired",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-american-pasta-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-american-pasta-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:09:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "caramelize",
+    "primaryIngredient": "italian seasoning",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "pasta",
+    "descriptor": "Kissed",
+    "dishForm": "Lasagna"
+  }
+}
