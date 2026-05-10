@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crunchy Egyptian Bananas Fritters",
+  "description": "A buttery, crunchy, and cozy Egyptian dessert featuring deep-fried bananas, perfect for warm weather and special occasions.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "low-fodmap"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "2 large ripe bananas",
+      "amount": "2",
+      "notes": "preferably overripe for best flavor"
+    },
+    {
+      "name": "1 cup all-purpose flour",
+      "amount": "240g"
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": "10g"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "5g"
+    },
+    {
+      "name": "1/4 cup unsalted butter, melted",
+      "amount": "55g"
+    },
+    {
+      "name": "1 cup cornstarch",
+      "amount": "120g"
+    },
+    {
+      "name": "Confectioners' sugar, for dusting",
+      "amount": ""
+    },
+    {
+      "name": "Vegetable oil, for frying",
+      "amount": ""
+    },
+    {
+      "name": "Honey, for drizzling (optional)",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour, baking powder, and salt.",
+    "Add the melted butter and mix until the mixture resembles coarse crumbs.",
+    "In a separate bowl, mix together cornstarch and a pinch of salt.",
+    "Gradually add the cornstarch mixture to the flour mixture and mix until a smooth dough forms.",
+    "Peel the bananas and cut them into 1-inch pieces.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Once the oil is hot, add a few pieces of banana and fry until golden brown, about 2-3 minutes.",
+    "Using a slotted spoon, remove the fried bananas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat with the remaining banana pieces.",
+    "Dust the fried bananas with confectioners' sugar and drizzle with honey, if desired.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bananas",
+    "comfort-food",
+    "deep-fried",
+    "dessert",
+    "egyptian",
+    "fritters",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "kissed-crunchy-egyptian-bananas-fritters",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-egyptian-bananas-fritters",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:59:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "bananas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "bananas",
+    "descriptor": "Kissed Crunchy",
+    "dishForm": "Fritters"
+  }
+}
