@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Nutty Korean Raspberry Anju",
+  "description": "A nutty and fluffy Korean dish featuring raspberries and pickle, perfect for a crowd, this satvik-friendly anju is served on a wooden board.",
+  "cuisine": "Korean",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "raspberries",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/2 cup",
+      "notes": "Korean kimchi-style"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped nuts",
+      "amount": "1/4 cup",
+      "notes": "such as almonds or walnuts"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together flour, cornstarch, and salt.",
+    "In a separate bowl, mix together rice vinegar, maple syrup, and coconut oil.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Fold in the chopped nuts and toasted sesame seeds.",
+    "Roll out the dough to a thickness of about 1/4 inch.",
+    "Cut into desired shapes using a cookie cutter or the rim of a glass.",
+    "Place the shapes on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until lightly golden.",
+    "Allow to cool completely on a wire rack.",
+    "To serve, place the anju on a wooden board and top with raspberries and pickle."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "easy-to-make",
+    "korean-cuisine",
+    "nutty-flavors",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-nutty-korean-raspberry-anju",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-nutty-korean-raspberry-anju",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:56:50Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "fluffy",
+    "mood": "crowd-pleaser",
+    "technique": "pickle",
+    "primaryIngredient": "raspberries",
+    "diet": "satvik",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "raspberries",
+    "descriptor": "kissed nutty",
+    "dishForm": "Anju"
+  }
+}
