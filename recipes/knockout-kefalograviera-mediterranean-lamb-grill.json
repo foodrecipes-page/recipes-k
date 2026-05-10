@@ -1,0 +1,103 @@
+{
+  "title": "knockout kefalograviera mediterranean lamb grill",
+  "description": "a hangover-friendly, low-glycemic mediterranean dish featuring liquid cheese and robata-grill lamb.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kefalograviera cheese",
+      "amount": "1 block (225g)"
+    },
+    {
+      "name": "lamb shoulder, boneless",
+      "amount": "0.9 kg"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "60ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "30ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "30ml"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "fresh oregano, chopped",
+      "amount": "20g"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "20g"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "10g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "5g"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, whisk together red wine vinegar, olive oil, lemon juice, garlic, oregano, parsley, salt, and pepper.",
+    "place the lamb shoulder in a large ziplock bag and pour the marinade over the lamb.",
+    "seal the bag and refrigerate for at least 4 hours or overnight.",
+    "preheat the robata grill to 220°C.",
+    "remove the lamb from the marinade and sear for 5 minutes per side.",
+    "transfer the lamb to a serving platter and let rest for 10 minutes.",
+    "meanwhile, crumble the kefalograviera cheese into a serving bowl.",
+    "add a sprinkle of salt and pepper to the cheese and serve alongside the lamb.",
+    "slice the lamb into thin strips and serve with the cheese.",
+    "garnish with additional oregano and parsley, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "hangover-cure",
+    "high-protein",
+    "liquid-cheese",
+    "low-glycemic",
+    "mediterranean",
+    "one-pan",
+    "robata-grill",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 36
+  },
+  "slug": "knockout-kefalograviera-mediterranean-lamb-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/knockout-kefalograviera-mediterranean-lamb-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T02:52:54Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "liquid cheese",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lamb",
+    "descriptor": "Knockout Kefalograviera",
+    "dishForm": "Grill"
+  }
+}
