@@ -1,0 +1,94 @@
+{
+  "title": "Kissed Brazilian Veal Skewers",
+  "description": "Tender veal skewers marinated in a mixture of olive oil, garlic, and herbs, grilled to perfection in agave leaves, a kid-friendly Brazilian dish",
+  "cuisine": "Brazilian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "veal cubes",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, oregano, thyme, salt, and black pepper.",
+    "Add the veal cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated veal cubes onto skewers, leaving a small space between each piece.",
+    "Wrap each skewer in an agave leaf, securing with a toothpick if needed.",
+    "Grill the skewers for 8 minutes, turning occasionally, until the veal is cooked through to an internal temperature of 145 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve the skewers hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled-meat",
+    "halal",
+    "kid-friendly",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "kissed-brazilian-veal-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-brazilian-veal-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:58:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "kid-friendly",
+    "technique": "whisk",
+    "primaryIngredient": "veal",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "veal",
+    "descriptor": "kid friendly tender",
+    "dishForm": "Skewers"
+  }
+}
