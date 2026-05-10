@@ -2202,6 +2202,22 @@
     "shard": "k"
   },
   {
+    "slug": "kicky-snappy-american-black-olive-skewers",
+    "title": "Kicky Snappy American Black Olive Skewers",
+    "tags": [
+      "american",
+      "appetizer",
+      "citrusy",
+      "quick-snack",
+      "shojin",
+      "snappy",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 32,
+    "shard": "k"
+  },
+  {
     "slug": "kicky-snappy-ethiopian-baked-beans-misir-wot",
     "title": "Kicky Snappy Ethiopian Baked Beans Misir Wot",
     "tags": [
@@ -4497,6 +4513,20 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-greek-lamb-keftedes",
+    "title": "Kissed Crispy Greek Lamb Keftedes",
+    "tags": [
+      "greek-food",
+      "lamb-recipes",
+      "mediterranean-cuisine",
+      "romantic-dinners",
+      "special-occasions"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {

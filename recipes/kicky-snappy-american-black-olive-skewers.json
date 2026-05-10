@@ -1,0 +1,100 @@
+{
+  "title": "Kicky Snappy American Black Olive Skewers",
+  "description": "A citrusy and snappy American dish featuring black olives, yuzu-cure, and shojin-friendly ingredients, perfect for a quick snack or appetizer.",
+  "cuisine": "American",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black olives",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, lemon juice, olive oil, garlic, ginger, sea salt, and black pepper.",
+    "Add the black olives to the bowl and toss to coat with the yuzu-cure mixture.",
+    "Thread 2-3 black olives onto each bamboo skewer.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake the skewers in the preheated oven for 10-12 minutes, or until the olives are slightly caramelized.",
+    "Remove the skewers from the oven and let cool for 5 minutes.",
+    "Serve the Kicky Snappy American Black Olive Skewers warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "appetizer",
+    "citrusy",
+    "quick-snack",
+    "shojin",
+    "snappy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "kicky-snappy-american-black-olive-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicky-snappy-american-black-olive-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:51:27Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "monsoon",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "black olives",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "black olives",
+    "descriptor": "kicky snappy",
+    "dishForm": "Skewers"
+  }
+}

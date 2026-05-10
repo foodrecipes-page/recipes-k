@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crispy Greek Lamb Keftedes",
+  "description": "A romantic Greek dish featuring lamb keftedes with a mustardy and aerated twist, served in agave leaves. This dish is perfect for a special occasion.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "1 pound",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1/2 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, combine lamb mince, creme fraiche, Dijon mustard, garlic, onion, salt, and black pepper, and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for 30 minutes.",
+    "Remove the bowl from the refrigerator and stir the mixture again.",
+    "Spoon the lamb mixture into the center of each agave leaf, leaving a 1-inch border around the edges.",
+    "Fold the agave leaves over the filling to form keftedes and secure with toothpicks if needed.",
+    "Brush the keftedes with olive oil and place them on a baking sheet lined with parchment paper.",
+    "Bake the keftedes in the preheated oven for 20 minutes, or until crispy and golden brown.",
+    "Remove the keftedes from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "greek-food",
+    "lamb-recipes",
+    "mediterranean-cuisine",
+    "romantic-dinners",
+    "special-occasions"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-crispy-greek-lamb-keftedes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-greek-lamb-keftedes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:51:37Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Crispy",
+    "dishForm": "Keftedes"
+  }
+}
