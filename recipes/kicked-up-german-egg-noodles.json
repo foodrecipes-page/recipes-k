@@ -1,0 +1,91 @@
+{
+  "title": "Kicked Up German Egg Noodles",
+  "description": "A spicy and tender one-pot German dish featuring egg noodles and dashi extract, high in protein and perfect for a weeknight dinner",
+  "cuisine": "German",
+  "diet": [
+    "high protein",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "egg noodles",
+      "amount": "8 oz",
+      "notes": "wide egg noodles"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 lb"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the chicken broth to a boil in a large pot",
+    "Add the dashi extract and stir to combine",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks",
+    "Add the sliced onion and minced garlic and cook until the onion is translucent",
+    "Add the egg noodles and cook according to the package instructions",
+    "Stir in the sriracha sauce and caraway seeds",
+    "Reduce heat to low and simmer for 10 minutes",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "one-pot",
+    "spicy-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kicked-up-german-egg-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-up-german-egg-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:32:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "dashi-extract",
+    "primaryIngredient": "egg noodles",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "egg noodles",
+    "descriptor": "Kicked Up",
+    "dishForm": "Noodles"
+  }
+}

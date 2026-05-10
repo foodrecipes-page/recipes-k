@@ -1891,6 +1891,20 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-up-german-egg-noodles",
+    "title": "Kicked Up German Egg Noodles",
+    "tags": [
+      "german-cuisine",
+      "high-protein",
+      "one-pot",
+      "spicy-food",
+      "weeknight"
+    ],
+    "cuisine": "German",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-up-greek-lamb-kebabs",
     "title": "Kicked up Greek lamb Kebabs",
     "tags": [
