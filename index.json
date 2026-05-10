@@ -12483,6 +12483,20 @@
     "shard": "k"
   },
   {
+    "slug": "kitchen-style-venezuelan-cheese-quesadilla",
+    "title": "Venezuelan Cheese Quesadilla",
+    "tags": [
+      "comfort-food",
+      "latin-american",
+      "mexican-influence",
+      "quick-snack",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kitchen-warmed-chinese-sweet-rice-flour-chow-fun",
     "title": "Kitchen Warmed Chinese Sweet Rice Flour Chow Fun",
     "tags": [
