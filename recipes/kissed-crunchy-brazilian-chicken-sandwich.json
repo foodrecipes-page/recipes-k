@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Crunchy Brazilian Chicken Sandwich",
+  "description": "A savory and crunchy Brazilian dish featuring parsley and double-rise-bread, perfect for a post-workout meal with anti-inflammatory benefits",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "4 pounds",
+      "notes": "cut into thin cutlets"
+    },
+    {
+      "name": "double-rise-bread",
+      "amount": "4 loaves",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "parsley",
+      "amount": "1 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "turmeric",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "brazilian cheese",
+      "amount": "1 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, turmeric, garlic powder, salt, and black pepper.",
+    "Add the chicken cutlets to the bowl and marinate for at least 30 minutes.",
+    "Remove the chicken from the marinade and coat with chopped parsley.",
+    "Place the coated chicken on a baking sheet lined with parchment paper and bake for 20 minutes.",
+    "Meanwhile, slice the double-rise-bread into 1-inch thick slices and toast until lightly browned.",
+    "Assemble the sandwiches by placing a cooked chicken cutlet on each toasted bread slice.",
+    "Top each chicken cutlet with crumbled brazilian cheese and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "crunchy",
+    "high-protein",
+    "one-pan",
+    "post-workout",
+    "savory",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-crunchy-brazilian-chicken-sandwich",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-brazilian-chicken-sandwich",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:24:35Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crunchy",
+    "mood": "post-workout",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "parsley",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed Crunchy",
+    "dishForm": "Sandwich"
+  }
+}
