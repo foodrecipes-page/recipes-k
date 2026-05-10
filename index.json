@@ -1373,6 +1373,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-molten-jamaican-collard-stew",
+    "title": "Kicked Molten Jamaican Collard Stew",
+    "tags": [
+      "collard-greens",
+      "dutch-oven",
+      "gluten-free",
+      "jamaican-inspired",
+      "low-glycemic",
+      "one-pot"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-mustardy-jamaican-courgettes-skillet",
     "title": "Kicked Mustardy Jamaican Courgettes Skillet",
     "tags": [
@@ -10545,6 +10560,22 @@
     ],
     "cuisine": "Slovakian",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-springy-venezuelan-rice-pilaf",
+    "title": "Kissed Springy Venezuelan Rice Pilaf",
+    "tags": [
+      "crowd-pleaser",
+      "dried-fruit",
+      "herbal",
+      "nut-free-friendly",
+      "one-pot",
+      "springy",
+      "venezuelan-dish"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

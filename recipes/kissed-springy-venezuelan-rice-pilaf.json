@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Springy Venezuelan Rice Pilaf",
+  "description": "A flavorful and springy Venezuelan dish featuring herbal notes and dried fruit, perfect for crowds, this pilaf is a nut-free friendly option that combines the best of fry-grind-rice-khao-khua techniques.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups",
+      "notes": "preferably long grain"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the cumin, paprika, salt, and black pepper, and stir for 1 minute.",
+    "Add the uncooked rice and stir to combine with the spice mixture.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18 minutes.",
+    "Fluff the rice with a fork and stir in the dried cranberries.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "crowd-pleaser",
+    "dried-fruit",
+    "herbal",
+    "nut-free-friendly",
+    "one-pot",
+    "springy",
+    "venezuelan-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 70,
+    "fat": 12
+  },
+  "slug": "kissed-springy-venezuelan-rice-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-springy-venezuelan-rice-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:57:12Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "dried fruit",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "rice",
+    "descriptor": "Kissed springy",
+    "dishForm": "Pilaf"
+  }
+}
