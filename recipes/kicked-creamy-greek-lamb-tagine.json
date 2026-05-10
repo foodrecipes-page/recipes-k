@@ -1,0 +1,102 @@
+{
+  "title": "Kicked Creamy Greek Lamb Tagine",
+  "description": "A sweet and creamy Mediterranean dish featuring candied peel and kombu cold extract, perfect for curing hangovers, this recipe is gluten free friendly and cooked to perfection on a slate tile vessel.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "candied peel",
+      "amount": "1/4 cup",
+      "notes": "orange or lemon"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, toss the lamb pieces with olive oil, salt, black pepper, and dried oregano until they are evenly coated.",
+    "Heat a large Dutch oven over medium high heat and sear the lamb pieces until they are browned on all sides.",
+    "Add the chopped onion to the pot and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic to the pot and cook for 1 minute, until fragrant.",
+    "Add the candied peel, kombu cold extract, and heavy cream to the pot, stirring to combine.",
+    "Cover the pot and transfer it to the preheated oven, where it will cook for 2.5 hours, or until the lamb is tender and the sauce has thickened.",
+    "Remove the pot from the oven and let it cool slightly before serving.",
+    "Serve the tagine hot, garnished with additional candied peel if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "greek-food",
+    "lamb-recipes",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "kicked-creamy-greek-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-creamy-greek-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:39:05Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "candied peel",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "lamb",
+    "descriptor": "Kicked Creamy",
+    "dishForm": "Tagine"
+  }
+}

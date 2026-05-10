@@ -1,0 +1,90 @@
+{
+  "title": "Knotted Flaky British Hazelnuts Victoria Sponge",
+  "description": "A classic British dessert featuring hazelnuts and tempering chocolate, this egg-free friendly Victoria sponge is a nostalgic treat that is both fatty and flaky.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "confectioners sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "tempering chocolate",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "whole milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour and confectioners sugar.",
+    "Add the softened butter to the bowl and mix until a crumbly dough forms.",
+    "Fold in the chopped hazelnuts.",
+    "Divide the dough in half and roll out each half into a thin sheet.",
+    "Place one sheet of dough on a baking sheet and spread with tempering chocolate.",
+    "Top with the second sheet of dough and press the edges to seal.",
+    "Bake for 25 minutes or until golden brown.",
+    "Allow the sponge to cool before serving.",
+    "Drizzle with whole milk and sprinkle with vanilla extract."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-classics",
+    "egg-free-treats",
+    "flaky-pastries",
+    "hazelnut-lovers",
+    "tempering-chocolate"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "knotted-flaky-british-hazelnuts-victoria-sponge",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knotted-flaky-british-hazelnuts-victoria-sponge",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:38:57Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "hazlenuts",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Knotted Flaky",
+    "dishForm": "Victoria Sponge"
+  }
+}
