@@ -12508,6 +12508,21 @@
     "shard": "k"
   },
   {
+    "slug": "knobby-australian-tofu-hash",
+    "title": "Knobby Australian Tofu Hash",
+    "tags": [
+      "australian-cuisine",
+      "brunch-recipe",
+      "high-protein",
+      "jain-friendly",
+      "tofu-recipe",
+      "vegetarian-dish"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
     "slug": "knobby-briny-portuguese-pork-stew",
     "title": "Knobby Briny Portuguese Pork Stew",
     "tags": [

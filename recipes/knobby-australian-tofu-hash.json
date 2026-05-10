@@ -1,0 +1,101 @@
+{
+  "title": "Knobby Australian Tofu Hash",
+  "description": "A funky, crumbly, brunch-mood Australian dish featuring marinated tofu, soffritto-base, served on a tagliere, jain-friendly",
+  "cuisine": "Australian",
+  "diet": [
+    "jain",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and crumbled"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, smoked paprika, salt, and black pepper.",
+    "Add the crumbled tofu to the bowl and toss to coat with the marinade.",
+    "Spread the marinated tofu on a baking sheet and bake for 20 minutes.",
+    "In a large skillet, heat 2 tablespoons of olive oil over medium heat.",
+    "Add the chopped onion, grated carrot, and chopped celery to the skillet and cook until the vegetables are tender.",
+    "Add the diced tomato to the skillet and cook for an additional 2 minutes.",
+    "To assemble the hash, place the baked tofu on a tagliere and top with the soffritto mixture.",
+    "Serve the Knobby Australian Tofu Hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "brunch-recipe",
+    "high-protein",
+    "jain-friendly",
+    "tofu-recipe",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "knobby-australian-tofu-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-australian-tofu-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:42:13Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "brunch-mood",
+    "technique": "soffritto-base",
+    "primaryIngredient": "marinated tofu",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "tofu",
+    "descriptor": "knobby crunchy",
+    "dishForm": "Hash"
+  }
+}
