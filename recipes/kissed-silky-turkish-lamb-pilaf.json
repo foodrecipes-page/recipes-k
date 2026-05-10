@@ -1,0 +1,111 @@
+{
+  "title": "kissed silky turkish lamb pilaf",
+  "description": "a rich and creamy pilaf dish featuring cured lamb and fluffy rice, sure to impress any dinner guest",
+  "cuisine": "turkish",
+  "diet": [
+    "lactose-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cured in shio-koji for at least 2 hours"
+    },
+    {
+      "name": "white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "whipping cream",
+      "amount": "1 cup",
+      "notes": "heavy"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large saucepan over medium heat",
+    "add the chopped onion and sauté until translucent, about 5 minutes",
+    "add the minced garlic and sauté for another minute",
+    "add the lamb shoulder, breaking it up with a spoon as it cooks",
+    "add the smoked paprika, salt, and black pepper, stirring to combine",
+    "add the white rice and stir to combine with the lamb mixture",
+    "cook for 2-3 minutes, stirring constantly, until the rice is lightly toasted",
+    "add 2 cups of water to the saucepan and bring to a boil",
+    "reduce the heat to low, cover, and simmer for 18-20 minutes, or until the rice is cooked",
+    "stir in the heavy whipping cream and season with salt and black pepper to taste",
+    "garnish with chopped fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "romantic",
+    "special-occasion",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "kissed-silky-turkish-lamb-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-turkish-lamb-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:28:34Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "whipping cream",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed silky",
+    "dishForm": "Pilaf"
+  }
+}
