@@ -1,0 +1,98 @@
+{
+  "title": "Kissed Syrian Lettuce Flatbread",
+  "description": "A traditional Syrian dish featuring iceberg lettuce and long-fermentation-dough, perfect for a festive and low-calorie-friendly meal. The combination of sour and flaky flavors creates a unique taste experience.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "Gradually add warm water and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it ferment for 2 hours.",
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the dough into a thin circle, about 1/4 inch thick.",
+    "Spread the chopped lettuce over the dough, leaving a 1-inch border around the edges.",
+    "Drizzle olive oil, sumac, and lemon juice over the lettuce.",
+    "Fold the edges of the dough over the filling to form a crust.",
+    "Bake the flatbread for 20 minutes, or until the crust is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "flatbread",
+    "low-calorie",
+    "middle-eastern",
+    "syrian-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "kissed-syrian-lettuce-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-syrian-lettuce-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:01:53Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lettuce",
+    "descriptor": "kaleidoscopic flaky",
+    "dishForm": "Flatbread"
+  }
+}
