@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Silky Syrian Lamb Kebabs",
+  "description": "Charred and silky Syrian lamb kebabs with clotted cream and bhuna spices, perfect for a low-carb meal prep dinner",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together clotted cream, bhuna spice mix, lemon juice, salt, and black pepper",
+    "Add the lamb cubes to the bowl and toss to coat with the cream mixture",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until charred and cooked through",
+    "Transfer the kebabs to a tagliere and garnish with minced garlic",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bhuna-spices",
+    "grilled-meat",
+    "low-carb",
+    "meal-prep",
+    "syrian-cuisine",
+    "tagliere-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 30
+  },
+  "slug": "kissed-silky-syrian-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-silky-syrian-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:57:25Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "clotted-cream-extra",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Silky",
+    "dishForm": "Kebabs"
+  }
+}

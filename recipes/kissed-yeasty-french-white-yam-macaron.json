@@ -1,0 +1,99 @@
+{
+  "title": "Kissed Yeasty French White Yam Macaron",
+  "description": "A yeasty, pillowy French macaron featuring white yam and bonito shave, perfect for a solo dinner, this dish is high in protein and delicious, made with white yam and bonito shave for a unique flavor.",
+  "cuisine": "French",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "white yam",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "egg whites",
+      "amount": "3 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the almond flour, yeast, and salt.",
+    "In a large bowl, whip the egg whites until stiff peaks form.",
+    "Gradually add the granulated sugar to the egg whites and whip until combined.",
+    "Add the melted butter, water, and diced white yam to the egg mixture and whip until smooth.",
+    "Add the almond flour mixture to the egg mixture and whip until combined.",
+    "Transfer the mixture to a piping bag and pipe into small circles on the prepared baking sheet.",
+    "Sprinkle the bonito flakes on top of the macarons.",
+    "Bake for 15 minutes, then reduce the oven temperature to 200 degrees Fahrenheit and bake for an additional 5 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bonito-shave",
+    "dinner-idea",
+    "french-dish",
+    "high-protein",
+    "macaron",
+    "white-yam",
+    "yeasty"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-yeasty-french-white-yam-macaron",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-yeasty-french-white-yam-macaron",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:57:20Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "pillowy",
+    "mood": "solo-dinner",
+    "technique": "bonito-shave",
+    "primaryIngredient": "white yam",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "white yam",
+    "descriptor": "kissed yeasty",
+    "dishForm": "Macaron"
+  }
+}

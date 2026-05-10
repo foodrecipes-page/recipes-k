@@ -9130,6 +9130,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-silky-syrian-lamb-kebabs",
+    "title": "Kissed Silky Syrian Lamb Kebabs",
+    "tags": [
+      "bhuna-spices",
+      "grilled-meat",
+      "low-carb",
+      "meal-prep",
+      "syrian-cuisine",
+      "tagliere-recipe"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-silky-turkish-lamb-pilaf",
     "title": "kissed silky turkish lamb pilaf",
     "tags": [
@@ -12253,6 +12268,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-yeasty-french-white-yam-macaron",
+    "title": "Kissed Yeasty French White Yam Macaron",
+    "tags": [
+      "bonito-shave",
+      "dinner-idea",
+      "french-dish",
+      "high-protein",
+      "macaron",
+      "white-yam",
+      "yeasty"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
