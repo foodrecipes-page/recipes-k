@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Golden German Cheese Casserole",
+  "description": "A rich and comforting German dish featuring a cheesy, resinous sauce and a crunchy almond topping, perfect for a sick day. This sugar-free friendly casserole is baked to perfection in a bamboo tray.",
+  "cuisine": "German",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Emmental cheese",
+      "amount": "1 1/2 cups",
+      "notes": "shredded"
+    },
+    {
+      "name": "Gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Flaked almonds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, saute the chopped onion and minced garlic in unsalted butter until softened.",
+    "In a separate saucepan, combine the shredded Emmental and Gruyere cheese and stir over low heat until melted and smooth.",
+    "Add the cooked onion and garlic mixture to the cheese sauce and stir to combine.",
+    "Season the cheese sauce with salt and black pepper to taste.",
+    "In a bamboo tray, create a thin layer of the cheese sauce.",
+    "Top the cheese sauce with a layer of flaked almonds.",
+    "Repeat the layers, ending with a layer of cheese sauce on top.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until golden brown and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "almonds",
+    "casserole",
+    "cheesy",
+    "comfort-food",
+    "german-food",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "kissed-golden-german-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-german-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:26:57Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "cheese-pull",
+    "mood": "sick-day",
+    "technique": "salt-bake",
+    "primaryIngredient": "flaked almonds",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "cheese",
+    "descriptor": "Kissed golden",
+    "dishForm": "Casserole"
+  }
+}
