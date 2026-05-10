@@ -1,0 +1,102 @@
+{
+  "title": "Kaleidoscopic Bitter Turkish Lamb Wrap",
+  "description": "A low-calorie, post-workout Turkish dish featuring bitter and velvety flavors, with a unique leaf-wrap-steam cooking method.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "kale leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "1 tortilla"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "turkish bitter greens",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the lamb shoulder with salt, black pepper, and garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the lamb until browned on all sides.",
+    "Wrap the lamb in kale leaves and steam for 10 minutes.",
+    "Spread the feta cheese on the whole wheat tortilla.",
+    "Slice the steamed lamb and place it on the tortilla.",
+    "Top the lamb with turkish bitter greens and a squeeze of lemon juice.",
+    "Fold the bottom half of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "bitter-flavors",
+    "leaf-wrap-steam",
+    "low-calorie",
+    "post-workout",
+    "turkish-food",
+    "velvety-texture"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kaleidoscopic-bitter-turkish-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kaleidoscopic-bitter-turkish-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:30:40Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "velvety",
+    "mood": "post-workout",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "toast",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "kaleidoscopic bitter",
+    "dishForm": "Wrap"
+  }
+}
