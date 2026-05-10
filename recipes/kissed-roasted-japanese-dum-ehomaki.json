@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Roasted Japanese Dum Ehomaki",
+  "description": "A roasted, flaky, comforting Japanese dish featuring basil leaves and dum, Whole30-friendly and formed into ehomaki rolls.",
+  "cuisine": "Japanese",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese dumpling wrappers",
+      "amount": "12 sheets",
+      "notes": "made from gluten-free ingredients"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "chopped basil leaves",
+      "amount": "1 cup"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine ground pork, chopped basil leaves, green onions, sesame oil, coconut aminos, salt, and black pepper, and mix well.",
+    "Lay a Japanese dumpling wrapper on a flat surface and place about 1 tablespoon of the pork mixture in the center of the wrapper.",
+    "Brush the edges of the wrapper with a small amount of water and roll up the wrapper to form a tight cylinder, starting from one end.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Place the ehomaki rolls on a baking sheet lined with parchment paper, leaving about 1 inch of space between each roll.",
+    "Roast the ehomaki rolls in the preheated oven for 20 minutes, or until they are golden brown and crispy.",
+    "Remove the ehomaki rolls from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "ehomaki",
+    "gluten-free",
+    "japanese-food",
+    "roasted",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "kissed-roasted-japanese-dum-ehomaki",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-japanese-dum-ehomaki",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:04:51Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "dum",
+    "primaryIngredient": "basil leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "dum",
+    "descriptor": "kissed roasted",
+    "dishForm": "Ehomaki"
+  }
+}
