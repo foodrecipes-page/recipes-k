@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Snappy Mexican Palm Sugar Nam Tan Pip Chiles Rellenos",
+  "description": "A festive Mexican dish featuring palm sugar nam tan pip, with a grassy and snappy flavor, made in a Korean brass bowl, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4 large",
+      "notes": "roasted"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "nam tan pip",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roast the poblano peppers in the oven for 20 minutes.",
+    "Let the peppers cool down, then peel off the skin and remove the seeds.",
+    "In a pan, heat the oil and saute the onion and garlic until softened.",
+    "In a bowl, mix the cooked quinoa, palm sugar, nam tan pip, salt, and pepper.",
+    "Stuff each pepper with the quinoa mixture and place in a Korean brass bowl.",
+    "Deglaze the pan with a little water and pour the sauce over the peppers.",
+    "Bake the peppers in the oven for 15 minutes.",
+    "Serve the chiles rellenos hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "festive-dish",
+    "gluten-free",
+    "korean-brass-bowl",
+    "mexican-cuisine",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-snappy-mexican-palm-sugar-nam-tan-pip-chiles-rellenos",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-snappy-mexican-palm-sugar-nam-tan-pip-chiles-rellenos",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:03:00Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "snappy",
+    "mood": "festive",
+    "technique": "deglaze",
+    "primaryIngredient": "palm-sugar-nam-tan-pip",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "palm sugar nam tan pip",
+    "descriptor": "Kissed Snappy",
+    "dishForm": "Chiles Rellenos"
+  }
+}
