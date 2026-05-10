@@ -1,0 +1,114 @@
+{
+  "title": "Kissed Tangy Algerian Prawns Tagine",
+  "description": "A comforting Algerian dish featuring raw king prawns, slow-cooked in a tangy and cheesy sauce, perfect for a cold winter night, and prepared in an ayurvedic-sattvic-friendly way.",
+  "cuisine": "Algerian",
+  "diet": [
+    "sattvic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "1 pound",
+      "notes": "raw, peeled and deveined"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay or ceramic tagine or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and grated ginger and cook for 1 minute, stirring constantly.",
+    "Stir in the ground cumin, ground coriander, and cayenne pepper and cook for 1 minute.",
+    "Add the tomato paste and cook, stirring constantly, for 2 minutes.",
+    "Add the halved cherry tomatoes, salt, and pepper, and stir to combine.",
+    "Add the raw king prawns and stir to combine with the sauce.",
+    "Cover the tagine or Dutch oven and transfer it to the oven.",
+    "Bake, covered, at 300 degrees Fahrenheit for 20 minutes.",
+    "Remove the tagine or Dutch oven from the oven and stir in the crumbled feta cheese.",
+    "Return the tagine or Dutch oven to the oven and bake, uncovered, for an additional 5 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "cheesy",
+    "comfort-food",
+    "one-pot",
+    "seafood",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 12,
+    "fat": 20
+  },
+  "slug": "kissed-tangy-algerian-prawns-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tangy-algerian-prawns-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:48:52Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "cheese-pull",
+    "mood": "comforting",
+    "technique": "slow-cook",
+    "primaryIngredient": "raw king prawns",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "prawns",
+    "descriptor": "Kissed tangy",
+    "dishForm": "Tagine"
+  }
+}
