@@ -1,0 +1,92 @@
+{
+  "title": "Keto Gooey Polish Pork Dumplings",
+  "description": "A weeknight Polish dish featuring mustardy and gooey keto-friendly dumplings with rose water and dashi-extract flavors",
+  "cuisine": "Polish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "shredded mozzarella",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, combine pork sausage, shredded mozzarella, rose water, dashi extract, and mustard, mixing well",
+    "In a separate bowl, whisk together coconut flour and eggs",
+    "Add the dry ingredients to the wet ingredients and mix until a dough forms",
+    "Divide the dough into 8 equal pieces and shape into dumplings",
+    "Place the dumplings in a single layer in a baking dish",
+    "Pour chicken broth over the dumplings and cover with aluminum foil",
+    "Bake for 25 minutes, then remove the foil and bake for an additional 10 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dumplings",
+    "keto",
+    "low-carb",
+    "polish",
+    "pork",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "keto-gooey-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-gooey-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:12:32Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "gooey",
+    "mood": "weeknight",
+    "technique": "dashi-extract",
+    "primaryIngredient": "rose water",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "keto gooey",
+    "dishForm": "Dumplings"
+  }
+}
