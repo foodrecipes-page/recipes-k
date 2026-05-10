@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Fatty Syrian Meat Wrap",
+  "description": "A romantic Syrian dish featuring a flour tortilla and stir-fry, this wrap is fatty, chewy, and gluten-free-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flour tortilla",
+      "amount": "4 large",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "fatty cuts preferred"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat, adding the olive oil to coat the bottom.",
+    "Add the sliced onion to the skillet, cooking until it is translucent and starting to caramelize.",
+    "Add the sliced bell pepper to the skillet, continuing to cook until the vegetables are tender.",
+    "Add the diced tomato to the skillet, cooking for an additional 2 minutes.",
+    "Add the lamb shoulder to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the lamb is browned, add the cumin, paprika, salt, and black pepper to the skillet, stirring to combine.",
+    "Reduce the heat to low, allowing the mixture to simmer for 10 minutes.",
+    "Warm the flour tortillas by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by spooning the meat mixture onto the center of each tortilla and folding the tortilla in half.",
+    "Serve the wraps immediately, garnished with additional vegetables if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "one-pan",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 40
+  },
+  "slug": "kissed-fatty-syrian-meat-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fatty-syrian-meat-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:53:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "flour tortilla",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "meat",
+    "descriptor": "kissed fatty",
+    "dishForm": "Wrap"
+  }
+}
