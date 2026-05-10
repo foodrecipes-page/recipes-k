@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Mustardy Japanese Pork Ramen Miso",
+  "description": "A light and flavorful Japanese dish featuring pork, mustard, and miso, with a pillowy texture and a hint of sweetness from the jam, this flexitarian-friendly ramen is a delightful twist on traditional Japanese cuisine.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jam",
+      "amount": "1 tablespoon",
+      "notes": "preferably apricot or orange"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large pot over medium-high heat to deep-fry the pork loin strips until golden brown.",
+    "Remove the pork from the pot and set aside on a paper towel-lined plate to drain excess oil.",
+    "In the same pot, add the sliced green onions and cook until they are lightly browned.",
+    "Add the chicken broth, soy sauce, and miso paste to the pot, whisking until the miso is dissolved.",
+    "Bring the broth to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Cook the ramen noodles according to the package instructions and set aside.",
+    "In a small bowl, whisk together the whole grain mustard and jam until well combined.",
+    "Add the cooked noodles to the pot with the broth and cook for an additional 2 minutes.",
+    "Stir in the mustard and jam mixture, then add the cooked pork back to the pot.",
+    "Season with salt and pepper to taste, then serve hot garnished with sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian-friendly",
+    "japanese-cuisine",
+    "miso-soup",
+    "one-pot-meal",
+    "pork-recipes",
+    "ramen-noodles"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-mustardy-japanese-pork-ramen-miso",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mustardy-japanese-pork-ramen-miso",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:42:23Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "jam n ib rico",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed Mustardy",
+    "dishForm": "Ramen Miso"
+  }
+}
