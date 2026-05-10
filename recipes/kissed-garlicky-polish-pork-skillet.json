@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Garlicky Polish Pork Skillet",
+  "description": "A hearty and flavorful one-pot Polish dish featuring tender pork, garlicky goodness, and a hint of smokiness from the yakimono-grill, all cooked to perfection in a canola oil infused skillet.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "canola oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the canola oil in a large skillet over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the chopped onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Stir in the paprika, salt, and black pepper.",
+    "Return the pork to the skillet and stir to combine with the vegetables and spices.",
+    "Cook for an additional 2 minutes, until the pork is cooked through.",
+    "Use the yakimono-grill to add a smoky kiss to the dish, if desired.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic-lovers",
+    "one-pot",
+    "polish-cuisine",
+    "pork-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "kissed-garlicky-polish-pork-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-polish-pork-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:34:04Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "canola oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Kissed Garlicky",
+    "dishForm": "Skillet"
+  }
+}
