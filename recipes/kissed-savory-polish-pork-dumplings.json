@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Savory Polish Pork Dumplings",
+  "description": "Briny and bouncy Polish dish featuring shaoxing wine, perfect for a cozy dinner, this recipe dehydrates certain ingredients for a dash of friendly flavor.",
+  "cuisine": "Polish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "shaoxing wine",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "dehydrated and rehydrated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dumpling wrappers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the ground pork, shaoxing wine, chopped onion, minced garlic, salt, and black pepper, mixing well with your hands or a wooden spoon until just combined.",
+    "Rehydrate the dehydrated mushroom by soaking it in hot water for a few minutes, then chop it finely and add it to the pork mixture, mixing again until just combined.",
+    "Lay a dumpling wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edge of the wrapper, then fold the wrapper into a triangle by bringing the two opposite corners together to form a point, pressing the edges together to seal the dumpling.",
+    "Repeat the process with the remaining wrappers and filling.",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving some space between each dumpling to allow for even cooking.",
+    "Brush the tops of the dumplings with a little bit of oil.",
+    "Bake the dumplings in the preheated oven for 15 minutes, then serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "dumplings",
+    "polish-cuisine",
+    "pork-based",
+    "savory",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-savory-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-savory-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:59:09Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "dehydrate",
+    "primaryIngredient": "shaoxing wine",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "kissed savory",
+    "dishForm": "Dumplings"
+  }
+}
