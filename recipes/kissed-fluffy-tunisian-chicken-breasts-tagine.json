@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Fluffy Tunisian Chicken Breasts Tagine",
+  "description": "A salty, fluffy, and comforting Tunisian dish featuring chicken breasts, lamination-puff, and anti-inflammatory friendly ingredients, perfect for a cozy dinner",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, onion, garlic, ginger, cumin, coriander, turmeric, salt, and black pepper",
+    "Add the chicken breasts to the bowl and coat evenly with the marinade",
+    "Let the chicken marinate for at least 30 minutes",
+    "Transfer the chicken to a baking dish and bake for 25 minutes",
+    "While the chicken is baking, prepare the lamination-puff by mixing together flour, water, and a pinch of salt",
+    "After the chicken has baked for 25 minutes, brush the lamination-puff mixture evenly over the top of each breast",
+    "Return the chicken to the oven and bake for an additional 10 minutes, or until the lamination-puff is golden brown",
+    "Remove the chicken from the oven and let rest for 5 minutes before serving"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 35,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pan",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "kissed-fluffy-tunisian-chicken-breasts-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-tunisian-chicken-breasts-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:08:54Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "fluffy",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "chicken breasts",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "chicken breasts",
+    "descriptor": "kissed fluffy",
+    "dishForm": "Tagine"
+  }
+}
