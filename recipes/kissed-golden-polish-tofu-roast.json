@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Golden Polish Tofu Roast",
+  "description": "A fatty, light, and energizing Polish dish featuring speculaas spice mix, this roast is perfect for a cold winter night. It is shojin-friendly and made in a wok.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "speculaas spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large wok over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the chopped carrots and potatoes and cook for 5 minutes.",
+    "Add the speculaas spice mix and cook for 1 minute.",
+    "Add the tofu and cook until it is golden brown on all sides.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "polish-cuisine",
+    "speculaas-spice",
+    "vegan",
+    "vegetarian",
+    "wok-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-golden-polish-tofu-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-golden-polish-tofu-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:32:17Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "light",
+    "mood": "energizing",
+    "technique": "roast",
+    "primaryIngredient": "speculaas spice mix",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "tofu",
+    "descriptor": "Kissed Golden",
+    "dishForm": "Roast"
+  }
+}
