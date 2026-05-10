@@ -1,0 +1,101 @@
+{
+  "title": "Knobby Norwegian Eggplant Skillet",
+  "description": "A hearty and flavorful one-pot Norwegian dish featuring eggplant, this skillet is perfect for a weeknight dinner, it is also egg-free friendly and can be boiled.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to brown.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly to prevent burning.",
+    "Add the cubed eggplant, chopped carrots, and chopped potatoes, and cook for 5 minutes, stirring occasionally.",
+    "Pour in the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes, or until the vegetables are tender.",
+    "Stir in the remaining 2 tablespoons of butter until it is melted and well combined.",
+    "Season the skillet with salt and black pepper to taste.",
+    "Serve the Knobby Norwegian Eggplant Skillet hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "norwegian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "knobby-norwegian-eggplant-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-norwegian-eggplant-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:40:55Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "snappy",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "eggplant",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "eggplant",
+    "descriptor": "knobby buttery",
+    "dishForm": "Skillet"
+  }
+}
