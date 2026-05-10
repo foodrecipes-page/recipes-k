@@ -1,0 +1,101 @@
+{
+  "title": "Kicked Spicy Brazilian Mackerel En Croute",
+  "description": "A spicy Brazilian dish featuring mackerel in a flaky crust, with a kick of heat and a side of fermented jelly for an anti-inflammatory boost.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mackerel fillets",
+      "amount": "4",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "spicy Brazilian sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "fermented jelly",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing pastry"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a lightly floured surface to a large rectangle.",
+    "Place the mackerel fillets in the center of the pastry, leaving a 1-inch border around them.",
+    "Brush the edges of the pastry with olive oil and season with salt and pepper.",
+    "Spoon the spicy Brazilian sauce over the mackerel, leaving a small border around the edges.",
+    "Top the sauce with the fermented jelly, spreading it evenly.",
+    "Fold the pastry over the filling, pressing the edges to seal.",
+    "Brush the top of the pastry with olive oil and cut a few slits in the top to allow steam to escape.",
+    "Place the en croute on a baking sheet and bake for 25 minutes, or until golden brown.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "fermented-foods",
+    "gluten-free",
+    "low-carb",
+    "seafood-lovers",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "kicked-spicy-brazilian-mackerel-en-croute",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-spicy-brazilian-mackerel-en-croute",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:02:22Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "quick-fix",
+    "technique": "en-croute",
+    "primaryIngredient": "mackerel",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "mackerel",
+    "descriptor": "kicked spicy",
+    "dishForm": "en croute"
+  }
+}
