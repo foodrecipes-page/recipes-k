@@ -1,0 +1,106 @@
+{
+  "title": "Kissed Caramelized Sicilian Vermicelli Pasta",
+  "description": "A yeasty, molten, post-workout Italian dish featuring vermicelli pasta, caramelized to perfection, wrapped in a pandan leaf vessel, this low-calorie-friendly meal is a perfect way to refuel after a workout.",
+  "cuisine": "Italian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "vermicelli pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned crushed tomatoes",
+      "amount": "14.5 oz"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Cook the vermicelli pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the canned crushed tomatoes, salt, and black pepper to the skillet and stir to combine.",
+    "Bring the tomato sauce to a simmer and let cook for 10 minutes, stirring occasionally.",
+    "Stir in the shaved grana padano cheese until melted and well combined.",
+    "Add the cooked vermicelli pasta to the skillet and toss to coat with the tomato sauce.",
+    "Spoon the pasta mixture onto the center of each pandan leaf, leaving a 1-inch border around the edges.",
+    "Fold the pandan leaves over the pasta to form a square package and secure with a toothpick if needed.",
+    "Bake the pandan leaf packages in the preheated oven for 10 minutes, or until the leaves are caramelized and the pasta is heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized",
+    "italian-food",
+    "low-calorie",
+    "pasta-dish",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "kissed-caramelized-sicilian-vermicelli-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-caramelized-sicilian-vermicelli-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:01:47Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "low-calorie",
+    "region": "sicilian",
+    "cuisineAdjective": "Sicilian",
+    "mainIngredient": "vermicelli",
+    "descriptor": "kissed caramelized",
+    "dishForm": "Pasta"
+  }
+}
