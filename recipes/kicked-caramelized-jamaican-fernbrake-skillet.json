@@ -1,0 +1,95 @@
+{
+  "title": "Kicked Caramelized Jamaican Fernbrake Skillet",
+  "description": "A pungent and gooey post-workout Jamaican dish featuring caramelized fernbrake, this skillet is perfect for a hearty meal, it is whole30-friendly and packed with nutrients.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fernbrake",
+      "amount": "1 cup",
+      "notes": "also known as gosari"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the fernbrake and cook until it is tender and caramelized, stirring occasionally.",
+    "Add the chicken breast and cook until it is browned and cooked through.",
+    "Add the jamaican jerk seasoning, salt, and black pepper, and stir to combine.",
+    "Reduce heat to medium-low and simmer the mixture for 10 minutes, stirring occasionally.",
+    "Serve the skillet hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "paleo",
+    "post-workout",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kicked-caramelized-jamaican-fernbrake-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-caramelized-jamaican-fernbrake-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:26:36Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "fernbrake-gosari",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "fernbrake",
+    "descriptor": "Kicked caramelized",
+    "dishForm": "Skillet"
+  }
+}
