@@ -1,0 +1,93 @@
+{
+  "title": "Kissed Smoky Filipino Blackberries Pancakes",
+  "description": "A lazy Sunday Filipino dish featuring blackberries and a smoky flavor, made with a tava griddle and nut-free friendly ingredients. This dish is perfect for a relaxing breakfast.",
+  "cuisine": "Filipino",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "blackberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the eggs and milk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Gently fold in the blackberries and smoked paprika.",
+    "Heat a tava griddle over medium heat and brush with a small amount of oil.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes warm and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "blackberries",
+    "breakfast",
+    "filipino",
+    "lazy-sunday",
+    "smoky",
+    "tava-griddle"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "kissed-smoky-filipino-blackberries-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-smoky-filipino-blackberries-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:49:07Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crumbly",
+    "mood": "lazy-sunday",
+    "technique": "smoke-cold",
+    "primaryIngredient": "blackberries",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "blackberries",
+    "descriptor": "kissed smoky",
+    "dishForm": "Pancakes"
+  }
+}
