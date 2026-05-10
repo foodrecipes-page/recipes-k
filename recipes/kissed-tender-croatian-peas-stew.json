@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Tender Croatian Peas Stew",
+  "description": "A traditional Croatian dish featuring tender petit pois, this stew is fermented to bring out the natural sweetness of the peas and is perfect for a weeknight dinner. It is a low-fat-friendly option that can be made with minimal ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "petit pois",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon",
+      "notes": "for spherification"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrot and celery and cook until they are tender.",
+    "Add the petit pois, vegetable broth, and tomato paste, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the sodium alginate and cook for an additional 5 minutes.",
+    "Use a spoon to drop small amounts of the stew into a bath of cold water to spherify the peas.",
+    "Serve the spherified peas in the stew.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "croatian",
+    "low-fat",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "slug": "kissed-tender-croatian-peas-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-croatian-peas-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:53:41Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "spherify",
+    "primaryIngredient": "petit pois",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "peas",
+    "descriptor": "kissed tender",
+    "dishForm": "Stew"
+  }
+}
