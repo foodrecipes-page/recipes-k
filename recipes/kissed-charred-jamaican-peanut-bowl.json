@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Charred Jamaican Peanut Bowl",
+  "description": "A low-carb, Jamaican-inspired dish featuring charred peanuts and bonito flakes, served in an earthenware bowl.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "peanuts",
+      "amount": "1/2 cup",
+      "notes": "dry roasted"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced, seeds removed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together lime juice, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Spread the peanuts on a baking sheet and roast in the oven for 10 minutes, or until lightly charred.",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5-7 minutes.",
+    "Add the diced scotch bonnet pepper to the skillet and cook for an additional 1-2 minutes.",
+    "To assemble the bowls, divide the cooked chicken among four earthenware bowls.",
+    "Top the chicken with roasted peanuts, bonito flakes, and chopped cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "jamaican-cuisine",
+    "low-carb",
+    "meal-prep",
+    "one-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "kissed-charred-jamaican-peanut-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-jamaican-peanut-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:57:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "bonito-shave",
+    "primaryIngredient": "peanuts",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "peanuts",
+    "descriptor": "kissed charred",
+    "dishForm": "Bowl"
+  }
+}
