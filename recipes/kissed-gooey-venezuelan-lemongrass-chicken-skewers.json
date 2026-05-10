@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Gooey Venezuelan Lemongrass Chicken Skewers",
+  "description": "A charred and gooey Venezuelan dish featuring lemongrass stalks and stir-fry, this recipe is kosher-friendly and perfect for a romantic evening.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "lemongrass stalks",
+      "amount": "6",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, soy sauce, honey, salt, and black pepper.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken and lemongrass pieces onto skewers, leaving a little space between each piece.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and slightly charred.",
+    "While the skewers are grilling, prepare the stir-fry by heating a tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped cilantro to the skillet and stir-fry for 1-2 minutes, until fragrant.",
+    "Serve the grilled skewers on top of the cilantro stir-fry, garnished with additional lemongrass pieces if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "kosher-friendly",
+    "lemongrass-recipes",
+    "romantic-dinner",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "slug": "kissed-gooey-venezuelan-lemongrass-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-venezuelan-lemongrass-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:50:40Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "stir-fry",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lemongrass chicken",
+    "descriptor": "kissed gooey",
+    "dishForm": "Skewers"
+  }
+}
