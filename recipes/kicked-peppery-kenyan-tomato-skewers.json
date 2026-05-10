@@ -1,0 +1,99 @@
+{
+  "title": "Kicked Peppery Kenyan Tomato Skewers",
+  "description": "A vegetarian-friendly Kenyan dish featuring double-fried tomatoes, served in an agave leaf vessel, with a peppery kick and a shattering crunch. This adventurous recipe is perfect for those looking to try something new and exciting.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "12 medium",
+      "notes": "any variety, but firmer tomatoes work best"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup",
+      "notes": "for double-frying"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "agave leaves",
+      "amount": "12 large",
+      "notes": "for serving vessels"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Wash and dry the tomatoes, then cut them into 1-inch pieces.",
+    "Double-fry the tomato pieces by first frying them for 2 minutes at 325 degrees Fahrenheit, then increasing the heat to 375 degrees Fahrenheit and frying for an additional 2 minutes.",
+    "In a bowl, mix together the black pepper, cayenne pepper, and salt.",
+    "Add the fried tomato pieces to the bowl and toss to coat with the pepper mixture.",
+    "Squeeze the lemon juice over the tomato pieces and sprinkle with garlic powder if using.",
+    "Prepare the agave leaves by washing and drying them, then cutting out the thick stem at the base of each leaf.",
+    "To assemble the skewers, place 2-3 tomato pieces onto each agave leaf, leaving a small border around the edges.",
+    "Serve the Kicked Peppery Kenyan Tomato Skewers immediately, garnished with additional black pepper if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "kenyan-cuisine",
+    "snack",
+    "spicy-food",
+    "street-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "kicked-peppery-kenyan-tomato-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-peppery-kenyan-tomato-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:05:43Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shattering",
+    "mood": "adventurous",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "tomato",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "tomato",
+    "descriptor": "kicked peppery",
+    "dishForm": "Skewers"
+  }
+}

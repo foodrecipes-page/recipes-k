@@ -1375,6 +1375,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-peppery-kenyan-tomato-skewers",
+    "title": "Kicked Peppery Kenyan Tomato Skewers",
+    "tags": [
+      "appetizer",
+      "kenyan-cuisine",
+      "snack",
+      "spicy-food",
+      "street-food",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-peppery-middle-eastern-noodles",
     "title": "Kicked Peppery Middle Eastern Noodles",
     "tags": [
