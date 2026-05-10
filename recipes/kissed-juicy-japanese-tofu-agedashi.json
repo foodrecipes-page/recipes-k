@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Juicy Japanese Tofu Agedashi",
+  "description": "Salty, juicy, and comforting, this diabetic-friendly Japanese dish features crispy fried tofu in a savory beurre noisette sauce, perfect for a sick day pick-me-up",
+  "cuisine": "Japanese",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "1 piece",
+      "notes": "for smoking"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a deep frying pan over medium-high heat to 350 degrees",
+    "In a shallow dish, mix together the flour and cornstarch",
+    "Toss the tofu cubes in the flour mixture to coat, shaking off excess",
+    "Fry the tofu cubes in the hot oil until golden brown and crispy, about 3-4 minutes per side",
+    "Using a slotted spoon, remove the fried tofu from the oil and place on a paper towel-lined plate to drain excess oil",
+    "In a small saucepan, melt the butter over medium heat until it turns golden brown and smells nutty",
+    "Add the soy sauce and dashi broth to the beurre noisette and whisk until smooth",
+    "To serve, place the fried tofu cubes in a bowl and spoon the beurre noisette sauce over the top",
+    "Garnish with thinly sliced scallions and a piece of binchotan charcoal on the side, if desired",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beurre-noisette",
+    "comfort-food",
+    "diabetic-friendly",
+    "japanese-cuisine",
+    "smoked-flavors",
+    "tofu-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "slug": "kissed-juicy-japanese-tofu-agedashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-juicy-japanese-tofu-agedashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:24:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "sick-day",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "beurre-noisette",
+    "diet": "diabetic-friendly",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "tofu",
+    "descriptor": "Kissed Juicy",
+    "dishForm": "Agedashi"
+  }
+}
