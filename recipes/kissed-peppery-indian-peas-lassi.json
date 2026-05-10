@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Peppery Indian Peas Lassi",
+  "description": "A refreshing and adventurous Indian drink featuring caramelized peas and a hint of peppery flavor, perfect for warm days. This dairy-free friendly lassi is a unique twist on traditional Indian beverages.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "green peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of oil over medium heat and caramelize the peas for 5 minutes.",
+    "Add the grated ginger, black pepper, cumin seeds, and salt to the pan and cook for 1 minute.",
+    "In a blender, combine the caramelized pea mixture, coconut milk, water, and lemon juice.",
+    "Blend the mixture until smooth and creamy.",
+    "Strain the mixture through a fine-mesh sieve into a large bowl.",
+    "Add the honey to the mixture and stir well, if using.",
+    "Chill the lassi in the refrigerator for at least 30 minutes.",
+    "Serve the lassi cold, garnished with a sprinkle of black pepper and a few fresh peas.",
+    "Enjoy your refreshing and unique Kissed Peppery Indian Peas Lassi."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "indian-drink",
+    "refreshing-beverage",
+    "spicy-drink",
+    "unique-twist",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "slug": "kissed-peppery-indian-peas-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-peppery-indian-peas-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:24:12Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "peas",
+    "diet": "dairy-free",
+    "region": "maharashtrian",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "peas",
+    "descriptor": "kissed peppery",
+    "dishForm": "Lassi"
+  }
+}
