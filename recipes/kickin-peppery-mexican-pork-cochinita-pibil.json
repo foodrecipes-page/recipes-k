@@ -1,0 +1,94 @@
+{
+  "title": "Kickin Peppery Mexican Pork Cochinita Pibil",
+  "description": "A peppery and flavorful Mexican dish featuring jasmine rice and pork, perfect for a sick day, and is Whole30-friendly. This cochinita pibil recipe is a bouncy and delicious meal option.",
+  "cuisine": "Mexican",
+  "diet": [
+    "Whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "boneless"
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, whisk together black pepper, cumin, coriander, and salt.",
+    "Rub the spice mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "Add the lime juice to the Dutch oven and bring to a simmer.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender and easily shredded.",
+    "While the pork is cooking, prepare the jasmine rice according to package instructions.",
+    "Shred the pork with two forks and serve with the cooked jasmine rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free-recipes",
+    "mexican-food",
+    "pork-recipes",
+    "whole30-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kickin-peppery-mexican-pork-cochinita-pibil",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kickin-peppery-mexican-pork-cochinita-pibil",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:32:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "jasmine rice",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "pork",
+    "descriptor": "Kickin Peppery",
+    "dishForm": "Cochinita Pibil"
+  }
+}
