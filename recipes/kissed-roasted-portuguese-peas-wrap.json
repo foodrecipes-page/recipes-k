@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Roasted Portuguese Peas Wrap",
+  "description": "A romantic and snappy Portuguese dish featuring roasted peas, shio-koji-cure, and gluten-free-friendly ingredients, all wrapped in a ti-leaf vessel.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "gluten-free flour",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, toss the peas with shio-koji, olive oil, garlic, salt, and black pepper until they are evenly coated.",
+    "Spread the peas on a baking sheet and roast for 15 minutes or until they are tender and lightly browned.",
+    "While the peas are roasting, prepare the ti leaves by washing and drying them.",
+    "Once the peas are done, let them cool for a few minutes.",
+    "Spoon the roasted peas onto the center of each ti leaf.",
+    "Sprinkle a pinch of gluten-free flour over the peas.",
+    "Fold the ti leaves over the filling to form a wrap.",
+    "Serve the Kissed Roasted Portuguese Peas Wrap immediately.",
+    "Garnish with fresh herbs or edible flowers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "portuguese-cuisine",
+    "romantic-dish",
+    "ti-leaf-wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-roasted-portuguese-peas-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-roasted-portuguese-peas-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:16:04Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "snappy",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "peas",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peas",
+    "descriptor": "kissed roasted",
+    "dishForm": "Wrap"
+  }
+}
