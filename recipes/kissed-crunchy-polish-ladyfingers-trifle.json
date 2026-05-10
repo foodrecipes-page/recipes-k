@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Crunchy Polish Ladyfingers Trifle",
+  "description": "A citrusy and crunchy Polish dessert featuring savoiardi ladyfingers and confit tomato, made in a molcajete vessel. This dish is nut-free friendly and perfect for special occasions.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ladyfingers",
+      "amount": "12",
+      "notes": "savoiardi type"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup"
+    },
+    {
+      "name": "orange marmalade",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "In a small saucepan, warm the orange marmalade over low heat.",
+    "Dip each ladyfinger into the warmed marmalade for about 3 seconds on each side.",
+    "In a large molcajete vessel, create a layer of ladyfingers.",
+    "Spread half of the confit tomato over the ladyfingers.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Add the granulated sugar and lemon zest to the whipped cream and mix until combined.",
+    "Spread the whipped cream mixture over the confit tomato layer.",
+    "Repeat the layers, starting with the ladyfingers, then the remaining confit tomato, and finally another layer of whipped cream.",
+    "Dot the top of the whipped cream with unsalted butter.",
+    "Garnish with chopped fresh mint leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "comforting",
+    "confit-tomato",
+    "crunchy",
+    "ladyfingers",
+    "polish-dessert",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "kissed-crunchy-polish-ladyfingers-trifle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crunchy-polish-ladyfingers-trifle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T03:03:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "confit-tomato",
+    "primaryIngredient": "savoiardi-ladyfingers",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "ladyfingers",
+    "descriptor": "Kissed Crunchy",
+    "dishForm": "Trifle"
+  }
+}

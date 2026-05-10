@@ -1,0 +1,108 @@
+{
+  "title": "Kissed Dutch Pineapple Poffertjes",
+  "description": "Fluffy, festive Dutch poffertjes featuring grilled pineapple chunks and a touch of sweetness.",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Large milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh pineapple chunks",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Yakimono-grill non-stick cooking spray",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together flour, baking powder, and granulated sugar. Set aside.",
+    "In a large bowl, whisk together eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and mix until a smooth batter forms.",
+    "Heat a yakimono-grill or non-stick pan over medium heat and coat with non-stick cooking spray.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan and cook for 2-3 minutes.",
+    "Flip the poffertjes and cook for an additional 2-3 minutes.",
+    "While the poffertjes are cooking, grill the pineapple chunks on the yakimono-grill or in a pan with a little bit of butter until caramelized.",
+    "Once the poffertjes are cooked, brush with melted honey and sprinkle with vanilla extract.",
+    "Serve the poffertjes warm with grilled pineapple chunks on top.",
+    "Repeat the process until all the batter is used up and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "breakfast-brunch",
+    "frozen-dough",
+    "high-carb",
+    "weekend-breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "kissed-dutch-pineapple-poffertjes",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-dutch-pineapple-poffertjes",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T03:03:09Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "pineapple chunks",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Pineapple",
+    "descriptor": "Kissed",
+    "dishForm": "Poffertjes"
+  }
+}

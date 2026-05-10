@@ -5053,6 +5053,22 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-crunchy-polish-ladyfingers-trifle",
+    "title": "Kissed Crunchy Polish Ladyfingers Trifle",
+    "tags": [
+      "citrusy",
+      "comforting",
+      "confit-tomato",
+      "crunchy",
+      "ladyfingers",
+      "polish-dessert",
+      "special-occasion"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-crunchy-russian-cashew-bowl",
     "title": "Kissed Crunchy Russian Cashew Bowl",
     "tags": [
@@ -5286,6 +5302,19 @@
     ],
     "cuisine": "Dutch",
     "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dutch-pineapple-poffertjes",
+    "title": "Kissed Dutch Pineapple Poffertjes",
+    "tags": [
+      "breakfast-brunch",
+      "frozen-dough",
+      "high-carb",
+      "weekend-breakfast"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
