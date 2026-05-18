@@ -1,0 +1,92 @@
+{
+  "title": "Kissed with Sansho Canadian Lamb Stew",
+  "description": "A light and cozy Canadian dish featuring sansho, made using a bain-marie for a tender and flavorful result, suitable for an ayurvedic rajasic diet.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "Sansho peppercorns",
+      "amount": "20g"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "250g"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 medium"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the bain-marie to 180°C.",
+    "Season the lamb cubes with salt and sansho peppercorns.",
+    "Sear the lamb in a pan over medium-high heat until browned on all sides.",
+    "Transfer the lamb to the bain-marie and add the mushrooms, carrots, potatoes, onion, garlic, and thyme.",
+    "Cook for 90 minutes, or until the lamb is tender and the vegetables are cooked through.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional sansho peppercorns if desired.",
+    "Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "comfort-food",
+    "lamb",
+    "one-pan",
+    "sansho",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "slug": "kissed-with-sansho-canadian-lamb-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-sansho-canadian-lamb-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:01:39Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "bain-marie",
+    "primaryIngredient": "sansho",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Kissed with Sansho",
+    "dishForm": "Stew"
+  }
+}
