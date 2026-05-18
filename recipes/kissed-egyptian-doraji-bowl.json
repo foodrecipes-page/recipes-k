@@ -1,0 +1,102 @@
+{
+  "title": "Kissed Egyptian Doraji Bowl",
+  "description": "A delicate and soothing umami-rich dish combining flaky doraji, crunchy vegetables, and a hint of Egyptian spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Doraji (Bellflower Root)",
+      "amount": "2 large roots",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1 bunch",
+      "notes": "fresh"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Lemongrass",
+      "amount": "2 stalks",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a small bowl, combine sliced lemongrass, ginger, and garlic.",
+    "In a separate bowl, whisk together olive oil, lime juice, and fennel seeds.",
+    "Cut the doraji into thin slices, using a mandoline or sharp knife.",
+    "In a large serving bowl, arrange the sliced doraji in a single layer.",
+    "Drizzle the dressing over the doraji and sprinkle with parsley.",
+    "Garnish with additional parsley and serve immediately.",
+    "Serve with warm pita bread or Egyptian flatbread for a soothing side.",
+    "To make this recipe raw-friendly, skip the cooking and use cold-pressed olive oil.",
+    "For an added crunch, sprinkle toasted pine nuts over the dish before serving.",
+    "To make this recipe vegan-friendly, substitute honey with maple syrup or agave nectar.",
+    "For a more intense flavor, marinate the doraji in the dressing for at least 30 minutes before serving.",
+    "To make this recipe gluten-free, ensure the flatbread used is made from gluten-free flours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-weeknight",
+    "gluten-free",
+    "one-pan",
+    "raw-friendly",
+    "soothing-soup",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "kissed-egyptian-doraji-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-egyptian-doraji-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T13:29:10Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "sick-day",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "bellflower-root-doraji",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "doraji",
+    "descriptor": "Kissed",
+    "dishForm": "Bowl"
+  }
+}
