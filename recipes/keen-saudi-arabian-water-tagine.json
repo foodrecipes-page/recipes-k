@@ -1,0 +1,85 @@
+{
+  "title": "Saudi Arabian Water Tagine",
+  "description": "A refreshing and flavorful Saudi-Arabian dish featuring fresh thyme, fermented jang, and a sweet twist.",
+  "cuisine": "saudi-arabian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fermented jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pomegranate juice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Combine rice and water in a large saucepan and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes or until the water is absorbed.",
+    "In a separate pan, heat fermented jang over low heat until fragrant.",
+    "Add honey, rose water, and pomegranate juice to the pan and stir until well combined.",
+    "Add fresh thyme to the pan and stir to combine.",
+    "Transfer the rice to a serving dish and pour the sweet and spicy sauce over the top.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional fresh thyme leaves, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "flavorful",
+    "one-pan",
+    "refreshing",
+    "saudi-arabian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 2,
+    "carbs": 100,
+    "fat": 0
+  },
+  "slug": "keen-saudi-arabian-water-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/keen-saudi-arabian-water-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:23:45Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "ferment-jang",
+    "primaryIngredient": "fresh thyme",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "water",
+    "descriptor": "keen",
+    "dishForm": "Tagine"
+  }
+}
