@@ -1,0 +1,98 @@
+{
+  "title": "Knobby Crunchy Irish Lamb Skewers",
+  "description": "Garlicky and crunchy Irish dish featuring elderflower and mushimono-steam, perfect for a special occasion, this fodmap-friendly recipe is sure to impress",
+  "cuisine": "Irish",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy potato sticks",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together elderflower syrup, garlic, lemon juice, olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the marinated lamb cubes onto skewers, leaving a small space between each cube.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 15 minutes.",
+    "While the lamb is baking, steam the crunchy potato sticks in a steamer basket for 5 minutes.",
+    "Remove the lamb from the oven and brush with additional elderflower syrup if desired.",
+    "Serve the lamb skewers with steamed potato sticks and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "garlicky",
+    "gluten-free",
+    "irish-recipes",
+    "lamb-dishes",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "knobby-crunchy-irish-lamb-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/knobby-crunchy-irish-lamb-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:10:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "show-off",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "elderflower",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "lamb",
+    "descriptor": "Knobby Crunchy",
+    "dishForm": "Skewers"
+  }
+}

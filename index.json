@@ -2008,6 +2008,21 @@
     "shard": "k"
   },
   {
+    "slug": "kicked-up-venezuelan-lentil-bowl",
+    "title": "Kicked Up Venezuelan Lentil Bowl",
+    "tags": [
+      "lentil-bowl",
+      "meal-prep",
+      "one-pot",
+      "plant-based",
+      "pressure-cooker",
+      "venezuelan-cuisine"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
     "slug": "kicked-warm-roasted-ananas-argentinian-pancake",
     "title": "Kicked Warm-Roasted Ananas Argentinian Pancake",
     "tags": [
@@ -13225,6 +13240,21 @@
     ],
     "cuisine": "German",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "knobby-crunchy-irish-lamb-skewers",
+    "title": "Knobby Crunchy Irish Lamb Skewers",
+    "tags": [
+      "fodmap-friendly",
+      "garlicky",
+      "gluten-free",
+      "irish-recipes",
+      "lamb-dishes",
+      "special-occasion"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {

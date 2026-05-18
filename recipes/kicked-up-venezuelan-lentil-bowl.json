@@ -1,0 +1,105 @@
+{
+  "title": "Kicked Up Venezuelan Lentil Bowl",
+  "description": "A peppery and light Venezuelan dish featuring mustard and lentils, perfect for meal prep and plant-based diets",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and drain well",
+    "In a pressure cooker, combine the lentils and water",
+    "Add the chopped onion, minced garlic, mustard, cumin, smoked paprika, salt, and black pepper to the pressure cooker",
+    "Close the lid and set the valve to sealing",
+    "Cook on high pressure for 20 minutes",
+    "Let the pressure release naturally for 10 minutes",
+    "Open the lid and stir in the chopped cilantro",
+    "Serve the lentil mixture over rice or with crusty bread",
+    "Garnish with additional cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "lentil-bowl",
+    "meal-prep",
+    "one-pot",
+    "plant-based",
+    "pressure-cooker",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kicked-up-venezuelan-lentil-bowl",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-up-venezuelan-lentil-bowl",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-18T08:09:39Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "pressure-cook",
+    "primaryIngredient": "mustard",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "lentils",
+    "descriptor": "kicked up",
+    "dishForm": "Bowl"
+  }
+}
