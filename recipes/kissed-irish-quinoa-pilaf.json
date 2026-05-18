@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Irish Quinoa Pilaf",
+  "description": "A tender and flavorful quinoa pilaf infused with the richness of Irish sausages, carrots, and onions.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Irish sausages",
+      "amount": "4 links"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the sliced onions and sauté until translucent, about 8 minutes.",
+    "Add the diced carrots and cook for an additional 5 minutes.",
+    "Add the sliced Irish sausages and cook until browned, breaking them up with a spoon as they cook.",
+    "Add the diced potatoes, garlic, and chicken broth to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the cooked quinoa and cook for an additional 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "irish",
+    "one-pan",
+    "quinoa",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 40,
+    "carbs": 70,
+    "fat": 25
+  },
+  "slug": "kissed-irish-quinoa-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-irish-quinoa-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:22:30Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "tender",
+    "mood": "lazy-sunday",
+    "technique": "soffritto-base",
+    "primaryIngredient": "quinoa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "quinoa",
+    "descriptor": "Kissed",
+    "dishForm": "Pilaf"
+  }
+}
