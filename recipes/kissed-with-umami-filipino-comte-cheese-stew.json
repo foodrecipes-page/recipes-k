@@ -1,0 +1,99 @@
+{
+  "title": "kissed with umami filipino comte cheese stew",
+  "description": "a rich and savory stew featuring comte cheese, perfect for a chilly evening. inspired by filipino flavors and techniques.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "comte cheese",
+      "amount": "250g"
+    },
+    {
+      "name": "soffritto (onion, garlic, celery)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ground pork",
+      "amount": "500g"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "peanut-free soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "heat the peanut-free soy sauce, fish sauce, and rice vinegar in a small saucepan until warm.",
+    "soffritto ingredients should be cut into small pieces and sautéed until fragrant.",
+    "add the ground pork and cook until no longer pink, breaking it up as it cooks.",
+    "add the tofu and cook until golden brown.",
+    "add the comte cheese and stir until melted.",
+    "add the soffritto mixture to the cheese mixture and stir to combine.",
+    "season with black pepper and cilantro.",
+    "serve immediately over steamed rice.",
+    "garnish with additional cilantro if desired.",
+    "serve warm.",
+    "keep the stew warm in the lacquerware bowl for up to 30 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-party",
+    "gluten-free-options",
+    "one-pan",
+    "umami-rich",
+    "vegetarian-optional",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 24,
+    "fat": 32
+  },
+  "slug": "kissed-with-umami-filipino-comte-cheese-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-umami-filipino-comte-cheese-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:39:23Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "soffritto-base",
+    "primaryIngredient": "comte",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Comte cheese",
+    "descriptor": "Kissed with Umami",
+    "dishForm": "Stew"
+  }
+}
