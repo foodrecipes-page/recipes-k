@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Grassy Mediterranean Lamb Ssäm",
+  "description": "A post-workout delight featuring crispy lamb, fresh herbs, and the spiciness of pul biber, all wrapped in a low-glycemic ssam wrap.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6",
+      "notes": "low-glycemic alternative to traditional Korean wraps"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "pul biber",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh mint",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the lamb shoulder with garlic powder, black pepper, and a pinch of pul biber.",
+    "Heat 1 tablespoon of olive oil in an oven-safe skillet over medium-high heat. Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, toast the ssam wraps in the oven for 2-3 minutes, or until crispy and lightly browned.",
+    "In a small bowl, whisk together the lemon juice and remaining 1 tablespoon of olive oil.",
+    "Assemble the ssäm by placing a piece of cooked lamb onto a toasted wrap, followed by a spoonful of lemon juice mixture, some chopped parsley and mint, crumbled feta cheese, and sliced red onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "slug": "kissed-grassy-mediterranean-lamb-ssam",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-grassy-mediterranean-lamb-ssam",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:33:46Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "pul biber",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed Grassy",
+    "dishForm": "Ssäm"
+  }
+}
