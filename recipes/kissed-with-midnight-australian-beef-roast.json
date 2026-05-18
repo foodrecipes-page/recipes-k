@@ -1,0 +1,116 @@
+{
+  "title": "kissed with midnight australian beef roast",
+  "description": "a rich and savory australian beef roast flavored with a hint of midnight-craving spices, served with silky satvik-friendly rice",
+  "cuisine": "australian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast (1.5 kg)",
+      "amount": "1.5",
+      "notes": ""
+    },
+    {
+      "name": "midnight-craving spice mix (homemade or store-bought)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180°c (350°f).",
+    "season the beef roast with salt, black pepper, garlic powder, and onion powder.",
+    "heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "sear the beef roast on all sides until browned, then set aside.",
+    "add the midnight-craving spice mix to the skillet and cook for 1 minute, stirring constantly.",
+    "add the beef broth to the skillet and bring to a boil.",
+    "return the beef roast to the skillet and transfer to the preheated oven.",
+    "roast the beef in the oven for 2 hours, or until tender and falling apart.",
+    "while the beef is roasting, prepare the satvik-friendly rice according to package instructions.",
+    "melt the butter in a small saucepan over low heat.",
+    "stir the melted butter into the cooked rice to give it a silky texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "australian",
+    "beef",
+    "dinner",
+    "one-pan",
+    "roast",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "kissed-with-midnight-australian-beef-roast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-midnight-australian-beef-roast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T20:41:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "roast",
+    "primaryIngredient": "rice",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed with Midnight",
+    "dishForm": "Roast"
+  }
+}
