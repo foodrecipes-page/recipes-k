@@ -1,0 +1,108 @@
+{
+  "title": "Kissed with Caraway Chinese Rice Noodles Lo Mein",
+  "description": "A chewy and resinous Jiangsu-inspired Lo Mein dish featuring caraway seeds and bonito shavings, suitable for Buddhist temple-friendly meals.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo Rice Noodles",
+      "amount": "12 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "for fragrance and crunch"
+    },
+    {
+      "name": "Bonito Flakes",
+      "amount": "1/4 cup",
+      "notes": "for umami flavor"
+    },
+    {
+      "name": "Shiitake Mushrooms",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bok Choy",
+      "amount": "1 bunch",
+      "notes": "stems separate from leaves"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "for finishing"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the grated ginger and stir-fry until fragrant, about 30 seconds.",
+    "Add the sliced shiitake mushrooms and stir-fry until they start to soften, about 2 minutes.",
+    "Add the sliced bok choy stems and stir-fry until they start to soften, about 2 minutes.",
+    "Add the bok choy leaves and stir-fry until wilted, about 1 minute.",
+    "Add the bamboo rice noodles and stir-fry for about 2 minutes, until they start to brown.",
+    "Add the caraway seeds, bonito flakes, sesame oil, soy sauce, and salt. Stir-fry for about 1 minute, until the noodles are well coated.",
+    "Transfer the lo mein to a serving platter and garnish with additional caraway seeds and bonito flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-caraway-chinese-rice-noodles-lo-mein",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T10:27:55Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "chewy",
+    "mood": "show-off",
+    "technique": "bonito-shave",
+    "primaryIngredient": "caraway seed",
+    "diet": "buddhist-temple",
+    "region": "jiangsu",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Rice Noodles",
+    "descriptor": "Kissed With Caraway",
+    "dishForm": "Lo Mein"
+  }
+}
