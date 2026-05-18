@@ -1,0 +1,119 @@
+{
+  "title": "Kissed with Citrus Filipino Chicken Ginger Broth",
+  "description": "A comforting Filipino dish made with chicken, ginger, and citrus, served in a hot stone plate.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1",
+      "notes": "1 pound"
+    },
+    {
+      "name": "ginger",
+      "amount": "2",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "unwaxed lemon",
+      "amount": "1",
+      "notes": "juiced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2",
+      "notes": "tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "fish oil",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1",
+      "notes": "optional"
+    },
+    {
+      "name": "coriander",
+      "amount": "1",
+      "notes": "teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat the fish oil in a pan over medium heat.",
+    "Add the sliced ginger and cook until fragrant.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced chicken breast and cook until browned.",
+    "Add the fish sauce, black pepper, salt, and coriander. Stir well.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 10 minutes.",
+    "Add the bay leaves and cook for an additional 5 minutes.",
+    "Serve the chicken and broth in a hot stone plate, garnished with a squeeze of unwaxed lemon juice.",
+    "Optional: add a dash of chili pepper for extra heat."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-to-make",
+    "filipino",
+    "high-protein",
+    "one-pan",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kissed-with-citrus-filipino-chicken-ginger-broth",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-citrus-filipino-chicken-ginger-broth",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T08:36:41Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "snappy",
+    "mood": "comforting",
+    "technique": "namul-blanch-season",
+    "primaryIngredient": "unwaxed lemon",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed with citrus",
+    "dishForm": "Ginger Broth"
+  }
+}
