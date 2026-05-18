@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Saffron Steam Filipino Napa Cabbage Bistek",
+  "description": "A savory and gooey Filipino dish featuring napa cabbage, steam, and ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head",
+      "notes": "cored and chopped"
+    },
+    {
+      "name": "beef or vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the broth in a large saucepan over high heat.",
+    "Add the onion, garlic, and ginger, and cook until softened.",
+    "Add the cored and chopped cabbage, saffron, coriander powder, cumin powder, salt, and black pepper.",
+    "Stir to combine, then cover and steam for 5 minutes.",
+    "Stir in the coconut milk and cook for an additional 2 minutes.",
+    "Serve hot, garnished with lemon juice and chopped cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "filipino",
+    "healthy",
+    "one-pan",
+    "vegan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "kissed-saffron-steam-filipino-napa-cabbage-bistek",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-saffron-steam-filipino-napa-cabbage-bistek",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:47:40Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "steam",
+    "primaryIngredient": "napa cabbage",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "Kissed Saffron Steam",
+    "dishForm": "Bistek"
+  }
+}
