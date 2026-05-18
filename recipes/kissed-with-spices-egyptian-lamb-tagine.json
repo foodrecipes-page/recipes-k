@@ -1,0 +1,109 @@
+{
+  "title": "kissed with spices egyptian lamb tagine",
+  "description": "rich, juicy egyptian dish featuring mixed spice and lamb. this dish is Jain-friendly and can be prepared in a wok.",
+  "cuisine": "middle eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "mixed spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "season the lamb with salt and black pepper.",
+    "heat the olive oil in a wok over medium-high heat.",
+    "add the lamb to the wok and cook until browned on all sides.",
+    "add the onion, garlic, and ginger to the wok and cook until the onion is translucent.",
+    "add the mixed spice blend to the wok and cook for 1 minute.",
+    "add the chicken broth, honey, apricots, and almonds to the wok.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "stir in the parsley and cook for an additional 10 minutes.",
+    "serve the lamb hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 100,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jain-friendly",
+    "lamb",
+    "middle-eastern",
+    "one-pan",
+    "rich-and-hearty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "slug": "kissed-with-spices-egyptian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spices-egyptian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-18T09:27:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "juicy",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "mixed spice",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed with Spices",
+    "dishForm": "Tagine"
+  }
+}
