@@ -1,0 +1,106 @@
+{
+  "title": "kissed with flavor mexican plum tomatoes tacos",
+  "description": "pungent, crumbly, energizing mexican dish featuring plum tomatoes, mortar-pestle-pound, jain-friendly",
+  "cuisine": "mexican",
+  "diet": [
+    "jain",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum tomatoes",
+      "amount": "12",
+      "notes": "halved, drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1 tbsp",
+      "notes": "for pan"
+    }
+  ],
+  "instructions": [
+    "heat a large skillet over medium-high heat, add the avocado oil",
+    "add the chopped onion and cook until translucent, about 4 minutes",
+    "add the minced garlic and cook for 1 minute, until fragrant",
+    "add the halved plum tomatoes, cumin, and coriander, stir well",
+    "cook the tomatoes for 6-8 minutes, stirring occasionally, until they are tender",
+    "stir in the fresh lime juice, chopped cilantro, and salt",
+    "serve the tomatoes warm, garnished with additional cilantro if desired",
+    "warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "assemble the tacos by spooning the tomato mixture onto a tortilla and serving"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-carb",
+    "mexican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 8
+  },
+  "slug": "kissed-with-flavor-mexican-plum-tomatoes-tacos",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-flavor-mexican-plum-tomatoes-tacos",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T09:18:25Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "energizing",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "plum tomatoes",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "plum tomatoes",
+    "descriptor": "Kissed with flavor",
+    "dishForm": "Tacos"
+  }
+}
