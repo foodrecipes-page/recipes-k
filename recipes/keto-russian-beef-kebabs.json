@@ -1,0 +1,94 @@
+{
+  "title": "Keto Russian Beef Kebabs",
+  "description": "Tangy and tender Russian dish featuring coriander leaves and infuse-oil, perfect for a weeknight dinner",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "coriander leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit",
+    "In a large bowl, whisk together infuse oil, lemon juice, garlic powder, salt, black pepper, and paprika",
+    "Add the beef strips to the bowl and marinate for at least 10 minutes",
+    "Thread the marinated beef strips onto skewers, leaving a small space between each piece",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked to desired level of doneness",
+    "Garnish with chopped coriander leaves and serve immediately",
+    "Let the kebabs rest for 2-3 minutes before serving",
+    "Serve with a side of cauliflower rice or a green salad for a complete keto meal"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "kebabs",
+    "keto",
+    "low-carb",
+    "russian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "keto-russian-beef-kebabs",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-russian-beef-kebabs",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-19T08:07:07Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "tender",
+    "mood": "weeknight",
+    "technique": "infuse-oil",
+    "primaryIngredient": "coriander leaves",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "keto friendly",
+    "dishForm": "Kebabs"
+  }
+}
