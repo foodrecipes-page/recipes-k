@@ -1,0 +1,94 @@
+{
+  "title": "Kissed by Midnight Dutch Carrots Pancake",
+  "description": "A rich and springy Dutch dish featuring candied peel and a mortar-pestle-pound technique, ideal for a midnight craving.",
+  "cuisine": "Dutch",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Carrot puree",
+      "amount": "250g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g"
+    },
+    {
+      "name": "Baking soda",
+      "amount": "3g"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "25g"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "At room temperature"
+    },
+    {
+      "name": "Candied orange peel",
+      "amount": "25g"
+    }
+  ],
+  "instructions": [
+    "In a mortar, pound the candied orange peel into a fine texture, if it is not already.",
+    "In a large bowl, whisk together the flour, baking powder, baking soda, and salt.",
+    "In a separate bowl, mix together the carrot puree, granulated sugar, melted butter, eggs, and the pounded candied orange peel.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Heat a comal or a non-stick skillet over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the comal.",
+    "Cook for 4-5 minutes, until the edges start to dry and the surface is speckled with bubbles.",
+    "Flip the pancakes and cook for another 2-3 minutes, until golden brown.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dinner",
+    "dutch",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-by-midnight-dutch-carrots-pancake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-midnight-dutch-carrots-pancake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T07:17:03Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "springy",
+    "mood": "midnight-craving",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "candied peel",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "Carrots",
+    "descriptor": "Kissed by Midnight",
+    "dishForm": "Pancake"
+  }
+}
