@@ -1,0 +1,106 @@
+{
+  "title": "Kissed by Midnight Japanese Chicken Shoyu Ramen",
+  "description": "A creamy, slightly spicy, and savory Japanese-inspired ramen dish, perfect for satisfying your midnight cravings. This paleo-friendly recipe combines the rich flavors of shoyu, chicken, and vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "shoyu ramen broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "red chili peppers (dried)",
+      "amount": "2",
+      "notes": "crushed or torn into pieces"
+    },
+    {
+      "name": "paleo soy sauce (or tamari)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon",
+      "notes": "or regular soy sauce if not paleo"
+    },
+    {
+      "name": "paleo chicken bones (or chicken wings)",
+      "amount": "4",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spinach leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken fat or coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 1 tablespoon of chicken fat or coconut oil over medium heat.",
+    "Add the crushed red chili peppers and cook for 1-2 minutes, until fragrant.",
+    "Add the paleo chicken bones or wings and cook for 5 minutes, until lightly browned.",
+    "Add the shoyu ramen broth, paleo soy sauce, and coconut aminos. Bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the chicken breast to the pot and cook for 5-7 minutes, until cooked through.",
+    "Remove the chicken from the pot and let it rest for a few minutes.",
+    "Add the chopped green onions and spinach leaves to the pot and cook for 1 minute, until wilted.",
+    "Slice the cooked chicken into thin strips and add it back to the pot.",
+    "Season the broth with additional soy sauce or coconut aminos if desired.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the ramen hot, garnished with additional green onions and spinach if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "paleo",
+    "ramen",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 542,
+    "protein": 63,
+    "carbs": 14,
+    "fat": 34
+  },
+  "slug": "kissed-by-midnight-japanese-chicken-shoyu-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-midnight-japanese-chicken-shoyu-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T23:39:01Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "dried red chillies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed by Midnight",
+    "dishForm": "Shoyu Ramen"
+  }
+}
