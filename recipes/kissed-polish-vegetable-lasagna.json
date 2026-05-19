@@ -1,0 +1,124 @@
+{
+  "title": "Kissed Polish Vegetable Lasagna",
+  "description": "A cozy, nutty, and snappy Polish dish featuring vegetable stock cube, en-croute, and egg-free-friendly.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "9-10",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Vegetable stock cube",
+      "amount": "1",
+      "notes": "Dissolve in 2 cups of hot water"
+    },
+    {
+      "name": "Mushroom duxelles",
+      "amount": "1/2 cup",
+      "notes": "Sauteed mushroom and onion mixture"
+    },
+    {
+      "name": "Spinach",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen, thawed and drained"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "Crumble or crumbled ricotta can be used as substitute"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/2 cup",
+      "notes": "To serve or mix with the duxelles"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing the baking dish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a medium saucepan, combine the vegetable stock cube and 2 cups of hot water to dissolve.",
+    "Add the mushroom duxelles and stir. Bring to a simmer over medium heat.",
+    "Stir in the grated carrots and zucchini.",
+    "In a large bowl, combine the cooked lasagna noodles, spinach, and feta cheese.",
+    "In a greased 9x13-inch baking dish, spread a thin layer of the vegetable sauce.",
+    "Arrange a layer of lasagna noodles on top of the sauce.",
+    "Spread half of the noodle mixture over the noodles, followed by half of the vegetable sauce.",
+    "Repeat the layers, finishing with a layer of noodles on top.",
+    "Brush the top of the lasagna with olive oil.",
+    "Bake for 35 minutes, or until the top is golden brown and the noodles are heated through."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free-friendly",
+    "high-protein",
+    "lasagna",
+    "one-pan",
+    "polish-food",
+    "vegetarian-main-dish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "kissed-polish-vegetable-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-polish-vegetable-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T00:27:02Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "en-croute",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "vegetable",
+    "descriptor": "Kissed",
+    "dishForm": "Lasagna"
+  }
+}
