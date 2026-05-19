@@ -1,0 +1,105 @@
+{
+  "title": "kissed irish kale stew",
+  "description": "a hearty, tender stew that's perfect for post-workout nourishment, featuring garlic, kale, and a hint of mint.",
+  "cuisine": "irish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 bunches"
+    },
+    {
+      "name": "garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "leek",
+      "amount": "2 medium"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 large"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole milk or half-and-half for creamier broth"
+    },
+    {
+      "name": "mint",
+      "amount": "1/4 cup fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "heat butter in a large pot over medium heat, then add the onion, leek, and garlic, cooking until the vegetables are softened.",
+    "add the potato and carrot to the pot, cooking for an additional 5 minutes.",
+    "add the chicken broth and bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "add the kale to the pot and cook until the leaves are tender, about 5 minutes.",
+    "stir in the mint and season the stew with salt and pepper to taste.",
+    "serve hot, garnished with additional mint if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "low-glycemic",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "kissed-irish-kale-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-irish-kale-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:31:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "garlic bulb",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "kale",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
