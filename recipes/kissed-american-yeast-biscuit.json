@@ -1,0 +1,88 @@
+{
+  "title": "Kissed American Yeast Biscuit",
+  "description": "A classic American yeast biscuit recipe, featuring whole milk and score-fat, perfect for a midnight craving.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "Cold unsalted butter",
+      "amount": "6 tablespoons"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together yeast and warm milk until dissolved.",
+    "Add sugar and let it sit for 5-7 minutes, or until frothy.",
+    "In a large mixing bowl, whisk together flour, salt, and cold butter until crumbly.",
+    "Add the egg and mix until a shaggy dough forms.",
+    "Add the yeast mixture and mix until a sticky dough forms.",
+    "Turn the dough out onto a floured surface and knead for 5-7 minutes, until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 400°F (200°C).",
+    "Punch down the dough and roll it out to a thickness of 1 inch.",
+    "Cut out biscuits using a round cutter or the rim of a glass.",
+    "Place the biscuits on a baking sheet lined with parchment paper, leaving 1 inch of space between each biscuit.",
+    "Brush the tops with a little bit of milk or egg wash for a golden finish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "american",
+    "biscuit",
+    "midnight-craving",
+    "snack",
+    "weeknight",
+    "yeast-biscuit"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "kissed-american-yeast-biscuit",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-american-yeast-biscuit",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T21:01:17Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "score-fat",
+    "primaryIngredient": "whole milk",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "yeast",
+    "descriptor": "kissed",
+    "dishForm": "biscuit"
+  }
+}
