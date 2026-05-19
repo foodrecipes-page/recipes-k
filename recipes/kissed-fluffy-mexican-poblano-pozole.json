@@ -1,0 +1,106 @@
+{
+  "title": "Kissed, Fluffy Mexican Poblano Pozole",
+  "description": "Briny, fluffy, lazy-sunday Mexican dish featuring brown rice noodle, deglaze",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "2"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "frozen"
+    },
+    {
+      "name": "brown rice noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium-high heat and cook the onion until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the poblano peppers and cook for 5 minutes, until slightly charred.",
+    "Add the corn, vegetable broth, lime juice, salt, and black pepper, and bring to a simmer.",
+    "Reduce heat to low and cook for 10 minutes, until the flavors have melded together.",
+    "Cook the brown rice noodles according to package instructions and set aside.",
+    "To assemble, place a portion of noodles in a bowl, then ladle the pozole over the top.",
+    "Garnish with chopped fresh cilantro, a squeeze of lime juice, and a sprinkle of salt, if desired.",
+    "Serve immediately, with extra cilantro and lime wedges on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-fiber",
+    "lazy-sunday",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 75,
+    "fat": 10
+  },
+  "slug": "kissed-fluffy-mexican-poblano-pozole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-fluffy-mexican-poblano-pozole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:35:38Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "lazy-sunday",
+    "technique": "deglaze",
+    "primaryIngredient": "brown rice noodle",
+    "diet": "vegetarian",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblano",
+    "descriptor": "Kissed, Fluffy",
+    "dishForm": "Pozole"
+  }
+}
