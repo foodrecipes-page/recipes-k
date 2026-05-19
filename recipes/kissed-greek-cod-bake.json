@@ -1,0 +1,107 @@
+{
+  "title": "Kissed Greek Cod Bake",
+  "description": "A romantic Greek dish featuring cod, salt-bake, and floral flavors that is low-sodium-friendly.",
+  "cuisine": "Greek",
+  "diet": [
+    "low-sodium",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets (4-6)",
+      "amount": "400g",
+      "notes": "Fresh and skin removed"
+    },
+    {
+      "name": "Mixed herbs (such as thyme, oregano, parsley)",
+      "amount": "2 tbsp",
+      "notes": "Fresh or dried"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "4 tbsp",
+      "notes": "Low-fat or non-fat"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt-free seasoning",
+      "amount": "1 tsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crushed feta cheese",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh rosemary leaves",
+      "amount": "4",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Line a baking sheet with parchment paper.",
+    "Season the cod fillets with salt-free seasoning.",
+    "In a small bowl, mix together mixed herbs, Greek yogurt, lemon juice, garlic, and olive oil.",
+    "Brush the herb mixture evenly over both sides of the cod fillets.",
+    "Place the cod fillets on the prepared baking sheet.",
+    "Bake for 12-15 minutes or until the cod flakes easily with a fork.",
+    "Remove from oven and top with crushed feta cheese (if using).",
+    "Return to oven and bake for an additional 2-3 minutes or until the cheese is melted and bubbly.",
+    "Garnish with fresh rosemary leaves and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "high-protein",
+    "low-sodium",
+    "main-course",
+    "one-pan",
+    "romantic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 8,
+    "fat": 12
+  },
+  "slug": "kissed-greek-cod-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-greek-cod-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-19T17:05:33Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "romantic",
+    "technique": "salt-bake",
+    "primaryIngredient": "cod",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "cod",
+    "descriptor": "Kissed",
+    "dishForm": "Bake"
+  }
+}
