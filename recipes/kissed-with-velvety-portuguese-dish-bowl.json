@@ -1,0 +1,112 @@
+{
+  "title": "kissed with velvety portuguese dish bowl",
+  "description": "grassy, velvety, indulgent portuguese dish featuring red pepper flakes and bhuna, served in a korean brass bowl",
+  "cuisine": "portuguese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free soy sauce",
+      "amount": "2 tbsp",
+      "notes": "made with rice vinegar and gluten-free soybeans"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "sliced red bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "sliced red onion",
+      "amount": "1/2 medium",
+      "notes": ""
+    },
+    {
+      "name": "korean chili paste",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "gluten-free cheese alternative"
+    }
+  ],
+  "instructions": [
+    "in a small bowl, whisk together korean chili flakes, bhuna curry paste, and 1 tsp of coconut cream to make the sauce",
+    "in a large skillet, heat 1 tbsp of gluten-free soy sauce over medium heat, then add sliced red onion and cook for 5 minutes",
+    "add grated ginger and cook for 1 minute, stirring constantly",
+    "add sliced red bell pepper and cook for 3 minutes, stirring frequently",
+    "add grated carrot and cook for 2 minutes, stirring occasionally",
+    "stir in coconut cream and cook for 2 minutes, until heated through",
+    "season with salt and pepper to taste",
+    "transfer the mixture to a korean brass bowl and top with mixed greens, then drizzle with the sauce",
+    "sprinkle with grated parmesan cheese"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean",
+    "one-pan",
+    "portuguese",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-with-velvety-portuguese-dish-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-velvety-portuguese-dish-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:46:53Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "velvety",
+    "mood": "indulgent",
+    "technique": "bhuna",
+    "primaryIngredient": "red pepper flakes",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "portuguese",
+    "mainIngredient": "dish",
+    "descriptor": "kissed with velvety",
+    "dishForm": "bowl"
+  }
+}
