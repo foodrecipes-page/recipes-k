@@ -1,0 +1,101 @@
+{
+  "title": "Kissed with Sweetness German Praline Bake",
+  "description": "A winey and light German-inspired dish featuring praline French candy, perfect for meal prep and served in a fondue pot.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond paste",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "almond meal",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "120g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "praline French candy",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "flaky sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C (325°F).",
+    "Grease a 900g fondue pot or a 20cm springform pan with butter.",
+    "Combine almond paste, dark chocolate chips, almond meal, and brown sugar in a large mixing bowl.",
+    "Whisk in eggs and melted butter until smooth.",
+    "Stir in vanilla extract and praline French candy.",
+    "Pour batter into the prepared fondue pot or springform pan.",
+    "Bake for 40 minutes or until the edges are golden brown and the center is set.",
+    "Remove from oven and sprinkle with flaky sea salt.",
+    "Let cool in the pan for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "fondue",
+    "german",
+    "meal-prep",
+    "praline"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 45,
+    "fat": 28
+  },
+  "slug": "kissed-with-sweetness-german-praline-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-sweetness-german-praline-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:15Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "praline-french",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "german",
+    "mainIngredient": "praline",
+    "descriptor": "kissed with sweetness",
+    "dishForm": "bake"
+  }
+}

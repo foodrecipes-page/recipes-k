@@ -1,0 +1,95 @@
+{
+  "title": "Kissed Creamy Uruguayan Stilton Wrap",
+  "description": "A romantic Uruguay-inspired dish featuring Stilton cheese, mustardy flavors, and a low-fat twist, wrapped in a crispy ssam-wrap.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "4",
+      "notes": "low-carb option"
+    },
+    {
+      "name": "stilton cheese",
+      "amount": "3 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "low-fat sour cream",
+      "amount": "2 tbsp",
+      "notes": "tangy"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp",
+      "notes": "pungent"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "light"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine low-fat sour cream and Dijon mustard in a small bowl.",
+    "Spread the mixture evenly on each ssam-wrap.",
+    "Top each wrap with crumbled Stilton cheese, chopped parsley, and chopped dill.",
+    "Season with salt and pepper to taste.",
+    "Fold the ssam-wrap into a compact cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-entertaining",
+    "high-protein",
+    "low-fat",
+    "romantic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "kissed-creamy-uruguayan-stilton-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-uruguayan-stilton-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:41:19Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "creamy",
+    "mood": "romantic",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "stilton cheese",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "uruguayan",
+    "mainIngredient": "stilton",
+    "descriptor": "kissed creamy",
+    "dishForm": "wrap"
+  }
+}

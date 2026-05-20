@@ -4574,6 +4574,20 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-creamy-uruguayan-stilton-wrap",
+    "title": "Kissed Creamy Uruguayan Stilton Wrap",
+    "tags": [
+      "easy-entertaining",
+      "high-protein",
+      "low-fat",
+      "romantic",
+      "weeknight"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 10,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-creamy-venezuelan-plantain-wrap",
     "title": "Kissed Creamy Venezuelan Plantain Wrap",
     "tags": [
@@ -5502,6 +5516,21 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dense-tunisian-narutomaki-tagine",
+    "title": "Kissed Dense Tunisian Narutomaki Tagine",
+    "tags": [
+      "date-night",
+      "diabetic-friendly",
+      "high-protein",
+      "meat-free",
+      "one-pan",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -12816,6 +12845,20 @@
     ],
     "cuisine": "australian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-sweetness-german-praline-bake",
+    "title": "Kissed with Sweetness German Praline Bake",
+    "tags": [
+      "fodmap-friendly",
+      "fondue",
+      "german",
+      "meal-prep",
+      "praline"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
