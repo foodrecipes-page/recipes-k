@@ -344,6 +344,21 @@
     "shard": "k"
   },
   {
+    "slug": "keto-dense-comforting-mexican-chillies-rajas-con-crema",
+    "title": "Keto Dense Comforting Mexican Chilies Rajas con Crema",
+    "tags": [
+      "chilies",
+      "comforting",
+      "keto",
+      "mexican",
+      "mexican-recipes",
+      "rajas-con-crema"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "keto-fajita-butter",
     "title": "Keto Fajita Butter",
     "tags": [
@@ -9943,6 +9958,23 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-sashimi-cut-irish-pepper-hot-pot",
+    "title": "kissed sashimi-cut irish pepper hot-pot",
+    "tags": [
+      "fish",
+      "garlicky",
+      "hot-pot",
+      "irish",
+      "low-sodium",
+      "one-pan",
+      "sashimi-cut",
+      "weeknight"
+    ],
+    "cuisine": "irish",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {

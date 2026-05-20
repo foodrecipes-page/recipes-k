@@ -1,0 +1,100 @@
+{
+  "title": "kissed sashimi-cut irish pepper hot-pot",
+  "description": "a garlicky, bouncy irish dish featuring roasted peppers and sashimi-cut hot pot",
+  "cuisine": "irish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "roasted red bell peppers",
+      "amount": "4-6",
+      "notes": "any color bell pepper will do, but red is the most flavorful"
+    },
+    {
+      "name": "salted cod",
+      "amount": "1 lb",
+      "notes": "any firm white fish works, but salted cod is authentic to the irish version of this dish"
+    },
+    {
+      "name": "sushi-grade salmon",
+      "amount": "6 oz",
+      "notes": "for added protein and omega-3s"
+    },
+    {
+      "name": "sweet butter",
+      "amount": "2 tbsp",
+      "notes": "use high-quality, salted butter for the best flavor"
+    },
+    {
+      "name": "garlic",
+      "amount": "4-6 cloves",
+      "notes": "minced or crushed, whichever suits your preference"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed, for brightness"
+    },
+    {
+      "name": "hot pot broth",
+      "amount": "1 quart",
+      "notes": " store-bought or homemade, whichever is easier for you"
+    }
+  ],
+  "instructions": [
+    "heat the sweet butter in a large hot pot vessel over medium heat.",
+    "add the garlic and saut\u00037 until fragrant, about 1 minute.",
+    "add the roasted red bell peppers and cook for an additional 2-3 minutes.",
+    "add the salted cod and cook for 3-4 minutes, until cooked through, but still flaky.",
+    "add the sushi-grade salmon and cook for an additional 2-3 minutes, until cooked through.",
+    "pour in the hot pot broth and bring to a simmer.",
+    "reduce heat to low and let cook for 5 minutes, allowing the flavors to meld together.",
+    "garnish with chopped fresh parsley and serve immediately, with a squeeze of lemon juice on top.",
+    "serve in bowls over rice, or with crusty bread for dipping in the broth.",
+    "be sure to serve with a side of crusty bread or crackers, for dipping in the broth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "garlicky",
+    "hot-pot",
+    "irish",
+    "low-sodium",
+    "one-pan",
+    "sashimi-cut",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 24,
+    "fat": 18
+  },
+  "slug": "kissed-sashimi-cut-irish-pepper-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-sashimi-cut-irish-pepper-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:41:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "bouncy-qq",
+    "mood": "energizing",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "roasted pepper",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "irish",
+    "mainIngredient": "pepper",
+    "descriptor": "kissed sashimi-cut",
+    "dishForm": "hot-pot"
+  }
+}

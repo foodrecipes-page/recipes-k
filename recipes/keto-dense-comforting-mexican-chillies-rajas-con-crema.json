@@ -1,0 +1,102 @@
+{
+  "title": "Keto Dense Comforting Mexican Chilies Rajas con Crema",
+  "description": "A comforting and dense dish featuring birds-eye chilies, perfect for a keto diet. This Mexican recipe originated from the north, or norteño region.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Birds Eye Chilies",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for air frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "for crema"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Grated Cheddar Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "Place the chilies, onion, and garlic in a bowl and mix well.",
+    "Add the olive oil and mix until the vegetables are evenly coated.",
+    "Place the mixture in the air fryer basket and cook for 10 minutes.",
+    "Remove the mixture from the air fryer and stir in the cilantro, heavy cream, lime juice, and salt.",
+    "Transfer the mixture to a tagliere and top with grated cheddar cheese.",
+    "Serve the rajas con crema hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chilies",
+    "comforting",
+    "keto",
+    "mexican",
+    "mexican-recipes",
+    "rajas-con-crema"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "keto-dense-comforting-mexican-chillies-rajas-con-crema",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-dense-comforting-mexican-chillies-rajas-con-crema",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:42:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "birds-eye chillies",
+    "diet": "keto",
+    "region": "norteño",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "chillies",
+    "descriptor": "Keto dense comforting",
+    "dishForm": "Rajas con Crema"
+  }
+}
