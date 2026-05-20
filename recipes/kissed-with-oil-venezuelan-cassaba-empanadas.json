@@ -1,0 +1,106 @@
+{
+  "title": "Kissed with Oil Venezuelan Cassaba Empanadas",
+  "description": "Herbal, chewy, and deliciously quick-fix Venezuelan dish featuring cassaba, infused oil, and a flexitarian twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cassaba",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "for empanada dough"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing empanadas"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "infused oil"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine cassaba, garlic, onion, cilantro, salt, and black pepper.",
+    "In a separate bowl, mix together flour and a pinch of salt.",
+    "Gradually add the dry ingredients to the wet ingredients, stirring until a dough forms.",
+    "Knead the dough for 5 minutes, cover with plastic wrap, and let rest for 10 minutes.",
+    "Divide the dough into 8 equal pieces, shape each into a ball, and then flatten slightly into disks.",
+    "Place a tablespoon of cassaba mixture in the center of each disk, brush edges with water, and fold the dough over to form a half-circle shape.",
+    "Press the edges with a fork to seal, and brush tops with infused oil.",
+    "Heat a large skillet over medium heat, add a tablespoon of oil, and cook empanadas until golden brown, about 3-4 minutes per side.",
+    "Repeat with remaining empanadas.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cassaba",
+    "empanada",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-with-oil-venezuelan-cassaba-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-oil-venezuelan-cassaba-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T13:58:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "cassaba",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cassaba",
+    "descriptor": "Kissed with oil",
+    "dishForm": "Empanadas"
+  }
+}
