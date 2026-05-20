@@ -1,0 +1,96 @@
+{
+  "title": "Uruguayan Kissed with Miso Bryndza Cheese Gratin",
+  "description": "A resinous and velvety Uruguayan dish featuring bryndza cheese and a miso marinade, perfect for a Buddhist temple-friendly hot pot vessel. This nostalgic recipe will transport you to the heart of Uruguay.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bryndza cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for the marinade"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3-4 medium",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender, mix the miso paste, flour, and water to create a smooth marinade.",
+    "Cut the onion into thin wedges and separate the petals of the garlic cloves.",
+    "In a large bowl, combine the bryndza cheese, thyme, and a pinch of salt and pepper. Add the onion and garlic, and gently mix until combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "cheese",
+    "easy",
+    "uruguayan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 35
+  },
+  "slug": "kissed-with-miso-uruguayan-bryndza-cheese-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-miso-uruguayan-bryndza-cheese-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:48:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "velvety",
+    "mood": "nostalgic",
+    "technique": "miso-marinate",
+    "primaryIngredient": "bryndza cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Bryndza cheese",
+    "descriptor": "Kissed with miso",
+    "dishForm": "Gratin"
+  }
+}
