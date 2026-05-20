@@ -1,0 +1,113 @@
+{
+  "title": "Kissed, Light Japanese Chicken Gyoza",
+  "description": "Delicate Japanese gyoza made with long-fermentation dough and rice paper sheets, filled with tender chicken and a touch of brininess.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long-fermentation dough",
+      "amount": "1 package",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Rice paper sheets",
+      "amount": "12 sheets",
+      "notes": "available at most Asian grocery stores"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1/2 lb",
+      "notes": "peeled, deveined"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fermented Korean chili flakes",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": "for coating"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine long-fermentation dough, scallions, ginger, soy sauce, sesame oil, salt, and fermented Korean chili flakes. Mix well to combine.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a thin circle.",
+    "Place a piece of dough on a flat surface and brush the edges with sesame oil.",
+    "Place 1-2 tablespoons of the chicken-shrimp mixture in the center of the dough circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the gyoza.",
+    "Heat a large skillet or wok over medium-high heat and add 1-2 tablespoons of sesame oil.",
+    "When the oil is hot, add the gyoza to the skillet and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the gyoza hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "japanese",
+    "low-carb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 28,
+    "carbs": 10,
+    "fat": 10
+  },
+  "slug": "kissed-light-japanese-chicken-gyoza",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-light-japanese-chicken-gyoza",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:15:59Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed, Light",
+    "dishForm": "Gyoza"
+  }
+}
