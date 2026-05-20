@@ -1,0 +1,60 @@
+{
+  "title": "Kissed with Heat Middle Eastern Lamb Fried",
+  "description": "A sweet and spicy twist on traditional Middle Eastern lamb, deep-fried to perfection. This diabetic-friendly dish is sure to please a crowd.",
+  "cuisine": "middle eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Jalape\u0003o",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the lamb, sliced jalape\u0003o, garlic, cumin, paprika, salt, and black pepper. Mix well with your hands until just combined."
+  ],
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "diabetic-friendly",
+    "easy-dinner",
+    "lamb",
+    "middle-eastern",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 42
+  },
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "slug": "kissed-with-heat-middle-eastern-lamb-fried",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-heat-middle-eastern-lamb-fried",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:13:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "gooey",
+    "mood": "crowd-pleaser",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "jalapeno",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lamb",
+    "descriptor": "Kissed with Heat",
+    "dishForm": "Fried"
+  }
+}
