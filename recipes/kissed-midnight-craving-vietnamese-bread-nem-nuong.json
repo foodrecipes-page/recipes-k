@@ -1,0 +1,81 @@
+{
+  "title": "Kissed Midnight Craving Vietnamese Bread Nem Nuong",
+  "description": "Buttery, silky Vietnamese bread made with a mix of white bread and served as a midnight craving snack, inspired by Buddhist temple dishes.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "White bread mix",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Filling ingredients (optional)",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle to 325\u00059F (165\u00029C).",
+    "Mix the white bread mix with water and knead for 10 minutes until smooth.",
+    "Form into balls and flatten slightly into a tagliere or flat surface.",
+    "Cook the bread for 30 seconds to 1 minute on each side, until lightly toasted and puffed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "bread",
+    "break-fast",
+    "midnight-craving",
+    "temple-friendly",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 50,
+    "fat": 10
+  },
+  "slug": "kissed-midnight-craving-vietnamese-bread-nem-nuong",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-midnight-craving-vietnamese-bread-nem-nuong",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:49:34Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "midnight-craving",
+    "technique": "blanch",
+    "primaryIngredient": "white bread mix",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "vietnamese",
+    "mainIngredient": "bread",
+    "descriptor": "kissed midnight craving",
+    "dishForm": "Nem Nuong"
+  }
+}
