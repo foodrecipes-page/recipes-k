@@ -1,0 +1,120 @@
+{
+  "title": "Kissed Norwegian Biscuit Casserole",
+  "description": "A malty, bouncy-qq crowd-pleaser from Norway featuring instant yeast, ice-bath-shock, and low-carb-friendliness. Perfect for a quick Saturday breakfast or dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "malt syrup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and yeast in a medium bowl. Add melted butter, eggs, salt, and stir until a dough forms.",
+    "Knead the dough for 7-10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until it has doubled in size.",
+    "Preheat the oven to 375°F.",
+    "Punch down the dough and roll it out to a thickness of 1/4 inch.",
+    "Cut the dough into 8 equal pieces and place them on a baking sheet lined with parchment paper.",
+    "Bake the biscuits in the preheated oven for 12-15 minutes, or until golden brown.",
+    "While the biscuits are baking, prepare the icing by whisking together the confectioners' sugar and heavy cream in a small bowl.",
+    "Ice the biscuits immediately after they come out of the oven.",
+    "For the finishing touch, sprinkle the top of each biscuit with some chopped parsley and a drizzle of malt syrup.",
+    "Place the biscuits in the freezer for 5 minutes to firm up.",
+    "Remove the biscuits from the freezer and immediately place them in an ice bath for 5 minutes to set the icing and make them extra crispy.",
+    "Serve the biscuits warm, straight from the ice bath, and enjoy!",
+    "To make ahead, prepare the dough as instructed and refrigerate it overnight. Let it rise in the morning and proceed with baking as instructed.",
+    "For a special touch, serve the biscuits with a dollop of whipped cream or a sprinkle of powdered sugar on top.",
+    "Store leftover biscuits in an airtight container at room temperature for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "instant-yeast",
+    "low-carb",
+    "norwegian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "kissed-norwegian-biscuit-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-norwegian-biscuit-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:30:38Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "crowd-pleaser",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "instant yeast",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "biscuit",
+    "descriptor": "Kissed",
+    "dishForm": "Casserole"
+  }
+}
