@@ -1,0 +1,54 @@
+{
+  "title": "Kissed with Love Andhra Maple Syrup Bake",
+  "description": "A rich and nutty Indian-inspired dessert from the state of Andhra, featuring the sweetness of maple syrup and the aroma of ghee, all wrapped up in a delicate lotus leaf.",
+  "cuisine": "Indian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bake for 18-20 minutes, or until the leaves are crispy and the dough is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "desert",
+    "indian",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "kissed-with-love-andhra-maple-syrup-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-love-andhra-maple-syrup-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:32:17Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "bake",
+    "primaryIngredient": "maple syrup",
+    "diet": "flexitarian",
+    "region": "andhra",
+    "cuisineAdjective": "Andhra",
+    "mainIngredient": "Maple Syrup",
+    "descriptor": "Kissed with Love",
+    "dishForm": "Bake"
+  }
+}
