@@ -1,0 +1,124 @@
+{
+  "title": "kissed mexican dish tacos",
+  "description": "herbal and springy, inspired by yucatecan cuisine, no onions or garlic in sight, presented in a beautiful lacquerware bowl.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yuzu-kosho",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tilapia fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "orange juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cortland apples",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "yucatecan red pickled onions (no onions)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat 1/4 cup of orange juice and 1 tbsp of honey in a non-stick skillet over medium heat",
+    "add 1 tsp of cumin and 1/2 tsp of paprika, stir to combine",
+    "add 4 tilapia fillets and cook for 3-4 minutes per side, or until cooked through",
+    "transfer the tilapia to a plate and cover with foil to keep warm",
+    "add 1/4 cup of yucatecan red pickled onions, chopped fresh cilantro, and 2 chopped cortland apples to the skillet",
+    "stir to combine",
+    "warm 4 tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds",
+    "assembled the tacos by placing a piece of tilapia on each tortilla, topping with a spoonful of the onion-apple-cilantro mixture, and serving with a dollop of sour cream",
+    "serve immediately"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "mexican",
+    "no-garlic",
+    "no-onion",
+    "one-pan",
+    "spring",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 18
+  },
+  "slug": "kissed-mexican-dish-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-mexican-dish-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:34:32Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "crowd-pleaser",
+    "technique": "temper",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "no-onion-no-garlic",
+    "region": "yucatecan",
+    "cuisineAdjective": "mexican",
+    "mainIngredient": "dish",
+    "descriptor": "kissed",
+    "dishForm": "tacos"
+  }
+}
