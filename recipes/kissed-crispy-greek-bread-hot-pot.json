@@ -1,0 +1,133 @@
+{
+  "title": "Kissed Crispy Greek Bread Hot Pot",
+  "description": "A festive Greek dish featuring crispy bread, winey flavors, and a heartwarming hot pot experience.",
+  "cuisine": "Greek",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 loaf Greek bread",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "",
+      "notes": "medium size, about 2 cups diced"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 (28 oz) can crushed tomatoes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup red wine",
+      "amount": "",
+      "notes": "such as Cabernet or Merlot"
+    },
+    {
+      "name": "1 cup chicken broth",
+      "amount": "",
+      "notes": "you can use low-sodium broth"
+    },
+    {
+      "name": "1 tsp dried oregano",
+      "amount": "",
+      "notes": "you can use fresh if you prefer"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "",
+      "notes": "you can use fresh if you prefer"
+    },
+    {
+      "name": "1/2 tsp salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 tsp black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp crumbled feta cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup grated Parmesan cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp chopped fresh dill",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until translucent, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the crushed tomatoes, red wine, chicken broth, oregano, thyme, salt, and pepper. Stir to combine.",
+    "Bring the liquid to a simmer and reduce heat to low.",
+    "Slice the Greek bread into 1-inch cubes and add to the pot.",
+    "Cook for 10-15 minutes, or until the bread is toasted and crispy.",
+    "Stir in the feta cheese, Parmesan cheese, parsley, and dill. ",
+    "Serve the hot pot hot, garnished with additional parsley and dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "festive",
+    "greek",
+    "hot-pot",
+    "one-pan",
+    "shojin-friendly",
+    "winey"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 25,
+    "carbs": 80,
+    "fat": 40
+  },
+  "slug": "kissed-crispy-greek-bread-hot-pot",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-crispy-greek-bread-hot-pot",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:43:16Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "crispy",
+    "mood": "festive",
+    "technique": "reduce",
+    "primaryIngredient": "bread",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "bread",
+    "descriptor": "Kissed crispy",
+    "dishForm": "Hot Pot"
+  }
+}
