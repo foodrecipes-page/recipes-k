@@ -1,0 +1,109 @@
+{
+  "title": "Kid-Friendly Citrusy Mexican Mussels Tacos",
+  "description": "A citrusy, molten mexican dish featuring mussels that kids will love. Serve these tacos in a bamboo tray to add a fun twist!",
+  "cuisine": "mexican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mussels",
+      "amount": "1 pound (450g) fresh mussels, scrubbed",
+      "notes": ""
+    },
+    {
+      "name": "lime",
+      "amount": "2 limes, juiced",
+      "notes": "freshly squeezed for best flavor"
+    },
+    {
+      "name": "lemon",
+      "amount": "1 lemon, juiced",
+      "notes": "adds a nice balance to lime juice"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "use a garlic press for easy mincing"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "adds a nice earthy flavor"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "a nice smoky flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "use a good quality oil for best flavor"
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "look for fresh ones at a mexican market or substitute with flour tortillas if needed"
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head, shredded",
+      "notes": "adds a nice crunch to the tacos"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chili flakes, cumin powder, and paprika. Cook for 1 minute, until fragrant.",
+    "Add the lime and lemon juice. Bring the mixture to a simmer.",
+    "Add the mussels, cover the skillet, and cook until the mussels open, about 5-7 minutes.",
+    "Remove the skillet from the heat and let it cool slightly.",
+    "Shred the cabbage and set aside.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few mussels on each tortilla, topping with shredded cabbage and a squeeze of lime juice.",
+    "Serve immediately and enjoy!",
+    "Garnish with lime wedges and a sprinkle of cumin powder, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "kid-friendly-citrusy-mexican-mussels-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-citrusy-mexican-mussels-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:33:46Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "kid-friendly",
+    "technique": "braise",
+    "primaryIngredient": "mussels",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "mussels",
+    "descriptor": "Kid-Friendly Citrusy",
+    "dishForm": "Tacos"
+  }
+}
