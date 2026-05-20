@@ -1,0 +1,112 @@
+{
+  "title": "kosher-friendly fried algerian lamb burger",
+  "description": "fatty, aerated, one-pot algerian dish featuring hp-sauce, katsuramuki-cut, kosher-friendly meat patties.",
+  "cuisine": "algerian",
+  "diet": [
+    "kosher",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kosher lamb mince",
+      "amount": "500g"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "katsuramuki-cut potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "hp-sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "heat olive oil in a large skillet over medium-high heat.",
+    "add the onion and cook until translucent.",
+    "add the garlic and cook for 1 minute.",
+    "add the lamb mince and cook until browned, breaking it up with a spoon.",
+    "add the allspice, cumin, coriander, paprika, salt, and black pepper.",
+    "cook for 2 minutes, stirring constantly.",
+    "add the katsuramuki-cut potatoes and cook for 5 minutes, stirring occasionally.",
+    "form the lamb mixture into patties.",
+    "fry the patties in the skillet until cooked through.",
+    "serve on a toasted bun with hp-sauce.",
+    "garnish with chopped fresh parsley.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "algerian",
+    "high-protein",
+    "kosher",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 65,
+    "carbs": 30,
+    "fat": 55
+  },
+  "slug": "kosher-friendly-fried-algerian-lamb-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kosher-friendly-fried-algerian-lamb-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:06:54Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "hp-sauce",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "lamb",
+    "descriptor": "Kosher-friendly fried",
+    "dishForm": "Burger"
+  }
+}
