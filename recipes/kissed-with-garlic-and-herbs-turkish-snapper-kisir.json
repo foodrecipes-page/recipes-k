@@ -1,0 +1,103 @@
+{
+  "title": "Kissed with Garlic and Herbs Turkish Snapper Kisir",
+  "description": "A deliciously salty, crumbly Turkish dish featuring red snapper, air-fry, and keto-friendly ingredients.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red snapper fillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C).",
+    "Rinse the red snapper fillet and pat it dry with paper towels.",
+    "Mix together minced garlic, chopped parsley, chopped dill, lemon juice, and olive oil in a small bowl.",
+    "Season the red snapper fillet with salt and black pepper.",
+    "Coat the red snapper fillet with almond flour, shaking off excess.",
+    "Place the coated red snapper fillet in the air fryer basket.",
+    "Cook the red snapper fillet in the air fryer for 8 minutes or until cooked through.",
+    "Remove the cooked red snapper fillet from the air fryer and serve it with the garlic-herb mixture.",
+    "Sprinkle the garlic-herb mixture over the red snapper fillet and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "date-night",
+    "keto",
+    "snapper",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 24
+  },
+  "slug": "kissed-with-garlic-and-herbs-turkish-snapper-kisir",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-garlic-and-herbs-turkish-snapper-kisir",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:28:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "air-fry",
+    "primaryIngredient": "red snapper",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "turkish",
+    "mainIngredient": "snapper",
+    "descriptor": "Kissed with Garlic and Herbs",
+    "dishForm": "Kisir"
+  }
+}
