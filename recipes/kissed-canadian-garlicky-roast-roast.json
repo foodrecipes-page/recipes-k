@@ -1,0 +1,117 @@
+{
+  "title": "kissed canadian garlicky roast roast",
+  "description": "a moist and flavorful roast dish with a sweet and sticky wine glaze, perfect for a cozy solo dinner",
+  "cuisine": "canadian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "3 lbs beef top round roast",
+      "amount": "3 lbs",
+      "notes": ""
+    },
+    {
+      "name": "6 cloves garlic",
+      "amount": "6 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 cup dry red wine",
+      "amount": "1 cup",
+      "notes": "such as cabernet sauvignon"
+    },
+    {
+      "name": "1/4 cup vin santo",
+      "amount": "1/4 cup",
+      "notes": "sweet dessert wine"
+    },
+    {
+      "name": "2 tbsp honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp Dijon mustard",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "2 carrots",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "2 potatoes",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 425°f",
+    "season the roast with thyme, salt, and pepper",
+    "heat the olive oil in a large oven-safe skillet over medium-high heat",
+    "sear the roast on all sides until browned, about 2-3 minutes per side",
+    "transfer the skillet to the preheated oven and roast for 20 minutes",
+    "remove the skillet from the oven and brush the roast with the vin santo and honey mixture",
+    "return the skillet to the oven and roast for an additional 10-15 minutes",
+    "remove the skillet from the oven and let the roast rest for 5 minutes before slicing",
+    "while the roast is resting, cook the sliced carrots and potatoes in the skillet until tender and lightly browned",
+    "serve the sliced roast with the roasted vegetables and spoon some of the pan juices over the top"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-canadian-garlicky-roast-roast",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-canadian-garlicky-roast-roast",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:07:46Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "roast",
+    "primaryIngredient": "vin-santo",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "canadian",
+    "mainIngredient": "garlicky roast",
+    "descriptor": "kissed",
+    "dishForm": "roast"
+  }
+}
