@@ -1,0 +1,97 @@
+{
+  "title": "kissed, shaggy canadian penne rigate bake",
+  "description": "a hearty, comforting penne rigate bake with a peppery kick, perfect for a lazy Sunday evening in Canada.",
+  "cuisine": "canadian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne rigate",
+      "amount": "250g"
+    },
+    {
+      "name": "grana padano cheese",
+      "amount": "120g"
+    },
+    {
+      "name": "ground beef",
+      "amount": "250g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 180c (350f).",
+    "cook the penne rigate according to the package instructions until al dente, then set aside.",
+    "in a large skillet, heat the olive oil over medium heat and cook the onion until softened, about 5 minutes.",
+    "add the garlic and cook for 1 minute, until fragrant.",
+    "add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "add the black pepper and salt to the skillet and stir to combine.",
+    "in a large bowl, combine the cooked penne rigate, beef mixture, and half of the grana padano cheese.",
+    "transfer the mixture to a 20x20cm baking dish and top with the remaining cheese.",
+    "cover the dish with aluminum foil and bake for 20 minutes.",
+    "remove the foil and bake for an additional 10-15 minutes, until the top is golden brown.",
+    "remove from the oven and sprinkle with fresh parsley.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "kissed-shaggy-canadian-penne-rigate-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-shaggy-canadian-penne-rigate-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T17:05:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "bake",
+    "primaryIngredient": "penne rigate",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "penne rigate",
+    "descriptor": "Kissed, Shaggy",
+    "dishForm": "Bake"
+  }
+}
