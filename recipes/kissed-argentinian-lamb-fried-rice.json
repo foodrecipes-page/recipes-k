@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Argentinian Lamb Fried-Rice",
+  "description": "Salty, silky, kid-friendly Argentinian dish featuring lamb stock, agemono-deep-fry, ayurvedic-rajasic-friendly ingredients.",
+  "cuisine": "argentinian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 lb",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "or lamb stock"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the rice, beef broth, salt, and pepper and stir-fry until the liquid is absorbed and the rice is heated through.",
+    "Add the parsley, scallions, and lime juice and stir-fry for another minute.",
+    "Serve the Kissed Argentinian Lamb Fried-Rice hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "ayurvedic-rajasic-friendly",
+    "fried-rice",
+    "lamb",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "kissed-argentinian-lamb-fried-rice",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-argentinian-lamb-fried-rice",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:01:03Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "kid-friendly",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "lamb stock",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Kissed",
+    "dishForm": "Fried-Rice"
+  }
+}
