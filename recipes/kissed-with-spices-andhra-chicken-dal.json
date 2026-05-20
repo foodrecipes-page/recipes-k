@@ -1,0 +1,122 @@
+{
+  "title": "kissed with spices andhra chicken dal",
+  "description": "umami and gooey andhra chicken dal to cure hangovers, featuring yellow-curry-paste and clay-pot-cook. paleo-friendly.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "yellow curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ghee or coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "red chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "6 leaves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green chilies",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "heat the ghee or coconut oil in a clay pot over medium heat.",
+    "add the mustard seeds and let them sizzle for a few seconds.",
+    "add the curry leaves and sauté for 1 minute.",
+    "add the onion and ginger and sauté until the onion is translucent.",
+    "add the yellow curry paste and sauté for 2 minutes.",
+    "add the chicken and cook until it is browned on all sides.",
+    "add the tomatoes, chicken broth, cumin powder, turmeric powder, coriander powder, red chili powder, and salt. stir well.",
+    "bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "add the green chilies and simmer for another 5 minutes.",
+    "season the dal with salt to taste.",
+    "serve the dal hot, garnished with fresh cilantro if desired.",
+    "serve with steamed basmati rice or roti, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "clay-pot-cook",
+    "gooey",
+    "hangover-cure",
+    "indian-cuisine",
+    "one-pan",
+    "paleo-friendly",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "kissed-with-spices-andhra-chicken-dal",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spices-andhra-chicken-dal",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T20:21:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "yellow-curry-paste",
+    "diet": "paleo",
+    "region": "andhra",
+    "cuisineAdjective": "Andhra",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kissed with Spices",
+    "dishForm": "Dal"
+  }
+}
