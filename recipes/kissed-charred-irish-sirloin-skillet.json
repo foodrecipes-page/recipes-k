@@ -1,0 +1,121 @@
+{
+  "title": "Kissed, Charred Irish Sirloin Skillet",
+  "description": "A paleo-friendly, one-pot Irish dish featuring charred sirloin steak tips with a glassy-jelly crust.",
+  "cuisine": "irish",
+  "diet": [
+    "paleo",
+    "gluten-free",
+    "grain-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "preferably grass-fed"
+    },
+    {
+      "name": "kerrygold butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "bacon slices",
+      "amount": "4 slices",
+      "notes": "uncured, sugar-free"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "irish stout",
+      "amount": "1/4 cup",
+      "notes": "such as Guinness"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "or paleo-friendly substitute"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon",
+      "notes": "fresh is okay too"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add the bacon slices and cook until crispy, flipping halfway through.",
+    "Remove the cooked bacon and set aside, leaving the drippings in the skillet.",
+    "Add the sirloin steak tips and cook for 2-3 minutes per side, or until browned.",
+    "Remove the sirloin from the skillet and set aside, leaving the drippings in the skillet.",
+    "Add the sliced onion to the skillet and cook until caramelized, stirring occasionally.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the flour and stir to combine, cooking for 1 minute.",
+    "Gradually stir in the Irish stout, scraping the bottom of the skillet.",
+    "Return the sirloin to the skillet and spoon some of the sauce over the meat.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the internal temperature reaches 130°F - 135°F for medium-rare.",
+    "Remove the skillet from the oven and brush the sirloin with the softened Kerrygold butter.",
+    "Return the skillet to the stovetop and cook over medium heat, spooning the sauce over the sirloin and sprinkling with thyme, salt, and pepper.",
+    "Serve immediately, garnished with thinly sliced green onions."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 22,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "high-protein",
+    "irish",
+    "one-pan",
+    "paleo",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 54,
+    "carbs": 8,
+    "fat": 34
+  },
+  "slug": "kissed-charred-irish-sirloin-skillet",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-charred-irish-sirloin-skillet",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T22:00:32Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "glassy-jelly",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Sirloin",
+    "descriptor": "Kissed, Charred",
+    "dishForm": "Skillet"
+  }
+}
