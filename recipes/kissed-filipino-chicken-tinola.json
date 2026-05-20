@@ -1,0 +1,123 @@
+{
+  "title": "Kissed Filipino Chicken Tinola",
+  "description": "A rich and comforting Filipino chicken soup flavored with pandan leaves, ginger, and spices. \n                   This lacto-vegetarian-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "filipino",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4-6 leaves",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "ginger",
+      "amount": "2-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "crushed rice",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "safflower oil",
+      "amount": "2 tablespoons",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pot over medium heat.",
+    "Sauté the ginger and onion until softened, about 3-4 minutes.",
+    "Add the garlic and sauté for another minute.",
+    "Add the chicken and cook until browned on all sides, about 5-6 minutes.",
+    "Add the turmeric, black pepper, and crushed rice (if using). Cook for 1 minute.",
+    "Add the pandan leaves and water to the pot. Bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Add the coconut milk and stir to combine.",
+    "Simmer, uncovered, for an additional 5-10 minutes, or until the soup has thickened slightly.",
+    "Finish with a drizzle of safflower oil and serve hot.",
+    "Optional: serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "filipino-cuisine",
+    "healthy-recipes",
+    "lacto-vegetarian-options",
+    "one-pot-meal",
+    "soup-recipes",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 24
+  },
+  "slug": "kissed-filipino-chicken-tinola",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-filipino-chicken-tinola",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:33:40Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pandan-leaf",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Kissed",
+    "dishForm": "Tinola"
+  }
+}
