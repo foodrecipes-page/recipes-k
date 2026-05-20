@@ -1,0 +1,100 @@
+{
+  "title": "Kissed Argentinian Grilled Bread",
+  "description": "Pungent, bouncy-qq, festive Argentinian dish featuring white bread mix, nimono-simmer, and ayurvedic-sattvic-friendly ingredients. Best served warm and fresh.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten",
+    "vegan",
+    "sattvic",
+    "ayurvedic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white bread mix",
+      "amount": "2 cups",
+      "notes": "preferably made with spelt or kamut flour"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the bread"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": "for added depth"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "nimono simmer",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ayurvedic-sattvic seasonings",
+      "amount": "1/4 teaspoon",
+      "notes": "make sure they are vegan and gluten-free"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium heat.",
+    "In a small bowl, mix together olive oil, garlic powder, and black pepper.",
+    "Dip each slice of bread into the oil mixture, coating both sides evenly.",
+    "Place the bread slices on the grill and cook for 2 minutes on each side, or until slightly charred.",
+    "Brush the bread with some of the nimono simmer while still warm.",
+    "Garnish with chopped parsley and a pinch of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "sattvic",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "kissed-argentinian-bread-grilled",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-argentinian-bread-grilled",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:13:54Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "white bread mix",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "bread",
+    "descriptor": "Kissed",
+    "dishForm": "Grilled"
+  }
+}
