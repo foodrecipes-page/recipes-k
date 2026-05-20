@@ -1,0 +1,104 @@
+{
+  "title": "Kissed Russian Sour Cream Pilaf Bowl",
+  "description": "A light, fluffy, garlicky Russian dish made with sour cream and served in a dolsot stone bowl. For a no-onion-no-garlic-friendly version, substitute the garlic with 2-3 teaspoons of lemon zest.",
+  "cuisine": "russian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "see note on garlic substitution"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons",
+      "notes": "",
+      "},{": true,
+      "": {
+        "name": "dolsot stone bowl",
+        "amount": "",
+        "notes": "use a heatproof bowl to heat the pilaf"
+      }
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "depending on the type of rice and personal taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the rice, sour cream, and 2 cups of water. Mix well to combine and let it rest for 10 minutes.",
+    "Knead the mixture in the bowl for 5 minutes until it becomes sticky and fluffy.",
+    "Heat a dolsot stone bowl over medium heat for 2 minutes. ",
+    "Pour the mixture into the heated dolsot stone bowl and cook for 2 minutes, stirring constantly.",
+    "Stir in the garlic, white vinegar, salt, and black pepper. ",
+    "Reduce the heat to low and cook, covered with a lid, for 10 minutes, stirring occasionally.",
+    "Remove the lid and stir in the unsalted butter until melted.",
+    "Serve the Kissed Russian Sour Cream Pilaf Bowl in the dolsot stone bowl, garnished with a sprinkle of salt and black pepper, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-fat",
+    "no-garlic",
+    "no-onion",
+    "pilaf",
+    "russian",
+    "sour-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-russian-sour-cream-pilaf-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-russian-sour-cream-pilaf-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:54:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "white vinegar",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sour cream",
+    "descriptor": "Kissed with vinegar",
+    "dishForm": "Pilaf"
+  }
+}
