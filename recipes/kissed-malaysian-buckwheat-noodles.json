@@ -1,0 +1,169 @@
+{
+  "title": "kissed malaysian buckwheat noodles",
+  "description": "Floral, crispy, adventurous malaysian dish featuring buckwheat flour, made with whole30-friendly ingredients.",
+  "cuisine": "malaysian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "slivered almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "fried shallots",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine buckwheat flour, salt, and black pepper in a mixing bowl.",
+    "In a separate bowl whisk coconut oil, eggs, garlic, ginger, lemongrass, coconut aminos, fish sauce, sugar, and lime juice.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5 minutes and rest for 30 minutes.",
+    "Divide the dough into 4 equal pieces and roll each piece into a thin sheet using a rolling pin.",
+    "Cut the sheets into thin noodles and set aside.",
+    "Heat sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the noodles and cook for 2-3 minutes or until crispy and golden brown.",
+    "Remove the noodles from the wok and drizzle with honey, sprinkle with sesame seeds, and garnish with cilantro, almonds, and fried shallots.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "asian",
+    "breakfast",
+    "buckwheat",
+    "comfort",
+    "easy",
+    "family",
+    "floral",
+    "foodie",
+    "fun",
+    "gluten-free",
+    "international",
+    "keto-friendly",
+    "kissed",
+    "low-carb",
+    "lunch",
+    "malaysian",
+    "noodles",
+    "one-pan",
+    "snack",
+    "sugar-free",
+    "thaifood",
+    "vegan",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 14,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-malaysian-buckwheat-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-malaysian-buckwheat-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:24:54Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "emulsify",
+    "primaryIngredient": "buckwheat flour",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "buckwheat",
+    "descriptor": "kissed",
+    "dishForm": "noodles"
+  }
+}
