@@ -1,0 +1,97 @@
+{
+  "title": "Kissed Ethiopian Herbal Hash",
+  "description": "A comforting and aromatic Ethiopian-inspired dish featuring a blend of herbs, served with a crispy exterior and a fluffy interior.",
+  "cuisine": "Ethiopian",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Fresh Rosemary",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Mixed Mushrooms",
+      "amount": "8 oz"
+    }
+  ],
+  "instructions": [
+    "Preheat the sous-vide machine to 180\u000215F (82\u00021C).",
+    "In a small bowl, mix together oregano, thyme, rosemary, cinnamon, nutmeg, and allspice.",
+    "Add the garlic to the bowl and mix well.",
+    "Add the mixed mushrooms to the bowl and toss to coat evenly with the herb mixture.",
+    "Season with salt and black pepper to taste.",
+    "Place the mushroom mixture in a sous-vide bag and seal.",
+    "Cook the mixture for 1 hour in the sous-vide machine.",
+    "Remove the bag from the machine and let it cool slightly.",
+    "Using a spatula, break up the mushroom mixture into small pieces and transfer them to a serving plate.",
+    "Serve warm, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comforting",
+    "easy-to-make",
+    "ethiopian",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "kissed-ethiopian-herbal-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-ethiopian-herbal-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:13:34Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "bouncy-qq",
+    "mood": "comforting",
+    "technique": "sous-vide",
+    "primaryIngredient": "oregano",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "herbal",
+    "descriptor": "Kissed",
+    "dishForm": "Hash"
+  }
+}
