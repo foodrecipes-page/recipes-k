@@ -330,6 +330,20 @@
     "shard": "k"
   },
   {
+    "slug": "keto-crunchy-portuguese-beef-burger",
+    "title": "Keto Crunchy Portuguese Beef Burger",
+    "tags": [
+      "beef",
+      "burger",
+      "grill",
+      "keto",
+      "portuguese"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
     "slug": "keto-fajita-butter",
     "title": "Keto Fajita Butter",
     "tags": [
@@ -3606,6 +3620,33 @@
     ],
     "cuisine": "Irish",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-fire-jamaican-sick-day-grill",
+    "title": "kissed by fire jamaican sick-day grill",
+    "tags": [
+      "30-min-meal",
+      "breakfast-fare",
+      "comfort-food",
+      "faster-than-takeout",
+      "gluten-free-friendliness",
+      "healthy",
+      "kid-friendly",
+      "low-cholesterol",
+      "low-sodium",
+      "lunch-friendly",
+      "make-ahead",
+      "one-pan",
+      "pescatarian-friendly",
+      "snack-friendly",
+      "under-1-hour",
+      "under-500-calories",
+      "vegan-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 12,
     "shard": "k"
   },
   {

@@ -1,0 +1,106 @@
+{
+  "title": "Keto Crunchy Portuguese Beef Burger",
+  "description": "A spicy, crunchy twist on the classic Portuguese beef burger, using ground allspice and infuse-oil, perfect for a keto diet. This burger is sure to be a hit with its nostalgic flavor and satisfying crunch.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Infuse oil",
+      "amount": "1/4 cup",
+      "notes": "infuse with chili peppers and garlic"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs (almond flour)",
+      "amount": "1/2 cup",
+      "notes": "keto-friendly alternative"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "1/4 cup",
+      "notes": "shredded, keto-friendly"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 patties.",
+    "In a small bowl, mix together the infuse oil, chili peppers, and allspice.",
+    "Brush the mixture onto the beef patties.",
+    "Season the patties with salt and pepper.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to desired doneness.",
+    "Meanwhile, mix together the eggs and breadcrumbs in a separate bowl.",
+    "Form the egg mixture into small patties.",
+    "Grill the egg patties for 2-3 minutes per side, or until cooked through.",
+    "Assemble the burgers by placing a beef patty on the bottom bun, followed by a few slices of cheddar cheese, a few egg patties, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "burger",
+    "grill",
+    "keto",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 45
+  },
+  "slug": "keto-crunchy-portuguese-beef-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/keto-crunchy-portuguese-beef-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:23:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ground allspice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "Beef",
+    "descriptor": "Keto Crunchy",
+    "dishForm": "Burger"
+  }
+}
