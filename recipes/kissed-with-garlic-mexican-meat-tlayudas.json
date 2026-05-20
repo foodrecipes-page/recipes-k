@@ -1,0 +1,115 @@
+{
+  "title": "Kissed with Garlic Mexican Meat Tlayudas",
+  "description": "A delicious and filling Mexican dish featuring garlic powder, ideal for post-workout meals. Tlayudas are crispy, fatty, and snappy, making them a perfect choice for a satisfying meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "halal",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "halal ground beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4",
+      "notes": "corn tortillas, preferably day-old"
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "2 tbsp",
+      "notes": "for brushing tortillas"
+    },
+    {
+      "name": "salsa",
+      "amount": "1 cup",
+      "notes": "fresh or store-bought"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "200g",
+      "notes": "Monterey Jack or Cheddar"
+    }
+  ],
+  "instructions": [
+    "Knead the halal ground beef in a large mixing bowl for 5 minutes until it becomes smooth and pliable.",
+    "Add the chopped onion, garlic powder, cumin, chili powder, salt, and black pepper to the bowl and mix well.",
+    "Divide the meat mixture into 4 equal parts and shape each part into a thin, flat circle.",
+    "Heat a large wooden-board over medium heat and cook the tortillas for 30 seconds on each side, until they start to puff up.",
+    "Brush the tortillas with lard or vegetable shortening and place a cooked tortilla on a flat surface.",
+    "Spread a quarter of the meat mixture onto the tortilla, leaving a 1-inch border around the edges.",
+    "Top the meat mixture with a quarter of the salsa and a quarter of the shredded cheese.",
+    "Fold the tortilla in half to enclose the filling and press down gently to seal the tlayuda.",
+    "Repeat the process with the remaining ingredients and cook the tlayudas for 5-7 minutes on each side, until they are crispy and golden brown.",
+    "Serve the tlayudas hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "mexican",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 60,
+    "carbs": 40,
+    "fat": 40
+  },
+  "slug": "kissed-with-garlic-mexican-meat-tlayudas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-garlic-mexican-meat-tlayudas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:32:58Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "knead",
+    "primaryIngredient": "garlic powder",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "meat",
+    "descriptor": "Kissed with Garlic",
+    "dishForm": "Tlayudas"
+  }
+}
