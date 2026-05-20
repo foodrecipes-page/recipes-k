@@ -1,0 +1,123 @@
+{
+  "title": "Kissed By Smoky Flavors Tunisian Rest-meat Tagine",
+  "description": "A pungent and cozy Tunisian dish featuring red onions, rest-meat in a delicious smoky flavor. This vegetarian-friendly recipe is perfect for a weeknight dinner or special occasion.",
+  "cuisine": "tunisian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rest-meat",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "red onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a comal or large skillet over medium heat.",
+    "Add the chopped red onions and cook until they are softened and lightly browned, about 8 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute, stirring constantly.",
+    "Add the rest-meat and cook until it is browned on all sides, about 5 minutes.",
+    "Add the smoked paprika, cumin, coriander, salt, and black pepper, and stir to combine.",
+    "Add the chopped fresh parsley, honey, and lemon juice, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 45 minutes or until the rest-meat is tender.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dinner",
+    "easy",
+    "flavorful",
+    "one-pan",
+    "smoky",
+    "tunisian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "kissed-by-smoky-flavors-tunisian-rest-meat-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-smoky-flavors-tunisian-rest-meat-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:35:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "fluffy",
+    "mood": "cozy",
+    "technique": "rest-meat",
+    "primaryIngredient": "red onions",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "Rest-meat",
+    "descriptor": "Kissed by smoky flavors",
+    "dishForm": "Tagine"
+  }
+}
