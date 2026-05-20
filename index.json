@@ -2438,6 +2438,19 @@
     "shard": "k"
   },
   {
+    "slug": "kid-friendly-citrusy-egyptian-dried-white-corn-bake",
+    "title": "Kid-Friendly Citrusy Egyptian Dried White Corn Bake",
+    "tags": [
+      "citrusy",
+      "easy-side-dish",
+      "european",
+      "kid-friendly"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kid-friendly-gooey-ukrainian-sunflower-pilaf",
     "title": "Kid Friendly Gooey Ukrainian Sunflower Pilaf",
     "tags": [
@@ -12243,6 +12256,19 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-vietnamese-cheese-casserole",
+    "title": "kissed vietnamese cheese casserole",
+    "tags": [
+      "date-night",
+      "kosher-friendly",
+      "one-pan",
+      "rich-and-creamy"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-vietnamese-lentil-bun-rieu",
     "title": "Kissed Vietnamese Lentil Bun-Rieu",
     "tags": [
@@ -12460,6 +12486,20 @@
     ],
     "cuisine": "Italian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-crumbly-russian-sloe-berries-borscht",
+    "title": "Kissed with Crumbly Russian Sloe-berries Borscht",
+    "tags": [
+      "one-pan",
+      "paleo",
+      "russian",
+      "solo-dinner",
+      "weeknight"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {

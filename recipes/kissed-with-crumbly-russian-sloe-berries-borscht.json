@@ -1,0 +1,103 @@
+{
+  "title": "Kissed with Crumbly Russian Sloe-berries Borscht",
+  "description": "A traditional Russian dish made with sloe-berries, crumbled nuts and aromatic rice, served in a hearty cazuela. This paleo-friendly meal is great for a solo dinner.",
+  "cuisine": "Russian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sloe-berries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fried rice flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "khao khua",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "crumbled hazelnuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the cazuela over medium heat. Add the onion and garlic and cook until the onion is translucent. Add the sloe-berries and cook for 2 minutes. Add the fried rice flour and cook for 1 minute, stirring constantly. Add the khao khua and crumbled hazelnuts and stir to combine. Add the chicken broth and water, and bring to a boil. Reduce the heat to low and simmer for 20 minutes. Stir in the apple cider vinegar and sugar. Season with salt to taste. Serve hot, garnished with additional crumbled hazelnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pan",
+    "paleo",
+    "russian",
+    "solo-dinner",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "kissed-with-crumbly-russian-sloe-berries-borscht",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-crumbly-russian-sloe-berries-borscht",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:31:11Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "solo-dinner",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "sloe-berries",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "sloe-berries",
+    "descriptor": "Kissed with Crumbly",
+    "dishForm": "Borscht"
+  }
+}

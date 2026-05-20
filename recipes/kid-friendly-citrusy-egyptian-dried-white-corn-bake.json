@@ -1,0 +1,116 @@
+{
+  "title": "Kid-Friendly Citrusy Egyptian Dried White Corn Bake",
+  "description": "A delicious and kid-friendly take on an Egyptian classic, featuring dried white corn and a tangy citrus flavor.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried White Corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Binchotan Charcoal",
+      "amount": "1 sheet",
+      "notes": "for smoky flavor"
+    },
+    {
+      "name": "Extra Virgin Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Orange Juice",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Monterey Jack Cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat an oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "Spread the dried white corn evenly onto the prepared baking sheet.",
+    "Place the binchotan charcoal sheet on top of the corn and fold the parchment paper to create a makeshift smoker.",
+    "Place the baking sheet in the oven and smoke for 15 minutes.",
+    "Remove the baking sheet from the oven and drizzle with olive oil, lemon juice, and orange juice.",
+    "Sprinkle salt, black pepper, garlic powder, and paprika over the corn mixture.",
+    "Bake for an additional 10 minutes, or until the corn is lightly toasted.",
+    "Remove the baking sheet from the oven and sprinkle with Monterey Jack cheese.",
+    "Return the baking sheet to the oven and bake until the cheese is melted and bubbly.",
+    "Sprinkle chopped cilantro over the top of the corn mixture and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "easy-side-dish",
+    "european",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kid-friendly-citrusy-egyptian-dried-white-corn-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-citrusy-egyptian-dried-white-corn-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:31:44Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "dried white corn",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dried white corn",
+    "descriptor": "kid-friendly citrusy",
+    "dishForm": "Bake"
+  }
+}

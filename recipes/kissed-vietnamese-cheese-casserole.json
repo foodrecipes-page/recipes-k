@@ -1,0 +1,109 @@
+{
+  "title": "kissed vietnamese cheese casserole",
+  "description": "a dense and cheesy vietnamese-inspired casserole perfect for a date-night dinner. this recipe combines the richness of cheddar cheese with the bold flavors of vietnamese ingredients.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "kosher",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "2 large heads, broken into florets",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large eggs",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "for ice bath"
+    }
+  ],
+  "instructions": [
+    "preheat oven to 400 degrees fahrenheit.",
+    "in a blender or food processor, combine cauliflower, fish sauce, sugar, garlic, chili flakes, and black pepper. blend until smooth.",
+    "in a large skillet, melt 1 tablespoon of butter over medium heat. add the blended cauliflower mixture and cook until slightly thickened, about 5 minutes.",
+    "in a separate bowl, whisk together eggs and a pinch of salt. stir in the shredded cheddar cheese.",
+    "add the egg mixture to the skillet with the cauliflower mixture and stir until combined.",
+    "transfer the mixture to a 9x13 inch baking dish and smooth the top.",
+    "bake for 25-30 minutes, or until the casserole is golden brown and set.",
+    "remove from the oven and let cool for 5 minutes before transferring to an ice bath to chill.",
+    "once chilled, use a spatula to carefully loosen the casserole from the baking dish and invert onto a serving plate.",
+    "serve immediately, garnished with additional cheddar cheese if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 30,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "date-night",
+    "kosher-friendly",
+    "one-pan",
+    "rich-and-creamy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "kissed-vietnamese-cheese-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-vietnamese-cheese-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:31:45Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "dense",
+    "mood": "date-night",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "cheddar cheese",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Cheese",
+    "descriptor": "Kissed",
+    "dishForm": "Casserole"
+  }
+}
