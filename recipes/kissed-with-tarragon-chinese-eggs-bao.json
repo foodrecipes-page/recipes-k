@@ -1,0 +1,97 @@
+{
+  "title": "Kissed With Tarragon Chinese Eggs Bao",
+  "description": "A refreshing Chinese dish featuring tarragon, perfect for post-workout meals with a low-fat profile. Briny eggs, creamy sauce, and delicate buns are a match made in heaven.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Large eggs",
+      "amount": "4"
+    },
+    {
+      "name": "Low-fat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tarragon",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 teaspoon"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Add 2 cups of water to a pot and bring to a boil.",
+    "Gently place 4-6 eggs into a papillote bag, leaving a small air pocket.",
+    "Place the eggs into the boiling water and cook for 6 minutes.",
+    "Prepare a sauce by whisking together 1 cup of low-fat milk, 1 tablespoon of tarragon, 2 tablespoons of chopped scallions, and 1 teaspoon of soy sauce in a small bowl.",
+    "In a separate pan, heat 1 tablespoon of sesame oil over medium heat.",
+    "Gently pour the sauce into the pan and whisk until heated through.",
+    "Gently remove the eggs from the papillote bag and place them into the sauce.",
+    "Cook for 2-3 minutes or until the eggs are coated in the sauce.",
+    "Serve the eggs in the bao buns with a sprinkle of chopped spinach and a sprinkle of salt.",
+    "Garnish with additional chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "low-fat",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 10
+  },
+  "slug": "kissed-with-tarragon-chinese-eggs-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-tarragon-chinese-eggs-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T19:10:49Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "tarragon-french",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "eggs",
+    "descriptor": "Kissed With Tarragon",
+    "dishForm": "Bao"
+  }
+}
