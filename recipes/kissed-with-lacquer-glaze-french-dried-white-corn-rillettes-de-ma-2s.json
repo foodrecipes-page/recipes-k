@@ -1,0 +1,91 @@
+{
+  "title": "Kissed with Lacquer Glaze French Dried White Corn Rillettes",
+  "description": "A quick-fix, fatty French dish featuring dried white corn, lacquer-glaze, perfect for a raw-friendly snack or dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dried White Corn",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "Crispy Shallots",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Lacquer Glaze",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tablespoon, chopped"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lotus Leaf Wraps",
+      "amount": "4-6, for serving"
+    }
+  ],
+  "instructions": [
+    "Roughly chop the dried white corn and place it in a bowl.",
+    "Mince the crispy shallots and add them to the corn.",
+    "In a small saucepan, heat the lacquer glaze over low heat.",
+    "Add the chopped chives to the saucepan and stir to combine.",
+    "Remove the saucepan from the heat and stir in the coconut oil.",
+    "Season the corn mixture with salt and black pepper to taste.",
+    "Spoon the corn mixture into the lotus leaf wraps and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "snack",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 6
+  },
+  "slug": "kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:30:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crumbly",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "dried white corn",
+    "diet": "raw",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "dried white corn",
+    "descriptor": "Kissed with Lacquer Glaze",
+    "dishForm": "Rillettes de Ma\u00192s"
+  }
+}
