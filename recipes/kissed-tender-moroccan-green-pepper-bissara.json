@@ -1,0 +1,76 @@
+{
+  "title": "Kissed Tender Moroccan Green Pepper Bissara",
+  "description": "A comforting and flavorful Moroccan dish featuring tender green peppers, served in a hearty bissara soup.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "green bell peppers",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "name": "onion",
+  "amount": "1/2",
+  "notes": "diced",
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large pan over medium heat.",
+    "Add diced onion and saut\u0007e until softened, about 3-4 minutes, with the heat on low-middle setting.",
+    "Add the green bell peppers and cook until tender, about 8-10 minutes, maintaining the low-middle heat setting.",
+    "Add the chickpeas, salt, and any desired additional spices to the pan and stir to combine.",
+    "Mash the chickpea mixture with a fork or the back of a spoon to create a chunky texture, much like traditional bissara.",
+    "Transfer the mixture to a large bowl and let it cool slightly, to about 100-105\u00174F.",
+    "Once cooled, add this mixture to a blender or food processor with 1/4 cup of water, and blend until smooth.",
+    "Return the blended mixture to the bowl and stir in any additional desired spices and herbs.",
+    "Heat a medium-sized non-stick pan with a small amount of coconut oil over low heat.",
+    "Using a spoon, scoop small amounts of the bissara mixture into the pan, forming small patties.",
+    "Cook the patties for 2-3 minutes on each side, until they develop a lightly toasted surface.",
+    "Serve warm, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "bissara",
+    "gluten-free",
+    "high-fiber",
+    "moroccan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 14,
+    "carbs": 55,
+    "fat": 13
+  },
+  "slug": "kissed-tender-moroccan-green-pepper-bissara",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-moroccan-green-pepper-bissara",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:48:56Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "marinate",
+    "primaryIngredient": "green pepper",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "green pepper",
+    "descriptor": "Kissed tender",
+    "dishForm": "Bissara"
+  }
+}
