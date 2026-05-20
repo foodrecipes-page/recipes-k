@@ -1,0 +1,201 @@
+{
+  "title": "kissed bitter Sardinian carrots Tossato Ribollita",
+  "description": "A crisp, bitter, and refreshing Sardinian-inspired dish featuring carrots, perfect for meal prep. This sugar-free-friendly Tossato Ribollita is a twist on the classic Italian ribollita soup, perfect for any time of day.",
+  "cuisine": "Italian",
+  "diet": [
+    "sugar-free",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "capers",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "anchovies",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sultanas",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "walnuts",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh rosemary",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cured olives",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "cured prosciutto",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sardinian pecorino cheese",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "olive brine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "tomato puree",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced onion and cook until it is translucent and slightly caramelized, about 10 minutes.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the sliced carrots and cook for 10-12 minutes, until tender but still crisp.",
+    "Add the capers, anchovies, red wine vinegar, black pepper, and salt. Cook for 1-2 minutes, until the flavors are combined.",
+    "Stir in the chopped parsley, lemon juice, sultanas, and walnuts. Cook for 1-2 minutes, until the flavors are combined.",
+    "Add the Sardinian pecorino cheese, olive brine, tomato paste, and tomato puree. Cook for 1-2 minutes, until the flavors are combined.",
+    "Stir in the cooked prosciutto and olives. Cook for 1-2 minutes, until the flavors are combined.",
+    "Season with kosher salt, freshly ground black pepper, and red pepper flakes to taste.",
+    "Serve hot, garnished with fresh herbs and crushed red pepper flakes, if desired.",
+    "This dish can be refrigerated or frozen for up to 3 days.",
+    "Reheat the dish in the microwave or oven, until hot and steaming.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "italian",
+    "low-carb",
+    "one-pan",
+    "sardinian",
+    "sugar-free",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "kissed-bitter-sardinian-carrots-tossato-ribollita",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-bitter-sardinian-carrots-tossato-ribollita",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:18:27Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "cure",
+    "primaryIngredient": "carrots",
+    "diet": "sugar-free",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "carrots",
+    "descriptor": "kissed bitter",
+    "dishForm": "Tossato Ribollita"
+  }
+}
