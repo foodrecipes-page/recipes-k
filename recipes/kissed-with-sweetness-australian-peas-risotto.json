@@ -1,0 +1,98 @@
+{
+  "title": "Kissed with Sweetness Australian Peas Risotto",
+  "description": "A low-calorie-friendly, date-night treat featuring buttery, gooey yellow split peas, paired with the salty sweetness of shio-cured ham.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yellow split peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup",
+      "notes": "dry and crisp"
+    },
+    {
+      "name": "shio-cured ham",
+      "amount": "2 slices"
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a medium saucepan over medium heat.",
+    "Add the thinly sliced shallots and cook until softened, about 3 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the white wine and cook until the liquid is almost completely reduced, stirring occasionally.",
+    "Add the yellow split peas and cook, stirring occasionally, for 5 minutes.",
+    "Add 1 cup of vegetable broth and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding broth and stirring until the peas are tender and creamy, about 20 minutes.",
+    "Stir in the shio-cured ham and cook for 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped parsley and parmesan cheese.",
+    "Meanwhile, preheat the oven to 375°F (190°C).",
+    "Transfer the risotto to 4 ramekins and top each with a slice of shio-cured ham and a sprinkle of parmesan cheese.",
+    "Bake for 5-7 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-calorie",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "kissed-with-sweetness-australian-peas-risotto",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-sweetness-australian-peas-risotto",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T11:51:15Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "yellow split peas",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "peas",
+    "descriptor": "Kissed with Sweetness",
+    "dishForm": "Risotto"
+  }
+}
