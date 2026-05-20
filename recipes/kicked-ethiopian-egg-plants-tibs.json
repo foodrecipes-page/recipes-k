@@ -1,0 +1,110 @@
+{
+  "title": "Kicked Ethiopian Eggplant Tibs",
+  "description": "A spicy twist on traditional Ethiopian eggplant tibs, featuring lardons-render and ayurvedic-tamasic-friendly ingredients.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplants",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Lardons-render",
+      "amount": "1/4 cup",
+      "notes": "Make sure it's tamasic-friendly"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nigella seeds",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Clarified butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the clarified butter in a large skillet over medium-high heat. Add the lardons-render and cook until browned, about 3-4 minutes.",
+    "Add the sliced onions to the skillet and cook until they start to brown, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute, until fragrant.",
+    "Add the sliced eggplants to the skillet and cook until they start to brown, about 5 minutes.",
+    "Add the red pepper flakes, paprika, salt, black pepper, and nigella seeds to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the eggplants are tender and the spices are fragrant.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the kicked Ethiopian eggplant tibs hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eggplant-lovers",
+    "high-protein",
+    "one-pan",
+    "spicy",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "kicked-ethiopian-egg-plants-tibs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-ethiopian-egg-plants-tibs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:10:36Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "lardons-render",
+    "primaryIngredient": "egg plants",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "egg plants",
+    "descriptor": "Kicked",
+    "dishForm": "Tibs"
+  }
+}
