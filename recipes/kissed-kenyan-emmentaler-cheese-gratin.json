@@ -1,0 +1,121 @@
+{
+  "title": "Kissed Kenyan Emmentaler Cheese Gratin",
+  "description": "A nutty, chewy, and comforting Kenyan-inspired Emmentaler cheese gratin that's perfect for a lazy Sunday. The tandoor oven adds a unique smoky flavor to the dish.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "vegetarian",
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Emmentaler cheese",
+      "amount": "250g",
+      "notes": "A type of Swiss cheese with a nutty flavor."
+    },
+    {
+      "name": "Tandoor oven-roasted potatoes",
+      "amount": "4-5",
+      "notes": "Thinly sliced potatoes roasted in a tandoor oven until crispy."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped onion adds a sweet and savory flavor to the dish."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3-4 cloves",
+      "notes": "Minced garlic adds depth to the Emmentaler cheese sauce."
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped parsley adds a fresh and herby flavor to the dish."
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped cilantro adds a bright and citrusy flavor to the dish."
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "Used for saut\u00054ing the onion and garlic."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Seasons the dish to perfection."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Adds a touch of heat to the dish."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Adds a smoky and slightly sweet flavor to the dish."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/2 tsp",
+      "notes": "Adds a touch of heat to the dish."
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor oven to 400\u001415F (200\u001415C).",
+    "Tandoor oven-roast the potatoes until crispy, about 20-25 minutes.",
+    "S\u001415ut\u00141e the chopped onion in coconut oil until softened, about 5-7 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "In a separate saucepan, melt the Emmentaler cheese over low heat, stirring occasionally.",
+    "Add the roasted potatoes, chopped onion, and garlic to the cheese sauce and stir until combined.",
+    "Season the dish with salt, black pepper, paprika, and chili flakes.",
+    "Transfer the mixture to a baking dish and top with chopped parsley and cilantro.",
+    "Bake in a preheated oven at 375\u001415F (190\u001415C) for 20-25 minutes, until golden brown and bubbly.",
+    "Serve hot and enjoy!",
+    "Garnish with additional parsley and cilantro, if desired.",
+    "Cover and refrigerate any leftovers for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy",
+    "emmentaler-cheese",
+    "gluten-free",
+    "gratin",
+    "kenyan",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "kissed-kenyan-emmentaler-cheese-gratin",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kenyan-emmentaler-cheese-gratin",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:14:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "chewy",
+    "mood": "lazy-sunday",
+    "technique": "tandoor",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Emmentaler cheese",
+    "descriptor": "Kissed",
+    "dishForm": "Gratin"
+  }
+}
