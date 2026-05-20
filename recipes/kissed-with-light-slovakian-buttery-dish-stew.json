@@ -1,0 +1,109 @@
+{
+  "title": "Kissed with Light Slovakian Buttery Stew",
+  "description": "A comforting and flavorful Slovakian stew made with tender beef and vegetables in a rich, buttery sauce.",
+  "cuisine": "Slovakian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "red potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "red pepper paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat. Add beef and cook until browned, about 5 minutes. Add onion and cook until softened, about 3 minutes. Add garlic and cook for 1 minute.",
+    "Add flour and cook for 1 minute, stirring constantly.",
+    "Add broth and bring to a boil, scraping up browned bits. Add carrots and potatoes and return to a boil.",
+    "Reduce heat to medium-low and simmer, covered, for 20 minutes. Stir in red pepper paste and season with black pepper.",
+    "Stir in parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "comfort-food",
+    "easy-to-make",
+    "slovakian",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "kissed-with-light-slovakian-buttery-dish-stew",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-light-slovakian-buttery-dish-stew",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:17:04Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "light",
+    "mood": "cozy",
+    "technique": "simmer",
+    "primaryIngredient": "red pepper paste",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "slovakian",
+    "mainIngredient": "buttery dish",
+    "descriptor": "Kissed with light",
+    "dishForm": "Stew"
+  }
+}
