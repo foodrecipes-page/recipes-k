@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Turkish Meat Icli Kofte",
+  "description": "A one-pot Turkish dish featuring sweet and dense meatballs made with shoyu-koji, a type of fermented soybean paste. This recipe is raw-friendly and can be made in under an hour.",
+  "cuisine": "turkish",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground turkey",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Shoyu-koji",
+      "amount": "2 tablespoons",
+      "notes": "Available at most Asian grocery stores or online."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked or sweet, whichever you prefer."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Bulgur",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Plain Greek yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground turkey, shoyu-koji, onion, garlic, paprika, salt, and black pepper. Mix well with your hands or a wooden spoon until just combined."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "kofte",
+    "one-pot",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "kissed-turkish-meat-icli-kofte",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-turkish-meat-icli-kofte",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T23:12:36Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "fold",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "meat",
+    "descriptor": "Kissed Kofta",
+    "dishForm": null
+  }
+}
