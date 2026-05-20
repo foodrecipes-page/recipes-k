@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Lazy Sunday Cilantro Stew Slovakian Clay Pot Delight",
+  "description": "A fermented, springy Slovakian dish perfect for a lazy Sunday, featuring cilantro and a delicious tandoor clay pot cooked flavor.",
+  "cuisine": "Slovak",
+  "diet": [
+    "raw-friendly",
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "2 medium heads"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 pound",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flaxseed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "tandoor clay pot",
+      "amount": "1",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Prepare a mortar and pestle by cleaning it thoroughly and drying it with a clean towel.",
+    "Pound the cabbage, carrots, onion, and garlic in the mortar and pestle until they are well combined and have a slightly crushed texture.",
+    "Add the chopped cilantro, apple cider vinegar, water, flaxseed, caraway seeds, salt, and black pepper to the mortar and pestle.",
+    "Continue pounding the mixture until it is well combined and has a slightly thickened texture.",
+    "Transfer the mixture to the tandoor clay pot and cover it with a lid.",
+    "Place the tandoor clay pot in a preheated oven at 375°F (190°C) for 45 minutes.",
+    "Remove the tandoor clay pot from the oven and let it cool for 10 minutes.",
+    "Serve the Kissed Lazy Sunday Cilantro Stew Slovakian Clay Pot Delight warm, garnished with additional chopped cilantro if desired.",
+    "Note: This dish can be refrigerated or frozen for later use."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cilantro",
+    "fermented",
+    "one-pan",
+    "slovakian",
+    "vegan-friendly",
+    "vegetarian-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "kissed-lazy-sunday-cilantro-stew-slovakian-clay-pot-delight",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-lazy-sunday-cilantro-stew-slovakian-clay-pot-delight",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T15:00:06Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "springy",
+    "mood": "lazy-sunday",
+    "technique": "mortar-pestle-pound",
+    "primaryIngredient": "cilantro",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meat",
+    "descriptor": "Kissed",
+    "dishForm": "Stew"
+  }
+}
