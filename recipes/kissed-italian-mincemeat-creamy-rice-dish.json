@@ -1,0 +1,109 @@
+{
+  "title": "Kissed Italian Mincemeat Creamy Rice Dish",
+  "description": "Pungent mincemeat risotto featuring a glassy-jelly finish. A low-sodium-friendly crowd-pleaser.",
+  "cuisine": "italian",
+  "diet": [
+    "low-sodium",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "mincemeat",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "white wine",
+      "amount": "2 cups",
+      "notes": "dry"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra-virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt-free seasoning",
+      "amount": "1/4 teaspoon",
+      "notes": "homemade"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in a large skillet over medium heat.",
+    "add the garlic and onion and cook until softened, about 3 minutes.",
+    "add the arborio rice and cook for 1 minute, stirring constantly.",
+    "add the white wine and cook until absorbed, stirring constantly.",
+    "add 1 cup of vegetable broth and cook until absorbed, stirring constantly.",
+    "repeat the process until all broth is used, about 20-25 minutes.",
+    "stir in the mincemeat and cook for 1 minute.",
+    "season with lemon juice, nutmeg, and salt-free seasoning.",
+    "serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "low-sodium",
+    "one-pot",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 7,
+    "carbs": 55,
+    "fat": 8
+  },
+  "slug": "kissed-italian-mincemeat-creamy-rice-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-italian-mincemeat-creamy-rice-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:34:50Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "glassy-jelly",
+    "mood": "crowd-pleaser",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "mincemeat",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Kissed",
+    "dishForm": "Creamy Rice Dish"
+  }
+}
