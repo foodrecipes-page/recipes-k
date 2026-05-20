@@ -1,0 +1,106 @@
+{
+  "title": "Kissed by Fire Mediterranean Rest-Meat Tagliere",
+  "description": "A charred, velvety, and flavorful Mediterranean dish featuring rest-meat, perfect for a midnight craving",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rest-meat (beef, lamb, or a combination)",
+      "amount": "500g"
+    },
+    {
+      "name": "Chilli powder",
+      "amount": "2tsp"
+    },
+    {
+      "name": "Coarse black pepper",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "Caramelized onions (see note)",
+      "amount": "200g"
+    },
+    {
+      "name": "Roasted red bell peppers (see note)",
+      "amount": "200g"
+    },
+    {
+      "name": "Kalamata olives",
+      "amount": "100g"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "100g"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Feta cheese (optional)",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Prepare the rest-meat by slicing it into thin strips and seasoning with chilli powder, coarse black pepper, and salt.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Sear the rest-meat strips for 2-3 minutes on each side, or until charred and cooked to your liking.",
+    "Remove the rest-meat from the skillet and set aside.",
+    "Reduce heat to medium and add caramelized onions and roasted red bell peppers to the skillet.",
+    "Cook for 2-3 minutes, stirring occasionally, until the vegetables are heated through.",
+    "Add the kalamata olives and artichoke hearts to the skillet and cook for an additional 1-2 minutes.",
+    "To assemble the tagliere, place the rest-meat strips on a large platter or individual plates.",
+    "Top the rest-meat with the vegetable mixture and sprinkle with fresh parsley.",
+    "If using feta cheese, crumble it over the top of the tagliere.",
+    "Serve immediately and enjoy!",
+    "Note: To caramelize the onions and roast the red bell peppers, cook them in a skillet over low heat for 30-40 minutes, stirring occasionally, until they are deep brown and sweet."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "low-glycemic",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "slug": "kissed-by-fire-mediterranean-rest-meat-tagliere",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-fire-mediterranean-rest-meat-tagliere",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:30:15Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "midnight-craving",
+    "technique": "rest-meat",
+    "primaryIngredient": "chilli powder",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "rest-meat",
+    "descriptor": "Kissed by Fire",
+    "dishForm": "Tagliere"
+  }
+}
