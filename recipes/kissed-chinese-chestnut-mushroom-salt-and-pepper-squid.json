@@ -1,0 +1,124 @@
+{
+  "title": "Kissed Chinese Chestnut Mushroom Salt-and-Pepper-Squid",
+  "description": "A Chinese-inspired salt-and-pepper-squid dish featuring chestnut mushrooms and nuka-pickle, perfect for dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salt-and-pepper squid",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Chestnut mushrooms",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Nuka pickle",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chinese five-spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar-free hoisin sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "White pepper",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tbsp",
+      "notes": "mixed with 1 tbsp water"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium-high heat.",
+    "Add garlic and ginger, stir-fry until fragrant.",
+    "Add Chinese five-spice, stir-fry for 1 minute.",
+    "Add chestnut mushrooms, stir-fry until tender.",
+    "Add nuka pickle, stir-fry for 2 minutes.",
+    "Add salt-and-pepper squid, stir-fry until coated with spices.",
+    "Add soy sauce, sugar-free hoisin sauce, salt, and white pepper, stir-fry for 1 minute.",
+    "Add water and bring to a boil.",
+    "Mix cornstarch with 1 tbsp water, add to the wok and stir-fry until the sauce thickens.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dinner",
+    "easy-to-make",
+    "one-pan",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-chinese-chestnut-mushroom-salt-and-pepper-squid",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-chinese-chestnut-mushroom-salt-and-pepper-squid",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:00:35Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "tender",
+    "mood": "one-pot",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "kissed",
+    "dishForm": "Salt-and-Pepper-Squid"
+  }
+}
