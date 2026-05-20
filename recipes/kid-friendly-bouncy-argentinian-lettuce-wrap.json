@@ -1,0 +1,95 @@
+{
+  "title": "Kid-friendly Bouncy Argentinian Lettuce Wrap",
+  "description": "A fun twist on traditional Argentinean cuisine featuring crunchy iceberg lettuce, tender beef, and flavorful spices. This dish is perfect for kids and adults alike!",
+  "cuisine": "Argentinian",
+  "diet": [
+    "kid-friendly",
+    "anti-inflammatory-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Lean Ground Beef",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chimichurri Sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Pandan Leaves",
+      "amount": "4 large",
+      "notes": null
+    },
+    {
+      "name": "Ttukbaegi-Earthware Cookware",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat Ttukbaegi-Earthware Cookware over medium-high heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "easy-weeknight",
+    "kid-friendly",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "kid-friendly-bouncy-argentinian-lettuce-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kid-friendly-bouncy-argentinian-lettuce-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T21:09:47Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "lettuce",
+    "descriptor": "Kid-friendly Bouncy",
+    "dishForm": "Wrap"
+  }
+}
