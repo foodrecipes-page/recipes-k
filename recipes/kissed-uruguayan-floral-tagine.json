@@ -1,0 +1,103 @@
+{
+  "title": "Kissed Uruguayan Floral Tagine",
+  "description": "A delicate, floral Uruguayan dish featuring sesame seed oil and low-sodium ingredients, perfect for a cozy evening meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": ""
+    },
+    {
+      "name": "rose petals",
+      "amount": "1 cup",
+      "notes": "fresh and organic"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced and toasted"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    }
+  ],
+  "instructions": [
+    "Heat sesame seed oil in a tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the grated ginger and cook for an additional 1 minute.",
+    "Add the sliced almonds and cook, stirring constantly, for 2 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the cumin and smoked paprika, and cook for 1 minute, stirring constantly.",
+    "Add the chicken breast and cook until browned on all sides, about 5 minutes.",
+    "Add the fresh rose petals and cook, stirring occasionally, for 10 minutes, or until the chicken is cooked through.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "low-sodium",
+    "tagine",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-uruguayan-floral-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-uruguayan-floral-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:56:53Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "shaggy",
+    "mood": "cozy",
+    "technique": "tagine-cook",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Floral",
+    "descriptor": "Kissed",
+    "dishForm": "Tagine"
+  }
+}
