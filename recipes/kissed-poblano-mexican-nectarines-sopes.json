@@ -1,0 +1,119 @@
+{
+  "title": "Kissed Poblano Mexican Nectarines Sopes",
+  "description": "A delicious and easy-to-make Mexican dish featuring crispy sopes topped with a flavorful poblano pepper stir-fry, juicy nectarines, and a sprinkle of queso fresco.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "poblanos",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "ripe, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "queso fresco",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a dry skillet over medium-high heat.",
+    "Grill the corn tortillas for 30 seconds on each side, until crispy.",
+    "In a separate skillet, heat the oil over medium heat. Add the onion and garlic and cook until softened, about 3 minutes.",
+    "Add the poblanos to the skillet and cook for 2-3 minutes, until tender.",
+    "Stir in the cumin, chili powder, salt, and pepper. Cook for 1 minute, until fragrant.",
+    "Add the sliced nectarines to the skillet and cook for 1 minute, until slightly caramelized.",
+    "Top each crispy tortilla with a spoonful of the poblano pepper mixture, a sprinkle of queso fresco, and a squeeze of lime juice.",
+    "Serve immediately, garnished with additional sliced nectarines if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "mexican",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-poblano-mexican-nectarines-sopes",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-poblano-mexican-nectarines-sopes",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:40:25Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "crisp",
+    "mood": "lazy-sunday",
+    "technique": "stir-fry",
+    "primaryIngredient": "nectarines",
+    "diet": "plant-based",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Nectarines",
+    "descriptor": "Kissed Poblano",
+    "dishForm": "Sopes"
+  }
+}
