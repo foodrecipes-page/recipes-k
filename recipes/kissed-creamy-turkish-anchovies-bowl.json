@@ -1,0 +1,119 @@
+{
+  "title": "Kissed creamy Turkish anchovies bowl",
+  "description": "A cultured, creamy, dairy-free-friendly Turkish dish featuring myeolchi anchovies and pickles.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Myeolchi anchovies",
+      "amount": "200g",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "40ml",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "10g",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "10g",
+      "notes": "minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Pickled vegetables (cucumber, carrot, bell pepper) ",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "80g",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "20ml",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine the chopped anchovies, rice vinegar, honey, ginger, garlic, salt, and black pepper in a large bowl.",
+    "Add the chopped parsley, dill, and pickled vegetables to the bowl and toss to combine.",
+    "In a separate bowl, whisk together the coconut cream and lemon juice until smooth.",
+    "Add the coconut cream mixture to the bowl with the anchovy mixture and toss to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, garnish with additional parsley and dill if desired.",
+    "Spoon the Kissed creamy Turkish anchovies bowl into individual serving bowls and serve chilled."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anchovies",
+    "dairy-free",
+    "gluten-free",
+    "pickled",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-creamy-turkish-anchovies-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-creamy-turkish-anchovies-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:38:59Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "pickle",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "anchovies",
+    "descriptor": "Kissed creamy",
+    "dishForm": "Bowl"
+  }
+}
