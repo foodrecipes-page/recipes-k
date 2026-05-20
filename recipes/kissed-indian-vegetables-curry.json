@@ -1,0 +1,145 @@
+{
+  "title": "Kissed Indian Vegetables Curry",
+  "description": "A floral and chewy solo dinner featuring Thai red curry paste. Perfect for a quick and diabetic-friendly meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "for serving",
+      "notes": ""
+    },
+    {
+      "name": "Brown rice",
+      "amount": "for serving",
+      "notes": ""
+    },
+    {
+      "name": "Naan bread",
+      "amount": "for serving",
+      "notes": ""
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or Dutch oven over medium-high heat.",
+    "Add the onion and cook until lightly browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the carrots, bell peppers, and zucchini, and cook until the vegetables are just tender, about 5 minutes.",
+    "Add the snow peas and cook for 1-2 minutes, until slightly tender.",
+    "Stir in the curry paste and cook for 1 minute, until fragrant.",
+    "Pour in the coconut milk and water, and bring the mixture to a simmer.",
+    "Add the salt, black pepper, and chopped cilantro, and stir to combine.",
+    "Reduce the heat to medium-low and cook for 5-10 minutes, until the sauce has thickened.",
+    "Serve the curry over brown rice or with naan bread, garnished with additional cilantro and basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "gluten-free",
+    "low-calorie",
+    "one-pan",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "kissed-indian-vegetables-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-indian-vegetables-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T18:47:06Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "stir-fry",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Kissed",
+    "dishForm": "Curry"
+  }
+}
