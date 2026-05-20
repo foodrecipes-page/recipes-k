@@ -1,0 +1,104 @@
+{
+  "title": "Kissed by Halal Lemon British Lemongrass Afternoon Tea",
+  "description": "A refreshing, halal-friendly herbal tea served in a traditional Japanese donabe vessel, featuring the subtle flavors of lemongrass and yuzu-cure.",
+  "cuisine": "British",
+  "diet": [
+    "halal",
+    "herbal",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lemongrass stalks",
+      "amount": "4 stalks",
+      "notes": "Fresh and fragrant."
+    },
+    {
+      "name": "Yuzu",
+      "amount": "1 zested",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 sliced",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green tea",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 slice",
+      "notes": ""
+    },
+    {
+      "name": "Mint leaves",
+      "amount": "4 leaves",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Halal-friendly milk",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "+/- to taste"
+    }
+  ],
+  "instructions": [
+    "Combine lemongrass stalks, yuzu zest, and green tea in the donabe vessel.",
+    "Add halal-friendly milk and bring to a simmer over low heat.",
+    "Reduce heat and let steep for 5 minutes.",
+    "Strain the tea into a separate container and discard solids.",
+    "Add honey to taste and stir to combine.",
+    "Serve hot, garnished with sliced lemon and mint leaves.",
+    "Place the donabe vessel over a heat diffuser to prevent hotspots and scorching."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "british",
+    "donabe",
+    "halal",
+    "herbal",
+    "tea"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "kissed-by-halal-lemon-british-lemongrass-afternoon-tea",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-halal-lemon-british-lemongrass-afternoon-tea",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T22:50:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "Lemongrass",
+    "descriptor": "Kissed by Halal Lemon",
+    "dishForm": "Afternoon Tea"
+  }
+}
