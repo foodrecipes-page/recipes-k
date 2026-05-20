@@ -1,0 +1,105 @@
+{
+  "title": "Kissed Kenyan Red Snapper Poach",
+  "description": "A pungent, flaky, kid-friendly dish from Kenya featuring red snapper, poached to perfection. This ovo-vegetarian-friendly recipe is a great option for a weeknight dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "Fresh for poaching"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "Fine grind"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground"
+    }
+  ],
+  "instructions": [
+    "Combine water, onion, garlic, ginger, cumin, coriander, salt, and black pepper in a large saucepan.",
+    "Bring the mixture to a boil over medium heat.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Add the red snapper fillets to the poaching liquid and cook for 8-10 minutes or until cooked through.",
+    "Remove the fish from the liquid and stir in lime juice.",
+    "Serve the fish hot, garnished with additional lime wedges if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "high-protein",
+    "kenyan-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "kissed-kenyan-red-snapper-poach",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-kenyan-red-snapper-poach",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T20:56:13Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "kid-friendly",
+    "technique": "poach",
+    "primaryIngredient": "red snapper",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Red Snapper",
+    "descriptor": "Kissed",
+    "dishForm": "Poach"
+  }
+}
