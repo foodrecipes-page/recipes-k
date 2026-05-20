@@ -1,0 +1,104 @@
+{
+  "title": "Kissed With Spices Moroccan Fromage Frais Tagine",
+  "description": "A peppery, festive Moroccan dish featuring fromage frais, caramelize, and a hint of spices. Perfect for a paleo-friendly breakfast or brunch.",
+  "cuisine": "Moroccan",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fromage Frais",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a small skillet over medium heat.",
+    "Add the onion and cook until caramelized, about 15 minutes.",
+    "Mince the garlic and add it to the skillet, cooking for 1 minute.",
+    "Stir in the cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add the fromage frais to the skillet, stirring until heated through.",
+    "Season with salt to taste.",
+    "Stir in the chopped cilantro.",
+    "Spoon the mixture into 4 individual mini cocottes or ramekins.",
+    "Bake in a preheated oven at 375°F for 10-12 minutes, or until set and lightly browned on top.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "moroccan",
+    "moroccan-cuisine",
+    "one-pan",
+    "paleo",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 16
+  },
+  "slug": "kissed-with-spices-moroccan-fromage-frais-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spices-moroccan-fromage-frais-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:11:48Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "bouncy-qq",
+    "mood": "festive",
+    "technique": "caramelize",
+    "primaryIngredient": "fromage frais",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "fromage frais",
+    "descriptor": "Kissed With Spices",
+    "dishForm": "Tagine"
+  }
+}

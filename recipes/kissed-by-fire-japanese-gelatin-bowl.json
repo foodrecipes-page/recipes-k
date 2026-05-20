@@ -1,0 +1,104 @@
+{
+  "title": "Kissed-By-Fire Japanese Gelatin Bowl",
+  "description": "Aromatic, umami-rich, aerated Japanese gelatin dessert featuring an unflavoured gelatin base, served in a piping hot tandoor clay pot.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Unflavoured Gelatin Sheets",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Dashi Broth",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "100ml",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "50ml",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "25ml",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "25g",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu Zest",
+      "amount": "10g",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu Juice",
+      "amount": "25ml",
+      "notes": ""
+    },
+    {
+      "name": "Mozuku Seaweed",
+      "amount": "10g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine dashi broth, sake, soy sauce, mirin, and sugar in a saucepan and bring to a boil, then reduce heat and simmer for 10 minutes.",
+    "In a separate bowl, dissolve unflavoured gelatin sheets in 250ml of hot water, then set aside.",
+    "Once the dashi broth mixture has cooled slightly, whisk in the dissolved gelatin and pour into a tandoor clay pot or a heat-resistant bowl.",
+    "Chill the gelatin mixture in the refrigerator for at least 4 hours, or until it has set and turned into a firm, jelly-like consistency.",
+    "Before serving, garnish the gelatin with yuzu zest, yuzu juice, and mozu seaweed, then place the bowl in the oven to warm the gelatin for 5-7 minutes, or until it has reached a warm, slightly caramelized colour.",
+    "Remove the bowl from the oven and let it cool for a minute or two before serving hot, in the clay pot or bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "umami",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "slug": "kissed-by-fire-japanese-gelatin-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-fire-japanese-gelatin-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T15:11:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "stone-bowl-dolsot",
+    "primaryIngredient": "unflavoured gelatin",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "japanese",
+    "mainIngredient": "gelatin",
+    "descriptor": "kissed-by-fire",
+    "dishForm": "bowl"
+  }
+}

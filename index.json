@@ -3576,6 +3576,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-by-fire-japanese-gelatin-bowl",
+    "title": "Kissed-By-Fire Japanese Gelatin Bowl",
+    "tags": [
+      "dessert",
+      "high-protein",
+      "japanese",
+      "one-pan",
+      "umami",
+      "vegan-friendly"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-by-heat-filipino-oysters-stew",
     "title": "Kissed by Heat Filipino Oysters Stew",
     "tags": [
@@ -12650,6 +12665,22 @@
     ],
     "cuisine": "Middle-Eastern",
     "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-spices-moroccan-fromage-frais-tagine",
+    "title": "Kissed With Spices Moroccan Fromage Frais Tagine",
+    "tags": [
+      "breakfast",
+      "healthy",
+      "moroccan",
+      "moroccan-cuisine",
+      "one-pan",
+      "paleo",
+      "spicy"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
