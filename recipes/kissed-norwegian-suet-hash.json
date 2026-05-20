@@ -1,0 +1,113 @@
+{
+  "title": "Kissed Norwegian Suet Hash",
+  "description": "A shaggy, sour Norwegian dish featuring suet, perfect for a hangover cure, now adapted to be pescatarian-friendly using fish broth and omitting the traditional lamb's kidney. Air frying gives a crispy exterior and a tender interior.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "suet",
+      "amount": "225g",
+      "notes": "beef suet or other animal fat"
+    },
+    {
+      "name": "onions",
+      "amount": "150g",
+      "notes": "chopped"
+    },
+    {
+      "name": "flour",
+      "amount": "30g",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "fish broth",
+      "amount": "120ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "beef broth",
+      "amount": "60ml",
+      "notes": "optional, for added depth"
+    },
+    {
+      "name": "sour cream",
+      "amount": "60g",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "15g",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "2g",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1g",
+      "notes": "to taste"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1g",
+      "notes": "to help suet rise"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 200°C (400°F).",
+    "Cut the suet into small pieces and grind them in a food processor to create a coarse crumb.",
+    "In a large bowl, mix the suet crumb with the chopped onions, flour, fish broth, beef broth (if using), sour cream (if using), salt, and black pepper.",
+    "Mix well until the ingredients are evenly combined.",
+    "Add the baking powder to the mixture and stir to incorporate.",
+    "Using your hands, shape the mixture into a rough square or rectangle, about 2 cm (3/4 inch) thick.",
+    "Place the mixture in a single layer in the air fryer basket.",
+    "Cook for 12 minutes or until the suet is golden brown and crispy on the outside.",
+    "Remove the suet hash from the air fryer and let it cool slightly.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot, with your choice of accompaniments such as boiled potatoes, pickled red cabbage, or rye bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "hangover-cure",
+    "norwegian",
+    "one-pan",
+    "pescatarian",
+    "snack",
+    "suet-based"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-norwegian-suet-hash",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-norwegian-suet-hash",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:39:04Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "air-fry",
+    "primaryIngredient": "suet",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "suet",
+    "descriptor": "Kissed",
+    "dishForm": "Hash"
+  }
+}
