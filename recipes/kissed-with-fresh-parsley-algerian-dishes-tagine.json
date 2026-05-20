@@ -1,0 +1,122 @@
+{
+  "title": "Kissed with Fresh Parsley Algerian Dishes Tagine",
+  "description": "A cozy Algerian dish featuring freshly chopped parsley, air-fry, and low-calorie-friendly ingredients. Serve in a banana leaf for a unique and flavorful experience.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "500g",
+      "notes": "boneless and skinless, cut into 2-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 375°F (190°C).",
+    "In a large bowl, mix together the chicken, cumin, coriander, paprika, salt, and black pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the chicken to the skillet and cook until browned, about 5 minutes.",
+    "Transfer the chicken to the air fryer basket and cook until cooked through, about 10 minutes.",
+    "In a small bowl, mix together the parsley, lemon juice, and a pinch of salt and pepper.",
+    "To serve, place a portion of the chicken mixture onto a banana leaf and top with a dollop of parsley mixture.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fry",
+    "algerian",
+    "low-calorie",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 12
+  },
+  "slug": "kissed-with-fresh-parsley-algerian-dishes-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-fresh-parsley-algerian-dishes-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:09:17Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "freshly chopped parsley",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "dishes",
+    "descriptor": "Kissed with Fresh Parsley",
+    "dishForm": "Tagine"
+  }
+}
