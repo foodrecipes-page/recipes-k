@@ -1,0 +1,108 @@
+{
+  "title": "Kissed by Binchotan Brazilian Beef Patty",
+  "description": "A rich and decadent Brazilian beef patty, kissed by the flavorful Binchotan grill, and cooked to perfection with double-frying for an extra crispy crust.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "450g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": " finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "2 tsp",
+      "notes": " toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": " kosher"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": " freshly ground"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": " lightly beaten"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "50g",
+      "notes": " panko"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 kg",
+      "notes": " for grilling"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ground beef, onion, garlic, ground cumin, salt, and black pepper. Mix well with your hands until just combined.",
+    "Add the beaten egg and mix until the meat is just holding together.",
+    "Add the breadcrumbs and mix until the meat is evenly coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Preheat the Binchotan grill to medium-high heat.",
+    "Using your hands, shape the meat mixture into 4-6 patties, depending on the desired size.",
+    "Place the patties onto the grill and cook for 3-4 minutes per side, or until they are cooked to your desired level of doneness.",
+    "Remove the patties from the grill and let them rest for 5 minutes before serving.",
+    "To double-fry the patties, heat about 1 inch of oil in a large skillet over medium-high heat.",
+    "Once the oil is hot, add the patties and cook for 2-3 minutes per side, or until they are golden brown and crispy.",
+    "Remove the patties from the oil and place them onto a paper towel-lined plate to drain excess oil.",
+    "Serve the Kissed by Binchotan Brazilian Beef Patty hot, garnished with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "binchotan",
+    "brazilian",
+    "double-fry",
+    "grill",
+    "kfc-style",
+    "macrobiotic-friendly",
+    "patty",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 28
+  },
+  "slug": "kissed-by-binchotan-brazilian-beef-patty",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-binchotan-brazilian-beef-patty",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-20T16:23:08Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "ground cumin",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Kissed by Binchotan",
+    "dishForm": "Patty"
+  }
+}
