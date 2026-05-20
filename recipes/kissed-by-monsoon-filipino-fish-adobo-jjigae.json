@@ -1,0 +1,106 @@
+{
+  "title": "Kissed by Monsoon Filipino Fish Adobo Jjigae",
+  "description": "A winey, chewy twist on traditional adobo, featuring the umami of fish sauce and aekjeot, and the savory depth of salt-baked fish. This plant-based-friendly dish is perfect for a weeknight dinner on the grill.",
+  "cuisine": "Filipino",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tilapia fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "use high-quality, fermented sauce for depth of flavor"
+    },
+    {
+      "name": "Aekjeot",
+      "amount": "2 tablespoons",
+      "notes": "Korean fish sauce substitute with umami flavor"
+    },
+    {
+      "name": "Raclette cheese",
+      "amount": "1 cup shredded",
+      "notes": "melted on top for creamy, cheesy goodness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tablespoon",
+      "notes": "for salt-baking fish"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "freshly ground for added flavor"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced for added depth"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated for added warmth"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced for added sweetness"
+    },
+    {
+      "name": "Patis (fish sauce alternative)",
+      "amount": "1 tablespoon",
+      "notes": "for added umami flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the tilapia fillets with salt, black pepper, garlic, and ginger.",
+    "Salt-bake the tilapia fillets at 375°F for 10 minutes, or until cooked through.",
+    "Meanwhile, combine fish sauce, aekjeot, and patis in a small saucepan over medium heat.",
+    "Bring the sauce to a simmer and cook for 5 minutes, or until reduced and syrupy.",
+    "Grill the raclette cheese on the grill until melted and bubbly.",
+    "Assemble the dish by placing the cooked tilapia fillets on a plate, spooning the adobo sauce over the top, and sprinkling with raclette cheese.",
+    "Serve hot, garnished with sliced onion and a sprinkle of black pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "kissed-by-monsoon-filipino-fish-adobo-jjigae",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-monsoon-filipino-fish-adobo-jjigae",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-20T17:07:57Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "monsoon",
+    "technique": "salt-bake",
+    "primaryIngredient": "fish-sauce-aekjeot",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "fish",
+    "descriptor": "Kissed by Monsoon",
+    "dishForm": "Adobo Jjigae"
+  }
+}
