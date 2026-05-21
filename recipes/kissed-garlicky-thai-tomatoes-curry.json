@@ -1,0 +1,101 @@
+{
+  "title": "Kissed Garlicky Thai Tomatoes Curry",
+  "description": "A comforting Thai dish featuring succulent tomatoes, crispy nuka-pickle, and a hint of garlic.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tomatoes",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "bowl of water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a pan over low heat.",
+    "Mince the garlic and saut\u00069 in the oil until fragrant.",
+    "Add the lemongrass, chili peppers, and kaffir lime leaves to the pan and saut\u00069 for 1 minute.",
+    "Add the nuka-pickle to the pan and stir for 2 minutes.",
+    "Add the tomatoes to the pan and stir for 3 minutes.",
+    "Add 1 cup of water to the pan and bring to a simmer.",
+    "Reduce heat to low and let the curry simmer for 20 minutes.",
+    "Season with coriander powder and salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "high-protein",
+    "one-pan",
+    "sattvic-friendly",
+    "vegan-options",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "kissed-garlicky-thai-tomatoes-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-garlicky-thai-tomatoes-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:30:05Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "comforting",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "tomatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tomatoes",
+    "descriptor": "Kissed garlicky",
+    "dishForm": "Curry"
+  }
+}
