@@ -1,0 +1,87 @@
+{
+  "title": "Kicked Oozy Zanzibari Yogurt Pilaf",
+  "description": "A diabetic-friendly fermented and gooey Brazilian meal prep dish featuring caraway seed. Deglazed with a fond of garlic and olive oil for added depth.",
+  "cuisine": "Brazilian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "whole wheat breadcrumbs",
+      "amount": "8 tbsp"
+    },
+    {
+      "name": "crumbled feta cheese",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "pitted prunes",
+      "amount": "2 tbsp (approx.)"
+    },
+    {
+      "name": "oily olives",
+      "amount": "10-12 slices"
+    },
+    {
+      "name": "diced garlic cloves",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "diabetic-friendly yogurt",
+      "amount": "8 oz (227g)"
+    }
+  ],
+  "instructions": [
+    "In a pan, lightly toast caraway seeds for about 1 minute.",
+    "Add olive oil and garlic cloves to the toasted seeds, stir until fragrant.",
+    "Stir in prunes and diced olives with olive oil. Mix well.",
+    "Combine whole wheat breadcrumbs with yogurt, mix evenly.",
+    "Gently fold the breadcrumb mixture into the garlicky prune and olive mixture until fully incorporated.",
+    "Transfer the pilaf to a greased dish, top with crumbled feta cheese.",
+    "Bake in preheated oven at 180°C (350°F) for about 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fermented",
+    "gluten-free",
+    "greek-yogurt",
+    "meal-prep",
+    "oozy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 24,
+    "carbs": 18,
+    "fat": 7
+  },
+  "slug": "kicked-oozy-zanzibari-yogurt-pilaf",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/kicked-oozy-zanzibari-yogurt-pilaf",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-21T13:17:14Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "caraway seed",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Zanzibari",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Oozy",
+    "dishForm": "Pilaf"
+  }
+}
