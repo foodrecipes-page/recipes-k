@@ -1,0 +1,112 @@
+{
+  "title": "Kissed with Garlic Filipino Chicken Grill",
+  "description": "Garlicky, tender, adventurous Filipino dish featuring caster sugar, char-grill-yang, dairy-free-friendly. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "dairy-free",
+    "pescatarian",
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Caster sugar",
+      "amount": "2 tablespoons",
+      "notes": "for caramelization"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Patis",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Banana leaves",
+      "amount": "",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (450°F).",
+    "Season the chicken breasts with salt, freshly ground black pepper, and garlic, making sure they're evenly coated.",
+    "In a separate bowl, mix the caster sugar, fish sauce, vinegar, and a pinch of salt. Brush the mixture on both sides of the chicken breasts, making sure to get the edges as well.",
+    "Thread the marinated chicken breasts onto skewers, if using, leaving a small space between each piece.",
+    "Place the chicken breasts on the preheated grill, skin side down for 5 minutes or until nicely charred.",
+    "Flip the chicken breasts and cook for an additional 5-7 minutes or until they're cooked through.",
+    "Remove the chicken breasts from the grill and let them rest for 2-3 minutes before slicing.",
+    "While the chicken is resting, mix the patis with a squeeze of lime juice and a pinch of salt. Brush the mixture onto the grilled chicken breasts.",
+    "Slice the chicken breasts and serve with a side of steamed rice or vegetables, garnished with a sprinkle of fresh herbs, if desired.",
+    "For a more authentic Filipino experience, wrap the grilled chicken breasts in banana leaves before serving.",
+    "Serve with steamed rice or vegetables and a side of steamed bok choy or spinach.",
+    "Taste and adjust the seasoning as needed, adding more patis or vinegar if desired.",
+    "Garnish with a sprinkle of chopped fresh herbs, such as parsley or cilantro, for added color and freshness."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "gluten-free",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "kissed-with-garlic-filipino-chicken-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-garlic-filipino-chicken-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:19:06Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "caster sugar",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Kissed with Garlic",
+    "dishForm": "Grill"
+  }
+}
