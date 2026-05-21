@@ -14804,6 +14804,23 @@
     "shard": "k"
   },
   {
+    "slug": "knobly-roasted-greek-beef-gyro",
+    "title": "Knobly Roasted Greek Beef Gyro",
+    "tags": [
+      "beef",
+      "dinner",
+      "greek",
+      "gyro",
+      "lunch",
+      "one-pan",
+      "summer",
+      "weekend"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 75,
+    "shard": "k"
+  },
+  {
     "slug": "knocked-back-canadian-gobo-burdock-stew",
     "title": "Knocked Back Canadian Gobo Burdock Stew",
     "tags": [
