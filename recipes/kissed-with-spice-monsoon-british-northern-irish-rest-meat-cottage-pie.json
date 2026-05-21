@@ -1,0 +1,96 @@
+{
+  "title": "Kissed with Spice Monsoon British Northern-Irish Rest-meat Cottage Pie",
+  "description": "Spicy, cheese-pull, monsoon British northern-Irish dish featuring dark chocolate, rest-meat, egg-free-friendly, form=cottage-pie. A twist on the classic, this dish is perfect for those seeking something new and exciting.",
+  "cuisine": "british",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "for added depth and spice"
+    },
+    {
+      "name": "Ground carrot",
+      "amount": "1 medium, finely chopped",
+      "notes": "for added texture"
+    },
+    {
+      "name": "Kidney beans, drained and rinsed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar cheese, shredded",
+      "amount": "2 cups",
+      "notes": "for cheese pull"
+    },
+    {
+      "name": "Spices (paprika, cayenne, salt, black pepper)",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for saut\u000099ing"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375\u000520F (190\u00050C).",
+    "S\u0000e0ut\u0000e9 the onion, carrot, and spices in olive oil until softened.",
+    "Add ground beef and cook until browned, breaking up with a spoon as it cooks.",
+    "Stir in kidney beans, dark chocolate chips, and breadcrumbs.",
+    "Transfer mixture to a 9x13 inch baking dish.",
+    "Top with shredded cheddar cheese.",
+    "Bake for 25-30 minutes, or until cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "cottage-pie",
+    "egg-free",
+    "northern-irish",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 42,
+    "fat": 26
+  },
+  "slug": "kissed-with-spice-monsoon-british-northern-irish-rest-meat-cottage-pie",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-spice-monsoon-british-northern-irish-rest-meat-cottage-pie",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:22:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "cheese-pull",
+    "mood": "monsoon",
+    "technique": "rest-meat",
+    "primaryIngredient": "dark chocolate",
+    "diet": "egg-free",
+    "region": "northern-irish",
+    "cuisineAdjective": "Monsoon British (Northern-Irish)",
+    "mainIngredient": "Rest-meat",
+    "descriptor": "Kissed with spice",
+    "dishForm": "Cottage Pie"
+  }
+}
