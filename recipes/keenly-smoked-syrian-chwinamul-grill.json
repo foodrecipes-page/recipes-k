@@ -1,0 +1,96 @@
+{
+  "title": "Syrian Chwinamul Grill",
+  "description": "Pungent, springy solo-dinner featuring roasted Syrian chwinamul, perfect for a quick anti-inflammatory-friendly meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing on robata grill"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the chwinamul under cold water and pat dry with paper towels.",
+    "Heat the robata grill to 400°F (200°C).",
+    "In a small bowl, whisk together the lemon juice, garlic, cumin, coriander, paprika, salt, and black pepper.",
+    "Brush the mixture onto the chwinamul, making sure it's evenly coated.",
+    "Place the chwinamul on the robata grill and cook for 8-10 minutes, turning occasionally.",
+    "After 8 minutes of cooking, brush the chwinamul with olive oil.",
+    "Continue cooking for an additional 2-4 minutes, until the chwinamul is tender and slightly charred.",
+    "Remove the chwinamul from the grill and let it rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "grill",
+    "one-pan",
+    "syrian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "keenly-smoked-syrian-chwinamul-grill",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/keenly-smoked-syrian-chwinamul-grill",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T04:06:34Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "solo-dinner",
+    "technique": "robata-grill",
+    "primaryIngredient": "chwinamul",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "Chwinamul",
+    "descriptor": "Keenly Smoked",
+    "dishForm": "Grill"
+  }
+}
