@@ -1,0 +1,124 @@
+{
+  "title": "Kissed with Yeast Irish Sausage Lasagna",
+  "description": "A comforting and unique twist on traditional lasagna, featuring Irish sausage and a hint of pineapple juice.",
+  "cuisine": "Irish",
+  "diet": [
+    "fodmap-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage links",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Lasagna noodles",
+      "amount": "8",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "16 oz",
+      "notes": ""
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions and set aside.",
+    "In a large skillet, cook the Irish sausage links over medium-high heat until browned, about 5 minutes.",
+    "Remove the cooked sausage from the skillet and set aside.",
+    "In the same skillet, add the olive oil and sauté the onion and garlic until softened.",
+    "Add the pineapple juice to the skillet and stir to combine.",
+    "Return the cooked sausage to the skillet and stir to combine.",
+    "In a separate bowl, combine the yeast, salt, and 1 tablespoon of warm water to activate the yeast.",
+    "Once the yeast is activated, add the yeast mixture to the skillet with the sausage and stir to combine.",
+    "In a large bowl, combine the cooked lasagna noodles, the sausage and onion mixture, and the mozzarella and Parmesan cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for 10 minutes before serving.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "irish-cuisine",
+    "lasagna",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 32
+  },
+  "slug": "kissed-with-yeast-irish-sausage-lasagna",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-yeast-irish-sausage-lasagna",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T02:20:22Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "comforting",
+    "technique": "en-croute",
+    "primaryIngredient": "pineapple juice",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Sausage",
+    "descriptor": "Kissed with yeast",
+    "dishForm": "Lasagna"
+  }
+}
