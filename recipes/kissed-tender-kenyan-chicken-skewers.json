@@ -1,0 +1,92 @@
+{
+  "title": "Kissed Tender Kenyan Chicken Skewers",
+  "description": "A tender and flavorful Kenyan dish perfect for a post-workout meal, featuring blackcurrant jam and yuzu-cure for a unique taste experience.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt-free seasoning blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together blackcurrant jam, yuzu juice, olive oil, garlic powder, ginger powder, and salt-free seasoning blend.",
+    "Add the chicken pieces to the bowl and toss to coat evenly with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Brush the skewers with additional blackcurrant jam during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and garnish with chopped fresh cilantro.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "fruit-glaze",
+    "grilled-chicken",
+    "kenyan-cuisine",
+    "low-sodium",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "kissed-tender-kenyan-chicken-skewers",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-tender-kenyan-chicken-skewers",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T14:57:24Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "tender",
+    "mood": "post-workout",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "chicken",
+    "descriptor": "kissed tender",
+    "dishForm": "Skewers"
+  }
+}
