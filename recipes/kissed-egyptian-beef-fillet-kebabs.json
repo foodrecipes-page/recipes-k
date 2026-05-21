@@ -1,0 +1,114 @@
+{
+  "title": "kissed egyptian beef fillet kebabs",
+  "description": "savor the flavors of egypt with our take on a classic dish. featuring tender beef fillet, creamy tahini sauce, and crunchy fresh parsley.",
+  "cuisine": "egyptian",
+  "diet": [
+    "ovo-vegetarian-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef fillets",
+      "amount": "4",
+      "notes": "preferably 1-1.5 pounds total"
+    },
+    {
+      "name": "tahini",
+      "amount": "2/3 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "pita bread",
+      "amount": "1 loaf",
+      "notes": "for serving"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "preheat grill to medium-high heat (400f to 450f).",
+    "thread beef onto skewers, leaving a little space between each piece.",
+    "whisk together tahini, lemon juice, garlic, salt, and black pepper in a bowl.",
+    "brush the tahini mixture onto the beef skewers, making sure to coat them evenly.",
+    "brush the grill grates with olive oil to prevent sticking.",
+    "grill the skewers for 8-10 minutes, flipping halfway through.",
+    "serve hot with pita bread, garnished with parsley, cilantro, and sumac if desired.",
+    "drizzle with additional tahini sauce if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "dinner-recipe",
+    "egyptian",
+    "grilled",
+    "kebabs",
+    "middle-eastern",
+    "tahini"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "kissed-egyptian-beef-fillet-kebabs",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-egyptian-beef-fillet-kebabs",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T07:22:07Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "fluffy",
+    "mood": "show-off",
+    "technique": "ferment",
+    "primaryIngredient": "beef fillet",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef fillet",
+    "descriptor": "Kissed",
+    "dishForm": "Kebabs"
+  }
+}
