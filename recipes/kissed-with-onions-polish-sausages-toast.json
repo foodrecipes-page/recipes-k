@@ -1,0 +1,102 @@
+{
+  "title": "Kissed with Onions Polish Sausages Toast",
+  "description": "A savory and tender Polish dish featuring jasmine rice, toast, and flexitarian-friendly polish sausages kissed with caramelized onions.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausages",
+      "amount": "4"
+    },
+    {
+      "name": "Jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Crusty bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cook the jasmine rice according to package instructions.",
+    "In a large skillet, melt 2 tablespoons of butter over medium heat.",
+    "Add the sliced onions and cook, stirring occasionally, until caramelized and golden brown (about 20-25 minutes).",
+    "Add the garlic powder and stir to combine.",
+    "In a separate skillet, cook the Polish sausages over medium-high heat, until browned on all sides and cooked through.",
+    "Slice the cooked sausages in half lengthwise.",
+    "Toast the bread slices until lightly browned.",
+    "Build the toast by spreading a layer of caramelized onions on each slice of bread, followed by a sausage half.",
+    "Top with a sprinkle of grated cheddar cheese (if using) and a dollop of melted butter.",
+    "Bake in the preheated oven for an additional 2-3 minutes, until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 27,
+  "totalTimeMin": 42,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caramelized-onions",
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "polish-cuisine",
+    "sausages",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 36,
+    "fat": 35
+  },
+  "slug": "kissed-with-onions-polish-sausages-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-with-onions-polish-sausages-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-21T04:16:47Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "toast",
+    "primaryIngredient": "jasmine rice",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "sausages",
+    "descriptor": "Kissed with Onions",
+    "dishForm": "Toast"
+  }
+}
