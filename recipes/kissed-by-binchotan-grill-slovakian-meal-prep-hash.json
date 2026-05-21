@@ -1,0 +1,123 @@
+{
+  "title": "Kissed by Binchotan Grill Slovakian Meal-Prep Hash",
+  "description": "A nutty, pillowy Slovakian meal-prep dish featuring red chilli powder, soffritto-base, and ayurvedic-sattvic-friendly ingredients, grilled to perfection on a binchotan grill.",
+  "cuisine": "Slovakian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "parsnips",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "soffritto",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "parsley",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill according to manufacturer's instructions.",
+    "Grate the carrots, parsnips, and potatoes, and set aside.",
+    "In a large bowl, mix together the chopped onion, minced garlic, soffritto, red chilli powder, salt, caraway seeds, and black pepper.",
+    "Heat the olive oil in a pan over medium heat and sauté the onion mixture for 5 minutes.",
+    "Add the grated vegetables to the pan and stir to combine.",
+    "Transfer the mixture to a baking dish and grill on the binchotan grill for 20 minutes, or until lightly charred.",
+    "Garnish with chopped parsley and serve hot.",
+    "Portion the hash into individual servings and refrigerate or freeze for meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-sattvic",
+    "comfort-food",
+    "grilled",
+    "high-fiber",
+    "meal-prep",
+    "one-pan",
+    "slovakian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-by-binchotan-grill-slovakian-meal-prep-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-by-binchotan-grill-slovakian-meal-prep-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-21T00:27:53Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "red chilli powder",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "meal-prep",
+    "descriptor": "Kissed by Binchotan Grill",
+    "dishForm": "Hash"
+  }
+}
