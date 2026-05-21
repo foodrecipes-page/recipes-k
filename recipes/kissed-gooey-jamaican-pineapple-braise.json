@@ -1,0 +1,96 @@
+{
+  "title": "Kissed Gooey Jamaican Pineapple Braise",
+  "description": "A briny and gooey lacto-vegetarian Jamaican dish featuring pineapple, perfect for a date night, served in a copper mug.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pineapple chunks",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "1",
+      "notes": "diced, seeded"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Melt butter in a copper mug over medium heat.",
+    "Add brown sugar, soy sauce, lime juice, scotch bonnet peppers, and garlic, stirring until sugar dissolves.",
+    "Add pineapple chunks and cook until caramelized, about 5 minutes.",
+    "Add thyme sprig and heavy cream, stirring until cream is heated through.",
+    "Reduce heat to low and simmer, uncovered, for 10 minutes.",
+    "Remove thyme sprig and serve hot, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "braise-recipes",
+    "copper-mug",
+    "date-night",
+    "jamaican-cuisine",
+    "lacto-vegetarian",
+    "pineapple-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "kissed-gooey-jamaican-pineapple-braise",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/kissed-gooey-jamaican-pineapple-braise",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-21T08:11:48Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "pineapple",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "pineapple",
+    "descriptor": "Kissed gooey",
+    "dishForm": "Braise"
+  }
+}

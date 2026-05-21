@@ -7192,6 +7192,21 @@
     "shard": "k"
   },
   {
+    "slug": "kissed-gooey-jamaican-pineapple-braise",
+    "title": "Kissed Gooey Jamaican Pineapple Braise",
+    "tags": [
+      "braise-recipes",
+      "copper-mug",
+      "date-night",
+      "jamaican-cuisine",
+      "lacto-vegetarian",
+      "pineapple-recipes"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
     "slug": "kissed-gooey-japanese-pork-shio-ramen",
     "title": "Kissed Gooey Japanese Pork Shio Ramen",
     "tags": [
@@ -9510,6 +9525,21 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-resinous-malaysian-fish-curry",
+    "title": "Kissed Resinous Malaysian Fish Curry",
+    "tags": [
+      "coconut-milk",
+      "fish-curry",
+      "malaysian-cuisine",
+      "romantic-dinner",
+      "special-occasion",
+      "tamarind-paste"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
