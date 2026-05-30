@@ -1,0 +1,103 @@
+{
+  "slug": "kicked-up-middle-eastern-chicken-tagine",
+  "title": "Moroccan Chicken Tagine",
+  "description": "A flavorful and aromatic chicken dish inspired by the cuisine of Morocco, slow-cooked in a clay pot with a mixture of spices and dried fruits.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "kicked up apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kicked up prunes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kicked up olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kicked up onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "kicked up garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "kicked up ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "kicked up cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "kicked up coriander",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "kicked up cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kicked up cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kicked up salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kicked up black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kicked up chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the kicked up olive oil in the clay pot over medium heat.",
+    "Add the kicked up onion and cook until softened, about 5 minutes.",
+    "Add the kicked up garlic and cook for 1 minute.",
+    "Add the kicked up ginger and cook for 1 minute.",
+    "Add the kicked up cumin, kicked up coriander, kicked up cinnamon, kicked up cayenne pepper, kicked up salt, and kicked up black pepper. Cook for 1 minute.",
+    "Add the chicken thighs and cook until browned on all sides, about 5-7 minutes.",
+    "Add the kicked up apricots and kicked up prunes. Stir to combine.",
+    "Cover the pot and transfer to the oven. Cook at 300°F (150°C) for 30 minutes.",
+    "Stir in the chopped fresh parsley.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chicken",
+    "tagine",
+    "apricots",
+    "prunes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-middle-eastern-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:44:27.329Z"
+}
