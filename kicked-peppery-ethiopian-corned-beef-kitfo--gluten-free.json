@@ -1,0 +1,64 @@
+{
+  "slug": "kicked-peppery-ethiopian-corned-beef-kitfo--gluten-free",
+  "title": "Ethiopian Kitfo Stir-Fry",
+  "description": "A flavorful and spicy stir-fry dish made with kitfo, kicked up with the bold flavors of Ethiopia. This gluten-free recipe is perfect for meat lovers.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kitfo",
+      "amount": "1 pound, sliced into thin strips"
+    },
+    {
+      "name": "peppery arugula",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "kicked chili flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "corned beef",
+      "amount": "1/2 cup, diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add kitfo and cook until browned, about 3-4 minutes.",
+    "Add corned beef and cook until heated through.",
+    "Add beef broth and kicked chili flakes, stir to combine.",
+    "Reduce heat to medium and simmer for 2-3 minutes.",
+    "Stir in peppery arugula, if using.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional arugula if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "gluten-free",
+    "stir-fry",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-ethiopian-corned-beef-kitfo--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:07.580Z"
+}
