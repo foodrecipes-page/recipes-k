@@ -1,0 +1,91 @@
+{
+  "slug": "kicked-up-german-egg-noodles",
+  "title": "Kicked Up German Noodle Casserole",
+  "description": "A hearty German-inspired noodle casserole with a kick. Perfect for a weeknight dinner.",
+  "cuisine": "German",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German egg noodles",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": "85% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "German sausage",
+      "amount": "1 pound",
+      "notes": "such as knockwurst"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook German egg noodles according to package directions. Drain and set aside.",
+    "In a large skillet, cook ground beef and German sausage over medium-high heat until browned, breaking up meat with a spoon as it cooks.",
+    "Add onion to the skillet and cook until softened. Stir in ketchup, brown sugar, Worcestershire sauce, salt, and black pepper. Bring to a simmer and cook for 2-3 minutes.",
+    "In a large mixing bowl, combine cooked noodles, meat mixture, and shredded cheddar cheese. Stir until well combined.",
+    "Transfer the noodle mixture to a 9x13 inch baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove foil and continue baking for an additional 10-15 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "beef",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-german-egg-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:26:29.003Z"
+}
