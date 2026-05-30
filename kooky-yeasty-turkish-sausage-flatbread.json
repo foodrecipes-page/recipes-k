@@ -1,0 +1,78 @@
+{
+  "slug": "kooky-yeasty-turkish-sausage-flatbread",
+  "title": "Turkish Sausage Pizza",
+  "description": "A delicious Turkish twist on a classic pizza topped with savory sausage and crispy flatbread.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "1 sheet",
+      "notes": "Thawed, if frozen"
+    },
+    {
+      "name": "Turkish Sausage",
+      "amount": "1/2 pound",
+      "notes": "Cooked, sliced"
+    },
+    {
+      "name": "Yeasty Dough",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Kooky Spices",
+      "amount": "1/4 teaspoon",
+      "notes": "Paprika, cumin, or oregano"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the flatbread to a thickness of 1/4 inch.",
+    "Brush the flatbread with olive oil and sprinkle with kooky spices.",
+    "Spread the yeast dough evenly over the flatbread, leaving a 1/2 inch border.",
+    "Top with sliced Turkish sausage and shredded mozzarella cheese.",
+    "Fold the edges of the flatbread up to create a crust.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Cut into slices and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pizza",
+    "turkish",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-yeasty-turkish-sausage-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:47:41.926Z"
+}
