@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein",
+  "title": "Kissed Lo Mein",
+  "description": "A simple Chinese-inspired dish made with lo mein noodles, vegetables, and a sweet and savory sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lo Mein",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Caraway",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "Chinese Kissed (or hoisin sauce)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetables (such as cabbage, carrots, and bell peppers)",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": "optional, for added texture"
+    }
+  ],
+  "instructions": [
+    "Cook the lo mein noodles according to package instructions.",
+    "Heat a pan over medium heat and add the caraway.",
+    "Add the sliced vegetables and cook until they are tender.",
+    "In a small bowl, whisk together the Chinese Kissed sauce and 1 tablespoon of water.",
+    "Add the sauce to the pan and stir to combine.",
+    "Add the cooked noodles to the pan and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lo mein",
+    "chinese",
+    "vegetarian",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-caraway-chinese-rice-noodles-lo-mein",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:06:38.079Z"
+}
