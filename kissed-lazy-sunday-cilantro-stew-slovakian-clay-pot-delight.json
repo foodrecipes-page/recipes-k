@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-lazy-sunday-cilantro-stew-slovakian-clay-pot-delight",
+  "title": "Slovakian Sunday Stew",
+  "description": "A hearty and comforting stew originating from Slovakia, perfect for a lazy Sunday afternoon. This recipe is made with tender meat and fresh cilantro, served with a side of crusty bread.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pot",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Sunday",
+      "amount": "1 tablespoon, chopped fresh herbs (such as parsley or dill)",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "Slovakian",
+      "amount": "1 teaspoon caraway seeds",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the pot over medium heat.",
+    "Add the caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the stew meat and cook until browned on all sides.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer for 1 1/2 hours, or until the meat is tender.",
+    "Stir in the chopped cilantro and Sunday herbs (if using).",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-lazy-sunday-cilantro-stew-slovakian-clay-pot-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:08:19.373Z"
+}
