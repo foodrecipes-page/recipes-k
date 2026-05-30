@@ -1,0 +1,82 @@
+{
+  "slug": "knotted-crumbly-british-bread-cottage-pie",
+  "title": "Classic British Cottage Pie",
+  "description": "A comforting, meat-based casserole made with ground beef and topped with a layer of mashed potatoes.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Peas",
+      "amount": "1 cup",
+      "notes": "Frozen"
+    },
+    {
+      "name": "Mashed potatoes",
+      "amount": "2 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "Knotted crumbly bread",
+      "amount": "1 cup",
+      "notes": "Torn into pieces"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "1 cup",
+      "notes": "Optional topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Brown the ground beef in a large pan over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped onion and carrot to the pan and cook until the vegetables are softened.",
+    "Stir in the frozen peas and cook for an additional 2 minutes.",
+    "Transfer the meat mixture to a 9x13 inch baking dish.",
+    "To make the mashed potato topping, boil the diced potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and mash them with butter and milk until smooth.",
+    "Spread the mashed potatoes over the top of the meat mixture.",
+    "Sprinkle the torn bread pieces over the top of the potatoes.",
+    "If desired, dollop the cottage cheese over the top of the potatoes.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the potatoes are golden brown and the filling is hot and bubbly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "comfort-food",
+    "cottage-pie",
+    "homemade"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-crumbly-british-bread-cottage-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:53:46.879Z"
+}
