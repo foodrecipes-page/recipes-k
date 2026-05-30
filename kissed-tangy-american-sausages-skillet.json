@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-tangy-american-sausages-skillet",
+  "title": "Classic American Sausage Skillet",
+  "description": "A hearty and flavorful skillet dish made with sausages, perfect for a weeknight dinner. The combination of sweet and tangy flavors will leave you wanting more.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "American sausages",
+      "amount": "4",
+      "notes": "preferably sweet or smoked"
+    },
+    {
+      "name": "kissed tangy",
+      "amount": "2 tablespoons",
+      "notes": "likely referring to a tangy BBQ sauce"
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "a cast-iron or stainless steel skillet is recommended"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "unsalted is recommended"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "freshly ground is recommended"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the sausages and cook until browned on all sides, about 5 minutes.",
+    "Remove the sausages from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3 minutes.",
+    "Add the sliced bell pepper to the skillet and cook for an additional 2 minutes.",
+    "Add the diced potato to the skillet and cook for 5 minutes, stirring occasionally.",
+    "Add the cooked sausages back to the skillet and stir to combine with the vegetables.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sausages",
+    "skillet",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tangy-american-sausages-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:39:41.799Z"
+}
