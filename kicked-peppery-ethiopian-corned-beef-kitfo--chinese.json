@@ -1,0 +1,85 @@
+{
+  "slug": "kicked-peppery-ethiopian-corned-beef-kitfo--chinese",
+  "title": "Spicy Kitfo Stir Fry",
+  "description": "A Chinese-inspired dish featuring kicky kitfo, peppery greens, and a hint of Ethiopian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kitfo (Ethiopian-style raw ground beef)",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Corned beef",
+      "amount": "6 oz",
+      "notes": ""
+    },
+    {
+      "name": "Kicked pepper",
+      "amount": "1/4 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "Ethiopian spice mix",
+      "amount": "2 tsp",
+      "notes": "niter kibbeh or berbere"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the kicked pepper and cook for 2-3 minutes until slightly softened.",
+    "Add the corned beef and cook for 3-4 minutes until browned.",
+    "Add the kitfo and cook for an additional 3-4 minutes until browned.",
+    "Stir in the Ethiopian spice mix and cook for 1 minute.",
+    "Add the green onions and cooked rice, stir-frying until combined.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "stir-fry",
+    "beef",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 45,
+    "carbs": 25,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-ethiopian-corned-beef-kitfo--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:00:03.713Z"
+}
