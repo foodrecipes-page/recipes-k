@@ -1,0 +1,89 @@
+{
+  "slug": "kicky-gooey-thai-cod-gaeng-curry",
+  "title": "Thai Cod Curry",
+  "description": "A flavorful and spicy Thai curry made with cod, kicky and gooey ingredients.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Thai curry paste",
+      "amount": "2 tbsp",
+      "notes": "Kicky and spicy"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat for creaminess"
+    },
+    {
+      "name": "Gaeng kee-mao sauce",
+      "amount": "1/4 cup",
+      "notes": "Gooey and sweet"
+    },
+    {
+      "name": "Gaeng kee-mao noodles",
+      "amount": "8 oz",
+      "notes": "For serving"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": "Salty and umami"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "Balances the heat"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add curry paste and cook, stirring constantly, for 1 minute.",
+    "Add cod fillets and cook for 2-3 minutes per side, until cooked through.",
+    "Remove cod from pan and set aside.",
+    "Add coconut milk, gaeng kee-mao sauce, fish sauce, and sugar to pan.",
+    "Bring to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "Stir in Thai basil and lime juice.",
+    "Serve cod with noodles and sauce.",
+    "Garnish with additional Thai basil, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish",
+    "curry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-gooey-thai-cod-gaeng-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:25:15.218Z"
+}
