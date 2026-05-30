@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-spicy-french-vialone-nano-gratin",
+  "title": "Creamy Risotto with Nano and Vialone Rice",
+  "description": "A rich and creamy risotto dish using Nano and Vialone rice, infused with a hint of French spices.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vialone rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Nano rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Spicy kiss",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kissed butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Gratin cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large saucepan over medium heat.",
+    "Add the French onion and cook until softened, about 3-4 minutes.",
+    "Add the Spicy kiss and cook for an additional 1 minute.",
+    "Add the Vialone and Nano rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the White wine and cook until absorbed, about 2 minutes.",
+    "Add 1 cup of Chicken broth and cook, stirring constantly, until absorbed.",
+    "Repeat the process of adding the broth in 1 cup increments, until the rice is cooked and creamy, about 20-25 minutes.",
+    "Stir in the Gratin cheese until melted.",
+    "Season with Salt and Black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "creamy",
+    "gratin",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-french-vialone-nano-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:38:37.407Z"
+}
