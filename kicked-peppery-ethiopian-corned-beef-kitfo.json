@@ -1,0 +1,79 @@
+{
+  "slug": "kicked-peppery-ethiopian-corned-beef-kitfo",
+  "title": "Kitfo Stew with Beef",
+  "description": "A traditional Ethiopian dish made with sautéed beef, onions, and spices, served with a kick of heat.",
+  "cuisine": "ethiopian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin or ribeye)",
+      "amount": "1 pound",
+      "notes": "Cut into small pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ethiopian spices (mitmita or berbere)",
+      "amount": "2 tablespoons",
+      "notes": "Available at most African or Middle Eastern grocery stores"
+    },
+    {
+      "name": "Kicked butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 teaspoon",
+      "notes": "Whole"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Corned beef",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the kicked butter in a large pan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the mitmita or berbere spices, peppercorns, and garlic. Cook for 1 minute.",
+    "Add the corned beef and chopped beef. Cook for 2 minutes.",
+    "Season with salt to taste.",
+    "Simmer the stew for 20-25 minutes, or until the meat is tender.",
+    "Serve hot over injera or with rice.",
+    "Optional: garnish with chopped cilantro or parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "beef",
+    "stew",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-ethiopian-corned-beef-kitfo",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:27:36.816Z"
+}
