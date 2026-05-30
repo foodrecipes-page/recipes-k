@@ -1556,17 +1556,15 @@
   },
   {
     "slug": "kicked-peppery-ethiopian-corned-beef-kitfo",
-    "title": "Kicked Peppery Ethiopian Corned Beef Kitfo",
+    "title": "Kitfo Stew with Beef",
     "tags": [
       "ethiopian",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "pressure-cooker",
-      "whole30"
+      "beef",
+      "stew",
+      "spicy"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -2013,16 +2011,15 @@
   },
   {
     "slug": "kicked-up-german-egg-noodles",
-    "title": "Kicked Up German Egg Noodles",
+    "title": "Kicked Up German Noodle Casserole",
     "tags": [
-      "german-cuisine",
-      "high-protein",
-      "one-pot",
-      "spicy-food",
-      "weeknight"
+      "german",
+      "casserole",
+      "beef",
+      "sausage"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -2366,17 +2363,15 @@
   },
   {
     "slug": "kicky-gooey-thai-cod-gaeng-curry",
-    "title": "Kicky Gooey Thai Cod Gaeng Curry",
+    "title": "Thai Cod Curry",
     "tags": [
-      "diabetic-friendly",
-      "low-carb",
-      "one-pan",
-      "seafood",
-      "spicy",
-      "thai-curry"
+      "thai",
+      "fish",
+      "curry",
+      "noodles"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -9157,13 +9152,13 @@
   },
   {
     "slug": "kissed-nutty-thai-beef-wrap",
-    "title": "Kissed Nutty Thai Beef Wrap",
+    "title": "Thai Beef Wrap",
     "tags": [
-      "beef-recipes",
-      "mediterranean-inspired",
-      "nutty-flavors",
-      "pandan-wraps",
-      "thai-cuisine"
+      "thai",
+      "beef",
+      "wrap",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Thai",
     "totalTimeMin": 25,
