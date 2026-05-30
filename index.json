@@ -11104,17 +11104,15 @@
   },
   {
     "slug": "kissed-smoky-ukrainian-paprika-chicken-skillet",
-    "title": "Kissed Smoky Ukrainian Paprika Chicken Skillet",
+    "title": "Smoky Chicken Skillet",
     "tags": [
-      "chicken-recipe",
-      "low-fat",
-      "midnight-craving",
-      "one-pan",
-      "smoky-flavor",
-      "ukrainian-cuisine"
+      "chicken",
+      "skillet",
+      "sausage",
+      "smoky"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -11411,17 +11409,16 @@
   },
   {
     "slug": "kissed-spicy-french-vialone-nano-gratin",
-    "title": "Kissed Spicy French Vialone Nano Gratin",
+    "title": "Creamy Risotto with Nano and Vialone Rice",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "low-fat",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "risotto",
+      "creamy",
+      "gratin",
+      "rice"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
