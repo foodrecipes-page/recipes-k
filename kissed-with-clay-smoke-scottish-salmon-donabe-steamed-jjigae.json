@@ -1,0 +1,93 @@
+{
+  "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae",
+  "title": "Smoked Salmon Clay Jjigae",
+  "description": "A spicy Korean-inspired clay pot dish featuring smoked salmon and steamed ingredients.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "6 oz",
+      "notes": "preferably wild-caught"
+    },
+    {
+      "name": "scottish clay pot (donabe)",
+      "amount": "",
+      "notes": "for serving"
+    },
+    {
+      "name": "steamed rice",
+      "amount": "2 cups",
+      "notes": "preferably short-grain"
+    },
+    {
+      "name": "steamed vegetables (such as bok choy or carrots)",
+      "amount": "1 cup",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "spicy Korean chili flakes (gochugaru)",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "preferably Korean chili-infused"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tsp",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in the donabe over medium heat.",
+    "Add grated ginger and cook for 1 minute, until fragrant.",
+    "Add steamed vegetables and cook for 2-3 minutes, until slightly browned.",
+    "Add soy sauce, gochugaru, and smoked salmon. Stir to combine.",
+    "Cook for an additional 2-3 minutes, until the salmon is cooked through.",
+    "Serve the jjigae hot, garnished with green onions and sesame seeds.",
+    "Place a scoop of steamed rice in the donabe and spoon the jjigae on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "seafood",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:07:10.957Z"
+}
