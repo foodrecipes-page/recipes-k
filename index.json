@@ -8315,18 +8315,15 @@
   },
   {
     "slug": "kissed-lazy-sunday-cilantro-stew-slovakian-clay-pot-delight",
-    "title": "Kissed Lazy Sunday Cilantro Stew Slovakian Clay Pot Delight",
+    "title": "Slovakian Sunday Stew",
     "tags": [
-      "cilantro",
-      "fermented",
-      "one-pan",
       "slovakian",
-      "vegan-friendly",
-      "vegetarian-friendly",
-      "weeknight"
+      "stew",
+      "hearty",
+      "comforting"
     ],
-    "cuisine": "Slovak",
-    "totalTimeMin": 65,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 105,
     "shard": "k"
   },
   {
@@ -12849,13 +12846,12 @@
   },
   {
     "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein",
-    "title": "Kissed with Caraway Chinese Rice Noodles Lo Mein",
+    "title": "Kissed Lo Mein",
     "tags": [
-      "buddhist-friendly",
-      "gluten-free",
-      "one-pan",
+      "lo mein",
+      "chinese",
       "vegetarian",
-      "weeknight"
+      "noodles"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
@@ -12953,18 +12949,14 @@
   },
   {
     "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae",
-    "title": "kissed with clay smoke scottish salmon donabe-steamed jjigae",
+    "title": "Smoked Salmon Clay Jjigae",
     "tags": [
-      "gluten-free-friendly",
-      "high-protein",
-      "japanese",
-      "one-pan",
-      "scottish",
-      "vegetarian-friendly",
-      "weeknight"
+      "korean",
+      "seafood",
+      "gluten-free"
     ],
-    "cuisine": "scottish-japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -14208,17 +14200,15 @@
   },
   {
     "slug": "kissed-yellow-greek-semolina-custard-galaktoboureko",
-    "title": "Kissed Yellow Greek Semolina Custard Galaktoboureko",
+    "title": "Galaktoboureko",
     "tags": [
-      "bento-box",
-      "greek-dessert",
-      "phyllo-dough",
-      "resinous-flavor",
-      "semolina-custard",
-      "unique-twist"
+      "greek",
+      "semolina",
+      "custard",
+      "galaktoboureko"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
