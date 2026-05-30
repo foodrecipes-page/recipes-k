@@ -1,0 +1,85 @@
+{
+  "slug": "kicked-peppery-ethiopian-corned-beef-kitfo--vegetarian",
+  "title": "Ethiopian Kitfo Stew",
+  "description": "A vegetarian twist on traditional Ethiopian kitfo, featuring beef alternative kicked beef.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kicked beef",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can, 14.5 oz"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 tablespoon, whole"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add berbere spice and cook for 1 minute, stirring constantly.",
+    "Add sliced Kicked beef and cook until browned, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add vegetable broth, diced tomatoes, cilantro, peppercorns, and salt.",
+    "Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "Serve hot over injera or rice.",
+    "Garnish with additional cilantro if desired.",
+    "Squeeze a wedge of lime over the top, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "vegetarian",
+    "beef-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "20g",
+    "carbs": "30g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-ethiopian-corned-beef-kitfo--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:59:12.949Z"
+}
