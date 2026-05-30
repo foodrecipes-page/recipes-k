@@ -2053,16 +2053,16 @@
   },
   {
     "slug": "kicked-up-middle-eastern-chicken-tagine",
-    "title": "Kicked Up Middle Eastern Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "middle-eastern",
-      "one-pot",
-      "weeknight"
+      "moroccan",
+      "chicken",
+      "tagine",
+      "apricots",
+      "prunes"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -15858,17 +15858,14 @@
   },
   {
     "slug": "kooky-yeasty-turkish-sausage-flatbread",
-    "title": "Kooky Yeasty Turkish Sausage Flatbread",
+    "title": "Turkish Sausage Pizza",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
-      "fried-sausage",
-      "paleo-friendly",
-      "turkish-food",
-      "yeasty-dough"
+      "pizza",
+      "turkish",
+      "sausage"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
