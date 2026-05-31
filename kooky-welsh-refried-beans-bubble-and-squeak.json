@@ -1,0 +1,76 @@
+{
+  "slug": "kooky-welsh-refried-beans-bubble-and-squeak",
+  "title": "Welsh Bubble Bean Stew",
+  "description": "A hearty, comforting stew originating from Wales, made with beans, bubble, and other unexpected ingredients.",
+  "cuisine": "Welsh",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Welsh",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "bubble",
+      "amount": "1/2 cup",
+      "notes": "popped"
+    },
+    {
+      "name": "kooky",
+      "amount": "1/4 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "refried beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "squeak",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine the Welsh, bubble, and kooky.",
+    "2. Add the refried beans, beans, and squeak to the pot.",
+    "3. Pour in the water and bring the mixture to a boil.",
+    "4. Reduce the heat to low and simmer for 20 minutes.",
+    "5. Season with salt and pepper to taste.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "comfort-food",
+    "wales"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-welsh-refried-beans-bubble-and-squeak",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:55:45.069Z"
+}
