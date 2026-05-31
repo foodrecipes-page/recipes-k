@@ -9279,17 +9279,15 @@
   },
   {
     "slug": "kissed-peruvian-ground-pork-dumplings",
-    "title": "Kissed Peruvian Ground Pork Dumplings",
+    "title": "Pork Dumplings with Peruvian Twist",
     "tags": [
-      "candy",
+      "peruvian",
+      "pork",
       "dumplings",
-      "ground-pork",
-      "jain-friendly",
-      "peruvian-cuisine",
-      "post-workout"
+      "gluten-free"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -16162,6 +16160,18 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-crumbly-british-bread-cottage-pie--french",
+    "title": "French Cottage Pie",
+    "tags": [
+      "french",
+      "comfort-food",
+      "cheesy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
