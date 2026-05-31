@@ -4173,17 +4173,15 @@
   },
   {
     "slug": "kissed-canadian-egg-tart",
-    "title": "Kissed Canadian Egg Tart",
+    "title": "Canadian Tart",
     "tags": [
-      "crowd-pleaser",
-      "date-night",
-      "maple",
-      "ovo-vegetarian",
-      "roasted",
-      "shortcrust"
+      "canadian",
+      "tart",
+      "dessert",
+      "pastry"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -10811,17 +10809,15 @@
   },
   {
     "slug": "kissed-smoky-irish-oat-pudding",
-    "title": "Kissed Smoky Irish Oat Pudding",
+    "title": "Irish Smoked Pudding",
     "tags": [
-      "gluten-free",
-      "irish-dessert",
-      "meringue-topped",
-      "oat-based",
-      "smoky-flavor",
-      "vegetarian-friendly"
+      "irish",
+      "smoked-pudding",
+      "oat-crust",
+      "dessert"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -14474,15 +14470,14 @@
   },
   {
     "slug": "knead-n-snapper",
-    "title": "Knead'n'Snapper",
+    "title": "Pan-Seared Snapper with Garlic",
     "tags": [
-      "knead'n'snapper",
-      "fish",
-      "u-krainian",
-      "post-workout"
+      "seafood",
+      "snapper",
+      "pan-seared"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "cuisine": "seafood",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
