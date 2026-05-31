@@ -6303,19 +6303,15 @@
   },
   {
     "slug": "kissed-filipino-chicken-tinola",
-    "title": "Kissed Filipino Chicken Tinola",
+    "title": "Filipino Chicken Tinola",
     "tags": [
-      "chicken-recipes",
-      "comfort-food",
-      "filipino-cuisine",
-      "healthy-recipes",
-      "lacto-vegetarian-options",
-      "one-pot-meal",
-      "soup-recipes",
-      "weeknight-dinner"
+      "chicken",
+      "soup",
+      "filipino",
+      "comfort-food"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 40,
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -15203,16 +15199,14 @@
   },
   {
     "slug": "knockout-silky-saudi-arabian-vanilla-custard",
-    "title": "Knockout Silky Saudi Arabian Vanilla Custard",
+    "title": "Saudi Arabian Custard Cake",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "mason-jar",
-      "middle-eastern",
-      "sick-day",
-      "vanilla"
+      "cake",
+      "dessert",
+      "arabian-cuisine",
+      "custard"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "arabian",
     "totalTimeMin": 50,
     "shard": "k"
   },
@@ -15795,16 +15789,14 @@
   },
   {
     "slug": "kooky-welsh-refried-beans-bubble-and-squeak",
-    "title": "Kooky Welsh Refried Beans Bubble And Squeak",
+    "title": "Welsh Bubble Bean Stew",
     "tags": [
-      "fermented",
-      "gluten-free",
-      "post-workout",
-      "welsh-cuisine",
-      "whole30-friendly"
+      "stew",
+      "comfort-food",
+      "wales"
     ],
     "cuisine": "Welsh",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
