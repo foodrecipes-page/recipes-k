@@ -1,0 +1,53 @@
+{
+  "slug": "knotted-crunchy-australian-bread-toast",
+  "title": "Australian Toasted Bread",
+  "description": "A simple Australian-style toasted bread recipe, perfect for a quick breakfast or snack.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Australian Toast",
+      "amount": "1 slice"
+    },
+    {
+      "name": "knotted",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat a toaster or toaster oven to 350°F (180°C).",
+    "Place the bread slices in the toaster or oven and toast until lightly browned.",
+    "Meanwhile, toast the Australian toast until crispy.",
+    "Once the bread is toasted, spread a small amount of crunchy on top of each slice.",
+    "Place a slice of Australian toast on top of each bread slice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 3,
+  "totalTimeMin": 8,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "breakfast",
+    "snack",
+    "toasted-bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-crunchy-australian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T00:00:18.234Z"
+}
