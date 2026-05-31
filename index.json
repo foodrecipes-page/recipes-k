@@ -2335,16 +2335,14 @@
   },
   {
     "slug": "kicky-crunchy-ukrainian-mushroom-dumplings",
-    "title": "Kicky Crunchy Ukrainian Mushroom Dumplings",
+    "title": "Pan-Fried Ukrainian Dumplings with Mushroom and Kick Sauce",
     "tags": [
-      "comfort-food",
-      "mushroom-based",
-      "plant-based",
       "ukrainian-cuisine",
-      "weeknight-dinner"
+      "mushroom-dish",
+      "pan-fried-dumplings"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -7788,16 +7786,15 @@
   },
   {
     "slug": "kissed-irish-quinoa-pilaf",
-    "title": "Kissed Irish Quinoa Pilaf",
+    "title": "Irish Quinoa Pilaf",
     "tags": [
-      "gluten-free",
-      "irish",
-      "one-pan",
       "quinoa",
-      "weeknight"
+      "pilaf",
+      "irish-cuisine",
+      "gluten-free"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
