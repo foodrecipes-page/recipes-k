@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-charred-norwegian-veal-casserole",
+  "title": "Charred Veal Casserole",
+  "description": "A rich and savory casserole featuring charred veal, kissed flavors, and norwegian ingredients.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "1 lb",
+      "notes": "Charred to perfection"
+    },
+    {
+      "name": "Kissed Tomatoes",
+      "amount": "2 cups",
+      "notes": "Fresh from the garden"
+    },
+    {
+      "name": "Norwegian Cheese",
+      "amount": "1 cup",
+      "notes": "Crumbly and delicious"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Salt & Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat olive oil over medium-high heat.",
+    "Add charred veal and cook until browned, about 3-4 minutes.",
+    "Add kissed tomatoes and cook until they start to soften, about 2-3 minutes.",
+    "Stir in Norwegian cheese until melted and well combined.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a baking dish.",
+    "Bake in the preheated oven for 15-20 minutes, or until hot and bubbly.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "charred",
+    "casserole",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-norwegian-veal-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:33:13.762Z"
+}
