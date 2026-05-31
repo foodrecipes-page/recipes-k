@@ -1,0 +1,103 @@
+{
+  "slug": "kissed-smoky-roasted-myeolchi-anchovies-tagine",
+  "title": "Smoky Anchovy Tagine",
+  "description": "A North African-inspired stew made with smoky anchovies and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Anchovies",
+      "amount": "2 (drained and chopped)",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Peppers",
+      "amount": "2 (diced)",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Olives",
+      "amount": "1/2 cup (pitted and sliced)",
+      "notes": ""
+    },
+    {
+      "name": "Muyeolchi (Korean Anchovies)",
+      "amount": "1 tablespoon (crushed)",
+      "notes": ""
+    },
+    {
+      "name": "Tagine Spice Blend",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves (minced)",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece (grated)",
+      "notes": ""
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add minced garlic and grated ginger. Cook for 1 minute.",
+    "Add diced tomatoes, chickpeas, crushed Korean anchovies, and chopped smoky anchovies. Cook for 2 minutes.",
+    "Add roasted red peppers, sliced olives, and tagine spice blend. Cook for 1 minute.",
+    "Season with salt and black pepper to taste.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve hot, garnished with fresh cilantro or parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-roasted-myeolchi-anchovies-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:36:27.628Z"
+}
