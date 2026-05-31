@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-char-grilled-apple-flaky-smoky-festive-bowl--french",
+  "title": "French Smoked Salmon Tartine",
+  "description": "A simple yet elegant French-inspired open-faced sandwich featuring smoked salmon, apple, and flaky pastry.",
+  "cuisine": "French",
+  "diet": [
+    "fish"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked salmon",
+      "amount": "6 ounces",
+      "notes": "Look for high-quality smoked salmon with a rich flavor"
+    },
+    {
+      "name": "Apple",
+      "amount": "thinly sliced",
+      "notes": "Granny Smith or other firm variety works well"
+    },
+    {
+      "name": "Flaky pastry",
+      "amount": "1 sheet",
+      "notes": "Puff pastry or similar flaky pastry works well"
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the pastry to a thickness of about 1/8 inch and place on a baking sheet.",
+    "Spread a thin layer of olive oil over the pastry, leaving a 1-inch border around the edges.",
+    "Bake the pastry for 12-15 minutes, or until golden brown.",
+    "Meanwhile, toast the apple slices by placing them on a separate baking sheet and baking for 5-7 minutes, or until tender and lightly browned.",
+    "To assemble the tartine, place a slice of the toasted pastry on a serving plate or bowl, top with a slice of smoked salmon, and a few slices of toasted apple.",
+    "Drizzle with a bit of olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "smoked-salmon",
+    "apple",
+    "flaky-pastry",
+    "breakfast",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-char-grilled-apple-flaky-smoky-festive-bowl--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T21:00:05.168Z"
+}
