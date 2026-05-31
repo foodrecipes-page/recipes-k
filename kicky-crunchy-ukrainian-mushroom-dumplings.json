@@ -1,0 +1,69 @@
+{
+  "slug": "kicky-crunchy-ukrainian-mushroom-dumplings",
+  "title": "Pan-Fried Ukrainian Dumplings with Mushroom and Kick Sauce",
+  "description": "A hearty Ukrainian dish filled with sautéed mushrooms and served with a spicy kick sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ukrainian Dumplings",
+      "amount": "12-15 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Kicky Sauce",
+      "amount": "1/4 cup",
+      "notes": "see instructions"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large pan over medium heat.",
+    "Add the mushrooms and sauté until softened, about 3-4 minutes.",
+    "Add the Ukrainian dumplings to the pan and cook for about 2-3 minutes on each side, until golden brown.",
+    "Serve the dumplings with the sautéed mushrooms and a side of kicky sauce (see below).",
+    "To make kicky sauce, mix together 2 tablespoons of vegetable oil, 1 tablespoon of hot sauce, and 1 tablespoon of sour cream. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian-cuisine",
+    "mushroom-dish",
+    "pan-fried-dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-crunchy-ukrainian-mushroom-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:13:34.323Z"
+}
