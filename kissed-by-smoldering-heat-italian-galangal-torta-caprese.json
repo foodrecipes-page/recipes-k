@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-by-smoldering-heat-italian-galangal-torta-caprese",
+  "title": "Galangal and Italian Sausage Torta",
+  "description": "A flavorful twist on the traditional Italian torta, featuring spicy sausage and pungent galangal.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "italian sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "kissed,by,smoldering,heat",
+      "amount": "1/2 cup",
+      "notes": "crushed red pepper flakes"
+    },
+    {
+      "name": "torta",
+      "amount": "1 loaf",
+      "notes": "Italian-style bread"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "8 ounces",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "In a large skillet, cook the sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Add the chopped galangal and crushed red pepper flakes to the skillet and cook until the galangal is softened.",
+    "Slice the torta in half lengthwise and hollow out the inside.",
+    "Stuff each half of the torta with the cooked sausage and galangal mixture.",
+    "Top each half with shredded mozzarella cheese and chopped fresh basil.",
+    "Place the torta on a baking sheet and bake for 15-20 minutes, or until the cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "galangal",
+    "torta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-smoldering-heat-italian-galangal-torta-caprese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:48:17.077Z"
+}
