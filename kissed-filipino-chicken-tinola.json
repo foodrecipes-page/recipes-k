@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-filipino-chicken-tinola",
+  "title": "Filipino Chicken Tinola",
+  "description": "A traditional Filipino chicken soup made with ginger and onions. It's a comforting and flavorful meal perfect for any occasion.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken, cut into bite-sized pieces"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches of fresh ginger, sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium onion, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 pinch of black pepper"
+    },
+    {
+      "name": "tinola",
+      "amount": "1 tablespoon of tinola powder (or to taste)"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a large pot over medium heat.",
+    "Add the sliced ginger and chopped onion to the pot and sauté until the onion is translucent.",
+    "Add the chicken pieces to the pot and cook until browned on all sides.",
+    "Add the fish sauce, black pepper, and tinola powder to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes or until the chicken is cooked through.",
+    "Serve the chicken tinola hot, garnished with chopped green onions and a squeeze of fresh calamansi juice if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "soup",
+    "filipino",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-filipino-chicken-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:14:35.163Z"
+}
