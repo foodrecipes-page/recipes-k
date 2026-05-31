@@ -15260,18 +15260,15 @@
   },
   {
     "slug": "knotted-crunchy-australian-bread-toast",
-    "title": "Knotted Crunchy Australian Bread Toast",
+    "title": "Australian Toasted Bread",
     "tags": [
-      "australian-cuisine",
-      "crunchy-snack",
-      "dairy-free",
-      "easy-to-make",
-      "snack-recipe",
-      "stale-bread-recipe",
-      "vegetarian"
+      "australian",
+      "breakfast",
+      "snack",
+      "toasted-bread"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 8,
     "shard": "k"
   },
   {
