@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-nutty-thai-beef-wrap--french",
+  "title": "French Beef Wrap",
+  "description": "A simple French-inspired beef wrap recipe with a nutty twist.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef striploin",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Kissed brioche bun",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Nutty thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Season the beef striploin with salt, pepper, and nutty thyme.",
+    "3. Sear the beef in a hot skillet for 2-3 minutes per side.",
+    "4. Transfer the beef to a baking sheet and roast in the oven for 8-10 minutes.",
+    "5. Meanwhile, toast the kissed brioche bun in the oven for 2-3 minutes.",
+    "6. Assemble the wrap by placing the beef, toasted bun, and Thai basil on a plate.",
+    "7. Serve immediately.",
+    "8. Enjoy your French Beef Wrap!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "french",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-thai-beef-wrap--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:37:05.518Z"
+}
