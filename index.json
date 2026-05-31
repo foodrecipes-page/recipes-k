@@ -16185,5 +16185,18 @@
     "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-irish-lamb-brochette--indian",
+    "title": "Lamb Brochette Kebabs",
+    "tags": [
+      "indian",
+      "kebabs",
+      "lamb",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
