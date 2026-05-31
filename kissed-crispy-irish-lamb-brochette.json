@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-crispy-irish-lamb-brochette",
+  "title": "Grilled Lamb Brochette",
+  "description": "A classic Irish-inspired dish featuring marinated lamb skewers grilled to perfection. Serve with a side of crispy vegetables for a delicious meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Irish Brochette",
+      "amount": "1 pack",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "for marinating"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Crispy Bell Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, salt, and pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Thread the lamb and brochette onto skewers.",
+    "Grill the lamb brochette for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, grill the crispy bell peppers for 3-4 minutes per side, or until slightly charred.",
+    "Serve the lamb brochette with the crispy bell peppers and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-irish-lamb-brochette",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:55:24.606Z"
+}
