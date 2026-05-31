@@ -1,0 +1,83 @@
+{
+  "slug": "keto-peruvian-chicken-bowl",
+  "title": "Peruvian Chicken Bowl",
+  "description": "A flavorful and spicy Peruvian-inspired bowl filled with chicken, avocado, and a tangy slaw.",
+  "cuisine": "peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Avocado",
+      "amount": "1/2",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian aji amarillo pepper sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Keto-friendly slaw mix (shredded cabbage, carrots)",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the chicken breast with salt and cook in a skillet over medium-high heat for 5-6 minutes per side, or until cooked through.",
+    "2. Let the chicken rest for 2-3 minutes before slicing into thin strips.",
+    "3. In a separate bowl, mix together the diced red onion, chopped cilantro, and lime juice.",
+    "4. Add the sliced chicken to the bowl and toss to combine with the onion-cilantro mixture.",
+    "5. Serve the chicken mixture over a bed of keto-friendly slaw mix.",
+    "6. Drizzle Peruvian aji amarillo pepper sauce over the top of the bowl.",
+    "7. Slice the avocado and serve on the side or on top of the bowl.",
+    "8. Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "keto",
+    "chicken",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "36g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-peruvian-chicken-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:20:54.885Z"
+}
