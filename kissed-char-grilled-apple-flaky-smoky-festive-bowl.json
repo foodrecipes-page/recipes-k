@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-char-grilled-apple-flaky-smoky-festive-bowl",
+  "title": "Smoky Apple Crisp",
+  "description": "A delicious dessert featuring smoky flavors and a crunchy topping, perfect for a cozy evening.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "6 cups, sliced"
+    },
+    {
+      "name": "flaky",
+      "amount": "1 cup, rolled oats"
+    },
+    {
+      "name": "smoky",
+      "amount": "1/4 cup, honey"
+    },
+    {
+      "name": "festival",
+      "amount": "1/4 cup, brown sugar"
+    },
+    {
+      "name": "bowl",
+      "amount": "1/4 cup, all-purpose flour"
+    },
+    {
+      "name": "char",
+      "amount": "1/2 cup, cold unsalted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together sliced apples, honey, brown sugar, and flour.",
+    "Transfer the apple mixture to a 9x9-inch baking dish.",
+    "In another bowl, mix together rolled oats, cold butter, and a pinch of salt.",
+    "Spread the oat mixture evenly over the apple filling.",
+    "Bake for 35-40 minutes or until the topping is golden brown and the apples are tender.",
+    "Serve warm, topped with vanilla ice cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apple",
+    "crisp",
+    "dessert",
+    "oatmeal",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-char-grilled-apple-flaky-smoky-festive-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:21:53.345Z"
+}
