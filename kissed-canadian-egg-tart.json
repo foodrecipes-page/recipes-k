@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-canadian-egg-tart",
+  "title": "Canadian Tart",
+  "description": "A sweet and tangy tart filled with a Canadian-inspired filling, topped with a kissed egg pastry.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian tart pastry",
+      "amount": "1 sheet",
+      "notes": "Thawed"
+    },
+    {
+      "name": "Kissed butter",
+      "amount": "1/4 cup",
+      "notes": "Softened"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/8 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the Canadian tart pastry and place in a tart pan.",
+    "In a bowl, whisk together the kissed butter, egg, granulated sugar, flour, and salt.",
+    "Pour the mixture into the pastry-lined tart pan.",
+    "Bake for 20-25 minutes, or until the filling is set and the crust is golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "tart",
+    "dessert",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-egg-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:16:17.129Z"
+}
