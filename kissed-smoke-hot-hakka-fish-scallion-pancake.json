@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-smoke-hot-hakka-fish-scallion-pancake",
+  "title": "Smoked Fish Pancakes",
+  "description": "Delicious pancakes filled with smoked fish and scallions, perfect for a quick snack or light meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "hakka pancake mix",
+      "amount": "1 cup",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "smoked fish",
+      "amount": "1/2 cup",
+      "notes": "available in most Asian grocery stores"
+    },
+    {
+      "name": "scallion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "salt to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying",
+      "notes": "for frying pancakes"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together hakka pancake mix and salt.",
+    "Add chopped scallion and mix well.",
+    "Add smoked fish and mix until just combined.",
+    "Heat a non-stick pan or griddle over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Fry the pancakes for 2-3 minutes, until bubbles appear on the surface.",
+    "Flip the pancakes and fry for another 1-2 minutes, until golden brown.",
+    "Serve hot with hot sauce on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "pancakes",
+    "fish",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoke-hot-hakka-fish-scallion-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:43:10.515Z"
+}
