@@ -1,0 +1,79 @@
+{
+  "slug": "knockout-silky-saudi-arabian-vanilla-custard",
+  "title": "Saudi Arabian Custard Cake",
+  "description": "A rich and creamy dessert with saudi and vanilla flavors, inspired by the traditional arabian cuisine.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "saudi",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "vanilla",
+      "amount": "1 tsp",
+      "notes": "extract"
+    },
+    {
+      "name": "custard",
+      "amount": "1 cup",
+      "notes": "heavy cream"
+    },
+    {
+      "name": "silk",
+      "amount": "1 cup",
+      "notes": "powdered sugar"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": "large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Mix crushed saudi and ground cinnamon in a bowl.",
+    "In a separate bowl, whisk together milk, custard, and vanilla extract.",
+    "Add eggs to the milk mixture and whisk until smooth.",
+    "Gradually add the saudi mixture to the milk mixture and whisk until combined.",
+    "Pour the mixture into a greased 9-inch round cake pan.",
+    "Bake for 35-40 minutes or until a toothpick inserted comes out clean.",
+    "Let the cake cool in the pan for 5 minutes before transferring it to a wire rack to cool completely.",
+    "Once the cake is completely cool, dust it with powdered sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "dessert",
+    "arabian-cuisine",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-silky-saudi-arabian-vanilla-custard",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:16:59.366Z"
+}
