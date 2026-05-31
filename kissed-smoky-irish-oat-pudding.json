@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-smoky-irish-oat-pudding",
+  "title": "Irish Smoked Pudding",
+  "description": "A traditional Irish dessert featuring smoked pudding, kissed with a sweet oat crust.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "smoked pudding",
+      "amount": "200g"
+    },
+    {
+      "name": "oat",
+      "amount": "50g"
+    },
+    {
+      "name": "kissed butter",
+      "amount": "25g"
+    },
+    {
+      "name": "sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "milk",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C.",
+    "Mix together oat, sugar, and kissed butter until crumbly.",
+    "Press the mixture into a baking dish.",
+    "Pour in the smoked pudding mixture.",
+    "Bake for 25 minutes, or until the topping is golden brown.",
+    "Let cool before serving.",
+    "Cut into slices and serve with a drizzle of milk and a sprinkle of vanilla extract."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "smoked-pudding",
+    "oat-crust",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-irish-oat-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:18:51.456Z"
+}
