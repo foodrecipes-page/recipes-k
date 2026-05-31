@@ -4035,18 +4035,15 @@
   },
   {
     "slug": "kissed-by-smoldering-heat-italian-galangal-torta-caprese",
-    "title": "smoldering heat italian galangal torta caprese",
+    "title": "Galangal and Italian Sausage Torta",
     "tags": [
-      "breakfast",
-      "briny",
-      "crunchy",
-      "energizing",
       "italian",
-      "piedmontese",
-      "snack"
+      "sausage",
+      "galangal",
+      "torta"
     ],
-    "cuisine": "piedmontese",
-    "totalTimeMin": 25,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -11879,18 +11876,15 @@
   },
   {
     "slug": "kissed-syrian-peanuts-kebabs",
-    "title": "Kissed Syrian Peanuts Kebabs",
+    "title": "Syrian Kebab Delight",
     "tags": [
-      "grilled",
-      "jammy",
-      "kebab",
-      "macrobiotic-friendly",
-      "peanut",
-      "sous-vide",
-      "syrian"
+      "syrian",
+      "kebabs",
+      "peanut-sauce",
+      "vegan-friendly"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 130,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
