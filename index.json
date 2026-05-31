@@ -2112,17 +2112,14 @@
   },
   {
     "slug": "kicked-up-venezuelan-lentil-bowl",
-    "title": "Kicked Up Venezuelan Lentil Bowl",
+    "title": "Venezuelan Lentil Bowl",
     "tags": [
-      "lentil-bowl",
-      "meal-prep",
-      "one-pot",
-      "plant-based",
-      "pressure-cooker",
-      "venezuelan-cuisine"
+      "lentil",
+      "veggie",
+      "south-americansalsa"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "South American",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -4366,15 +4363,16 @@
   },
   {
     "slug": "kissed-char-grilled-apple-flaky-smoky-festive-bowl",
-    "title": "Kissed Char-Grilled Apple Flaky Smoky Festive Bowl",
+    "title": "Smoky Apple Crisp",
     "tags": [
-      "apple-flavored",
-      "egg-free-friendly",
-      "festive-appetizer",
-      "smoky-char-grill"
+      "apple",
+      "crisp",
+      "dessert",
+      "oatmeal",
+      "smoky"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "american",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -10483,18 +10481,15 @@
   },
   {
     "slug": "kissed-smoke-hot-hakka-fish-scallion-pancake",
-    "title": "Kissed Smoke Hot Hakka Fish Scallion Pancake",
+    "title": "Smoked Fish Pancakes",
     "tags": [
-      "fish-friendly",
-      "hakka-cuisine",
-      "kid-friendly",
-      "pandan-wrapped",
-      "piccalilli-recipe",
-      "smoke-hot",
-      "snappy-snack"
+      "asian",
+      "pancakes",
+      "fish",
+      "snack"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Asian",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -11544,17 +11539,15 @@
   },
   {
     "slug": "kissed-spicy-vietnamese-baby-plum-tomatoes-com-tam",
-    "title": "Kissed Spicy Vietnamese Baby Plum Tomatoes Com Tam",
+    "title": "Vietnamese Baby Plum Salad",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-bowl",
-      "spicy",
-      "vietnamese-cuisine",
-      "whole30"
+      "vietnamese",
+      "salad",
+      "summer",
+      "plum"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
