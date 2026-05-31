@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-syrian-peanuts-kebabs",
+  "title": "Syrian Kebab Delight",
+  "description": "A flavorful and aromatic dish featuring Syrian kebabs, served with a side of peanut sauce and kissed onions.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian Kebabs",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kissed Onions",
+      "amount": "1 large",
+      "notes": "caramelized in olive oil"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/2 cup",
+      "notes": "chopped and toasted"
+    },
+    {
+      "name": "Peanut Butter",
+      "amount": "2 tbsp",
+      "notes": "smooth and creamy"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "pure and organic"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced and sautéed"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "ground and toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the Syrian kebabs with cumin, salt, and black pepper.",
+    "Grill the kebabs for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the peanuts in a dry pan over medium heat until fragrant.",
+    "In a blender or food processor, combine the toasted peanuts, peanut butter, honey, lemon juice, and minced garlic.",
+    "Blend until smooth and creamy, adjusting the seasoning as needed.",
+    "Caramelize the kissed onions in olive oil over low heat until deep golden brown.",
+    "Serve the grilled kebabs with a side of peanut sauce and kissed onions.",
+    "Garnish with chopped peanuts and fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "kebabs",
+    "peanut-sauce",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-syrian-peanuts-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:47:41.227Z"
+}
