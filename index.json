@@ -12002,17 +12002,15 @@
   },
   {
     "slug": "kissed-tender-ethiopian-oyster-skewers",
-    "title": "Kissed Tender Ethiopian Oyster Skewers",
+    "title": "Grilled Skewers with Ethiopian Spice",
     "tags": [
-      "date-night",
-      "ethiopian-cuisine",
-      "grilled-seafood",
-      "romantic-dinner",
-      "special-occasion",
-      "whole30-friendly"
+      "grilled",
+      "skewers",
+      "ethiopian-spice",
+      "oyster-meat"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 31,
     "shard": "k"
   },
   {
@@ -16181,6 +16179,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-char-grilled-apple-flaky-smoky-festive-bowl--french",
+    "title": "French Smoked Salmon Tartine",
+    "tags": [
+      "smoked-salmon",
+      "apple",
+      "flaky-pastry",
+      "breakfast",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
