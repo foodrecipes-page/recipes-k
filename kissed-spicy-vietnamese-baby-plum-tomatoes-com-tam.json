@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-spicy-vietnamese-baby-plum-tomatoes-com-tam",
+  "title": "Vietnamese Baby Plum Salad",
+  "description": "A refreshing and spicy salad originating from Vietnam.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "plum",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "com",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the plums and tam under cold water, then pat them dry.",
+    "In a large bowl, combine the plums and tam.",
+    "In a small bowl, whisk together the kissed and spicy.",
+    "Pour the kissed-spicy dressing over the plum and tam mixture.",
+    "Gently toss to coat.",
+    "Add the chopped tomatoes and com to the bowl.",
+    "Toss to combine.",
+    "Season with additional kissed and spicy if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "salad",
+    "summer",
+    "plum"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-vietnamese-baby-plum-tomatoes-com-tam",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:39:51.949Z"
+}
