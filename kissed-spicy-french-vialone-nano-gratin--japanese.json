@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-spicy-french-vialone-nano-gratin--japanese",
+  "title": "Japanese Risotto with Nano Shrimp",
+  "description": "A Japanese-inspired risotto dish featuring succulent nano shrimp and a touch of spicy kick.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vialone Nano Rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Nano Shrimp",
+      "amount": "12 oz",
+      "notes": null
+    },
+    {
+      "name": "French Butter",
+      "amount": "4 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Spicy Dashi Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Gratin Parmesan Cheese",
+      "amount": "1/2 cup",
+      "notes": "shaved"
+    }
+  ],
+  "instructions": [
+    "Heat the kissed olive oil in a large skillet over medium heat.",
+    "Add the nano shrimp and cook until pink, about 2-3 minutes.",
+    "Remove the shrimp from the skillet and set aside.",
+    "Add the french butter to the skillet and melt over low heat.",
+    "Add the vialone nano rice and cook, stirring constantly, for 1-2 minutes.",
+    "Add 1 cup of spicy dashi broth to the rice and cook, stirring constantly, until the liquid is mostly absorbed.",
+    "Repeat the process of adding the broth and cooking the rice until it is tender and creamy.",
+    "Stir in the grated gratin parmesan cheese and cooked nano shrimp.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "risotto",
+    "shrimp",
+    "japanese",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-french-vialone-nano-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T18:15:46.822Z"
+}
