@@ -1,0 +1,101 @@
+{
+  "slug": "kissed-peruvian-ground-pork-dumplings",
+  "title": "Pork Dumplings with Peruvian Twist",
+  "description": "A twist on traditional dumplings, infused with Peruvian flavors. Tender pork and kissed potatoes make this dish a delight.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Ground pork",
+      "amount": "1/2 pound",
+      "notes": "for dumpling filling"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "12-15",
+      "notes": ""
+    },
+    {
+      "name": "Kissed potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook dumplings according to package instructions.",
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add diced kissed potatoes, cumin, paprika, salt, and black pepper.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add cooked dumplings to the pan and stir to combine.",
+    "Serve hot, garnished with chopped cilantro if desired.",
+    "Cook dumplings according to package instructions.",
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add garlic and cook for 1 minute.",
+    "Add ground pork and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add diced kissed potatoes, cumin, paprika, salt, and black pepper.",
+    "Cook for 5 minutes, stirring occasionally.",
+    "Add cooked dumplings to the pan and stir to combine.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "pork",
+    "dumplings",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peruvian-ground-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:09:45.999Z"
+}
