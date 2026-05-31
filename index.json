@@ -771,17 +771,15 @@
   },
   {
     "slug": "keto-peruvian-chicken-bowl",
-    "title": "Keto Peruvian Chicken Bowl",
+    "title": "Peruvian Chicken Bowl",
     "tags": [
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "peruvian-cuisine",
-      "weeknight-dinner"
+      "peruvian",
+      "keto",
+      "chicken",
+      "bowl"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -4554,17 +4552,14 @@
   },
   {
     "slug": "kissed-charred-norwegian-veal-casserole",
-    "title": "Kissed Charred Norwegian Veal Casserole",
+    "title": "Charred Veal Casserole",
     "tags": [
+      "charred",
       "casserole",
-      "cheesy",
-      "comfort-food",
-      "norwegian-cuisine",
-      "satvik-friendly",
-      "veal-recipes"
+      "norwegian"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -6092,17 +6087,15 @@
   },
   {
     "slug": "kissed-earthy-spanish-almonds-tarta-de-santiago",
-    "title": "Kissed Earthy Spanish Almonds Tarta De Santiago",
+    "title": "Tarta de Santiago",
     "tags": [
-      "almond-based",
-      "claypot-cooking",
-      "low-fat",
-      "spanish-dish",
-      "tarta-de-santiago",
-      "vegetarian"
+      "spanish",
+      "cake",
+      "almond",
+      "traditional"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 55,
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -10924,14 +10917,15 @@
   },
   {
     "slug": "kissed-smoky-roasted-myeolchi-anchovies-tagine",
-    "title": "Kissed Smoky Roasted Myeolchi-Anchovies Tagine",
+    "title": "Smoky Anchovy Tagine",
     "tags": [
-      "buddhist-temple-friendly",
-      "post-workout",
-      "tagine-pot"
+      "north-african",
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -16162,6 +16156,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-french-vialone-nano-gratin--japanese",
+    "title": "Japanese Risotto with Nano Shrimp",
+    "tags": [
+      "risotto",
+      "shrimp",
+      "japanese",
+      "seafood"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-nutty-thai-beef-wrap--french",
+    "title": "French Beef Wrap",
+    "tags": [
+      "beef",
+      "french",
+      "wrap"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "k"
   }
 ]
