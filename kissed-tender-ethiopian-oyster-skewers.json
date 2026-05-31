@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-tender-ethiopian-oyster-skewers",
+  "title": "Grilled Skewers with Ethiopian Spice",
+  "description": "A flavorful and aromatic dish featuring tender meat skewers marinated in a blend of Ethiopian spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound oyster meat",
+      "amount": "8 ounces",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "1/4 cup kissed olive oil",
+      "amount": "",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "2 cloves tender garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon Ethiopian berbere spice",
+      "amount": "",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh cilantro",
+      "amount": "",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together olive oil, garlic, berbere spice, salt, and pepper.",
+    "Add oyster meat to the bowl and toss to coat with the marinade.",
+    "Thread the marinated meat onto skewers, leaving a small space between each piece.",
+    "Brush the grill grates with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the meat is cooked through.",
+    "Transfer the skewers to a plate and garnish with chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "skewers",
+    "ethiopian-spice",
+    "oyster-meat"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-ethiopian-oyster-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T20:13:14.228Z"
+}
