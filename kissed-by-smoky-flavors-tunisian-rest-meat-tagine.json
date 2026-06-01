@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-by-smoky-flavors-tunisian-rest-meat-tagine",
+  "title": "Tunisian Smoked Meat Tagine",
+  "description": "A traditional Tunisian dish made with slow-cooked smoked meat and aromatic spices. This rich and flavorful tagine is perfect for a cold winter's night.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoked lamb shoulder",
+      "amount": "1 (1.5 kg)",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Add the cinnamon, cumin, paprika, salt, and black pepper. Stir to combine.",
+    "Add enough water to cover the lamb and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise the lamb for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let it rest for 10 minutes.",
+    "Slice the lamb against the grain and serve with the juices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tunisian",
+    "smoked-meat",
+    "tagine",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-smoky-flavors-tunisian-rest-meat-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:03:32.820Z"
+}
