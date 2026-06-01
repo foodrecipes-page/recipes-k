@@ -6385,17 +6385,16 @@
   },
   {
     "slug": "kissed-flaky-french-olive-macaron",
-    "title": "Kissed Flaky French Olive Macaron",
+    "title": "Flaky Macaron French Kiss",
     "tags": [
-      "brunch-ideas",
-      "french-cuisine",
-      "hot-pot-recipes",
-      "normandy-inspired",
-      "olive-based",
-      "vegetarian-friendly"
+      "french",
+      "macaron",
+      "kissed",
+      "flaky",
+      "dessert"
     ],
     "cuisine": "French",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -13763,16 +13762,16 @@
   },
   {
     "slug": "kissed-with-sweetness-australian-peas-risotto",
-    "title": "Kissed with Sweetness Australian Peas Risotto",
+    "title": "Australian Risotto with Peas",
     "tags": [
-      "date-night",
-      "low-calorie",
-      "one-pan",
+      "australian",
+      "risotto",
       "vegetarian",
-      "weeknight"
+      "peas",
+      "sweetness"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -16183,6 +16182,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-canadian-egg-tart--french",
+    "title": "Canadian Tart Egg Tarte",
+    "tags": [
+      "french",
+      "dessert",
+      "tart",
+      "egg",
+      "canadian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
     "shard": "k"
   }
 ]
