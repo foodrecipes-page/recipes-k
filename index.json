@@ -2820,17 +2820,15 @@
   },
   {
     "slug": "kinetically-aerated-canadian-snapper-fish-tagine",
-    "title": "Kinetically Aerated Canadian Snapper Fish Tagine",
+    "title": "Pan-Seared Snapper with Moroccan Tagine Sauce",
     "tags": [
-      "canadian-cuisine",
-      "clay-pot-cooking",
-      "fish-recipes",
-      "gluten-free",
-      "nut-free",
-      "seafood"
+      "fish",
+      "moroccan",
+      "tagine",
+      "snapper"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
@@ -13315,18 +13313,14 @@
   },
   {
     "slug": "kissed-with-molten-argentinian-onion-casserole",
-    "title": "kissed with molten argentinian onion casserole",
+    "title": "Argentinian Casserole Delight",
     "tags": [
-      "argentinian",
       "casserole",
-      "claypot",
-      "comforting",
-      "lacto-ovo-vegetarian",
-      "melted-cheese",
-      "shojin-friendly"
+      "argentinian",
+      "beef"
     ],
     "cuisine": "argentinian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
