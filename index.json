@@ -1138,17 +1138,16 @@
   },
   {
     "slug": "kicked-crunchy-greek-cottage-cheese-saganaki",
-    "title": "Kicked Crunchy Greek Cottage Cheese Saganaki",
+    "title": "Greek Cottage Frittata with Saganaki",
     "tags": [
-      "banana-leaf",
-      "crunchy",
-      "fried",
-      "greek-food",
-      "low-fat",
-      "vegetarian"
+      "breakfast",
+      "frittata",
+      "greek",
+      "cheese",
+      "saganaki"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
