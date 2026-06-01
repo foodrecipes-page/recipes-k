@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-galician-turkey-ham-crema-catalana",
+  "title": "Catalana Kissed Ham and Turkey Empanadas",
+  "description": "A fusion of Spanish and Mexican flavors, these empanadas feature ham and turkey, kissed by a sweet caramelized crema.",
+  "cuisine": "spanish",
+  "diet": [
+    "gluten-free",
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Turkey",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Galician Kissed Pastry Dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Catalana Crema",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the Galician Kissed Pastry Dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a bowl, mix together the ham, turkey, crema, salt, black pepper, turmeric, garlic powder, and cumin.",
+    "Place a spoonful of the ham-turkey mixture onto the center of each dough circle.",
+    "Brush the edges of the dough with a little water and fold the dough over the filling to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little crema and sprinkle with chopped cilantro.",
+    "Bake the empanadas in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "mexican",
+    "empanadas",
+    "ham",
+    "turkey",
+    "crema"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-galician-turkey-ham-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:26:13.395Z"
+}
