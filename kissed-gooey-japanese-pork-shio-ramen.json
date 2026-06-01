@@ -1,0 +1,93 @@
+{
+  "slug": "kissed-gooey-japanese-pork-shio-ramen",
+  "title": "Tonkotsu Ramen",
+  "description": "A Japanese-inspired, rich and creamy pork broth ramen dish. The combination of pork slices, boiled egg, and vegetables makes for a satisfying meal.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork bones",
+      "amount": "2 lbs",
+      "notes": "preferably pork neck bones"
+    },
+    {
+      "name": "shio koji",
+      "amount": "2 tbsp",
+      "notes": "Japanese seasoning"
+    },
+    {
+      "name": "ramen noodles",
+      "amount": "1 package",
+      "notes": "preferably fresh or frozen"
+    },
+    {
+      "name": "pork slices",
+      "amount": "1 lb",
+      "notes": "preferably pork loin or belly"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "boiled egg",
+      "amount": "4",
+      "notes": "boiled and sliced"
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1 bunch",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced pork fat",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine pork bones, shio koji, and 4 cups of water.",
+    "2. Bring to a boil, then reduce heat to 180°F (82°C) and simmer for 4 hours.",
+    "3. Strain the broth and discard the solids.",
+    "4. Cook ramen noodles according to package instructions.",
+    "5. In a pan, cook sliced pork over medium heat until browned.",
+    "6. Add sliced onion and minced garlic to the pan and cook until softened.",
+    "7. Add cooked noodles to the pan and stir to combine.",
+    "8. Ladle the hot broth over the noodles and pork.",
+    "9. Top with boiled egg, green onion, and sliced scallions.",
+    "10. Garnish with sliced pork fat."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tonkotsu",
+    "ramen",
+    "pork",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-gooey-japanese-pork-shio-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:43:53.287Z"
+}
