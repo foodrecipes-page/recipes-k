@@ -847,16 +847,15 @@
   },
   {
     "slug": "keto-syrian-red-cabbage-stew",
-    "title": "Keto Syrian Red Cabbage Stew",
+    "title": "Syrian Red Cabbage Stew",
     "tags": [
-      "comfort-food",
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "syrian-cuisine"
+      "keto",
+      "syrian",
+      "cabbage",
+      "stew"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 40,
+    "cuisine": "syrian",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -6702,16 +6701,16 @@
   },
   {
     "slug": "kissed-galician-turkey-ham-crema-catalana",
-    "title": "Kissed Galician Turkey Ham Crema Catalana",
+    "title": "Catalana Kissed Ham and Turkey Empanadas",
     "tags": [
-      "dessert",
-      "fermented",
-      "galician",
-      "one-pot",
-      "sugar-free-friendly",
-      "turkey"
+      "spanish",
+      "mexican",
+      "empanadas",
+      "ham",
+      "turkey",
+      "crema"
     ],
-    "cuisine": "Spanish Galician",
+    "cuisine": "spanish",
     "totalTimeMin": 35,
     "shard": "k"
   },
