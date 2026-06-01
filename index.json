@@ -4011,19 +4011,15 @@
   },
   {
     "slug": "kissed-by-smoky-flavors-tunisian-rest-meat-tagine",
-    "title": "Kissed By Smoky Flavors Tunisian Rest-meat Tagine",
+    "title": "Tunisian Smoked Meat Tagine",
     "tags": [
-      "dinner",
-      "easy",
-      "flavorful",
-      "one-pan",
-      "smoky",
       "tunisian",
-      "vegetarian",
-      "weeknight"
+      "smoked-meat",
+      "tagine",
+      "slow-cooked"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 65,
+    "cuisine": "Tunisian",
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
@@ -7196,17 +7192,15 @@
   },
   {
     "slug": "kissed-gooey-japanese-pork-shio-ramen",
-    "title": "Kissed Gooey Japanese Pork Shio Ramen",
+    "title": "Tonkotsu Ramen",
     "tags": [
-      "diabetic-friendly",
-      "japanese-cuisine",
-      "low-sugar",
-      "pork-belly",
-      "post-workout-meal",
-      "ramen-recipes"
+      "tonkotsu",
+      "ramen",
+      "pork",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 270,
     "shard": "k"
   },
   {
