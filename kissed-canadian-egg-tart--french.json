@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-canadian-egg-tart--french",
+  "title": "Canadian Tart Egg Tarte",
+  "description": "A classic French dessert with a flaky tart crust, a Canadian twist, and a soft egg center.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Canadian Kissed Tart Pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "Canadian Eggs",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "Canadian Heavy Cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": "divided"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the Canadian Kissed Tart Pastry to a thickness of 1/8 inch (3 mm).",
+    "Transfer the pastry to a 9-inch (23 cm) tart pan with a removable bottom.",
+    "In a bowl, whisk together the beaten eggs, granulated sugar, and melted butter.",
+    "Pour the egg mixture into the tart shell, leaving a 1-inch (2.5 cm) border around the edges.",
+    "Bake for 12 minutes, then reduce the oven temperature to 375°F (190°C) and continue baking for an additional 15-20 minutes, or until the edges are golden brown.",
+    "Remove the tart from the oven and let it cool on a wire rack for 10 minutes.",
+    "Increase the oven temperature to broil (high).",
+    "Broil the tart for 2-3 minutes, or until the top is golden brown. Watch carefully to avoid burning.",
+    "Remove the tart from the oven and let it cool completely on a wire rack.",
+    "Serve warm, garnished with whipped Canadian Heavy Cream, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "tart",
+    "egg",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 28,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-egg-tart--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:23:09.978Z"
+}
