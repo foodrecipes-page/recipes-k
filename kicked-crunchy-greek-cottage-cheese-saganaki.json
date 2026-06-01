@@ -1,0 +1,86 @@
+{
+  "slug": "kicked-crunchy-greek-cottage-cheese-saganaki",
+  "title": "Greek Cottage Frittata with Saganaki",
+  "description": "A hearty breakfast frittata filled with Greek flavors and topped with crispy saganaki.",
+  "cuisine": "Greek",
+  "diet": [
+    "breakfast",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy greek cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "kicked feta",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "saganaki",
+      "amount": "4 slices",
+      "notes": "to top"
+    },
+    {
+      "name": "eggs",
+      "amount": "6",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine cottage cheese, crunchy greek cheese, and kicked feta.",
+    "Stir in beaten eggs, salt, and black pepper until well combined.",
+    "Pour the mixture into a greased 9-inch pie plate.",
+    "Bake for 25-30 minutes or until the edges are golden brown.",
+    "Remove from oven and top with saganaki slices.",
+    "Return to oven and bake for an additional 2-3 minutes or until cheese is melted and bubbly.",
+    "Remove from oven and garnish with chopped parsley.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "frittata",
+    "greek",
+    "cheese",
+    "saganaki"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crunchy-greek-cottage-cheese-saganaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T11:41:35.967Z"
+}
