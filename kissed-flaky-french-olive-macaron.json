@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-flaky-french-olive-macaron",
+  "title": "Flaky Macaron French Kiss",
+  "description": "A delicate French-inspired macaron recipe with a flaky twist and a hint of kissed flavor.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "French kissed almonds",
+      "amount": "1 cup",
+      "notes": "Ground to a fine powder"
+    },
+    {
+      "name": "Macaron shells",
+      "amount": "24",
+      "notes": "Pre-made or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Flaky sea salt",
+      "amount": "1/2 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "Melted"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C). Line a baking sheet with parchment paper.",
+    "In a medium bowl, sift together the powdered sugar and almond powder.",
+    "In a separate bowl, whip the egg whites until stiff peaks form.",
+    "Fold the sifted almond mixture into the egg whites until well combined.",
+    "Transfer the mixture to a piping bag fitted with a round tip.",
+    "Pipe small circles onto the prepared baking sheet.",
+    "Tap the baking sheet gently to remove any air bubbles.",
+    "Allow the macarons to sit at room temperature for 30 minutes to an hour.",
+    "Bake for 15-20 minutes or until the tops are firm and the edges are lightly golden.",
+    "Allow the macarons to cool completely on the baking sheet.",
+    "Once cooled, pair the macarons by size and shape.",
+    "Dust the tops of the macarons with powdered sugar and flaky sea salt.",
+    "Brush the tops with melted butter and a hint of vanilla extract, if using."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "macaron",
+    "kissed",
+    "flaky",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-flaky-french-olive-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:13:08.864Z"
+}
