@@ -1,0 +1,78 @@
+{
+  "slug": "keto-syrian-red-cabbage-stew",
+  "title": "Syrian Red Cabbage Stew",
+  "description": "Hearty and flavorful stew with red cabbage, inspired by Syrian cuisine, suitable for a keto diet.",
+  "cuisine": "syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red cabbage",
+      "amount": "2 cups, shredded"
+    },
+    {
+      "name": "stew meat (beef or lamb)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the stew meat and cook until browned on all sides, about 5 minutes.",
+    "Add the shredded red cabbage, tomato paste, beef broth, salt, and black pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "syrian",
+    "cabbage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-syrian-red-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:47:35.949Z"
+}
