@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-with-molten-argentinian-onion-casserole",
+  "title": "Argentinian Casserole Delight",
+  "description": "A hearty and flavorful casserole dish with a mix of beef and vegetables. Perfect for a satisfying dinner.",
+  "cuisine": "argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "argentinian",
+      "amount": "2 tbsp",
+      "notes": "chimichurri sauce"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "with",
+      "amount": "1 tsp",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "molten",
+      "amount": "250ml",
+      "notes": "red wine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C.",
+    "Cook the chopped onion until soft, then set aside.",
+    "Season the beef with paprika and cook until browned.",
+    "Add the red wine and bring to a boil.",
+    "Reduce heat and simmer until the liquid has thickened.",
+    "Stir in the chimichurri sauce and cook for an additional 2 minutes.",
+    "Transfer the beef mixture to a casserole dish.",
+    "Top with chopped parsley and cook in the oven for 20 minutes.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "argentinian",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-molten-argentinian-onion-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:31:26.637Z"
+}
