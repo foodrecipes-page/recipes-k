@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-charred-norwegian-veal-casserole--indian",
+  "title": "Norwegian Veal Korma Casserole",
+  "description": "A unique fusion of Indian and Norwegian flavors, this casserole combines tender veal with charred spices and a hint of kissed sweetness.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Kissed Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Charred Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the veal and cook until browned, about 3-4 minutes.",
+    "Add the onion and ginger and cook until softened, about 5 minutes.",
+    "Stir in the kissed cinnamon, charred paprika, and garam masala.",
+    "Add the casserole and stir to combine.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 20 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the veal is cooked through.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "indian",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-norwegian-veal-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:17:00.413Z"
+}
