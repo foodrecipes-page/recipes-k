@@ -1593,17 +1593,15 @@
   },
   {
     "slug": "kicked-peppery-middle-eastern-noodles",
-    "title": "Kicked Peppery Middle Eastern Noodles",
+    "title": "Spicy Eastern Noodle Stir Fry",
     "tags": [
-      "middle-eastern",
-      "noodle-dish",
-      "one-pot",
-      "spicy",
-      "vegetarian",
-      "weeknight"
+      "eastern",
+      "noodles",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": "eastern",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -2713,14 +2711,13 @@
   },
   {
     "slug": "kimchi-kissed-korean-bok-choi-deopbap",
-    "title": "Kimchi-Kissed Korean Bok Choi Deopbap",
+    "title": "Kimchi Bok Choi Deopbap",
     "tags": [
-      "easy-to-make",
-      "fodmap-friendly",
       "korean",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "kimchi",
+      "bok-choi",
+      "rice-bowl",
+      "vegetarian"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
@@ -7445,17 +7442,16 @@
   },
   {
     "slug": "kissed-herbal-venezuelan-falafel-bowl",
-    "title": "Kissed Herbal Venezuelan Falafel Bowl",
+    "title": "Venezuelan Falafel Bowl",
     "tags": [
-      "healthy",
-      "high-protein",
-      "international",
-      "meal-prep",
-      "one-bowl",
-      "vegetarian"
+      "vegan",
+      "gluten-free",
+      "snack",
+      "lunch",
+      "south-american"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
