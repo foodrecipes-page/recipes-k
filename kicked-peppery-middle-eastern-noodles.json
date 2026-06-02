@@ -1,0 +1,78 @@
+{
+  "slug": "kicked-peppery-middle-eastern-noodles",
+  "title": "Spicy Eastern Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry made with eastern noodles, kicked sauce, and peppery vegetables.",
+  "cuisine": "eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eastern noodles",
+      "amount": "8 oz",
+      "notes": "any type of Asian-style noodle"
+    },
+    {
+      "name": "Kicked sauce",
+      "amount": "1/4 cup",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "Middle eastern spice blend",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the carrots and bell peppers and cook for 3-4 minutes, or until slightly tender.",
+    "Add the cucumber and cook for an additional 2 minutes.",
+    "Stir in the kicked sauce and middle eastern spice blend.",
+    "Return the cooked noodles to the skillet and toss to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, or until the noodles are well coated.",
+    "Garnish with chopped green onions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "eastern",
+    "noodles",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-middle-eastern-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T20:36:11.104Z"
+}
