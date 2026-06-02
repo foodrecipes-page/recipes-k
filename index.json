@@ -15952,15 +15952,14 @@
   },
   {
     "slug": "kosher-haddock-crisp",
-    "title": "Kosher Haddock Crisp",
+    "title": "Crispy Haddock with Kosher Dill Sauce",
     "tags": [
-      "kosher",
-      "haddock",
-      "crisp",
-      "russian"
+      "fish",
+      "dinner",
+      "easy-recipe"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
