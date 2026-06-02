@@ -4292,17 +4292,14 @@
   },
   {
     "slug": "kissed-caramel-ukrainian-andouille-skillet",
-    "title": "Kissed Caramel Ukrainian Andouille Skillet",
+    "title": "Caramelized Andouille Skillet",
     "tags": [
-      "caramelized",
-      "low-sodium",
-      "one-pan",
-      "sausage-dish",
-      "special-occasion",
-      "ukrainian-cuisine"
+      "skillet",
+      "breakfast",
+      "andouille"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -9305,17 +9302,15 @@
   },
   {
     "slug": "kissed-pillowy-slovakian-eggplant-casserole",
-    "title": "Kissed Pillowy Slovakian Eggplant Casserole",
+    "title": "Slovakian Eggplant Casserole",
     "tags": [
-      "european-cuisine",
-      "jain-friendly",
-      "one-pan",
-      "romantic-dinner",
-      "vegetarian",
-      "wine-based"
+      "eggplant",
+      "casserole",
+      "slovakian",
+      "vegetarian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -16186,6 +16181,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-charred-norwegian-veal-casserole--indian",
+    "title": "Norwegian Veal Korma Casserole",
+    "tags": [
+      "norwegian",
+      "indian",
+      "casserole",
+      "comfort-food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "k"
   }
 ]
