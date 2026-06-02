@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-herbal-venezuelan-falafel-bowl",
+  "title": "Venezuelan Falafel Bowl",
+  "description": "A flavorful and nutritious bowl filled with crispy falafel, fresh herbs, and a hint of Venezuelan spices. Serve as a snack or light lunch.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Herbal Kissed Rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan Bowl Corn",
+      "amount": "1 cup frozen",
+      "notes": "thawed"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cook the herbal kissed rice according to package instructions.",
+    "3. In a large skillet, heat the olive oil over medium heat.",
+    "4. Add the falafel and cook until crispy and golden brown, about 5 minutes.",
+    "5. Add the thawed Venezuelan bowl corn to the skillet and cook for an additional 2 minutes.",
+    "6. Stir in lime juice and season with salt to taste.",
+    "7. To assemble the bowls, place a scoop of cooked rice on the bottom, followed by the falafel and corn mixture.",
+    "8. Garnish with chopped fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "snack",
+    "lunch",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-herbal-venezuelan-falafel-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:23:29.663Z"
+}
