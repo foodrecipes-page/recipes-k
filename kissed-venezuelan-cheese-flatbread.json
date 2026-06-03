@@ -1,0 +1,59 @@
+{
+  "slug": "kissed-venezuelan-cheese-flatbread",
+  "title": "Venezuelan Cheese Quesadilla",
+  "description": "A delicious Venezuelan-inspired quesadilla filled with melted cheese and served with a side of flatbread. This recipe is perfect for a quick and easy snack or light meal.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices",
+      "notes": null
+    },
+    {
+      "name": "cheese",
+      "amount": "1 block (8 oz)",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tablespoon",
+      "notes": "optional, for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet or griddle over medium heat.",
+    "Place 2-3 slices of flatbread in the skillet.",
+    "Sprinkle shredded cheese over half of the flatbread.",
+    "Fold the flatbread in half to enclose the cheese.",
+    "Cook for 2-3 minutes or until the flatbread is crispy and the cheese is melted.",
+    "Flip the quesadilla and cook for an additional 2 minutes.",
+    "Repeat with remaining flatbread and cheese.",
+    "Serve hot with a side of flatbread, if desired.",
+    "Optional: Add a drizzle of kissed for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "venezuelan",
+    "cheese",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-venezuelan-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:15:02.129Z"
+}
