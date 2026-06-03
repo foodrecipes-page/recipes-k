@@ -1,0 +1,66 @@
+{
+  "slug": "knobby-silky-slovakian-potatoes-toast",
+  "title": "Slovakian Potato Pancakes",
+  "description": "A classic Slovakian dish made with grated potatoes and onions, perfect as a side or snack.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "knobby onion",
+      "amount": "1 medium",
+      "notes": "grate finely"
+    },
+    {
+      "name": "silk tofu",
+      "amount": "1/4 cup",
+      "notes": "crumbling"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the potatoes and onion, and mix with tofu and paprika.",
+    "Form into patties and fry in a pan with oil until crispy and golden.",
+    "Drain on paper towels and serve hot.",
+    "Serve with toast for a delicious snack or side dish.",
+    "Optional: garnish with chopped fresh herbs like parsley or chives."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "potato",
+    "veggie",
+    "tofu",
+    "snack",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-silky-slovakian-potatoes-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:02:12.358Z"
+}
