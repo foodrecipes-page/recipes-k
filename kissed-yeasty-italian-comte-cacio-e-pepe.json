@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-yeasty-italian-comte-cacio-e-pepe",
+  "title": "Spaghetti Cacio e Pepe",
+  "description": "A classic Italian pasta dish made with Pecorino Romano cheese, black pepper, and black pepper. This simple yet rich recipe is a staple of Italian cuisine.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Pecorino Romano cheese (Cacio)",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Black pepper (Pepe)",
+      "amount": "2 tbsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Italian extra-virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Yeasty bread (for serving)",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the spaghetti according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large saucepan, combine the grated Pecorino Romano cheese and black pepper. Heat over low heat, stirring constantly, until the cheese is melted and smooth.",
+    "Add the reserved pasta water to the cheese sauce and stir to combine.",
+    "Add the cooked spaghetti to the cheese sauce and toss to combine, adding more pasta water if needed to achieve a creamy sauce.",
+    "Season with salt to taste.",
+    "Serve immediately, topped with additional grated Pecorino Romano cheese and a drizzle of Italian extra-virgin olive oil, if desired.",
+    "Offer yeasty bread on the side for sopping up the sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "cheese",
+    "classic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 26,
+    "carbs": 65,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-italian-comte-cacio-e-pepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T05:47:26.968Z"
+}
