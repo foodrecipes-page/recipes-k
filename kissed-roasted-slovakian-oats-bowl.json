@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-roasted-slovakian-oats-bowl",
+  "title": "Slovakian Oat Bowl",
+  "description": "A hearty, comforting Slovakian-inspired oat bowl featuring kissed roasted oats and topped with a variety of delicious ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rolled oats",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed (caramelized) sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Roasted almonds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Slovakian vanilla yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh strawberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh mint",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add 1 cup of rolled oats and reduce heat to low. Simmer for 5 minutes, stirring occasionally.",
+    "Stir in 2 tbsp of kissed sugar until dissolved.",
+    "In a separate bowl, whisk together 1 cup of Slovakian vanilla yogurt and 1 tsp of honey.",
+    "Top the oat mixture with the yogurt mixture, roasted almonds, sliced strawberries, and chopped fresh mint.",
+    "Serve warm or chilled, depending on your preference."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "oat-bowl",
+    "slovakian-cuisine",
+    "breakfast-recipe",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-slovakian-oats-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:04:26.092Z"
+}
