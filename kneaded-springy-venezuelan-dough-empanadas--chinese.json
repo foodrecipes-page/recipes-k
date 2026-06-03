@@ -1,0 +1,89 @@
+{
+  "slug": "kneaded-springy-venezuelan-dough-empanadas--chinese",
+  "title": "Venezuelan Springy Empanadas with Chinese Twist",
+  "description": "A fusion dish combining the springiness of Venezuelan empanadas with the bold flavors of Chinese cuisine.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kneaded dough",
+      "amount": "1 piece (about 1/2 cup)",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "springy venezuelan dough",
+      "amount": "1 package (about 1/2 cup)",
+      "notes": "for added texture"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "1 cup",
+      "notes": "such as cabbage, carrots, and bean sprouts"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade and stir-fry"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for balance of flavors"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan or wok over medium-high heat.",
+    "Cut the kneaded dough into small pieces and set aside.",
+    "Add 1 tablespoon of sesame oil to the pan and stir-fry the mixed vegetables until they're tender.",
+    "Add the soy sauce and oyster sauce (if using) to the pan and stir-fry for another minute.",
+    "Divide the springy venezuelan dough into small balls and flatten each ball into a thin circle.",
+    "Place a tablespoon of the stir-fried vegetables onto the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Repeat with the remaining dough and filling.",
+    "Pan-fry the empanadas until they're golden brown on both sides.",
+    "Serve hot with a sprinkle of scallions and a drizzle of soy sauce (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanada",
+    "chinese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneaded-springy-venezuelan-dough-empanadas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:39:57.273Z"
+}
