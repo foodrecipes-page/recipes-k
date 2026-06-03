@@ -14609,17 +14609,15 @@
   },
   {
     "slug": "kneaded-springy-venezuelan-dough-empanadas",
-    "title": "Kneaded Springy Venezuelan Dough Empanadas",
+    "title": "Venezuelan Beef Empanadas",
     "tags": [
-      "delicious",
-      "homemade",
-      "mediterranean-friendly",
+      "beef",
+      "latinamerican",
       "snack",
-      "traditional",
-      "vegetarian"
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -16199,6 +16197,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kindly-velvety-egyptian-lentil-tagine--gluten-free",
+    "title": "Egyptian Lentil Tagine",
+    "tags": [
+      "gluten-free",
+      "lentil",
+      "vegetarian",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
