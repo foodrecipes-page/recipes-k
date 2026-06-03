@@ -1,0 +1,85 @@
+{
+  "slug": "kneaded-springy-venezuelan-dough-empanadas",
+  "title": "Venezuelan Beef Empanadas",
+  "description": "A traditional Venezuelan dish, empanadas are savory pastries filled with seasoned ground beef and onions, fried to a crispy golden brown.",
+  "cuisine": "Latin American",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound ground beef",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium onion, finely chopped",
+      "notes": "Caramelized for added flavor"
+    },
+    {
+      "name": "Kneaded Dough",
+      "amount": "1 package empanada dough",
+      "notes": "Homemade dough also acceptable"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon salt",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon black pepper",
+      "notes": "To taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1/4 teaspoon cumin",
+      "notes": "To taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 egg, beaten (for egg wash)",
+      "notes": "For golden brown crust"
+    },
+    {
+      "name": "Spring Water",
+      "amount": "1 cup spring water",
+      "notes": "For dough hydration"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Roll out the empanada dough to 1/8 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of beef mixture in the center of each dough circle.",
+    "Fold the dough in half to form a half-moon shape, pressing edges to seal.",
+    "Brush the tops with beaten egg for a golden glaze.",
+    "Heat the oil in a deep frying pan to 375°F (190°C).",
+    "Fry empanadas until golden brown, about 2-3 minutes on each side.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "latinamerican",
+    "snack",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneaded-springy-venezuelan-dough-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T04:35:41.688Z"
+}
