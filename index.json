@@ -445,15 +445,14 @@
   },
   {
     "slug": "keto-friendly-bhuna-onion-stir-fry",
-    "title": "Keto-friendly Bhuna Onion Stir-fry",
+    "title": "Keto Bhuna Stir Fry",
     "tags": [
       "keto",
-      "bhuna",
-      "stir-fry",
-      "onion",
-      "fennel"
+      "low-carb",
+      "indian",
+      "stir-fry"
     ],
-    "cuisine": "Polish",
+    "cuisine": "Indian",
     "totalTimeMin": 25,
     "shard": "k"
   },
@@ -5413,17 +5412,15 @@
   },
   {
     "slug": "kissed-croatian-dried-fruit-wrap",
-    "title": "Kissed Croatian Dried Fruit Wrap",
+    "title": "Croatian Fruit Wrap",
     "tags": [
-      "homemade",
-      "one-pan",
-      "snack",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "eastern-european",
+      "dessert",
+      "fruit",
+      "wraps"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 37,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
