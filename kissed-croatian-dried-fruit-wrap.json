@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-croatian-dried-fruit-wrap",
+  "title": "Croatian Fruit Wrap",
+  "description": "A sweet and refreshing dessert wrap filled with dried fruit and kissed with love. Perfect for a snack or dessert.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kissed Croatian dough wrap",
+      "amount": "1",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Dried fruit mix",
+      "amount": "1 cup",
+      "notes": "Cranberries, apricots, and cherries"
+    },
+    {
+      "name": "Fruit jam",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Fresh mint",
+      "amount": "1 sprig",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the dough wrap to a thickness of 1/4 inch.",
+    "Spread the fruit jam evenly over the dough, leaving a 1-inch border.",
+    "Sprinkle the dried fruit mix over the jam.",
+    "Fold the bottom edge of the dough up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Place the wrap seam-side down on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the dough is golden brown.",
+    "Dust with powdered sugar and sprinkle with cinnamon, if desired.",
+    "Garnish with fresh mint.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "eastern-european",
+    "dessert",
+    "fruit",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "2g",
+    "carbs": "35g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-croatian-dried-fruit-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:57:16.193Z"
+}
