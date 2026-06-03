@@ -1,0 +1,86 @@
+{
+  "slug": "keto-friendly-bhuna-onion-stir-fry",
+  "title": "Keto Bhuna Stir Fry",
+  "description": "A quick and flavorful keto stir fry cooked in the bhuna style, perfect for a low-carb dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bhuna sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Sliced onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Stir-fry mix (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Grass-fed beef strips",
+      "amount": "8 oz",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add beef strips and cook until browned, about 3-4 minutes.",
+    "Remove beef from the skillet and set aside.",
+    "Add sliced onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add stir-fry mix and cook until vegetables are tender-crisp, about 4-5 minutes.",
+    "Return beef to the skillet and stir in bhuna sauce.",
+    "Cook for an additional 1-2 minutes, until sauce is bubbly and slightly thickened.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "indian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-friendly-bhuna-onion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:52:47.961Z"
+}
