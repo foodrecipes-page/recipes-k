@@ -2698,11 +2698,11 @@
   },
   {
     "slug": "kimbap-rice-paper-roll",
-    "title": "Buttery Gooey Low-Carb Kimbap Rice Paper Roll",
+    "title": "Homemade Kimbap Rolls",
     "tags": [
-      "kimbap",
-      "rice-paper-roll",
-      "low-carb-diet"
+      "korean",
+      "snack",
+      "easy"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 15,
@@ -9824,17 +9824,15 @@
   },
   {
     "slug": "kissed-roasted-slovakian-oats-bowl",
-    "title": "Kissed Roasted Slovakian Oats Bowl",
+    "title": "Slovakian Oat Bowl",
     "tags": [
-      "gluten-free",
-      "mason-jar",
-      "meal-prep",
-      "plant-based",
-      "slovakian",
-      "vegan"
+      "oat-bowl",
+      "slovakian-cuisine",
+      "breakfast-recipe",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
@@ -15091,18 +15089,16 @@
   },
   {
     "slug": "knockout-portuguese-yautia-hash",
-    "title": "Knockout Portuguese Yautia Hash",
+    "title": "Knockout Hash with Yautia and Portuguese Sausage",
     "tags": [
-      "breakfast-ideas",
-      "brunch-recipes",
-      "dairy-free",
-      "gluten-free",
-      "hangover-food",
-      "portuguese-cuisine",
-      "vegetarian"
+      "breakfast",
+      "hash",
+      "sausage",
+      "yautia",
+      "knockout"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -16208,6 +16204,18 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kneaded-springy-venezuelan-dough-empanadas--chinese",
+    "title": "Venezuelan Springy Empanadas with Chinese Twist",
+    "tags": [
+      "empanada",
+      "chinese",
+      "fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
