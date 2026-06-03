@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-light-filipino-chicken-tinola--vegan",
+  "title": "Filipino-Style Tinola Without Chicken",
+  "description": "A vegan twist on the classic Filipino chicken tinola, using a mixture of spices and vegetables to create a flavorful and comforting soup.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "light",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "filipino",
+      "amount": "1 teaspoon",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "tinola",
+      "amount": "1 cup",
+      "notes": "mushrooms"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the light in a large pot over medium heat.",
+    "Add the kissed and cook until fragrant, about 1 minute.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the tinola and cook until tender, about 5 minutes.",
+    "Add the filipino, coconut milk, and vegetable broth. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Add the bay leaves and season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "filipino",
+    "soup",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-filipino-chicken-tinola--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:03:19.266Z"
+}
