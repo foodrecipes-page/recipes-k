@@ -2786,17 +2786,16 @@
   },
   {
     "slug": "kindly-velvety-egyptian-lentil-tagine",
-    "title": "Kindly Velvety Egyptian Lentil Tagine",
+    "title": "Egyptian Lentil Tagine",
     "tags": [
-      "comfort-food",
-      "lentil",
-      "north-african",
-      "one-pot",
-      "tagine",
+      "lentils",
+      "eggplant",
+      "north african",
+      "stew",
       "vegan"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14878,16 +14877,17 @@
   },
   {
     "slug": "knobby-silky-slovakian-potatoes-toast",
-    "title": "Knobby Silky Slovakian Potatoes Toast",
+    "title": "Slovakian Potato Pancakes",
     "tags": [
-      "comfort-food",
-      "jain-friendly",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "slovakian",
+      "potato",
+      "veggie",
+      "tofu",
+      "snack",
+      "side-dish"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16190,6 +16190,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-light-filipino-chicken-tinola--vegan",
+    "title": "Filipino-Style Tinola Without Chicken",
+    "tags": [
+      "vegan",
+      "filipino",
+      "soup",
+      "comfort food"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
