@@ -1,0 +1,59 @@
+{
+  "slug": "kimbap-rice-paper-roll",
+  "title": "Homemade Kimbap Rolls",
+  "description": "A classic Korean dish, kimbap is a simple, easy-to-make snack or meal made with rice and various fillings wrapped in a paper-thin sheet of seaweed.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups cooked",
+      "notes": ""
+    },
+    {
+      "name": "Dried Seaweed Sheets (Nori)",
+      "amount": "8-10 sheets",
+      "notes": "Available at most Asian grocery stores"
+    },
+    {
+      "name": "Vegetable Filling (e.g. cucumber, carrot, spinach)",
+      "amount": "1 cup",
+      "notes": "Choose your favorite fillings"
+    }
+  ],
+  "instructions": [
+    "Prepare the rice by cooking it according to package instructions.",
+    "Cut the seaweed sheets into 8-10 equal pieces.",
+    "Prepare your vegetable filling of choice.",
+    "Lay a piece of seaweed flat on a cutting board.",
+    "Spread a thin layer of rice onto the seaweed, leaving a 1-inch border at the top.",
+    "Add your chosen vegetable filling in the middle of the rice.",
+    "Roll the kimbap tightly but gently, applying even pressure.",
+    "Repeat with the remaining ingredients.",
+    "Slice the kimbap rolls into individual pieces and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kimbap-rice-paper-roll",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T07:17:38.055Z"
+}
