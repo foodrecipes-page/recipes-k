@@ -1,0 +1,101 @@
+{
+  "slug": "kindly-velvety-egyptian-lentil-tagine",
+  "title": "Egyptian Lentil Tagine",
+  "description": "A hearty and flavorful North African stew made with lentils, kindly velvety eggplant, and aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "green or brown lentils"
+    },
+    {
+      "name": "kindly velvety eggplant",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the egyptian olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced eggplant and cook until tender, about 10 minutes.",
+    "Stir in the cumin, coriander, cayenne pepper (if using), salt, and black pepper.",
+    "Add the lentils and 4 cups of water to the pot.",
+    "Bring to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the lentils are tender.",
+    "Stir in the chopped parsley.",
+    "Serve the tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "eggplant",
+    "north african",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kindly-velvety-egyptian-lentil-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T23:26:21.378Z"
+}
