@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-polish-vegetable-lasagna",
+  "title": "Vegetable Lasagna",
+  "description": "A classic Italian dish made with layers of lasagna noodles, rich sauce, and a blend of sautéed vegetables.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lasagna noodles",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "Vegetable sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped zucchini",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large skillet, sauté the onion, bell pepper, and zucchini in a little bit of olive oil until tender.",
+    "Add the garlic and cook for an additional minute.",
+    "Stir in the vegetable sauce and bring to a simmer.",
+    "In a large bowl, combine the ricotta cheese and a pinch of salt and pepper. Mix well.",
+    "Spread a layer of the vegetable sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the ricotta cheese mixture over the noodles.",
+    "Top with half of the shredded mozzarella cheese.",
+    "Repeat the layers, starting with the noodles, then the sauce, then the ricotta cheese mixture, and finally the remaining mozzarella cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lasagna",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-polish-vegetable-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:05:17.748Z"
+}
