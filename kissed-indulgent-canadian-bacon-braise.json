@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-indulgent-canadian-bacon-braise",
+  "title": "Canadian Bacon Braised in a Rich Brown Sauce",
+  "description": "A hearty and comforting dish featuring tender Canadian bacon in a rich brown sauce, perfect for a cozy dinner. This recipe is a twist on traditional braised meats, with a focus on the unique flavor of Canadian bacon.",
+  "cuisine": null,
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "1 pound",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "kissed brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "for the brown sauce"
+    },
+    {
+      "name": "indulgent heavy cream",
+      "amount": "1 cup",
+      "notes": "for the brown sauce"
+    },
+    {
+      "name": "bacon drippings",
+      "amount": "2 tablespoons",
+      "notes": "for the brown sauce"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening the sauce"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the Canadian bacon with salt and pepper.",
+    "In a large Dutch oven, cook the Canadian bacon over medium heat until browned, about 5 minutes.",
+    "Remove the Canadian bacon from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the brown sugar, heavy cream, bacon drippings, flour, and beef broth to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Return the Canadian bacon to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and braise for 2 hours, or until the Canadian bacon is tender.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the Canadian bacon and sauce over mashed potatoes or egg noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-bacon",
+    "braised-meat",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indulgent-canadian-bacon-braise",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:40:01.884Z"
+}
