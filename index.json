@@ -716,16 +716,15 @@
   },
   {
     "slug": "keto-kicked-kenyan-fatty-food-bake",
-    "title": "Keto Kicked Kenyan Fatty Food Bake",
+    "title": "Kenyan Fatty Bake",
     "tags": [
-      "air-fryer",
-      "dessert",
-      "indulgent",
+      "kenyan",
       "keto",
-      "one-pan"
+      "bake",
+      "breakfast"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
