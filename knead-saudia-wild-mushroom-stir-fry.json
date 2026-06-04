@@ -1,0 +1,86 @@
+{
+  "slug": "knead-saudia-wild-mushroom-stir-fry",
+  "title": "Saudia Mushroom Stir Fry",
+  "description": "A simple and flavorful stir fry dish from Saudia Arabia, made with wild mushrooms and a blend of spices.",
+  "cuisine": "Saudia",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "wild mushrooms",
+      "amount": "250g",
+      "notes": "any variety"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for stir frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and stir fry until the onion is translucent.",
+    "Add the mushrooms and stir fry until they are tender and lightly browned.",
+    "Add the soy sauce, paprika, salt, and black pepper, and stir to combine.",
+    "Stir fry for an additional 2-3 minutes, until the flavors have melded together.",
+    "Serve the stir fry hot, garnished with chopped fresh herbs if desired.",
+    "Note: Traditionally, this dish would be cooked over an open flame, but a conventional stovetop or wok will work just as well.",
+    "Be sure to stir the ingredients frequently to prevent burning.",
+    "You can also add other vegetables, such as bell peppers or snow peas, to the stir fry if you like.",
+    "Serve over rice or noodles for a filling and flavorful meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "mushroom",
+    "stir-fry",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knead-saudia-wild-mushroom-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T11:32:28.333Z"
+}
