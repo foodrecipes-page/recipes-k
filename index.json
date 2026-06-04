@@ -7568,16 +7568,14 @@
   },
   {
     "slug": "kissed-indulgent-canadian-bacon-braise",
-    "title": "Kissed Indulgent Canadian Bacon Braise",
+    "title": "Canadian Bacon Braised in a Rich Brown Sauce",
     "tags": [
-      "bacon-lovers",
-      "canadian-cuisine",
-      "comfort-food",
-      "one-pot",
-      "slow-cooked"
+      "canadian-bacon",
+      "braised-meat",
+      "comfort-food"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 150,
+    "cuisine": null,
+    "totalTimeMin": 135,
     "shard": "k"
   },
   {
@@ -16264,6 +16262,18 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-french-monsoon-monsoon-french-gratin--gluten-free",
+    "title": "Gratin-Style Baked Monsoon Sweet Potatoes",
+    "tags": [
+      "sweet-potatoes",
+      "side-dish",
+      "gluten-free"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
     "shard": "k"
   }
 ]
