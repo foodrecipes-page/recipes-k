@@ -1,0 +1,84 @@
+{
+  "slug": "knockout-portuguese-yautia-hash--vegetarian",
+  "title": "Hash and Yautia Hashbrowns",
+  "description": "A vegetarian twist on a classic dish, using yautia and hash to create crispy hashbrowns.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, combine grated yautia, diced hash, onion, garlic, egg, salt, and black pepper.",
+    "Mix well to combine.",
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the yautia mixture into the skillet.",
+    "Press the mixture down to form a flat shape.",
+    "Cook for 4-5 minutes, or until the bottom is golden brown.",
+    "Flip the hashbrowns over and cook for an additional 4-5 minutes, or until the other side is golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until crispy.",
+    "Remove from the oven and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "vegetarian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-portuguese-yautia-hash--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:12:38.928Z"
+}
