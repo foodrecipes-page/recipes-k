@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-caramel-ukrainian-andouille-skillet--italian",
+  "title": "Italian Sausage Skillet",
+  "description": "A hearty Italian-inspired skillet dish featuring andouille sausage, kissed by the flavors of caramel and ukrainian spices.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Andouille Sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized Onion",
+      "amount": "1 large",
+      "notes": "Slow cook in a skillet with 2 tbsp of olive oil until dark brown"
+    },
+    {
+      "name": "Kissed Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince and cook in the skillet until fragrant"
+    },
+    {
+      "name": "Skillet-Roasted Potatoes",
+      "amount": "2 large",
+      "notes": "Thinly slice and cook in the skillet with the sausage and onions"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large skillet, cook the andouille sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the ukrainian spice blend to the skillet and cook for 1 minute.",
+    "Add the caramelized onion and kissed garlic to the skillet and cook for 2 minutes.",
+    "Add the skillet-roasted potatoes to the skillet and cook for 5 minutes, or until they start to brown.",
+    "Transfer the skillet to the oven and cook for 15-20 minutes, or until the potatoes are tender and the sausage is cooked through.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "sausage",
+    "skillet",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-caramel-ukrainian-andouille-skillet--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T18:57:14.600Z"
+}
