@@ -16213,5 +16213,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "korean-style-korean-chicken-noodles--italian",
+    "title": "Korean-Style Chicken Pasta",
+    "tags": [
+      "korean-italian-fusion",
+      "chicken-pasta",
+      "noodle-dish"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
