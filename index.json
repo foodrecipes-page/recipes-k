@@ -16252,5 +16252,18 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-caramel-ukrainian-andouille-skillet--italian",
+    "title": "Italian Sausage Skillet",
+    "tags": [
+      "italian",
+      "sausage",
+      "skillet",
+      "potatoes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "k"
   }
 ]
