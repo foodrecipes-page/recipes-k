@@ -15804,17 +15804,15 @@
   },
   {
     "slug": "korean-style-korean-chicken-noodles",
-    "title": "Korean Style Chicken Noodles",
+    "title": "Spicy Korean Chicken Noodle Stir Fry",
     "tags": [
-      "gluten-free",
-      "korean-cuisine",
-      "meal-prep",
-      "one-pan",
-      "paleo-friendly",
-      "whole30-friendly"
+      "korean",
+      "chicken",
+      "noodles",
+      "stir-fry"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
