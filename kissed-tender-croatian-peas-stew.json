@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-tender-croatian-peas-stew",
+  "title": "Traditional Croatian Stew",
+  "description": "A hearty, comforting stew originating from Croatia, made with tender meat and fresh vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb kissed Croatian beef",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "2 medium carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "1 cup dried peas",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "2 medium potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "1 tsp dried thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "1 tsp salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "1/2 tsp black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots, potatoes, peas, thyme, salt, and pepper to the pot.",
+    "Stir to combine, then add the browned beef back to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 hour.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-croatian-peas-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:46:05.893Z"
+}
