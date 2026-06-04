@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-tender-croatian-peas-stew--vegan",
+  "title": "Croatian Stew with Peas and Kissed Vegetables",
+  "description": "A hearty and comforting vegan stew made with kissed tender vegetables and Croatian peas.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian peas",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Kissed tender vegetables (carrots, zucchini, bell peppers)",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "make sure it's vegan"
+    }
+  ],
+  "instructions": [
+    "Heat the stew in a large pot over medium heat.",
+    "Add the kissed tender vegetables and sauté for 5 minutes.",
+    "Add the Croatian peas, vegetable broth, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-croatian-peas-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:44:06.693Z"
+}
