@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-french-monsoon-monsoon-french-gratin--gluten-free",
+  "title": "Gratin-Style Baked Monsoon Sweet Potatoes",
+  "description": "A simple yet delicious side dish that combines the flavors of roasted Monsoon sweet potatoes with a crispy gratin topping.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Monsoon sweet potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "French garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "French butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Monsoon milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pierce the sweet potatoes several times with a fork to allow steam to escape.",
+    "Rub the sweet potatoes with French butter, sprinkling with salt and black pepper to taste.",
+    "Bake the sweet potatoes for 45 minutes, or until tender when pierced with a fork.",
+    "While the sweet potatoes bake, melt the remaining French butter in a saucepan over medium heat.",
+    "Add the French garlic and cook for 1-2 minutes, or until fragrant.",
+    "Pour in the Monsoon milk and bring to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 5 minutes, or until slightly thickened.",
+    "Remove the sweet potatoes from the oven and brush with the garlic sauce.",
+    "Return the sweet potatoes to the oven and bake for an additional 10-15 minutes, or until the sauce is bubbly and golden brown.",
+    "Serve the gratin-style baked sweet potatoes hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sweet-potatoes",
+    "side-dish",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-french-monsoon-monsoon-french-gratin--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T19:42:09.861Z"
+}
