@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-nutty-thai-beef-wrap--german",
+  "title": "German Beef Wrap",
+  "description": "A hearty beef wrap with a German twist, featuring a delicious blend of spices and flavors.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef Striploin Steak",
+      "amount": "250g",
+      "notes": "Choose a high-quality beef for the best flavor"
+    },
+    {
+      "name": "Kissed German Mustard",
+      "amount": "2 tbsp",
+      "notes": "A sweet and tangy mustard that adds depth to the dish"
+    },
+    {
+      "name": "Nutty Caraway Seeds",
+      "amount": "1 tsp",
+      "notes": "Caraway seeds have a distinctive nutty flavor and aroma"
+    },
+    {
+      "name": "Thai Basil Leaves",
+      "amount": "4",
+      "notes": "Add a pop of freshness with Thai basil leaves"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Choose a crusty German-style wrap"
+    }
+  ],
+  "instructions": [
+    "1. Slice the beef striploin steak into thin strips and season with salt, pepper, and caraway seeds.",
+    "2. Heat a large skillet over medium-high heat and add the beef. Cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "3. In a small bowl, mix together the kissed German mustard, salt, and pepper. Brush the mustard mixture onto the cooked beef.",
+    "4. Warm the wrap in the oven or in a dry skillet.",
+    "5. Assemble the wrap by placing the beef onto the wrap, followed by a few Thai basil leaves.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "german-food",
+    "beef-wrap",
+    "german-beef",
+    "german-cuisine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-thai-beef-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:32:54.046Z"
+}
