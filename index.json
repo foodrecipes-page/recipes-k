@@ -2902,17 +2902,15 @@
   },
   {
     "slug": "kissed-algerian-fish-tagine",
-    "title": "Kissed Algerian Fish Tagine",
+    "title": "Baked Fish Tagine",
     "tags": [
-      "algerian",
-      "comforting",
-      "easy-weeknight",
+      "north-african",
       "fish",
-      "low-glycemic",
-      "one-pan"
+      "gluten-free",
+      "dairy-free"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
