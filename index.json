@@ -14454,14 +14454,16 @@
   },
   {
     "slug": "knead-saudia-wild-mushroom-stir-fry",
-    "title": "Knead Saudia Wild Mushroom Stir-fry",
+    "title": "Saudia Mushroom Stir Fry",
     "tags": [
-      "saudia-mushroom-stir-fry",
-      "high-protein-friendly",
-      "meal-prep-dinner"
+      "saudia",
+      "mushroom",
+      "stir-fry",
+      "vegetarian",
+      "easy"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 22,
+    "cuisine": "Saudia",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
