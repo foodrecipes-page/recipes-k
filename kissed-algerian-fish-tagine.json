@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-algerian-fish-tagine",
+  "title": "Baked Fish Tagine",
+  "description": "A flavorful North African-inspired dish featuring fish baked in a spicy tagine sauce.",
+  "cuisine": "North African",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian Kissed Fish Fillets",
+      "amount": "4",
+      "notes": "Fresh fish fillets"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For drizzling"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the fish fillets with salt and black pepper.",
+    "In a large bowl, whisk together the tagine spice mix, lemon juice, and olive oil.",
+    "Add the chopped onion and minced garlic to the bowl and mix well.",
+    "Place the fish fillets in the bowl and coat with the tagine sauce.",
+    "Transfer the fish to a baking dish and drizzle with additional kissed olive oil.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Note: Traditionally, tagine is cooked in a clay pot with a conical lid. If you have one, feel free to use it! Otherwise, a regular baking dish will do."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "fish",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-algerian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:27:58.475Z"
+}
