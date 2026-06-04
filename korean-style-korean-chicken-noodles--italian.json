@@ -1,0 +1,92 @@
+{
+  "slug": "korean-style-korean-chicken-noodles--italian",
+  "title": "Korean-Style Chicken Pasta",
+  "description": "A fusion dish that combines the flavors of Korea and Italy. This quick and easy recipe is perfect for a weeknight dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Korean-style chicken",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "1/2 cup",
+      "notes": "any type of noodle, such as rice noodles or udon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to the package instructions. Drain and set aside.",
+    "In a large skillet, heat the sesame oil over medium-high heat.",
+    "Add the Korean-style chicken to the skillet and cook until browned and cooked through.",
+    "Add the soy sauce, gochujang, garlic, and green onions to the skillet. Stir to combine.",
+    "Add the cooked pasta to the skillet and toss to combine with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional green onions if desired.",
+    "In a separate pan, cook the noodles according to the package instructions. Drain and set aside.",
+    "To assemble the dish, place a serving of the pasta mixture on a plate, then top with a serving of the noodles.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean-italian-fusion",
+    "chicken-pasta",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/korean-style-korean-chicken-noodles--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T16:34:33.546Z"
+}
