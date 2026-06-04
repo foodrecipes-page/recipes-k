@@ -6639,18 +6639,14 @@
   },
   {
     "slug": "kissed-french-monsoon-monsoon-french-gratin",
-    "title": "Kissed French Monsoon Monsoon French Gratin",
+    "title": "French Kissed Gratin",
     "tags": [
-      "easy-to-make",
-      "fermented",
-      "gluten-free",
       "gratin",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "french",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -9347,18 +9343,14 @@
   },
   {
     "slug": "kissed-polish-vegetable-lasagna",
-    "title": "Kissed Polish Vegetable Lasagna",
+    "title": "Vegetable Lasagna",
     "tags": [
-      "egg-free-friendly",
-      "high-protein",
+      "italian",
       "lasagna",
-      "one-pan",
-      "polish-food",
-      "vegetarian-main-dish",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 55,
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -11932,17 +11924,15 @@
   },
   {
     "slug": "kissed-tender-croatian-peas-stew",
-    "title": "Kissed Tender Croatian Peas Stew",
+    "title": "Traditional Croatian Stew",
     "tags": [
-      "comfort-food",
       "croatian",
-      "low-fat",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "stew",
+      "hearty",
+      "comforting"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 75,
     "shard": "k"
   },
   {
@@ -16224,6 +16214,43 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-portuguese-yautia-hash--vegetarian",
+    "title": "Hash and Yautia Hashbrowns",
+    "tags": [
+      "portuguese",
+      "vegetarian",
+      "breakfast"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-nutty-thai-beef-wrap--german",
+    "title": "German Beef Wrap",
+    "tags": [
+      "german-food",
+      "beef-wrap",
+      "german-beef",
+      "german-cuisine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tender-croatian-peas-stew--vegan",
+    "title": "Croatian Stew with Peas and Kissed Vegetables",
+    "tags": [
+      "vegan",
+      "comfort-food",
+      "stew"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
