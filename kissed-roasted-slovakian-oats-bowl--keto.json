@@ -1,0 +1,55 @@
+{
+  "slug": "kissed-roasted-slovakian-oats-bowl--keto",
+  "title": "Keto Slovakian Kissed Oat Bowl",
+  "description": "A delicious and unique keto breakfast bowl, combining the flavors of Slovakia with the comforting taste of oats.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Roasted Slovakian oats",
+      "amount": "1/2 cup",
+      "notes": "Make sure to roast the oats in a pan with a bit of oil until golden brown"
+    },
+    {
+      "name": "Kissed almond butter",
+      "amount": "2 tbsp",
+      "notes": "Use a high-quality almond butter and make sure to mix it well before using"
+    },
+    {
+      "name": "Slovakian honey",
+      "amount": "1 tsp",
+      "notes": "Use a pure Slovakian honey and drizzle it on top of the oats"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, roast the Slovakian oats with a bit of oil until golden brown",
+    "2. In a separate bowl, mix together the kissed almond butter and Slovakian honey",
+    "3. Add the roasted oats to the bowl and mix well",
+    "4. Pour the mixture into a bowl and top with chopped nuts or seeds (optional)",
+    "5. Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "slovakian",
+    "oats"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-slovakian-oats-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:53:24.418Z"
+}
