@@ -1,0 +1,73 @@
+{
+  "slug": "kicked-spicy-southern-thai-mozzarella-larb",
+  "title": "Spicy Thai Larb Pizza",
+  "description": "A fusion pizza that combines the flavors of Thailand and Italy, featuring spicy larb pizza crust topped with mozzarella, southern kick, and thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kicked Pizza Crust",
+      "amount": "1 pre-made crust",
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz, shredded",
+      "notes": "use dairy-free alternative if necessary"
+    },
+    {
+      "name": "Spicy Larb Sauce",
+      "amount": "1/4 cup, spreadable",
+      "notes": "adjust spice level to taste"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup, chopped",
+      "notes": "add as garnish"
+    },
+    {
+      "name": "Southern Kick Seasoning",
+      "amount": "1 tsp",
+      "notes": "adds smoky flavor"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup, chopped",
+      "notes": "add as garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Roll out the kicked pizza crust and place on a baking sheet.",
+    "Spread the spicy larb sauce evenly over the crust.",
+    "Sprinkle shredded mozzarella cheese over the sauce.",
+    "Sprinkle Thai basil and southern kick seasoning over the cheese.",
+    "Bake for 12-15 minutes or until crust is golden brown and cheese is melted.",
+    "Remove from oven and garnish with chopped green onions.",
+    "Slice into wedges and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "pizza",
+    "thai-food",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-southern-thai-mozzarella-larb",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T21:46:12.654Z"
+}
