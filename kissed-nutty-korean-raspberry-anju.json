@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-nutty-korean-raspberry-anju",
+  "title": "Korean Kisseled Dessert",
+  "description": "A unique dessert combining the sweetness of raspberries with the nutty and kissed flavors. Perfect for a sweet treat.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Raspberries",
+      "amount": "250g"
+    },
+    {
+      "name": "Korean Anju Honey",
+      "amount": "100g"
+    },
+    {
+      "name": "Kissed Pecans",
+      "amount": "50g"
+    },
+    {
+      "name": "Nutty Sesame Seeds",
+      "amount": "20g"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "100g"
+    },
+    {
+      "name": "Water",
+      "amount": "100ml"
+    }
+  ],
+  "instructions": [
+    "Combine raspberries, honey, and sugar in a blender and mix until smooth.",
+    "Heat the mixture over medium heat until the sugar dissolves.",
+    "Add the nutty sesame seeds and kissed pecans to the mixture and stir well.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 10 minutes.",
+    "Remove from heat and let it cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours.",
+    "Serve chilled and garnish with additional raspberries and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "dessert",
+    "raspberry",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-korean-raspberry-anju",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:22:46.283Z"
+}
