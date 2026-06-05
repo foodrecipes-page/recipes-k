@@ -5708,17 +5708,16 @@
   },
   {
     "slug": "kissed-crunchy-thai-apricot-skewers",
-    "title": "Kissed Crunchy Thai Apricot Skewers",
+    "title": "Grilled Apricot Skewers with Crunchy Thai Sauce",
     "tags": [
-      "crunchy",
-      "fruity",
       "grilled",
-      "macrobiotic",
-      "thai-inspired",
-      "vegetarian"
+      "apricots",
+      "thai-sauce",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {
@@ -12889,15 +12888,14 @@
   },
   {
     "slug": "kissed-with-crumbly-russian-sloe-berries-borscht",
-    "title": "Kissed with Crumbly Russian Sloe-berries Borscht",
+    "title": "Sloe Berry Borscht Crumble",
     "tags": [
-      "one-pan",
-      "paleo",
-      "russian",
-      "solo-dinner",
-      "weeknight"
+      "borscht",
+      "sloe-berries",
+      "vegan-dinner",
+      "crumble"
     ],
-    "cuisine": "Russian",
+    "cuisine": "Eastern European",
     "totalTimeMin": 45,
     "shard": "k"
   },
@@ -16298,6 +16296,20 @@
     ],
     "cuisine": "Korean",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-slovakian-oats-bowl--chinese",
+    "title": "Kissed Roasted Bowl",
+    "tags": [
+      "chinese",
+      "vegan",
+      "easy",
+      "oats",
+      "roasted"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
     "shard": "k"
   }
 ]
