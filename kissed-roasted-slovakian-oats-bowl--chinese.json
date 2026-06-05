@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-roasted-slovakian-oats-bowl--chinese",
+  "title": "Kissed Roasted Bowl",
+  "description": "A delicious and unique Chinese-inspired bowl dish featuring roasted oats and kissed roasted vegetables.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "oats",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kissed roasted vegetables (such as carrots & broccoli)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "slovakian cheese (or feta)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Toss the kissed roasted vegetables in a bowl with a drizzle of sesame oil and roast in the oven for 15-20 minutes.",
+    "In a separate pan, toast the oats over medium heat for 5-7 minutes or until lightly browned.",
+    "In a large bowl, combine the toasted oats, roasted vegetables, soy sauce, and a sprinkle of sesame seeds.",
+    "Top with sliced scallions and crumbled Slovakian cheese.",
+    "Serve immediately in a bowl.",
+    "Optional: add any additional toppings of your choice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegan",
+    "easy",
+    "oats",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-slovakian-oats-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:06:20.736Z"
+}
