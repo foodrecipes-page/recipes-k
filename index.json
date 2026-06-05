@@ -4498,17 +4498,15 @@
   },
   {
     "slug": "kissed-charred-mediterranean-bean-tagine",
-    "title": "Kissed Charred Mediterranean Bean Tagine",
+    "title": "Charred Bean Tagine",
     "tags": [
-      "flavorful",
-      "high-fiber",
-      "mediterranean",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "vegan",
+      "north-african",
+      "stew",
+      "beans"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -9061,16 +9059,15 @@
   },
   {
     "slug": "kissed-nutty-korean-raspberry-anju",
-    "title": "Kissed Nutty Korean Raspberry Anju",
+    "title": "Korean Kisseled Dessert",
     "tags": [
-      "crowd-pleaser",
-      "easy-to-make",
-      "korean-cuisine",
-      "nutty-flavors",
-      "vegetarian-friendly"
+      "korean",
+      "dessert",
+      "raspberry",
+      "sweet"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -16318,6 +16315,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-spicy-southern-thai-mozzarella-larb--keto",
+    "title": "Thai Larb Kicked Up",
+    "tags": [
+      "keto",
+      "thai",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 27,
     "shard": "k"
   }
 ]
