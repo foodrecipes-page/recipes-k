@@ -9150,18 +9150,15 @@
   },
   {
     "slug": "kissed-peppery-brazilian-korean-pear-stew",
-    "title": "Kissed Peppery Brazilian Korean Pear Stew",
+    "title": "Korean-Style Pear Stew",
     "tags": [
-      "fusion",
-      "one-pot",
+      "korean",
       "pear",
-      "spicy",
       "stew",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Brazilian Korean Fusion",
-    "totalTimeMin": 50,
+    "cuisine": "Korean",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -16310,6 +16307,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "knead-saudia-wild-mushroom-stir-fry--mexican",
+    "title": "Wild Mushroom Fajitas",
+    "tags": [
+      "mexican",
+      "wild-mushroom",
+      "fajitas",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
