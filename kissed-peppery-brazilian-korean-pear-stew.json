@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-peppery-brazilian-korean-pear-stew",
+  "title": "Korean-Style Pear Stew",
+  "description": "A sweet and spicy stew made with pears and a blend of Korean spices. Serve warm with a side of steamed rice.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pears",
+      "amount": "2",
+      "notes": "any variety"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Pear stew",
+      "amount": "1 cup",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add sliced ginger and cook for 1-2 minutes, until fragrant.",
+    "Add Korean chili flakes and cook for another minute.",
+    "Add soy sauce, sugar, and pear stew. Stir to combine.",
+    "Add sliced pears and cook for 5-7 minutes, until tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onions and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pear",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peppery-brazilian-korean-pear-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T00:55:01.757Z"
+}
