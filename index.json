@@ -1826,16 +1826,14 @@
   },
   {
     "slug": "kicked-spicy-southern-thai-mozzarella-larb",
-    "title": "Kicked Spicy Southern Thai Mozzarella Larb",
+    "title": "Spicy Thai Larb Pizza",
     "tags": [
-      "grilled-cheese",
-      "hangover-cure",
-      "paleo-diet",
-      "spicy-food",
-      "thai-cuisine"
+      "pizza",
+      "thai-food",
+      "fusion"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16274,6 +16272,32 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-slovakian-oats-bowl--keto",
+    "title": "Keto Slovakian Kissed Oat Bowl",
+    "tags": [
+      "keto",
+      "breakfast",
+      "slovakian",
+      "oats"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 10,
+    "shard": "k"
+  },
+  {
+    "slug": "korean-style-korean-chicken-noodles--keto",
+    "title": "Korean-Style Chicken Stir Fry",
+    "tags": [
+      "korean",
+      "chicken",
+      "noodles",
+      "stir-fry"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
