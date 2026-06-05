@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-crunchy-thai-apricot-skewers",
+  "title": "Grilled Apricot Skewers with Crunchy Thai Sauce",
+  "description": "Sweet and savory apricot skewers marinated in a zesty Thai-inspired sauce, then grilled to perfection. Serve as a snack or appetizer.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apricots",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Thai sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "crunchy peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "kissed honey",
+      "amount": "2 tablespoons",
+      "notes": "Optional"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo",
+      "notes": "For grilling"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together Thai sauce, kissed honey, and crunchy peanuts.",
+    "Add the apricot pieces to the marinade and toss to coat.",
+    "Soak bamboo skewers in water for at least 30 minutes.",
+    "Thread apricot pieces onto the skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers over medium heat for 2-3 minutes per side, or until lightly charred.",
+    "Serve hot, garnished with additional crunchy peanuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "apricots",
+    "thai-sauce",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-thai-apricot-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T22:10:48.887Z"
+}
