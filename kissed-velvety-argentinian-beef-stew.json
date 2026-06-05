@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-velvety-argentinian-beef-stew",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty stew featuring tender beef and a rich, flavorful broth, inspired by the traditions of Argentine cuisine.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound beef stew meat",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "1 onion",
+      "amount": "chopped",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic",
+      "amount": "minced",
+      "notes": ""
+    },
+    {
+      "name": "1 cup argentinian red wine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cups beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried thyme",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until softened, about 5 minutes.",
+    "Add the red wine, beef broth, thyme, and paprika to the pot.",
+    "Bring the mixture to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Return the beef to the pot and cover.",
+    "Transfer the pot to the oven and cook for 2 1/2 hours, or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "stew",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-argentinian-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T02:38:14.593Z"
+}
