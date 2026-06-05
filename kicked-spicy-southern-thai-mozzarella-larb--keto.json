@@ -1,0 +1,95 @@
+{
+  "slug": "kicked-spicy-southern-thai-mozzarella-larb--keto",
+  "title": "Thai Larb Kicked Up",
+  "description": "A spicy Thai-inspired dish kicked up with southern flair, featuring mozzarella and larb in a keto-friendly recipe.",
+  "cuisine": "thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Larb Spice Mix",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Chilies",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium-high heat.",
+    "Add sliced chilies and cook until fragrant, about 1 minute.",
+    "Add ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add larb spice mix and cook for 1 minute, stirring constantly.",
+    "Add fish sauce and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the flavors have melded together.",
+    "Stir in chopped cilantro and cook for an additional minute.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the mixture to a serving dish and top with mozzarella cheese.",
+    "Serve hot and garnish with fresh basil.",
+    "Serve with additional chilies on the side, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "thai",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "33g",
+    "carbs": "5g",
+    "fat": "46g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-southern-thai-mozzarella-larb--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:33:09.652Z"
+}
