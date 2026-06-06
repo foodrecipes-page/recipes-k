@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones--keto",
+  "title": "Pan-Seared Haddock with Peruvian Crust",
+  "description": "A keto-friendly dish featuring haddock with a crispy Peruvian-inspired crust. Perfect for a low-carb dinner option.",
+  "cuisine": "Latin American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Peruvian Crust (see below)",
+      "amount": "1 cup",
+      "notes": "see notes"
+    },
+    {
+      "name": "Camarones (shrimp)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Crushed red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chupe (Peruvian chupe spice blend)",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. In a bowl, mix together Peruvian Crust ingredients.",
+    "3. Dip haddock fillets into the Peruvian Crust mixture, pressing gently to adhere.",
+    "4. Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "5. Sear haddock fillets for 2-3 minutes on each side.",
+    "6. Transfer skillet to the preheated oven and bake for 8-10 minutes or until cooked through.",
+    "7. While haddock is baking, heat 1 tablespoon of olive oil in a separate skillet over medium heat.",
+    "8. Add camarones (shrimp) to the skillet and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "9. Season both haddock and shrimp with salt, black pepper, and crushed red pepper flakes.",
+    "10. Serve haddock with Peruvian Crust and camarones on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "haddock",
+    "peruvian",
+    "keto",
+    "dinner",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-peruvian-haddock-chupe-de-camarones--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:42:45.975Z"
+}
