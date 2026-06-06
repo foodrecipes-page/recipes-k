@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-spicy-french-duck-rillettes--indian",
+  "title": "Duck Rillettes Naan Bites",
+  "description": "A twist on traditional Indian street food, these bite-sized naan bites are filled with rich and creamy duck rillettes.",
+  "cuisine": "indian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French baguette",
+      "amount": "1/2 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Duck rillettes",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Kissed butter",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Spicy mango chutney",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the French baguette into 1-inch pieces.",
+    "In a bowl, mix together the duck rillettes and kissed butter until well combined.",
+    "Add the spicy mango chutney to the duck rillettes mixture and mix until smooth.",
+    "Spoon a small amount of the duck rillettes mixture onto each baguette piece.",
+    "Top each baguette piece with a sprinkle of salt and a few leaves of fresh cilantro.",
+    "Bake the naan bites in the preheated oven for 5-7 minutes, or until crispy and golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "appetizer",
+    "duck",
+    "rillettes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-french-duck-rillettes--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:50:09.363Z"
+}
