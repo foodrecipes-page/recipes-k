@@ -6837,17 +6837,15 @@
   },
   {
     "slug": "kissed-garlicky-vietnamese-rice-pudding",
-    "title": "Kissed Garlicky Vietnamese Rice Pudding",
+    "title": "Vietnamese Pudding Rice Bowl",
     "tags": [
       "dessert",
-      "egg-free",
-      "garlicky",
-      "hangover-cure",
-      "rice-pudding",
-      "vietnamese"
+      "pudding",
+      "rice",
+      "coconut"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -11310,16 +11308,16 @@
   },
   {
     "slug": "kissed-spicy-french-duck-rillettes",
-    "title": "Kissed Spicy French Duck Rillettes",
+    "title": "French Duck Rillettes",
     "tags": [
-      "comal-cooking",
-      "duck-recipes",
-      "french-cuisine",
-      "satvik-friendly",
-      "spicy-food"
+      "french",
+      "duck",
+      "rillettes",
+      "bread",
+      "appetizer"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 135,
     "shard": "k"
   },
   {
@@ -16389,6 +16387,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones--keto",
+    "title": "Pan-Seared Haddock with Peruvian Crust",
+    "tags": [
+      "haddock",
+      "peruvian",
+      "keto",
+      "dinner",
+      "latin-american"
+    ],
+    "cuisine": "Latin American",
+    "totalTimeMin": 28,
     "shard": "k"
   }
 ]
