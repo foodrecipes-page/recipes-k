@@ -16328,5 +16328,20 @@
     "cuisine": "thai",
     "totalTimeMin": 27,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-yeasty-italian-comte-cacio-e-pepe--chinese",
+    "title": "Spaghetti Cacio e Pepe with Chinese Twist",
+    "tags": [
+      "italian",
+      "chinese-fusion",
+      "spaghetti",
+      "cheese",
+      "garlic",
+      "peppers"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "k"
   }
 ]
