@@ -7374,17 +7374,15 @@
   },
   {
     "slug": "kissed-herbal-french-chicken-galette",
-    "title": "Kissed Herbal French Chicken Galette",
+    "title": "Chicken Galette with Herb Crust",
     "tags": [
-      "diabetic-friendly",
-      "french-cuisine",
-      "galette-recipe",
-      "gluten-free",
-      "herbal-chicken",
-      "shaggy-crust"
+      "chicken",
+      "herbs",
+      "pastry",
+      "lunch"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -9295,17 +9293,16 @@
   },
   {
     "slug": "kissed-polish-praline-dumplings",
-    "title": "Kissed Polish Praline Dumplings",
+    "title": "Delicious Polish Dumplings with Praline Sauce",
     "tags": [
-      "herbal-flavors",
-      "kid-friendly",
-      "macrobiotic",
-      "polish-dessert",
-      "praline-based",
-      "salt-block-cooking"
+      "polish",
+      "dumplings",
+      "praline",
+      "cheese",
+      "sour-cream"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 32,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -16425,6 +16422,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-greek-shrimp-skewers--german",
+    "title": "Grilled Shrimp Skewers with German-Style Crunchy Topping",
+    "tags": [
+      "german",
+      "shrimp",
+      "skewers",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 21,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-greek-shrimp-skewers--keto",
+    "title": "Greek Shrimp Skewers",
+    "tags": [
+      "greek",
+      "keto",
+      "shrimp",
+      "skewers"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "k"
   }
 ]
