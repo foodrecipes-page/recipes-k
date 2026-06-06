@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones",
+  "title": "Camarones a la Criolla",
+  "description": "A classic Peruvian dish featuring succulent shrimp in a zesty tomato sauce, served with crispy rice.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock",
+      "amount": "1 pound",
+      "notes": "substitute with Camarones if unavailable"
+    },
+    {
+      "name": "Crispy peruvian rice",
+      "amount": "2 cups",
+      "notes": "preferably cooked"
+    },
+    {
+      "name": "Camarones",
+      "amount": "1 pound",
+      "notes": "shrimp, peeled and deveined"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the haddock and cook until opaque, about 3-4 minutes per side.",
+    "Remove the haddock from the skillet and set aside.",
+    "Add the tomato sauce to the skillet and bring to a simmer.",
+    "Add the cooked haddock back to the skillet and stir to coat with the sauce.",
+    "Add the shrimp to the skillet and cook until pink and cooked through.",
+    "Season with salt, pepper, and chopped cilantro.",
+    "Serve the shrimp and haddock over crispy Peruvian rice.",
+    "Garnish with additional cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "shrimp",
+    "haddock",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-peruvian-haddock-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T14:09:40.274Z"
+}
