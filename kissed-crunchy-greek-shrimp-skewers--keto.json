@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-crunchy-greek-shrimp-skewers--keto",
+  "title": "Greek Shrimp Skewers",
+  "description": "A quick and easy keto recipe featuring succulent shrimp, crunchy bell peppers, and kissed garlic. This dish is perfect for a summer dinner or outdoor barbecue.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "12 large",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Crunchy bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Kissed garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "12",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, bell peppers, and garlic onto skewers.",
+    "In a small bowl, whisk together Greek yogurt, lemon juice, and olive oil.",
+    "Brush the yogurt mixture onto the shrimp skewers.",
+    "Season with salt and pepper to taste.",
+    "Grill skewers for 8-10 minutes, or until shrimp are pink and cooked through.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "keto",
+    "shrimp",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 36,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-greek-shrimp-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:37:55.927Z"
+}
