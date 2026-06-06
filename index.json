@@ -16449,5 +16449,32 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 20,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-herbal-french-chicken-galette--french",
+    "title": "Coq au Vin Galette",
+    "tags": [
+      "french",
+      "chicken",
+      "galette",
+      "red-wine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-greek-shrimp-skewers--gluten-free",
+    "title": "Greek Shrimp Skewers with Crunchy Greek Salad",
+    "tags": [
+      "gluten-free",
+      "greek",
+      "seafood",
+      "salad",
+      "summer"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
