@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-spicy-french-duck-rillettes",
+  "title": "French Duck Rillettes",
+  "description": "A classic French dish made with slow-cooked duck meat, perfect for a dinner party or special occasion.",
+  "cuisine": "French",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck leg",
+      "amount": "2 lbs",
+      "notes": "Bone-in or boneless, whichever is available"
+    },
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": "For serving"
+    },
+    {
+      "name": "Rillettes",
+      "amount": "1 jar",
+      "notes": "French duck rillettes"
+    },
+    {
+      "name": "Spicy mustard",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 275°F (135°C).",
+    "Season the duck leg with salt and pepper. Place in a roasting pan and roast for 2 hours, or until the meat is tender and falls apart easily.",
+    "Remove the duck from the oven and let it cool slightly. Shred the meat with two forks, discarding any excess fat.",
+    "In a blender or food processor, puree the shredded duck with the rillettes until smooth. Season with salt and pepper to taste.",
+    "Transfer the duck mixture to a serving dish and top with a layer of spicy mustard.",
+    "Serve the rillettes warm, garnished with fresh thyme and served with French bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "duck",
+    "rillettes",
+    "bread",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-french-duck-rillettes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T16:02:59.744Z"
+}
