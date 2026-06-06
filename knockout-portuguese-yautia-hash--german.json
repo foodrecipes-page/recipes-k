@@ -1,0 +1,83 @@
+{
+  "slug": "knockout-portuguese-yautia-hash--german",
+  "title": "German-Style Yautia Hash",
+  "description": "A hearty German-inspired dish made with yautia and hash, perfect for a cold winter morning.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 medium"
+    },
+    {
+      "name": "hash browns",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Grate the yautia and set aside.",
+    "In a large pan, heat the oil over medium heat.",
+    "Add the onion and garlic and sauté until softened.",
+    "Add the hash browns and cook until golden brown.",
+    "Add the grated yautia and stir to combine.",
+    "In a separate bowl, beat the eggs and season with salt and pepper.",
+    "Add the eggs to the pan and stir to combine.",
+    "Cook until the eggs are set.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-portuguese-yautia-hash--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:19.575Z"
+}
