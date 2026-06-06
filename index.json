@@ -5315,17 +5315,15 @@
   },
   {
     "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones",
-    "title": "Kissed Crispy Peruvian Haddock Chupe De Camarones",
+    "title": "Camarones a la Criolla",
     "tags": [
-      "crispy",
-      "high-protein",
-      "monsoon",
       "peruvian",
-      "seafood",
-      "wine-based"
+      "shrimp",
+      "haddock",
+      "seafood"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -16378,6 +16376,18 @@
       "haddock-free"
     ],
     "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-portuguese-yautia-hash--german",
+    "title": "German-Style Yautia Hash",
+    "tags": [
+      "german",
+      "breakfast",
+      "brunch"
+    ],
+    "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "k"
   }
