@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-crunchy-greek-shrimp-skewers--german",
+  "title": "Grilled Shrimp Skewers with German-Style Crunchy Topping",
+  "description": "A classic German-inspired dish featuring succulent shrimp skewers grilled to perfection and topped with a crunchy mixture of kissed almonds and greek yogurt.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kissed almonds",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "crunchy crackers",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/2 cup",
+      "notes": "dairy"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "bamboo or metal"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread shrimp onto skewers, leaving a small space between each shrimp.",
+    "3. Grill shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "4. Meanwhile, mix together kissed almonds and crunchy crackers in a small bowl.",
+    "5. Stir in greek yogurt until well combined.",
+    "6. Brush the mixture onto the grilled shrimp skewers.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "shrimp",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-greek-shrimp-skewers--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:36:34.110Z"
+}
