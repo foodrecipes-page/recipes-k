@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-crunchy-greek-shrimp-skewers--gluten-free",
+  "title": "Greek Shrimp Skewers with Crunchy Greek Salad",
+  "description": "A simple and flavorful gluten-free recipe featuring succulent shrimp skewers paired with a crunchy Greek salad.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch\" | \"dinner",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kissed olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing shrimp"
+    },
+    {
+      "name": "crunchy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "for dipping"
+    },
+    {
+      "name": "skewers",
+      "amount": "12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Greek salad mix",
+      "amount": "4 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp onto skewers, leaving space between each shrimp.",
+    "Brush shrimp with kissed olive oil and season with salt and pepper.",
+    "Grill shrimp for 2-3 minutes per side, or until cooked through.",
+    "Meanwhile, mix together crunchy breadcrumbs, Greek yogurt, and crushed red pepper flakes (if using).",
+    "Dip cooked shrimp into breadcrumb mixture to coat.",
+    "Serve shrimp skewers with Greek salad mix and lemon wedges on the side.",
+    "For the salad, combine Greek salad mix, lemon juice, and a pinch of salt and pepper in a bowl.",
+    "Toss to combine and adjust seasoning to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "greek",
+    "seafood",
+    "salad",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-greek-shrimp-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T23:01:05.237Z"
+}
