@@ -5595,17 +5595,16 @@
   },
   {
     "slug": "kissed-crunchy-greek-shrimp-skewers",
-    "title": "Kissed Crunchy Greek Shrimp Skewers",
+    "title": "Greek Shrimp Skewers",
     "tags": [
-      "greek-food",
-      "grilled",
-      "healthy-snack",
-      "pescatarian-friendly",
-      "quick-fix",
-      "seafood"
+      "greek",
+      "mediterranean",
+      "shrimp",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Greek",
-    "totalTimeMin": 23,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 18,
     "shard": "k"
   },
   {
@@ -16412,6 +16411,20 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-french-duck-rillettes--indian",
+    "title": "Duck Rillettes Naan Bites",
+    "tags": [
+      "indian",
+      "snack",
+      "appetizer",
+      "duck",
+      "rillettes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "k"
   }
 ]
