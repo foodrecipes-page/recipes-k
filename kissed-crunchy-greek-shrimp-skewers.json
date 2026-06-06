@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-crunchy-greek-shrimp-skewers",
+  "title": "Greek Shrimp Skewers",
+  "description": "A quick and easy recipe for grilled shrimp skewers seasoned with a blend of Greek herbs and spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 pound large shrimp, peeled and deveined",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "1/4 cup Greek vinaigrette",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2 cloves",
+      "notes": "optional"
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "1 tablespoon",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "Greek or Italian"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "1/2 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "10-12 bamboo skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, garlic, and oregano onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil, then season with salt and pepper.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until shrimp are pink and cooked through.",
+    "Serve immediately with Greek vinaigrette for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "mediterranean",
+    "shrimp",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-greek-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T20:03:45.876Z"
+}
