@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-polish-praline-dumplings",
+  "title": "Delicious Polish Dumplings with Praline Sauce",
+  "description": "Polish dumplings filled with a sweet and savory mixture, served with a rich praline sauce. Perfect for a cozy dinner or special occasion.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish dumplings",
+      "amount": "1 package (20-25 dumplings)",
+      "notes": "available at most Polish markets or online"
+    },
+    {
+      "name": "Praline sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the dumplings according to the package instructions.",
+    "Meanwhile, melt 2 tablespoons of butter in a large skillet over medium heat.",
+    "Add the praline sauce and stir to combine.",
+    "Add the shredded cheddar cheese and stir until melted.",
+    "Stir in the sour cream and cook for an additional 2-3 minutes.",
+    "Serve the dumplings with the praline sauce and top with chopped parsley if desired.",
+    "Melt the remaining 2 tablespoons of butter in a small saucepan over low heat.",
+    "Serve the melted butter on the side for added flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "dumplings",
+    "praline",
+    "cheese",
+    "sour-cream"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-polish-praline-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:07:38.544Z"
+}
