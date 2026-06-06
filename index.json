@@ -2333,16 +2333,13 @@
   },
   {
     "slug": "kicky-fresh-chinese-dum-dumplings",
-    "title": "Kicky Fresh Chinese Dum Dumplings",
+    "title": "Pan-Fried Dumplings",
     "tags": [
-      "fresh-ingredients",
-      "macrobiotic-friendly",
-      "sichuan-cuisine",
-      "vegetarian-options",
-      "weeknight-meal"
+      "chinese",
+      "dumplings"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 32,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16401,6 +16398,20 @@
     ],
     "cuisine": "Latin American",
     "totalTimeMin": 28,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-flaky-french-olive-macaron--thai",
+    "title": "Thai Macaron Chicken Stir Fry",
+    "tags": [
+      "thai",
+      "chicken",
+      "stir-fry",
+      "macaron",
+      "crunchy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
