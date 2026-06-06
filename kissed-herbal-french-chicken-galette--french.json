@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-herbal-french-chicken-galette--french",
+  "title": "Coq au Vin Galette",
+  "description": "A classic French dish featuring chicken cooked in red wine and topped with a flaky galette crust.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine, such as Cabernet Sauvignon or Merlot"
+    },
+    {
+      "name": "kissed butter",
+      "amount": "4 tablespoons",
+      "notes": "unsalted butter, softened"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "herbal thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh thyme"
+    },
+    {
+      "name": "galette crust",
+      "amount": "1 pre-made crust",
+      "notes": "or make your own using flour, butter, and water"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt and pepper.",
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned on all sides, about 5 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the sliced carrots to the skillet and cook for 2 minutes.",
+    "Add the red wine to the skillet and bring to a boil.",
+    "Return the chicken to the skillet and simmer until cooked through, about 10 minutes.",
+    "Roll out the galette crust to a thickness of about 1/8 inch.",
+    "Transfer the chicken and vegetables to the center of the galette crust.",
+    "Fold the edges of the crust up over the filling, pressing gently to seal.",
+    "Brush the crust with the remaining butter.",
+    "Bake the galette in the preheated oven for 20-25 minutes, or until the crust is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "galette",
+    "red-wine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-herbal-french-chicken-galette--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T22:38:33.673Z"
+}
