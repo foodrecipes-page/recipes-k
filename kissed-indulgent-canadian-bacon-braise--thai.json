@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-indulgent-canadian-bacon-braise--thai",
+  "title": "Spicy Canadian Bacon Braise",
+  "description": "A Thai-inspired dish featuring tender Canadian bacon in a rich and spicy sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian bacon",
+      "amount": "500g",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Braised braise",
+      "amount": "250ml",
+      "notes": "Thai-style braising liquid"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large pan over medium-high heat.",
+    "Add sliced garlic, ginger, and chili peppers. Cook until fragrant, about 2 minutes.",
+    "Add the Canadian bacon and cook until browned, about 3-4 minutes.",
+    "Add the Thai red curry paste and cook for 1 minute, stirring constantly.",
+    "Add the fish sauce, soy sauce, and brown sugar. Stir to combine.",
+    "Pour in the braised braise and bring to a simmer.",
+    "Reduce heat to low and braise for 15-20 minutes, or until the meat is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "canadian-bacon",
+    "braise",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indulgent-canadian-bacon-braise--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:03:46.907Z"
+}
