@@ -1,0 +1,99 @@
+{
+  "slug": "kosher-haddock-crisp--vegan",
+  "title": "Crisp Vegan Fritters with Haddock-Free Substitute",
+  "description": "A creative vegan twist on traditional fish and chip fritters. The haddock is replaced with a plant-based alternative.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "mung bean",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "crisp",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "vital wheat gluten",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "vegan egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a large bowl, mash the kale with a fork until it's well broken down.",
+    "3. In a separate bowl, mix together the mung bean, crisp, vital wheat gluten, and flour.",
+    "4. Add the mashed kale, vegan egg, lemon juice, water, olive oil, salt, and pepper to the bowl with the mung bean mixture.",
+    "5. Mix everything together until a thick batter forms.",
+    "6. Using a spoon, drop the batter into a greased baking dish.",
+    "7. Bake for 20 minutes, or until the fritters are crispy and golden brown.",
+    "8. Serve hot with your favorite dipping sauce.",
+    "9. Note: For a crispy exterior and a fluffy interior, make sure not to overmix the batter.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "fritters",
+    "haddock-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-haddock-crisp--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:42:17.824Z"
+}
