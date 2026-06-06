@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-garlicky-vietnamese-rice-pudding",
+  "title": "Vietnamese Pudding Rice Bowl",
+  "description": "A comforting and flavorful dessert bowl featuring garlicky Vietnamese pudding over a bed of rice.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "garlicky pudding mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "kissed coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Cook the rice according to package instructions.",
+    "In a separate saucepan, combine the garlicky pudding mix, kissed coconut milk, sugar, and salt. Cook over medium heat, stirring constantly, until the mixture thickens.",
+    "Serve the pudding over the cooked rice.",
+    "Optional: garnish with additional kissed coconut milk, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "pudding",
+    "rice",
+    "coconut"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-garlicky-vietnamese-rice-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T15:40:36.779Z"
+}
