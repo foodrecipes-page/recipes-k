@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-yeasty-italian-comte-cacio-e-pepe--chinese",
+  "title": "Spaghetti Cacio e Pepe with Chinese Twist",
+  "description": "An Italian-inspired dish with a fusion of Chinese flavors. A classic spaghetti dish with a spicy kick.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spaghetti",
+      "amount": "12 oz",
+      "notes": "Italian pasta"
+    },
+    {
+      "name": "Comte Cheese",
+      "amount": "1 cup",
+      "notes": "Italian cheese"
+    },
+    {
+      "name": "Italian Cacio Cheese",
+      "amount": "1/2 cup",
+      "notes": "Italian cheese"
+    },
+    {
+      "name": "Yeasty Bread Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Crunchy topping"
+    },
+    {
+      "name": "Kissed Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced garlic"
+    },
+    {
+      "name": "Pepe Peppers",
+      "amount": "2",
+      "notes": "Diced peppers"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil for the spaghetti.",
+    "Cook the spaghetti according to the package instructions until al dente.",
+    "In a pan, heat 2 tablespoons of oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the diced peppers and cook for another 2 minutes.",
+    "Add the Italian Cacio cheese and stir until melted.",
+    "Add the cooked spaghetti to the cheese sauce and toss to combine.",
+    "Transfer the spaghetti to a serving dish and top with Comte cheese.",
+    "Sprinkle the yeasty bread breadcrumbs on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chinese-fusion",
+    "spaghetti",
+    "cheese",
+    "garlic",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-italian-comte-cacio-e-pepe--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T12:04:33.403Z"
+}
