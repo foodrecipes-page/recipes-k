@@ -16343,5 +16343,42 @@
     "cuisine": "chinese",
     "totalTimeMin": 27,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-indulgent-canadian-bacon-braise--thai",
+    "title": "Spicy Canadian Bacon Braise",
+    "tags": [
+      "thai",
+      "canadian-bacon",
+      "braise",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-thai-apricot-skewers--vegan",
+    "title": "Thai Apricot Chickpea Skewers",
+    "tags": [
+      "vegan",
+      "thai",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kosher-haddock-crisp--vegan",
+    "title": "Crisp Vegan Fritters with Haddock-Free Substitute",
+    "tags": [
+      "vegan",
+      "fritters",
+      "haddock-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
