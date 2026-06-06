@@ -1,0 +1,96 @@
+{
+  "slug": "kissed-flaky-french-olive-macaron--thai",
+  "title": "Thai Macaron Chicken Stir Fry",
+  "description": "A quick and flavorful Thai-inspired dish made with crispy macaron-crusted chicken, kissed flaky French bread, and a variety of Thai spices. Serve with steamed vegetables for a well-rounded meal.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "macaron",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "kissed flaky French bread",
+      "amount": "1/2 cup, crushed",
+      "notes": null
+    },
+    {
+      "name": "french chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the crushed French bread and cook until crispy, about 2 minutes.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Add the remaining 1 tablespoon of olive oil, French chili flakes, fish sauce, and garlic to the skillet.",
+    "Stir to combine and cook for 1 minute.",
+    "Add the sugar and salt to the skillet and stir to combine.",
+    "Cook for an additional 1 minute.",
+    "Serve hot, garnished with fresh cilantro.",
+    "Enjoy with steamed vegetables for a well-rounded meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "stir-fry",
+    "macaron",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-flaky-french-olive-macaron--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:27:14.828Z"
+}
