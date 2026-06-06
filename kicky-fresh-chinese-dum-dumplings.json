@@ -1,0 +1,65 @@
+{
+  "slug": "kicky-fresh-chinese-dum-dumplings",
+  "title": "Pan-Fried Dumplings",
+  "description": "A classic Chinese dish featuring pan-fried dumplings filled with a mix of pork and vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kicky",
+      "amount": "1/4 cup",
+      "notes": "chopped scallions or green onions"
+    },
+    {
+      "name": "Fresh",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Chinese",
+      "amount": "2 tablespoons",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "2. Add the dumplings to the pan and cook for 2-3 minutes on each side, until they are golden brown.",
+    "3. Remove the dumplings from the pan and set them aside.",
+    "4. In the same pan, add the remaining 1 tablespoon of vegetable oil.",
+    "5. Add the chopped scallions and minced garlic to the pan and stir-fry for 1 minute.",
+    "6. Return the dumplings to the pan and add the soy sauce. Stir-fry for another minute.",
+    "7. Serve the dumplings hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-fresh-chinese-dum-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T18:20:56.273Z"
+}
