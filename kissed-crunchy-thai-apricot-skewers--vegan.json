@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-crunchy-thai-apricot-skewers--vegan",
+  "title": "Thai Apricot Chickpea Skewers",
+  "description": "A vegan recipe for Thai-inspired apricot chickpea skewers, perfect for a quick and easy dinner. This dish combines the flavors of Thailand with the sweetness of apricots.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)",
+      "notes": null
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "crushed peanuts",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "kissed sesame oil",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": null
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together apricot jam, soy sauce, crushed peanuts, brown sugar, and rice vinegar.",
+    "Add chickpeas to the bowl and toss to coat.",
+    "Thread chickpea mixture onto bamboo skewers.",
+    "Brush kissed sesame oil on the skewers.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot garnished with chopped cilantro.",
+    "Serve with additional apricot jam for dipping, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "thai",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 55,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-thai-apricot-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T13:17:24.908Z"
+}
