@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-herbal-french-chicken-galette",
+  "title": "Chicken Galette with Herb Crust",
+  "description": "A French-inspired dish featuring a flaky pastry crust infused with herbs and topped with tender chicken.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kissed butter",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "herbal galette dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "french thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the herbal galette dough to a thickness of 1/8 inch.",
+    "Place the chicken breast in the center of the dough, leaving a 1-inch border around it.",
+    "Sprinkle the thyme, salt, and pepper over the chicken.",
+    "Fold the edges of the dough up over the chicken, pressing gently to seal.",
+    "Brush the edges of the dough with kissed butter.",
+    "Transfer the galette to a baking sheet lined with parchment paper.",
+    "Bake for 30-35 minutes, or until the crust is golden brown and the chicken is cooked through.",
+    "Let the galette rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "herbs",
+    "pastry",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-herbal-french-chicken-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:16:14.684Z"
+}
