@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-by-binchotan-grill-slovakian-meal-prep-hash",
+  "title": "Grilled Binchotan Skewers with Slovakian Hash",
+  "description": "A flavorful and healthy meal featuring grilled binchotan skewers served with a crispy Slovakian hash.",
+  "cuisine": "Asian-Fusion",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Binchotan",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Slovakian Meal",
+      "amount": "1 cup",
+      "notes": "Crushed into crumbs"
+    },
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "Cooked according to package instructions"
+    },
+    {
+      "name": "Prep",
+      "amount": "1 cup",
+      "notes": "Chopped into small pieces"
+    },
+    {
+      "name": "By",
+      "amount": "2 tbsp",
+      "notes": "For brushing the skewers"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tsp",
+      "notes": "For flavoring the hash"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak 10 bamboo skewers in water for at least 30 minutes.",
+    "Thread 5-6 pieces of binchotan onto each skewer, leaving a small space between each piece.",
+    "Brush the skewers with 'by' and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the binchotan is cooked through.",
+    "While the skewers are cooking, heat the Slovakian meal in a pan over medium heat.",
+    "Add the hash to the pan and cook until crispy, stirring occasionally.",
+    "Add the 'kissed' to the hash and stir to combine.",
+    "Serve the grilled binchotan skewers with the Slovakian hash."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "binchotan",
+    "skewers",
+    "slovakian",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-binchotan-grill-slovakian-meal-prep-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:15:03.837Z"
+}
