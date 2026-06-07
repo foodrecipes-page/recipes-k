@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-crisp-tunisian-chicken-kebabs",
+  "title": "Tunisian Chicken Kebabs",
+  "description": "A flavorful and easy-to-make recipe for chicken kebabs with a Tunisian twist. Serve with your favorite sides for a delicious meal.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "crisp garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "kissed lemon",
+      "amount": "2 tablespoons",
+      "notes": "Juiced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, Tunisian spice blend, garlic, lemon juice, salt, and pepper.",
+    "Add chicken cubes to the bowl and toss to coat with the marinade.",
+    "Thread chicken and other desired vegetables (if using) onto skewers.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, until chicken is cooked through and slightly charred.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "kebabs",
+    "north african",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crisp-tunisian-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:30:42.769Z"
+}
