@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-with-heat-middle-eastern-lamb-fried",
+  "title": "Eastern-Style Fried Lamb Koftas",
+  "description": "Delicious and crispy fried lamb koftas cooked to perfection with a blend of Middle Eastern spices. Perfect for a quick dinner or lunch.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "Ground lamb"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "Paprika, crushed or ground"
+    },
+    {
+      "name": "heat",
+      "amount": "1/2 tsp",
+      "notes": "Cayenne pepper, crushed"
+    },
+    {
+      "name": "middle",
+      "amount": "2 tbsp",
+      "notes": "Olive oil"
+    },
+    {
+      "name": "eastern",
+      "amount": "2 tbsp",
+      "notes": "Chopped fresh parsley"
+    },
+    {
+      "name": "with",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup",
+      "notes": "All-purpose flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine lamb, kissed, heat, with, eastern.",
+    "Mix well until just combined, being careful not to overmix.",
+    "Cover the mixture and refrigerate for at least 30 minutes.",
+    "In a shallow dish, place the fried.",
+    "Divide the lamb mixture into 8 equal portions and shape each into a ball.",
+    "Flatten each ball slightly into a patty shape.",
+    "Dip each patty into the fried, coating both sides evenly.",
+    "Heat the middle in a large skillet over medium-high heat.",
+    "Add the coated lamb patties and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer the koftas to a paper towel-lined plate to drain excess oil.",
+    "Serve hot with your favorite sides, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "middle-eastern",
+    "fried",
+    "koftas"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 26,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-heat-middle-eastern-lamb-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:42:00.924Z"
+}
