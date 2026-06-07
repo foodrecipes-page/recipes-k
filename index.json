@@ -4702,17 +4702,15 @@
   },
   {
     "slug": "kissed-citrusy-syrian-pumpkin-tagine",
-    "title": "Kissed Citrusy Syrian Pumpkin Tagine",
+    "title": "Spicy Pumpkin Tagine",
     "tags": [
-      "citrusy-dish",
-      "macrobiotic-friendly",
-      "pumpkin-recipe",
-      "syrian-cuisine",
-      "vegetarian-option",
-      "winter-meal"
+      "pumpkin",
+      "tagine",
+      "chicken",
+      "north-african"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -10186,19 +10184,16 @@
   },
   {
     "slug": "kissed-silky-chinese-cookies-salt-and-pepper-squid",
-    "title": "Kissed Silky Chinese Cookies Salt And Pepper Squid",
+    "title": "Crispy Fried Squid",
     "tags": [
-      "chinese-cuisine",
-      "comfort-food",
-      "salt-and-pepper",
-      "shio-koji",
-      "silky-cookies",
-      "squid-inspired",
-      "vegetarian",
-      "wok-cooked"
+      "frying",
+      "chinese",
+      "seafood",
+      "snack",
+      "squid"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -10890,17 +10885,14 @@
   },
   {
     "slug": "kissed-smoky-slovakian-dates-skewers",
-    "title": "Kissed Smoky Slovakian Dates Skewers",
+    "title": "Smoky Grilled Skewers with Slovakian Kissed Spices",
     "tags": [
-      "easy",
       "grilled",
-      "slovakian",
-      "smoky",
-      "snack",
-      "vegetarian"
+      "skewers",
+      "eastern-european"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 18,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 31,
     "shard": "k"
   },
   {
