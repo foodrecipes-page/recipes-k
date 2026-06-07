@@ -2573,16 +2573,15 @@
   },
   {
     "slug": "kid-friendly-smoky-filipino-nduja-sinigang",
-    "title": "Kid Friendly Smoky Filipino Nduja Sinigang",
+    "title": "Sinigang-Style Kid-Friendly Nduja Stew",
     "tags": [
-      "filipino-food",
-      "kid-friendly",
-      "low-sodium",
-      "one-pot",
-      "smoky-flavors"
+      "sinigang",
+      "nduja",
+      "filipino",
+      "spicy"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "cuisine": "filipino",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -13097,17 +13096,15 @@
   },
   {
     "slug": "kissed-with-koji-egyptian-garlic-wrap",
-    "title": "Kissed with Koji Egyptian Garlic Wrap",
+    "title": "Egyptian Garlic Wrap",
     "tags": [
-      "comfort-food",
-      "easy-supper",
-      "egyptian-food",
-      "garlic-lovers",
-      "korean-fusion",
-      "wraps"
+      "garlic",
+      "wraps",
+      "egyptian-cuisine",
+      "snack"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 8,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
