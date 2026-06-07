@@ -1033,16 +1033,15 @@
   },
   {
     "slug": "kicked-creamy-greek-lamb-tagine",
-    "title": "Kicked Creamy Greek Lamb Tagine",
+    "title": "Greek Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "greek-food",
-      "lamb-recipes",
-      "one-pot"
+      "lamb",
+      "greek",
+      "tagine",
+      "creamy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
@@ -5079,17 +5078,16 @@
   },
   {
     "slug": "kissed-crispy-british-steak-welsh-rarebit",
-    "title": "Kissed Crispy British Steak Welsh Rarebit",
+    "title": "Welsh Rarebit Steak",
     "tags": [
-      "british-classics",
-      "comfort-food",
-      "high-protein",
-      "indulgent",
-      "one-pan",
-      "weeknight"
+      "wales",
+      "london",
+      "rarebit",
+      "steak",
+      "grilled"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
