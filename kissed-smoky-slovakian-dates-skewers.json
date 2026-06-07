@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-smoky-slovakian-dates-skewers",
+  "title": "Smoky Grilled Skewers with Slovakian Kissed Spices",
+  "description": "A flavorful and aromatic dish featuring tender skewers of meat, infused with the warmth of Slovakian kissed spices and a hint of smokiness.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "skewers",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "slovakian kissed spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef cubes onto skewers, leaving a small gap between each piece.",
+    "In a small bowl, mix together Slovakian kissed spice blend and smoky paprika.",
+    "Brush skewers with olive oil and sprinkle with garlic.",
+    "Sprinkle date pieces over the beef on the skewers.",
+    "Sprinkle the spice blend mixture evenly over the skewers.",
+    "Grill skewers for 8-10 minutes per side, or until beef reaches desired doneness.",
+    "Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "skewers",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-slovakian-dates-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T09:58:01.962Z"
+}
