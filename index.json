@@ -8705,17 +8705,14 @@
   },
   {
     "slug": "kissed-molten-canadian-duck-casserole",
-    "title": "Kissed Molten Canadian Duck Casserole",
+    "title": "Duck Casserole",
     "tags": [
-      "canadian-cuisine",
-      "casserole-dishes",
-      "duck-recipes",
-      "indulgent-meals",
-      "low-glycemic",
-      "special-occasion"
+      "duck",
+      "casserole",
+      "main-course"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 55,
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
