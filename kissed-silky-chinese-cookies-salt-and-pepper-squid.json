@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-silky-chinese-cookies-salt-and-pepper-squid",
+  "title": "Crispy Fried Squid",
+  "description": "A simple, flavorful Chinese-inspired dish that combines the delicate taste of squid with a crispy exterior.",
+  "cuisine": "Chinese",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "silkily battered squid",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "chinese salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "chinese cookies",
+      "amount": "1 cup",
+      "notes": "crushed for coating"
+    }
+  ],
+  "instructions": [
+    "Heat 1/2 inch of vegetable oil in a wok or deep frying pan over medium-high heat.",
+    "Cut the squid into bite-sized pieces and set aside.",
+    "In a shallow dish, mix together the crushed cookies and chinese salt.",
+    "Dredge the squid pieces in the cookie mixture, shaking off excess.",
+    "Carefully add the coated squid to the hot oil and fry until golden brown, about 2-3 minutes.",
+    "Remove the fried squid from the oil with a slotted spoon and drain on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "frying",
+    "chinese",
+    "seafood",
+    "snack",
+    "squid"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-chinese-cookies-salt-and-pepper-squid",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:11:41.841Z"
+}
