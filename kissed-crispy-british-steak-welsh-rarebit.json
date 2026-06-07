@@ -1,0 +1,96 @@
+{
+  "slug": "kissed-crispy-british-steak-welsh-rarebit",
+  "title": "Welsh Rarebit Steak",
+  "description": "A British-inspired dish featuring steak topped with a delicious Welsh rarebit sauce.",
+  "cuisine": "British",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 lbs",
+      "notes": "Rare or medium-rare preferred"
+    },
+    {
+      "name": "Worcestershire sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Melted butter",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Beer",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bread",
+      "amount": "4 slices",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to high heat.",
+    "Season the steak with salt and pepper on both sides.",
+    "Grill the steak for 4-5 minutes per side for medium-rare, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest for 5 minutes.",
+    "In a saucepan over medium heat, combine the Worcestershire sauce, melted butter, mustard, and flour.",
+    "Whisk the mixture until it's smooth and heated through.",
+    "Add the beer and milk, whisking continuously until the sauce thickens.",
+    "Bring the sauce to a simmer and cook for 2-3 minutes, or until it's heated through.",
+    "Stir in the grated cheese until it's melted and smooth.",
+    "Toast the sliced bread until it's crispy.",
+    "Place the toasted bread slices on a serving plate or individual plates.",
+    "Slice the rested steak and place it on top of the toasted bread.",
+    "Pour the Welsh rarebit sauce over the top of the steak.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "wales",
+    "london",
+    "rarebit",
+    "steak",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-british-steak-welsh-rarebit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T12:59:54.384Z"
+}
