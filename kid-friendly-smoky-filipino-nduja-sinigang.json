@@ -1,0 +1,84 @@
+{
+  "slug": "kid-friendly-smoky-filipino-nduja-sinigang",
+  "title": "Sinigang-Style Kid-Friendly Nduja Stew",
+  "description": "A flavorful and spicy Filipino-inspired stew featuring the bold flavors of sinigang and the richness of nduja.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nduja",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kid-friendly tomatoes",
+      "amount": "2",
+      "notes": "halved"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "sinigang mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "bamboo shoots",
+      "amount": "1 cup",
+      "notes": "canned or fresh, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of water in a large pot over medium heat.",
+    "Add the chopped onion and sauté until softened.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the nduja and stir until fragrant.",
+    "Add the halved tomatoes and cook for 2 minutes.",
+    "Add the sinigang mix and stir to combine.",
+    "Add the sliced bamboo shoots and stir to combine.",
+    "Pour in 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes.",
+    "Season with fish sauce to taste (if using).",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sinigang",
+    "nduja",
+    "filipino",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kid-friendly-smoky-filipino-nduja-sinigang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:10:23.333Z"
+}
