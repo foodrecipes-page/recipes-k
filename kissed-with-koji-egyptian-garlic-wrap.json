@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-with-koji-egyptian-garlic-wrap",
+  "title": "Egyptian Garlic Wrap",
+  "description": "A flavorful wrap filled with garlic and spices, inspired by Egyptian cuisine. Can be enjoyed as a snack or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kissed garlic",
+      "amount": "4-6 cloves",
+      "notes": ""
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "koji",
+      "amount": "2 tbsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp",
+      "notes": "dried oregano or thyme"
+    },
+    {
+      "name": "with",
+      "amount": "salt",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Crush the kissed garlic cloves and sauté for 2-3 minutes.",
+    "3. Add koji (if using) and cook for 1 minute.",
+    "4. Add dried oregano (or thyme) and stir for 1 minute.",
+    "5. Warm the wrap in the pan for 30 seconds.",
+    "6. Assemble the wrap by spooning the garlic mixture onto it.",
+    "7. Season with salt to taste.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "garlic",
+    "wraps",
+    "egyptian-cuisine",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-koji-egyptian-garlic-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:03:47.727Z"
+}
