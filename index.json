@@ -4888,17 +4888,16 @@
   },
   {
     "slug": "kissed-creamy-venezuelan-plantain-wrap",
-    "title": "Kissed Creamy Venezuelan Plantain Wrap",
+    "title": "Venezuelan Plantain Wrap",
     "tags": [
-      "adventurous",
-      "creamy",
-      "low-glycemic",
-      "plantain",
-      "ti-leaf-wrap",
-      "venezuelan"
+      "snack",
+      "veggie",
+      "easy",
+      "wrap",
+      "plantain"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 20,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -10786,16 +10785,16 @@
   },
   {
     "slug": "kissed-smoky-mexican-pork-carnitas",
-    "title": "Kissed Smoky Mexican Pork Carnitas",
+    "title": "Smoky Mexican Carnitas",
     "tags": [
-      "meal-prep",
-      "mexican-food",
-      "pork-recipes",
-      "shojin-friendly",
-      "smoky-flavors"
+      "mexican",
+      "carnitas",
+      "pork",
+      "smoky",
+      "tacos"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 200,
+    "totalTimeMin": 160,
     "shard": "k"
   },
   {
