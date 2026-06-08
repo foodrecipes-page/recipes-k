@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-smoky-mexican-pork-carnitas",
+  "title": "Smoky Mexican Carnitas",
+  "description": "Tender and flavorful pork carnitas, perfect for tacos or other Mexican dishes. Smoked with chipotle peppers for a deep, rich flavor.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Chipotle Peppers in Adobo Sauce",
+      "amount": "2-3",
+      "notes": "depending on desired heat level"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mexican Oregano",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the pork chunks and cook until browned on all sides, about 5 minutes.",
+    "Add the chipotle peppers, lime juice, cilantro, oregano, salt, and pepper.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook, covered, for 2 1/2 to 3 hours, or until the pork is tender.",
+    "Shred the pork with two forks and serve with your favorite toppings, such as salsa, avocado, and sour cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 150,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "carnitas",
+    "pork",
+    "smoky",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-mexican-pork-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:29:57.353Z"
+}
