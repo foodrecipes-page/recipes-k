@@ -1,0 +1,75 @@
+{
+  "slug": "knead-butter-crumble",
+  "title": "Buttery Crumble Biscuit",
+  "description": "A classic dessert biscuit with a crunchy crumble topping.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "cold butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "crumble topping",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together flour, sugar, baking powder, and salt.",
+    "Add cold butter and use a pastry blender or fingers to crumble into the dry ingredients.",
+    "Press the mixture into a rectangle shape.",
+    "Bake for 20 minutes, or until lightly golden.",
+    "While the base is baking, prepare the crumble topping by crumbling the additional butter and crumble topping mixture.",
+    "Remove the base from the oven and top with the crumble mixture.",
+    "Return to the oven and bake for an additional 15 minutes, or until golden brown.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "biscuit",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knead-butter-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:10:34.842Z"
+}
