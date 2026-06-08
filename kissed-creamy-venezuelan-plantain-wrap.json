@@ -1,0 +1,62 @@
+{
+  "slug": "kissed-creamy-venezuelan-plantain-wrap",
+  "title": "Venezuelan Plantain Wrap",
+  "description": "A delicious and easy-to-make wrap filled with sautéed plantains and a tangy kiss of flavor. Perfect for a quick snack or light meal.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "plantain",
+      "amount": "2 medium",
+      "notes": "ripe but firm"
+    },
+    {
+      "name": "kissed wrap",
+      "amount": "1 large",
+      "notes": "flour tortilla"
+    },
+    {
+      "name": "creamy cheese",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Slice the plantain into 1-inch rounds and cook until golden brown.",
+    "Place the cooked plantain on the wrap, leaving a small border around the edges.",
+    "Sprinkle the melted cheese over the plantain.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap into a tight cylinder.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "veggie",
+    "easy",
+    "wrap",
+    "plantain"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-venezuelan-plantain-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:23:57.359Z"
+}
