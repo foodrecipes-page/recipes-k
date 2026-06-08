@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-crunchy-egyptian-sweet-potatoes-fritters",
+  "title": "Egyptian Fritter Salad",
+  "description": "A twist on traditional fritter recipes, this Egyptian Fritter Salad combines crispy fritters with fresh ingredients for a hearty meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crunchy fritters",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "kissed potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "sweet potatoes",
+      "amount": "1 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "egyptian dressing",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Arrange fritters on a baking sheet and bake for 10-12 minutes, or until crispy.",
+    "3. In a separate pan, heat the egyptian dressing over medium heat.",
+    "4. Add the chopped lettuce and cook until wilted.",
+    "5. In a large bowl, combine cooked fritters, kissed potatoes, sweet potatoes, cooked lettuce mixture, and halved tomatoes.",
+    "6. Toss to combine and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "snack",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-egyptian-sweet-potatoes-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:17:22.291Z"
+}
