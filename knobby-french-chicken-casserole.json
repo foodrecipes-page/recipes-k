@@ -1,0 +1,83 @@
+{
+  "slug": "knobby-french-chicken-casserole",
+  "title": "Chicken Casserole",
+  "description": "A simple and delicious casserole made with chicken, vegetables, and cheese. This dish is perfect for a weeknight dinner or a weekend meal.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 loaf",
+      "notes": null
+    },
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Knobby potatoes",
+      "amount": "2-3",
+      "notes": null
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 can",
+      "notes": "14.5 oz. diced tomatoes"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the French bread into 1-inch cubes and toast in the oven for 5 minutes.",
+    "In a large skillet, heat the olive oil over medium-high heat. Add the chicken and cook until browned and cooked through.",
+    "Add the diced potatoes to the skillet and cook for an additional 5 minutes.",
+    "In a large bowl, combine the cooked chicken and potatoes, casserole, shredded cheese, salt, and pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional shredded cheese.",
+    "Bake for 25-30 minutes, or until the cheese is melted and bubbly.",
+    "Sprinkle with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "casserole",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-french-chicken-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:07:33.749Z"
+}
