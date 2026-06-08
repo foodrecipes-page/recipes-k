@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-springy-irish-goat-meat-wrap",
+  "title": "Irish Wrap Delight",
+  "description": "A hearty and flavorful wrap filled with springy Irish meat, kissed with spices.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish meat",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Springy wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Goat cheese",
+      "amount": "1/2 cup, crumbled"
+    },
+    {
+      "name": "Kissed spices",
+      "amount": "1 teaspoon, dried thyme"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the Irish meat with salt, pepper, and kissed spices.",
+    "Wrap the springy wrap in a damp paper towel and microwave for 20-30 seconds.",
+    "Place the Irish meat in the center of the wrap.",
+    "Top the meat with goat cheese.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap into a snug cylinder.",
+    "Place the wrap seam-side down on a baking sheet lined with parchment paper.",
+    "Dot the top of the wrap with butter.",
+    "Bake for 10-12 minutes, or until the cheese is melted and the wrap is crispy.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "wrap",
+    "lunch",
+    "easy",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-springy-irish-goat-meat-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:08:07.816Z"
+}
