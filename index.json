@@ -3423,17 +3423,14 @@
   },
   {
     "slug": "kissed-brazilian-tempeh-stir-fry",
-    "title": "Kissed Brazilian Tempeh Stir-Fry",
+    "title": "Brazilian Tempeh Stir-Fry",
     "tags": [
-      "brazilian-flavor",
-      "buddhist-friendly",
-      "one-pan",
-      "vegan",
-      "weekend",
-      "yummy"
+      "tempeh",
+      "brazilian",
+      "stir-fry"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 27,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -6388,16 +6385,15 @@
   },
   {
     "slug": "kissed-flaky-thai-tofu-nam-prik",
-    "title": "Kissed Flaky Thai Tofu Nam Prik",
+    "title": "Thai-Style Flaky Fish Cakes with Prik Sauce",
     "tags": [
-      "chocolate-infusion",
-      "flaky-texture",
-      "lazy-sunday",
-      "thai-cuisine",
-      "vegan-friendly"
+      "thai",
+      "fish-cakes",
+      "snack",
+      "appetizer"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {
@@ -8246,16 +8242,14 @@
   },
   {
     "slug": "kissed-light-dutch-rainbow-trout-tagine",
-    "title": "Kissed Light Dutch Rainbow Trout Tagine",
+    "title": "Pan-Seared Trout Tagine",
     "tags": [
-      "dutch-cuisine",
-      "fish-recipes",
-      "healthy-meals",
-      "one-pot",
-      "pescatarian",
-      "satvik"
+      "moroccan",
+      "seafood",
+      "tagine",
+      "flavorful"
     ],
-    "cuisine": "Dutch",
+    "cuisine": "Moroccan",
     "totalTimeMin": 27,
     "shard": "k"
   },
@@ -11484,17 +11478,16 @@
   },
   {
     "slug": "kissed-springy-irish-goat-meat-wrap",
-    "title": "Kissed Springy Irish Goat Meat Wrap",
+    "title": "Irish Wrap Delight",
     "tags": [
-      "goat-meat",
-      "healthy-eating",
-      "irish-food",
-      "low-sodium",
-      "spring-recipes",
-      "steamed-dishes"
+      "irish",
+      "wrap",
+      "lunch",
+      "easy",
+      "meat"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -14340,14 +14333,14 @@
   },
   {
     "slug": "knead-butter-crumble",
-    "title": "Knead Butter Crumble",
+    "title": "Buttery Crumble Biscuit",
     "tags": [
-      "knead-butter-crumble",
-      "indian-snack",
-      "crunchy-dish"
+      "biscuit",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "cuisine": "american",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -14527,17 +14520,16 @@
   },
   {
     "slug": "kneaded-pillowy-japanese-pork-donburi",
-    "title": "Kneaded Pillowy Japanese Pork Donburi",
+    "title": "Tonkatsu Donburi",
     "tags": [
+      "tonkatsu",
       "donburi",
-      "japanese-food",
-      "low-carb",
-      "one-pan",
-      "pork-recipes",
-      "weeknight"
+      "japanese",
+      "breading",
+      "frying"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
@@ -14731,16 +14723,14 @@
   },
   {
     "slug": "knobby-french-chicken-casserole",
-    "title": "Knobby French Chicken Casserole",
+    "title": "Chicken Casserole",
     "tags": [
-      "casseroles",
-      "chicken-recipes",
-      "coconut-cream",
-      "french-cuisine",
-      "weeknight-dinners"
+      "chicken",
+      "casserole",
+      "comfort-food"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
