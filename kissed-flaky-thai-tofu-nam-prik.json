@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-flaky-thai-tofu-nam-prik",
+  "title": "Thai-Style Flaky Fish Cakes with Prik Sauce",
+  "description": "Crispy fish cakes served with a spicy and sour prik sauce, inspired by the flavors of Thailand.",
+  "cuisine": "Thai",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kissed flaky fish",
+      "amount": "1 pound",
+      "notes": "such as cod or tilapia"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "nam prik sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "prik nam pla",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a food processor, pulse the fish until it breaks down into small pieces.",
+    "2. Add the tofu, curry paste, nam prik sauce, fish sauce, and brown sugar to the food processor. Pulse until well combined.",
+    "3. Stir in the chopped cilantro and peanuts, if using.",
+    "4. Divide the mixture into 8 portions and shape each portion into a patty.",
+    "5. Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "6. When the oil is hot, add the patties and cook for about 3-4 minutes on each side, until crispy and golden brown.",
+    "7. Serve the fish cakes hot with additional prik sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "fish-cakes",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-flaky-thai-tofu-nam-prik",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:03:53.226Z"
+}
