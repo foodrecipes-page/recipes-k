@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-light-dutch-rainbow-trout-tagine",
+  "title": "Pan-Seared Trout Tagine",
+  "description": "A flavorful and aromatic tagine dish made with pan-seared trout and kissed spice blend.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Trout fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainably sourced"
+    },
+    {
+      "name": "Kissed spice blend",
+      "amount": "2 tbsp",
+      "notes": "Available at local spice market"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp",
+      "notes": "For frying the trout"
+    },
+    {
+      "name": "Dutch onions",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Rainbow bell peppers",
+      "amount": "2",
+      "notes": "Sliced and seeded"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (for garnish)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the trout fillets with salt and black pepper.",
+    "Heat the light olive oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until lightly browned, about 5 minutes.",
+    "Add the sliced rainbow bell peppers and cook for an additional 2 minutes.",
+    "Add the trout fillets to the skillet and sear for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the trout is cooked through.",
+    "While the trout is cooking, mix together the kissed spice blend and a pinch of salt.",
+    "Remove the skillet from the oven and sprinkle the spice blend over the trout.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "seafood",
+    "tagine",
+    "flavorful"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-dutch-rainbow-trout-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T14:58:46.792Z"
+}
