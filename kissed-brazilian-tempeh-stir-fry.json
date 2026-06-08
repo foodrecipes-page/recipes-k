@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-brazilian-tempeh-stir-fry",
+  "title": "Brazilian Tempeh Stir-Fry",
+  "description": "A flavorful and spicy stir-fry made with tempeh, kissed with a hint of sweetness.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tempeh",
+      "amount": "1 package (8 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Kissed Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Brazilian Kissed Oil in a large skillet or wok over medium-high heat.",
+    "Add the tempeh and cook until golden brown, about 3-4 minutes per side.",
+    "Remove the tempeh from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of Brazilian Kissed Oil to the skillet.",
+    "Add the onion and red bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "Add the garlic to the skillet and cook for 1 minute.",
+    "Add the soy sauce and honey to the skillet and stir to combine.",
+    "Return the tempeh to the skillet and stir to coat with the sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tempeh",
+    "brazilian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-brazilian-tempeh-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:00:36.290Z"
+}
