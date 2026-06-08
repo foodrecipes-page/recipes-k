@@ -1,0 +1,96 @@
+{
+  "slug": "kneaded-pillowy-japanese-pork-donburi",
+  "title": "Tonkatsu Donburi",
+  "description": "A classic Japanese dish of breaded and fried pork cutlet served over a bed of rice.",
+  "cuisine": "Japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork cutlet",
+      "amount": "4 oz",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Tonkatsu sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cooked Japanese rice",
+      "amount": "1 cup",
+      "notes": "preferably short-grain rice"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season the pork cutlet with salt and pepper.",
+    "Dip the pork cutlet in flour, coating evenly.",
+    "Dip the floured pork cutlet in the egg, making sure it's fully coated.",
+    "Dredge the egg-coated pork cutlet in breadcrumbs, pressing gently to adhere.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "When the oil is hot, add the breaded pork cutlet and fry until golden brown and crispy, about 3-4 minutes per side.",
+    " Remove the pork cutlet from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "Cook Japanese rice according to package instructions.",
+    "To assemble the donburi, place a scoop of cooked rice in a bowl, followed by the fried pork cutlet, and finally top with green onions and sesame seeds.",
+    "Drizzle with tonkatsu sauce and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "tonkatsu",
+    "donburi",
+    "japanese",
+    "breading",
+    "frying"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 37,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneaded-pillowy-japanese-pork-donburi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T15:13:23.701Z"
+}
