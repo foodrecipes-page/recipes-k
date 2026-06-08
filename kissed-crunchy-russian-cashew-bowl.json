@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-crunchy-russian-cashew-bowl",
+  "title": "Crunchy Russian Kissed Bowl",
+  "description": "A delicious and easy-to-make dish with a crunchy exterior and a kissed, tender interior. This Russian-inspired bowl is perfect for a quick lunch or dinner.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cashew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup",
+      "notes": "crushed cashews"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tablespoon",
+      "notes": "melted butter"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "a serving bowl"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together cashew and crushed cashews.",
+    "Add salt and pepper to taste.",
+    "Transfer the mixture to a serving bowl.",
+    "Drizzle melted butter over the top.",
+    "Bake in the preheated oven for 10-12 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "russian",
+    "easy",
+    "lunch",
+    "dinner",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-russian-cashew-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:40:51.647Z"
+}
