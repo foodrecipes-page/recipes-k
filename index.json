@@ -5873,17 +5873,15 @@
   },
   {
     "slug": "kissed-dutch-chicken-salad",
-    "title": "Kissed Dutch Chicken Salad",
+    "title": "Dutch Chicken Salad",
     "tags": [
-      "crispy",
-      "dutch",
-      "halal",
-      "indulgent",
-      "poached",
-      "sour"
+      "chicken",
+      "salad",
+      "lunch",
+      "dutch-cuisine"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
