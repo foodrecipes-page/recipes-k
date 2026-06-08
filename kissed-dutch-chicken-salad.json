@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-dutch-chicken-salad",
+  "title": "Dutch Chicken Salad",
+  "description": "A delicious and easy-to-make salad with chicken, kissed by the flavors of the Dutch cuisine. This dish is perfect for a quick lunch or dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "dutch mustard",
+      "amount": "2 tablespoons",
+      "notes": "or regular mustard"
+    },
+    {
+      "name": "kissed vinegar",
+      "amount": "1 tablespoon",
+      "notes": "apple cider vinegar or white wine vinegar"
+    },
+    {
+      "name": "salad mix",
+      "amount": "4 cups",
+      "notes": "iceberg lettuce, arugula, and spinach"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with salt and pepper. Bake in the oven for 20-25 minutes or until cooked through.",
+    "In a large bowl, whisk together the mustard and vinegar until smooth.",
+    "Add the salad mix, cherry tomatoes, and cucumber to the bowl. Toss to combine.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it thinly.",
+    "Add the sliced chicken to the salad and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "salad",
+    "lunch",
+    "dutch-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dutch-chicken-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T16:02:10.460Z"
+}
