@@ -1,0 +1,74 @@
+{
+  "slug": "knobby-irish-haddock-toast",
+  "title": "Pan-Seared Haddock with Irish Toast",
+  "description": "A simple and flavorful dish featuring pan-seared haddock served with toasted Irish bread.",
+  "cuisine": "Irish",
+  "diet": [
+    "fish-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "2",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "irish bread",
+      "amount": "2 slices",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "knobby garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season the haddock fillets with salt.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the haddock for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes, or until the fish is cooked through.",
+    "Meanwhile, toast the Irish bread slices.",
+    "Mix the minced garlic with the toasted bread slices.",
+    "Serve the pan-seared haddock with the garlic toast and a squeeze of lemon juice.",
+    "Enjoy your meal!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "seafood",
+    "irish",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-irish-haddock-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:17:59.864Z"
+}
