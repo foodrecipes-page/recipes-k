@@ -316,17 +316,16 @@
   },
   {
     "slug": "keto-creamy-malaysian-prune-curry",
-    "title": "Keto Creamy Malaysian Prune Curry",
+    "title": "Creamy Keto Chicken Curry",
     "tags": [
-      "creamy-curries",
-      "gluten-free",
-      "keto-friendly",
-      "low-carb",
-      "malaysian-cuisine",
-      "prune-recipes"
+      "keto",
+      "curry",
+      "malaysian",
+      "cream",
+      "chicken"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -520,14 +519,15 @@
   },
   {
     "slug": "keto-friendly-german-butter-wrap",
-    "title": "Keto-friendly German Butter Wrap",
+    "title": "German Keto Butter Wrap",
     "tags": [
-      "keto-friendly",
-      "german-dish",
-      "buttermilk-wrap"
+      "keto",
+      "german",
+      "butter",
+      "wrap"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 15,
+    "cuisine": "german",
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
@@ -7324,17 +7324,14 @@
   },
   {
     "slug": "kissed-herbal-egyptian-chwinamul-bowl",
-    "title": "Kissed Herbal Egyptian Chwinamul Bowl",
+    "title": "Egyptian Chwinamul Bowl",
     "tags": [
-      "ayurvedic",
-      "easy-to-make",
-      "gluten-free",
-      "herbal",
-      "post-workout",
-      "vegan"
+      "veggie-bowl",
+      "european",
+      "lunch-ideas"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 18,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -8323,17 +8320,15 @@
   },
   {
     "slug": "kissed-light-malaysian-almond-biryani",
-    "title": "Kissed Light Malaysian Almond Biryani",
+    "title": "Malaysian Almond Chicken Biryani",
     "tags": [
-      "aromatic",
-      "gluten-free",
-      "healthy",
-      "malaysian-cuisine",
-      "one-pot",
-      "vegetarian-friendly"
+      "malaysian",
+      "chicken",
+      "biryani",
+      "almond"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
