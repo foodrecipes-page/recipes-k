@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-herbal-egyptian-chwinamul-bowl",
+  "title": "Egyptian Chwinamul Bowl",
+  "description": "A hearty and flavorful Egyptian-inspired bowl filled with chwinamul, kissed, and herbal notes.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": "steamed"
+    },
+    {
+      "name": "kissed rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "herbal oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh herbs",
+      "amount": "1/4 cup",
+      "notes": "such as cilantro or dill"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Steam the chwinamul for 10 minutes.",
+    "Cook the kissed rice according to package instructions.",
+    "In a large bowl, whisk together the herbal oil, lemon juice, kosher salt, and black pepper.",
+    "Add the steamed chwinamul to the bowl and toss with the herbal oil mixture.",
+    "Top with chopped parsley and fresh herbs.",
+    "Serve over the kissed rice in a bowl."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "veggie-bowl",
+    "european",
+    "lunch-ideas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-herbal-egyptian-chwinamul-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:49:43.396Z"
+}
