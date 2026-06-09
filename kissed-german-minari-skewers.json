@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-german-minari-skewers",
+  "title": "Korean-Style Skewered Pork with Cucumber Slices",
+  "description": "A refreshing and flavorful dish that combines the sweetness of pork with the crunch of cucumber, all wrapped up in a spicy Korean-inspired marinade.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Try to get a mix of lean and fatty meat for the best flavor"
+    },
+    {
+      "name": "Minari (Korean chili flakes)",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste for spiciness"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "2 inches",
+      "notes": "Use a microplane to get the right texture"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": "Mince it finely so it distributes evenly"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a good-quality, low-sodium soy sauce"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "Use a high-quality, pure cane sugar"
+    },
+    {
+      "name": "Cucumber slices",
+      "amount": "4-6",
+      "notes": "Choose thin slices for the best texture"
+    },
+    {
+      "name": "Green onions, thinly sliced",
+      "amount": "1/4 cup",
+      "notes": "Use the green parts only for the best flavor"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the soy sauce, brown sugar, minari, ginger, and garlic.",
+    "Add the pork cubes to the marinade and toss to coat. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat. Thread the marinated pork cubes and cucumber slices onto skewers.",
+    "Season with salt and pepper to taste. Grill the skewers for 8-10 minutes, turning frequently, until the pork is cooked through and the cucumber is slightly charred.",
+    "Transfer the skewers to a serving platter and garnish with thinly sliced green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pork",
+    "skewers",
+    "cucumber",
+    "garlic",
+    "ginger"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-german-minari-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T23:12:30.141Z"
+}
