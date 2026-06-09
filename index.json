@@ -3464,16 +3464,14 @@
   },
   {
     "slug": "kissed-british-chicken-curry",
-    "title": "Kissed British Chicken Curry",
+    "title": "British-Style Chicken Curry",
     "tags": [
+      "chicken",
       "curry",
-      "one-pan",
-      "romantic",
-      "sugar-free",
-      "weeknight"
+      "british"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -14238,17 +14236,15 @@
   },
   {
     "slug": "kitchen-steamed-filipino-noodles-pancit-canton",
-    "title": "Kitchen Steamed Filipino Noodles Pancit Canton",
+    "title": "Filipino-Style Pancit Canton",
     "tags": [
-      "filipino-food",
-      "hangover-cures",
-      "noodle-dishes",
-      "nutty-flavors",
-      "steamed-food",
-      "whole30-recipes"
+      "filipino",
+      "noodles",
+      "pork-free",
+      "vegetarian-option"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -15750,15 +15746,14 @@
   },
   {
     "slug": "kosher-baby-potatoes-in-poaching-sauce",
-    "title": "Kosher Baby Potatoes in Poaching Sauce",
+    "title": "Braised Baby Potatoes in Kosher Sauce",
     "tags": [
-      "kosher",
-      "baby_potatoes",
-      "poaching_sauce",
-      "filipino_appetizer"
+      "baby-potatoes",
+      "kosher-sauce",
+      "side-dish"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
