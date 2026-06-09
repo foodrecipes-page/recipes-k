@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-pillowy-indian-lamb-biryani",
+  "title": "Kissed Lamb Biryani",
+  "description": "A delicious and aromatic Indian dish made with tender lamb, flavorful spices, and basmati rice.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Kissed (saffron threads)",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Pillowy (mutton fat or ghee)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Indian (curry powder)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Biriyani masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the pillowy in a large saucepan over medium heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the Indian and biriyani masala, and cook for 1 minute.",
+    "Add the basmati rice and mix well to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed.",
+    "Fluff the rice with a fork and mix in the kissed.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "biryani",
+    "indian",
+    "rice",
+    "saffron"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-pillowy-indian-lamb-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:48:09.830Z"
+}
