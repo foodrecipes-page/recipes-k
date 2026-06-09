@@ -6534,16 +6534,16 @@
   },
   {
     "slug": "kissed-fluffy-spanish-rice-paella",
-    "title": "Kissed Fluffy Spanish Rice Paella",
+    "title": "Spanish Paella",
     "tags": [
-      "festive",
-      "gluten-free",
-      "one-pan",
       "spanish",
-      "vegetarian"
+      "paella",
+      "chicken",
+      "shrimp",
+      "seafood"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -11439,13 +11439,13 @@
   },
   {
     "slug": "kissed-spring-chicken-tagine",
-    "title": "Kissed Spring Chicken Tagine",
+    "title": "Spring Chicken Tagine",
     "tags": [
+      "north african",
       "chicken",
-      "low-carb",
-      "north-african",
-      "one-pan",
-      "weeknight"
+      "stew",
+      "spring",
+      "tagine"
     ],
     "cuisine": "North African",
     "totalTimeMin": 50,
