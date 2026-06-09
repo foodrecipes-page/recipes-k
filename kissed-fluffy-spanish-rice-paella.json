@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-fluffy-spanish-rice-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, chicken, and seafood. This recipe serves 4-6 people.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kissed chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "fluffy chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "spanish chorizo",
+      "amount": "1/2 pound"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the chorizo and cook until browned, about 2-3 minutes.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the chicken broth, saffron, and rice to the pan. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes.",
+    "Serve the paella hot, garnished with lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "chicken",
+    "shrimp",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fluffy-spanish-rice-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T00:30:36.938Z"
+}
