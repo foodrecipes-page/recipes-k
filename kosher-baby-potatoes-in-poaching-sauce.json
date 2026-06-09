@@ -1,0 +1,72 @@
+{
+  "slug": "kosher-baby-potatoes-in-poaching-sauce",
+  "title": "Braised Baby Potatoes in Kosher Sauce",
+  "description": "Tender baby potatoes slow-cooked in a rich and savory kosher sauce, perfect as a side dish or accompaniment to your favorite meats.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Baby Potatoes",
+      "amount": "2 pounds",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Kosher Sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the kosher sauce in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the halved potatoes to the saucepan and stir to coat with the sauce and onion mixture.",
+    "Reduce heat to low, cover the saucepan, and simmer for 20-25 minutes, or until the potatoes are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baby-potatoes",
+    "kosher-sauce",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-baby-potatoes-in-poaching-sauce",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:23:24.365Z"
+}
