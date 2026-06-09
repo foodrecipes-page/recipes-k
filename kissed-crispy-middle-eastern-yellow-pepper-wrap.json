@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-crispy-middle-eastern-yellow-pepper-wrap",
+  "title": "Middle Eastern Crispy Wrap",
+  "description": "A crispy wrap filled with flavorful ingredients, perfect for a quick snack or meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Eastern Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Yellow Pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Middle Eastern Seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Falafel",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Brush the Eastern Wrap with Olive Oil and season with Middle Eastern Seasoning.",
+    "Cook the wrap for 1-2 minutes on each side, until crispy and lightly browned.",
+    "Cut the Yellow Pepper into thin slices.",
+    "Cook the Kissed Falafel according to package instructions.",
+    "Assemble the wrap by placing the cooked falafel, pepper slices, and Crispy Onion inside.",
+    "Season with Salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "snack",
+    "vegetarian",
+    "wrap",
+    "falafel"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-middle-eastern-yellow-pepper-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:52:09.946Z"
+}
