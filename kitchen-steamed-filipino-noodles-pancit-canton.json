@@ -1,0 +1,81 @@
+{
+  "slug": "kitchen-steamed-filipino-noodles-pancit-canton",
+  "title": "Filipino-Style Pancit Canton",
+  "description": "A classic Filipino noodle dish made with stir-fried vegetables and your choice of protein, served with a side of steamed vegetables.",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pancit Canton",
+      "amount": "1 package"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cooked chicken breast",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add the onion and garlic and stir-fry until the onion is translucent.",
+    "Add the carrots and snow peas and stir-fry for 2-3 minutes.",
+    "Add the cooked chicken breast and stir-fry for 1 minute.",
+    "Add the soy sauce and oyster sauce and stir-fry for 1 minute.",
+    "Add the Pancit Canton and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "noodles",
+    "pork-free",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kitchen-steamed-filipino-noodles-pancit-canton",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T01:38:05.360Z"
+}
