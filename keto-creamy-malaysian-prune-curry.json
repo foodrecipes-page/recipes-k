@@ -1,0 +1,83 @@
+{
+  "slug": "keto-creamy-malaysian-prune-curry",
+  "title": "Creamy Keto Chicken Curry",
+  "description": "A low-carb, creamy twist on a traditional Malaysian chicken curry. Serve with a side of roasted vegetables or a salad.",
+  "cuisine": "malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup (60g)",
+      "notes": "soaked and chopped"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup (120ml)",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-6 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Add the prunes, heavy cream, salt, and black pepper. Stir to combine.",
+    "Reduce heat to medium-low and simmer for 10-12 minutes or until the chicken is cooked through.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot over a bed of roasted vegetables or a salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "curry",
+    "malaysian",
+    "cream",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-creamy-malaysian-prune-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T17:44:01.190Z"
+}
