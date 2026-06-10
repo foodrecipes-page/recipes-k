@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-sweet-italian-split-peas-wrap",
+  "title": "Sweet Italian Pea Wrap",
+  "description": "A delicious and easy-to-make wrap filled with tender peas and Italian seasonings. Perfect for a quick snack or light lunch.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wrap",
+      "amount": "1"
+    },
+    {
+      "name": "sweet peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "kissed oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add kissed oil and swirl to coat.",
+    "Add sweet peas and cook until tender, about 3-4 minutes.",
+    "Sprinkle italian seasoning and salt to taste.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by placing the pea mixture inside.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "peas",
+    "wrap",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-sweet-italian-split-peas-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:29:19.607Z"
+}
