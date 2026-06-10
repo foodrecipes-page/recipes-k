@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-bitter-slovakian-danmuji-hash",
+  "title": "Slovakian Hash with Bitter Kissed Flair",
+  "description": "A hearty breakfast dish combining traditional Slovakian hash with a twist of bitter sweetness.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bitter",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Slovakian Kissed",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Danmuji",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, mix together hash, bitter, and Slovakian kissed.",
+    "Transfer the mixture to a baking dish.",
+    "Top with sliced danmuji.",
+    "Season with salt and pepper to taste.",
+    "Bake in the preheated oven for 20-25 minutes.",
+    "Remove from the oven and let it rest for 5 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "hash",
+    "bitter",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-bitter-slovakian-danmuji-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T12:32:40.925Z"
+}
