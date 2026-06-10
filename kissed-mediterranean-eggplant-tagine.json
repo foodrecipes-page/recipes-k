@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-mediterranean-eggplant-tagine",
+  "title": "Kissed Mediterranean Eggplant Tagine",
+  "description": "A flavorful and aromatic stew originating from North Africa, made with tender eggplant, kissed with a hint of sweetness and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium, sliced"
+    },
+    {
+      "name": "Mediterranean Kissed Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves, minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon, ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "for garnish"
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat kissed Mediterranean olive oil in a large clay tagine or Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add sliced eggplant and cook until it starts to soften, about 5 minutes.",
+    "Stir in cumin, paprika, salt, and black pepper. Cook for 1 minute.",
+    "Add tagine spice mix and cook for an additional 1 minute.",
+    "Cover the tagine and simmer over low heat for 20-25 minutes, or until the eggplant is tender.",
+    "Taste and adjust seasoning as needed.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "eggplant",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mediterranean-eggplant-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:52:06.070Z"
+}
