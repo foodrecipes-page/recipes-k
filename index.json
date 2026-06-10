@@ -9113,17 +9113,16 @@
   },
   {
     "slug": "kissed-peppery-indian-peas-lassi",
-    "title": "Kissed Peppery Indian Peas Lassi",
+    "title": "Spiced Peas with Peppery Kissed Lassi",
     "tags": [
-      "dairy-free",
-      "indian-drink",
-      "refreshing-beverage",
-      "spicy-drink",
-      "unique-twist",
-      "vegan-friendly"
+      "indian",
+      "peas",
+      "lassi",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -11490,17 +11489,15 @@
   },
   {
     "slug": "kissed-springy-slovakian-milk-bake",
-    "title": "Kissed Springy Slovakian Milk Bake",
+    "title": "Slovakian Springy Kissed Cake",
     "tags": [
-      "dairy-free",
-      "dessert",
-      "jammy",
+      "cake",
       "slovakian",
-      "traditional",
-      "wood-fired"
+      "spring",
+      "dessert"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14716,17 +14713,16 @@
   },
   {
     "slug": "knobby-golden-french-mushroom-gratin",
-    "title": "Knobby Golden French Mushroom Gratin",
+    "title": "Roasted Mushroom and Golden Potato Gratin",
     "tags": [
-      "brunch-ideas",
-      "comfort-food",
-      "french-cuisine",
-      "gratin-recipes",
-      "mushroom-recipes",
-      "ovo-vegetarian"
+      "mushroom",
+      "potato",
+      "gratin",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "French",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
