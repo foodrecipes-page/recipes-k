@@ -3365,17 +3365,16 @@
   },
   {
     "slug": "kissed-bitter-slovakian-danmuji-hash",
-    "title": "kissed bitter slovakian danmuji hash",
+    "title": "Slovakian Hash with Bitter Kissed Flair",
     "tags": [
-      "bitter",
-      "crunchy",
-      "danmuji",
-      "monsoon",
+      "breakfast",
       "slovakian",
-      "sous-vide"
+      "hash",
+      "bitter",
+      "sweet"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 30,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -6390,16 +6389,15 @@
   },
   {
     "slug": "kissed-floral-croatian-reblochon-skillet",
-    "title": "Kissed Floral Croatian Reblochon Skillet",
+    "title": "Pan-Seared Reblochon with Kissed Floral Glaze",
     "tags": [
-      "dense",
-      "floral",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "french",
+      "reblowchon",
+      "cheese",
+      "glazed"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 27,
+    "cuisine": "French",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -11576,17 +11574,16 @@
   },
   {
     "slug": "kissed-sweet-italian-split-peas-wrap",
-    "title": "Kissed Sweet Italian Split Peas Wrap",
+    "title": "Sweet Italian Pea Wrap",
     "tags": [
       "italian",
-      "one-pot",
-      "shoji-friendly",
-      "sweet",
-      "vegetarian",
-      "wrap"
+      "peas",
+      "wrap",
+      "snack",
+      "easy"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 9,
     "shard": "k"
   },
   {
@@ -13845,17 +13842,14 @@
   },
   {
     "slug": "kissed-wood-fired-croatian-vegetable-casserole",
-    "title": "Kissed Wood Fired Croatian Vegetable Casserole",
+    "title": "Croatian Fired Casserole",
     "tags": [
       "croatian",
-      "flexitarian",
-      "one-pan",
-      "post-workout",
       "vegetarian",
-      "wood-fired"
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 80,
+    "cuisine": "European",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
