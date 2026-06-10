@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-ethiopian-dish-stir-fry",
+  "title": "Ethiopian Stir Fry",
+  "description": "A flavorful and spicy stir fry dish inspired by Ethiopian cuisine. This recipe combines the bold flavors of the region with the ease of a quick stir fry.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kissed spinach",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian red pepper",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "stir-fry onions",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "dish tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fry sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium-high heat.",
+    "Add the onions and cook until they start to soften.",
+    "Add the red pepper and cook for 1-2 minutes.",
+    "Add the spinach and cook until wilted.",
+    "Add the tomatoes and fry sauce, stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ethiopian",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-ethiopian-dish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T17:52:28.582Z"
+}
