@@ -8286,16 +8286,15 @@
   },
   {
     "slug": "kissed-light-japanese-chicken-gyoza",
-    "title": "Kissed, Light Japanese Chicken Gyoza",
+    "title": "Japanese Chicken Gyoza",
     "tags": [
-      "gluten-free",
       "japanese",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "gyoza",
+      "appetizer"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 32,
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -9764,16 +9763,15 @@
   },
   {
     "slug": "kissed-roasted-syrian-chorizo-tagine",
-    "title": "Kissed Roasted Syrian Chorizo Tagine",
+    "title": "Spicy Chorizo Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "sugar-free",
-      "syrian-cuisine"
+      "moroccan",
+      "stew",
+      "chorizo",
+      "vegetarian-options"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
