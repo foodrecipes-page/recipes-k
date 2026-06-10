@@ -547,14 +547,15 @@
   },
   {
     "slug": "keto-friendly-jamaican-parmigiano-reggiano-stir-fry",
-    "title": "Keto-friendly Jamaican Parmigiano-reggiano Stir-fry",
+    "title": "Jamaican Stir Fry with Keto Pesto",
     "tags": [
-      "keto",
       "jamaican",
+      "keto",
+      "pesto",
       "stir-fry"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
