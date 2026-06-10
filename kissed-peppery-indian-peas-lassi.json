@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-peppery-indian-peas-lassi",
+  "title": "Spiced Peas with Peppery Kissed Lassi",
+  "description": "A refreshing Indian-inspired side dish featuring sweet and peppery peas in a tangy lassi sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "kissed",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "peppery",
+      "amount": "1 tablespoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "peas",
+      "amount": "2 cups",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "lassi",
+      "amount": "2 cups",
+      "notes": "dairy or non-dairy"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in a pan over medium heat.",
+    "2. Add the kissed and sauté for 2-3 minutes until slightly tender.",
+    "3. Add the peppery and sauté for another minute.",
+    "4. Add the peas and sauté for 2-3 minutes until tender.",
+    "5. In a blender, combine the lassi, garam masala (if using), and a pinch of salt.",
+    "6. Blend until smooth.",
+    "7. Add the blended lassi mixture to the pan and stir to combine.",
+    "8. Reduce heat to low and simmer for 2-3 minutes.",
+    "9. Season with salt to taste.",
+    "10. Serve hot over rice or with naan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "peas",
+    "lassi",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peppery-indian-peas-lassi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T09:29:46.165Z"
+}
