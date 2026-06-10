@@ -1,0 +1,90 @@
+{
+  "slug": "keto-friendly-jamaican-parmigiano-reggiano-stir-fry",
+  "title": "Jamaican Stir Fry with Keto Pesto",
+  "description": "A keto-friendly twist on traditional Jamaican stir fry, featuring a homemade pesto sauce made with Parmigiano Reggiano.",
+  "cuisine": "jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork tenderloin",
+      "amount": "500g",
+      "notes": "sliced into 1-inch pieces"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Parmigiano Reggiano cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Avocado oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of avocado oil in a large skillet over medium-high heat.",
+    "Add the sliced pork tenderloin and cook until browned, about 3-4 minutes.",
+    "Remove the pork from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of avocado oil to the skillet.",
+    "Add the chopped scallions, cayenne pepper, and garlic powder to the skillet and cook for 1 minute.",
+    "Add the chopped basil and cook for an additional minute.",
+    "Return the pork to the skillet and stir in the grated Parmigiano Reggiano cheese.",
+    "Season with salt to taste.",
+    "Serve the Jamaican stir fry hot, garnished with chopped cilantro and a squeeze of fresh lime juice.",
+    "Serve with a side of keto pesto sauce, made by blending together 1/2 cup of grated Parmigiano Reggiano cheese, 1/4 cup of chopped fresh basil, 2 cloves of minced garlic, and 2 tablespoons of avocado oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "keto",
+    "pesto",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "37g",
+    "carbs": "10g",
+    "fat": "42g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-friendly-jamaican-parmigiano-reggiano-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T10:17:19.422Z"
+}
