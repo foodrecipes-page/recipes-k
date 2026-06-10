@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-roasted-syrian-chorizo-tagine",
+  "title": "Spicy Chorizo Tagine",
+  "description": "A flavorful North African-inspired stew made with spicy chorizo, roasted vegetables, and a blend of aromatic spices.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chorizo, sliced",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 large"
+    },
+    {
+      "name": "Red bell pepper, chopped",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kissed olives, pitted",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add chorizo and cook, browning on all sides, about 5 minutes.",
+    "Add onion, carrots, and red bell pepper; cook, stirring occasionally, until the vegetables are tender, about 10 minutes.",
+    "Stir in garlic, tagine spice blend, and diced tomatoes.",
+    "Add chicken broth and bring to a boil.",
+    "Reduce heat to low and simmer, covered, until the flavors have melded together and the meat is tender, about 20 minutes.",
+    "Stir in kissed olives and parsley.",
+    "Serve hot, garnished with additional parsley, if desired.",
+    "Serve with couscous or crusty bread, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "chorizo",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-syrian-chorizo-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T16:17:13.566Z"
+}
