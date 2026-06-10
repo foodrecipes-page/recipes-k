@@ -6174,15 +6174,14 @@
   },
   {
     "slug": "kissed-ethiopian-dish-stir-fry",
-    "title": "kissed ethiopian dish stir-fry",
+    "title": "Ethiopian Stir Fry",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "quick-dinner",
-      "weeknight"
+      "ethiopian",
+      "stir-fry",
+      "vegetarian"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 30,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -9966,16 +9965,15 @@
   },
   {
     "slug": "kissed-salty-thai-chicken-gaeng-curry",
-    "title": "Kissed Salty Thai Chicken Gaeng Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "one-pot",
-      "thai-cuisine",
-      "weeknight"
+      "thai-curry",
+      "chicken-curry",
+      "coconut-milk",
+      "spicy"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
