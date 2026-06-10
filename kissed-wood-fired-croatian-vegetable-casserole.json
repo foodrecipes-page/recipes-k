@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-wood-fired-croatian-vegetable-casserole",
+  "title": "Croatian Fired Casserole",
+  "description": "A hearty casserole dish made with fired vegetables and Croatian spices, perfect for a cold evening.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "1 pound",
+      "notes": "Fired sausage can be substituted for regular sausage if desired"
+    },
+    {
+      "name": "Mixed fired vegetables",
+      "amount": "2 cups",
+      "notes": "Choose your favorite fired vegetables such as bell peppers, onions, and mushrooms"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "9x13 inches",
+      "notes": "A traditional casserole dish"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups",
+      "notes": "Low sodium broth recommended"
+    },
+    {
+      "name": "Croatian seasoning",
+      "amount": "2 teaspoons",
+      "notes": "Available at most European markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the Croatian sausage in a skillet over medium-high heat until browned, about 5 minutes.",
+    "Add the mixed fired vegetables to the skillet and cook until they are tender, about 5 minutes.",
+    "In a separate bowl, whisk together the vegetable broth and Croatian seasoning.",
+    "Pour the broth mixture over the sausage and vegetables in the skillet.",
+    "Transfer the mixture to the casserole dish and cover with foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-wood-fired-croatian-vegetable-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T11:52:15.032Z"
+}
