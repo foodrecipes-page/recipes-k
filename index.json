@@ -4126,17 +4126,15 @@
   },
   {
     "slug": "kissed-canadian-daikon-hash",
-    "title": "Kissed Canadian Daikon Hash",
+    "title": "Daikon Hash with Canadian Kissed Cheese",
     "tags": [
       "breakfast",
-      "canadian",
-      "low-fat",
-      "meal-prep",
-      "one-pan",
-      "weeknight"
+      "side-dish",
+      "cheesy",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -4441,17 +4439,14 @@
   },
   {
     "slug": "kissed-charred-irish-sirloin-skillet",
-    "title": "Kissed, Charred Irish Sirloin Skillet",
+    "title": "Charred Sirloin with Pan-Seared Kissed Irish Potatoes",
     "tags": [
-      "beef",
-      "high-protein",
-      "irish",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "irish-cuisine",
+      "sirloin",
+      "potatoes"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 37,
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -13335,16 +13330,14 @@
   },
   {
     "slug": "kissed-with-sansho-canadian-lamb-stew",
-    "title": "Kissed with Sansho Canadian Lamb Stew",
+    "title": "Lamb Stew",
     "tags": [
-      "bain-marie",
-      "comfort-food",
       "lamb",
-      "one-pan",
-      "sansho",
-      "weeknight"
+      "stew",
+      "japanese",
+      "omnivore"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "Japanese",
     "totalTimeMin": 110,
     "shard": "k"
   },
