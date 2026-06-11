@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-velvety-thai-coconut-khanom-krok",
+  "title": "Thai Coconut Krok Kisses",
+  "description": "A unique dessert that combines the flavors of Thailand with a traditional coconut treat.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Krok pastry",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Velvety chocolate",
+      "amount": "1 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Thai red sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khanom flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Khanom oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Krok pastry into small pieces.",
+    "Mix the coconut cream, melted chocolate, Thai red sugar, Khanom flour, and Khanom oil in a bowl.",
+    "Add the pastry pieces to the bowl and mix until well combined.",
+    "Spoon the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until lightly golden.",
+    "Remove from oven and sprinkle with salt to taste.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai desserts",
+    "coconut treats",
+    "krok pastry"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-thai-coconut-khanom-krok",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:54:52.564Z"
+}
