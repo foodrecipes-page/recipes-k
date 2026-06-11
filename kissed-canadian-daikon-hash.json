@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-canadian-daikon-hash",
+  "title": "Daikon Hash with Canadian Kissed Cheese",
+  "description": "A simple yet flavorful dish combining the sweetness of daikon with the richness of Canadian kissed cheese, all wrapped up in a crispy hash. Enjoy as a brunch or side dish.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Daikon radish",
+      "amount": "2 large",
+      "notes": "Grated"
+    },
+    {
+      "name": "Canadian Kissed cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Hash brown potatoes",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a large non-stick skillet over medium heat.",
+    "Add diced onion and cook until translucent.",
+    "Add grated daikon and cook for 2-3 minutes.",
+    "Add shredded hash brown potatoes and cook until golden brown.",
+    "Stir in shredded Canadian Kissed cheese until melted.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "side-dish",
+    "cheesy",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-daikon-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:53:41.281Z"
+}
