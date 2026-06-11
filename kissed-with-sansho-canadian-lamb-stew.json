@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-with-sansho-canadian-lamb-stew",
+  "title": "Lamb Stew",
+  "description": "A hearty and flavorful stew made with lamb, stewed in a rich broth with a hint of sansho.",
+  "cuisine": "Japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 2-inch pieces",
+      "amount": "1 1/2 pounds",
+      "notes": "Look for meat with a good balance of fat and lean"
+    },
+    {
+      "name": "Sansho peppercorns",
+      "amount": "1 tablespoon",
+      "notes": "Use fresh or dried sansho, adjusting amount to taste"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "Carrots, peeled and chopped",
+      "amount": "2 large",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "Potatoes, peeled and chopped",
+      "amount": "2 large",
+      "notes": "About 2 cups"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "Dust lamb pieces with flour before searing"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": "Red wine adds depth to the stew"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use as a flavor enhancer"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "Use for flavor and richness"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of sesame oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add another tablespoon of sesame oil to the pot, then add the chopped onion. Cook until the onion is softened and lightly browned, about 8 minutes.",
+    "Add the chopped carrots and potatoes to the pot, cooking for another 5 minutes.",
+    "Add the beef broth, red wine, soy sauce, and browned lamb to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Season the stew with salt and pepper to taste. Serve hot, garnished with chopped scallions and a sprinkle of sansho."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "japanese",
+    "omnivore"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-sansho-canadian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T00:03:38.414Z"
+}
