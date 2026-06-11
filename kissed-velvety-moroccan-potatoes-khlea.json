@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-velvety-moroccan-potatoes-khlea",
+  "title": "Khlea Stuffed Potatoes",
+  "description": "A twist on classic stuffed potatoes, using traditional moroccan flavors and khlea for a hearty meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": "Choose high-starch potatoes for fluffiest results"
+    },
+    {
+      "name": "Khlea",
+      "amount": "1/2 cup",
+      "notes": "Chop khlea into small pieces for easier cooking"
+    },
+    {
+      "name": "Moroccan Spices",
+      "amount": "1 tsp",
+      "notes": "Use a mix of cumin, coriander, and paprika for authentic flavor"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Use high-quality butter for best flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Add salt to taste, but be mindful of khlea's natural saltiness"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground black pepper for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce potatoes with a fork to allow steam to escape.",
+    "Rub potatoes with butter and sprinkle with salt and pepper.",
+    "Bake potatoes for 45-50 minutes, or until tender.",
+    "While potatoes are baking, heat khlea in a pan over medium heat.",
+    "Add Moroccan spices to khlea and cook for 2-3 minutes, stirring constantly.",
+    "Once potatoes are done, slice them in half lengthwise.",
+    "Scoop out some of the potato flesh to make room for the khlea mixture.",
+    "Fill the potatoes with the khlea mixture and top with additional butter if desired.",
+    "Return the potatoes to the oven and bake for an additional 5-10 minutes, or until the filling is heated through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 55,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stuffed potatoes",
+    "moroccan flavors",
+    "khlea"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-moroccan-potatoes-khlea",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:33:11.960Z"
+}
