@@ -10156,16 +10156,14 @@
   },
   {
     "slug": "kissed-silky-croatian-shrimp-risotto",
-    "title": "Kissed Silky Croatian Shrimp Risotto",
+    "title": "Shrimp Risotto with Croatian Twist",
     "tags": [
-      "pescatarian",
-      "quick",
-      "silky",
-      "smoky",
-      "weeknight"
+      "italian",
+      "seafood",
+      "risotto"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -12391,16 +12389,14 @@
   },
   {
     "slug": "kissed-velvety-moroccan-potatoes-khlea",
-    "title": "Kissed Velvety Moroccan Potatoes Khlea",
+    "title": "Khlea Stuffed Potatoes",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "moroccan-cuisine",
-      "one-pan",
-      "post-workout"
+      "stuffed potatoes",
+      "moroccan flavors",
+      "khlea"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "k"
   },
   {
@@ -12435,17 +12431,14 @@
   },
   {
     "slug": "kissed-velvety-thai-coconut-khanom-krok",
-    "title": "Kissed Velvety Thai Coconut Khanom Krok",
+    "title": "Thai Coconut Krok Kisses",
     "tags": [
-      "coconut-based",
-      "diabetic-friendly",
-      "indulgent",
-      "pressure-cooker",
-      "smoky",
-      "thai-dessert"
+      "thai desserts",
+      "coconut treats",
+      "krok pastry"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
