@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-smoky-tunisian-chicken-tagine",
+  "title": "Smoky Tunisian Chicken Tagine",
+  "description": "A flavorful and aromatic North African-inspired dish made with smoky spices, tender chicken, and fresh kissed herbs.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 lbs",
+      "notes": "boneless, skinless chicken thighs"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional North African clay pot"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoky flavor"
+    },
+    {
+      "name": "kissed herbs",
+      "amount": "1 tsp",
+      "notes": "fresh parsley, chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine to 300°F (150°C).",
+    "Season the chicken with salt and black pepper.",
+    "Heat the olive oil in the tagine over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the chicken to the tagine and cook until browned on all sides, about 5 minutes.",
+    "Add the smoky paprika, kissed herbs, and 1 cup of water to the tagine.",
+    "Bring the mixture to a simmer, then cover the tagine and cook for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with additional kissed herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "north-african",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-tunisian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T02:08:50.689Z"
+}
