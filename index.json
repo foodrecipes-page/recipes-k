@@ -10306,14 +10306,14 @@
   },
   {
     "slug": "kissed-slovakian-chicken-braised",
-    "title": "Kissed Slovakian Chicken Braised",
+    "title": "Braised Chicken with Slovakian Twist",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "chicken",
+      "braised",
+      "slovakian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 32,
+    "cuisine": "European",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -13555,18 +13555,15 @@
   },
   {
     "slug": "kissed-with-spices-moroccan-fromage-frais-tagine",
-    "title": "Kissed With Spices Moroccan Fromage Frais Tagine",
+    "title": "Moroccan Kissed Chicken Tagine",
     "tags": [
-      "breakfast",
-      "healthy",
+      "chicken",
       "moroccan",
-      "moroccan-cuisine",
-      "one-pan",
-      "paleo",
-      "spicy"
+      "tagine",
+      "gluten-free"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 27,
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
