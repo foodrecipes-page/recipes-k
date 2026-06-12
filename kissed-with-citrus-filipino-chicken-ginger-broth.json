@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-with-citrus-filipino-chicken-ginger-broth",
+  "title": "Filipino Chicken Soup",
+  "description": "A flavorful and comforting chicken soup inspired by Filipino cuisine.",
+  "cuisine": "Filipino",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "broth",
+      "amount": "4 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "citrus",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed lemon juice"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "with",
+      "amount": "1/2 teaspoon",
+      "notes": "black pepper"
+    },
+    {
+      "name": "filipino",
+      "amount": "1/2 teaspoon",
+      "notes": "ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat kissed in a large pot over medium heat.",
+    "Add sliced ginger and cook for 1 minute.",
+    "Add chicken breast and cook until browned on all sides.",
+    "Pour in broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Stir in citrus and cook for an additional 2 minutes.",
+    "Season with with and filipino. Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "soup",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-citrus-filipino-chicken-ginger-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:41:41.180Z"
+}
