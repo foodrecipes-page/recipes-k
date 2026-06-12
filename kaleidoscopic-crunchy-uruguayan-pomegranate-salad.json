@@ -1,0 +1,70 @@
+{
+  "slug": "kaleidoscopic-crunchy-uruguayan-pomegranate-salad",
+  "title": "Uruguayan Kaleidoscopic Salad",
+  "description": "A colorful and crunchy salad inspired by Uruguayan flavors, featuring pomegranate seeds and fresh kaleidoscopic greens.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kaleidoscopic greens",
+      "amount": "4 cups",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Crunchy tortilla chips",
+      "amount": "1 cup",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Pomegranate seeds",
+      "amount": "1/2 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Salad dressing",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine chopped kaleidoscopic greens and crushed crunchy tortilla chips.",
+    "2. In a separate bowl, mix shredded Uruguayan cheese and pomegranate seeds.",
+    "3. Add the cheese-pomegranate mixture to the kaleidoscopic greens and crunchy tortilla chips.",
+    "4. Drizzle with salad dressing and toss to combine.",
+    "5. Serve immediately and enjoy!",
+    "6. Refrigerate for at least 30 minutes to allow flavors to meld.",
+    "7. Before serving, garnish with additional pomegranate seeds and crunchy tortilla chips if desired.",
+    "8. Taste and adjust seasoning as needed.",
+    "9. Serve as a main course or side dish for a Uruguayan-inspired meal.",
+    "10. Enjoy with crusty bread or as a light lunch option."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "salad",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kaleidoscopic-crunchy-uruguayan-pomegranate-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T05:13:14.488Z"
+}
