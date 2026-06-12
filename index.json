@@ -1160,17 +1160,15 @@
   },
   {
     "slug": "kicked-crunchy-turkish-wild-garlic-leaves-skewers",
-    "title": "Kicked Crunchy Turkish Wild Garlic Leaves Skewers",
+    "title": "Wild Garlic Turkish Kebabs",
     "tags": [
-      "crunchy-snack",
-      "gluten-free",
-      "snack-recipe",
-      "sugar-free",
-      "turkish-food",
-      "wild-garlic"
+      "grill",
+      "wild-garlic",
+      "kebabs",
+      "turkish"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -10463,17 +10461,15 @@
   },
   {
     "slug": "kissed-smoky-chinese-beef-skewers",
-    "title": "Kissed Smoky Chinese Beef Skewers",
+    "title": "Smoky Beef Skewers Recipe",
     "tags": [
+      "smoky",
       "beef",
-      "chinese",
-      "gluten-free",
-      "grilled",
-      "low-calorie",
-      "skewers"
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "cuisine": "chinese",
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {
@@ -12740,17 +12736,14 @@
   },
   {
     "slug": "kissed-with-citrus-filipino-chicken-ginger-broth",
-    "title": "Kissed with Citrus Filipino Chicken Ginger Broth",
+    "title": "Filipino Chicken Soup",
     "tags": [
-      "comfort-food",
-      "easy-to-make",
-      "filipino",
-      "high-protein",
-      "one-pan",
-      "weeknight-dinner"
+      "chicken",
+      "soup",
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
