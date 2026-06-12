@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-snappy-mexican-palm-sugar-nam-tan-pip-chiles-rellenos",
+  "title": "Stuffed Poblano Peppers with Mexican Flair",
+  "description": "A flavorful and nutritious dish that combines the natural sweetness of roasted poblano peppers with the savory taste of Mexican-inspired fillings. This recipe is a delightful twist on traditional stuffed peppers.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Poblano Peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Mexican Kissed Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Snappy Chorizo Sausage",
+      "amount": "1/2 cup, cooked and crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Palm Heart",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Nam Pla",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Tan Chiles",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roast the poblano peppers over an open flame or in the oven until charred. Peel off the skin, remove seeds, and set aside.",
+    "Cook the Mexican Kissed Rice according to package instructions.",
+    "In a skillet, cook the Snappy Chorizo Sausage over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the sliced Palm Heart to the skillet and cook until tender.",
+    "Add the Granulated Sugar, Nam Pla, and chopped Tan Chiles to the skillet and stir to combine.",
+    "Stuff each poblano pepper with the rice mixture and top with the sausage mixture.",
+    "Place the stuffed peppers in a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and bake for an additional 10-15 minutes, or until the peppers are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stuffed-peppers",
+    "mexican-cuisine",
+    "vegetarian-options",
+    "gluten-free-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-snappy-mexican-palm-sugar-nam-tan-pip-chiles-rellenos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T15:39:09.491Z"
+}
