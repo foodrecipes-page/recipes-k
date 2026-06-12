@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-garlicky-thai-tomatoes-curry",
+  "title": "Thai Kissed Curry",
+  "description": "A flavorful and spicy Thai-inspired dish with a kissed of sweetness.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai Kissed Sauce",
+      "amount": "1 cup",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "Garlicky Chicken Breast",
+      "amount": "1 lb",
+      "notes": "adjust cooking time according to preference"
+    },
+    {
+      "name": "Fresh Tomatoes",
+      "amount": "2 medium",
+      "notes": "any variety works well"
+    },
+    {
+      "name": "Curry Powder",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, whisk together Thai Kissed Sauce and Curry Powder.",
+    "Season Garlicky Chicken Breast with salt and pepper.",
+    "Sear chicken in a hot skillet until browned on both sides.",
+    "Transfer skillet to oven and bake for 15-20 minutes or until cooked through.",
+    "While chicken is cooking, halve the Fresh Tomatoes and place them on a baking sheet.",
+    "Drizzle with a tablespoon of oil and season with salt and pepper.",
+    "Roast in the oven for 10-12 minutes or until tender.",
+    "Serve the chicken with roasted tomatoes and a drizzle of the Thai Kissed Sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "curry",
+    "dinner",
+    "easy",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-garlicky-thai-tomatoes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:33:40.815Z"
+}
