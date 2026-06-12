@@ -1,0 +1,61 @@
+{
+  "slug": "ketogem-steak-tartare",
+  "title": "Rare Steak with Ketogem Sauce",
+  "description": "A low-carb, high-fat dish featuring a rare steak served with a creamy ketogem sauce.",
+  "cuisine": "American",
+  "diet": [
+    "ketogenic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "ketogem",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "unsalted"
+    }
+  ],
+  "instructions": [
+    "Bring the steak to room temperature.",
+    "Season the steak with salt and pepper.",
+    "Heat a skillet over medium-high heat.",
+    "Sear the steak for 1-2 minutes per side.",
+    "Finish cooking the steak in the oven at 300°F (150°C) for 10-15 minutes.",
+    "Let the steak rest for 5 minutes before slicing.",
+    "Meanwhile, melt the butter in a saucepan over low heat.",
+    "Add the ketogem to the saucepan and stir to combine.",
+    "Simmer the ketogem sauce for 2-3 minutes.",
+    "Serve the rare steak with the ketogem sauce.",
+    "Optional: serve with a side of sautéed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ketogenic",
+    "low-carb",
+    "steak",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ketogem-steak-tartare",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:15:30.943Z"
+}
