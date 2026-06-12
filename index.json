@@ -585,16 +585,15 @@
   },
   {
     "slug": "keto-friendly-tunisian-haricot-beans-tagine",
-    "title": "Keto Friendly Tunisian Haricot Beans Tagine",
+    "title": "Tunisian Haricot Bean Tagine",
     "tags": [
-      "bean-recipes",
-      "keto-friendly",
-      "low-carb",
-      "one-pot-meals",
-      "tunisian-cuisine"
+      "tunisian",
+      "keto",
+      "lactose-free",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 40,
+    "cuisine": "tunisian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -882,15 +881,15 @@
   },
   {
     "slug": "ketogem-steak-tartare",
-    "title": "Ketogem Steak Tartare",
+    "title": "Rare Steak with Ketogem Sauce",
     "tags": [
-      "keto",
+      "ketogenic",
+      "low-carb",
       "steak",
-      "tartare",
-      "sweet"
+      "dinner"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 13,
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -2670,18 +2669,14 @@
   },
   {
     "slug": "kiln-baked-crunchy-malaysian-cookies-bowl",
-    "title": "kiln-baked, crunchy malaysian cookies bowl",
+    "title": "Crunchy Baked Cookies",
     "tags": [
-      "dessert",
-      "flambe",
-      "keto-friendly",
-      "malaysian-fusion",
-      "show-off",
-      "sweet-tooth",
-      "weeknight"
+      "cookies",
+      "baked-goods",
+      "malaysian-cuisine"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 55,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -7479,19 +7474,15 @@
   },
   {
     "slug": "kissed-indian-white-fish-undhiyu",
-    "title": "Kissed Indian White Fish Undhiyu",
+    "title": "Baked Fish with Undhiyu Sauce",
     "tags": [
-      "creamy",
-      "date-night",
-      "fish",
-      "gujarati",
       "indian",
-      "rich",
-      "sattvic",
-      "undhiyu"
+      "fish",
+      "healthy",
+      "quick"
     ],
-    "cuisine": "gujarati",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
@@ -9856,19 +9847,14 @@
   },
   {
     "slug": "kissed-russian-sour-cream-pilaf-bowl",
-    "title": "Kissed Russian Sour Cream Pilaf Bowl",
+    "title": "Sour Cream Pilaf Bowl",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "low-fat",
-      "no-garlic",
-      "no-onion",
       "pilaf",
-      "russian",
-      "sour-cream"
+      "sourcream",
+      "russian"
     ],
-    "cuisine": "russian",
-    "totalTimeMin": 40,
+    "cuisine": "Russian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
