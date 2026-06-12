@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-savory-brazilian-sea-bass-skewers",
+  "title": "Grilled Sea Bass Skewers",
+  "description": "A simple and flavorful Brazilian-inspired dish featuring marinated sea bass grilled to perfection on skewers.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "savory",
+      "amount": "1/2 cup (120 ml) olive oil",
+      "notes": "for marinade"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers, soaked in water for 30 minutes"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 lemons, cut into wedges"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).\n",
+    "In a large bowl, whisk together olive oil, garlic, and chili powder.\n",
+    "Add sea bass fillets to the marinade and mix to coat.\n",
+    "Thread 2-3 pieces of sea bass onto each skewer.\n",
+    "Season with salt and pepper to taste.\n",
+    "Grill skewers for 8-10 minutes per side, or until cooked through.\n",
+    "Serve hot with lemon wedges on the side.\n"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "seafood",
+    "brazilian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-savory-brazilian-sea-bass-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:30:28.112Z"
+}
