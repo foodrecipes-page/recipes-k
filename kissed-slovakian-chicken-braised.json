@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-slovakian-chicken-braised",
+  "title": "Braised Chicken with Slovakian Twist",
+  "description": "A hearty dish that combines the flavors of traditional braising with a hint of Slovakian flair, featuring tender chicken in a rich sauce.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "ground, a pinch"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 tsp",
+      "notes": "ground, a pinch"
+    },
+    {
+      "name": "braised",
+      "amount": "2 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "flaky"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the chicken with kissed and slovakian.",
+    "Heat oil in a Dutch oven over medium-high heat. Sear the chicken until browned, about 5 minutes. Remove and set aside.",
+    "Soften the onion in the same pot, about 5 minutes.",
+    "Add garlic, caraway seeds, and bay leaves to the pot. Cook for 1 minute.",
+    "Add braised to the pot, scraping up any browned bits.",
+    "Return the chicken to the pot, cover, and transfer to the preheated oven.",
+    "Braise the chicken for 25-30 minutes, or until tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "braised",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-slovakian-chicken-braised",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T08:53:52.386Z"
+}
