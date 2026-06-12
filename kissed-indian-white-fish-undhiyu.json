@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-indian-white-fish-undhiyu",
+  "title": "Baked Fish with Undhiyu Sauce",
+  "description": "A flavorful and aromatic Indian-inspired dish featuring baked fish in a rich undhiyu sauce, served with steamed white rice.",
+  "cuisine": "Indian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "1 pound (450g)",
+      "notes": "White fish such as cod or tilapia"
+    },
+    {
+      "name": "Undhiyu sauce",
+      "amount": "1 cup (250ml)",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "White rice",
+      "amount": "1 cup (180g)",
+      "notes": "For serving"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 teaspoon",
+      "notes": "Blend of cumin, coriander, and turmeric"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing fish"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "To taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the fish fillet and pat it dry with paper towels.",
+    "Brush the fish with olive oil and season with salt and pepper.",
+    "Place the fish on a baking sheet lined with parchment paper.",
+    "Bake the fish in the preheated oven for 12-15 minutes, or until cooked through.",
+    "While the fish is baking, heat the undhiyu sauce in a saucepan over medium heat.",
+    "Serve the baked fish with steamed white rice and a spoonful of undhiyu sauce.",
+    "Garnish with chopped cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "fish",
+    "healthy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indian-white-fish-undhiyu",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T16:10:35.979Z"
+}
