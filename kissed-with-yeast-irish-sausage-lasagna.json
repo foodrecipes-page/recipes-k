@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-with-yeast-irish-sausage-lasagna",
+  "title": "Irish Sausage Lasagna",
+  "description": "A hearty, comforting dish that combines the flavors of Ireland with the classic Italian lasagna. Perfect for a cold evening.",
+  "cuisine": "Irish-Italian",
+  "diet": [
+    "meat-based",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Lasagna pasta",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "With cheese",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 sachet",
+      "notes": "active dry"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 180°C (350°F).",
+    "2. Cook the lasagna pasta according to the package instructions. Drain and set aside.",
+    "3. In a large pan, cook the Irish sausage over medium heat, breaking it up with a spoon as it cooks.",
+    "4. Once the sausage is browned, add the milk and stir to combine. Bring the mixture to a simmer.",
+    "5. Reduce the heat to low and let the sauce simmer for 10-15 minutes, stirring occasionally.",
+    "6. In a large mixing bowl, combine the cooked lasagna pasta, the sausage sauce, and the with cheese. Mix well to combine.",
+    "7. In a 20x20cm baking dish, create a thin layer of the pasta mixture. Top with a layer of lasagna pasta, followed by a layer of the sausage sauce.",
+    "8. Repeat steps 7 until all the ingredients are used up, finishing with a layer of pasta on top.",
+    "9. Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "10. Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "11. Remove the lasagna from the oven and let it rest for 10-15 minutes before serving. Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "italian",
+    "lasagna",
+    "sausage",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-yeast-irish-sausage-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T03:46:04.892Z"
+}
