@@ -6756,17 +6756,16 @@
   },
   {
     "slug": "kissed-garlicky-thai-tomatoes-curry",
-    "title": "Kissed Garlicky Thai Tomatoes Curry",
+    "title": "Thai Kissed Curry",
     "tags": [
-      "coconut-based",
-      "high-protein",
-      "one-pan",
-      "sattvic-friendly",
-      "vegan-options",
-      "weeknight"
+      "thai",
+      "curry",
+      "dinner",
+      "easy",
+      "chicken"
     ],
     "cuisine": "thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -11971,17 +11970,15 @@
   },
   {
     "slug": "kissed-tender-syrian-eggplant-skewers",
-    "title": "Kissed Tender Syrian Eggplant Skewers",
+    "title": "Syrian-Style Grilled Eggplant with Tender Kissed Meat Skewers",
     "tags": [
-      "brunch-ideas",
-      "grilled-vegetables",
-      "lacto-vegetarian",
-      "palm-sugar",
-      "robata-grill",
-      "syrian-cuisine"
+      "syrian",
+      "grilled",
+      "eggplant",
+      "meat"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -13777,16 +13774,16 @@
   },
   {
     "slug": "kissed-with-yeast-irish-sausage-lasagna",
-    "title": "Kissed with Yeast Irish Sausage Lasagna",
+    "title": "Irish Sausage Lasagna",
     "tags": [
-      "comfort-food",
-      "irish-cuisine",
+      "irish",
+      "italian",
       "lasagna",
-      "one-pan",
-      "weeknight"
+      "sausage",
+      "comfort-food"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 65,
+    "cuisine": "Irish-Italian",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
