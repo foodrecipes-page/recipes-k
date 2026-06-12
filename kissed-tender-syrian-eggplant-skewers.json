@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-tender-syrian-eggplant-skewers",
+  "title": "Syrian-Style Grilled Eggplant with Tender Kissed Meat Skewers",
+  "description": "A delicious and flavorful Syrian-inspired dish featuring grilled eggplant and tender kissed meat skewers, perfect for a summer evening.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Kissed Meat (Beef or Lamb)",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Skewers",
+      "amount": "4-6",
+      "notes": "Soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, garlic, paprika, cumin, salt, and black pepper.",
+    "3. Add the kissed meat to the bowl and mix well to coat.",
+    "4. Thread the meat onto the skewers, leaving a small space between each piece.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally, or until cooked through.",
+    "6. Meanwhile, brush the eggplant with olive oil and season with salt and black pepper.",
+    "7. Grill the eggplant for 5-7 minutes per side, or until tender and slightly charred.",
+    "8. Serve the grilled eggplant alongside the skewers."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "grilled",
+    "eggplant",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-syrian-eggplant-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T04:11:55.990Z"
+}
