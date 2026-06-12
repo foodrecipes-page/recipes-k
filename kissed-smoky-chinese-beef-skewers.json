@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-smoky-chinese-beef-skewers",
+  "title": "Smoky Beef Skewers Recipe",
+  "description": "Delicious, smoky beef skewers perfect for grilling. Serve with your favorite sides for a quick and tasty meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Skewers (10-12 bamboo sticks)",
+      "amount": "10-12",
+      "notes": ""
+    },
+    {
+      "name": "Beef (sirloin or ribeye), cut into 1 inch pieces",
+      "amount": "1 pound",
+      "notes": "Make sure to cut beef into uniform pieces for even cooking."
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1/4 cup",
+      "notes": "Use a mixture of light and dark soy sauce for the best flavor."
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "Brown sugar adds a rich, caramel flavor to the beef."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Minced garlic helps to bring out the beef’s natural flavors."
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tablespoon",
+      "notes": "Grated ginger adds a nice, warm spice to the dish."
+    },
+    {
+      "name": "Smoky sauce (such as hoisin or oyster sauce)",
+      "amount": "2 tablespoons",
+      "notes": "Smoky sauce gives the beef a nice, savory flavor."
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Chili flakes add a nice kick to the dish."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Use olive oil to brush the skewers before grilling."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "Add salt and pepper to taste."
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread beef onto skewers, leaving 1/4 inch space between each piece.",
+    "In a small bowl, whisk together soy sauce, brown sugar, garlic, ginger, smoky sauce, and chili flakes.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Place the skewers on the grill and cook for 8-10 minutes, or until the beef reaches an internal temperature of at least 145°F.",
+    "Remove the skewers from the grill and let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "beef",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-chinese-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:12:56.250Z"
+}
