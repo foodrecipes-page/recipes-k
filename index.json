@@ -10029,17 +10029,15 @@
   },
   {
     "slug": "kissed-savory-brazilian-sea-bass-skewers",
-    "title": "Kissed Savory Brazilian Sea Bass Skewers",
+    "title": "Grilled Sea Bass Skewers",
     "tags": [
-      "brazilian-cuisine",
-      "cedar-plank",
-      "gluten-free",
       "grilled",
-      "low-sodium",
-      "seafood"
+      "seafood",
+      "brazilian",
+      "skewers"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 33,
     "shard": "k"
   },
   {
@@ -11030,17 +11028,15 @@
   },
   {
     "slug": "kissed-snappy-mexican-palm-sugar-nam-tan-pip-chiles-rellenos",
-    "title": "Kissed Snappy Mexican Palm Sugar Nam Tan Pip Chiles Rellenos",
+    "title": "Stuffed Poblano Peppers with Mexican Flair",
     "tags": [
-      "ayurvedic-friendly",
-      "festive-dish",
-      "gluten-free",
-      "korean-brass-bowl",
+      "stuffed-peppers",
       "mexican-cuisine",
-      "vegetarian-dish"
+      "vegetarian-options",
+      "gluten-free-recipes"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
