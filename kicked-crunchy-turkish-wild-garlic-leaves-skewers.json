@@ -1,0 +1,80 @@
+{
+  "slug": "kicked-crunchy-turkish-wild-garlic-leaves-skewers",
+  "title": "Wild Garlic Turkish Kebabs",
+  "description": "A simple and flavorful recipe featuring wild garlic and a mix of spices. Perfect for a dinner or lunch option.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wild garlic",
+      "amount": "1 bunch",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Kicked skewers",
+      "amount": "12-15 skewers",
+      "notes": "Metal or bamboo"
+    },
+    {
+      "name": "Crunchy leaves",
+      "amount": "1 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Turkish spices",
+      "amount": "1 tablespoon",
+      "notes": "Mix of cumin, paprika, coriander"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Turkish spices, garlic, salt, and black pepper.",
+    "Add the wild garlic to the spice mix and stir to combine.",
+    "Thread the spicy garlic mixture onto the kicked skewers, leaving a small space between each bite.",
+    "Brush the crunchy leaves with olive oil and add to the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the wild garlic is caramelized and the leaves are crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "wild-garlic",
+    "kebabs",
+    "turkish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crunchy-turkish-wild-garlic-leaves-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T11:45:49.543Z"
+}
