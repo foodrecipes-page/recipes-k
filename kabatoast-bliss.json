@@ -1,0 +1,66 @@
+{
+  "slug": "kabatoast-bliss",
+  "title": "Kabatoast Bliss Bites",
+  "description": "A simple recipe to make delicious bliss bites using kabatoast as a base. These bites are perfect as a snack or dessert.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kabatoast",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bliss",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Crush kabatoast into fine crumbs and mix with brown sugar.",
+    "In a separate bowl, whisk together melted butter, vanilla extract, and eggs.",
+    "Add the wet ingredients to the dry ingredients and mix until a dough forms.",
+    "Roll out the dough and cut into desired shapes.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Let cool and serve with bliss."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "kabatoast",
+    "bliss",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kabatoast-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:25:43.843Z"
+}
