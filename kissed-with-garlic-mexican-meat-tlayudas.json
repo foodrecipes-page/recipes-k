@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-with-garlic-mexican-meat-tlayudas",
+  "title": "Mexican Tlayudas with Meat",
+  "description": "A traditional Mexican dish featuring crispy tortillas topped with savory meat and spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican meat",
+      "amount": "1 pound",
+      "notes": "ground beef or carnitas"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tlayudas",
+      "amount": "4",
+      "notes": "crispy tortillas"
+    },
+    {
+      "name": "With",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Kissed",
+      "amount": "salt and pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook the Mexican meat in a pan until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic to the pan and cook for 1 minute.",
+    "Brush the tlayudas with olive oil and bake in the oven for 5 minutes.",
+    "Assemble the tlayudas by topping them with the cooked meat mixture and a sprinkle of salt and pepper.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "carnitas",
+    "tortillas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-garlic-mexican-meat-tlayudas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:15:12.157Z"
+}
