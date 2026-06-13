@@ -1,0 +1,97 @@
+{
+  "slug": "kissed-tender-saudi-arabian-onion-rings-kebabs",
+  "title": "Kissed Arabian Kebabs with Onion Rings",
+  "description": "A flavorful and aromatic dish featuring tender Arabian kebabs served with crispy onion rings.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Arabian kebabs",
+      "amount": "1 package (8 kebabs)",
+      "notes": "Available in most middle eastern markets."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Can be used for garnish as well."
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "For dusting onion rings."
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1 cup",
+      "notes": "For coating onion rings."
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "For egg wash."
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "For frying onion rings."
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning."
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For added flavor."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "For added flavor."
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Dust the onion rings with flour, then coat in bread crumbs.",
+    "Mix the egg and a pinch of salt in a separate bowl.",
+    "Heat 1/2 cup of vegetable oil in a large skillet over medium heat.",
+    "Dip the onion ring in the egg wash, then coat in bread crumbs again.",
+    "Fry the onion rings in batches until golden brown.",
+    "Bake the Arabian kebabs in the oven for 10 minutes.",
+    "Serve the kebabs with onion rings and garnish with chopped onion.",
+    "Season with salt, black pepper, garlic powder, and paprika to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "arabian",
+    "kebabs",
+    "onion-rings",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-saudi-arabian-onion-rings-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:23:24.048Z"
+}
