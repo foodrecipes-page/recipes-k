@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-jamaican-amaretti-fried",
+  "title": "Jamaican Amaretti Kissed Fried Delight",
+  "description": "A sweet and crispy dessert where fried dough is kissed with a Jamaican amaretti glaze.",
+  "cuisine": null,
+  "diet": [
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican rum extract",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Amaretti cookies",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Powdered sugar",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil to 350°F.",
+    "In a bowl, whisk the flour, sugar, and Jamaican rum extract.",
+    "Add the egg and mix until smooth.",
+    "Using a spoon, drop small balls of the dough into the hot oil.",
+    "Fry the dough until golden brown, about 2-3 minutes.",
+    "Drain the dough on paper towels.",
+    "Melt the heavy cream in a saucepan over low heat.",
+    "Add the powdered sugar, amaretti cookies, and vanilla extract to the cream.",
+    "Stir until the mixture thickens.",
+    "Kiss the fried dough with the Jamaican amaretti glaze.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "amaretti",
+    "fried",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-jamaican-amaretti-fried",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:59:27.580Z"
+}
