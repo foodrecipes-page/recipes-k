@@ -2255,17 +2255,16 @@
   },
   {
     "slug": "kickin-smoky-jamaican-dried-shrimp-curry",
-    "title": "Kickin Smoky Jamaican Dried Shrimp Curry",
+    "title": "Shrimp Curry with Jamaican Flair",
     "tags": [
-      "coconut-based",
-      "jamaican-cuisine",
-      "lazy-sunday-meals",
-      "seafood-dishes",
-      "smoky-flavors",
-      "spicy-food"
+      "caribbean",
+      "curry",
+      "shrimp",
+      "seafood",
+      "lunch"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -3145,17 +3144,16 @@
   },
   {
     "slug": "kissed-argentinian-beans-stew",
-    "title": "Kissed Argentinian Beans Stew",
+    "title": "Argentinian Kissed Bean Stew",
     "tags": [
       "argentinian",
-      "high-protein",
-      "jain-friendly",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "beef",
+      "beans",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 180,
     "shard": "k"
   },
   {
