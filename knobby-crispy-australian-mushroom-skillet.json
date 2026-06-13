@@ -1,0 +1,62 @@
+{
+  "slug": "knobby-crispy-australian-mushroom-skillet",
+  "title": "Pan-Seared Australian Skillet Steak",
+  "description": "A simple recipe for a flavorful and tender skillet steak, inspired by Australian cuisine. This dish is best served with a side of sautéed mushrooms and crispy vegetables.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Skillet Steak",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Knobby Potatoes",
+      "amount": "2",
+      "notes": "peeled and halved"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Season the steak with salt and pepper.",
+    "Heat the skillet over medium-high heat.",
+    "Sear the steak for 3-4 minutes per side, or until it reaches an internal temperature of 130°F.",
+    "Remove the steak from the skillet and let it rest.",
+    "Sauté the mushrooms and potatoes in the skillet until they are tender.",
+    "Serve the steak with the sautéed mushrooms and potatoes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "steak",
+    "australian",
+    "skillet",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-crispy-australian-mushroom-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T02:49:24.102Z"
+}
