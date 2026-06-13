@@ -1,0 +1,97 @@
+{
+  "slug": "kissed-argentinian-beans-stew",
+  "title": "Argentinian Kissed Bean Stew",
+  "description": "A hearty and flavorful stew originating from Argentina, made with tender beans, kissed beef, and aromatic spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kissed beef",
+      "amount": "1 pound",
+      "notes": "preferably slow-cooked with garlic and thyme"
+    },
+    {
+      "name": "dried kidney beans",
+      "amount": "1 cup",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "preferably freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add kissed beef; cook until browned, about 5 minutes.",
+    "Add carrots and potatoes; cook for 5 minutes.",
+    "Add tomato paste; cook for 1 minute.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Add kidney beans; simmer for an additional 30 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "beans",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-argentinian-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T22:04:02.355Z"
+}
