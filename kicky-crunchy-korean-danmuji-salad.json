@@ -1,0 +1,69 @@
+{
+  "slug": "kicky-crunchy-korean-danmuji-salad",
+  "title": "Korean-Style Danmuji Salad",
+  "description": "A refreshing and spicy salad made with danmuji, crunchy vegetables, and a kick of Korean chili flakes.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "danmuji",
+      "amount": "1 (200g) package",
+      "notes": ""
+    },
+    {
+      "name": "kicky kimchi",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "crunchy cucumbers",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "crunchy carrots",
+      "amount": "1/2 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "salad dressing",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the danmuji into bite-sized pieces.",
+    "In a large bowl, combine the danmuji, kimchi, cucumbers, and carrots.",
+    "Sprinkle the Korean chili flakes over the top of the salad.",
+    "Drizzle the salad dressing over the salad and toss to combine.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-crunchy-korean-danmuji-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T17:19:20.606Z"
+}
