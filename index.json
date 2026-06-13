@@ -11067,17 +11067,16 @@
   },
   {
     "slug": "kissed-spanish-cheese-ceviche",
-    "title": "Kissed Spanish Cheese Ceviche",
+    "title": "Spanish Kissed Ceviche",
     "tags": [
-      "lacto-vegetarian",
-      "salty",
-      "shaggy",
-      "solo-dinner",
-      "sous-vide",
-      "spanish"
+      "spanish",
+      "ceviche",
+      "tilapia",
+      "lunch",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 75,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -11912,17 +11911,14 @@
   },
   {
     "slug": "kissed-tender-spanish-turnip-empanadas",
-    "title": "Kissed Tender Spanish Turnip Empanadas",
+    "title": "Spanish Turnip Empanadas",
     "tags": [
-      "crowd-pleaser",
-      "empanadas",
-      "kosher-friendly",
-      "spanish-food",
-      "turnips",
-      "yeast-dough"
+      "spanish",
+      "turnip",
+      "empanadas"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -14521,15 +14517,14 @@
   },
   {
     "slug": "knobby-crispy-australian-mushroom-skillet",
-    "title": "Knobby Crispy Australian Mushroom Skillet",
+    "title": "Pan-Seared Australian Skillet Steak",
     "tags": [
-      "australian-cuisine",
-      "lazy-sunday",
-      "mushroom-recipe",
-      "one-pan",
-      "weekend-meal"
+      "steak",
+      "australian",
+      "skillet",
+      "beef"
     ],
-    "cuisine": "Australian",
+    "cuisine": "australian",
     "totalTimeMin": 25,
     "shard": "k"
   },
