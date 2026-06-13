@@ -1,0 +1,69 @@
+{
+  "slug": "kitchen-style-venezuelan-cheese-quesadilla",
+  "title": "Venezuelan Cheese Quesadillas",
+  "description": "A delicious and classic Venezuelan dish made with melted cheese and crispy tortillas.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cheese (Queso Fresco or Mozzarella)",
+      "amount": "8 oz",
+      "notes": "Shredded or crumbled"
+    },
+    {
+      "name": "Tortillas (Corn or Flour)",
+      "amount": "4-6",
+      "notes": "Large or extra-large"
+    },
+    {
+      "name": "Butter or Oil",
+      "amount": "2 tbsp",
+      "notes": "Unsalted butter or vegetable oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Optional: Chopped Fresh Cilantro or Scallions",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large frying pan, melt 1 tablespoon of butter or heat 1 tablespoon of oil over medium heat.",
+    "2. Place a tortilla in the pan and sprinkle shredded cheese on half of the tortilla.",
+    "3. Fold the tortilla in half to enclose the cheese.",
+    "4. Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "5. Flip the quesadilla and cook for an additional 2-3 minutes or until the other side is also crispy.",
+    "6. Repeat with the remaining tortillas and cheese.",
+    "7. Cut the quesadillas into wedges and serve hot with your favorite toppings.",
+    "8. Optional: Garnish with chopped fresh cilantro or scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "venezuelan",
+    "cheese",
+    "quesadilla",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kitchen-style-venezuelan-cheese-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:27:08.773Z"
+}
