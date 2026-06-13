@@ -27,15 +27,15 @@
   },
   {
     "slug": "kabatoast-bliss",
-    "title": "KabaToast Bliss",
+    "title": "Kabatoast Bliss Bites",
     "tags": [
-      "kaba-toast",
+      "kabatoast",
       "bliss",
-      "middle-eastern",
-      "rich-silky"
+      "snack",
+      "dessert"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 25,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -13717,15 +13717,14 @@
   },
   {
     "slug": "kissed-with-yeast-irish-sausage-lasagna",
-    "title": "Irish Sausage Lasagna",
+    "title": "Classic Irish Lasagna",
     "tags": [
-      "irish",
-      "italian",
+      "irish-cuisine",
       "lasagna",
       "sausage",
-      "comfort-food"
+      "cheese"
     ],
-    "cuisine": "Irish-Italian",
+    "cuisine": "Irish",
     "totalTimeMin": 60,
     "shard": "k"
   },
@@ -14181,16 +14180,16 @@
   },
   {
     "slug": "kitchen-style-venezuelan-cheese-quesadilla",
-    "title": "Venezuelan Cheese Quesadilla",
+    "title": "Venezuelan Cheese Quesadillas",
     "tags": [
-      "comfort-food",
-      "latin-american",
-      "mexican-influence",
-      "quick-snack",
-      "vegetarian-friendly"
+      "venezuelan",
+      "cheese",
+      "quesadilla",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 18,
     "shard": "k"
   },
   {
