@@ -7696,21 +7696,15 @@
   },
   {
     "slug": "kissed-jamaican-amaretti-fried",
-    "title": "Kissed Jamaican Amaretti Fritters",
+    "title": "Jamaican Amaretti Kissed Fried Delight",
     "tags": [
-      "air-fry",
-      "amaretti",
-      "easy-recipe",
-      "fodmap-friendly",
-      "fried",
-      "fritters",
-      "high-protein",
       "jamaican",
-      "one-pan",
-      "weeknight"
+      "amaretti",
+      "fried",
+      "dessert"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
