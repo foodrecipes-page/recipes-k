@@ -2835,19 +2835,15 @@
   },
   {
     "slug": "kissed-algerian-chicken-tagine",
-    "title": "Kissed Algerian Chicken Tagine",
+    "title": "Classic Algerian Chicken Tagine",
     "tags": [
-      "keto-friendly",
-      "low-carb",
-      "low-sugar",
-      "mediterranean",
-      "one-pot",
-      "quick",
-      "spicy",
-      "tagine"
+      "chicken",
+      "tagine",
+      "algerian",
+      "north african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
