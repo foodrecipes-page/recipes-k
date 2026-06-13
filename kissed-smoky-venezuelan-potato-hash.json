@@ -1,0 +1,58 @@
+{
+  "slug": "kissed-smoky-venezuelan-potato-hash",
+  "title": "Smoky Hash Browns",
+  "description": "A crispy, smoky take on the classic hash brown dish.",
+  "cuisine": "latin american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled, grated"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Grate potatoes and place in a colander. Squeeze out excess moisture.",
+    "In a bowl, mix together grated potatoes, smoked paprika, and olive oil.",
+    "Transfer potato mixture to a lined baking sheet and shape into a flat layer.",
+    "Bake for 20 minutes or until crispy and golden brown.",
+    "Flip hash browns and bake for an additional 10 minutes.",
+    "Remove from oven, let cool for a few minutes, and serve"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "vegetarian",
+    "hash-browns",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-venezuelan-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:10:35.607Z"
+}
