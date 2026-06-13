@@ -2300,17 +2300,14 @@
   },
   {
     "slug": "kicky-crunchy-korean-danmuji-salad",
-    "title": "Kicky Crunchy Korean Danmuji Salad",
+    "title": "Korean-Style Danmuji Salad",
     "tags": [
-      "gluten-free",
-      "healthy-snack",
-      "korean-food",
-      "quick-snack",
-      "vegan",
+      "korean",
+      "salad",
       "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
