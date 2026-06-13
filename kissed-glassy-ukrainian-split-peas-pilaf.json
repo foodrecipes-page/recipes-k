@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-glassy-ukrainian-split-peas-pilaf",
+  "title": "Ukrainian Pea Pilaf with Split Peas",
+  "description": "A hearty Ukrainian-inspired pilaf dish packed with split peas and a touch of sweetness.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Split Peas",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "Glassy Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Sausage",
+      "amount": "1 link",
+      "notes": "optional"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the Kissed Olive Oil in a large saucepan over medium heat.",
+    "Add the chopped Onion and sauté until translucent.",
+    "Add the minced Garlic and cook for an additional minute.",
+    "Add the Split Peas, Glassy Rice, and Ukrainian Sausage (if using).",
+    "Stir well to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes or until the liquid is absorbed.",
+    "Season with Salt and Black Pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pilaf",
+    "peas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-glassy-ukrainian-split-peas-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:25:23.206Z"
+}
