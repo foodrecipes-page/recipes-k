@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-tender-spanish-turnip-empanadas",
+  "title": "Spanish Turnip Empanadas",
+  "description": "A delicious twist on traditional empanadas, filled with tender turnip and Spanish flavors. These empanadas are perfect as a snack or side dish.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turnip",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Spanish Empanada Dough",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "In a pan over medium heat, heat the olive oil and sauté the minced garlic until fragrant.",
+    "Add the diced turnip to the pan and cook until tender, about 5 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Place a tablespoon of the turnip mixture onto one half of each empanada circle.",
+    "Fold the other half of the dough over the filling and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little water and bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "turnip",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-spanish-turnip-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T03:58:10.109Z"
+}
