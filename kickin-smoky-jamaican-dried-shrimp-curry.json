@@ -1,0 +1,96 @@
+{
+  "slug": "kickin-smoky-jamaican-dried-shrimp-curry",
+  "title": "Shrimp Curry with Jamaican Flair",
+  "description": "A spicy and flavorful curry dish featuring succulent shrimp, inspired by the bold flavors of Jamaica. Serve over rice or with naan bread for a satisfying meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Large shrimp",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Kickin hot sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the onion and garlic and sauté until the onion is translucent, about 3-4 minutes.",
+    "Add the shrimp and cook until pink and fully cooked, about 2-3 minutes per side.",
+    "In a small bowl, mix together the curry powder, smoky paprika, and dried thyme.",
+    "Sprinkle the spice mixture over the shrimp and stir to combine.",
+    "Add the hot sauce and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve the shrimp over rice or with naan bread and garnish with chopped fresh herbs, if desired.",
+    "Adjust the seasoning as needed and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "curry",
+    "shrimp",
+    "seafood",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kickin-smoky-jamaican-dried-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T21:35:52.885Z"
+}
