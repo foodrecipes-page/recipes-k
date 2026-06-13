@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-yeasty-croatian-lamb-stew",
+  "title": "Croatian Lamb Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, featuring tender lamb and a blend of aromatic spices.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "kissed oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning lamb"
+    },
+    {
+      "name": "yeasty bread",
+      "amount": "1 cup",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "croatian stew vegetables",
+      "amount": "1 cup",
+      "notes": "such as onions, carrots, and potatoes"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "for added depth of flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat kissed oil in a large Dutch oven over medium-high heat.",
+    "Brown lamb cubes in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove browned lamb from pot and set aside.",
+    "Add croatian stew vegetables to pot and cook until they begin to soften, about 5 minutes.",
+    "Add tomato paste and cook for 1 minute, stirring constantly.",
+    "Add lamb broth, salt, and black pepper to pot, stirring to combine.",
+    "Return browned lamb to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until lamb is tender.",
+    "Stir in yeasty bread cubes and continue to simmer for an additional 15 minutes.",
+    "Serve hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-croatian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:23:32.707Z"
+}
