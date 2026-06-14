@@ -3294,16 +3294,14 @@
   },
   {
     "slug": "kissed-bitter-filipino-pork-bake",
-    "title": "Kissed Bitter Filipino Pork Bake",
+    "title": "Filipino-Style Pork Bites with a Kiss of Bitter",
     "tags": [
-      "bitter-flavors",
-      "filipino-food",
-      "grilled-meats",
-      "halal-recipes",
-      "pork-recipes"
+      "filipino",
+      "pork",
+      "bitter-melon"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
@@ -9016,18 +9014,14 @@
   },
   {
     "slug": "kissed-pan-american-veal-casserole",
-    "title": "Kissed Pan American Veal Casserole",
+    "title": "Veal and American Casserole",
     "tags": [
-      "comfort-food",
-      "dinner-party",
-      "easy-gourmet",
-      "indian-inspired",
-      "kid-friendly",
-      "one-dish-meal",
-      "weeknight-meal"
+      "casserole",
+      "american",
+      "comfort-food"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -11559,17 +11553,15 @@
   },
   {
     "slug": "kissed-sweet-peruvian-rice-onigiri",
-    "title": "Kissed Sweet Peruvian Rice Onigiri",
+    "title": "Sweet Peruvian Rice Bowl",
     "tags": [
-      "ayurvedic-friendly",
-      "banana-leaf-recipes",
-      "gluten-free",
-      "peruvian-cuisine",
-      "sweet-rice-dishes",
-      "vegetarian-snacks"
+      "peruvian",
+      "rice-bowl",
+      "vegetarian",
+      "easy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
