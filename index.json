@@ -5062,18 +5062,15 @@
   },
   {
     "slug": "kissed-crispy-canadian-cod-skewers",
-    "title": "Kissed Crispy Canadian Cod Skewers",
+    "title": "Pan-Seared Canadian Cod with Skewers",
     "tags": [
-      "canadian-cuisine",
-      "charred",
-      "crispy",
-      "grilled",
-      "pescatarian",
+      "fish",
       "seafood",
-      "sous-vide"
+      "canadian",
+      "easy"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 24,
     "shard": "k"
   },
   {
@@ -12520,15 +12517,14 @@
   },
   {
     "slug": "kissed-vietnamese-cheese-casserole",
-    "title": "kissed vietnamese cheese casserole",
+    "title": "Vietnamese Casserole",
     "tags": [
-      "date-night",
-      "kosher-friendly",
-      "one-pan",
-      "rich-and-creamy"
+      "vietnamese-food",
+      "comfort-food",
+      "cheesy-casserole"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 60,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -13654,18 +13650,15 @@
   },
   {
     "slug": "kissed-with-umami-filipino-comte-cheese-stew",
-    "title": "kissed with umami filipino comte cheese stew",
+    "title": "Filipino Stew with Comte Cheese",
     "tags": [
-      "comfort-food",
-      "dinner-party",
-      "gluten-free-options",
-      "one-pan",
-      "umami-rich",
-      "vegetarian-optional",
-      "weeknight"
+      "filipino",
+      "stew",
+      "beef",
+      "cheese"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 60,
+    "cuisine": "Filipino",
+    "totalTimeMin": 105,
     "shard": "k"
   },
   {
