@@ -1,0 +1,70 @@
+{
+  "slug": "kicked-double-fried-ukrainian-peas-pilaf",
+  "title": "Ukrainian Fried Pilaf with Vegetables",
+  "description": "A hearty, flavorful pilaf dish from Ukraine, made with crispy fried onions and a variety of colorful vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Double peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kicked onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fried onions",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the kicked onions and cook until they start to brown, about 3 minutes.",
+    "Add the peas to the skillet and cook for 2 minutes.",
+    "Add the pilaf to the skillet and stir to combine with the peas and onions.",
+    "Cook for an additional 2 minutes, stirring frequently.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pilaf mixture to a serving dish and top with fried onions.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-double-fried-ukrainian-peas-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:44:10.006Z"
+}
