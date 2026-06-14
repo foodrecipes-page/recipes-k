@@ -1,0 +1,80 @@
+{
+  "slug": "knockout-silky-irish-oat-pudding",
+  "title": "Irish Oat Pudding",
+  "description": "A delicious and comforting dessert made with oatmeal, Irish cream, and topped with a silky pudding.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "oatmeal",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Irish cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "silk",
+      "amount": "1/4 cup",
+      "notes": "or substitute with a non-dairy milk alternative"
+    },
+    {
+      "name": "knockout",
+      "amount": "1/2 teaspoon",
+      "notes": "or substitute with a strong brewed coffee"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, bring 2 cups of water to a boil.",
+    "Add 1 cup of oatmeal and reduce heat to medium.",
+    "Cook, stirring occasionally, until the oatmeal has absorbed most of the water and has a creamy consistency.",
+    "In a separate bowl, whisk together 1/2 cup of Irish cream, 1/4 cup of silk, and 1/2 teaspoon of knockout.",
+    "Add 1 tablespoon of sugar, 2 tablespoons of butter, and 1/4 teaspoon of vanilla extract to the bowl and whisk until well combined.",
+    "Pour the cream mixture over the cooked oatmeal and stir until well combined.",
+    "Transfer the mixture to a serving dish and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled and enjoy!",
+    "If desired, top with additional silk or whipped cream."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oatmeal",
+    "pudding",
+    "irish-cream",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-silky-irish-oat-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:41:01.667Z"
+}
