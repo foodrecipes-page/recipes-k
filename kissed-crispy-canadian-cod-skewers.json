@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-crispy-canadian-cod-skewers",
+  "title": "Pan-Seared Canadian Cod with Skewers",
+  "description": "A simple and flavorful dish featuring pan-seared Canadian cod served with crispy skewers.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian cod fillets",
+      "amount": "4",
+      "notes": "Fresh, 6 oz each"
+    },
+    {
+      "name": "Vegetable skewers",
+      "amount": "1 pack",
+      "notes": "Contains kissed bell peppers, crispy onions, and other vegetables"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the cod fillets with salt and pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the cod for 2-3 minutes per side, then transfer to the oven.",
+    "Bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, brush the vegetable skewers with olive oil and season with salt and pepper.",
+    "Grill or broil the skewers until crispy and tender.",
+    "Serve the cod with the skewers and a squeeze of lemon."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 14,
+  "totalTimeMin": 24,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "seafood",
+    "canadian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-canadian-cod-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:38:10.712Z"
+}
