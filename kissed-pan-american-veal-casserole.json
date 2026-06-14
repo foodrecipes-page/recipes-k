@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-pan-american-veal-casserole",
+  "title": "Veal and American Casserole",
+  "description": "A classic casserole dish featuring tender veal and creamy American cheese. This comforting meal is perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Veal",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "American cheese",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "1 cup Kissed casserole",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1 pan",
+      "amount": "1 pan",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the veal with salt and pepper.",
+    "In a large pan, sauté the veal until browned.",
+    "In a separate bowl, combine the shredded American cheese and Kissed casserole.",
+    "Add the cooked veal to the cheese mixture and stir until combined.",
+    "Transfer the mixture to a casserole dish.",
+    "Bake for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "american",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-pan-american-veal-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:20:15.036Z"
+}
