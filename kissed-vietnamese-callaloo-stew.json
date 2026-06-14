@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-vietnamese-callaloo-stew",
+  "title": "Callaloo Stew with a Kiss of Spices",
+  "description": "A hearty Caribbean stew made with callaloo, vietnamese seasonings, and a hint of kissed spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Callaloo",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vietnamese Seasonings",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Kissed Spices (Cayenne Pepper, Thyme)",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, sauté until softened.",
+    "Add callaloo, Vietnamese seasonings, and kissed spices. Cook for 5 minutes.",
+    "Add stew, tomato, and salt. Stir well.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "stew",
+    "callaloo",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-vietnamese-callaloo-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T01:09:46.751Z"
+}
