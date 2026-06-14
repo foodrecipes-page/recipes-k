@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-sweet-peruvian-rice-onigiri",
+  "title": "Sweet Peruvian Rice Bowl",
+  "description": "A flavorful and nutritious bowl filled with sautéed Peruvian sweet potatoes, rice, and onigiri.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Peruvian sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onigiri",
+      "amount": "4",
+      "notes": "Japanese rice balls"
+    },
+    {
+      "name": "Kissed sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat kissed sesame oil in a large skillet over medium-high heat.",
+    "2. Sauté the diced Peruvian sweet potatoes until tender and lightly browned, about 5 minutes.",
+    "3. Add the uncooked rice to the skillet and stir to combine with the sweet potatoes.",
+    "4. Cook for an additional 2-3 minutes, until the rice is lightly toasted.",
+    "5. Add 2 cups of water to the skillet and bring to a boil.",
+    "6. Reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked and fluffy.",
+    "7. While the rice is cooking, toast the onigiri in a toaster or under the broiler until lightly browned.",
+    "8. To assemble the bowls, divide the cooked rice and sweet potatoes between four bowls.",
+    "9. Top each bowl with a toasted onigiri and a sprinkle of soy sauce.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "peruvian",
+    "rice-bowl",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 5,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-sweet-peruvian-rice-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:32:59.894Z"
+}
