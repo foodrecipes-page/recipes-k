@@ -1,0 +1,77 @@
+{
+  "slug": "keto-turnip-fold",
+  "title": "Turnip and Fold Fritters",
+  "description": "A delicious keto fritter recipe made with turnip and fold, perfect for a low-carb snack or side dish.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Turnip",
+      "amount": "1 large",
+      "notes": "shredded"
+    },
+    {
+      "name": "Fold",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "Shredded Cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the shredded turnip, melted fold, eggs, shredded cheese, almond flour, salt, and black pepper.",
+    "Mix well until a dough forms.",
+    "Using your hands, shape the dough into small patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-turnip-fold",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:41:15.803Z"
+}
