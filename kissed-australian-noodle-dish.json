@@ -1,0 +1,56 @@
+{
+  "slug": "kissed-australian-noodle-dish",
+  "title": "Australian Noodle Kisseed Delight",
+  "description": "A tasty and easy-to-make dish featuring noodles and kissed ingredients. A great option for a quick lunch or dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kisseed",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook noodles according to package instructions.",
+    "Heat oil in a pan over medium heat.",
+    "Add kisseed and cook until softened.",
+    "Combine cooked noodles and kisseed mixture.",
+    "Serve hot.",
+    "Optional: Add a dash of your favorite seasoning for extra flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "noodle",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-australian-noodle-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:52:21.484Z"
+}
