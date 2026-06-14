@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-bitter-filipino-pork-bake",
+  "title": "Filipino-Style Pork Bites with a Kiss of Bitter",
+  "description": "Crispy pork bites infused with the flavors of the Philippines and a hint of bitterness. Perfect for a quick snack or appetizer.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into small cubes"
+    },
+    {
+      "name": "Filipino-style breading",
+      "amount": "1 cup",
+      "notes": "See notes for homemade breading recipe"
+    },
+    {
+      "name": "Bitter melon",
+      "amount": "1/2 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a bowl, mix together the pork cubes, Filipino-style breading, bitter melon, bread crumbs, egg, salt, and pepper.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Using a spoon, drop small balls of the pork mixture into the oil and flatten slightly.",
+    "Cook for 2-3 minutes on each side, or until the bottoms are golden brown.",
+    "Transfer the pork bites to a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until cooked through.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "bitter-melon"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-bitter-filipino-pork-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:57:22.236Z"
+}
