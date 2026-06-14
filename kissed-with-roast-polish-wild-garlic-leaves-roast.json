@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-with-roast-polish-wild-garlic-leaves-roast",
+  "title": "Roasted Garlic and Wild Mushroom Polish",
+  "description": "A hearty and savory polish dish featuring roasted garlic and wild mushrooms. Perfect for a cold evening.",
+  "cuisine": "polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 heads",
+      "notes": "peeled"
+    },
+    {
+      "name": "wild",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "leaves",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh"
+    },
+    {
+      "name": "roast",
+      "amount": "2 cups",
+      "notes": "mixed mushrooms"
+    },
+    {
+      "name": "with",
+      "amount": "1/2 cup",
+      "notes": "dry white wine"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel the garlic and slice the wild mushrooms.",
+    "In a baking dish, combine the sliced wild mushrooms, roasted garlic, and chopped fresh leaves.",
+    "Drizzle with dry white wine and toss to coat.",
+    "Roast in the preheated oven for 20-25 minutes, or until the mushrooms are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Note: Cooking time may vary depending on the size of the mushrooms and garlic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "garlic",
+    "mushroom",
+    "polish",
+    "vegetarian",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-roast-polish-wild-garlic-leaves-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:58:42.007Z"
+}
