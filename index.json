@@ -1,16 +1,14 @@
 [
   {
     "slug": "kabanos-delight-sausage-wrap",
-    "title": "Kabanos Delight Sausage Wrap",
+    "title": "Sausage Wrap Delight",
     "tags": [
-      "thai",
       "sausage",
       "wrap",
-      "kabanos",
-      "low-fat"
+      "delight"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 15,
+    "cuisine": "american",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -1687,17 +1685,15 @@
   },
   {
     "slug": "kicked-spicy-canadian-penne-pasta",
-    "title": "Kicked Spicy Canadian Penne Pasta",
+    "title": "Spicy Penne Pasta",
     "tags": [
-      "agave",
-      "beef",
-      "canadian",
       "pasta",
-      "post-workout",
-      "spicy"
+      "italian",
+      "spicy",
+      "sausage"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -3254,17 +3250,15 @@
   },
   {
     "slug": "kissed-australian-noodle-dish",
-    "title": "Kissed Australian Noodle Dish",
+    "title": "Australian Noodle Kisseed Delight",
     "tags": [
-      "australian-cuisine",
-      "easy-dinner",
-      "healthy-meal",
-      "kid-friendly",
-      "ovo-vegetarian",
-      "quick-meal"
+      "australian",
+      "noodle",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -13539,17 +13533,15 @@
   },
   {
     "slug": "kissed-with-spicy-thai-chicken-moo-ping",
-    "title": "Kissed with Spicy Thai Chicken Moo Ping",
+    "title": "Thai Chicken Moo Ping",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "spicy",
-      "thaistreetfood",
-      "weeknight"
+      "thai",
+      "chicken",
+      "moo-ping",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 32,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -14948,14 +14940,12 @@
   },
   {
     "slug": "knockout-silky-irish-oat-pudding",
-    "title": "Knockout Silky Irish Oat Pudding",
+    "title": "Irish Oat Pudding",
     "tags": [
-      "comfort-food",
-      "irish-dish",
-      "lacto-vegetarian",
-      "oat-pudding",
-      "sick-day",
-      "vanilla"
+      "oatmeal",
+      "pudding",
+      "irish-cream",
+      "comfort-food"
     ],
     "cuisine": "Irish",
     "totalTimeMin": 15,
