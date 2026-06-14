@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-buttery-algerian-chicken-tagine",
+  "title": "Algerian Chicken Tagine",
+  "description": "A rich and flavorful North African stew originating from Algeria, made with chicken, spices and dried fruits.",
+  "cuisine": "North African",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 teaspoons ras el hanout spice blend",
+      "notes": "available at Middle Eastern or North African markets"
+    },
+    {
+      "name": "buttery",
+      "amount": "2 tablespoons unsalted butter",
+      "notes": "softened"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "chicken broth or water"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "dried dates",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large Dutch oven over medium-high heat. Add the chicken and cook until browned on all sides, about 5-7 minutes. Transfer the chicken to a plate and set aside.",
+    "Add the remaining 1 tablespoon of butter to the pot. Add the onion and cook until softened, about 5 minutes. Add the garlic and cook for 1 minute more.",
+    "Add the ras el hanout, salt, and pepper to the pot. Cook for 1 minute, stirring constantly.",
+    "Add the chicken broth or water to the pot, scraping up any browned bits from the bottom. Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the browned chicken back to the pot and simmer for 10-15 minutes, or until the chicken is cooked through.",
+    "Stir in the honey, if using. Add the chopped dates and sliced almonds to the pot and simmer for 5 minutes more.",
+    "Serve the tagine hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "chicken",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-buttery-algerian-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:49:29.132Z"
+}
