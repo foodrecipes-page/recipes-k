@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-with-spicy-thai-chicken-moo-ping",
+  "title": "Thai Chicken Moo Ping",
+  "description": "A spicy Thai dish made with marinated chicken and served with a sweet and sour sauce.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "ping sauce (Thai sweet chili sauce)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "spicy thai chilies",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "moo ping (Thai-style pork)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "with fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "kissed brown sugar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Marinate the chicken breast in a mixture of fish sauce, brown sugar, and chilies for at least 30 minutes.",
+    "Heat oil in a pan over medium-high heat and cook the marinated chicken until browned and cooked through.",
+    "Add moo ping to the pan and stir-fry until heated through.",
+    "Add the sweet chili sauce and stir-fry for 1-2 minutes.",
+    "Serve the chicken and moo ping hot with a sprinkle of cilantro and a side of steamed vegetables.",
+    "Cook the chicken to a safe internal temperature of 165°F (74°C)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "moo-ping",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-spicy-thai-chicken-moo-ping",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:24:56.046Z"
+}
