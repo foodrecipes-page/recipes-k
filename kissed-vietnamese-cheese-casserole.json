@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-vietnamese-cheese-casserole",
+  "title": "Vietnamese Casserole",
+  "description": "A delicious fusion of Vietnamese flavors and a comforting casserole. Enjoy!",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kissed",
+      "amount": "1 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "casserole",
+      "amount": "1 cup",
+      "notes": "canned"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, sauté the kissed and vietnamese mixture over medium heat until fragrant.",
+    "In a separate bowl, mix the cheese and casserole.",
+    "Combine the cooked kissed and vietnamese mixture with the cheese and casserole mixture.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese-food",
+    "comfort-food",
+    "cheesy-casserole"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-vietnamese-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:33:57.748Z"
+}
