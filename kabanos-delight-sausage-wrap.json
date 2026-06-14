@@ -1,0 +1,63 @@
+{
+  "slug": "kabanos-delight-sausage-wrap",
+  "title": "Sausage Wrap Delight",
+  "description": "A simple and delicious wrap filled with sausage, served with a side of delight.",
+  "cuisine": "american",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sausage",
+      "amount": "1 pound",
+      "notes": "any type of sausage"
+    },
+    {
+      "name": "kabanos",
+      "amount": "1 package",
+      "notes": " polish sausage"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6 wraps",
+      "notes": "flour tortilla or any other type of wrap"
+    },
+    {
+      "name": "delight",
+      "amount": "1 container",
+      "notes": "your favorite type of delight"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Slice the sausage into thin rounds.",
+    "Grill the sausage for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, slice the kabanos into thin rounds.",
+    "Grill the kabanos for 2-3 minutes per side, or until lightly toasted.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by placing a few slices of sausage and kabanos onto each wrap.",
+    "Top with your favorite delight.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sausage",
+    "wrap",
+    "delight"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kabanos-delight-sausage-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:14:57.576Z"
+}
