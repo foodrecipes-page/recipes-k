@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-fatty-ukrainian-pork-dumplings",
+  "title": "Traditional Ukrainian Pork Dumplings",
+  "description": "A hearty and flavorful dish that combines the best of Ukrainian cuisine with the comfort of pork dumplings.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "Ground pork is ideal for this recipe."
+    },
+    {
+      "name": "fatty",
+      "amount": "1/4 cup",
+      "notes": "Unsalted butter is the fatty ingredient of choice."
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "Chopped fresh dill adds a kissed touch to the dish."
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought dumpling wrappers work well."
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Season with salt to bring out the flavors."
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Add a pinch of black pepper for extra depth."
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped onion adds a sweet and savory flavor."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced garlic is essential for this recipe."
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": "A beaten egg helps bind the filling together."
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": "Use water to help form the dumpling wrappers."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, butter, dill, salt, and black pepper.",
+    "Add the chopped onion and minced garlic to the bowl and mix until well combined.",
+    "Beat in the egg and mix until the filling is smooth and even.",
+    "Bring a large pot of salted water to a boil.",
+    "Carefully place the dumplings into the boiling water and cook for 10-12 minutes, or until they float to the surface.",
+    "Using a slotted spoon, remove the dumplings from the water and drain off any excess liquid.",
+    "Serve the Ukrainian pork dumplings hot with your favorite toppings, such as sour cream or chopped fresh herbs.",
+    "Optional: Pan-fry the dumplings in a little oil until golden brown for an extra crispy texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "dumplings",
+    "pork",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fatty-ukrainian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:41:33.487Z"
+}
