@@ -1,72 +1,63 @@
 {
   "slug": "knotted-dense-russian-egg-dumplings",
-  "title": "Russian Pan-Fried Dumplings",
-  "description": "A classic Eastern European dish, Russian pan-fried dumplings are a hearty and comforting meal. This recipe uses a simple dough to wrap around a delicious filling.",
-  "cuisine": "Eastern European",
+  "title": "Russian Egg Dumplings",
+  "description": "A traditional Russian recipe of egg dumplings made with a simple dough and boiled to perfection.",
+  "cuisine": "Russian",
   "diet": [
-    "vegetarian"
+    "dairy",
+    "gluten"
   ],
-  "meal": "dinner",
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "Dumplings",
-      "amount": "12-15 pieces",
-      "notes": "homemade or store-bought"
+      "name": "All-purpose flour",
+      "amount": "1 cup"
     },
     {
-      "name": "Russian egg",
-      "amount": "1 egg",
-      "notes": "beaten"
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "Beaten"
     },
     {
-      "name": "Dense bread",
-      "amount": "1/2 cup",
-      "notes": "crumbs"
+      "name": "Rusian salt",
+      "amount": "1/2 tsp"
     },
     {
-      "name": "Knotted butter",
+      "name": "Dense butter",
       "amount": "2 tbsp",
-      "notes": "softened"
-    },
-    {
-      "name": "Salt",
-      "amount": "1/2 tsp",
-      "notes": ""
-    },
-    {
-      "name": "Black pepper",
-      "amount": "1/4 tsp",
-      "notes": ""
+      "notes": "Melted"
     }
   ],
   "instructions": [
-    "1. In a large pan, melt the butter over medium heat.",
-    "2. Add the dumplings to the pan and cook for 2-3 minutes on each side, until golden brown.",
-    "3. In a small bowl, mix together the beaten egg and bread crumbs.",
-    "4. Add the egg mixture to the pan and stir to combine with the dumplings.",
-    "5. Cook for an additional 2-3 minutes, until the egg is set.",
-    "6. Season with salt and pepper to taste.",
-    "7. Serve hot and enjoy!"
+    "1. In a large mixing bowl, combine flour and salt.",
+    "2. Add the beaten eggs and mix well until a dough forms.",
+    "3. Knead the dough for about 5 minutes until smooth.",
+    "4. Roll out the dough to a thickness of about 1/4 inch.",
+    "5. Cut into small squares or circles.",
+    "6. Bring a large pot of salted water to a boil.",
+    "7. Carefully add the dumplings to the boiling water.",
+    "8. Cook for 5-7 minutes or until they float to the surface.",
+    "9. Remove with a slotted spoon and serve."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
     "russian",
     "dumplings",
-    "european",
-    "breakfast"
+    "egg",
+    "snack"
   ],
   "nutrition": {
-    "calories": 320,
-    "protein": 12,
-    "carbs": 30,
-    "fat": 18
+    "calories": 180,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 8
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/knotted-dense-russian-egg-dumplings",
   "providerUsed": "groq",
-  "createdAt": "2026-06-08T19:08:50.338Z"
+  "createdAt": "2026-06-10T22:03:32.743Z"
 }
