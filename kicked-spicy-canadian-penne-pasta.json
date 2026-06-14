@@ -1,0 +1,75 @@
+{
+  "slug": "kicked-spicy-canadian-penne-pasta",
+  "title": "Spicy Penne Pasta",
+  "description": "A quick and spicy penne pasta dish perfect for a weeknight dinner. This recipe combines the flavors of Italy with a kick of heat.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Kicked sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Spicy Canadian sausage",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the penne pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the spicy Canadian sausage and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the kicked sauce to the skillet and stir to combine.",
+    "Simmer the sauce for a few minutes until heated through.",
+    "Drain the cooked penne pasta and add it to the skillet with the sauce.",
+    "Toss the pasta in the sauce until well coated.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "italian",
+    "spicy",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-canadian-penne-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T23:27:10.859Z"
+}
