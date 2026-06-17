@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--vegan",
+  "title": "Golden Mushroom Pilaf",
+  "description": "A flavorful and comforting vegan pilaf dish featuring golden sautéed mushrooms and kissed pilaf.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden Mushrooms",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Pilaf",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add minced garlic powder and sauté for 1 minute.",
+    "Add the golden mushrooms and sauté until tender, about 5 minutes.",
+    "Add kissed pilaf, Dutch water, salt, and black pepper. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "pilaf",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:32:24.172Z"
+}
