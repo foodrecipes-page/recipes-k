@@ -6893,16 +6893,15 @@
   },
   {
     "slug": "kissed-golden-dutch-mushroom-pilaf",
-    "title": "Kissed Golden Dutch Mushroom Pilaf",
+    "title": "Kissed Golden Mushroom Pilaf",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "mushroom-recipes",
-      "one-pot",
-      "ovo-vegetarian"
+      "mushroom",
+      "pilaf",
+      "vegetarian",
+      "dinner"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "European",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16291,6 +16290,159 @@
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--gluten-free",
+    "title": "Golden Mushroom Pilaf",
+    "tags": [
+      "gluten-free",
+      "mediterranean",
+      "lunch"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--chinese",
+    "title": "Golden Dutch Mushroom Pilaf",
+    "tags": [
+      "chinese",
+      "pilaf",
+      "mushrooms"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--italian",
+    "title": "Italian Mushroom Pilaf",
+    "tags": [
+      "italian",
+      "mushroom",
+      "pilaf",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--thai",
+    "title": "Thai Mushroom Pilaf",
+    "tags": [
+      "thaifood",
+      "mushroom",
+      "pilaf",
+      "lunch"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--japanese",
+    "title": "Japanese Mushroom Pilaf",
+    "tags": [
+      "japanese",
+      "pilaf",
+      "mushroom",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--vegan",
+    "title": "Golden Mushroom Pilaf",
+    "tags": [
+      "vegan",
+      "pilaf",
+      "mushroom"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--indian",
+    "title": "Golden Mushroom Pilaf",
+    "tags": [
+      "pilaf",
+      "indian",
+      "rice",
+      "mushroom"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--keto",
+    "title": "Keto Mushroom Pilaf",
+    "tags": [
+      "keto",
+      "low-carb",
+      "mushroom"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--german",
+    "title": "Savory German Pilaf",
+    "tags": [
+      "german",
+      "lunch",
+      "mushroom",
+      "pilaf"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--french",
+    "title": "Coq au Pilaf",
+    "tags": [
+      "chicken",
+      "mushroom",
+      "pilaf",
+      "french",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 28,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--mexican",
+    "title": "Mexican Mushroom and Rice Pilaf",
+    "tags": [
+      "mexican",
+      "mushroom",
+      "pilaf",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-dutch-mushroom-pilaf--vegetarian",
+    "title": "Golden Mushroom Pilaf",
+    "tags": [
+      " vegetarian",
+      "mushroom",
+      "pilaf",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "k"
   }
 ]
