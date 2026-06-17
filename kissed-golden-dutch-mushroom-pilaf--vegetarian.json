@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--vegetarian",
+  "title": "Golden Mushroom Pilaf",
+  "description": "A flavorful vegetarian pilaf dish featuring sautéed golden mushrooms and kissed pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kissed Pilaf Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Golden Mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Dutch Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add golden mushrooms and sauté until they release their liquid and start to brown.",
+    "Add kissed pilaf rice to the skillet and stir to coat with oil and mix with mushrooms.",
+    "Pour in Dutch vegetable broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until liquid is absorbed.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped fresh parsley if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    " vegetarian",
+    "mushroom",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T14:46:05.168Z"
+}
