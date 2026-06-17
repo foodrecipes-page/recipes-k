@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--indian",
+  "title": "Golden Mushroom Pilaf",
+  "description": "A flavorful and aromatic Indian-inspired pilaf dish made with golden rice, mushrooms, and spices. This recipe is perfect for a quick and easy weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Golden Dutch rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "2 tablespoons",
+      "notes": "dried"
+    },
+    {
+      "name": "Kissed oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat kissed oil in a large saucepan over medium-high heat.",
+    "Add sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add dried mushrooms, golden Dutch rice, salt, and black pepper. Stir to combine.",
+    "Cook for 1-2 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15-20 minutes, or until the water has been absorbed and the rice is tender.",
+    "Fluff the pilaf with a fork to separate the grains.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pilaf",
+    "indian",
+    "rice",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:32:27.700Z"
+}
