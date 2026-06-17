@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--thai",
+  "title": "Thai Mushroom Pilaf",
+  "description": "A flavorful and aromatic Thai-inspired pilaf dish made with mushrooms and served with a side of golden kissed dutch spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Golden kissed dutch pilaf rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kissed golden olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Dutch spices",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat the kissed golden olive oil in a large skillet over medium-high heat.",
+    "2. Add the mushroom and cook until browned, about 3-4 minutes.",
+    "3. Add the golden kissed dutch pilaf rice and stir-fry for 2-3 minutes.",
+    "4. Add the dutch spices, salt, and pepper, and stir-fry for another minute.",
+    "5. Stir in the lime juice and cook for an additional 2 minutes.",
+    "6. Garnish with chopped fresh cilantro and serve hot.",
+    "7. Serve immediately and enjoy!",
+    "8. You can also add some chopped scallions or toasted nuts for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "mushroom",
+    "pilaf",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:31:34.290Z"
+}
