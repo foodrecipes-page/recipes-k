@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--keto",
+  "title": "Keto Mushroom Pilaf",
+  "description": "A flavorful keto dish made with mushroom, pilaf, and spices.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden Mushrooms",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Dutch Pilaf",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "Kissed Chicken Breast",
+      "amount": "1 breast, cut into 1-inch pieces"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Season the chicken breast with salt and black pepper.",
+    "3. In a large skillet, heat olive oil over medium heat.",
+    "4. Add the chicken to the skillet and cook until browned.",
+    "5. Add the sliced mushrooms to the skillet and cook until tender.",
+    "6. Add the cooked pilaf to the skillet and stir to combine.",
+    "7. Transfer the skillet to the preheated oven and bake for 15-20 minutes.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:34:24.879Z"
+}
