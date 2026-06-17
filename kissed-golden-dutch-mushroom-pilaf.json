@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf",
+  "title": "Kissed Golden Mushroom Pilaf",
+  "description": "A flavorful pilaf dish made with kissed golden mushrooms and dutch pilaf, perfect for a weeknight dinner.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dutch pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kissed golden mushrooms",
+      "amount": "2 cups",
+      "notes": "Use fresh mushrooms and kiss them with butter or olive oil for extra flavor"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the kissed golden mushrooms and cook until they're tender, about 5 minutes.",
+    "Add the garlic powder and dried thyme to the skillet and stir to combine.",
+    "Add the Dutch pilaf to the skillet and stir to combine with the mushroom mixture.",
+    "Season with salt and pepper to taste.",
+    "Cook for an additional 2-3 minutes, until the pilaf is heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushroom",
+    "pilaf",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T12:15:59.396Z"
+}
