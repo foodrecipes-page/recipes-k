@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--french",
+  "title": "Coq au Pilaf",
+  "description": "A classic French dish featuring chicken cooked in a rich pilaf and mushroom sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "golden pilaf",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "dutch butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown, about 3-4 minutes.",
+    "Add the garlic and thyme to the skillet and cook for an additional minute.",
+    "Add the pilaf to the skillet and stir to combine with the mushroom mixture.",
+    "Add the mushroom broth to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the pilaf and mushroom mixture.",
+    "Reduce heat to low and simmer, covered, for 10-12 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 18,
+  "totalTimeMin": 28,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "mushroom",
+    "pilaf",
+    "french",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "43g",
+    "carbs": "25g",
+    "fat": "24g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:36:26.333Z"
+}
