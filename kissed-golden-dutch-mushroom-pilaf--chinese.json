@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--chinese",
+  "title": "Golden Dutch Mushroom Pilaf",
+  "description": "A classic Chinese-inspired dish featuring golden mushrooms and dutch pilaf, kissed with a hint of savory flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch pilaf",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Golden mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kissed vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Mushroom broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of kissed vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced golden mushrooms and cook until they're tender, about 3-4 minutes.",
+    "Add the cooked Dutch pilaf, mushroom broth, soy sauce, grated ginger, salt, and pepper to the skillet.",
+    "Stir-fry everything together for about 2-3 minutes, until the pilaf is heated through.",
+    "Transfer the pilaf mixture to a serving dish and garnish with chopped green onions.",
+    "Serve hot and enjoy!",
+    "Note: You can customize this recipe to your taste by adding other vegetables, such as bell peppers or carrots."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "pilaf",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:29:25.634Z"
+}
