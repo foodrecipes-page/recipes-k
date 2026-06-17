@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--japanese",
+  "title": "Japanese Mushroom Pilaf",
+  "description": "A hearty and flavorful Japanese-inspired pilaf dish featuring sautéed mushrooms and a blend of aromatic spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "any combination of mushrooms works well"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "Japanese-style pilaf or regular pilaf works"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tablespoons",
+      "notes": "dutch oven or large skillet"
+    },
+    {
+      "name": "kissed golden oil",
+      "amount": "2 tablespoons",
+      "notes": "or any neutral oil with a high smoke point"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "green onions",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Heat the kissed golden oil in the dutch over medium-high heat.",
+    "2. Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "3. Add the pilaf and stir to combine with the mushrooms.",
+    "4. Cook for an additional 2-3 minutes, until the pilaf is lightly toasted.",
+    "5. Add the soy sauce (if using) and stir to combine.",
+    "6. Taste and adjust the seasoning as needed with salt and pepper.",
+    "7. Transfer the pilaf to a serving dish and garnish with green onions and sesame seeds.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pilaf",
+    "mushroom",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:31:44.327Z"
+}
