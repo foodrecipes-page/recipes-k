@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-golden-dutch-mushroom-pilaf--mexican",
+  "title": "Mexican Mushroom and Rice Pilaf",
+  "description": "A flavorful and nutritious Mexican-inspired dish featuring sautéed mushrooms and pilaf rice. Serve as a main course or side dish.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tablespoons olive oil"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 teaspoon cumin"
+    },
+    {
+      "name": "golden",
+      "amount": "1 teaspoon paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the cooked pilaf, cumin, and paprika to the skillet. Stir to combine.",
+    "Cook for an additional 2-3 minutes, stirring frequently.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "mushroom",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-dutch-mushroom-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-17T13:38:52.298Z"
+}
