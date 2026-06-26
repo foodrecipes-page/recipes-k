@@ -16444,5 +16444,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 30,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-argentinian-beef-stew--vegetarian",
+    "title": "Argentinian Velvety Stew",
+    "tags": [
+      "argentinian",
+      "stew",
+      "vegetarian",
+      "dinner"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
