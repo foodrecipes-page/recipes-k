@@ -16457,5 +16457,17 @@
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-argentinian-beef-stew--italian",
+    "title": "Argentinian Beef Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "beef"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "k"
   }
 ]
