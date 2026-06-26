@@ -1,0 +1,102 @@
+{
+  "slug": "kissed-velvety-argentinian-beef-stew--italian",
+  "title": "Argentinian Beef Stew",
+  "description": "A hearty Italian-inspired stew made with tender Argentinian beef, simmered in a rich sauce.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian beef",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "velvety tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kissed garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef and cook until browned on all sides, about 5 minutes.",
+    "Add the tomato paste and cook, stirring constantly, for 1 minute.",
+    "Add the beef broth, red wine, salt, and black pepper.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the meat is tender.",
+    "Add the chopped carrots and potatoes to the pot and continue to bake for another 30 minutes.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-argentinian-beef-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T13:25:00.772Z"
+}
