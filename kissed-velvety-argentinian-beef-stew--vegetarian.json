@@ -1,0 +1,93 @@
+{
+  "slug": "kissed-velvety-argentinian-beef-stew--vegetarian",
+  "title": "Argentinian Velvety Stew",
+  "description": "A hearty and comforting stew made with Argentinian beef, \n   but adapted for a vegetarian diet, this recipe replaces beef with \n   portobello mushrooms, maintaining the same rich flavor profile.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "portobello mushrooms",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 1/2 cups",
+      "notes": "vegetarian broth"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "kissed tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for another minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the chili flakes, tomato paste, beef broth, red wine, and kissed tomatoes. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "stew",
+    "vegetarian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-argentinian-beef-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:24:20.074Z"
+}
