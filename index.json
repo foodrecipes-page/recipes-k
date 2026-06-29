@@ -195,18 +195,14 @@
   },
   {
     "slug": "keen-saudi-arabian-water-tagine",
-    "title": "Saudi Arabian Water Tagine",
+    "title": "Classic Saudi Chicken Tagine",
     "tags": [
-      "dessert",
-      "flavorful",
-      "one-pan",
-      "refreshing",
-      "saudi-arabian",
-      "vegetarian",
-      "weeknight"
+      "chicken",
+      "saudi",
+      "tagine"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 35,
+    "cuisine": "Saudi",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
