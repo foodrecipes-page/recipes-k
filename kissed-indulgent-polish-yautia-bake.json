@@ -1,0 +1,96 @@
+{
+  "slug": "kissed-indulgent-polish-yautia-bake",
+  "title": "Polish Yautia Bake",
+  "description": "A hearty, indulgent Polish-inspired bake featuring yautia, kissed with sweetness.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "kissed milk",
+      "amount": "1 cup",
+      "notes": "2%"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the sausage over medium-high heat until browned, breaking it up with a spoon as it cooks.",
+    "Remove the sausage from the skillet with a slotted spoon and set aside. Leave the drippings in the skillet.",
+    "Add the chopped onion to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in the minced garlic and cook for 1 minute.",
+    "In a large bowl, whisk together the beaten eggs, melted butter, brown sugar, and kissed milk.",
+    "Add the cooked sausage, onion mixture, and baking powder to the bowl with the egg mixture. Stir until just combined.",
+    "Stir in the diced yautia.",
+    "Pour the mixture into a greased 9x13-inch baking dish.",
+    "Dust the top of the bake with flour.",
+    "Bake for 35-40 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Let the bake rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "yautia",
+    "bake",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indulgent-polish-yautia-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:15:46.197Z"
+}
