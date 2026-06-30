@@ -2767,16 +2767,15 @@
   },
   {
     "slug": "kinetic-vietnamese-cabbage-banh-cuon",
-    "title": "Kinetic Vietnamese Cabbage Banh Cuon",
+    "title": "Vietnamese Spring Rolls (Gỏi Cuốn)",
     "tags": [
-      "energizing",
-      "gluten-free",
-      "steamed",
-      "vegan",
-      "whole30-friendly"
+      "vietnamese",
+      "spring-rolls",
+      "snack",
+      "appetizer"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -3853,17 +3852,14 @@
   },
   {
     "slug": "kissed-by-midnight-japanese-chicken-shoyu-ramen",
-    "title": "Kissed by Midnight Japanese Chicken Shoyu Ramen",
+    "title": "Kissed by Midnight Shoyu Ramen",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "paleo",
+      "japanese",
       "ramen",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "japanese",
-    "totalTimeMin": 40,
+    "cuisine": "Japanese",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -13144,18 +13140,15 @@
   },
   {
     "slug": "kissed-with-oil-venezuelan-cassaba-empanadas",
-    "title": "Kissed with Oil Venezuelan Cassaba Empanadas",
+    "title": "Crispy Cassaba Empanadas",
     "tags": [
-      "cassaba",
-      "empanada",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "vegan-option",
-      "weeknight"
+      "empanadas",
+      "cassava",
+      "snack",
+      "latin-american"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 28,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
