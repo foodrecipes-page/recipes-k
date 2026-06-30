@@ -1,0 +1,78 @@
+{
+  "slug": "kooky-dense-british-beef-yorkshire-pudding",
+  "title": "British Beef Pudding",
+  "description": "A classic British dish, this beef pudding is a hearty meal made with ground beef and a dense, comforting pudding.",
+  "cuisine": "British",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": "80/20 lean to fat ratio works well for this dish"
+    },
+    {
+      "name": "Dense British Pudding Mix",
+      "amount": "1 package",
+      "notes": "Available at most British import stores"
+    },
+    {
+      "name": "Yorkshire Pudding",
+      "amount": "4",
+      "notes": "For serving on the side"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tbsp",
+      "notes": "For thickening the gravy"
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": "For gravy"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Brown the ground beef in a skillet over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once browned, drain excess fat and set aside.",
+    "In a separate bowl, mix together the dense British pudding mix and 2 cups of beef broth.",
+    "Pour the pudding mixture over the browned ground beef and stir to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish and cover with foil.",
+    "Bake for 30 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "While the pudding is baking, prepare the Yorkshire puddings according to package instructions.",
+    "To serve, place a scoop of the beef pudding on a plate, top with a Yorkshire pudding, and serve with gravy (made by thickening the beef broth with flour and a bit of fat).",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-dense-british-beef-yorkshire-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:34:55.547Z"
+}
