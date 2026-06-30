@@ -1,0 +1,74 @@
+{
+  "slug": "kneaded-brussels-sprout-delight",
+  "title": "Pan-Seared Brussels Sprouts with Garlic Delight",
+  "description": "A simple yet flavorful recipe featuring pan-seared Brussels sprouts topped with a garlic delight. This dish is perfect as a side or main course.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Kneaded bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Garlic delight",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add the Brussels sprouts to the skillet, cut side down.",
+    "Cook for 4-5 minutes or until they develop a nice brown crust.",
+    "Flip the Brussels sprouts and cook for an additional 3-4 minutes or until tender.",
+    "In a small bowl, mix together the kneaded bread crumbs and garlic delight.",
+    "Sprinkle the bread crumb mixture over the Brussels sprouts and cook for 1-2 minutes or until golden brown.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "brussels-sprouts",
+    "garlic",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneaded-brussels-sprout-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T00:46:21.979Z"
+}
