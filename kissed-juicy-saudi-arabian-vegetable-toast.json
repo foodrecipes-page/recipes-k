@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-juicy-saudi-arabian-vegetable-toast",
+  "title": "Saudi-Style Toasted Vegetable Delight",
+  "description": "A delicious and easy-to-make dish that combines the flavors of Saudi Arabia with the simplicity of toasted vegetables.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "arabian vegetable",
+      "amount": "2 cups",
+      "notes": "such as bell peppers, zucchini, and eggplant"
+    },
+    {
+      "name": "juicy toast",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "kissed olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the Arabian vegetable into 1-inch pieces.",
+    "Place the slices on a baking sheet and drizzle with kissed olive oil.",
+    "Season with salt and black pepper to taste.",
+    "Bake in the oven for 20-25 minutes, or until tender.",
+    "Meanwhile, toast the juicy bread slices.",
+    "Once the vegetables are done, assemble the snack by placing the toasted bread slices on a plate and topping with the roasted vegetables.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-juicy-saudi-arabian-vegetable-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:43:50.651Z"
+}
