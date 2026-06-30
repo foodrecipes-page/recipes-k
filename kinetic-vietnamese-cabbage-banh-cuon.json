@@ -1,0 +1,95 @@
+{
+  "slug": "kinetic-vietnamese-cabbage-banh-cuon",
+  "title": "Vietnamese Spring Rolls (Gỏi Cuốn)",
+  "description": "A classic Vietnamese dish made with fresh vegetables and herbs served with a sweet and spicy dipping sauce.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper wrappers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "kinetic energy",
+      "amount": "none needed",
+      "notes": ""
+    },
+    {
+      "name": "banh cuon",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "cook until pink"
+    },
+    {
+      "name": "rice noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "herbs",
+      "amount": "1 bunch",
+      "notes": "such as mint, basil, and cilantro"
+    },
+    {
+      "name": "peanut sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "hummus",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Prepare the rice paper wrappers according to package instructions.",
+    "Cut the cabbage into thin strips and set aside.",
+    "Cook the shrimp until pink and set aside.",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Assemble the spring rolls by placing a small amount of noodles, shrimp, and cabbage onto a rice paper wrapper.",
+    "Add a few herbs on top of the filling and roll up the wrapper tightly.",
+    "Repeat with the remaining ingredients.",
+    "Serve the spring rolls with peanut sauce and hummus for dipping.",
+    "Optional: Fry the spring rolls in hot oil until crispy and serve as an appetizer."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "snack",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kinetic-vietnamese-cabbage-banh-cuon",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:50:06.686Z"
+}
