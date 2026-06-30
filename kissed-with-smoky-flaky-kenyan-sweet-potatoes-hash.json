@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-with-smoky-flaky-kenyan-sweet-potatoes-hash",
+  "title": "Kenyan Smoky Hash",
+  "description": "A hearty breakfast dish from Kenya, this smoky hash is made with sweet potatoes and a blend of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "smoky hash",
+      "amount": "1/2 cup",
+      "notes": "available in spice blends"
+    },
+    {
+      "name": "with",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "paprika"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": "crushed saltines, optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Toss the diced sweet potatoes with olive oil, smoky hash, and paprika until they are evenly coated.",
+    "Spread the sweet potatoes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "Crumble the saltines and sprinkle over the sweet potatoes, if using.",
+    "Return the sweet potatoes to the oven for an additional 2-3 minutes, or until the saltines are toasted.",
+    "Serve the Kenyan smoky hash hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "kenyan",
+    "smoky",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-smoky-flaky-kenyan-sweet-potatoes-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:56:47.307Z"
+}
