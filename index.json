@@ -14278,14 +14278,15 @@
   },
   {
     "slug": "kneaded-brussels-sprout-delight",
-    "title": "Kneaded Brussels Sprout Delight",
+    "title": "Pan-Seared Brussels Sprouts with Garlic Delight",
     "tags": [
       "brussels-sprouts",
-      "kneaded",
-      "vegetarian-friendly"
+      "garlic",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": "20",
+    "cuisine": "vegetarian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
