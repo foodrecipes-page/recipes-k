@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-with-oil-venezuelan-cassaba-empanadas",
+  "title": "Crispy Cassaba Empanadas",
+  "description": "A delicious and crispy empanada recipe filled with cassava and served as a snack.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cassaba (yuca)",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Empanada dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oil to 350°F (175°C).",
+    "Peel and grate the cassaba.",
+    "Divide the empanada dough into 8 equal pieces.",
+    "Roll each piece into a ball.",
+    "Flatten each ball into a disk shape.",
+    "Place a tablespoon of grated cassaba onto the center of each disk.",
+    "Fold the dough in half to form a half-moon shape and press edges to seal.",
+    "Fry the empanadas in hot oil until golden brown.",
+    "Drain the empanadas on paper towels.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "empanadas",
+    "cassava",
+    "snack",
+    "latin-american"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-oil-venezuelan-cassaba-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:55:55.691Z"
+}
