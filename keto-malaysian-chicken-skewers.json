@@ -1,0 +1,93 @@
+{
+  "slug": "keto-malaysian-chicken-skewers",
+  "title": "Keto Malaysian Chicken Satay Skewers",
+  "description": "A low-carb take on the popular Malaysian street food. Marinated chicken cooked to perfection on skewers.",
+  "cuisine": "malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1.5 lbs",
+      "notes": "Cut into small pieces for skewers"
+    },
+    {
+      "name": "Coconut aminos",
+      "amount": "1/4 cup",
+      "notes": "Low-carb alternative to soy sauce"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Peanut butter (sugar-free)",
+      "amount": "2 tbsp",
+      "notes": "Low-carb alternative to traditional satay peanut sauce"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "2 tbsp",
+      "notes": "Low-carb alternative to traditional satay peanut sauce"
+    },
+    {
+      "name": "Keto-friendly skewers",
+      "amount": "1 package",
+      "notes": "Or use bamboo skewers for a more authentic look"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together coconut aminos, lime juice, garlic, ginger, and peanut butter until smooth.",
+    "Add chicken to the marinade and mix until coated.",
+    "Thread chicken onto skewers, leaving a small space between each piece.",
+    "Brush skewers with olive oil.",
+    "Grill skewers for 8-10 minutes or until cooked through.",
+    "Serve with coconut cream for dipping.",
+    "Garnish with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "malaysian",
+    "chicken",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-malaysian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:46:51.361Z"
+}
