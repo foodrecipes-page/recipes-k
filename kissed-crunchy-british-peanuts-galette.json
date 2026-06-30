@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-crunchy-british-peanuts-galette",
+  "title": "Traditional British Peanut Galette",
+  "description": "A classic British dessert featuring a crunchy peanut crust and a kissed golden galette topping.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup, chopped"
+    },
+    {
+      "name": "British biscuits",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup, melted"
+    },
+    {
+      "name": "eggs",
+      "amount": "2, beaten"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "flour",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Combine peanuts, biscuits, and sugar in a bowl.",
+    "Mix in melted butter until well combined.",
+    "Press mixture into a 9-inch pie dish.",
+    "In a separate bowl, whisk eggs and vanilla extract.",
+    "Pour egg mixture over peanut mixture.",
+    "Bake for 35-40 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "peanuts",
+    "british-desserts",
+    "dessert-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-british-peanuts-galette",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:00:58.678Z"
+}
