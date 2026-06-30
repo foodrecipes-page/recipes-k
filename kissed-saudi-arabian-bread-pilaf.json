@@ -1,0 +1,58 @@
+{
+  "slug": "kissed-saudi-arabian-bread-pilaf",
+  "title": "Kissed Arabian Pilaf",
+  "description": "A traditional Arabian pilaf dish flavored with kissed and saudi ingredients. Serve hot as a side or main course.",
+  "cuisine": "Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kissed",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saudi",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Arabian Bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "2. Add the kissed and saudi, and cook for 1 minute.",
+    "3. Add the cubed bread and cook until lightly toasted.",
+    "4. Add the pilaf and cook for 2-3 minutes, stirring constantly.",
+    "5. Reduce heat to low, cover, and simmer for 10-12 minutes.",
+    "6. Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "pilaf",
+    "breakfast",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-saudi-arabian-bread-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:56:45.615Z"
+}
