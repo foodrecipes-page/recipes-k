@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-smoky-venezuelan-lentils-paella",
+  "title": "Venezuelan Lentil Paella",
+  "description": "A hearty and flavorful paella dish from Venezuela, made with lentils and smoky spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "any color lentils"
+    },
+    {
+      "name": "kissed rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "smoked or sweet"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably sea salt"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large paella pan or skillet over medium-high heat.",
+    "Add onion and garlic, cook until softened, about 3 minutes.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add lentils, rice, paprika, and broth. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove cover and cook for an additional 5 minutes, or until the rice is tender and the liquid is absorbed.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "paella",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-venezuelan-lentils-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:41.731Z"
+}
