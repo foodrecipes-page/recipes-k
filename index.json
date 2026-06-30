@@ -3617,18 +3617,14 @@
   },
   {
     "slug": "kissed-by-binchotan-malaysian-chicken-satay",
-    "title": "Kissed By Binchotan Malaysian Chicken Satay",
+    "title": "Satay Chicken Binchotan",
     "tags": [
-      "charcoal-grilled",
-      "high-protein",
-      "kid-friendly",
-      "malaysian-cuisine",
-      "one-pan",
-      "veggie-rich",
-      "weeknight"
+      "satay",
+      "grilled-chicken",
+      "peanut-sauce"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "Southeast Asian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -15346,17 +15342,14 @@
   },
   {
     "slug": "kooky-dense-british-beef-yorkshire-pudding",
-    "title": "Kooky Dense British Beef Yorkshire Pudding",
+    "title": "British Beef Pudding",
     "tags": [
-      "beef-recipes",
-      "british-cuisine",
-      "coconut-cream",
-      "kazan-cauldron",
-      "weeknight-meal",
-      "yorkshire-pudding"
+      "british",
+      "beef",
+      "comfort-food"
     ],
     "cuisine": "British",
-    "totalTimeMin": 55,
+    "totalTimeMin": 65,
     "shard": "k"
   },
   {
