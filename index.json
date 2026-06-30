@@ -3057,15 +3057,15 @@
   },
   {
     "slug": "kissed-and-gooey-thai-tiger-prawns-kanom-ko",
-    "title": "Kissed and Gooey Thai Tiger Prawns Kanom Ko",
+    "title": "Pan-Seared Prawns with Kanom Sauce",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "prawns",
+      "thai",
+      "seafood",
+      "canapé"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 35,
+    "cuisine": "thai",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -5448,17 +5448,14 @@
   },
   {
     "slug": "kissed-crunchy-british-peanuts-galette",
-    "title": "Kissed Crunchy British Peanuts Galette",
+    "title": "Traditional British Peanut Galette",
     "tags": [
-      "breakfast",
-      "british",
-      "laminated",
       "peanuts",
-      "spring",
-      "vegan"
+      "british-desserts",
+      "dessert-recipes"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 40,
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -13291,18 +13288,15 @@
   },
   {
     "slug": "kissed-with-smoky-flaky-kenyan-sweet-potatoes-hash",
-    "title": "Kissed with Smoky Flaky Kenyan Sweet Potatoes Hash",
+    "title": "Kenyan Smoky Hash",
     "tags": [
-      "hash",
-      "high-protein",
+      "breakfast",
       "kenyan",
-      "one-pan",
-      "potatoes",
-      "sweet",
-      "weeknight"
+      "smoky",
+      "hash"
     ],
     "cuisine": "kenyan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
