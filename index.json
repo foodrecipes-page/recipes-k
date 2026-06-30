@@ -720,17 +720,15 @@
   },
   {
     "slug": "keto-malaysian-chicken-skewers",
-    "title": "Keto Malaysian Chicken Skewers",
+    "title": "Keto Malaysian Chicken Satay Skewers",
     "tags": [
-      "gluten-free",
-      "grilled-chicken",
-      "keto-friendly",
-      "low-carb",
-      "malaysian-cuisine",
-      "raclette-grill"
+      "keto",
+      "malaysian",
+      "chicken",
+      "skewers"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 32,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -7891,16 +7889,14 @@
   },
   {
     "slug": "kissed-juicy-saudi-arabian-vegetable-toast",
-    "title": "Kissed Juicy Saudi Arabian Vegetable Toast",
+    "title": "Saudi-Style Toasted Vegetable Delight",
     "tags": [
-      "lunch-idea",
-      "middle-eastern",
-      "plant-based",
-      "quick-meal",
-      "vegan",
-      "vegetarian"
+      "saudi",
+      "vegetarian",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Saudi Arabian",
+    "cuisine": "saudi",
     "totalTimeMin": 35,
     "shard": "k"
   },
