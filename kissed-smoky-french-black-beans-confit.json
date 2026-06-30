@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-smoky-french-black-beans-confit",
+  "title": "Smoky French Beans Confit",
+  "description": "A classic French-inspired dish featuring tender smoky beans confit. Perfect as a side dish or light lunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked"
+    },
+    {
+      "name": "french",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 teaspoon",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "confit",
+      "amount": "1/4 cup",
+      "notes": "caramelized onion"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large saucepan, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1-2 minutes until fragrant.",
+    "Add the black beans, smoked paprika, salt, and pepper. Cook for 2-3 minutes.",
+    "Transfer the mixture to a baking dish and top with caramelized onion.",
+    "Bake in the preheated oven for 20-25 minutes until the beans are tender and heated through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beans",
+    "lunch",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-french-black-beans-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:32:01.893Z"
+}
