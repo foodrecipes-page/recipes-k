@@ -6718,17 +6718,15 @@
   },
   {
     "slug": "kissed-garlicky-ukrainian-cheese-casserole",
-    "title": "Kissed Garlicky Ukrainian Cheese Casserole",
+    "title": "Ukrainian Casserole",
     "tags": [
+      "ukrainian",
       "casserole",
-      "comfort-food",
-      "garlic-lovers",
-      "one-pot",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "cheese",
+      "garlicky"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -9913,16 +9911,15 @@
   },
   {
     "slug": "kissed-saudi-arabian-bread-pilaf",
-    "title": "Kissed Saudi-Arabian Bread Pilaf",
+    "title": "Kissed Arabian Pilaf",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "plant-based",
-      "saudi-arabian",
-      "weeknight"
+      "arabian",
+      "pilaf",
+      "breakfast",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "Saudi-Arabian",
+    "cuisine": "Arabian",
     "totalTimeMin": 35,
     "shard": "k"
   },
@@ -10896,18 +10893,15 @@
   },
   {
     "slug": "kissed-smoky-venezuelan-lentils-paella",
-    "title": "Kissed Smoky Venezuelan Lentils Paella",
+    "title": "Venezuelan Lentil Paella",
     "tags": [
-      "adventurous",
-      "high-protein",
-      "one-pan",
-      "smoky",
-      "special-occasion",
+      "lentil",
+      "paella",
       "vegan",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 55,
+    "cuisine": "Latin American",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
