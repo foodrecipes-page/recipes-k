@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-and-gooey-thai-tiger-prawns-kanom-ko",
+  "title": "Pan-Seared Prawns with Kanom Sauce",
+  "description": "A Thai-inspired dish featuring succulent prawns cooked to perfection and served with a sweet and tangy kanom sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "kanom",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thai",
+      "amount": "1 tablespoon",
+      "notes": "red or green curry paste"
+    },
+    {
+      "name": "tiger",
+      "amount": "2",
+      "notes": "tiger prawns or jumbo prawns"
+    },
+    {
+      "name": "gooey",
+      "amount": "2 tablespoons",
+      "notes": "honey"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "and",
+      "amount": "1/2 teaspoon",
+      "notes": "pepper"
+    }
+  ],
+  "instructions": [
+    "Rinse the prawns and pat them dry with paper towels.",
+    "Heat a skillet over medium-high heat and add the tiger prawns.",
+    "Cook for 2-3 minutes per side or until the prawns are pink and cooked through.",
+    "Remove the prawns from the skillet and set aside.",
+    "In the same skillet, add the thai curry paste and cook for 1-2 minutes or until fragrant.",
+    "Add the kanom sauce and stir to combine.",
+    "Return the prawns to the skillet and toss to coat with the sauce.",
+    "Cook for an additional 1-2 minutes or until the sauce has thickened.",
+    "Serve the prawns hot, garnished with chopped cilantro or scallions if desired.",
+    "Serve with steamed rice or noodles for a complete meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "prawns",
+    "thai",
+    "seafood",
+    "canapé"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "22g",
+    "carbs": "20g",
+    "fat": "18g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-and-gooey-thai-tiger-prawns-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:36:17.521Z"
+}
