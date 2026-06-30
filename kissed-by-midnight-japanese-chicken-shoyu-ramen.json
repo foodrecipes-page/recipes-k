@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-by-midnight-japanese-chicken-shoyu-ramen",
+  "title": "Kissed by Midnight Shoyu Ramen",
+  "description": "A Japanese-inspired ramen recipe that combines the flavors of shoyu and kissed by midnight. This dish is perfect for a quick and delicious meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kissed by Midnight",
+      "amount": "2 cups",
+      "notes": "Sliced into thin strips"
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "8 oz",
+      "notes": "Cook according to package instructions"
+    },
+    {
+      "name": "Shoyu",
+      "amount": "2 tbsp",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to package instructions. Drain and set aside.",
+    "In a large pot, combine the chicken broth, shoyu, and sesame oil (if using). Bring to a boil, then reduce heat to a simmer.",
+    "Add the sliced kissed by midnight to the pot and cook for 2-3 minutes, or until tender.",
+    "Add the cooked noodles to the pot and cook for an additional 1-2 minutes, or until heated through.",
+    "Serve hot, garnished with sliced green onions and sesame seeds (if using)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "ramen",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-midnight-japanese-chicken-shoyu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:38:01.692Z"
+}
