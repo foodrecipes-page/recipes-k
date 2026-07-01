@@ -1,0 +1,77 @@
+{
+  "slug": "keto-naan-delight",
+  "title": "Keto Naan Delight",
+  "description": "A delicious keto twist on traditional naan bread, served with a delightful topping.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naan",
+      "amount": "1 package"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Delight",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the naan dough to a thickness of 1/4 inch (6 mm).",
+    "Place the naan on a baking sheet lined with parchment paper.",
+    "Mix the cheese, delight, garlic, salt, and cinnamon in a bowl.",
+    "Spread the cheese mixture evenly over the naan, leaving a 1/2 inch (1 cm) border around the edges.",
+    "Drizzle the heavy cream over the cheese mixture.",
+    "Dot the top of the naan with butter.",
+    "Bake in the preheated oven for 12-15 minutes or until golden brown.",
+    "Remove from the oven and let cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "bread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-naan-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:19:47.321Z"
+}
