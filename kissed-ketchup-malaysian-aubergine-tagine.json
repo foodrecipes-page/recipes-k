@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-ketchup-malaysian-aubergine-tagine",
+  "title": "Malaysian Aubergine Tagine",
+  "description": "A flavorful and aromatic stew originating from Malaysia, made with aubergine and spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Aubergine",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 small",
+      "notes": "For serving"
+    },
+    {
+      "name": "Malaysian",
+      "amount": "2 tsp",
+      "notes": "Curry powder"
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1 tsp",
+      "notes": "For added sweetness"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tsp",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the aubergine into large chunks.",
+    "In a large bowl, mix together the curry powder and ketchup.",
+    "Add the aubergine chunks to the bowl and toss to coat with the spice mixture.",
+    "Transfer the aubergine to a baking dish and cover with a lid.",
+    "Bake for 30 minutes.",
+    "While the aubergine is baking, heat a small amount of oil in a pan over medium heat.",
+    "Add the aubergine chunks to the pan and cook for an additional 10-15 minutes, or until tender.",
+    "Serve the aubergine in the tagine and garnish with additional curry powder if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "aubergine",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-ketchup-malaysian-aubergine-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:33:58.376Z"
+}
