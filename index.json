@@ -12357,15 +12357,13 @@
   },
   {
     "slug": "kissed-venezuelan-cheese-tagine",
-    "title": "Kissed Venezuelan Cheese Tagine",
+    "title": "Venezuelan Kissed Tagine",
     "tags": [
-      "cheese-pull",
-      "citrusy",
-      "low-glycemic",
-      "one-pan",
-      "weeknight"
+      "latin-american",
+      "cheesy",
+      "venezuelan"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "Latin American",
     "totalTimeMin": 35,
     "shard": "k"
   },
@@ -15407,17 +15405,16 @@
   },
   {
     "slug": "kooky-malty-indian-yogurt-lassi",
-    "title": "Kooky Malty Indian Yogurt Lassi",
+    "title": "Spiced Kooky Lassi Parfait",
     "tags": [
-      "ayurvedic-friendly",
-      "creme-fraiche",
-      "hangover-cure",
-      "indian-drinks",
-      "malt-flavored",
-      "yogurt-based"
+      "breakfast",
+      "parfait",
+      "yogurt",
+      "lassi",
+      "spiced"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 10,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
