@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-saffron-steam-filipino-napa-cabbage-bistek",
+  "title": "Bistek Tagalog with Napa Cabbage",
+  "description": "A classic Filipino beef steak dish marinated in a mixture of soy sauce, vinegar, and spices, served with sautéed napa cabbage.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak (bistek)",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "napa cabbage",
+      "amount": "1 medium head",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 tablespoon",
+      "notes": "such as apple cider vinegar"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate the bistek in a mixture of soy sauce, vinegar, garlic, and saffron for at least 30 minutes.",
+    "Heat a pan over medium-high heat.",
+    "Add the bistek and cook for 3-4 minutes per side, or until cooked to your desired level of doneness.",
+    "Transfer the bistek to a plate and let it rest for 5 minutes.",
+    "In the same pan, add the sliced napa cabbage and cook until slightly softened.",
+    "Return the bistek to the pan and stir to combine with the cabbage.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "filipino",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-saffron-steam-filipino-napa-cabbage-bistek",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T16:33:50.074Z"
+}
