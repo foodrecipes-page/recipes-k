@@ -1,0 +1,74 @@
+{
+  "slug": "krispy-norwegian-lamb-roast",
+  "title": "Lamb Roast with Roasted Vegetables",
+  "description": "A classic lamb roast recipe with a delicious crispy crust and flavorful roasted vegetables.",
+  "cuisine": "british",
+  "diet": [
+    "gluten-free",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Roast",
+      "amount": "1.5-2 kg"
+    },
+    {
+      "name": "Norwegian Oil",
+      "amount": "2 tbsp",
+      "notes": "for lamb"
+    },
+    {
+      "name": "Krispy Potatoes",
+      "amount": "4-5",
+      "notes": "any variety"
+    },
+    {
+      "name": "Roast Carrots",
+      "amount": "4-5",
+      "notes": "any variety"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Season the lamb roast with salt and black pepper.",
+    "Heat the Norwegian oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb roast until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the pan to the preheated oven and roast for 20 minutes.",
+    "Reduce the oven temperature to 180°C (350°F) and continue roasting for 15-20 minutes per kilogram, or until the lamb reaches your desired level of doneness.",
+    "Toss the krispy potatoes and roast carrots with a little oil, salt, and pepper. Spread on a baking sheet.",
+    "Roast the potatoes and carrots in the oven for 20-25 minutes, or until tender and golden brown.",
+    "Let the lamb rest for 10-15 minutes before carving and serving with the roasted vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "roast",
+    "british",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/krispy-norwegian-lamb-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:42.968Z"
+}
