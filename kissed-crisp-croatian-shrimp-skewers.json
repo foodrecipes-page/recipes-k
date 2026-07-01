@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-crisp-croatian-shrimp-skewers",
+  "title": "Croatian Shrimp Skewers with Crisp Kissed Onions",
+  "description": "A flavorful and colorful dish that combines the sweetness of shrimp with the crunch of kissed onions, perfect for a summer evening.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Kissed Onions",
+      "amount": "1 large onion",
+      "notes": null
+    },
+    {
+      "name": "Crisp Cucumber",
+      "amount": "1 medium cucumber",
+      "notes": null
+    },
+    {
+      "name": "Croatian Olive Oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread shrimp, onions, and cucumber onto skewers.",
+    "In a small bowl, whisk together olive oil, garlic, salt, and pepper.",
+    "Brush the mixture onto both sides of the shrimp and vegetables.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve immediately, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "summer",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crisp-croatian-shrimp-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:45:52.089Z"
+}
