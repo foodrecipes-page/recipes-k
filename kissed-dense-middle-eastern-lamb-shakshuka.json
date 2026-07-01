@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-dense-middle-eastern-lamb-shakshuka",
+  "title": "Middle Eastern Lamb Shakshuka",
+  "description": "A flavorful and spicy lamb shakshuka dish inspired by Middle Eastern cuisine, perfect for a hearty dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "spicy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Middle eastern spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Shakshuka",
+      "amount": "1 can",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the lamb with salt, pepper, and middle eastern spices.",
+    "Heat the olive oil in a large oven-safe pan over medium-high heat.",
+    "Sear the lamb for 2-3 minutes on each side, then set aside.",
+    "Add the sliced onion to the pan and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the shakshuka to the pan and stir to combine.",
+    "Return the lamb to the pan and transfer to the preheated oven.",
+    "Bake for 25-30 minutes, or until the lamb is cooked through and the shakshuka is heated through.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "shakshuka",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dense-middle-eastern-lamb-shakshuka",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:15:25.517Z"
+}
