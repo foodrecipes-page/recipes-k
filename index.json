@@ -5350,16 +5350,17 @@
   },
   {
     "slug": "kissed-crumbly-french-tomato-crepes",
-    "title": "Kissed Crumbly French Tomato Crepes",
+    "title": "French Crepes with Tomato Filling",
     "tags": [
-      "brunch-ideas",
-      "crepe-recipes",
-      "french-cuisine",
-      "gluten-free",
-      "low-glycemic"
+      "breakfast",
+      "brunch",
+      "french",
+      "crepes",
+      "tomato",
+      "vegetarian"
     ],
     "cuisine": "French",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -8010,16 +8011,14 @@
   },
   {
     "slug": "kissed-ketchup-malaysian-aubergine-tagine",
-    "title": "kissed ketchup malaysian aubergine tagine",
+    "title": "Malaysian Aubergine Tagine",
     "tags": [
-      "gluten-free",
-      "low-calorie",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "malaysian",
+      "aubergine",
+      "tagine"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 45,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -9801,18 +9800,14 @@
   },
   {
     "slug": "kissed-saffron-steam-filipino-napa-cabbage-bistek",
-    "title": "Kissed Saffron Steam Filipino Napa Cabbage Bistek",
+    "title": "Bistek Tagalog with Napa Cabbage",
     "tags": [
-      "comfort-food",
+      "beef",
       "filipino",
-      "healthy",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "dinner"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
