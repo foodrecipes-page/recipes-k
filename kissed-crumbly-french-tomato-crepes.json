@@ -1,0 +1,62 @@
+{
+  "slug": "kissed-crumbly-french-tomato-crepes",
+  "title": "French Crepes with Tomato Filling",
+  "description": "Delicate French crepes filled with a fresh and tangy tomato filling, perfect for a light brunch.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "French crepes",
+      "amount": "8-10 crepes",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Fresh tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Chopped herbs",
+      "amount": "1/4 cup",
+      "notes": "such as parsley or basil"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine diced tomatoes, chopped herbs, salt, and pepper. Mix well.",
+    "2. Lay a crepe flat and spoon a tablespoon of the tomato mixture in the center.",
+    "3. Fold the crepe in half over the filling and serve immediately.",
+    "4. Repeat with the remaining crepes and filling.",
+    "5. Serve warm, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "french",
+    "crepes",
+    "tomato",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crumbly-french-tomato-crepes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:45:54.405Z"
+}
