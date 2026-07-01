@@ -1,0 +1,49 @@
+{
+  "slug": "kissed-dutch-pancetta-stir-fry",
+  "title": "Pan-Seared Pancetta with Stir-Fried Kissed Potatoes",
+  "description": "A simple and delicious breakfast dish featuring crispy pancetta and kissed potatoes.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pancetta",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "kissed"
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Add pancetta and cook until crispy.",
+    "Add potatoes to the pan and stir-fry until they start to brown.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancetta",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dutch-pancetta-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:04:38.074Z"
+}
