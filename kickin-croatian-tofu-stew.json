@@ -1,0 +1,96 @@
+{
+  "slug": "kickin-croatian-tofu-stew",
+  "title": "Croatian-Style Stew with Kickin' Kick",
+  "description": "A hearty and flavorful stew made with kickin' kick, croatian sausage, and tender tofu, perfect for a chilly evening.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Sausage",
+      "amount": "1 pound",
+      "notes": "Casings removed"
+    },
+    {
+      "name": "Kickin' Kick",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Cubed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "1 can",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large Dutch oven over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cubed tofu and cook until golden brown, about 5 minutes.",
+    "Add sliced carrots and potatoes, cook for 5 minutes.",
+    "Add Croatian sausage and cook until browned, breaking up with a spoon as needed.",
+    "Add tomato paste, diced tomatoes, and kickin' kick. Stir to combine.",
+    "Bring stew to a boil, then reduce heat to low and simmer, covered, for 30 minutes.",
+    "Season stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "stew",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kickin-croatian-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:43:51.841Z"
+}
