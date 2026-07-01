@@ -1,0 +1,80 @@
+{
+  "slug": "knotty-crumbly-polish-banana-pancakes",
+  "title": "Polish Pancakes with Crumbly Topping",
+  "description": "A classic Polish dessert featuring thick pancakes topped with a crumbly mixture of knotty ingredients",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "grated banana",
+      "amount": "1 cup",
+      "notes": "use overripe bananas"
+    },
+    {
+      "name": "polish pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "knotty almond flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "crumbly oatmeal",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Make the Polish pastry dough according to package instructions.",
+    "3. In a large bowl, combine the flour, grated banana, and brown sugar.",
+    "4. Add the eggs to the bowl and mix until a smooth batter forms.",
+    "5. Pour the batter into a greased 8-inch round cake pan.",
+    "6. Bake the pancakes for 20-25 minutes, or until a toothpick inserted into the center comes out clean.",
+    "7. Meanwhile, mix together the knotty almond flour and crumbly oatmeal in a small bowl.",
+    "8. Once the pancakes are done, top them with the crumbly mixture.",
+    "9. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pancakes",
+    "dessert",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotty-crumbly-polish-banana-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T15:08:19.371Z"
+}
