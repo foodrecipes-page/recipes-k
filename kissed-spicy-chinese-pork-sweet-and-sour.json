@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-spicy-chinese-pork-sweet-and-sour",
+  "title": "Savory Chinese Pork Dumplings",
+  "description": "Delight in these pan-seared pork dumplings infused with a sweet and sour sauce, a perfect fusion of Eastern flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "20-24 wrappers",
+      "notes": null
+    },
+    {
+      "name": "Kissed sesame oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Spicy chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Sweet soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sour vinegar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine pork, sesame oil, chili flakes, soy sauce, and vinegar in a bowl. Mix well.",
+    "Place a wonton wrapper on a clean surface. Place a tablespoon of the pork mixture in the center of the wrapper.",
+    "Dip your finger in water and run it along the edges of the wrapper. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "Press the edges together to seal the dumpling. Repeat with the remaining wrappers and filling.",
+    "Heat a large skillet or wok over medium-high heat. Add a small amount of sesame oil to the pan.",
+    "When the oil is hot, add the dumplings to the pan, leaving some space between each dumpling.",
+    "Cook the dumplings for 2-3 minutes on each side, until golden brown.",
+    "Remove the dumplings from the pan and serve with your favorite dipping sauce.",
+    "Optional: Steam the dumplings for 5-7 minutes to cook them through before pan-frying."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "pork",
+    "savory"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-chinese-pork-sweet-and-sour",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:32:41.562Z"
+}
