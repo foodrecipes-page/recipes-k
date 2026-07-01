@@ -3354,17 +3354,14 @@
   },
   {
     "slug": "kissed-bouncy-norwegian-pasta",
-    "title": "Kissed Bouncy Norwegian Pasta",
+    "title": "Norwegian Kissed Pasta Delight",
     "tags": [
-      "healthy",
-      "low-calorie",
       "norwegian",
-      "one-pot",
       "pasta",
-      "seafood-inspired"
+      "vegetarian"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 27,
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -5837,17 +5834,14 @@
   },
   {
     "slug": "kissed-dutch-pancetta-stir-fry",
-    "title": "Kissed Dutch Pancetta Stir-fry",
+    "title": "Pan-Seared Pancetta with Stir-Fried Kissed Potatoes",
     "tags": [
-      "dutch",
-      "hangover-cure",
-      "low-carb",
-      "quick-fix",
-      "sugar-free",
-      "wok-hei"
+      "breakfast",
+      "pancetta",
+      "potatoes"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 20,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -6655,16 +6649,15 @@
   },
   {
     "slug": "kissed-garlicky-polish-pork-skillet",
-    "title": "Kissed Garlicky Polish Pork Skillet",
+    "title": "Kissed Polish Pork Skillet",
     "tags": [
-      "garlic-lovers",
-      "one-pot",
-      "polish-cuisine",
-      "pork-recipes",
-      "weeknight-dinner"
+      "pork",
+      "polish",
+      "skillet",
+      "hearty"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -15180,17 +15173,15 @@
   },
   {
     "slug": "knotty-crumbly-polish-banana-pancakes",
-    "title": "Knotty Crumbly Polish Banana Pancakes",
+    "title": "Polish Pancakes with Crumbly Topping",
     "tags": [
-      "crumbly-texture",
-      "dehydrated-ingredients",
-      "gluten-free",
-      "midnight-cravings",
-      "polish-cuisine",
-      "umami-rich"
+      "polish",
+      "pancakes",
+      "dessert",
+      "breakfast"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -15760,16 +15751,15 @@
   },
   {
     "slug": "krispy-norwegian-lamb-roast",
-    "title": "Krispy Norwegian Lamb Roast",
+    "title": "Lamb Roast with Roasted Vegetables",
     "tags": [
-      "crispy-roast",
-      "lamb-recipes",
-      "midnight-cravings",
-      "norwegian-cuisine",
-      "yeasty-flavors"
+      "lamb",
+      "roast",
+      "british",
+      "dinner"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 120,
+    "cuisine": "british",
+    "totalTimeMin": 70,
     "shard": "k"
   },
   {
