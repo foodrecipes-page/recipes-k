@@ -11084,16 +11084,15 @@
   },
   {
     "slug": "kissed-spicy-chinese-pork-sweet-and-sour",
-    "title": "Kissed Spicy Chinese Pork Sweet And Sour",
+    "title": "Savory Chinese Pork Dumplings",
     "tags": [
-      "chinese-food",
-      "comfort-food",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "chinese",
+      "dumplings",
+      "pork",
+      "savory"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 45,
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
