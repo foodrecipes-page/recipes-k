@@ -1,0 +1,63 @@
+{
+  "slug": "kooky-malty-indian-yogurt-lassi",
+  "title": "Spiced Kooky Lassi Parfait",
+  "description": "A refreshing yogurt parfait infused with the warmth of Indian spices and the sweetness of malty notes.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kooky",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Malty",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Indian Spices",
+      "amount": "1 tsp",
+      "notes": "Cinnamon, cardamom, and nutmeg"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Lassi",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the kooky and malty.",
+    "Add the Indian spices and stir until well combined.",
+    "In a separate bowl, whisk together the yogurt and lassi.",
+    "Layer the kooky-malty mixture and the yogurt-lassi mixture in a glass or parfait dish.",
+    "Repeat the layers two more times, ending with a layer of yogurt-lassi mixture on top.",
+    "Chill in the refrigerator for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "parfait",
+    "yogurt",
+    "lassi",
+    "spiced"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-malty-indian-yogurt-lassi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:45.203Z"
+}
