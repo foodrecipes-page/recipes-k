@@ -748,12 +748,12 @@
     "title": "Keto Naan Delight",
     "tags": [
       "keto",
-      "naan",
-      "dessert",
-      "date-night"
+      "indian",
+      "bread",
+      "snack"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 30,
+    "cuisine": "Indian",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -8943,16 +8943,15 @@
   },
   {
     "slug": "kissed-nutty-syrian-lentil-wrap",
-    "title": "Kissed Nutty Syrian Lentil Wrap",
+    "title": "Lentil Wrap",
     "tags": [
-      "easy",
-      "lotus-leaf-wrap",
-      "nutty",
-      "shojin-friendly",
-      "syrien-dish",
-      "weeknight"
+      "lentil",
+      "wrap",
+      "middle-eastern",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 35,
     "shard": "k"
   },
