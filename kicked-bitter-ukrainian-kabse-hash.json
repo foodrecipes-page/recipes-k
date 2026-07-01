@@ -1,0 +1,86 @@
+{
+  "slug": "kicked-bitter-ukrainian-kabse-hash",
+  "title": "Kicked Ukrainian Hash",
+  "description": "A hearty Ukrainian-inspired hash, kicked up a notch with a blend of bold flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "preferably leftover"
+    },
+    {
+      "name": "kabse",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bitter",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "kicked",
+      "amount": "1/4 cup",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": "beaten"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chopped kabse and cook until browned, about 5 minutes.",
+    "Add the chopped bitter and cook until tender, about 5 minutes.",
+    "Add the minced kicked and cook for 1 minute.",
+    "In a large bowl, combine the cooked kabse mixture, chopped onion, minced garlic, and beaten eggs.",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a greased 9x13-inch baking dish.",
+    "If using, dollop the sour cream on top.",
+    "Bake for 25-30 minutes or until set.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "breakfast",
+    "hash",
+    "kicked"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-bitter-ukrainian-kabse-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T20:49:39.501Z"
+}
