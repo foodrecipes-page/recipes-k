@@ -947,17 +947,15 @@
   },
   {
     "slug": "kicked-bitter-ukrainian-kabse-hash",
-    "title": "Kicked Bitter Ukrainian Kabse Hash",
+    "title": "Kicked Ukrainian Hash",
     "tags": [
-      "bitter-flavors",
-      "jain-friendly",
-      "one-pan",
-      "quick-fix",
-      "ukrainian-cuisine",
-      "vegetarian"
+      "ukrainian",
+      "breakfast",
+      "hash",
+      "kicked"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -4856,17 +4854,14 @@
   },
   {
     "slug": "kissed-crisp-croatian-shrimp-skewers",
-    "title": "Kissed Crisp Croatian Shrimp Skewers",
+    "title": "Croatian Shrimp Skewers with Crisp Kissed Onions",
     "tags": [
-      "brunch",
-      "croatian",
-      "gluten-free",
       "seafood",
-      "shrimp",
-      "skewers"
+      "summer",
+      "grilled"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 23,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
