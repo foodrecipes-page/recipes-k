@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-pungent-chinese-pandan-chow-fun",
+  "title": "Pandan Chow Fun Stir Fry",
+  "description": "A quick and flavorful stir fry made with pandan-infused noodles, kissed garlic, and pungent Chinese chives. This dish is a great option for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pandan noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "kissed garlic",
+      "amount": "2 cloves",
+      "notes": "mince"
+    },
+    {
+      "name": "pungent Chinese chives",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chow fun sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 30 seconds until fragrant.",
+    "Add the chopped chives and cook for another 30 seconds.",
+    "Add the chow fun sauce and stir to combine.",
+    "Add the pandan noodles and stir-fry for 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pandan",
+    "stir-fry",
+    "noodles",
+    "chinese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-pungent-chinese-pandan-chow-fun",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:08:18.735Z"
+}
