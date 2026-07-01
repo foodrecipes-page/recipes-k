@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-nutty-syrian-lentil-wrap",
+  "title": "Lentil Wrap",
+  "description": "A simple and healthy wrap filled with lentils and spices. This recipe is perfect for a quick and easy meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "nutty",
+      "amount": "1 tsp",
+      "notes": "toasted sesame oil"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "wrap",
+      "amount": "1, large flour tortilla"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the cumin and cook for 1 minute, until fragrant.",
+    "Add the lentils and cook for 5 minutes, until they start to soften.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, until the lentils are tender.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the lentil mixture onto the tortilla and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "wrap",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-syrian-lentil-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:26:28.068Z"
+}
