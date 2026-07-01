@@ -9281,17 +9281,17 @@
   },
   {
     "slug": "kissed-pungent-chinese-pandan-chow-fun",
-    "title": "Kissed Pungent Chinese Pandan Chow Fun",
+    "title": "Pandan Chow Fun Stir Fry",
     "tags": [
-      "chinese-cuisine",
-      "low-fat",
-      "noodle-dish",
-      "one-pot",
-      "pandan-leaf",
-      "weeknight"
+      "pandan",
+      "stir-fry",
+      "noodles",
+      "chinese",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 25,
+    "cuisine": "Asian",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -13514,16 +13514,15 @@
   },
   {
     "slug": "kissed-with-sweetness-german-praline-bake",
-    "title": "Kissed with Sweetness German Praline Bake",
+    "title": "Praline German Cake",
     "tags": [
-      "fodmap-friendly",
-      "fondue",
       "german",
-      "meal-prep",
-      "praline"
+      "cake",
+      "praline",
+      "dessert"
     ],
     "cuisine": "german",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
