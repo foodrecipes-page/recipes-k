@@ -6210,16 +6210,15 @@
   },
   {
     "slug": "kissed-filipino-yogurt-lechon",
-    "title": "Kissed Filipino Yogurt Lechon",
+    "title": "Filipino Lechon-Inspired Pork Belly with Spiced Yogurt",
     "tags": [
       "filipino",
-      "halal-friendly",
-      "one-pan",
-      "sweet-and-savory",
-      "weeknight"
+      "pork",
+      "yogurt",
+      "slow-cooking"
     ],
-    "cuisine": "filipino",
-    "totalTimeMin": 75,
+    "cuisine": "Filipino",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -8479,19 +8478,14 @@
   },
   {
     "slug": "kissed-mexican-dish-tacos",
-    "title": "kissed mexican dish tacos",
+    "title": "Kissed Mexican Tacos",
     "tags": [
-      "fish",
-      "gluten-free",
       "mexican",
-      "no-garlic",
-      "no-onion",
-      "one-pan",
-      "spring",
-      "weeknight"
+      "tacos",
+      "fusioneating"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 27,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
