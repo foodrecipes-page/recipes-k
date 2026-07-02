@@ -7414,15 +7414,14 @@
   },
   {
     "slug": "kissed-indulgent-algerian-lamb-tagine",
-    "title": "Kissed Indulgent Algerian Lamb Tagine",
+    "title": "Lamb Tagine with Algerian Flair",
     "tags": [
-      "algerian",
-      "indulgent",
       "lamb",
-      "rich",
-      "slow-cooked",
+      "algerian",
       "tagine",
-      "tandoor"
+      "cuisine",
+      "cozy",
+      "evening"
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 180,
@@ -7693,13 +7692,15 @@
   },
   {
     "slug": "kissed-japanese-oregano-soba",
-    "title": "Kissed Japanese Oregano Soba",
+    "title": "Japanese Kissed Soba Noodle Bowl",
     "tags": [
-      "japanese",
-      "lunch"
+      "easy",
+      "lunch",
+      "noodles",
+      "sesame oil"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -8219,17 +8220,14 @@
   },
   {
     "slug": "kissed-light-peruvian-almond-suspiro-limeno",
-    "title": "Kissed Light Peruvian Almond Suspiro Limeno",
+    "title": "Peruvian Suspiro Dessert",
     "tags": [
-      "almond-butter",
-      "anti-inflammatory",
-      "gluten-free",
-      "light-and-creamy",
-      "peruvian-dessert",
-      "vegetarian"
+      "peruvian",
+      "dessert",
+      "chocolate"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
