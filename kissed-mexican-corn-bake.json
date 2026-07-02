@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-mexican-corn-bake",
+  "title": "Mexican Corn Bake",
+  "description": "A delicious and easy Mexican-inspired corn bake that's perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "corn kernels",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Mexican cheese blend",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bake",
+      "amount": "1 package",
+      "notes": "cornbread mix"
+    },
+    {
+      "name": "kissed chicken breast",
+      "amount": "1 pound",
+      "notes": "cooked and shredded"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine corn kernels, Mexican cheese blend, and bake.",
+    "Stir in kissed chicken breast, sour cream, and chopped cilantro (if using).",
+    "Season with salt and pepper to taste.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until the casserole is hot and the cheese is melted.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "corn",
+    "casserole",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mexican-corn-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:56:48.806Z"
+}
