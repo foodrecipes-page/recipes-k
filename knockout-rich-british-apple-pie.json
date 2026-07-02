@@ -1,0 +1,66 @@
+{
+  "slug": "knockout-rich-british-apple-pie",
+  "title": "A Classic British Apple Pie",
+  "description": "A traditional British dessert filled with tender apples and topped with a crumbly crust. Perfect for a warm and comforting treat.",
+  "cuisine": "British",
+  "diet": [
+    "Vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "3"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Cold Butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and slice the apples into thin wedges.",
+    "In a large bowl, combine the flour, sugar, and a pinch of salt.",
+    "Add the cold butter and use a pastry blender or your fingertips to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Add the eggs and stir until the dough comes together in a ball.",
+    "Turn the dough out onto a lightly floured surface and roll it out to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch pie dish and trim the edges to fit.",
+    "Fill the pie crust with the sliced apples and dot the top with a little bit of butter.",
+    "Roll out the remaining dough to a thickness of about 1/8 inch and use it to cover the pie. Crimp the edges to seal.",
+    "Cut a few slits in the top crust to allow steam to escape.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Let the pie cool for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apple-pie",
+    "british-dessert",
+    "homemade-pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-rich-british-apple-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:05:50.857Z"
+}
