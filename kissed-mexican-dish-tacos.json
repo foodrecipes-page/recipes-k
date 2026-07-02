@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-mexican-dish-tacos",
+  "title": "Kissed Mexican Tacos",
+  "description": "A fusion of sweet and savory flavors in a crispy taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Taco seasoning",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Kissed dish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tortillas (corn)",
+      "amount": "8-10"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced lettuce",
+      "amount": "1 head"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook ground beef in a pan over medium-high heat until browned, breaking it into small pieces.",
+    "Add taco seasoning to the pan and stir to combine.",
+    "Simmer the mixture for 2-3 minutes.",
+    "Stir in kissed dish sauce and cook for an additional minute.",
+    "Warm tortillas in the oven for 5-7 minutes.",
+    "Assemble tacos by spooning beef mixture onto a warmed tortilla, followed by a spoonful of shredded cheese, a few leaves of lettuce, a few diced tomatoes, and a slice of avocado.",
+    "Top with a dollop of sour cream and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "fusioneating"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mexican-dish-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:23:06.607Z"
+}
