@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-smoky-syrian-pork-back-ribs-grill",
+  "title": "Smoked Pork Ribs",
+  "description": "Fall-off-the-bone tender pork ribs smothered in a sweet and tangy BBQ sauce.",
+  "cuisine": "American",
+  "diet": [
+    "meat-only"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds",
+      "notes": "1 rack, membrane removed"
+    },
+    {
+      "name": "smoky BBQ rub",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "kissed honey",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "syrian garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "back bacon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "grill wood chips",
+      "amount": "1 cup",
+      "notes": "such as hickory or apple"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 225°F (110°C) for low-and-slow cooking.",
+    "Remove membrane from the back of the ribs and season with salt, pepper, and BBQ rub.",
+    "Place ribs on the grill and cook for 4-5 hours, or until tender.",
+    "After 2 hours, brush with kissed honey and sprinkle with syrian garlic.",
+    "If using, wrap bacon slices around the ends of the ribs.",
+    "During the last 30 minutes, add grill wood chips to the grill for a smoky flavor.",
+    "Remove ribs from the grill and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 240,
+  "totalTimeMin": 270,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "bbq",
+    "grill",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-syrian-pork-back-ribs-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:33:52.165Z"
+}
