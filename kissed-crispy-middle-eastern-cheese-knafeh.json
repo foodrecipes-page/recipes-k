@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-crispy-middle-eastern-cheese-knafeh",
+  "title": "Eastern Knafeh Cheesecake",
+  "description": "A creamy cheesecake dessert with a crispy knafeh crust, inspired by Middle Eastern flavors.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Knafeh",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Eastern cheese",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy crispy pastry",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "Kissed honey",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a bowl, mix milk, sugar, and vanilla extract.",
+    "Add cheese and mix until smooth.",
+    "Prepare the knafeh crust according to package instructions.",
+    "Place the crispy pastry sheet on a baking sheet.",
+    "Pour the cheesecake mixture over the pastry.",
+    "Bake for 30 minutes.",
+    "Remove and let cool.",
+    "If desired, drizzle with kissed honey.",
+    "Chill in the refrigerator for at least 2 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "cheesecake",
+    "knaffeh",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-middle-eastern-cheese-knafeh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:56:45.715Z"
+}
