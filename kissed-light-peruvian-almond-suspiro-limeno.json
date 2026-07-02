@@ -1,0 +1,100 @@
+{
+  "slug": "kissed-light-peruvian-almond-suspiro-limeno",
+  "title": "Peruvian Suspiro Dessert",
+  "description": "A traditional Peruvian dessert made with meringue and dulce de leche.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Suspiro powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Light corn syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Kissed chocolate chips",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime zest",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, whisk together the almond flour, suspiro powder, and granulated sugar.",
+    "Add the unsalted butter and mix until the mixture resembles coarse crumbs.",
+    "Press the mixture into a 9-inch (23 cm) springform pan.",
+    "Bake for 20-22 minutes or until lightly golden.",
+    "While the crust is baking, prepare the dulce de leche by heating the heavy cream and light corn syrup in a small saucepan over medium heat.",
+    "Bring the mixture to a simmer and cook for 5-7 minutes or until thickened.",
+    "Remove from heat and stir in the kissed chocolate chips until melted.",
+    "Add the lime zest and lime juice, and stir to combine.",
+    "Pour the dulce de leche over the baked crust.",
+    "Return the pan to the oven and bake for an additional 5-7 minutes or until the edges are set.",
+    "Remove from the oven and let cool completely.",
+    "Once cooled, refrigerate the dessert for at least 2 hours or until chilled.",
+    "Release the springform pan sides and transfer the dessert to a serving plate.",
+    "Drizzle with additional dulce de leche, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "dessert",
+    "chocolate"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-peruvian-almond-suspiro-limeno",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:54:30.111Z"
+}
