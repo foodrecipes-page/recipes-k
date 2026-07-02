@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-light-venezuelan-suet-soup",
+  "title": "Venezuelan Suet Soup",
+  "description": "A hearty and comforting soup made with suet and a touch of Venezuelan spices. Perfect for a chilly evening.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Suet",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Venezuelan light broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Kissed onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Melt the suet in a large pot over medium heat.",
+    "Add the kissed onion and cook until softened, about 5 minutes.",
+    "Add the Venezuelan light broth and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "comfort-food",
+    "latin american",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-venezuelan-suet-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T07:28:26.147Z"
+}
