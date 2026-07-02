@@ -5756,16 +5756,16 @@
   },
   {
     "slug": "kissed-dense-ukrainian-mushroom-pilaf",
-    "title": "Kissed Dense Ukrainian Mushroom Pilaf",
+    "title": "Ukrainian Mushroom Kissed Pilaf",
     "tags": [
-      "comfort-food",
-      "mushroom-lovers",
-      "one-pot",
-      "smoky-flavors",
-      "ukrainian-cuisine"
+      "ukrainian",
+      "mushroom",
+      "pilaf",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -7840,17 +7840,15 @@
   },
   {
     "slug": "kissed-juicy-polish-pork-skillet",
-    "title": "Kissed Juicy Polish Pork Skillet",
+    "title": "Pan-Seared Polish Pork Chops",
     "tags": [
-      "curry-based",
-      "low-carb",
-      "one-pan",
-      "polish-cuisine",
-      "pork-recipe",
-      "weeknight"
+      "polish-pork",
+      "pan-seared",
+      "dinner",
+      "easy"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
