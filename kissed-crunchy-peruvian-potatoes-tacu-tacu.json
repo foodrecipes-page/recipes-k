@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-crunchy-peruvian-potatoes-tacu-tacu",
+  "title": "Peruvian Tacu Tacu with Crispy Potatoes",
+  "description": "A traditional Peruvian dish made with crispy fried potatoes, beans, and onions, served with a fried egg and crispy Tacu.",
+  "cuisine": "peruvian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tacu",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Canellini beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Crushed red pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Boil the potatoes until tender, then drain and let cool.",
+    "Heat vegetable oil in a large skillet over medium-high heat.",
+    "Add the onion to the skillet and sauté until softened, about 5 minutes.",
+    "Add the fried potatoes, canellini beans, salt, and black pepper to the skillet and stir to combine.",
+    "Using your hands, shape the mixture into 2-3 patties.",
+    "Fry the patties until crispy and golden, about 3-4 minutes per side.",
+    "Meanwhile, fry the Tacu in the skillet until crispy.",
+    "Crack the egg into the skillet and fry until the whites are set and the yolks are cooked to your desired doneness.",
+    "To assemble the dish, place a fried Tacu patty on a plate, top with a fried egg, and serve with the crispy potato and bean mixture.",
+    "Garnish with crushed red pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "tacu_tacu",
+    "crispy_potatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-peruvian-potatoes-tacu-tacu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:05:09.171Z"
+}
