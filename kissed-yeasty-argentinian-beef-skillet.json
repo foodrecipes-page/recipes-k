@@ -1,0 +1,111 @@
+{
+  "slug": "kissed-yeasty-argentinian-beef-skillet",
+  "title": "Argentinian-Style Beef Skillet",
+  "description": "A hearty beef skillet recipe inspired by Argentinean cuisine, featuring kissed beef and a yeasty crust.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (1.5 lbs)",
+      "amount": "1.5 lbs",
+      "notes": "Flank steak or skirt steak work well for this recipe"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "Cast-iron skillet ideal for this recipe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "garlic (3 cloves)",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "onion (1 medium)",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "tomato (1 medium)",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "red wine (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth (1 cup)",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "yeast (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Active dry yeast or instant yeast work well"
+    },
+    {
+      "name": "kissed (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Assumed to be a type of salt or spice; adjust as needed"
+    },
+    {
+      "name": "salt (1 tsp)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper (1 tsp)",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the beef with salt, black pepper, and kissed.",
+    "Heat the olive oil in a cast-iron skillet over medium-high heat.",
+    "Sear the beef for 2-3 minutes per side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 10-12 minutes, or until the beef reaches an internal temperature of 130°F (54°C) for medium-rare.",
+    "Remove the skillet from the oven and let the beef rest for 5 minutes.",
+    "Add the garlic, onion, and tomato to the skillet and cook over medium heat until the vegetables are softened.",
+    "Add the red wine and beef broth to the skillet and stir to combine.",
+    "Return the beef to the skillet and spoon some of the sauce over the top.",
+    "Sprinkle the yeast over the sauce and let it dissolve.",
+    "Serve the beef with the sauce spooned over the top and garnished with fresh parsley.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-argentinian-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:17:32.690Z"
+}
