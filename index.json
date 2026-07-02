@@ -932,17 +932,16 @@
   },
   {
     "slug": "kicked-australian-lentil-stew",
-    "title": "Kicked Australian Lentil Stew",
+    "title": "Australian Lentil Stew",
     "tags": [
       "australian",
-      "comfort-food",
-      "macrobiotic",
-      "peppery",
-      "slow-cook",
-      "vegan"
+      "lentil",
+      "stew",
+      "vegan",
+      "gluten-free"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 135,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -2092,15 +2091,15 @@
   },
   {
     "slug": "kicked-warm-roasted-ananas-argentinian-pancake",
-    "title": "Kicked Warm-Roasted Ananas Argentinian Pancake",
+    "title": "Argentinian Pancake with Caramelized Ananas",
     "tags": [
-      "air-fried",
-      "argentinean-dish",
-      "low-glycemic-friendly",
-      "warm-roasted"
+      "breakfast",
+      "argentinian",
+      "pancakes",
+      "caramelized-ananas"
     ],
-    "cuisine": "Argentinean",
-    "totalTimeMin": 20,
+    "cuisine": "argentinian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
