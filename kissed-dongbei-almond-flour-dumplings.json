@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-dongbei-almond-flour-dumplings",
+  "title": "Traditional Dongbei Dumplings with Almond Filling",
+  "description": "A classic Chinese dish originating from the northeastern region of Dongbei, these dumplings are filled with a sweet and savory almond paste. Serve them steamed or pan-fried for a delicious and satisfying meal.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kissed",
+      "amount": "2 cups",
+      "notes": "ground almonds"
+    },
+    {
+      "name": "dongbei",
+      "amount": "1 package",
+      "notes": "wonton wrappers"
+    },
+    {
+      "name": "almond",
+      "amount": "1/4 cup",
+      "notes": "sliced almonds for garnish"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine kissed and 1 tablespoon of water to form a dough. Knead for 5 minutes until smooth.",
+    "Divide the dough into small balls, about the size of a small egg.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a small spoonful of almond paste in the center of each dough circle.",
+    "Dip your finger in water and run it along the edges of the dough circle.",
+    "Fold the dough in half to form a half-moon shape, pressing the edges together to seal.",
+    "Repeat with the remaining dough and filling.",
+    "To cook, steam the dumplings for 10-12 minutes, or pan-fry with a small amount of oil until golden brown.",
+    "Serve hot with a garnish of sliced almonds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "almond",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dongbei-almond-flour-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:16:10.583Z"
+}
