@@ -10751,17 +10751,14 @@
   },
   {
     "slug": "kissed-smoky-syrian-pork-back-ribs-grill",
-    "title": "Kissed Smoky Syrian Pork Back Ribs Grill",
+    "title": "Smoked Pork Ribs",
     "tags": [
-      "finger-food",
-      "grilled",
-      "high-protein",
-      "middle-eastern",
-      "romantic",
-      "syrian"
+      "bbq",
+      "grill",
+      "pork"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 2,
+    "cuisine": "American",
+    "totalTimeMin": 270,
     "shard": "k"
   },
   {
@@ -12179,17 +12176,15 @@
   },
   {
     "slug": "kissed-velvety-brazilian-chicken-stew",
-    "title": "Kissed Velvety Brazilian Chicken Stew",
+    "title": "Brazilian Chicken Stew",
     "tags": [
-      "ayurvedic",
-      "brazilian-food",
-      "chicken-recipes",
-      "coconut-milk",
-      "gluten-free",
-      "one-pot"
+      "chicken",
+      "stew",
+      "brazilian",
+      "comfort-food"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
