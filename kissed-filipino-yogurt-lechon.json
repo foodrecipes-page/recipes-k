@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-filipino-yogurt-lechon",
+  "title": "Filipino Lechon-Inspired Pork Belly with Spiced Yogurt",
+  "description": "A twist on traditional Filipino lechon, this recipe features slow-cooked pork belly with a tangy and spicy yogurt sauce.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound"
+    },
+    {
+      "name": "kissed lechon sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the pork belly with salt, black pepper, and paprika.",
+    "Roast the pork belly in the oven for 20 minutes.",
+    "While the pork belly is roasting, mix together the kissed lechon sauce and yogurt.",
+    "After the pork belly has roasted for 20 minutes, reduce the heat to 325°F (165°C) and continue to cook for another 30 minutes.",
+    "Remove the pork belly from the oven and brush with the spiced yogurt sauce.",
+    "Return the pork belly to the oven and continue to cook for another 10-15 minutes, or until the internal temperature reaches 160°F (71°C).",
+    "Remove the pork belly from the oven and let it rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "pork",
+    "yogurt",
+    "slow-cooking"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-filipino-yogurt-lechon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T03:15:25.795Z"
+}
