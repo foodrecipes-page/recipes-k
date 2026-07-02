@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-golden-canadian-jersey-royal-potatoes-gratin",
+  "title": "Creamy Golden Jersey Potatoes",
+  "description": "A rich and indulgent side dish featuring golden jersey potatoes, topped with a creamy kissed golden sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Golden Jersey Potatoes",
+      "amount": "4-5 medium-sized"
+    },
+    {
+      "name": "Kissed Golden Sauce",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Canadian Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Royal Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and slice the potatoes to 1/4 inch thickness.",
+    "In a saucepan, melt the Canadian butter over medium heat.",
+    "Add the Golden Jersey Potatoes to the saucepan and toss to coat with the butter.",
+    "Transfer the potato mixture to a baking dish and dot the top with the Kissed Golden Sauce.",
+    "Sprinkle the Royal Salt over the top and bake for 20-25 minutes, or until golden brown.",
+    "Garnish with chopped fresh chives and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "potatoes",
+    "sauce",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "3g",
+    "carbs": "30g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-canadian-jersey-royal-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:10:15.539Z"
+}
