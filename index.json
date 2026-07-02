@@ -5137,15 +5137,12 @@
   },
   {
     "slug": "kissed-crispy-middle-eastern-cheese-knafeh",
-    "title": "Kissed Crispy Middle Eastern Cheese Knafeh",
+    "title": "Eastern Knafeh Cheesecake",
     "tags": [
-      "appetizer",
-      "cheesy",
-      "crispy",
-      "flexitarian",
-      "middle-eastern",
-      "snack",
-      "vegetarian"
+      "dessert",
+      "cheesecake",
+      "knaffeh",
+      "middle-eastern"
     ],
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
@@ -8454,17 +8451,15 @@
   },
   {
     "slug": "kissed-mexican-corn-bake",
-    "title": "Kissed Mexican Corn Bake",
+    "title": "Mexican Corn Bake",
     "tags": [
-      "corn",
-      "fermented",
-      "low-sodium",
       "mexican",
-      "romantic",
-      "wood-fired"
+      "corn",
+      "casserole",
+      "bake"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
