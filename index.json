@@ -3487,16 +3487,14 @@
   },
   {
     "slug": "kissed-buttery-chinese-cox-apple-wonton-soup",
-    "title": "Kissed Buttery Chinese Cox Apple Wonton Soup",
+    "title": "Buttery Wonton Soup with Diced Apple",
     "tags": [
-      "brunch-recipe",
-      "chinese-cuisine",
-      "jain-friendly",
-      "vegetarian-dish",
-      "wonton-soup"
+      "chinese",
+      "comfort-food",
+      "soup"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -5559,16 +5557,14 @@
   },
   {
     "slug": "kissed-crunchy-peruvian-potatoes-tacu-tacu",
-    "title": "Kissed Crunchy Peruvian Potatoes Tacu Tacu",
+    "title": "Peruvian Tacu Tacu with Crispy Potatoes",
     "tags": [
-      "copper-mug-recipes",
-      "gluten-free",
-      "midnight-cravings",
-      "peruvian-food",
-      "vegetarian-recipes"
+      "peruvian",
+      "tacu_tacu",
+      "crispy_potatoes"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -9472,17 +9468,15 @@
   },
   {
     "slug": "kissed-roasted-british-corn-tagine",
-    "title": "Kissed Roasted British Corn Tagine",
+    "title": "Roasted Corn Fritters with British Kissed Aioli",
     "tags": [
-      "british-cuisine",
-      "corn-dishes",
-      "gluten-free",
-      "one-pot",
-      "roasted-vegetables",
-      "vegetarian"
+      "british",
+      "corn",
+      "fritters",
+      "aioli"
     ],
     "cuisine": "British",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -14198,16 +14192,13 @@
   },
   {
     "slug": "kneaded-buttery-portuguese-yoghurt-pasta",
-    "title": "Kneaded Buttery Portuguese Yoghurt Pasta",
+    "title": "Creamy Pasta Bake",
     "tags": [
-      "comfort-food",
-      "indulgent",
-      "one-pot",
       "pasta",
-      "portuguese",
-      "vegan"
+      "creamy",
+      "comfort-food"
     ],
-    "cuisine": "Portuguese",
+    "cuisine": null,
     "totalTimeMin": 40,
     "shard": "k"
   },
