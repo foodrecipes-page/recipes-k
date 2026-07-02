@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-velvety-brazilian-chicken-stew",
+  "title": "Brazilian Chicken Stew",
+  "description": "A hearty and flavorful stew originating from Brazil, made with tender chicken and rich velvety sauce.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "omnivore",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "kissed velvety brazilian stew mix",
+      "amount": "1 package",
+      "notes": "available at local market"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a large Dutch oven over medium heat.",
+    "2. Add onion and garlic; cook until softened, 5 minutes.",
+    "3. Add stew mix and cook, stirring constantly, 1 minute.",
+    "4. Add broth and bring to a boil.",
+    "5. Add chicken and return to a boil.",
+    "6. Reduce heat to low and simmer, covered, 20 minutes or until chicken is cooked through.",
+    "7. Season with salt and pepper to taste.",
+    "8. Serve hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "stew",
+    "brazilian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-brazilian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T04:38:49.982Z"
+}
