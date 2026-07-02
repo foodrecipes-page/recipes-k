@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-juicy-polish-pork-skillet",
+  "title": "Pan-Seared Polish Pork Chops",
+  "description": "Tender and juicy pork chops seared to perfection in a skillet. A delicious and easy dinner recipe.",
+  "cuisine": null,
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish pork chops",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Skillet",
+      "amount": null,
+      "notes": "for searing"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Season pork chops with salt and pepper.",
+    "Heat a skillet over medium-high heat.",
+    "Add olive oil to the skillet and swirl to coat.",
+    "Sear pork chops for 2-3 minutes on each side, or until browned.",
+    "Reduce heat to medium-low and continue cooking for an additional 5 minutes, or until cooked through.",
+    "Let pork chops rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "polish-pork",
+    "pan-seared",
+    "dinner",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-juicy-polish-pork-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:54:16.079Z"
+}
