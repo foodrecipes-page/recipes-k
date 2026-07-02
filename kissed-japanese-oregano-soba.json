@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-japanese-oregano-soba",
+  "title": "Japanese Kissed Soba Noodle Bowl",
+  "description": "A simple and flavorful Japanese-inspired soba noodle bowl with a kissed sesame dressing.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Soba noodles",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Japanese kissed sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Oregano",
+      "amount": "1 tsp dried",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/2 cup thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Toasted sesame oil for garnish",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook soba noodles according to package instructions.",
+    "In a small bowl, whisk together kissed sesame oil, oregano, and sesame seeds.",
+    "In a separate pan, toast the sesame seeds over low heat for 2-3 minutes.",
+    "In a large bowl, combine the cooked soba noodles, green onions, and sesame oil dressing.",
+    "Toss to coat the noodles evenly with the dressing.",
+    "Transfer the noodles to individual bowls and garnish with toasted sesame oil.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "lunch",
+    "noodles",
+    "sesame oil"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-japanese-oregano-soba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:29:02.767Z"
+}
