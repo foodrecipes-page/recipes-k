@@ -5537,17 +5537,15 @@
   },
   {
     "slug": "kissed-crunchy-japanese-lamb-skewers",
-    "title": "Kissed Crunchy Japanese Lamb Skewers",
+    "title": "Japanese Lamb Skewers",
     "tags": [
-      "brunch-ideas",
-      "dairy-free",
-      "gluten-free",
-      "japanese-inspired",
-      "lamb-recipes",
-      "tandoor-cooking"
+      "japanese",
+      "grilled",
+      "lamb",
+      "skewers"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 32,
+    "cuisine": "japanese",
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {
@@ -14834,17 +14832,14 @@
   },
   {
     "slug": "knockout-rich-british-apple-pie",
-    "title": "Knockout Rich British Apple Pie",
+    "title": "A Classic British Apple Pie",
     "tags": [
       "apple-pie",
-      "british-classic",
-      "caramelized-apples",
-      "crowd-pleaser",
-      "phyllo-dough",
-      "warm-dessert"
+      "british-dessert",
+      "homemade-pie"
     ],
     "cuisine": "British",
-    "totalTimeMin": 70,
+    "totalTimeMin": 65,
     "shard": "k"
   },
   {
