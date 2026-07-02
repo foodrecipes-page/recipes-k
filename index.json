@@ -4411,17 +4411,14 @@
   },
   {
     "slug": "kissed-charred-jamaican-peanut-bowl",
-    "title": "Kissed Charred Jamaican Peanut Bowl",
+    "title": "Peanut Jamaican Chicken Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "jamaican-cuisine",
-      "low-carb",
-      "meal-prep",
-      "one-bowl"
+      "peanut",
+      "jamaican",
+      "chicken"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -6109,16 +6106,15 @@
   },
   {
     "slug": "kissed-ethiopian-herbal-hash",
-    "title": "Kissed Ethiopian Herbal Hash",
+    "title": "Herbal Hash Breakfast Bowl",
     "tags": [
-      "comforting",
-      "easy-to-make",
+      "breakfast",
+      "brunch",
       "ethiopian",
-      "herbal",
-      "vegetarian"
+      "herbal-hash"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 75,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
