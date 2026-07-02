@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-smoky-indian-shrimp-curry",
+  "title": "Smoky Shrimp Curry",
+  "description": "A flavorful and spicy curry dish made with smoky shrimp and indian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "smoky curry powder",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "kissed coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add cumin seeds and let them sizzle for a few seconds.",
+    "Add onion and cook until it's translucent.",
+    "Add garlic and cook for another minute.",
+    "Add curry powder and turmeric powder. Cook for 1-2 minutes.",
+    "Add shrimp and cook until it's pink.",
+    "Add coconut milk, salt, chili powder, and lemon juice. Stir well.",
+    "Reduce heat to low and simmer for 5-7 minutes.",
+    "Serve hot with rice or naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "shrimp",
+    "smoky",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-indian-shrimp-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T08:13:53.056Z"
+}
