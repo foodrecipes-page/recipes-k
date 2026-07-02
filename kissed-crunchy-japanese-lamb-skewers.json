@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-crunchy-japanese-lamb-skewers",
+  "title": "Japanese Lamb Skewers",
+  "description": "Marinated lamb skewers grilled to perfection, inspired by Japanese flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": "to balance savory and sweet"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": "to enhance umami"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for acidity"
+    },
+    {
+      "name": "crunchy sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "for added texture"
+    },
+    {
+      "name": "kissed garlic",
+      "amount": "2 cloves",
+      "notes": "minced and crushed"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine sugar, soy sauce, rice vinegar, sesame seeds, and garlic. Blend until smooth.",
+    "2. Add lamb cubes to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread marinated lamb onto skewers, leaving a small space between each piece.",
+    "5. Brush grill with oil to prevent sticking. Grill skewers for 8-10 minutes, turning occasionally.",
+    "6. Grill to an internal temperature of 145°F (63°C) for medium-rare.",
+    "7. Transfer skewers to a plate and garnish with chopped green onions.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "grilled",
+    "lamb",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-japanese-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:18:59.203Z"
+}
