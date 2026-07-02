@@ -5768,16 +5768,15 @@
   },
   {
     "slug": "kissed-dongbei-almond-flour-dumplings",
-    "title": "Kissed Dongbei Almond Flour Dumplings",
+    "title": "Traditional Dongbei Dumplings with Almond Filling",
     "tags": [
-      "almond-flour",
-      "kosher-friendly",
-      "night-craving",
-      "quick-snack",
-      "steamed-dumplings"
+      "chinese",
+      "dumplings",
+      "almond",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -6838,16 +6837,15 @@
   },
   {
     "slug": "kissed-golden-canadian-jersey-royal-potatoes-gratin",
-    "title": "Kissed Golden Canadian Jersey Royal Potatoes Gratin",
+    "title": "Creamy Golden Jersey Potatoes",
     "tags": [
-      "canadian-cuisine",
-      "cheesy-dishes",
-      "herbal-recipes",
-      "potato-gratin",
-      "special-occasion"
+      "potatoes",
+      "sauce",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -8251,16 +8249,15 @@
   },
   {
     "slug": "kissed-light-venezuelan-suet-soup",
-    "title": "Kissed Light Venezuelan Suet Soup",
+    "title": "Venezuelan Suet Soup",
     "tags": [
-      "creamy-soup",
-      "fermented-dough",
-      "lacto-friendly",
-      "light-soup",
-      "scallop-shell"
+      "soup",
+      "comfort-food",
+      "latin american",
+      "hearty"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 65,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -10550,16 +10547,16 @@
   },
   {
     "slug": "kissed-smoky-indian-shrimp-curry",
-    "title": "Kissed Smoky Indian Shrimp Curry",
+    "title": "Smoky Shrimp Curry",
     "tags": [
-      "indian-cuisine",
-      "one-pan",
-      "seafood",
+      "indian",
+      "curry",
+      "shrimp",
       "smoky",
-      "weeknight"
+      "easy-dinner"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "cuisine": "indian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -13663,14 +13660,11 @@
   },
   {
     "slug": "kissed-yeasty-argentinian-beef-skillet",
-    "title": "Kissed Yeasty Argentinian Beef Skillet",
+    "title": "Argentinian-Style Beef Skillet",
     "tags": [
       "argentinian",
-      "beef-skillet",
-      "gluten-free",
-      "low-calorie",
-      "one-pot",
-      "yeasty"
+      "beef",
+      "skillet"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
