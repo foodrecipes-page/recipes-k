@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-roasted-british-corn-tagine",
+  "title": "Roasted Corn Fritters with British Kissed Aioli",
+  "description": "A crispy corn fritter recipe served with a tangy British kissed aioli, adding a delightful twist to a classic dish.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "kissed",
+      "amount": "1/2 cup",
+      "notes": "Milk or buttermilk"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "Gluten-free flour for gluten-free option"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "Beaten"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "Kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "british",
+      "amount": "2 tablespoons",
+      "notes": "Butter, melted"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tablespoon",
+      "notes": "Olive oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, whisk together the flour, egg, kissed, salt, and black pepper.",
+    "3. Add the corn, chopped cilantro, and melted British to the bowl. Mix until just combined.",
+    "4. Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly into patties.",
+    "5. Heat the tagine in a large skillet over medium heat.",
+    "6. Add the patties to the skillet and cook for 3-4 minutes on each side, until golden brown.",
+    "7. Transfer the fritters to a baking sheet and bake for 5-7 minutes, until crispy.",
+    "8. Serve the fritters hot with a dollop of British kissed aioli.",
+    "9. To make the aioli, mix together 1/2 cup mayonnaise, 1 tablespoon kissed, and 1 tablespoon chopped British in a small bowl.",
+    "10. Refrigerate the aioli until ready to serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "corn",
+    "fritters",
+    "aioli"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-british-corn-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:23:05.074Z"
+}
