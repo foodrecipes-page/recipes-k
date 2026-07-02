@@ -1,0 +1,82 @@
+{
+  "slug": "kicked-australian-lentil-stew",
+  "title": "Australian Lentil Stew",
+  "description": "A hearty and flavorful stew made with lentils and Australian ingredients. Perfect for a cold winter's night.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kicked beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add the onion, carrot, and potato, and cook until the vegetables are tender.",
+    "Add the Australian lentils, beef broth, tomato paste, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "lentil",
+    "stew",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-australian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T23:26:31.119Z"
+}
