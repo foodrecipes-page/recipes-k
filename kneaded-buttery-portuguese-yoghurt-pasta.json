@@ -1,0 +1,61 @@
+{
+  "slug": "kneaded-buttery-portuguese-yoghurt-pasta",
+  "title": "Creamy Pasta Bake",
+  "description": "A rich and comforting pasta dish, made with a creamy mixture of yoghurt and buttery goodness. Perfect for a cozy evening.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portuguese pasta",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Kneaded pasta dough (from previous recipe)",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Buttery",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Yoghurt",
+      "amount": "200g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Cook the Portuguese pasta according to package instructions.",
+    "In a separate pan, melt the buttery over low heat.",
+    "Add the kneaded pasta dough to the pan and stir until it's well combined with the buttery.",
+    "Remove the pan from heat and stir in the yoghurt until smooth.",
+    "Combine the cooked pasta with the yoghurt mixture and stir until well combined.",
+    "Transfer the pasta mixture to a baking dish and top with additional kneaded pasta dough if desired.",
+    "Bake in the preheated oven for 20-25 minutes or until the top is golden brown.",
+    "Remove from the oven and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "creamy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneaded-buttery-portuguese-yoghurt-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:59:53.120Z"
+}
