@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-charred-jamaican-peanut-bowl",
+  "title": "Peanut Jamaican Chicken Bowl",
+  "description": "A flavorful and spicy dish featuring chicken cooked in a Jamaican-inspired peanut sauce, served in a bowl with charred vegetables.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "charred vegetables",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breast with jamaican jerk seasoning.",
+    "Cook the chicken in a skillet with olive oil until browned on both sides.",
+    "Transfer the chicken to the oven and cook until cooked through.",
+    "In a blender, combine peanut butter, soy sauce, brown sugar, and rice vinegar.",
+    "Blend the mixture until smooth.",
+    "Heat the peanut butter mixture in a skillet over medium heat.",
+    "Add the cooked chicken to the skillet and toss to coat with the peanut butter sauce.",
+    "Cook the red onion and bell pepper in a skillet with olive oil until charred.",
+    "Serve the chicken in a bowl with the charred vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "peanut",
+    "jamaican",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 28,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-jamaican-peanut-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T13:20:33.691Z"
+}
