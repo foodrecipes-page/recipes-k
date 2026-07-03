@@ -1,0 +1,75 @@
+{
+  "slug": "knocked-up-grassy-american-lamb-bowl",
+  "title": "Grilled Lamb Chops with Herb Crust",
+  "description": "A simple recipe for lamb chops with a herby crust, perfect for a quick dinner. The lamb is marinated in a mixture of olive oil, garlic, and herbs before being grilled to perfection.",
+  "cuisine": null,
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "4",
+      "notes": "chops, about 1 inch thick"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped rosemary",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped thyme",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together olive oil, rosemary, thyme, garlic, salt, and pepper.",
+    "Add the lamb chops to the bowl and toss to coat with the herb mixture.",
+    "Let the lamb marinate for at least 15 minutes.",
+    "Remove the lamb from the marinade and grill for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the lamb rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "lamb",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knocked-up-grassy-american-lamb-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T19:43:36.933Z"
+}
