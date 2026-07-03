@@ -1,0 +1,74 @@
+{
+  "slug": "kicky-snappy-american-black-olive-skewers",
+  "title": "Kicky Skewers with Olive Glaze",
+  "description": "A simple and flavorful skewer recipe featuring kicky chicken, glazed with a sweet olive sauce.",
+  "cuisine": "american",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kicky chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for glaze"
+    },
+    {
+      "name": "olives",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "snappy asparagus",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 block",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread chicken, asparagus, and olives onto skewers.",
+    "Season with black pepper.",
+    "Brush with olive oil.",
+    "Grill for 8-10 minutes, or until chicken is cooked through.",
+    "Meanwhile, mix together olive oil and olives.",
+    "Brush glaze over skewers during last 2 minutes of cooking.",
+    "Serve hot, topped with melted cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "asparagus",
+    "olives"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-snappy-american-black-olive-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:40:46.469Z"
+}
