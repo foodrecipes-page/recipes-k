@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-wok-slovakian-vegetable-stir-fry",
+  "title": "Slovakian Vegetable Stir Fry",
+  "description": "A quick and easy Slovakian-inspired vegetable stir fry made with a variety of colorful vegetables. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Slovakian vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Wok",
+      "amount": ""
+    },
+    {
+      "name": "Slovakian onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Kissed bell peppers",
+      "amount": "2 large"
+    },
+    {
+      "name": "Stir-fry carrots",
+      "amount": "1 large"
+    },
+    {
+      "name": "Fry broccoli",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Slovakian soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the Slovakian vegetable oil in a wok over medium-high heat.",
+    "Add the Slovakian onions and cook until they are translucent.",
+    "Add the kissed bell peppers, stir-fry carrots, and fry broccoli. Cook for 5 minutes.",
+    "Add the Slovakian soy sauce and garlic powder. Stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian-cuisine",
+    "vegetarian",
+    "easy-recipe",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-wok-slovakian-vegetable-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:36:49.306Z"
+}
