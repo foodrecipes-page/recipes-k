@@ -2370,18 +2370,15 @@
   },
   {
     "slug": "kicky-snappy-american-black-olive-skewers",
-    "title": "Kicky Snappy American Black Olive Skewers",
+    "title": "Kicky Skewers with Olive Glaze",
     "tags": [
-      "american",
-      "appetizer",
-      "citrusy",
-      "quick-snack",
-      "shojin",
-      "snappy",
-      "vegetarian"
+      "grilled",
+      "chicken",
+      "asparagus",
+      "olives"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 32,
+    "cuisine": "american",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -9577,16 +9574,18 @@
   },
   {
     "slug": "kissed-roasted-portuguese-peas-wrap",
-    "title": "Kissed Roasted Portuguese Peas Wrap",
+    "title": "Kicked-Up Portuguese Wrap",
     "tags": [
-      "gluten-free",
-      "portuguese-cuisine",
-      "romantic-dish",
-      "ti-leaf-wrap",
-      "vegetarian"
+      "portuguese",
+      "wrap",
+      "chicken",
+      "snack",
+      "lunch",
+      "quick",
+      "easy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "portuguese",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
