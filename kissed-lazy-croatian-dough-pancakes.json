@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-lazy-croatian-dough-pancakes",
+  "title": "Croatian Dough Pancakes",
+  "description": "A traditional Croatian breakfast dish made with a simple dough and topped with various ingredients.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "dough",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "lazy",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kissed",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine flour, sugar, and yeast.",
+    "Add milk, eggs, and melted butter. Mix until smooth.",
+    "Gradually add the dough and mix until a sticky ball forms.",
+    "Knead the dough for 5-7 minutes.",
+    "Place the dough in a greased bowl, cover, and let rise in a warm place for 1 hour.",
+    "Preheat a non-stick pan or griddle over medium heat.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Cut into desired shapes.",
+    "Cook the pancakes for 2-3 minutes on each side, until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "croatian",
+    "pancakes",
+    "dough"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-lazy-croatian-dough-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T06:34:22.794Z"
+}
