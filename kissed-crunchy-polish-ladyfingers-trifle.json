@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-crunchy-polish-ladyfingers-trifle",
+  "title": "Kissed Trifle Dessert",
+  "description": "A classic English trifle dessert with a modern twist, featuring kissed ladyfingers and crunchy polish cookies.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ladyfingers",
+      "amount": "12-15",
+      "notes": "Kissed with melted butter"
+    },
+    {
+      "name": "Polish Cookies",
+      "amount": "1 cup, crushed",
+      "notes": "Crunchy and sweet"
+    },
+    {
+      "name": "Whipped Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream whipped to stiff peaks"
+    },
+    {
+      "name": "Fresh Berries",
+      "amount": "1 cup",
+      "notes": "Strawberries, blueberries, or raspberries"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "2 tbsp",
+      "notes": "To balance the flavors"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1/4 tsp",
+      "notes": "For added depth"
+    }
+  ],
+  "instructions": [
+    "Begin by kissing the ladyfingers with melted butter and setting them aside.",
+    "Crush the Polish cookies and mix with granulated sugar.",
+    "In a large serving dish, create a layer of crushed cookies.",
+    "Arrange the kissed ladyfingers on top of the cookie layer.",
+    "Spread a layer of whipped cream over the ladyfingers.",
+    "Add a layer of fresh berries on top of the whipped cream.",
+    "Repeat the layers one more time, ending with a layer of whipped cream.",
+    "Drizzle with vanilla extract and serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "english",
+    "trifle",
+    "dessert",
+    "ladyfingers",
+    "polish-cookies"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-polish-ladyfingers-trifle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:02:33.721Z"
+}
