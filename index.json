@@ -7250,17 +7250,15 @@
   },
   {
     "slug": "kissed-herbal-french-rice-souffle",
-    "title": "Kissed Herbal French Rice Souffle",
+    "title": "Herbal Soufflé over French Rice",
     "tags": [
-      "french",
+      "souffle",
+      "rice",
       "herbal",
-      "low-glycemic",
-      "one-pot",
-      "puff-pastry",
-      "souffle"
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 43,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -13450,18 +13448,15 @@
   },
   {
     "slug": "kissed-with-sweetness-mediterranean-fish-pilaf",
-    "title": "Kissed with sweetness Mediterranean fish Pilaf",
+    "title": "Grilled Mediterranean Fish with Pilaf",
     "tags": [
-      "fish",
-      "gluten-free",
-      "high-protein",
       "mediterranean",
-      "one-pan",
-      "pescatarian-friendly",
-      "weeknight"
+      "fish",
+      "pilaf",
+      "grilled"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -14241,17 +14236,15 @@
   },
   {
     "slug": "kneaded-light-moroccan-pistachio-chebakia",
-    "title": "Kneaded Light Moroccan Pistachio Chebakia",
+    "title": "Moroccan-Style Chebakia Bites",
     "tags": [
-      "gluten-free",
-      "middle-eastern",
-      "moroccan-desserts",
-      "paleo-friendly",
-      "pistachio-based",
-      "whole30-friendly"
+      "moroccan",
+      "chebakia",
+      "pistachio",
+      "bite-sized"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
