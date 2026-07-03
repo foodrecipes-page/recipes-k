@@ -1,0 +1,86 @@
+{
+  "slug": "kiddie-polish-cod-casserole",
+  "title": "Kiddie Casserole with Polish Sausage and Cod",
+  "description": "A kid-friendly casserole with polish sausage and cod, perfect for a weeknight dinner. This hearty dish is a great way to get the whole family to eat together.",
+  "cuisine": null,
+  "diet": [
+    "kid-friendly",
+    "comfort food"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": "such as kielbasa"
+    },
+    {
+      "name": "Cod fish fillets",
+      "amount": "2 pounds",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 medium-sized",
+      "notes": "for the base of the dish"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cream of mushroom soup",
+      "amount": "1 can",
+      "notes": "10.5 oz"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": "2% or whole"
+    },
+    {
+      "name": "Shredded cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook the polish sausage in a pan over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onion and minced garlic to the pan and cook until the onion is translucent.",
+    "Add the cream of mushroom soup and milk to the pan and stir until combined.",
+    "Cut the cod fish into 1-inch pieces and add it to the pan. Cook for 2-3 minutes.",
+    "Transfer the casserole base to a 9x13 inch baking dish.",
+    "Pour the polish sausage and cod mixture over the casserole base.",
+    "Sprinkle the shredded cheddar cheese over the top of the dish.",
+    "Bake in the preheated oven for 25-30 minutes or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "casserole",
+    "fish",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kiddie-polish-cod-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:10:58.635Z"
+}
