@@ -7895,19 +7895,14 @@
   },
   {
     "slug": "kissed-kenyan-emmentaler-cheese-gratin",
-    "title": "Kissed Kenyan Emmentaler Cheese Gratin",
+    "title": "Kenyan Cheese Gratin",
     "tags": [
-      "dairy",
-      "emmentaler-cheese",
-      "gluten-free",
+      "cheese",
       "gratin",
-      "kenyan",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14610,17 +14605,14 @@
   },
   {
     "slug": "knocked-up-grassy-american-lamb-bowl",
-    "title": "Knocked up Grassy American Lamb Bowl",
+    "title": "Grilled Lamb Chops with Herb Crust",
     "tags": [
-      "american-cuisine",
-      "healthy-dinner",
-      "high-protein",
-      "lamb-recipes",
-      "post-workout",
-      "weeknight-meal"
+      "grilled",
+      "lamb",
+      "herbs"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 23,
     "shard": "k"
   },
   {
