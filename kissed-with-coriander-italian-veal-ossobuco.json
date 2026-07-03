@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-with-coriander-italian-veal-ossobuco",
+  "title": "Classic Italian Ossobuco",
+  "description": "A traditional Italian dish featuring braised veal shanks in a rich white wine sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "2 veal shanks",
+      "amount": "1.5-2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon olive oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup white wine",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon dried coriander",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 carrots, peeled and chopped",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the veal shanks with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the veal shanks until browned on all sides, about 5 minutes. Remove and set aside.",
+    "Reduce heat to medium and add the chopped onion. Cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the white wine and beef broth, scraping up any browned bits from the bottom of the pan.",
+    "Add the coriander, salt, and pepper. Stir to combine.",
+    "Return the veal shanks to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise for 2 1/2 to 3 hours, or until the meat is tender.",
+    "About 30 minutes before serving, add the chopped carrots to the pot.",
+    "Serve the ossobuco with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "ossobuco",
+    "veal"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-coriander-italian-veal-ossobuco",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:09:09.822Z"
+}
