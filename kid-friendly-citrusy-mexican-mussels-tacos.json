@@ -1,0 +1,86 @@
+{
+  "slug": "kid-friendly-citrusy-mexican-mussels-tacos",
+  "title": "Mussels Tacos with Citrusy Slaw",
+  "description": "A delicious and easy-to-make Mexican-inspired dish featuring fresh mussels, served in tacos with a refreshing citrusy slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mussels",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Orange juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon, grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Red cabbage",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the mussels under cold water and remove any broken shells.",
+    "In a large bowl, combine lime and orange juice, ginger, cumin, coriander, and salt.",
+    "Add the mussels to the bowl and toss to coat.",
+    "Let the mussels marinate for at least 30 minutes, or up to 2 hours in the refrigerator.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the mussels to the skillet and cook until they open, about 2-3 minutes.",
+    "Remove the mussels from the skillet and set aside.",
+    "In a separate bowl, combine the shredded red cabbage, thinly sliced red onion, and chopped cilantro.",
+    "Serve the mussels in tacos with the citrusy slaw on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mussels",
+    "tacos",
+    "citrusy",
+    "mexican",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kid-friendly-citrusy-mexican-mussels-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:04:18.566Z"
+}
