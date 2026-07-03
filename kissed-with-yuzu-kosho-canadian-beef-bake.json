@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-with-yuzu-kosho-canadian-beef-bake",
+  "title": "Kosho Beef Yuzu Steak",
+  "description": "A savory Japanese-inspired beef steak dish with a zesty yuzu kosho sauce. Perfect for a quick dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 pounds",
+      "notes": "ribeye or strip loin"
+    },
+    {
+      "name": "kosho",
+      "amount": "2 tablespoons",
+      "notes": "Japanese chili paste"
+    },
+    {
+      "name": "yuzu",
+      "amount": "2 tablespoons yuzu juice",
+      "notes": "or substitute with lemon juice"
+    },
+    {
+      "name": "with",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the beef with salt and pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the beef for 2-3 minutes per side.",
+    "Transfer the skillet to the oven and cook to desired doneness.",
+    "Let the beef rest for 5 minutes before slicing.",
+    "Whisk together kosho, yuzu juice, and garlic in a small bowl.",
+    "Serve the beef with the kosho yuzu sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "steak",
+    "japanese",
+    "kosho",
+    "yuzu"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-yuzu-kosho-canadian-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:48:51.798Z"
+}
