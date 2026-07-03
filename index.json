@@ -2617,17 +2617,15 @@
   },
   {
     "slug": "kiddie-polish-cod-casserole",
-    "title": "Kiddie Polish Cod Casserole",
+    "title": "Kiddie Casserole with Polish Sausage and Cod",
     "tags": [
-      "casserole",
-      "easy-dinner",
-      "family-meal",
       "kid-friendly",
-      "polish-cuisine",
-      "seafood"
+      "casserole",
+      "fish",
+      "sausage"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -12607,13 +12605,14 @@
   },
   {
     "slug": "kissed-with-coriander-italian-veal-ossobuco",
-    "title": "Kissed with Coriander Italian Veal Ossobuco",
+    "title": "Classic Italian Ossobuco",
     "tags": [
       "italian",
-      "dinner"
+      "ossobuco",
+      "veal"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
