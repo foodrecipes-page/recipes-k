@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-welsh-garlic-welsh-ploughman-s-platter",
+  "title": "Ploughman's Welsh Rarebit",
+  "description": "A classic Welsh dish made with melted cheese, beer, and spices. Serve over toasted bread for a comforting meal.",
+  "cuisine": "Welsh",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Welsh Rarebit",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ploughman's Cheese",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Beer",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Kissed Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Platter Spice",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    " Toast the kissed bread slices until lightly browned.",
+    "Melt the ploughman's cheese in a saucepan over low heat.",
+    "Add the beer, garlic, and platter spice to the melted cheese. Stir until smooth.",
+    "Pour the cheese sauce over the toasted bread slices.",
+    "Place the bread under the broiler for 2-3 minutes, or until the cheese is bubbly and golden brown.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "cheese",
+    "welschrarebit"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-welsh-garlic-welsh-ploughman-s-platter",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:33:58.739Z"
+}
