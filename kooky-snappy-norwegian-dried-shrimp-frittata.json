@@ -1,0 +1,70 @@
+{
+  "slug": "kooky-snappy-norwegian-dried-shrimp-frittata",
+  "title": "Norwegian Frittata with Shrimp",
+  "description": "A traditional Norwegian-style omelette with shrimp and vegetables. Perfect for a quick and delicious dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian frittata",
+      "amount": "1 1/2 cups",
+      "notes": "use a pre-made mix or make your own"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Kooky",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh herbs of your choice"
+    },
+    {
+      "name": "Dried",
+      "amount": "1/4 cup",
+      "notes": "chopped dried parsley"
+    },
+    {
+      "name": "Snappy",
+      "amount": "1 cup",
+      "notes": "chopped bell peppers"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Whisk together frittata, eggs, and a pinch of salt in a bowl.",
+    "Heat a skillet over medium heat and add a tablespoon of oil.",
+    "Add the snappy and cook until tender.",
+    "Add the kooky and cook for an additional minute.",
+    "Add the shrimp and cook until pink.",
+    "Pour the frittata mixture over the shrimp mixture.",
+    "Transfer the skillet to the oven and bake for 15-20 minutes.",
+    "Remove from oven and sprinkle with dried parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "eggs",
+    "shrimp",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-snappy-norwegian-dried-shrimp-frittata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T01:52:35.799Z"
+}
