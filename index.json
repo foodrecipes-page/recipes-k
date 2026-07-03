@@ -223,17 +223,17 @@
   },
   {
     "slug": "keenly-smoked-syrian-chwinamul-grill",
-    "title": "Syrian Chwinamul Grill",
+    "title": "Smoked Grilled Steak with Chwinamul Sauce",
     "tags": [
-      "anti-inflammatory",
-      "grill",
-      "one-pan",
-      "syrian",
-      "vegetarian",
-      "weeknight"
+      "steak",
+      "grilled",
+      "chwinamul",
+      "sauce",
+      "summer",
+      "barbecue"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 22,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -3881,15 +3881,16 @@
   },
   {
     "slug": "kissed-by-monsoon-filipino-fish-adobo-jjigae",
-    "title": "Kissed by Monsoon Filipino Fish Adobo Jjigae",
+    "title": "Filipino-Style Fish Adobo Jjigae",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "filipino",
+      "korean",
+      "fish",
+      "adobo",
+      "jjigae"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 40,
+    "cuisine": "Filipino-Korean",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -12441,17 +12442,14 @@
   },
   {
     "slug": "kissed-welsh-garlic-welsh-ploughman-s-platter",
-    "title": "Kissed Welsh Garlic Welsh Ploughman's Platter",
+    "title": "Ploughman's Welsh Rarebit",
     "tags": [
-      "crispy-crunchy",
-      "gluten-free",
-      "high-fat",
-      "midnight-craving",
-      "one-pan",
-      "snack-attack"
+      "comfort-food",
+      "cheese",
+      "welschrarebit"
     ],
     "cuisine": "Welsh",
-    "totalTimeMin": 27,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -13033,13 +13031,11 @@
   },
   {
     "slug": "kissed-with-nimono-simmer-ukrainian-egg-plants-tagine",
-    "title": "Kissed with Nimono Simmer Ukrainian Eggplants Tagine",
+    "title": "Ukrainian Egg Tagine",
     "tags": [
-      "eggplant",
-      "low-sodium",
-      "one-pan",
       "ukrainian",
-      "weeknight"
+      "vegetarian",
+      "stew"
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 30,
