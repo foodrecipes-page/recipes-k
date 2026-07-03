@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-roasted-portuguese-peas-wrap",
+  "title": "Kicked-Up Portuguese Wrap",
+  "description": "A delicious wrap filled with roasted chicken, peas, and spices. Perfect for a quick lunch or snack.",
+  "cuisine": "portuguese",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Roasted Chicken Breast",
+      "amount": "1 breast, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Frozen Peas",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese-Style Wrap",
+      "amount": "1 wrap",
+      "notes": ""
+    },
+    {
+      "name": "Roasted Red Pepper",
+      "amount": "1/2 pepper, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Kicked-Up Sauce (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your grill or grill pan to medium-high heat.",
+    "Grill the chicken breast for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the wrap on the grill for 1-2 minutes, or until slightly charred.",
+    "Slice the roasted red pepper and set aside.",
+    "Add the peas to the wrap, followed by the sliced chicken, roasted red pepper, and chopped cilantro.",
+    "Drizzle with kicked-up sauce (if using) and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "wrap",
+    "chicken",
+    "snack",
+    "lunch",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-portuguese-peas-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T04:27:26.531Z"
+}
