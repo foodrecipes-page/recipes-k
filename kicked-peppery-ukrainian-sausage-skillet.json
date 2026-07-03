@@ -1,0 +1,69 @@
+{
+  "slug": "kicked-peppery-ukrainian-sausage-skillet",
+  "title": "Sausage and Pepper Skillet",
+  "description": "A hearty and flavorful skillet dish made with sausage, peppers, onions, and tomatoes.",
+  "cuisine": "American",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ukrainian sausage",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Kicked peppers",
+      "amount": "2",
+      "notes": "any color, sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Skillet",
+      "amount": "1",
+      "notes": "large, non-stick"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet over medium-high heat.",
+    "Add the sausage and cook until browned, about 5 minutes.",
+    "Remove the sausage from the skillet and set aside.",
+    "Add more oil if necessary, then add the sliced peppers and onions.",
+    "Cook until the peppers and onions are tender, about 5 minutes.",
+    "Add the diced tomato and cook for an additional 2 minutes.",
+    "Return the sausage to the skillet and stir to combine with the peppers and onions.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "skillet",
+    "sausage",
+    "peppers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-ukrainian-sausage-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T16:28:37.408Z"
+}
