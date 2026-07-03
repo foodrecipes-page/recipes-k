@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-by-monsoon-filipino-fish-adobo-jjigae",
+  "title": "Filipino-Style Fish Adobo Jjigae",
+  "description": "A fusion dish that combines the flavors of Filipino adobo with the spicy kick of Korean jjigae, featuring kissed fish in a savory sauce.",
+  "cuisine": "Filipino-Korean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kissed Fish Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon Sea Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Filipino Adobo Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the fish with Monsoon Sea Salt and Black Pepper.",
+    "Heat a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the Filipino Adobo Sauce and Gochujang, stir to combine.",
+    "Add the fish to the skillet and cook for 3-4 minutes per side.",
+    "Transfer the fish to a plate and set aside.",
+    "Add the Rice Vinegar to the skillet and stir to deglaze.",
+    "Return the fish to the skillet and simmer for 2 minutes.",
+    "Garnish with Green Onions and serve immediately.",
+    "Serve with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "korean",
+    "fish",
+    "adobo",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-monsoon-filipino-fish-adobo-jjigae",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:42:17.869Z"
+}
