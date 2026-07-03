@@ -2455,15 +2455,16 @@
   },
   {
     "slug": "kid-friendly-citrusy-mexican-mussels-tacos",
-    "title": "Kid-Friendly Citrusy Mexican Mussels Tacos",
+    "title": "Mussels Tacos with Citrusy Slaw",
     "tags": [
-      "kid-friendly",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "mussels",
+      "tacos",
+      "citrusy",
+      "mexican",
+      "kid-friendly"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -5568,18 +5569,16 @@
   },
   {
     "slug": "kissed-crunchy-polish-ladyfingers-trifle",
-    "title": "Kissed Crunchy Polish Ladyfingers Trifle",
+    "title": "Kissed Trifle Dessert",
     "tags": [
-      "citrusy",
-      "comforting",
-      "confit-tomato",
-      "crunchy",
+      "english",
+      "trifle",
+      "dessert",
       "ladyfingers",
-      "polish-dessert",
-      "special-occasion"
+      "polish-cookies"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
