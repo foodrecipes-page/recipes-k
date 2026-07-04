@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-chinese-yoghurt-zha-jiang-mian",
+  "title": "Delicious Mian Jiang Noodles",
+  "description": "A simple yet flavorful Chinese noodle dish made with a savory sauce and topped with a sprinkle of kissed sesame seeds.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mian",
+      "amount": "200g",
+      "notes": "Chinese noodles"
+    },
+    {
+      "name": "Jiang",
+      "amount": "2 tablespoons",
+      "notes": "Chinese sauce"
+    },
+    {
+      "name": "Yoghurt",
+      "amount": "1 cup",
+      "notes": "plain yoghurt"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tablespoon",
+      "notes": "sesame seeds"
+    },
+    {
+      "name": "Chinese",
+      "amount": "1 teaspoon",
+      "notes": "soy sauce"
+    }
+  ],
+  "instructions": [
+    "Cook Mian according to package instructions.",
+    "In a separate pan, combine Jiang, Chinese, and Yoghurt.",
+    "Stir the sauce until it thickens.",
+    "Add Kissed sesame seeds on top.",
+    "Serve the sauce over cooked Mian."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-chinese-yoghurt-zha-jiang-mian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:40:49.077Z"
+}
