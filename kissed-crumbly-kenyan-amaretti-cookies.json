@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-crumbly-kenyan-amaretti-cookies",
+  "title": "Amaretti Kissed Crumble",
+  "description": "A sweet dessert featuring an amaretti and cookie crust topped with a crumbly kenyan kissed mixture.",
+  "cuisine": "Italian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Amaretti cookies",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Kissed crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kenyan biscuits",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup, softened"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a food processor, blend Amaretti cookies until finely ground.",
+    "Add Kenyan biscuits and process until well combined.",
+    "Add softened butter and sugar; process until mixture resembles coarse crumbs.",
+    "Press mixture into a 9-inch springform pan.",
+    "In a separate bowl, whisk together eggs and a pinch of salt.",
+    "Pour egg mixture over crust and smooth the top.",
+    "Bake for 35-40 minutes or until the edges are set and the center is slightly jiggly.",
+    "Let cool completely on a wire rack.",
+    "To serve, top with crumbly Kenyan kissed mixture and sliced amaretti cookies."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "amaretti",
+    "cookies",
+    "crumble",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crumbly-kenyan-amaretti-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:10:07.591Z"
+}
