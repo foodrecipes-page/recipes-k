@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-by-the-sun-mediterranean-manchego-hash",
+  "title": "Hash Brown Frittata",
+  "description": "A Mediterranean-inspired breakfast dish using sweet potatoes and Manchego cheese. Perfect for a sunny morning!",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "breakfast",
+    "lacto-ovo-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Sun-sweetened sweet potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/2 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "Mediterranean olive oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Manchego cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the diced sweet potatoes and hash, and cook for about 5-7 minutes, until they're lightly browned.",
+    "In a separate bowl, whisk together eggs and a pinch of salt.",
+    "Pour the egg mixture over the sweet potatoes and hash.",
+    "Transfer the skillet to the preheated oven and bake for about 20-25 minutes, until the eggs are set.",
+    "Remove the skillet from the oven and sprinkle Manchego cheese on top.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Slice the frittata and serve warm.",
+    "Note: If using a non-stick skillet, reduce the amount of olive oil used for frying."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "mediterranean",
+    "hash-brown",
+    "frittata",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-the-sun-mediterranean-manchego-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:37:20.891Z"
+}
