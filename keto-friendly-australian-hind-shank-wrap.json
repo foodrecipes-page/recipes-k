@@ -1,0 +1,85 @@
+{
+  "slug": "keto-friendly-australian-hind-shank-wrap",
+  "title": "Grilled Australian Beef Hind Shank Wrap",
+  "description": "A keto-friendly, Australian-inspired recipe featuring a tender beef hind shank wrapped in a flavorful flatbread.",
+  "cuisine": "australian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Beef Hind Shank",
+      "amount": "1 (1-1.5 kg)",
+      "notes": "ask your butcher to cut it into a thin steak"
+    },
+    {
+      "name": "Flatbread (low-carb)",
+      "amount": "1",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the flatbread"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "for seasoning the beef"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "for seasoning the beef"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "for dressing the parsley"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 tsp",
+      "notes": "for seasoning the beef"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat (180°C).",
+    "Season the beef hind shank with salt, black pepper, and garlic powder.",
+    "Grill the beef for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Let the beef rest for 5 minutes before slicing it thinly against the grain.",
+    "Warm the flatbread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Brush the flatbread with olive oil and top with sliced beef, chopped parsley, and a squeeze of lemon juice.",
+    "Serve immediately and enjoy!",
+    "Optional: add your favorite toppings such as avocado, tomato, or bacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "beef",
+    "grilled",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-friendly-australian-hind-shank-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T13:28:59.709Z"
+}
