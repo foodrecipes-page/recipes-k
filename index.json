@@ -2865,17 +2865,14 @@
   },
   {
     "slug": "kissed-algerian-garlic-tagine",
-    "title": "Kissed Algerian Garlic Tagine",
+    "title": "Braised Algerian Lamb Tagine",
     "tags": [
-      "algerian",
-      "comfort-food",
-      "gluten-free",
-      "one-pan",
-      "paleo",
-      "weeknight"
+      "lamb",
+      "stew",
+      "north-african"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 165,
     "shard": "k"
   },
   {
@@ -7085,16 +7082,16 @@
   },
   {
     "slug": "kissed-grassy-mediterranean-lamb-ssam",
-    "title": "Kissed Grassy Mediterranean Lamb Ssäm",
+    "title": "Lamb Ssam with Mediterranean Flair",
     "tags": [
-      "gluten-free",
-      "high-protein",
+      "lamb",
+      "ssam",
       "mediterranean",
-      "one-pan",
-      "post-workout"
+      "korean",
+      "barbecue"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "cuisine": "Korean-Mediterranean",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
