@@ -2512,15 +2512,15 @@
   },
   {
     "slug": "kid-friendly-light-ukrainian-cannellini-beans-pilaf",
-    "title": "Kid-Friendly Light Ukrainian Cannellini Beans Pilaf",
+    "title": "Kid-Friendly Ukrainian Pilaf with Cannellini Beans",
     "tags": [
-      "easy-to-make",
       "kid-friendly",
-      "paleo-friendly",
-      "ukrainian-inspired"
+      "ukrainian",
+      "pilaf",
+      "beans"
     ],
     "cuisine": "ukrainian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -7460,17 +7460,15 @@
   },
   {
     "slug": "kissed-indulgent-german-beef-terrine",
-    "title": "Kissed Indulgent German Beef Terrine",
+    "title": "German Beef Terrine",
     "tags": [
-      "bain-marie",
-      "beef-recipe",
-      "german-cuisine",
-      "gluten-free",
-      "low-fodmap",
-      "special-occasion"
+      "german",
+      "beef",
+      "terrine",
+      "meat-lovers"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 150,
+    "cuisine": "german",
+    "totalTimeMin": 65,
     "shard": "k"
   },
   {
