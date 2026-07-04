@@ -1,0 +1,104 @@
+{
+  "slug": "kickin-irish-lamb-stew",
+  "title": "Irish Lamb Stew",
+  "description": "A hearty, comforting lamb stew from Ireland, perfect for a chilly evening. The kickin' spices add a nice warmth to the dish.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Kickin' spice blend",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the kickin' spice blend and cook for 1 minute.",
+    "Add the flour and cook for 1 minute, stirring constantly.",
+    "Add the red wine and beef broth, scraping up any browned bits from the bottom of the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven.",
+    "Bake at 300°F for 2-3 hours, or until the lamb is tender and falls apart easily.",
+    "Add the potatoes and carrots to the pot and continue to cook for another 30-40 minutes, or until the vegetables are tender.",
+    "Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kickin-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T21:48:27.950Z"
+}
