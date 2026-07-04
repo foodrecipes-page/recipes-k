@@ -5372,16 +5372,15 @@
   },
   {
     "slug": "kissed-crumbly-kenyan-amaretti-cookies",
-    "title": "Kissed Crumbly Kenyan Amaretti Cookies",
+    "title": "Amaretti Kissed Crumble",
     "tags": [
-      "crumbly-texture",
-      "kenyan-dishes",
-      "midnight-cravings",
-      "shojin-friendly",
-      "vegetarian-cookies"
+      "amaretti",
+      "cookies",
+      "crumble",
+      "dessert"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "Italian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -8386,15 +8385,11 @@
   },
   {
     "slug": "kissed-mediterranean-prawns-salad",
-    "title": "Kissed Mediterranean Prawns Salad",
+    "title": "Prawn Salad with Mediterranean Kiss",
     "tags": [
-      "briny",
-      "crunchy",
-      "mediterranean",
-      "quick-recipes",
+      "prawns",
       "salad",
-      "seafood",
-      "whole30-friendly"
+      "mediterranean"
     ],
     "cuisine": "Mediterranean",
     "totalTimeMin": 20,
@@ -10096,17 +10091,15 @@
   },
   {
     "slug": "kissed-silky-syrian-lamb-kebabs",
-    "title": "Kissed Silky Syrian Lamb Kebabs",
+    "title": "Syrian-Style Kebabs",
     "tags": [
-      "bhuna-spices",
-      "grilled-meat",
-      "low-carb",
-      "meal-prep",
-      "syrian-cuisine",
-      "tagliere-recipe"
+      "kebabs",
+      "lamb",
+      "middle-eastern",
+      "grilled"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -11473,16 +11466,14 @@
   },
   {
     "slug": "kissed-sweet-tunisian-date-tagine",
-    "title": "Kissed Sweet Tunisian Date Tagine",
+    "title": "Tunisian Date Tagine",
     "tags": [
-      "cazuela",
-      "date-based",
       "north-african",
-      "one-pot",
-      "sweet-and-savory"
+      "dessert",
+      "vegetarian"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
