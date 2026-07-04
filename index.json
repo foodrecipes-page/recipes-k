@@ -4539,18 +4539,14 @@
   },
   {
     "slug": "kissed-chinese-yoghurt-zha-jiang-mian",
-    "title": "Kissed Chinese Yoghurt Zha Jiang Mian",
+    "title": "Delicious Mian Jiang Noodles",
     "tags": [
-      "chaozhou",
-      "comfort-food",
-      "high-protein",
-      "noodle-dish",
-      "one-pan",
-      "sugar-free-friendly",
-      "weeknight"
+      "chinese",
+      "vegetarian",
+      "noodles"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 18,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -14259,17 +14255,15 @@
   },
   {
     "slug": "knobby-australian-tofu-hash",
-    "title": "Knobby Australian Tofu Hash",
+    "title": "Grilled Australian Hash with Knobby Potatoes and Tofu",
     "tags": [
-      "australian-cuisine",
-      "brunch-recipe",
-      "high-protein",
-      "jain-friendly",
-      "tofu-recipe",
-      "vegetarian-dish"
+      "breakfast",
+      "grilled",
+      "australian",
+      "hash"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
