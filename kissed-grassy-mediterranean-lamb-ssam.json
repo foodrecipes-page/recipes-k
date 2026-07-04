@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-grassy-mediterranean-lamb-ssam",
+  "title": "Lamb Ssam with Mediterranean Flair",
+  "description": "A twist on traditional Korean ssam, this recipe combines the flavors of the Mediterranean with the tender taste of lamb.",
+  "cuisine": "Korean-Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Boneless and tied with kitchen twine"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Grassy oregano",
+      "amount": "2 teaspoons",
+      "notes": "Dried"
+    },
+    {
+      "name": "Mediterranean lemon",
+      "amount": "1 juiced",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Ssam wraps",
+      "amount": "4-6",
+      "notes": "Large, thin Korean-style wraps"
+    },
+    {
+      "name": "Pickled daikon",
+      "amount": "1 cup",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to 400°F (200°C).",
+    "2. In a small bowl, whisk together olive oil, oregano, lemon juice, and 1 clove minced garlic.",
+    "3. Place lamb shoulder in a large zip-top plastic bag and pour marinade over it.",
+    "4. Seal bag and refrigerate for at least 2 hours or overnight.",
+    "5. Remove lamb from marinade and grill for 4-5 minutes per side or until internal temperature reaches 145°F (63°C).",
+    "6. Let lamb rest for 10 minutes before slicing it thinly against the grain.",
+    "7. Warm ssam wraps by wrapping them in foil and heating them on the grill for 2-3 minutes.",
+    "8. Assemble ssam by placing a few slices of lamb onto each wrap, followed by pickled daikon, and any other desired toppings.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "ssam",
+    "mediterranean",
+    "korean",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-grassy-mediterranean-lamb-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T12:11:44.884Z"
+}
