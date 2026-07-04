@@ -1,0 +1,68 @@
+{
+  "slug": "knobby-australian-tofu-hash",
+  "title": "Grilled Australian Hash with Knobby Potatoes and Tofu",
+  "description": "A flavorful and filling breakfast dish featuring the crunch of knobby potatoes and the richness of grilled tofu, all atop a bed of crispy Australian hash.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "knobby potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "australian hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut the potatoes into 1-inch cubes and toss with 1 tablespoon of olive oil, salt, and pepper.",
+    "Grill the potatoes for 5-7 minutes per side, or until tender and golden brown.",
+    "Meanwhile, press and drain the tofu and cut it into 1-inch cubes.",
+    "Grill the tofu for 3-5 minutes per side, or until golden brown and crispy.",
+    "Cook the Australian hash according to package instructions.",
+    "To assemble, place a scoop of hash on a plate, top with grilled potatoes and tofu, and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "grilled",
+    "australian",
+    "hash"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-australian-tofu-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T19:26:30.632Z"
+}
