@@ -1,0 +1,83 @@
+{
+  "slug": "kicked-umami-portuguese-shrimp-stew",
+  "title": "Shrimp and Shrimp Stew",
+  "description": "A flavorful and hearty stew made with succulent shrimp and savory aromatics. This dish is perfect for a chilly evening or a special occasion.",
+  "cuisine": "portuguese",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kicked portuguese stew",
+      "amount": "2 cups",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "umami broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the umami broth over medium heat in a large pot.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the store-bought or homemade stew and stir to combine.",
+    "Add the peeled and deveined shrimp and cook for 2-3 minutes, until they start to turn pink.",
+    "Add the tomato paste and white wine (if using) and stir to combine.",
+    "Bring the stew to a simmer and cook for 5-7 minutes, until the shrimp are cooked through.",
+    "Stir in the chopped parsley and season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "seafood",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-umami-portuguese-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T18:26:54.111Z"
+}
