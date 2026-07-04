@@ -1,0 +1,57 @@
+{
+  "slug": "kissed-vietnamese-broad-beans-che-ba-mau",
+  "title": "Vietnamese Style Broad Bean Stir Fry",
+  "description": "A quick and easy stir fry made with broad beans, kissed and crushed Vietnamese chilies.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Broad beans",
+      "amount": "1 cup, trimmed"
+    },
+    {
+      "name": "Kissed chilies",
+      "amount": "2, crushed"
+    },
+    {
+      "name": "Mau rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Cook the broad beans for 3-4 minutes, or until tender.",
+    "Add the kissed chilies, salt and rice vinegar to the skillet.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-vietnamese-broad-beans-che-ba-mau",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:16:22.900Z"
+}
