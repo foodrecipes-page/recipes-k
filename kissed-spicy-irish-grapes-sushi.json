@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-spicy-irish-grapes-sushi",
+  "title": "Spicy Irish Sushi Rolls with Grapes",
+  "description": "A unique fusion of Irish and Japanese flavors. Sweet grapes add a refreshing twist to the spicy sushi rolls.",
+  "cuisine": "Irish/Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack/dessert",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "spicy irish sauce",
+      "amount": "1/4 cup",
+      "notes": "see instructions for making"
+    },
+    {
+      "name": "kissed cream cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "grapes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "sushi nori",
+      "amount": "10 sheets",
+      "notes": "toasted"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Prepare spicy Irish sauce by mixing together 2 tbsp soy sauce, 2 tbsp rice vinegar, 1 tsp sriracha, and 1 tsp honey. Stir until smooth.",
+    "2. Cut the sushi nori sheets in half lengthwise.",
+    "3. Lay a nori sheet flat and spread a thin layer of sushi rice onto it.",
+    "4. Place a spoonful of spicy Irish sauce and cream cheese mixture on the rice.",
+    "5. Arrange the grapes, cucumber, and avocado on top of the sauce.",
+    "6. Roll the sushi using a bamboo sushi mat or a clean tea towel.",
+    "7. Slice the roll into 8 equal pieces.",
+    "8. Sprinkle with sesame seeds if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "japanese",
+    "sushi",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-irish-grapes-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:24:55.484Z"
+}
