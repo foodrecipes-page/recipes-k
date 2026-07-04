@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-dense-mexican-flour-tamales",
+  "title": "Kissed Tamales",
+  "description": "Traditional Mexican tamales with a sweet and savory twist, perfect for a special occasion.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dense Corn Masa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Kissed Chicken Filling",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tamales",
+      "amount": "12-15"
+    },
+    {
+      "name": "Lard or Vegetable Shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Soak the corn husks in water for at least 30 minutes.",
+    "In a large mixing bowl, combine the masa, lard or shortening, and chicken broth. Mix until a dough forms.",
+    "In a separate bowl, mix the chicken filling ingredients.",
+    "To assemble the tamales, spread a thin layer of the dough onto a corn husk, leaving a 1-inch border around the edges.",
+    "Place a tablespoon of the chicken filling in the center of the dough.",
+    "Fold the sides of the corn husk over the filling, and then roll the tamale up, folding the top over to seal.",
+    "Repeat with the remaining dough and filling ingredients.",
+    "Steam the tamales for 1-2 hours, or until the dough is cooked through and the filling is hot.",
+    "Serve the tamales with a dollop of sour cream and a sprinkle of cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tamales",
+    "christmas",
+    "holiday"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dense-mexican-flour-tamales",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T17:55:10.591Z"
+}
