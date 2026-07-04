@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-indulgent-german-beef-terrine",
+  "title": "German Beef Terrine",
+  "description": "A hearty German-inspired terrine made with tender beef and flavorful spices.",
+  "cuisine": "german",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Beef Fat or Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up with a spoon as it cooks.",
+    "Add the onion, beef broth, beef fat or oil, salt, black pepper, and paprika to the pan. Stir to combine.",
+    "Bring the mixture to a simmer and cook for 10 minutes, stirring occasionally.",
+    "Stir in the breadcrumbs and cook for an additional 2 minutes.",
+    "Transfer the mixture to a 9x5-inch loaf pan or a terrine mold.",
+    "Cover the pan with plastic wrap or aluminum foil and bake for 45 minutes.",
+    "Remove the pan from the oven and let it cool to room temperature.",
+    "Cover the pan with plastic wrap or aluminum foil and refrigerate for at least 2 hours or overnight.",
+    "To serve, slice the terrine into thick slices and serve cold."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "terrine",
+    "meat-lovers"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indulgent-german-beef-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T10:18:43.904Z"
+}
