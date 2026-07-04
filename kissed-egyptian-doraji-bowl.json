@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-egyptian-doraji-bowl",
+  "title": "Doraji Bowl with Egyptian Kissed Chickpeas",
+  "description": "A flavorful and nutritious bowl filled with doraji marinated in Egyptian spices and topped with kissed chickpeas.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Doraji",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egyptian spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "kissed chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "used as a serving vessel"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Egyptian spices, olive oil, lemon juice, garlic, and salt.",
+    "2. Add the doraji to the bowl and marinate for at least 30 minutes.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Remove the doraji from the marinade, letting any excess liquid drip off.",
+    "5. Grill the doraji for 2-3 minutes per side, or until slightly charred.",
+    "6. In a separate bowl, toss the kissed chickpeas with a pinch of salt.",
+    "7. To assemble the bowls, place a scoop of grilled doraji on the bottom, followed by a spoonful of kissed chickpeas.",
+    "8. Serve immediately, garnished with additional Egyptian spices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-egyptian-doraji-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:26:46.645Z"
+}
