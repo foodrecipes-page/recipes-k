@@ -1,7 +1,7 @@
 {
   "slug": "kissed-smoky-indian-shrimp-curry",
-  "title": "Smoky Shrimp Curry",
-  "description": "A flavorful and spicy curry dish made with smoky shrimp and indian spices.",
+  "title": "Smoky Indian Shrimp Curry",
+  "description": "A flavorful and aromatic curry made with succulent shrimp, smoky spices, and kissed with a hint of warmth.",
   "cuisine": "indian",
   "diet": [
     "vegetarian"
@@ -9,19 +9,24 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "shrimp",
+      "name": "large shrimp",
       "amount": "1 pound",
       "notes": "peeled and deveined"
     },
     {
-      "name": "smoky curry powder",
-      "amount": "2 teaspoons",
-      "notes": null
+      "name": "smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked to perfection"
     },
     {
-      "name": "kissed coconut milk",
-      "amount": "1 can (14 oz)",
-      "notes": null
+      "name": "kissed cumin",
+      "amount": "1 teaspoon",
+      "notes": "lightly kissed with warmth"
+    },
+    {
+      "name": "indian curry powder",
+      "amount": "2 teaspoons",
+      "notes": "aromatic blend"
     },
     {
       "name": "onion",
@@ -34,14 +39,14 @@
       "notes": "minced"
     },
     {
-      "name": "cumin seeds",
-      "amount": "1 teaspoon",
-      "notes": null
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
     },
     {
-      "name": "turmeric powder",
-      "amount": "1/2 teaspoon",
-      "notes": null
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
     },
     {
       "name": "salt",
@@ -49,47 +54,41 @@
       "notes": null
     },
     {
-      "name": "chili powder",
-      "amount": "1/2 teaspoon",
-      "notes": null
-    },
-    {
-      "name": "lemon juice",
-      "amount": "2 tablespoons",
+      "name": "pepper",
+      "amount": "to taste",
       "notes": null
     }
   ],
   "instructions": [
-    "Heat oil in a pan over medium heat.",
-    "Add cumin seeds and let them sizzle for a few seconds.",
-    "Add onion and cook until it's translucent.",
-    "Add garlic and cook for another minute.",
-    "Add curry powder and turmeric powder. Cook for 1-2 minutes.",
-    "Add shrimp and cook until it's pink.",
-    "Add coconut milk, salt, chili powder, and lemon juice. Stir well.",
-    "Reduce heat to low and simmer for 5-7 minutes.",
-    "Serve hot with rice or naan bread."
+    "Heat oil in a large pan over medium-high heat.",
+    "Add onion, garlic, and ginger; sauté until fragrant.",
+    "Add smoky paprika and kissed cumin; cook for 1 minute.",
+    "Add indian curry powder; cook for 1 minute.",
+    "Add shrimp; cook until pink, about 2-3 minutes per side.",
+    "Add coconut milk; stir to combine.",
+    "Reduce heat to low; simmer for 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
-  "servings": 2,
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
     "indian",
     "curry",
     "shrimp",
-    "smoky",
-    "easy-dinner"
+    "seafood"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 25,
+    "calories": 320,
+    "protein": 30,
     "carbs": 20,
-    "fat": 20
+    "fat": 18
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-indian-shrimp-curry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-01T08:13:53.056Z"
+  "createdAt": "2026-07-02T11:59:26.835Z"
 }
