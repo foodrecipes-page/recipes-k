@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-mediterranean-prawns-salad",
+  "title": "Prawn Salad with Mediterranean Kiss",
+  "description": "A fresh and flavorful salad featuring succulent prawns, mixed greens, and a zesty Mediterranean kiss.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12 oz (340g)",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": "Lettuce, spinach, and/or arugula"
+    },
+    {
+      "name": "Mediterranean kiss",
+      "amount": "2 tbsp (30ml)",
+      "notes": "Homemade vinaigrette or store-bought"
+    },
+    {
+      "name": "Kissed vinegar",
+      "amount": "1 tbsp (15ml)",
+      "notes": "Olive oil and lemon juice mixture"
+    },
+    {
+      "name": "Salad",
+      "amount": "1 cup",
+      "notes": "Chopped cucumber, bell peppers, and/or cherry tomatoes"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the prawns under cold water, pat dry with paper towels.",
+    "2. In a large bowl, combine mixed greens, chopped cucumber, bell peppers, and/or cherry tomatoes.",
+    "3. In a small bowl, whisk together Mediterranean kiss and kissed vinegar.",
+    "4. Add the whisked vinaigrette to the bowl with the greens and toss to combine.",
+    "5. Add the prawns to the bowl and toss gently to combine.",
+    "6. Season with salt and pepper to taste.",
+    "7. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "8. Just before serving, sprinkle with chopped fresh herbs, such as parsley or mint.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "prawns",
+    "salad",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mediterranean-prawns-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:40:24.766Z"
+}
