@@ -3601,20 +3601,16 @@
   },
   {
     "slug": "kissed-by-citrus-venezuelan-ikura-ceviche",
-    "title": "Kissed by Citrus Venezuelan Ikura Ceviche",
+    "title": "Venezuelan-Style Ceviche",
     "tags": [
       "ceviche",
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "snack",
-      "vegan",
       "venezuelan",
-      "weeknight"
+      "seafood",
+      "gluten-free",
+      "peruvian"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -6018,17 +6014,14 @@
   },
   {
     "slug": "kissed-egyptian-doraji-bowl",
-    "title": "Kissed Egyptian Doraji Bowl",
+    "title": "Doraji Bowl with Egyptian Kissed Chickpeas",
     "tags": [
-      "easy-weeknight",
+      "vegan",
       "gluten-free",
-      "one-pan",
-      "raw-friendly",
-      "soothing-soup",
-      "vegan"
+      "middle-eastern"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 10,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -12018,18 +12011,14 @@
   },
   {
     "slug": "kissed-umami-japanese-sausage-skewers",
-    "title": "Kissed Umami Japanese Sausage Skewers",
+    "title": "Japanese Yakitori Sausage Skewers",
     "tags": [
-      "crumbly",
-      "date-night",
-      "grilled-meats",
-      "japanese-inspired",
-      "macrobiotic",
-      "savory",
-      "umami-rich"
+      "japanese",
+      "grilled",
+      "snack"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
