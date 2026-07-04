@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-by-citrus-venezuelan-ikura-ceviche",
+  "title": "Venezuelan-Style Ceviche",
+  "description": "A refreshing and light Peruvian-inspired dish from Venezuela, perfect for a warm day. This ceviche recipe combines the sweetness of citrus with the savory flavor of seafood.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "seafood-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ikura (Salmon Roe)",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Kissed By Citrus (Lime Juice)",
+      "amount": "1/2 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "By Citrus (Orange Juice)",
+      "amount": "1/4 cup",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Venezuelan Onions",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "By Citrus (Ginger, grated)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the ikura into small pieces and place in a bowl.",
+    "2. Squeeze the lime and orange juices over the ikura and mix well.",
+    "3. Add the thinly sliced onions, grated ginger, and salt to the bowl. Mix well.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "5. Before serving, check the raw seafood for any signs of spoilage and discard if necessary.",
+    "6. Serve the ceviche in small glasses or bowls, garnished with additional lime wedges and chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ceviche",
+    "venezuelan",
+    "seafood",
+    "gluten-free",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-citrus-venezuelan-ikura-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T22:57:33.237Z"
+}
