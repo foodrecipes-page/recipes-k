@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-sweet-tunisian-date-tagine",
+  "title": "Tunisian Date Tagine",
+  "description": "A traditional Tunisian dish made with sweet dates and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet dates",
+      "amount": "12-15",
+      "notes": "pitted"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "casserole dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "kissed orange blossom water",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "tunisian cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "tunisian ginger",
+      "amount": "1 tsp",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Rinse the dates and pat dry.",
+    "In the tagine, combine the dates, olive oil, orange blossom water, cinnamon, and ginger.",
+    "Cover the tagine with a lid or foil and transfer to the preheated oven.",
+    "Bake for 20-25 minutes or until the dates are tender and caramelized.",
+    "Remove from the oven and let cool slightly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "north-african",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-sweet-tunisian-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T15:04:35.316Z"
+}
