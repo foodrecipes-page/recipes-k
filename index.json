@@ -2173,17 +2173,14 @@
   },
   {
     "slug": "kickin-irish-lamb-stew",
-    "title": "Kickin Irish Lamb Stew",
+    "title": "Irish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "irish-food",
-      "lamb-recipes",
-      "low-carb",
-      "one-pot",
-      "quick-meals"
+      "lamb",
+      "stew",
+      "irish"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 260,
     "shard": "k"
   },
   {
