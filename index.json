@@ -6300,18 +6300,14 @@
   },
   {
     "slug": "kissed-floral-indian-lentils-tagine",
-    "title": "Kissed Floral Indian Lentils Tagine",
+    "title": "Indian-Style Tagine Stew",
     "tags": [
-      "floral",
-      "gluten-free",
-      "indian",
-      "meal-prep",
-      "one-pot",
-      "tajine",
-      "vegan"
+      "lentil-stew",
+      "indian-cuisine",
+      "tagine-stew"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -6468,16 +6464,16 @@
   },
   {
     "slug": "kissed-french-chicken-tagine",
-    "title": "Kissed French Chicken Tagine",
+    "title": "Chicken Tagine",
     "tags": [
-      "french",
-      "high-protein",
-      "one-pot",
-      "quick-fix",
-      "tagine"
+      "chicken",
+      "tagine",
+      "north-african",
+      "gluten-free",
+      "dairy-free"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -10509,16 +10505,15 @@
   },
   {
     "slug": "kissed-smoky-indian-shrimp-curry",
-    "title": "Smoky Shrimp Curry",
+    "title": "Smoky Indian Shrimp Curry",
     "tags": [
       "indian",
       "curry",
       "shrimp",
-      "smoky",
-      "easy-dinner"
+      "seafood"
     ],
     "cuisine": "indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
