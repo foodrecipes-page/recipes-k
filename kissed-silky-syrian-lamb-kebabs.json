@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-silky-syrian-lamb-kebabs",
+  "title": "Syrian-Style Kebabs",
+  "description": "Tender lamb kebabs marinated in a mix of Middle Eastern spices, perfect for a quick and delicious dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or leg",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Syrian olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Syrian salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Kebab spice mix",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Kissed lemons",
+      "amount": "1",
+      "notes": "juiced"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the olive oil, salt, black pepper, parsley, and kebab spice mix.",
+    "Add the lamb cubes to the marinade and mix until they are well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lamb cubes onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, or until they are cooked through.",
+    "Brush the kebabs with the kissed lemon juice during the last minute of cooking.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Let the kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "middle-eastern",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T14:43:03.981Z"
+}
