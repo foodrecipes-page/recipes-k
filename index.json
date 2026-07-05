@@ -5254,18 +5254,14 @@
   },
   {
     "slug": "kissed-crispy-ukrainian-avocado-wrap",
-    "title": "Kissed Crispy Ukrainian Avocado Wrap",
+    "title": "Avocado Ukrainian Wrap",
     "tags": [
-      "avocado",
-      "crispy",
-      "satvik",
-      "steamed",
       "ukrainian",
-      "vegetarian",
-      "weeknight"
+      "wrap",
+      "snack"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -13856,17 +13852,16 @@
   },
   {
     "slug": "kitchen-fresh-slovakian-ham-skillet",
-    "title": "Slovakian Ham Skillet",
+    "title": "Slovakian Ham and Potato Skillet",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "slovakian-cuisine",
-      "weeknight"
+      "skillet",
+      "breakfast",
+      "slovakian",
+      "ham",
+      "potatoes"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
