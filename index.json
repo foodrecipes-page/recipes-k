@@ -1135,16 +1135,15 @@
   },
   {
     "slug": "kicked-crunchy-irish-chilli-skillet",
-    "title": "Kicked Crunchy Irish Chilli Skillet",
+    "title": "Irish Skillet Crispy Chilli Hash",
     "tags": [
-      "crunchy-texture",
-      "irish-cuisine",
-      "one-pan",
-      "smoky-flavor",
-      "spicy-food"
+      "hash",
+      "skillet",
+      "irish",
+      "breakfast"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
