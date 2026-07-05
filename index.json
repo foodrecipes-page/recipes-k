@@ -1292,14 +1292,12 @@
   },
   {
     "slug": "kicked-herbal-egyptian-pomegranate-curry",
-    "title": "Kicked Herbal Egyptian Pomegranate Curry",
+    "title": "Egyptian Pomegranate Chicken",
     "tags": [
-      "curry",
-      "egyptian",
-      "herbal",
-      "jain-friendly",
+      "chicken",
       "pomegranate",
-      "vegetarian"
+      "curry",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
@@ -3020,16 +3018,15 @@
   },
   {
     "slug": "kissed-and-dense-peruvian-sirloin-steak-rocoto-relleno",
-    "title": "Kissed and Dense Peruvian Sirloin Steak Rocoto Relleno",
+    "title": "Peruvian Sirloin Steak with Rocoto Relleno",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pan",
+      "grilled",
       "peruvian",
-      "weeknight"
+      "steak",
+      "rocomo"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 45,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14691,16 +14688,15 @@
   },
   {
     "slug": "knockout-pungent-dutch-pickle-stew",
-    "title": "Knockout Pungent Dutch Pickle Stew",
+    "title": "Dutch Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "gluten-free",
-      "salt-block-cooking",
-      "vegetarian-stew"
+      "dutch",
+      "stew",
+      "lunch",
+      "beef"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 140,
     "shard": "k"
   },
   {
