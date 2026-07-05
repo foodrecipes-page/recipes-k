@@ -1,0 +1,73 @@
+{
+  "slug": "kitchen-fresh-slovakian-ham-skillet",
+  "title": "Slovakian Ham and Potato Skillet",
+  "description": "A hearty Slovakian-inspired dish made with crispy ham, tender potatoes, and a hint of onion.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "4 slices",
+      "notes": "thick-cut, Slovakian-style"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium-high heat.",
+    "Add butter to the skillet and let it melt.",
+    "Add the diced potatoes and cook for 5 minutes, or until they start to brown.",
+    "Add the sliced onion and cook for an additional 2-3 minutes.",
+    "Add the sliced ham to the skillet and cook for 2-3 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "skillet",
+    "breakfast",
+    "slovakian",
+    "ham",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kitchen-fresh-slovakian-ham-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:03:35.778Z"
+}
