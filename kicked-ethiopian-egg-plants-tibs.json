@@ -1,0 +1,66 @@
+{
+  "slug": "kicked-ethiopian-egg-plants-tibs",
+  "title": "Spicy Tibs with Sautéed Greens",
+  "description": "A flavorful and spicy Ethiopian-inspired dish made with sautéed greens and tender beef strips.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips (tibs)",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "kicked (red pepper flakes)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "plants (collard greens)",
+      "amount": "2 cups",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add a tablespoon of oil and cook the beef strips until browned, about 3-4 minutes.",
+    "Add the red pepper flakes and cook for 1 minute.",
+    "Push the beef to one side of the skillet.",
+    "Crack in the eggs and scramble them until cooked through.",
+    "Mix the eggs with the beef.",
+    "Add the chopped greens to the skillet and cook until wilted.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with injera bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "ethiopian",
+    "beef",
+    "eggs",
+    "greens"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-ethiopian-egg-plants-tibs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:15:05.949Z"
+}
