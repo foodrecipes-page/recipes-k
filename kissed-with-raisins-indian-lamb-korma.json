@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-with-raisins-indian-lamb-korma",
+  "title": "Lamb Korma Curry",
+  "description": "A flavorful and aromatic Indian-inspired lamb curry made with tender lamb, rich spices, and a hint of sweetness from the raisins.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Korma spice mix",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Raisins",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": "dairy-free alternative: coconut cream"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add lamb and cook until browned, about 5 minutes.",
+    "Remove lamb from pan and set aside.",
+    "Reduce heat to medium and add onion, ginger, and garlic.",
+    "Cook until onion is translucent, about 5 minutes.",
+    "Add korma spice mix and cook for 1 minute.",
+    "Add raisins and cook for an additional minute.",
+    "Return lamb to pan and stir to combine.",
+    "Pour in heavy cream and stir to combine.",
+    "Bring mixture to a simmer and cook until lamb is tender, about 20 minutes.",
+    "Season with salt and black pepper, if desired.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "indian",
+    "lamb",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-raisins-indian-lamb-korma",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:37:54.828Z"
+}
