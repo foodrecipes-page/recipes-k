@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-tunisian-skewers-with-chinese-long-beans",
+  "title": "Tunisian Kebab with Long Beans",
+  "description": "A flavorful Tunisian-inspired kebab dish featuring marinated meat and sautéed long beans.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Long beans",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Lamb or beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Ketchup",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tunisian spice blend",
+      "amount": "1 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, chili flakes, garlic powder, salt, and black pepper.",
+    "Add the lamb or beef and mix until coated.",
+    "Thread the meat onto skewers.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "While the kebabs are grilling, heat the ketchup in a small saucepan over medium heat.",
+    "Add the Tunisian spice blend and stir to combine.",
+    "Brush the sauce onto the kebabs during the last 2 minutes of grilling.",
+    "Meanwhile, heat a tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the long beans and cook until tender, about 5 minutes.",
+    "Serve the kebabs with the long beans and sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "grilled",
+    "kebabs",
+    "long-beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tunisian-skewers-with-chinese-long-beans",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T18:53:31.979Z"
+}
