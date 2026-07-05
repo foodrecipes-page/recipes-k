@@ -1217,17 +1217,16 @@
   },
   {
     "slug": "kicked-ethiopian-egg-plants-tibs",
-    "title": "Kicked Ethiopian Eggplant Tibs",
+    "title": "Spicy Tibs with Sautéed Greens",
     "tags": [
-      "eggplant-lovers",
-      "high-protein",
-      "one-pan",
       "spicy",
-      "vegan-option",
-      "weeknight"
+      "ethiopian",
+      "beef",
+      "eggs",
+      "greens"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -8189,17 +8188,16 @@
   },
   {
     "slug": "kissed-light-vietnamese-chestnut-cha-gio",
-    "title": "Kissed Light Vietnamese Chestnut Cha Gio",
+    "title": "Vietnamese-Style Grilled Pork Chops with Chestnut Rice",
     "tags": [
-      "asian-cuisine",
-      "gluten-free",
-      "healthy-eating",
-      "lunch-ideas",
-      "vegetarian-options",
-      "vietnamese-food"
+      "vietnamese",
+      "grilled",
+      "pork",
+      "chestnut",
+      "rice"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
