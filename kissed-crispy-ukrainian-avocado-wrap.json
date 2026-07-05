@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-crispy-ukrainian-avocado-wrap",
+  "title": "Avocado Ukrainian Wrap",
+  "description": "A delicious Ukrainian-inspired wrap filled with crispy ingredients and a creamy avocado sauce.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Crispy Ukrainian Flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Crispy Fried Onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Crispy Bacon",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chopped Chives",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Cook the crispy bacon until crispy.",
+    "Warm the Ukrainian flatbread in the pan for a few seconds.",
+    "Spread the mashed avocado on the flatbread.",
+    "Add the crispy fried onions on top of the avocado.",
+    "Add the sour cream on top of the onions.",
+    "Sprinkle chopped chives on top of the sour cream.",
+    "Fold the flatbread to form a wrap.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "wrap",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-ukrainian-avocado-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:21:41.970Z"
+}
