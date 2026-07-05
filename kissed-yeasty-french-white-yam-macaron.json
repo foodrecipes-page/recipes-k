@@ -1,0 +1,62 @@
+{
+  "slug": "kissed-yeasty-french-white-yam-macaron",
+  "title": "Classic French Baguette",
+  "description": "A simple yet delicious recipe for a homemade French baguette. Made with a combination of yeasty and macaron ingredients.",
+  "cuisine": "French",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "white flour",
+      "amount": "500g",
+      "notes": "High-protein bread flour"
+    },
+    {
+      "name": "yeast",
+      "amount": "10g",
+      "notes": "Active dry yeast"
+    },
+    {
+      "name": "salt",
+      "amount": "10g",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "macaron",
+      "amount": "50g",
+      "notes": "Almond flour"
+    },
+    {
+      "name": "water",
+      "amount": "350ml",
+      "notes": "Room temperature water"
+    }
+  ],
+  "instructions": [
+    "Combine white flour, macaron, and salt in a large mixing bowl.",
+    "Gradually add water while mixing until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover with a damp cloth, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 220°C (425°F).",
+    "Punch down the dough and shape into a baguette.",
+    "Place the baguette on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Let cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "french",
+    "homemade"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-french-white-yam-macaron",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T00:16:29.344Z"
+}
