@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-gooey-german-apple-tart",
+  "title": "German Apple Tart",
+  "description": "A sweet and crumbly tart filled with caramelized apples, perfect for a dessert or snack.",
+  "cuisine": "German",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "German pastry dough",
+      "amount": "1 sheet",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Apples",
+      "amount": "4-6",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the German pastry dough to a thickness of 1/8 inch.",
+    "Transfer the dough to a 9-inch tart pan with a removable bottom.",
+    "In a large bowl, combine the sliced apples, brown sugar, cinnamon, and nutmeg. Mix until the apples are evenly coated.",
+    "Arrange the apple mixture in the tart shell, leaving a 1-inch border around the edges.",
+    "Dot the top of the apple mixture with the butter.",
+    "Roll out the remaining pastry dough to a thickness of 1/8 inch. Use a pastry cutter or a knife to cut the dough into strips for a lattice-top crust.",
+    "Place the lattice strips on top of the apple mixture, weaving them into a lattice pattern.",
+    "Trim the edges of the lattice strips and press the edges of the lattice to seal.",
+    "Bake the tart for 40-50 minutes, or until the crust is golden brown and the apples are tender.",
+    "Remove the tart from the oven and let it cool on a wire rack for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "apple",
+    "tart",
+    "pastry",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "2g",
+    "carbs": "40g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-gooey-german-apple-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T11:38:55.991Z"
+}
