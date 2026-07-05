@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-light-vietnamese-chestnut-cha-gio",
+  "title": "Vietnamese-Style Grilled Pork Chops with Chestnut Rice",
+  "description": "A flavorful and healthy dish that combines the savory flavors of Vietnam with the earthy taste of chestnuts. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "chestnut rice",
+      "amount": "2 cups",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "light soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "kissed sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "vietnamese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cha gio",
+      "amount": "1/4 cup",
+      "notes": "crushed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season pork chops with salt, pepper, and vietnamese chili flakes.",
+    "Grill pork chops for 5-7 minutes per side, or until cooked through.",
+    "In a small bowl, whisk together light soy sauce and kissed sesame oil.",
+    "Brush the sauce onto the grilled pork chops during the last minute of cooking.",
+    "Serve pork chops with chestnut rice, green onions, and crushed cha gio.",
+    "Garnish with additional green onions and cha gio if desired.",
+    "Cook chestnut rice according to package instructions.",
+    "Heat a small amount of kissed sesame oil in a pan over medium heat.",
+    "Add crushed cha gio and cook, stirring constantly, for 1-2 minutes.",
+    "Stir in cooked chestnut rice and cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled",
+    "pork",
+    "chestnut",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-vietnamese-chestnut-cha-gio",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T03:29:59.087Z"
+}
