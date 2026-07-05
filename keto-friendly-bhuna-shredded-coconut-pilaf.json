@@ -1,0 +1,90 @@
+{
+  "slug": "keto-friendly-bhuna-shredded-coconut-pilaf",
+  "title": "Bhuna Coconut Pilaf",
+  "description": "A keto-friendly twist on a classic pilaf dish, featuring the rich flavors of bhuna and shredded coconut.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bhuna Curry Powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shredded Coconut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup",
+      "notes": "preferably unflavored"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Small Onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the chicken breast and pat it dry with paper towels.",
+    "Season the chicken with salt and black pepper.",
+    "Heat 1 tablespoon of coconut oil in a pan over medium-high heat.",
+    "Sear the chicken breast until browned on both sides, about 5 minutes per side.",
+    "Remove the chicken from the pan and set it aside.",
+    "In the same pan, add the remaining 1 tablespoon of coconut oil.",
+    "Add the chopped onion and cook until it's translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Stir in the bhuna curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the shredded coconut and cook for an additional 2-3 minutes, until lightly toasted.",
+    "Fluff the cooked basmati rice with a fork and stir it into the pan with the coconut mixture.",
+    "Return the seared chicken to the pan and stir to combine.",
+    "Transfer the pan to the preheated oven and bake for 15-20 minutes, until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pilaf",
+    "indian-inspired"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-friendly-bhuna-shredded-coconut-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T16:50:23.600Z"
+}
