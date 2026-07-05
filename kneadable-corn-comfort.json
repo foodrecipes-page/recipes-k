@@ -1,0 +1,82 @@
+{
+  "slug": "kneadable-corn-comfort",
+  "title": "Comfort Corn Fritters",
+  "description": "A crispy and comforting corn fritter recipe, perfect for a snack or appetizer. Enjoy the sweet and savory flavors of corn, flour, and eggs.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Kneadable Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Comfort",
+      "amount": "1 tablespoon",
+      "notes": "Mayo or sour cream"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, whisk together flour, eggs, melted butter, salt, baking powder, and black pepper.",
+    "Add the corn and mix well.",
+    "Drop the mixture by tablespoonfuls into the hot oil.",
+    "Fry for 2-3 minutes or until golden brown.",
+    "Drain on paper towels.",
+    "Serve warm with a dollop of comfort (mayo or sour cream)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "fritters",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneadable-corn-comfort",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:42:40.454Z"
+}
