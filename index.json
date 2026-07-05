@@ -6944,17 +6944,16 @@
   },
   {
     "slug": "kissed-gooey-german-apple-tart",
-    "title": "Kissed Gooey German Apple Tart",
+    "title": "German Apple Tart",
     "tags": [
-      "apple-tart",
-      "dairy-free",
-      "date-night",
-      "german-dish",
-      "romantic-dessert",
-      "vegetarian"
+      "german",
+      "apple",
+      "tart",
+      "pastry",
+      "dessert"
     ],
     "cuisine": "German",
-    "totalTimeMin": 65,
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -7724,16 +7723,16 @@
   },
   {
     "slug": "kissed-juicy-indian-chickpeas-chana-masala",
-    "title": "Kissed Juicy Indian Chickpeas Chana Masala",
+    "title": "Chana Masala",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "indian-cuisine",
-      "one-pot",
+      "indian",
+      "chickpeas",
+      "chana",
+      "masala",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -13041,15 +13040,14 @@
   },
   {
     "slug": "kissed-with-raisins-indian-lamb-korma",
-    "title": "Kissed with Raisins Indian Lamb Korma",
+    "title": "Lamb Korma Curry",
     "tags": [
-      "high-protein",
-      "indian-food",
-      "one-pan",
-      "weeknight"
+      "indian",
+      "lamb",
+      "curry"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
