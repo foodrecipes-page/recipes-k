@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-with-herbs-greek-goat-bamboo-steamer-moussaka",
+  "title": "Greek Moussaka with Goats Cheese",
+  "description": "A classic Greek dish made with tender eggplant, flavorful ground meat, and a rich bechamel sauce topped with a layer of creamy goats cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 large eggplant",
+      "amount": "sliced",
+      "notes": "salted to remove bitterness"
+    },
+    {
+      "name": "1 pound ground lamb",
+      "amount": "diced",
+      "notes": "cooked to 160°F (71°C)"
+    },
+    {
+      "name": "1 cup goats cheese",
+      "amount": "crumbled",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "1 cup bechamel sauce",
+      "amount": "homemade",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "1 cup breadcrumbs",
+      "amount": "freshly grated",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "for frying",
+      "notes": "use a steamer basket for eggplant"
+    },
+    {
+      "name": "1 teaspoon dried oregano",
+      "amount": "dried",
+      "notes": "use fresh if possible"
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "smoked",
+      "notes": "optional"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "use fresh ground pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the bechamel sauce by melting butter and whisking in flour, then gradually adding milk, whisking continuously.",
+    "Cook the ground lamb in a large pan over medium heat until browned, breaking into small pieces as it cooks.",
+    "Add the sliced eggplant to the pan with the lamb and cook for 5 minutes, stirring occasionally.",
+    "Season the lamb and eggplant mixture with oregano, paprika, salt, and pepper.",
+    "In a separate pan, heat the olive oil over medium heat and fry the breadcrumbs until golden brown.",
+    "In a 9x13 inch baking dish, create a layer of eggplant, followed by a layer of the lamb mixture, and then a layer of bechamel sauce.",
+    "Repeat the layering process two more times, finishing with a layer of bechamel sauce on top.",
+    "Sprinkle the crumbled goats cheese over the top layer of bechamel sauce.",
+    "Cover the dish with aluminum foil and bake for 45 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 55,
+  "totalTimeMin": 85,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "lamb",
+    "eggplant",
+    "goats cheese",
+    "bechamel sauce"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-herbs-greek-goat-bamboo-steamer-moussaka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:57:48.625Z"
+}
