@@ -1,0 +1,69 @@
+{
+  "slug": "knockout-pungent-dutch-pickle-stew",
+  "title": "Dutch Stew",
+  "description": "A hearty and flavorful dish made with tender stew meat, served with a side of pickled vegetables.",
+  "cuisine": "Dutch",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dutch stew meat",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "Pungent onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Pickle juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pickle slices",
+      "amount": "4-6",
+      "notes": ""
+    },
+    {
+      "name": "Knockout black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Season the stew meat with knockout black pepper.",
+    "Heat a large Dutch oven over medium-high heat.",
+    "Sear the stew meat until browned on all sides.",
+    "Remove the stew meat from the pot and set aside.",
+    "Add the pungent onion to the pot and sauté until softened.",
+    "Add the pickle juice to the pot and stir to combine.",
+    "Return the stew meat to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer for 1-2 hours.",
+    "Serve the stew hot, garnished with pickle slices."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch",
+    "stew",
+    "lunch",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-pungent-dutch-pickle-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T21:22:11.739Z"
+}
