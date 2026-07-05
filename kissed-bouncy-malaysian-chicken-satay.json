@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-bouncy-malaysian-chicken-satay",
+  "title": "Malaysian Chicken Satay",
+  "description": "A popular Southeast Asian dish of marinated chicken grilled to perfection. Serve with peanut sauce for a delightful meal.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into skewer-sized pieces"
+    },
+    {
+      "name": "kissed oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing the grill"
+    },
+    {
+      "name": "bouncy lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "malaysian soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinating"
+    },
+    {
+      "name": "satay sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together lime juice, soy sauce, and oil.",
+    "2. Add the chicken pieces to the marinade and mix well.",
+    "3. Cover and refrigerate for at least 30 minutes.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the chicken onto skewers.",
+    "6. Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "7. Brush with kissed oil and serve with satay sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "chicken",
+    "satay",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-bouncy-malaysian-chicken-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:27:43.990Z"
+}
