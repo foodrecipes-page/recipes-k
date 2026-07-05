@@ -3318,17 +3318,15 @@
   },
   {
     "slug": "kissed-bouncy-malaysian-chicken-satay",
-    "title": "Kissed Bouncy Malaysian Chicken Satay",
+    "title": "Malaysian Chicken Satay",
     "tags": [
-      "coconut-milk-based",
-      "garlic-based",
-      "grilled-chicken",
-      "lime-juice-based",
-      "malaysian-cuisine",
-      "peanut-oil-based"
+      "grilled",
+      "chicken",
+      "satay",
+      "malaysian"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -13626,15 +13624,11 @@
   },
   {
     "slug": "kissed-yeasty-french-white-yam-macaron",
-    "title": "Kissed Yeasty French White Yam Macaron",
+    "title": "Classic French Baguette",
     "tags": [
-      "bonito-shave",
-      "dinner-idea",
-      "french-dish",
-      "high-protein",
-      "macaron",
-      "white-yam",
-      "yeasty"
+      "bread",
+      "french",
+      "homemade"
     ],
     "cuisine": "French",
     "totalTimeMin": 40,
@@ -14068,15 +14062,14 @@
   },
   {
     "slug": "kneadable-corn-comfort",
-    "title": "Kneadable Corn Comfort",
+    "title": "Comfort Corn Fritters",
     "tags": [
-      "saudi-arabian",
-      "savory",
-      "chewy",
-      "vegan-friendly"
+      "corn",
+      "fritters",
+      "comfort-food"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "American",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
