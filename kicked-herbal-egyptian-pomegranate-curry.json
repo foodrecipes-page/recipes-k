@@ -1,0 +1,84 @@
+{
+  "slug": "kicked-herbal-egyptian-pomegranate-curry",
+  "title": "Egyptian Pomegranate Chicken",
+  "description": "A flavorful and aromatic dish from Egypt, blending the sweetness of pomegranate with the spiciness of curry.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "kicked pomegranate molasses",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 1/2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "herbal tea",
+      "amount": "1 cup",
+      "notes": "used for marinating"
+    },
+    {
+      "name": "egyptian flatbread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "pomegranate seeds",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together herbal tea, curry powder, salt, and black pepper.",
+    "Add the chicken breast to the marinade and mix well. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Remove the chicken from the marinade and place it on a baking sheet lined with parchment paper.",
+    "Drizzle kicked pomegranate molasses over the chicken and toss to coat.",
+    "Bake the chicken in the preheated oven for 20-25 minutes, or until it reaches an internal temperature of 165°F (74°C).",
+    "While the chicken is cooking, toast the egyptian flatbread slices in the oven for 2-3 minutes, or until crispy.",
+    "To serve, place a slice of toasted flatbread on a plate, then top with a piece of the baked chicken, and garnish with pomegranate seeds.",
+    "Repeat the layers to create a second serving, then serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pomegranate",
+    "curry",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-herbal-egyptian-pomegranate-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T23:15:34.306Z"
+}
