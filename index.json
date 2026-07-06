@@ -9293,17 +9293,16 @@
   },
   {
     "slug": "kissed-rich-italian-tomato-bruschetta",
-    "title": "Kissed Rich Italian Tomato Bruschetta",
+    "title": "Classic Bruschetta",
     "tags": [
-      "bruschetta-recipes",
-      "cheesy-goodness",
-      "gluten-free",
-      "italian-food",
-      "rich-and-decadent",
-      "whole30-recipes"
+      "italian",
+      "snack",
+      "appetizer",
+      "bruschetta",
+      "tomato"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -13047,16 +13046,14 @@
   },
   {
     "slug": "kissed-with-robata-smoke-american-bok-choi-skewers",
-    "title": "Kissed with Robata Smoke American Bok Choi Skewers",
+    "title": "Robata-Grilled Bok Choi with Kissed Skewers",
     "tags": [
-      "american",
-      "bok-choi",
-      "one-pan",
-      "robata-grill",
+      "asian",
+      "grilled",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
-    "cuisine": "American",
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "k"
   },
