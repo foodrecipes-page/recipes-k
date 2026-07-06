@@ -2557,17 +2557,17 @@
   },
   {
     "slug": "kid-friendly-velvety-american-plum-jam-bars",
-    "title": "Kid-Friendly Velvety American Plum Jam Bars",
+    "title": "Velvety Plum Jam Bars",
     "tags": [
-      "dessert",
-      "jam-filled",
-      "kid-friendly",
       "plum",
-      "velvety",
-      "weeknight"
+      "jam",
+      "bars",
+      "kids",
+      "friendly",
+      "dessert"
     ],
     "cuisine": "american",
-    "totalTimeMin": 75,
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -11931,16 +11931,15 @@
   },
   {
     "slug": "kissed-turkish-meat-icli-kofte",
-    "title": "Kissed Turkish Meat Icli Kofte",
+    "title": "Turkish-Style Kofte Kebabs",
     "tags": [
-      "comfort-food",
-      "easy-weeknight",
-      "kofte",
-      "one-pot",
-      "turkish"
+      "turkish",
+      "kebab",
+      "lamb",
+      "meatballs"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 50,
+    "cuisine": "Turkish",
+    "totalTimeMin": 32,
     "shard": "k"
   },
   {
