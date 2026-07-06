@@ -2401,14 +2401,15 @@
   },
   {
     "slug": "kid-friendly-american-mac-and-cheese-casserole",
-    "title": "Kid-Friendly American Mac and Cheese Casserole",
+    "title": "Kid Friendly American Mac and Cheese Casserole",
     "tags": [
+      "kid-friendly",
+      "american",
       "comfort-food",
-      "easy-pasta",
-      "kid-friendly"
+      "casserole"
     ],
     "cuisine": "American",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
