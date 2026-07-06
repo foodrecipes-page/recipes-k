@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-with-oil-algerian-kid-friendly-pastry",
+  "title": "Algerian Pastry with Friendly Filling",
+  "description": "A delicious Algerian-inspired pastry filled with a friendly mixture of ingredients. Perfect for a snack or dessert.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pastry",
+      "amount": "1 sheet",
+      "notes": null
+    },
+    {
+      "name": "Algerian",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Friendly",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tsp",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the pastry and brush with oil.",
+    "Spread the Algerian mixture evenly over the pastry.",
+    "Top with the Friendly mixture.",
+    "Fold the pastry in half to create a triangle.",
+    "Bake for 25-30 minutes or until golden brown.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "algerian",
+    "pastry",
+    "friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-oil-algerian-kid-friendly-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T17:53:59.839Z"
+}
