@@ -1005,17 +1005,15 @@
   },
   {
     "slug": "kicked-citrusy-vietnamese-beef-noodles",
-    "title": "Kicked Citrusy Vietnamese Beef Noodles",
+    "title": "Citrusy Beef Noodle Stir Fry",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "post-workout",
-      "vietnamese"
+      "beef",
+      "noodle-stir-fry",
+      "vietnamese",
+      "citrusy"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
