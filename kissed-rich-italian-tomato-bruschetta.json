@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-rich-italian-tomato-bruschetta",
+  "title": "Classic Bruschetta",
+  "description": "A simple and delicious Italian appetizer or snack featuring toasted bread, fresh tomatoes, and herbs.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "1 baguette, cut into 1/2-inch slices"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 large, diced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove, minced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Arrange bread slices on a baking sheet and toast in the oven for 5-7 minutes, or until lightly browned.",
+    "In a medium bowl, combine diced tomato, olive oil, garlic, salt, and pepper. Mix well.",
+    "Stir in chopped fresh basil.",
+    "To assemble the bruschetta, place toasted bread slices on a serving platter and top each slice with a spoonful of the tomato mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "snack",
+    "appetizer",
+    "bruschetta",
+    "tomato"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-rich-italian-tomato-bruschetta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:13:32.238Z"
+}
