@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-turkish-meat-icli-kofte",
+  "title": "Turkish-Style Kofte Kebabs",
+  "description": "A flavorful and hearty Turkish-inspired dish featuring kofte meatballs served with a side of sauce. Serve with a side of rice or bread for a satisfying meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 lb",
+      "notes": "80% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large mixing bowl, combine ground lamb, chopped onion, minced garlic, paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Divide the mixture into 8-10 portions, shape each portion into a ball, and then flatten slightly into a disk shape.",
+    "Thread a skewer with 2-3 kofte disks, leaving a small space between each.",
+    "Brush the kofte with olive oil and season with additional salt and pepper if desired.",
+    "Grill the kofte for 4-5 minutes per side, or until they reach an internal temperature of 160°F (71°C).",
+    "While the kofte is cooking, prepare the sauce by combining 1 cup of yogurt, 1 tbsp of lemon juice, and 1 tsp of paprika in a bowl.",
+    "Once the kofte is cooked, brush with the sauce and serve hot with a side of rice or bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebab",
+    "lamb",
+    "meatballs"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-turkish-meat-icli-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T19:03:21.213Z"
+}
