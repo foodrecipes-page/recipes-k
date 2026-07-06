@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-silky-norwegian-salmon-biryani",
+  "title": "Pan-Seared Norwegian Salmon with Biryani Rice",
+  "description": "A flavorful and aromatic dish featuring pan-seared salmon served with fragrant biryani rice. This recipe is perfect for a lunch or dinner option.",
+  "cuisine": "Indian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian Salmon fillets",
+      "amount": "4 (6 oz each)",
+      "notes": null
+    },
+    {
+      "name": "Biryani rice",
+      "amount": "1 cup",
+      "notes": "Basmati or long-grain rice works well"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Silky onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Birista (fried onions)",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds a nice crunch"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the salmon fillets under cold water, pat dry with a paper towel, and season with salt and pepper.",
+    "2. Heat the kissed olive oil in a large skillet over medium-high heat.",
+    "3. Add the silky onion to the skillet and cook until caramelized, about 5 minutes.",
+    "4. Add the birista to the skillet and cook for an additional 1-2 minutes.",
+    "5. Add the salmon fillets to the skillet, skin side up (if they have skin).",
+    "6. Cook the salmon for 3-4 minutes, then flip and cook for an additional 3-4 minutes, or until cooked through.",
+    "7. Meanwhile, prepare the biryani rice according to package instructions.",
+    "8. To serve, place a salmon fillet on top of a bed of biryani rice, spoon some of the onion and birista mixture over the top.",
+    "9. Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "rice",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "20g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-norwegian-salmon-biryani",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:21:50.972Z"
+}
