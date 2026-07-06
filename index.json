@@ -2041,17 +2041,15 @@
   },
   {
     "slug": "kicked-up-tangy-polish-green-beans-stew",
-    "title": "Kicked Up Tangy Polish Green Beans Stew",
+    "title": "Polish-Style Green Bean Stew",
     "tags": [
-      "comfort-food",
-      "one-pot",
+      "stew",
+      "green-beans",
       "polish-cuisine",
-      "raw-friendly",
-      "vegetarian",
-      "weeknight"
+      "vegetarian"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 50,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -10001,17 +9999,15 @@
   },
   {
     "slug": "kissed-silky-norwegian-salmon-biryani",
-    "title": "Kissed Silky Norwegian Salmon Biryani",
+    "title": "Pan-Seared Norwegian Salmon with Biryani Rice",
     "tags": [
-      "bamboo-steamer",
-      "gluten-free",
-      "high-protein",
-      "meal-prep",
-      "norwegian-cuisine",
-      "pressure-cooker"
+      "indian",
+      "seafood",
+      "rice",
+      "salmon"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
