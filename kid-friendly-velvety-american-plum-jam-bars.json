@@ -1,0 +1,85 @@
+{
+  "slug": "kid-friendly-velvety-american-plum-jam-bars",
+  "title": "Velvety Plum Jam Bars",
+  "description": "A sweet and tangy dessert perfect for kids and adults alike, featuring a velvety plum jam filling and a crumbly oat and brown sugar crust.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "packed brown sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "old-fashioned oats",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "plum jam",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C). Line an 8-inch square baking dish with parchment paper.",
+    "In a medium bowl, whisk together the flour, brown sugar, and salt. Add the cold butter and use a pastry blender or your fingers to work it into the dry ingredients until the mixture resembles coarse crumbs.",
+    "Press the mixture evenly into the prepared baking dish.",
+    "In a separate bowl, whisk together the plum jam, eggs, and granulated sugar.",
+    "Pour the jam mixture over the crust.",
+    "Bake for 35-40 minutes, or until the filling is set and the crust is golden brown.",
+    "Let cool completely in the pan before cutting into bars.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "plum",
+    "jam",
+    "bars",
+    "kids",
+    "friendly",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kid-friendly-velvety-american-plum-jam-bars",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T20:38:20.385Z"
+}
