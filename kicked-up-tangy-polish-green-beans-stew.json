@@ -1,0 +1,72 @@
+{
+  "slug": "kicked-up-tangy-polish-green-beans-stew",
+  "title": "Polish-Style Green Bean Stew",
+  "description": "A hearty and flavorful stew made with tender green beans and a tangy twist. Perfect for a chilly evening.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green beans",
+      "amount": "1 1/2 cups, trimmed",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "kicked up tangy stew",
+      "amount": "1 can, 14.5 oz",
+      "notes": "canned tomatoes"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 lb",
+      "notes": "optional, sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and garlic; cook until softened, about 5 minutes.",
+    "Add sausage (if using); cook until browned, about 5 minutes.",
+    "Add stew, green beans, caraway seeds, salt, and pepper.",
+    "Bring to a boil; reduce heat to low and simmer, covered, until beans are tender, about 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley (if desired)"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "green-beans",
+    "polish-cuisine",
+    "vegetarian"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-tangy-polish-green-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T06:06:04.198Z"
+}
