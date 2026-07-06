@@ -1,0 +1,86 @@
+{
+  "slug": "kicked-citrusy-vietnamese-beef-noodles",
+  "title": "Citrusy Beef Noodle Stir Fry",
+  "description": "A quick and easy Vietnamese-inspired stir fry made with beef, noodles, and a hint of citrus.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "sirloin, sliced into thin strips"
+    },
+    {
+      "name": "Noodles",
+      "amount": "1 cup",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "Citrusy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "mix of soy sauce, lime juice, and honey"
+    },
+    {
+      "name": "Kicked Chili Flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "Vegetables",
+      "amount": "1 cup",
+      "notes": "bell peppers, onions, and snow peas"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes. Remove from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the vegetables and cook until tender, about 3-4 minutes.",
+    "Add the noodles to the skillet and cook for 1-2 minutes, until they start to soften.",
+    "Return the beef to the skillet and pour in the citrusy sauce.",
+    "Stir everything together and cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Optional: add kicked chili flakes to taste for an extra kick."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "noodle-stir-fry",
+    "vietnamese",
+    "citrusy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-citrusy-vietnamese-beef-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:31:33.907Z"
+}
