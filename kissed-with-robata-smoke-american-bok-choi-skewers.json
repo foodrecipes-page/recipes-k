@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-with-robata-smoke-american-bok-choi-skewers",
+  "title": "Robata-Grilled Bok Choi with Kissed Skewers",
+  "description": "A unique Asian-inspired dish featuring grilled bok choi and sweet kissed skewers.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bok Choi",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Kissed Skewers",
+      "amount": "10-12 count",
+      "notes": "Marinated in a mixture of soy sauce, sugar, and rice vinegar."
+    },
+    {
+      "name": "American Skewers",
+      "amount": "10-12 count",
+      "notes": "For serving"
+    },
+    {
+      "name": "Smoke Sauce",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    },
+    {
+      "name": "With Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "For marinating Kissed Skewers"
+    },
+    {
+      "name": "Robata Sauce",
+      "amount": "2 tbsp",
+      "notes": "For brushing bok choi during grilling"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tbsp",
+      "notes": "For brushing Kissed Skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cut the bok choi into individual leaves and brush with Robata Sauce.",
+    "Grill the bok choi for 3-4 minutes per side, or until slightly charred.",
+    "In a separate pan, heat the With Soy Sauce over medium heat.",
+    "Add the Kissed Skewers to the pan and cook for 2-3 minutes per side, or until caramelized.",
+    "Serve the grilled bok choi with Kissed Skewers, American Skewers, and a drizzle of Smoke Sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "grilled",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-robata-smoke-american-bok-choi-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T15:59:02.868Z"
+}
