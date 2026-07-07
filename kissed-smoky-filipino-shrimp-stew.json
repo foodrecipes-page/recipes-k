@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-smoky-filipino-shrimp-stew",
+  "title": "Smoky Shrimp Stew",
+  "description": "A hearty, flavorful stew made with shrimp, vegetables, and a hint of smokiness. Serve with crusty bread for a comforting meal.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen, peeled and deveined"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Kissed tomatoes",
+      "amount": "2 cups",
+      "notes": "Canned, crushed"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 teaspoon",
+      "notes": "Smoked paprika adds a deep, smoky flavor"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Beef broth or stock"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the shrimp and cook until pink, about 2-3 minutes.",
+    "Add the kissed tomatoes, smoky paprika, and stew. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "soup",
+    "stew",
+    "filipino"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-filipino-shrimp-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:47:51.021Z"
+}
