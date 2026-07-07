@@ -6028,16 +6028,15 @@
   },
   {
     "slug": "kissed-ethiopian-cherry-tomato-salad",
-    "title": "Kissed Ethiopian Cherry Tomato Salad",
+    "title": "Ethiopian Cherry Salad",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "raw-friendly",
       "snack",
-      "vegan"
+      "salad",
+      "cherry",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
@@ -7666,17 +7665,16 @@
   },
   {
     "slug": "kissed-juicy-algerian-lamb-kebabs",
-    "title": "Kissed Juicy Algerian Lamb Kebabs",
+    "title": "Algerian Lamb Kebabs",
     "tags": [
-      "deep-fried",
-      "high-protein",
-      "lamb-based",
-      "north-african",
-      "one-pan",
-      "weeknight"
+      "algerian",
+      "lamb",
+      "kebabs",
+      "grilled",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
