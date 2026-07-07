@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-velvety-northern-thai-pepper-chicken-boat-noodles",
+  "title": "Thai Northern Chicken Boat Noodle Soup",
+  "description": "A comforting and flavorful Thai-inspired noodle soup made with tender chicken and soft noodles. This hearty dish is perfect for a chilly evening.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "northern noodles",
+      "amount": "8 ounces",
+      "notes": "soft and chewy"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": "make sure to choose a gluten-free option"
+    },
+    {
+      "name": "kissed coconut milk",
+      "amount": "2 cups",
+      "notes": "full-fat for richness"
+    },
+    {
+      "name": "pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups",
+      "notes": "homemade or store-bought is fine"
+    },
+    {
+      "name": "fish sauce (optional)",
+      "amount": "1 teaspoon",
+      "notes": "omit for a vegetarian version"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the curry paste and cook, stirring constantly, for 1-2 minutes.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Add the broth, fish sauce (if using), and the browned chicken back to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and let simmer for 10-12 minutes.",
+    "Cook the noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Season with pepper to taste.",
+    "Serve hot, garnished with sliced pepper and a sprinkle of pepper, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "southern",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-northern-thai-pepper-chicken-boat-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T05:44:05.848Z"
+}
