@@ -1,0 +1,81 @@
+{
+  "slug": "kosher-manti-with-semi-skimmed-milk-sauce",
+  "title": "Kosher Manti with Semi-Skimmed Milk Sauce",
+  "description": "Traditional Central Asian dish with steamed dumplings and a creamy milk sauce.",
+  "cuisine": "Central Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manti dough",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Kosher ground meat",
+      "amount": "500g",
+      "notes": "beef or mutton"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Semi-skimmed milk",
+      "amount": "250ml",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Milk sauce",
+      "amount": "250ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "With",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Combine ground meat, onion, garlic, and salt. Mix well.",
+    "Divide Manti dough into small pieces and roll out into thin circles.",
+    "Place a tablespoon of meat mixture onto each dough circle and fold into a triangle.",
+    "Steam the dumplings for 15-20 minutes.",
+    "Meanwhile, heat the milk sauce in a saucepan over low heat.",
+    "Add cumin to the milk sauce and stir well.",
+    "Serve the steamed dumplings with the milk sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "central-asian",
+    "manti",
+    "dumplings",
+    "milk-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-manti-with-semi-skimmed-milk-sauce",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T08:53:33.613Z"
+}
