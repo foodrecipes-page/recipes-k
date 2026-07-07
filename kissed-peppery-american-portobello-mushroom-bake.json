@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-peppery-american-portobello-mushroom-bake",
+  "title": "Portobello Mushroom Burgers with Peppery Kissed Aioli",
+  "description": "A flavorful and healthy twist on traditional burgers, featuring portobello mushrooms and a tangy peppery kissed aioli. Perfect for a quick and easy dinner option.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Portobello mushrooms",
+      "amount": "4",
+      "notes": "large, stems removed"
+    },
+    {
+      "name": "Peppery kissed aioli",
+      "amount": "1/2 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together peppery kissed aioli ingredients and set aside.",
+    "Season portobello mushrooms with salt and pepper.",
+    "Grill mushrooms for 4-5 minutes per side, or until tender.",
+    "Meanwhile, toast burger buns on the grill.",
+    "Assemble burgers with mushrooms, lettuce, tomato, and red onion.",
+    "Spread a layer of peppery kissed aioli on the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portobello",
+    "mushroom",
+    "burger",
+    "aioli",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peppery-american-portobello-mushroom-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T02:08:12.989Z"
+}
