@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-crispy-norwegian-sea-bass-bake",
+  "title": "Pan-Seared Norwegian Bass with Crispy Skin and Sea Salt Crust",
+  "description": "A simple yet flavorful dish that showcases the natural sweetness of the bass, paired with the crunch of a crispy skin and a hint of sea salt.",
+  "cuisine": "Fusion",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian bass fillets",
+      "amount": "4 (6 oz each)",
+      "notes": "Ask for skin-on fillets"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "kissed lemon zest",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the bass fillets under cold water, pat dry with paper towels.",
+    "Season the bass with salt, black pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the bass for 2-3 minutes per side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "While the bass is baking, mix together crushed sea salt and kissed lemon zest.",
+    "Remove the skillet from the oven and carefully remove the bass from the skillet.",
+    "Drizzle with melted butter and sprinkle with the sea salt mixture.",
+    "Serve immediately with lemon wedges on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bass",
+    "seafood",
+    "norwegian",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-norwegian-sea-bass-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:07:11.489Z"
+}
