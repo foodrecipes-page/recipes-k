@@ -1,0 +1,78 @@
+{
+  "slug": "kicked-spicy-mexican-pork-tacos-al-pastor",
+  "title": "Carne Asada Tacos",
+  "description": "A classic Mexican dish, Carne Asada Tacos are a staple of taco trucks and restaurants everywhere. Thinly sliced grilled steak, served with fresh toppings and warm tortillas, is a flavor combination that's hard to beat.",
+  "cuisine": "mexican",
+  "diet": [
+    "dairy-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "lime",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season flank steak with salt and pepper.",
+    "Grill steak for 4-5 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer steak to a cutting board and let rest for 5 minutes.",
+    "Thinly slice steak against the grain.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by placing sliced steak onto a tortilla, followed by a sprinkle of cilantro, a squeeze of lime juice, and a sprinkle of onion.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "grilled",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-mexican-pork-tacos-al-pastor",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T14:31:26.868Z"
+}
