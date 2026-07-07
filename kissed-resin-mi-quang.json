@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-resin-mi-quang",
+  "title": "Quang's Sweet Kissed Mille-Feuille",
+  "description": "A layered pastry dessert made with kissed, resin, and mi, topped with a sweet Quang sauce.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kissed",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Resin",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mi",
+      "amount": "1 package",
+      "notes": "preferably unflavored"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg yolks",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the mi to a thickness of 1/8 inch.",
+    "Cut out rectangles of mi, about 4 inches by 6 inches.",
+    "Place the mi rectangles on a baking sheet lined with parchment paper.",
+    "Bake the mi in the preheated oven for 15-20 minutes, or until golden brown.",
+    "In a medium saucepan, combine the kissed, resin, and granulated sugar.",
+    "Add the water to the saucepan and stir to combine.",
+    "Bring the mixture to a boil over medium heat, then reduce the heat to low and simmer for 5-7 minutes.",
+    "Remove the saucepan from the heat and stir in the egg yolks and vanilla extract.",
+    "Let the mixture cool to room temperature.",
+    "To assemble the dessert, place a layer of mi on a serving plate.",
+    "Top the mi with a layer of the kissed-resin sauce.",
+    "Repeat the layers two more times, ending with a layer of mi on top.",
+    "Serve the dessert chilled, garnished with additional kissed and resin if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "sweet",
+    "decent",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-resin-mi-quang",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T22:47:41.952Z"
+}
