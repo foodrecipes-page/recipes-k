@@ -1,0 +1,74 @@
+{
+  "slug": "kooky-herbal-croatian-lemon-stew",
+  "title": "Lemon Herb Stew",
+  "description": "A hearty stew made with tender ingredients and a hint of lemon. Perfect for a chilly evening.",
+  "cuisine": "International",
+  "diet": [
+    "Vegetarian",
+    "Gluten-Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Croatian Stew Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Lemon",
+      "amount": "2 medium",
+      "notes": "Juiced"
+    },
+    {
+      "name": "Herbal Broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Kooky Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the stew meat and cook until browned, about 5 minutes.",
+    "Add the chopped onions and cook until they begin to soften, about 3 minutes.",
+    "Add the herbal broth, lemon juice, salt, and parsley.",
+    "Bring the mixture to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 1 hour and 30 minutes.",
+    "Remove from the oven and let cool slightly.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "lemon",
+    "herbal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-herbal-croatian-lemon-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T23:23:52.026Z"
+}
