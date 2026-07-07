@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-roasted-english-cream-scones-clotted-cream",
+  "title": "English Cream Tea Scones",
+  "description": "A classic English recipe for warm scones served with clotted cream and a dash of sweetness.",
+  "cuisine": "english",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "kissed sugar",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "english salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "clotted cream",
+      "amount": "1 cup",
+      "notes": "for serving"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "for cream topping"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "In a large bowl, whisk together flour, kissed sugar, and english salt.",
+    "Add cold unsalted butter and use a pastry blender or your fingertips to work it into the flour mixture.",
+    "Turn the mixture onto a lightly floured surface and gently knead it a few times until it comes together in a shaggy dough.",
+    "Pat the dough into a circle that is about 1 inch (2.5 cm) thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones. Gather the scraps, re-form the dough, and cut out additional scones.",
+    "Place the scones on the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each scone.",
+    "Brush the tops of the scones with a little extra clotted cream.",
+    "Bake for 18-20 minutes, or until the scones are golden brown.",
+    "Remove from the oven and let cool on a wire rack for 5 minutes.",
+    "Serve warm with clotted cream and a drizzle of heavy cream."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "brunch",
+    "english-tea",
+    "cream-tea",
+    "scones",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-english-cream-scones-clotted-cream",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:45:04.480Z"
+}
