@@ -1,0 +1,59 @@
+{
+  "slug": "kissed-ethiopian-cherry-tomato-salad",
+  "title": "Ethiopian Cherry Salad",
+  "description": "A flavorful and refreshing salad with the sweetness of cherries and the tanginess of Ethiopian spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "2 cups, pitted"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons, olive oil"
+    },
+    {
+      "name": "Ethiopian",
+      "amount": "2 teaspoons, berbere spice"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups, mixed greens"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together kissed and Ethiopian spices.",
+    "2. Add the cherry, tomato, and salad to the bowl and toss to combine.",
+    "3. Season with salt and pepper to taste.",
+    "4. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "salad",
+    "cherry",
+    "ethiopian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-ethiopian-cherry-tomato-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T00:18:07.355Z"
+}
