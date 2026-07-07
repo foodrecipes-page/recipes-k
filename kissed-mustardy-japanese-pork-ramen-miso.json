@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-mustardy-japanese-pork-ramen-miso",
+  "title": "Japanese Ramen with Miso Pork",
+  "description": "A flavorful and comforting Japanese-inspired ramen dish featuring miso-glazed pork. This recipe is perfect for a delicious dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Kissed vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Mustardy sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ramen broth",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, whisk together miso paste, soy sauce, sake, and 2 tablespoons of kissed vegetable oil.",
+    "Place the pork shoulder in a shallow baking dish and brush the miso glaze all over it.",
+    "Roast the pork in the preheated oven for 20-25 minutes, or until cooked through.",
+    "While the pork is cooking, cook the ramen noodles according to the package instructions.",
+    "In a large pot, combine the ramen broth and 2 cups of water. Bring to a boil, then reduce the heat to a simmer.",
+    "Add the cooked noodles and pork to the pot. Slice the pork thinly and add it to the pot as well.",
+    "Stir in the mustardy sesame oil and cook for an additional 2-3 minutes.",
+    "Serve the ramen hot, garnished with sliced green onions, sesame seeds, and a sprinkle of miso paste.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "ramen",
+    "miso",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mustardy-japanese-pork-ramen-miso",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:34:47.717Z"
+}
