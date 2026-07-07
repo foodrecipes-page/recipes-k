@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-dense-brazilian-coconut-pudding",
+  "title": "Brazilian Coconut Kissed Cream Pudding",
+  "description": "A rich and creamy dessert made with coconut milk, kissed by tropical flavors.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "dairy",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "chilled"
+    },
+    {
+      "name": "Brazilian coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed dark chocolate chips",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Dense all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Pudding powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine coconut milk, coconut cream, sugar, and salt. Cook over medium heat, stirring occasionally, until the mixture comes to a simmer.",
+    "Reduce heat to low and add the vanilla extract. Let it steep for 5 minutes, stirring occasionally.",
+    "In a small bowl, whisk together flour and pudding powder. Gradually add the dry mixture to the coconut mixture, whisking until smooth.",
+    "Remove from heat and let it cool slightly.",
+    "Melt the kissed dark chocolate chips in a double boiler or in the microwave in 10-second increments, stirring between each interval.",
+    "Stir the melted chocolate into the coconut mixture until well combined.",
+    "Pour the mixture into small individual serving cups or ramekins.",
+    "Refrigerate for at least 2 hours or until chilled.",
+    "Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "coconut",
+    "chocolate",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dense-brazilian-coconut-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:48:24.072Z"
+}
