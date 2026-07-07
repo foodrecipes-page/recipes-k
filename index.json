@@ -8662,17 +8662,15 @@
   },
   {
     "slug": "kissed-mustardy-japanese-pork-ramen-miso",
-    "title": "Kissed Mustardy Japanese Pork Ramen Miso",
+    "title": "Japanese Ramen with Miso Pork",
     "tags": [
-      "flexitarian-friendly",
-      "japanese-cuisine",
-      "miso-soup",
-      "one-pot-meal",
-      "pork-recipes",
-      "ramen-noodles"
+      "japanese",
+      "ramen",
+      "miso",
+      "pork"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -10362,18 +10360,15 @@
   },
   {
     "slug": "kissed-smoky-filipino-shrimp-stew",
-    "title": "Kissed Smoky Filipino Shrimp Stew",
+    "title": "Smoky Shrimp Stew",
     "tags": [
-      "filipino",
-      "one-pot",
-      "pescatarian",
-      "shrimp",
-      "smoky",
+      "seafood",
+      "soup",
       "stew",
-      "weeknight"
+      "filipino"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
