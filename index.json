@@ -9193,17 +9193,14 @@
   },
   {
     "slug": "kissed-resin-mi-quang",
-    "title": "Kissed Resin Mi-Quang",
+    "title": "Quang's Sweet Kissed Mille-Feuille",
     "tags": [
-      "festive-vietnamese",
-      "low-glycemic-friendly",
-      "sesame-oil",
-      "sweet-dessert",
-      "syrup",
-      "vermicelli"
+      "sweet",
+      "decent",
+      "dessert"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "cuisine": null,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -15214,17 +15211,15 @@
   },
   {
     "slug": "kooky-herbal-croatian-lemon-stew",
-    "title": "Kooky Herbal Croatian Lemon Stew",
+    "title": "Lemon Herb Stew",
     "tags": [
-      "comfort-food",
-      "herbal",
+      "stew",
       "lemon",
-      "one-pot",
-      "sick-day",
+      "herbal",
       "vegetarian"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "International",
+    "totalTimeMin": 110,
     "shard": "k"
   },
   {
