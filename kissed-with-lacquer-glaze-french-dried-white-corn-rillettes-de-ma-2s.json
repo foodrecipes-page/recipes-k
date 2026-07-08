@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s",
+  "title": "French Glazed Rillettes",
+  "description": "A rich French-inspired spread made with tender rillettes and a sweet glaze. Perfect for crackers or toast.",
+  "cuisine": "French",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rillettes",
+      "amount": "8 oz (225g)",
+      "notes": "Available at specialty stores"
+    },
+    {
+      "name": "Dried White Corn",
+      "amount": "1/4 cup (30g)",
+      "notes": "For added texture"
+    },
+    {
+      "name": "Lacquer",
+      "amount": "2 tbsp (30ml)",
+      "notes": "For glaze"
+    },
+    {
+      "name": "French Glaze",
+      "amount": "2 tbsp (30ml)",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "White Corn Syrup",
+      "amount": "1 tbsp (15ml)",
+      "notes": "To balance sweetness"
+    },
+    {
+      "name": "Dried Lacquer",
+      "amount": "1 tsp (5g)",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Kissed Salt",
+      "amount": "1/4 tsp (1.25g)",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a small saucepan, heat the lacquer and French glaze over low heat.",
+    "Stir until the glaze is smooth and warm.",
+    "In a separate pan, toast the dried white corn over medium heat until fragrant.",
+    "Stir in the rillettes and cook until warmed through.",
+    "Add the toasted white corn to the rillettes and stir to combine.",
+    "Pour the glaze over the rillettes mixture and stir until coated.",
+    "Transfer the mixture to a baking dish and bake for 10-12 minutes, or until the top is caramelized.",
+    "Remove from the oven and sprinkle with kissed salt to taste.",
+    "Serve warm with crackers or toast."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "glazed",
+    "rillettes",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": "10g",
+    "carbs": "25g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:48:04.650Z"
+}
