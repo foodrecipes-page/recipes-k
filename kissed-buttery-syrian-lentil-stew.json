@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-buttery-syrian-lentil-stew",
+  "title": "Kissed Lentil Stew",
+  "description": "A hearty and comforting stew made with kissed lentils and a variety of flavors. Perfect for a chilly evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kissed lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "syrian stew",
+      "amount": "2 cups"
+    },
+    {
+      "name": "buttery butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pot over medium heat.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Stir in tomato paste and cook for 1-2 minutes.",
+    "Add kissed lentils, syrian stew, cumin, and paprika. Season with salt and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 20-25 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Let stew rest for 5-10 minutes before serving to allow flavors to meld.",
+    "Serve over rice or with crusty bread for a filling meal.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "stew",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-buttery-syrian-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:37:00.858Z"
+}
