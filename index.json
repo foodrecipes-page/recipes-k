@@ -65,15 +65,15 @@
   },
   {
     "slug": "kale-medley-grilled-tartar",
-    "title": "Kale Medley Grilled Tartar",
+    "title": "Kale Salad with Grilled Chicken",
     "tags": [
+      "salad",
+      "grilled-chicken",
       "kale",
-      "grilled",
-      "tartar",
-      "mediterranean-friendly"
+      "medley"
     ],
-    "cuisine": "Irish",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -7877,16 +7877,15 @@
   },
   {
     "slug": "kissed-kenyan-red-snapper-poach",
-    "title": "Kissed Kenyan Red Snapper Poach",
+    "title": "Pan-Seared Snapper with Kenyan Kissed Red Sauce",
     "tags": [
+      "african",
       "fish",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "weeknight"
+      "seafood",
+      "kenyan"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "African",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
