@@ -8930,17 +8930,15 @@
   },
   {
     "slug": "kissed-peppery-venezuelan-lamb-bake",
-    "title": "Kissed Peppery Venezuelan Lamb Bake",
+    "title": "Lamb and PeppeRy Bake",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lamb-based",
-      "latin-american",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "mediterranean",
+      "oven-roasted",
+      "bake-potatoes"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 180,
+    "cuisine": "mediterranean",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -10398,18 +10396,15 @@
   },
   {
     "slug": "kissed-smoky-greek-brussels-sprouts-revithia",
-    "title": "Kissed Smoky Greek Brussels Sprouts Revithia",
+    "title": "Greek-Style Roasted Sprouts with Smoky Chickpeas",
     "tags": [
-      "crunchy",
-      "date-night",
-      "gluten-free",
-      "greek-cuisine",
-      "smoky",
-      "vegan",
-      "vegetarian"
+      "greek",
+      "vegetarian",
+      "healthy",
+      "side-dish"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -14504,17 +14499,14 @@
   },
   {
     "slug": "knocked-up-syrian-penne-rigate-pasta",
-    "title": "Knocked Up Syrian Penne Rigate Pasta",
+    "title": "Classic Penne Pasta",
     "tags": [
-      "kid-friendly",
-      "low-sodium",
-      "one-pot",
-      "pasta-dish",
-      "syrian-cuisine",
-      "tandoor-cooking"
+      "italian",
+      "pasta",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -15548,14 +15540,14 @@
   },
   {
     "slug": "kurokuzu-black-pudding-and-vinegar-crunch",
-    "title": "Kurokuzu - Black Pudding and Vinegar Crunch",
+    "title": "Black Pudding Crostini",
     "tags": [
-      "kurokuzu",
-      "black-pudding",
-      "vinegar-crunch"
+      "appetizer",
+      "british",
+      "finger-food"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "cuisine": "British",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
