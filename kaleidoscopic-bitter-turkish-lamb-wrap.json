@@ -1,0 +1,84 @@
+{
+  "slug": "kaleidoscopic-bitter-turkish-lamb-wrap",
+  "title": "Turkish Lamb Wrap",
+  "description": "A flavorful and easy-to-make Turkish-inspired lamb wrap, perfect for a quick lunch or dinner. The combination of lamb, spices, and fresh herbs will transport your taste buds to the streets of Istanbul.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1/2 pound",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "turkish",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "kaleidoscopic",
+      "amount": "1/4 teaspoon",
+      "notes": "ground paprika"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large flour tortilla",
+      "notes": ""
+    },
+    {
+      "name": "bitter",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the lamb to the skillet, breaking it up with a spoon as it cooks.",
+    "Cook the lamb for 5-7 minutes, until it is no longer pink.",
+    "Add the cumin, paprika, salt, and pepper to the lamb and stir to combine.",
+    "Warm the tortilla by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spoon the lamb mixture onto the tortilla, leaving a small border around the edges.",
+    "Top the lamb with parsley and drizzle with olive oil.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "turkish",
+    "wrap",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kaleidoscopic-bitter-turkish-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:44:03.572Z"
+}
