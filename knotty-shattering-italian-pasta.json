@@ -1,0 +1,80 @@
+{
+  "slug": "knotty-shattering-italian-pasta",
+  "title": "Shattering Italian Pasta",
+  "description": "A quick and delicious Italian pasta dish made with shattering vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Knotty zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Shattering bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the Italian pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the sliced shattering bell pepper and cook for 3-4 minutes or until tender.",
+    "Add the sliced knotty zucchini and cook for an additional 2-3 minutes or until tender.",
+    "Mince the garlic and add to the skillet, cooking for 1 minute.",
+    "Stir in salt and black pepper to taste.",
+    "Drain the cooked pasta and add it to the skillet with the vegetables.",
+    "Toss everything together and serve hot.",
+    "Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotty-shattering-italian-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T11:20:33.147Z"
+}
