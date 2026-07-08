@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-kenyan-red-snapper-poach",
+  "title": "Pan-Seared Snapper with Kenyan Kissed Red Sauce",
+  "description": "A flavorful and healthy fish dish cooked with a spicy Kenyan kissed red sauce. This recipe combines the delicate taste of snapper with a bold and aromatic sauce.",
+  "cuisine": "African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Kenyan kissed red peppers",
+      "amount": "2",
+      "notes": "Diced"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and black pepper.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the snapper fillets for 2-3 minutes on each side, then transfer the skillet to the oven.",
+    "Bake the snapper for 8-10 minutes, or until cooked through.",
+    "Meanwhile, combine the diced red peppers, onion, and garlic in a bowl.",
+    "Stir in the lemon juice and set aside.",
+    "To serve, place a snapper fillet on each plate and spoon the Kenyan kissed red sauce over the top.",
+    "Garnish with fresh cilantro, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african",
+    "fish",
+    "seafood",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-kenyan-red-snapper-poach",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:15:48.845Z"
+}
