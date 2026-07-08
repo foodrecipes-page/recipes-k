@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-keto-carnitas-quesadilla",
+  "title": "Keto Carnitas Quesadilla",
+  "description": "A low-carb twist on the classic Mexican dish, featuring crispy carnitas and melted cheese wrapped in a low-carb tortilla.",
+  "cuisine": "Mexican",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 lb",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Lard or vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Keto tortilla",
+      "amount": "4",
+      "notes": "Low-carb alternative to traditional tortillas"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup",
+      "notes": "Monterey Jack or Cheddar work well"
+    },
+    {
+      "name": "Salsa",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "1. Heat the lard or oil in a large skillet over medium-high heat.",
+    "2. Add the pork shoulder pieces and cook until browned on all sides, about 5 minutes.",
+    "3. Reduce heat to medium-low and simmer, covered, until the pork is tender and shreds easily, about 2 hours.",
+    "4. Using two forks, shred the pork into bite-sized pieces.",
+    "5. Warm the keto tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. Assemble the quesadillas by spooning the carnitas onto half of each tortilla, then topping with cheese and folding the tortilla in half.",
+    "7. Cook the quesadillas in the skillet over medium heat until the cheese is melted and the tortillas are crispy, about 2-3 minutes per side.",
+    "8. Cut the quesadillas into wedges and serve with salsa and cilantro.",
+    "9. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "mexican",
+    "carnitas",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-keto-carnitas-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:17:10.090Z"
+}
