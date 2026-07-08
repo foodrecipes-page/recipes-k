@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-juicy-jamaican-pork-skewers",
+  "title": "Jamaican Pork Skewers",
+  "description": "Grilled Jamaican pork skewers with a sweet and spicy flavor, perfect for a summer evening. This recipe is a fusion of Caribbean and American flavors.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "You can also use pork loin or pork belly"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tablespoons",
+      "notes": "You can also use a combination of allspice, thyme, and scotch bonnet peppers"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/4 cup",
+      "notes": "You can also use honey or brown sugar"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "You can also use honey or maple syrup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "You can also use tamari or coconut aminos"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "You can also use coconut oil or avocado oil"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 skewers",
+      "notes": "You can also use bamboo skewers or metal skewers"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together jerk seasoning, ketchup, brown sugar, soy sauce, and olive oil.",
+    "2. Add the pork cubes to the bowl and toss to coat with the marinade.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated pork cubes onto the skewers, leaving a little space between each piece.",
+    "6. Brush the grill with olive oil to prevent sticking.",
+    "7. Grill the skewers for 10-12 minutes per side, or until the pork is cooked through.",
+    "8. Let the skewers rest for 5 minutes before serving.",
+    "9. Serve the Jamaican pork skewers hot, garnished with cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "pork",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-juicy-jamaican-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:09:10.925Z"
+}
