@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-smoky-greek-brussels-sprouts-revithia",
+  "title": "Greek-Style Roasted Sprouts with Smoky Chickpeas",
+  "description": "A delicious and healthy side dish, perfect for a quick weeknight meal. This recipe combines the earthy flavor of roasted Brussels sprouts with the smoky taste of chickpeas and a hint of Greek spices.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Brussels sprouts",
+      "amount": "1 pound",
+      "notes": "trimmed and halved"
+    },
+    {
+      "name": "Smoky chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Greek olives",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Revithia",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Toss the Brussels sprouts with 1 tablespoon of olive oil, salt, and pepper on a baking sheet. Roast in the oven for 20-25 minutes, or until tender and caramelized.",
+    "While the sprouts are roasting, heat the remaining 1 tablespoon of olive oil in a pan over medium heat. Add the paprika and cook for 1 minute.",
+    "Add the chickpeas to the pan and cook for 2-3 minutes, or until lightly browned.",
+    "Stir in the chopped Revithia and cook for an additional minute.",
+    "Remove the sprouts from the oven and toss with the smoky chickpea mixture. Squeeze with lemon juice and serve hot.",
+    "Garnish with Greek olives and additional Revithia if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "greek",
+    "vegetarian",
+    "healthy",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-greek-brussels-sprouts-revithia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:00:10.551Z"
+}
