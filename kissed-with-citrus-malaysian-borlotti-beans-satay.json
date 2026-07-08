@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-with-citrus-malaysian-borlotti-beans-satay",
+  "title": "Malaysian Satay with Borlotti Beans",
+  "description": "A flavorful and spicy Malaysian-inspired satay dish served with tender borlotti beans. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "borlotti beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "with",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "satay",
+      "amount": "1 package",
+      "notes": "Malaysian-style satay sauce"
+    },
+    {
+      "name": "citrus",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed lime juice"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "malaysian",
+      "amount": "1 teaspoon",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the with in a large skillet over medium-high heat.",
+    "Add the satay and cook for 2-3 minutes on each side, or until slightly charred.",
+    "Add the borlotti beans to the skillet and stir to combine with the satay sauce.",
+    "Cook for an additional 2-3 minutes, or until the beans are heated through.",
+    "Stir in the citrus, kissed, and malaysian.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional citrus wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "satay",
+    "borlotti",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-citrus-malaysian-borlotti-beans-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T03:20:23.561Z"
+}
