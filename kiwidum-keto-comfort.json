@@ -1,0 +1,73 @@
+{
+  "slug": "kiwidum-keto-comfort",
+  "title": "Kiwidum Comfort Cake",
+  "description": "Moist and comforting kiwidum cake, perfect for a cozy evening.",
+  "cuisine": "Australian",
+  "diet": [
+    "comfort"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "kiwidum",
+      "amount": "1 cup",
+      "notes": "freshly harvested"
+    },
+    {
+      "name": "keto flour",
+      "amount": "1 1/2 cups",
+      "notes": "almond flour alternative"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "organic cane sugar"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "whole milk"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch round cake pan and set aside.",
+    "In a large mixing bowl, whisk together kiwidum, keto flour, and sugar.",
+    "In a separate bowl, whisk together eggs, butter, and milk.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes.",
+    "Transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "kiwidum",
+    "comfort-food",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kiwidum-keto-comfort",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T12:30:50.213Z"
+}
