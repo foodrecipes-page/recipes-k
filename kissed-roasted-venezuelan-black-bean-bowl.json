@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-roasted-venezuelan-black-bean-bowl",
+  "title": "Black Bean Bowl with Roasted Kissed Sweet Potatoes",
+  "description": "A hearty and flavorful black bean bowl topped with roasted kissed sweet potatoes, finished with a drizzle of venezuelan spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "kissed sweet potatoes",
+      "amount": "2 medium, peeled and cubed",
+      "notes": "roasted at 425°F for 20-25 minutes"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium, diced",
+      "notes": "roasted with sweet potatoes"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "venezuelan spices",
+      "amount": "1 teaspoon, mixed",
+      "notes": "such as cumin, oregano, and chili powder"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "bowl",
+      "amount": "1 large, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F.",
+    "Toss sweet potatoes and red onion with oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes or until tender.",
+    "Cook black beans according to package instructions.",
+    "In a large bowl, combine cooked black beans, roasted sweet potatoes and red onion, cilantro, lime juice, and venezuelan spices. Season with salt and pepper to taste.",
+    "Serve hot in a large bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "black bean",
+    "sweet potato",
+    "latin american",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-venezuelan-black-bean-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T15:32:14.073Z"
+}
