@@ -1,0 +1,62 @@
+{
+  "slug": "kurokuzu-black-pudding-and-vinegar-crunch",
+  "title": "Black Pudding Crostini",
+  "description": "A rich and savory appetizer featuring black pudding, crunchy accompaniments, and a tangy glaze.",
+  "cuisine": "British",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "250g",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "kurokuzu",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "black vinegar",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "crunch",
+      "amount": "1 cup",
+      "notes": "such as chopped nuts or crackers"
+    }
+  ],
+  "instructions": [
+    "1. Slice the black pudding into 1/2-inch thick rounds.",
+    "2. Arrange the rounds on a baking sheet lined with parchment.",
+    "3. Drizzle with kurokuzu and black vinegar.",
+    "4. Broil in the oven until lightly caramelized.",
+    "5. Meanwhile, chop the crunch into smaller pieces.",
+    "6. Assemble the crostini by placing a round of black pudding on each plate.",
+    "7. Top with a spoonful of crunch.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "appetizer",
+    "british",
+    "finger-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kurokuzu-black-pudding-and-vinegar-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:43:59.791Z"
+}
