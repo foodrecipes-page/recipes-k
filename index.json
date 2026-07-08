@@ -12463,18 +12463,15 @@
   },
   {
     "slug": "kissed-with-citrus-malaysian-borlotti-beans-satay",
-    "title": "Kissed with Citrus Malaysian Borlotti Beans Satay",
+    "title": "Malaysian Satay with Borlotti Beans",
     "tags": [
-      "easy-dinner",
-      "gluten-free",
-      "grilled",
-      "one-pan",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "malaysian",
+      "satay",
+      "borlotti",
+      "beans"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -14380,17 +14377,16 @@
   },
   {
     "slug": "knobby-roasted-ethiopian-lentils-stew",
-    "title": "Knobby Roasted Ethiopian Lentils Stew",
+    "title": "Ethiopian Lentil Stew",
     "tags": [
+      "lentils",
+      "stew",
+      "ethiopian",
       "comfort-food",
-      "ethiopian-cuisine",
-      "high-protein",
-      "lentil-stew",
-      "one-pan",
-      "weeknight"
+      "vegetarian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
