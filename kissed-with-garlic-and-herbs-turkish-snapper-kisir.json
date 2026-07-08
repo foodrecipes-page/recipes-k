@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-with-garlic-and-herbs-turkish-snapper-kisir",
+  "title": "Turkish Snapper Kisir",
+  "description": "A refreshing and flavorful Turkish dish made with kisir, snapper, and herbs.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kisir",
+      "amount": "1 cup",
+      "notes": "bulgur pilaf"
+    },
+    {
+      "name": "snapper fillets",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "with",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs (parsley, dill, or cilantro)"
+    },
+    {
+      "name": "herbs",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs (parsley, dill, or cilantro)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the snapper fillets with salt and pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the snapper fillets for 2-3 minutes on each side, then transfer to the oven.",
+    "Bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, mix kisir, garlic, with, and herbs in a bowl.",
+    "Squeeze lemon juice over the kisir mixture and toss to combine.",
+    "Serve the baked snapper with the kisir mixture spooned over the top.",
+    "Garnish with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "seafood",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-garlic-and-herbs-turkish-snapper-kisir",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T09:47:15.199Z"
+}
