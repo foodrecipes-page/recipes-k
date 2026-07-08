@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-peppery-venezuelan-lamb-bake",
+  "title": "Lamb and PeppeRy Bake",
+  "description": "A flavorful and aromatic lamb dish, marinated in a mix of spices and herbs, and baked to perfection.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "kissed olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "peppery thyme",
+      "amount": "2 sprigs",
+      "notes": null
+    },
+    {
+      "name": "venezuelan seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bake potatoes",
+      "amount": "2 medium",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the lamb shoulder with salt and venezuelan seasoning.",
+    "Heat kissed olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 20 minutes.",
+    "Reduce oven temperature to 375°F (190°C) and continue baking for an additional 20-25 minutes, or until the lamb reaches an internal temperature of 145°F (63°C).",
+    "Meanwhile, slice the bake potatoes into thin rounds and place them on a baking sheet.",
+    "Drizzle with kissed olive oil and season with peppery thyme.",
+    "Bake the potatoes in the oven for 15-20 minutes, or until tender and lightly browned.",
+    "Let the lamb rest for 10 minutes before slicing and serving with baked potatoes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mediterranean",
+    "oven-roasted",
+    "bake-potatoes"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peppery-venezuelan-lamb-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T23:44:01.302Z"
+}
