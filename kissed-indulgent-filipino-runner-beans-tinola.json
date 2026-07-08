@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-indulgent-filipino-runner-beans-tinola",
+  "title": "Filipino-Style Tinola",
+  "description": "A comforting and flavorful Filipino chicken ginger soup made with ginger, onions, and garlic.",
+  "cuisine": "filipino",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2 leaves"
+    },
+    {
+      "name": "black peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tinola powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the ginger, onion, and garlic and sauté until the onion is translucent.",
+    "Add the chicken and cook until browned.",
+    "Add the bay leaves, black peppercorns, fish sauce, and tinola powder.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes or until the chicken is cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve the tinola with steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "soup",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indulgent-filipino-runner-beans-tinola",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:24:52.180Z"
+}
