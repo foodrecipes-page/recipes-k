@@ -1848,17 +1848,16 @@
   },
   {
     "slug": "kicked-spicy-uruguayan-cheese-bake",
-    "title": "Kicked Spicy Uruguayan Cheese Bake",
+    "title": "Uruguayan Kicked Cheese Bake",
     "tags": [
-      "cheesy",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
+      "cheese",
+      "bake",
+      "uruguayan",
       "spicy",
-      "weeknight"
+      "snack"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -7914,15 +7913,16 @@
   },
   {
     "slug": "kissed-keto-carnitas-quesadilla",
-    "title": "Kissed Keto Carnitas Quesadilla",
+    "title": "Keto Carnitas Quesadilla",
     "tags": [
-      "keto-friendly",
+      "keto",
       "low-carb",
-      "mexican-dish",
-      "vegetarian-free"
+      "mexican",
+      "carnitas",
+      "quesadilla"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 160,
+    "totalTimeMin": 150,
     "shard": "k"
   },
   {
