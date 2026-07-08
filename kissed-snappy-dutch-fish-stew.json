@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-snappy-dutch-fish-stew",
+  "title": "Pan-Seared Fish with Stew Vegetables",
+  "description": "A flavorful and nutritious dish made with pan-seared fish and sautéed stew vegetables, perfect for a quick dinner.",
+  "cuisine": "Dutch",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "4 oz",
+      "notes": "Choose a mild-flavored fish like cod or tilapia"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For pan-searing the fish"
+    },
+    {
+      "name": "Stew vegetables",
+      "amount": "1 cup",
+      "notes": "Choose snappy vegetables like carrots and snap peas"
+    },
+    {
+      "name": "Dutch seasoning",
+      "amount": "1 tsp",
+      "notes": "Add a pinch of Dutch spice to give it a local flavor"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Season the fish fillet with salt and pepper.",
+    "Add the fish to the skillet and sear for 3-4 minutes on each side, or until cooked through.",
+    "While the fish is cooking, heat the Dutch seasoning in a separate pan.",
+    "Add the stew vegetables to the pan and sauté for 3-4 minutes, or until tender.",
+    "Serve the pan-seared fish with the sautéed stew vegetables.",
+    "Garnish with kissed (such as chopped fresh herbs) to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "dutch",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-snappy-dutch-fish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:34:24.989Z"
+}
