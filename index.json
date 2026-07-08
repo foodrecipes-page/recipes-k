@@ -10047,17 +10047,15 @@
   },
   {
     "slug": "kissed-silky-uruguayan-snow-peas-tagine",
-    "title": "Kissed Silky Uruguayan Snow Peas Tagine",
+    "title": "Snow Pea Stir-Fry with Uruguayan Kissed Beef",
     "tags": [
-      "clay-cooked",
-      "pickle",
-      "snow-peas",
-      "tagine",
       "uruguayan",
-      "vegetarian"
+      "beef",
+      "snow-peas",
+      "stir-fry"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -12612,16 +12610,14 @@
   },
   {
     "slug": "kissed-with-garlic-and-herbs-turkish-snapper-kisir",
-    "title": "Kissed with Garlic and Herbs Turkish Snapper Kisir",
+    "title": "Turkish Snapper Kisir",
     "tags": [
-      "air-fry",
-      "date-night",
-      "keto",
-      "snapper",
-      "turkish"
+      "turkish",
+      "seafood",
+      "lunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 13,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -14974,17 +14970,15 @@
   },
   {
     "slug": "knotty-shattering-italian-pasta",
-    "title": "Knotty Shattering Italian Pasta",
+    "title": "Shattering Italian Pasta",
     "tags": [
-      "coconut-flakes",
-      "flexitarian-friendly",
-      "italian-food",
-      "midnight-cravings",
-      "one-pan-meals",
-      "pasta-recipes"
+      "italian",
+      "pasta",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
