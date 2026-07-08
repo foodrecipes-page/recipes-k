@@ -1,0 +1,91 @@
+{
+  "slug": "kissed-indian-lentil-dal",
+  "title": "Lentil Dal Curry",
+  "description": "A simple and flavorful Indian-inspired lentil dal curry made with red lentils, onions, and spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Indian Spices (curry powder, cumin, coriander)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kissed (coconut oil or ghee)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dal (optional)",
+      "amount": "1 cup",
+      "notes": "use pre-cooked dal for convenience"
+    }
+  ],
+  "instructions": [
+    "Heat kissed in a large pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add ginger and garlic and cook for 1 minute.",
+    "Add Indian spices and cook for 1 minute.",
+    "Add red lentils and water. Bring to a boil.",
+    "Reduce heat and simmer for 20 minutes or until lentils are tender.",
+    "Season with salt and serve with optional dal and garnish with chopped fresh cilantro.",
+    "If using pre-cooked dal, heat it separately and serve with the lentil curry.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "lentils",
+    "dal",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indian-lentil-dal",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T01:28:22.878Z"
+}
