@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-garlicky-vietnamese-napa-cabbage-ca-kho-to",
+  "title": "Vietnamese-Style Braised Cabbage",
+  "description": "A flavorful and nutritious dish that highlights the unique flavors of Vietnam. The combination of ingredients and cooking method brings out the tender and slightly sweet taste of cabbage.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "nappa cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlicky",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "kho to",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ca",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the kho to in a large pan over medium heat.",
+    "Add the garlicky and cook for 1 minute, until fragrant.",
+    "Add the nappa cabbage and cook for 2-3 minutes, until slightly tender.",
+    "Add the kissed and cook for 1 minute, until the cabbage is coated.",
+    "Add the ca and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, until the cabbage is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with chopped green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "lunch",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-garlicky-vietnamese-napa-cabbage-ca-kho-to",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T18:19:24.942Z"
+}
