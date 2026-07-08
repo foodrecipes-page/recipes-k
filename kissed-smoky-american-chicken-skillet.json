@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-smoky-american-chicken-skillet",
+  "title": "Smoky Chicken Skillet",
+  "description": "A flavorful and spicy chicken skillet recipe perfect for any meal.",
+  "cuisine": "american",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoky kissed chicken seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "american cheese",
+      "amount": "1 cup, shredded",
+      "notes": "optional"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "oven-safe"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breast with smoky kissed chicken seasoning, salt, and pepper.",
+    "Heat the olive oil in the skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and sear for 5-6 minutes on each side.",
+    "Transfer the skillet to the oven and bake for 12-15 minutes, or until the chicken reaches an internal temperature of 165°F (74°C).",
+    "If using american cheese, sprinkle it over the top of the chicken during the last 2-3 minutes of baking.",
+    "Remove the skillet from the oven and let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "smoky",
+    "chicken",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-american-chicken-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T17:34:22.438Z"
+}
