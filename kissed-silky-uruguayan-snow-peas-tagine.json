@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-silky-uruguayan-snow-peas-tagine",
+  "title": "Snow Pea Stir-Fry with Uruguayan Kissed Beef",
+  "description": "A flavorful and quick stir-fry made with silky snow peas, Uruguayan kissed beef, and fragrant spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Kissed Beef (Ribeye)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Snow Peas",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Silky Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Tagine Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the kissed beef and cook until browned, about 3-4 minutes.",
+    "Add the snow peas and cook until tender, about 4-5 minutes.",
+    "Add the tagine spice mix, salt, and pepper. Stir to combine.",
+    "Continue cooking for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "beef",
+    "snow-peas",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-uruguayan-snow-peas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:38:35.782Z"
+}
