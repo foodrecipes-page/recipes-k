@@ -7370,17 +7370,14 @@
   },
   {
     "slug": "kissed-indulgent-filipino-runner-beans-tinola",
-    "title": "Kissed Indulgent Filipino Runner Beans Tinola",
+    "title": "Filipino-Style Tinola",
     "tags": [
-      "comfort-food",
-      "dinner-ideas",
-      "filipino-food",
-      "gluten-free",
-      "nut-free",
-      "one-pot"
+      "filipino",
+      "soup",
+      "chicken"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "cuisine": "filipino",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -10155,16 +10152,14 @@
   },
   {
     "slug": "kissed-smoky-american-chicken-skillet",
-    "title": "Kissed Smoky American Chicken Skillet",
+    "title": "Smoky Chicken Skillet",
     "tags": [
-      "chicken-dish",
-      "low-fat",
-      "one-pan",
       "smoky",
-      "weeknight"
+      "chicken",
+      "skillet"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -10738,17 +10733,14 @@
   },
   {
     "slug": "kissed-snappy-dutch-fish-stew",
-    "title": "Kissed Snappy Dutch Fish Stew",
+    "title": "Pan-Seared Fish with Stew Vegetables",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "healthy",
-      "low-calorie",
-      "one-pot",
-      "seafood"
+      "fish",
+      "dutch",
+      "quick-dinner"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -12203,17 +12195,15 @@
   },
   {
     "slug": "kissed-venezuelan-chicken-braise",
-    "title": "Kissed Venezuelan Chicken Braise",
+    "title": "Venezuelan Chicken Braise",
     "tags": [
-      "brazilian-inspired",
-      "chicken-legs",
-      "gluten-free",
-      "latin-american",
-      "midnight-craving",
-      "one-pan"
+      " venezuelan",
+      "chicken",
+      "braise",
+      "comfort food"
     ],
-    "cuisine": "Latin American",
-    "totalTimeMin": 40,
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -12740,17 +12730,15 @@
   },
   {
     "slug": "kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s",
-    "title": "Kissed with Lacquer Glaze French Dried White Corn Rillettes",
+    "title": "French Glazed Rillettes",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "raw-friendly",
-      "snack",
-      "weeknight"
+      "french",
+      "glazed",
+      "rillettes",
+      "gluten-free"
     ],
     "cuisine": "French",
-    "totalTimeMin": 15,
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
