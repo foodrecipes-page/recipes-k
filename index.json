@@ -1821,17 +1821,14 @@
   },
   {
     "slug": "kicked-spicy-tunisian-rye-bread-flatbread",
-    "title": "Kicked Spicy Tunisian Rye Bread Flatbread",
+    "title": "Spicy Tunisian Flatbread",
     "tags": [
-      "homemade-flatbread",
-      "lacto-vegetarian",
-      "rye-bread",
-      "snack-ideas",
-      "spicy-food",
-      "tunisian-cuisine"
+      "flatbread",
+      "tunisian",
+      "spicy"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "tunisian",
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -3515,16 +3512,14 @@
   },
   {
     "slug": "kissed-buttery-syrian-lentil-stew",
-    "title": "Kissed Buttery Syrian Lentil Stew",
+    "title": "Kissed Lentil Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "plant-based",
-      "weeknight"
+      "lentil",
+      "stew",
+      "middle eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -5981,15 +5976,13 @@
   },
   {
     "slug": "kissed-egyptian-date-tagine",
-    "title": "Kissed Egyptian Date Tagine",
+    "title": "Egyptian Kissed Date Tagine",
     "tags": [
-      "date-night",
-      "egg-free",
-      "one-pot",
-      "romantic",
+      "north-african",
+      "stew",
       "vegetarian"
     ],
-    "cuisine": "Egyptian",
+    "cuisine": "North African",
     "totalTimeMin": 35,
     "shard": "k"
   },
@@ -6637,16 +6630,13 @@
   },
   {
     "slug": "kissed-garlicky-vietnamese-napa-cabbage-ca-kho-to",
-    "title": "Kissed Garlicky Vietnamese Napa Cabbage Ca Kho To",
+    "title": "Vietnamese-Style Braised Cabbage",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "one-pan",
-      "vietnamese-cuisine",
-      "weeknight",
-      "whole30"
+      "vietnamese",
+      "lunch",
+      "cabbage"
     ],
-    "cuisine": "Vietnamese",
+    "cuisine": "vietnamese",
     "totalTimeMin": 25,
     "shard": "k"
   },
