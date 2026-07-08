@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-egyptian-date-tagine",
+  "title": "Egyptian Kissed Date Tagine",
+  "description": "A classic North African stew made with tender dates, kissed with sweetness and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "date",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "egyptian",
+      "amount": "2 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 can",
+      "notes": "diced tomatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for cooking"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add cumin and cinnamon, cook for 1 minute.",
+    "Add dates and cook for 2 minutes.",
+    "Add tomatoes and water, bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Stir in chopped green onions if using.",
+    "Serve warm over couscous or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-egyptian-date-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:28:46.094Z"
+}
