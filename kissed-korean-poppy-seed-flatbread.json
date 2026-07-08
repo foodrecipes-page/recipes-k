@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-korean-poppy-seed-flatbread",
+  "title": "Korean-Style Flatbread with Poppy Seed Crunch",
+  "description": "A crispy flatbread topped with a sweet and spicy Korean-inspired sauce, finished with a crunchy poppy seed topping.",
+  "cuisine": "Korean",
+  "diet": [
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Poppy seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together chili flakes, brown sugar, soy sauce, rice vinegar, and ginger paste.",
+    "Brush the flatbread with vegetable oil and sprinkle with poppy seeds.",
+    "Place the flatbread on a baking sheet and bake for 5-7 minutes, or until crispy.",
+    "Remove the flatbread from the oven and brush with the Korean-inspired sauce.",
+    "Return the flatbread to the oven and bake for an additional 2-3 minutes, or until the sauce is caramelized.",
+    "Remove the flatbread from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "flatbread",
+    "snack",
+    "poppy-seed"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-korean-poppy-seed-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:55:16.541Z"
+}
