@@ -1,0 +1,67 @@
+{
+  "slug": "kicked-spicy-tunisian-rye-bread-flatbread",
+  "title": "Spicy Tunisian Flatbread",
+  "description": "A flavorful flatbread inspired by Tunisian cuisine, perfect for a quick snack or light meal.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian Flatbread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Spicy Kick Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rye Bread Crumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill or grill pan to medium-high heat.",
+    "Slice the Tunisian Flatbread into 1-inch thick slices.",
+    "Brush both sides of the flatbread slices with olive oil.",
+    "Season with salt to taste.",
+    "Grill the flatbread slices for 2-3 minutes per side, or until crispy and slightly charred.",
+    "Meanwhile, mix the Spicy Kick Sauce and Rye Bread Crumbs in a small bowl.",
+    "Once the flatbread is cooked, brush the Spicy Kick Sauce mixture onto the flatbread slices.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "tunisian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-tunisian-rye-bread-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T19:44:23.559Z"
+}
