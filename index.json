@@ -7244,17 +7244,16 @@
   },
   {
     "slug": "kissed-indian-lentil-dal",
-    "title": "Kissed Indian Lentil Dal",
+    "title": "Lentil Dal Curry",
     "tags": [
-      "dulce-de-leche",
-      "flexitarian",
-      "indian-food",
-      "lentil-recipes",
-      "one-pot",
+      "indian",
+      "curry",
+      "lentils",
+      "dal",
       "vegetarian"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -7707,16 +7706,15 @@
   },
   {
     "slug": "kissed-juicy-jamaican-pork-skewers",
-    "title": "Kissed Juicy Jamaican Pork Skewers",
+    "title": "Jamaican Pork Skewers",
     "tags": [
-      "fermented-food",
-      "grilled-meat",
-      "jamaican-cuisine",
-      "rum-infused",
-      "satvik-friendly"
+      "jamaican",
+      "pork",
+      "skewers",
+      "grilled"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 50,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14511,16 +14509,15 @@
   },
   {
     "slug": "knockout-charred-dutch-beef-stew",
-    "title": "Knockout Charred Dutch Beef Stew",
+    "title": "Dutch Beef Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "fodmap-friendly",
-      "hearty-stew",
-      "one-pot"
+      "beef",
+      "stew",
+      "dutch",
+      "comfort food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 120,
+    "totalTimeMin": 135,
     "shard": "k"
   },
   {
