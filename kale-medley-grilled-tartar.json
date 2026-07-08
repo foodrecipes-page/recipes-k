@@ -1,0 +1,66 @@
+{
+  "slug": "kale-medley-grilled-tartar",
+  "title": "Kale Salad with Grilled Chicken",
+  "description": "A refreshing salad made with grilled chicken, crispy kale, and a tangy medley of vegetables.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegetarian-option"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kale",
+      "amount": "2 cups, stems removed and discarded, leaves chopped"
+    },
+    {
+      "name": "Grilled Chicken Breast",
+      "amount": "1, sliced into thin strips"
+    },
+    {
+      "name": "Medley of Vegetables (bell peppers, cucumbers, carrots)",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Tartar Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the chicken breast with salt and pepper. Grill for 5-6 minutes per side, or until cooked through.",
+    "In a large bowl, massage the chopped kale with olive oil and salt to make it crispy.",
+    "Add the sliced grilled chicken, medley of vegetables, and tartar sauce to the bowl with the kale.",
+    "Toss everything together to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "grilled-chicken",
+    "kale",
+    "medley"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kale-medley-grilled-tartar",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:40:58.193Z"
+}
