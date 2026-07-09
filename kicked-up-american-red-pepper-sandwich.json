@@ -1,0 +1,78 @@
+{
+  "slug": "kicked-up-american-red-pepper-sandwich",
+  "title": "Classic American Red Pepper Sandwich",
+  "description": "A simple yet flavorful sandwich made with roasted red peppers, kicked up with American cheese and spices.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Peppers",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "American Cheese",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "American Bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "Kicked Up Pepper Sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Place the red peppers on a baking sheet and roast for 30-40 minutes, or until the skin is blistered and charred.",
+    "3. Remove the peppers from the oven and let them cool. Peel off the skin, then slice into strips.",
+    "4. Butter one side of each bread slice.",
+    "5. Place one slice of bread, butter side down, in a skillet over medium heat.",
+    "6. Top with a slice of cheese, a few strips of red pepper, and another slice of bread.",
+    "7. Cook for 2-3 minutes, or until the bread is golden brown and the cheese is melted.",
+    "8. Flip the sandwich over and cook for an additional 2-3 minutes.",
+    "9. Repeat with the remaining ingredients.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "cheese",
+    "pepper",
+    "vegetarian",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-american-red-pepper-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:24:41.742Z"
+}
