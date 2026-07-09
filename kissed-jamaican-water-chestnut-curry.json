@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-jamaican-water-chestnut-curry",
+  "title": "Jamaican Chestnut Curry",
+  "description": "A flavorful and nutritious curry made with jamaican spices, chestnut, and kissed for added sweetness.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "1 cup",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "for added sweetness"
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": "jamaican curry"
+    },
+    {
+      "name": "jamaican allspice",
+      "amount": "1/4 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for curry sauce"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Saute onion and garlic until softened.",
+    "Add curry powder, allspice, salt, and chestnut. Cook for 2 minutes.",
+    "Add water and coconut milk. Stir well to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 20 minutes or until chestnut is tender.",
+    "Add kissed and stir well to combine.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "curry",
+    "chestnut",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-jamaican-water-chestnut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:13:15.035Z"
+}
