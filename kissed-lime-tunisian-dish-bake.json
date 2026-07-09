@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-lime-tunisian-dish-bake",
+  "title": "Tunisian Kissed Chicken Bake",
+  "description": "A flavorful and aromatic chicken dish from Tunisia, made with kissed chicken and a squeeze of lime juice.",
+  "cuisine": "North African",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Kissed chicken breasts"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Tunisian olive oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "Ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken breasts with salt, pepper, and spices.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken breasts until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is baking, mix together the chopped onion, minced garlic, cumin, coriander, and paprika.",
+    "Once the chicken is done, remove it from the oven and top each breast with a spoonful of the onion mixture.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the onion mixture is lightly caramelized.",
+    "Remove the skillet from the oven and squeeze the lime juice over the top of the chicken.",
+    "Serve hot and enjoy!",
+    "Note: If using a dish, place the chicken in the dish and follow the same instructions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "north-african",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 6,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-lime-tunisian-dish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:01:52.384Z"
+}
