@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-adventurous-russian-figs-skewers",
+  "title": "Grilled Fig Skewers with Russian Twist",
+  "description": "Sweet and savory, these grilled fig skewers are infused with the bold flavors of Russia. Perfect as a side dish or light snack.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Figs",
+      "amount": "12-15 figs",
+      "notes": ""
+    },
+    {
+      "name": "Russian Sausage (or Veggie Alternative)",
+      "amount": "1/2 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15 skewers",
+      "notes": ""
+    },
+    {
+      "name": "Russian Seasoning Blend",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Balsamic Glaze",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread sliced sausage, onion, bell pepper, and figs onto skewers.",
+    "In a small bowl, mix together Russian seasoning blend, honey, and balsamic glaze.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Season with salt and black pepper to taste.",
+    "Grill skewers for 10-12 minutes, turning occasionally, or until the sausage is cooked through and the figs are caramelized.",
+    "Serve immediately, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "figs",
+    "russian-twist",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-adventurous-russian-figs-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:24:50.542Z"
+}
