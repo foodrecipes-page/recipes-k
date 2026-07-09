@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-roasted-malaysian-quinoa-bowl",
+  "title": "Malaysian Quinoa Bowl",
+  "description": "A flavorful and nutritious quinoa bowl dish inspired by Malaysian cuisine. Roasted vegetables add a sweet and savory taste.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted sweet potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Roasted carrots",
+      "amount": "4 medium"
+    },
+    {
+      "name": "Malaysian chili sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sliced fresh cilantro",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "2"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Toss sweet potatoes and carrots with 1 tbsp of oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes.",
+    "Cook quinoa according to package instructions.",
+    "In a small pan, heat 1 tbsp of oil over medium heat.",
+    "Add Malaysian chili sauce and stir for 1 minute.",
+    "In a large bowl, combine cooked quinoa, roasted sweet potatoes, and carrots.",
+    "Pour chili sauce mixture over the quinoa mixture and toss to combine.",
+    "Garnish with sliced fresh cilantro and serve with lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quinoa-bowl",
+    "malaysian-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "8g",
+    "carbs": "60g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-malaysian-quinoa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T07:50:18.646Z"
+}
