@@ -7555,13 +7555,15 @@
   },
   {
     "slug": "kissed-jamaican-water-chestnut-curry",
-    "title": "Kissed Jamaican Water Chestnut Curry",
+    "title": "Jamaican Chestnut Curry",
     "tags": [
-      "jamaican",
-      "dinner"
+      "caribbean",
+      "curry",
+      "chestnut",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 40,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -9419,17 +9421,15 @@
   },
   {
     "slug": "kissed-roasted-malaysian-quinoa-bowl",
-    "title": "Kissed Roasted Malaysian Quinoa Bowl",
+    "title": "Malaysian Quinoa Bowl",
     "tags": [
-      "healthy",
-      "malaysian",
-      "meal-prep",
-      "one-pan",
       "quinoa-bowl",
-      "roasted-vegetables"
+      "malaysian-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
