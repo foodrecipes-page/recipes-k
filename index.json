@@ -8171,18 +8171,15 @@
   },
   {
     "slug": "kissed-lime-tunisian-dish-bake",
-    "title": "kissed lime tunisian dish bake",
+    "title": "Tunisian Kissed Chicken Bake",
     "tags": [
-      "date-night",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "tunisian",
-      "weeknight",
-      "wok-seared"
+      "chicken",
+      "north-african",
+      "lunch",
+      "dinner"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -8503,17 +8500,15 @@
   },
   {
     "slug": "kissed-molten-korean-shrimp-bake",
-    "title": "Kissed Molten Korean Shrimp Bake",
+    "title": "Spicy Korean Shrimp Bake",
     "tags": [
-      "high-protein",
-      "korean-inspired",
-      "one-pan",
-      "quick-dinner",
-      "seafood",
-      "weeknight"
+      "shrimp",
+      "korean",
+      "spicy",
+      "baked"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 19,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -9928,17 +9923,15 @@
   },
   {
     "slug": "kissed-silky-malty-irish-creme-patissiere-paella",
-    "title": "kissed silky malty irish creme-patissiere paella",
+    "title": "Irish Crème Pastry",
     "tags": [
-      "breakfast",
-      "gluten-free",
-      "irish",
-      "one-pan",
-      "special-occasion",
-      "sugar-free"
+      "irish-cream",
+      "pastry",
+      "dessert",
+      "sweet"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 35,
+    "cuisine": "Irish",
+    "totalTimeMin": 70,
     "shard": "k"
   },
   {
