@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-rendered-turkish-fennel-kebabs",
+  "title": "Turkish-Style Kebabs with Fennel",
+  "description": "A flavorful and aromatic Turkish-inspired kebab recipe featuring sweet fennel and tender meat.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish kebabs",
+      "amount": "1 pound",
+      "notes": "preferably lamb or beef"
+    },
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Rendered garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "flaky sea salt"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "Brush the Turkish kebabs with kissed olive oil and season with salt.",
+    "Grill the kebabs for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, grill the sliced fennel for 2-3 minutes per side, or until tender.",
+    "Combine the grilled kebabs and fennel on a serving platter.",
+    "Drizzle with rendered garlic and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "fennel",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-rendered-turkish-fennel-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:57:24.117Z"
+}
