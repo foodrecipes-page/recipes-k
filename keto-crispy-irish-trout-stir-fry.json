@@ -1,0 +1,81 @@
+{
+  "slug": "keto-crispy-irish-trout-stir-fry",
+  "title": "Pan-Seared Irish Trout with Crispy Keto Crust",
+  "description": "A crispy, keto-friendly crust surrounds a tender Irish trout fillet, perfect for a low-carb dinner option.",
+  "cuisine": "Irish",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish trout fillets",
+      "amount": "4",
+      "notes": " Fresh or frozen, skin removed"
+    },
+    {
+      "name": "Keto almond flour",
+      "amount": "1 cup",
+      "notes": "Make sure it's unsweetened"
+    },
+    {
+      "name": "Crispy parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated, store-bought or homemade"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "Beaten for the crust"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "To taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For cooking the trout"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a shallow dish, mix together the almond flour, parmesan cheese, and a pinch of salt and pepper.",
+    "In a separate dish, beat the eggs.",
+    "Season the trout fillets with salt and pepper.",
+    "Coat each trout fillet in the beaten eggs, then coat in the almond flour mixture, pressing gently to adhere.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the coated trout fillets to the skillet and cook for 2-3 minutes on each side, or until golden brown and crispy.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Remove the trout from the oven and garnish with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "trout",
+    "keto",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-crispy-irish-trout-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T23:25:15.160Z"
+}
