@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-herbal-brazilian-chickpeas-skillet",
+  "title": "Herbal Chickpea Skillet",
+  "description": "A flavorful and healthy skillet dish made with chickpeas, herbs, and a hint of Brazilian spices.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "kissed herbs",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brazilian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the chopped garlic and cook for an additional minute.",
+    "Add the chickpeas, kissed herbs, Brazilian seasoning, salt, and pepper. Stir to combine.",
+    "Cook for an additional 5-7 minutes, stirring occasionally, until the chickpeas are heated through.",
+    "Serve hot, garnished with additional kissed herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea",
+    "skillet",
+    "herbal",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-herbal-brazilian-chickpeas-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:51:32.517Z"
+}
