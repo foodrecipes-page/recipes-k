@@ -644,17 +644,15 @@
   },
   {
     "slug": "keto-gooey-russian-mars-bar-dumplings",
-    "title": "Keto Gooey Russian Mars Bar Dumplings",
+    "title": "Keto Russian Dumplings",
     "tags": [
-      "date-night",
-      "desserts",
+      "keto",
+      "russian",
       "dumplings",
-      "keto-friendly",
-      "low-carb",
-      "russian-dishes"
+      "cheese"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -7113,16 +7111,15 @@
   },
   {
     "slug": "kissed-herbal-brazilian-chickpeas-skillet",
-    "title": "Kissed Herbal Brazilian Chickpeas Skillet",
+    "title": "Herbal Chickpea Skillet",
     "tags": [
-      "brazilian-cuisine",
-      "brunch-ideas",
-      "halal-friendly",
-      "herbal-dishes",
-      "one-pan"
+      "chickpea",
+      "skillet",
+      "herbal",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
