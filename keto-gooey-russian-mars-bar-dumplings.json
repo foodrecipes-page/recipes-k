@@ -1,0 +1,83 @@
+{
+  "slug": "keto-gooey-russian-mars-bar-dumplings",
+  "title": "Keto Russian Dumplings",
+  "description": "Tender, cheesy dumplings wrapped in a crispy, low-carb dough. A unique twist on traditional Russian cuisine.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Low-carb dumpling dough",
+      "amount": "400g",
+      "notes": "Make sure to use a low-carb flour blend to keep the dough keto-friendly"
+    },
+    {
+      "name": "Russian cheese blend",
+      "amount": "200g",
+      "notes": "Mix cheddar and parmesan cheese for a gooey, savory filling"
+    },
+    {
+      "name": "Keto-friendly egg",
+      "amount": "2",
+      "notes": "Use a keto-friendly egg substitute if necessary"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "100g",
+      "notes": "Add a tangy flavor to the filling"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "10g",
+      "notes": "Add a burst of fresh flavor to the filling"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season to taste"
+    },
+    {
+      "name": "Ghee or coconut oil",
+      "amount": "for frying",
+      "notes": "Use a keto-friendly oil for frying"
+    },
+    {
+      "name": "Optional: bar-b-q sauce",
+      "amount": "for serving",
+      "notes": "Add a sweet and tangy flavor to the dumplings"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Make the low-carb dumpling dough according to the package instructions.",
+    "Mix the Russian cheese blend, keto-friendly egg, sour cream, chopped fresh dill, salt, and pepper in a bowl.",
+    "Divide the dough into 8 equal pieces. Roll out each piece into a thin circle.",
+    "Place a tablespoon of the cheese mixture in the center of each dough circle.",
+    "Fold the dough over the filling to form a half-moon shape. Press the edges together to seal the dumpling.",
+    "Fry the dumplings in ghee or coconut oil until golden brown. Drain on paper towels.",
+    "Serve the dumplings hot, with optional bar-b-q sauce on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "russian",
+    "dumplings",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-gooey-russian-mars-bar-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:27:22.202Z"
+}
