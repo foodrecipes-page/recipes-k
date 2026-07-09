@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-creamy-argentinian-chinese-long-beans-gratin",
+  "title": "Argentinian Creamy Bean Casserole",
+  "description": "A hearty, comforting casserole from Argentina, combining creamy sauce with tender beans, all wrapped in a crispy gratin topping.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Argentinian",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "beans",
+      "amount": "15 oz can, drained and rinsed",
+      "notes": "Black beans or kidney beans"
+    },
+    {
+      "name": "long",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter"
+    },
+    {
+      "name": "creamy",
+      "amount": "8 oz",
+      "notes": "Sour cream"
+    },
+    {
+      "name": "chinese",
+      "amount": "1 teaspoon",
+      "notes": "Sesame oil"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine the Argentinian, beans, and long. In a separate saucepan, melt the kissed and mix with the creamy.",
+    "Add the chinese to the saucepan and stir to combine. Pour the sauce over the bean mixture and stir until well coated.",
+    "Transfer the mixture to a baking dish and top with additional kissed for crunch.",
+    "Bake for 25 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "casserole",
+    "bean-casserole",
+    "dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-argentinian-chinese-long-beans-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T00:52:01.246Z"
+}
