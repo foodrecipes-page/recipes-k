@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-silky-malty-irish-creme-patissiere-paella",
+  "title": "Irish Crème Pastry",
+  "description": "A classic Irish dessert featuring a silky crème filling encased in a flaky pastry crust. Perfect for snacking or serving at dinner parties.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Irish cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "Silky creme",
+      "amount": "150g"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g"
+    },
+    {
+      "name": "Malty butter",
+      "amount": "100g"
+    },
+    {
+      "name": "Pastry crust",
+      "amount": "1 sheet"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Roll out the pastry crust to a thickness of 3mm.",
+    "Place the pastry in a tart pan with a removable bottom.",
+    "In a separate bowl, mix together the Irish cream, silky creme, and granulated sugar.",
+    "Pour the creme mixture into the pastry crust.",
+    "Dot the top of the creme with the malty butter.",
+    "Bake for 35-40 minutes, or until the pastry is golden brown.",
+    "Allow the pastry to cool completely before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "irish-cream",
+    "pastry",
+    "dessert",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-malty-irish-creme-patissiere-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T19:40:14.561Z"
+}
