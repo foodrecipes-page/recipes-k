@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-molten-korean-shrimp-bake",
+  "title": "Spicy Korean Shrimp Bake",
+  "description": "A flavorful and spicy shrimp dish baked with Korean chili flakes and served with a side of toasted bread.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "korean",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 lb",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "kissed",
+      "amount": "1/4 c",
+      "notes": "olive oil"
+    },
+    {
+      "name": "molten",
+      "amount": "2 tbsp",
+      "notes": "honey"
+    },
+    {
+      "name": "bake",
+      "amount": "1",
+      "notes": "baking sheet lined with parchment paper"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together chili flakes, garlic, salt, and pepper.",
+    "Add the honey to the bowl and stir to combine.",
+    "Add the shrimp to the bowl and toss to coat with the chili flake mixture.",
+    "Place the shrimp on the prepared baking sheet in a single layer.",
+    "Drizzle the olive oil over the shrimp.",
+    "Bake for 8-10 minutes or until the shrimp are pink and cooked through.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "shrimp",
+    "korean",
+    "spicy",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-korean-shrimp-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T18:48:52.793Z"
+}
