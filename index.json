@@ -1928,17 +1928,17 @@
   },
   {
     "slug": "kicked-up-american-red-pepper-sandwich",
-    "title": "Kicked Up American Red Pepper Sandwich",
+    "title": "Classic American Red Pepper Sandwich",
     "tags": [
-      "american-cuisine",
-      "delicious",
-      "easy-to-make",
-      "lacto-vegetarian",
-      "sandwiches",
-      "tagliere"
+      "american",
+      "cheese",
+      "pepper",
+      "vegetarian",
+      "lunch",
+      "easy"
     ],
     "cuisine": "American",
-    "totalTimeMin": 50,
+    "totalTimeMin": 21,
     "shard": "k"
   },
   {
@@ -2756,14 +2756,13 @@
   },
   {
     "slug": "kissed-adventurous-russian-figs-skewers",
-    "title": "Kissed Adventurous Russian Figs Skewers",
+    "title": "Grilled Fig Skewers with Russian Twist",
     "tags": [
-      "easy-appetizers",
-      "fresh-figs",
-      "quick-snacks",
-      "russian-food",
-      "tava-griddle",
-      "vegetarian-snacks"
+      "grilled",
+      "figs",
+      "russian-twist",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Russian",
     "totalTimeMin": 25,
@@ -4655,17 +4654,16 @@
   },
   {
     "slug": "kissed-creamy-argentinian-chinese-long-beans-gratin",
-    "title": "Kissed Creamy Argentinian Chinese Long Beans Gratin",
+    "title": "Argentinian Creamy Bean Casserole",
     "tags": [
       "argentinian",
-      "broiled",
-      "creamy",
-      "indulgent",
-      "mediterranean",
-      "vegetarian"
+      "comfort-food",
+      "casserole",
+      "bean-casserole",
+      "dinner-ideas"
     ],
     "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -9138,17 +9136,15 @@
   },
   {
     "slug": "kissed-rendered-turkish-fennel-kebabs",
-    "title": "Kissed Rendered Turkish Fennel Kebabs",
+    "title": "Turkish-Style Kebabs with Fennel",
     "tags": [
-      "easy-recipe",
-      "gluten-free",
-      "healthy-eating",
-      "low-sodium",
-      "turkish-food",
-      "weeknight-dinner"
+      "turkish",
+      "kebabs",
+      "fennel",
+      "grilled"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
