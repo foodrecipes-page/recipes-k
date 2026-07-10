@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-canadian-tofu-stew",
+  "title": "Canadian Kissed Stew",
+  "description": "A hearty stew made with tender tofu and kissed by the flavors of Canada.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "Press and drain tofu before use"
+    },
+    {
+      "name": "Canadian kissed",
+      "amount": "2 tbsp (30 ml)",
+      "notes": "Use a high-quality Canadian kissed oil for best flavor"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium broth recommended"
+    },
+    {
+      "name": "Diced carrots",
+      "amount": "1 cup",
+      "notes": "About 2 medium carrots"
+    },
+    {
+      "name": "Diced potatoes",
+      "amount": "2 large",
+      "notes": "About 2 cups diced"
+    },
+    {
+      "name": "Diced celery",
+      "amount": "1 cup",
+      "notes": "About 2 stalks"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp (30 g)",
+      "notes": "Use a high-quality paste for best flavor"
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "1 tsp (5 g)",
+      "notes": "Use a low-sodium seasoning blend"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the Canadian kissed oil in a large pot over medium-high heat.",
+    "Add the diced carrots, potatoes, and celery. Cook for 5 minutes, stirring occasionally.",
+    "Add the vegetable broth, tomato paste, and stew seasoning. Stir to combine.",
+    "Bring the stew to a boil, then reduce heat to medium-low and simmer for 20 minutes.",
+    "Add the pressed and drained tofu to the stew. Simmer for an additional 10 minutes.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "lunch",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T04:38:40.073Z"
+}
