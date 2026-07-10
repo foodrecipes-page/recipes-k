@@ -3846,13 +3846,12 @@
   },
   {
     "slug": "kissed-by-monsoon-mediterranean-fregola-risotto",
-    "title": "Kissed by Monsoon Mediterranean Fregola Risotto",
+    "title": "Mediterranean Fregola Risotto",
     "tags": [
-      "fregola",
-      "italian",
       "mediterranean",
-      "monsoon-season",
-      "parmesan",
+      "vegan",
+      "vegetarian",
+      "italian",
       "risotto"
     ],
     "cuisine": "Mediterranean",
@@ -4085,17 +4084,15 @@
   },
   {
     "slug": "kissed-canadian-tofu-stew",
-    "title": "Kissed Canadian Tofu Stew",
+    "title": "Canadian Kissed Stew",
     "tags": [
-      "claypot",
-      "double-fry",
-      "garlicky",
-      "jain-friendly",
-      "romantic",
-      "vegan"
+      "stew",
+      "vegetarian",
+      "lunch",
+      "comfort-food"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
