@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-charred-algerian-cabbage-tagine",
+  "title": "Charred Algerian Cabbage Tagine",
+  "description": "A hearty North African-inspired stew featuring charred cabbage and a blend of aromatic spices. Perfect for a cozy dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 medium head"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tsp",
+      "notes": "use a North African spice blend or a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "use a smoky paprika for a kissed flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the cabbage and cook for 5 minutes until slightly charred.",
+    "Stir in the Algerian spice blend, kissed paprika, and lemon juice.",
+    "Pour in the water and bring to a boil.",
+    "Reduce heat to low and simmer for 15-20 minutes until the cabbage is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "gluten-free",
+    "stew",
+    "cabbage"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-algerian-cabbage-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T07:52:33.106Z"
+}
