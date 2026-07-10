@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-charred-chinese-cassaba-bao",
+  "title": "Chinese Cassaba Bao",
+  "description": "A traditional Chinese bao filled with sweet and charred cassaba, served with a hint of kissed sesame seeds.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cassaba",
+      "amount": "1 large, peeled and chopped"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "4 pieces, thawed"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kissed sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "2, chopped"
+    },
+    {
+      "name": "Charred chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mix cassaba with hoisin sauce, sesame oil, sesame seeds, scallions, charred chili flakes, salt, sugar and cornstarch.",
+    "Roll out bao dough to a thickness of 1/4 inch.",
+    "Place 1/4 cup of cassaba mixture onto the center of each dough circle.",
+    "Fold dough to form a half-moon shape and press edges to seal.",
+    "Place bao on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-food",
+    "cassaba",
+    "bao",
+    "sesame-seeds",
+    "scallions"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-chinese-cassaba-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:17:48.321Z"
+}
