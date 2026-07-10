@@ -1,0 +1,79 @@
+{
+  "slug": "keto-treacle-temptation",
+  "title": "Keto Treacle Caramel Temptation",
+  "description": "A low-carb dessert recipe combining the sweetness of treacle with the richness of keto-friendly caramel.",
+  "cuisine": "British",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Treacle",
+      "amount": "1/2 cup",
+      "notes": "Grade A Amber Treacle"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1/2 cup",
+      "notes": "Keto-friendly alternative"
+    },
+    {
+      "name": "Unsweetened Almond Milk",
+      "amount": "1/4 cup",
+      "notes": "Low-carb dairy substitute"
+    },
+    {
+      "name": "Granulated Sweetener (e.g. Erythritol)",
+      "amount": "1/4 cup",
+      "notes": "Low-carb sugar substitute"
+    },
+    {
+      "name": "Keto-Friendly Chocolate Chips (at least 85% cocoa)",
+      "amount": "1/2 cup",
+      "notes": "Melts well for a smooth caramel"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted, for a richer flavor"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": "Optional, for added flavor"
+    }
+  ],
+  "instructions": [
+    "1. Line a small saucepan with parchment paper or a silicone mat.",
+    "2. Combine treacle, heavy cream, almond milk, granulated sweetener, and butter in a medium saucepan.",
+    "3. Place the saucepan over medium heat and cook, stirring occasionally, until the mixture reaches 235°F (118°C) on a candy thermometer.",
+    "4. Remove the saucepan from the heat and carefully pour in the keto-friendly chocolate chips.",
+    "5. Let the mixture sit for 1-2 minutes before stirring until the chocolate is fully melted and the caramel is smooth.",
+    "6. Stir in the vanilla extract, if using.",
+    "7. Pour the caramel mixture onto the prepared saucepan and let it cool and set at room temperature.",
+    "8. Once set, break the caramel into small pieces and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "dessert",
+    "caramel",
+    "treacle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-treacle-temptation",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:54:41.562Z"
+}
