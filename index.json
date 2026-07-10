@@ -672,17 +672,15 @@
   },
   {
     "slug": "keto-jamaican-chicken-pilaf",
-    "title": "Keto Jamaican Chicken Pilaf",
+    "title": "Jamaican Chicken Keto Pilaf",
     "tags": [
-      "jamaican-inspired",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "post-workout",
-      "slow-cooked"
+      "keto",
+      "jamaican",
+      "chicken",
+      "pilaf"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -6487,17 +6485,15 @@
   },
   {
     "slug": "kissed-garlicky-croatian-pork-stew",
-    "title": "Kissed Garlicky Croatian Pork Stew",
+    "title": "Croatian Pork Stew",
     "tags": [
-      "claypot",
-      "comfort-food",
-      "european",
-      "one-pot",
       "pork",
-      "stew"
+      "stew",
+      "croatian",
+      "garlic"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 150,
+    "totalTimeMin": 120,
     "shard": "k"
   },
   {
@@ -8458,16 +8454,15 @@
   },
   {
     "slug": "kissed-molten-french-udon-noodles",
-    "title": "Kissed Molten French Udon Noodles",
+    "title": "Creamy Udon Noodle Soup",
     "tags": [
-      "brunch-idea",
-      "french-inspiration",
-      "lotus-leaf-wrap",
-      "truffle-oil",
-      "vegetarian-option"
+      "soup",
+      "noodles",
+      "easy",
+      "comfort-food"
     ],
     "cuisine": "French",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -13720,17 +13715,16 @@
   },
   {
     "slug": "kitchen-fresh-kenyan-beef-skewers",
-    "title": "Kitchen Fresh Kenyan Beef Skewers",
+    "title": "Kenyan Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "high-protein",
-      "kenyan-cuisine",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "beef",
+      "kenyan",
+      "skewers",
+      "grilled",
+      "lunch"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 31,
     "shard": "k"
   },
   {
