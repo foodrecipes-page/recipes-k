@@ -1,0 +1,100 @@
+{
+  "slug": "kitchen-fresh-kenyan-beef-skewers",
+  "title": "Kenyan Beef Skewers",
+  "description": "A flavorful and spicy Kenyan-inspired dish featuring marinated beef skewers grilled to perfection. Serve with a side of chapati or rice for a satisfying meal.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef sirloin",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Kichumbe (or chili flakes)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lime juice, olive oil, salt, black pepper, and kichumbe.",
+    "Add the beef sirloin to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Thread the marinated beef, bell pepper, onion, and tomato onto skewers.",
+    "Brush the grill with oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 63°C (145°F) for medium-rare.",
+    "Transfer the skewers to a plate and garnish with fresh cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "kenyan",
+    "skewers",
+    "grilled",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kitchen-fresh-kenyan-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T22:01:29.239Z"
+}
