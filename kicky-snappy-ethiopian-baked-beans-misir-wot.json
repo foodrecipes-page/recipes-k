@@ -1,0 +1,78 @@
+{
+  "slug": "kicky-snappy-ethiopian-baked-beans-misir-wot",
+  "title": "Spicy Ethiopian Lentil Stew",
+  "description": "A flavorful Ethiopian-inspired lentil stew made with a kick of heat. Serve with injera or rice for a satisfying meal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ethiopian",
+      "amount": "2 cups",
+      "notes": "Split red lentils"
+    },
+    {
+      "name": "Kicky",
+      "amount": "1 teaspoon",
+      "notes": "Red pepper flakes"
+    },
+    {
+      "name": "Baked",
+      "amount": "2 medium",
+      "notes": "Onions, chopped"
+    },
+    {
+      "name": "Misir",
+      "amount": "1 cup",
+      "notes": "Brown onions, chopped"
+    },
+    {
+      "name": "Beans",
+      "amount": "1 can",
+      "notes": "Kidney beans, drained and rinsed"
+    },
+    {
+      "name": "Wot",
+      "amount": "2 tablespoons",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "Snappy",
+      "amount": "4 cloves",
+      "notes": "Garlic, minced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onions and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional minute.",
+    "Add lentils, vegetable broth, and spices. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Add kidney beans and cook for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over injera or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "ethiopian",
+    "spicy",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-snappy-ethiopian-baked-beans-misir-wot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T00:37:09.865Z"
+}
