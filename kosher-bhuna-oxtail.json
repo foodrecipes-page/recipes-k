@@ -1,0 +1,79 @@
+{
+  "slug": "kosher-bhuna-oxtail",
+  "title": "Bhuna Oxtail Stew",
+  "description": "A hearty and flavorful stew made with oxtail, bhuna curry paste, and kosher salt, perfect for a cold winter's day.",
+  "cuisine": "Indian",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "oxtail",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "bhuna curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Season the oxtail with kosher salt and black pepper.",
+    "Heat the oil in a large Dutch oven over medium-high heat.",
+    "Sear the oxtail until browned on all sides, about 2 minutes per side.",
+    "Remove the oxtail from the pot and set it aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the curry paste and cook for 1 minute.",
+    "Add the tomato and cook for 2 minutes.",
+    "Add the browned oxtail back to the pot and add enough water to cover the meat.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 2 1/2 hours, or until the meat is tender.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-bhuna-oxtail",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T23:10:02.780Z"
+}
