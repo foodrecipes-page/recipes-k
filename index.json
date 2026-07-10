@@ -840,15 +840,16 @@
   },
   {
     "slug": "keto-treacle-temptation",
-    "title": "Keto Treacle Temptation",
+    "title": "Keto Treacle Caramel Temptation",
     "tags": [
       "keto",
-      "treacle",
-      "walnut",
-      "dessert"
+      "low-carb",
+      "dessert",
+      "caramel",
+      "treacle"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "British",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -2355,18 +2356,15 @@
   },
   {
     "slug": "kicky-snappy-ethiopian-baked-beans-misir-wot",
-    "title": "Kicky Snappy Ethiopian Baked Beans Misir Wot",
+    "title": "Spicy Ethiopian Lentil Stew",
     "tags": [
+      "lentils",
       "ethiopian",
-      "one-pot",
-      "quick-fix",
       "spicy",
-      "vegan",
-      "vegetarian",
-      "weeknight"
+      "stew"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -13855,17 +13853,15 @@
   },
   {
     "slug": "kitchen-warmed-chinese-sweet-rice-flour-chow-fun",
-    "title": "Kitchen Warmed Chinese Sweet Rice Flour Chow Fun",
+    "title": "Wok-Fried Fun Rice",
     "tags": [
-      "chinese-food",
-      "chow-fun",
-      "donabe-recipe",
-      "lazy-sunday",
-      "ovo-vegetarian",
-      "sweet-rice-flour"
+      "chinese",
+      "easy",
+      "quick",
+      "dinner"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -15283,15 +15279,14 @@
   },
   {
     "slug": "kosher-bhuna-oxtail",
-    "title": "Kosher Bhuna Oxtail",
+    "title": "Bhuna Oxtail Stew",
     "tags": [
-      "kosher",
-      "bhuna",
-      "oxtail",
-      "fermented"
+      "beef",
+      "stew",
+      "curry"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 90,
+    "cuisine": "Indian",
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
