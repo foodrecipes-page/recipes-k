@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-midnight-korean-ricotta-wrapped-leaf-ssam",
+  "title": "Korean Ssam with Ricotta and Leaf Wraps",
+  "description": "A unique fusion dish featuring Korean-inspired ssam wraps filled with creamy ricotta, crisp leafy greens, and a hint of midnight spices.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ricotta",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crisp leafy greens",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "ssam wrap (korean leaf)",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "midnight spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Wrap a sheet of ssam wrap around a small ball of ricotta.",
+    "Add a few crisp leaves on top of the ricotta.",
+    "Sprinkle a pinch of midnight spice blend and korean chili flakes on top.",
+    "Serve immediately and enjoy!",
+    "Repeat with remaining ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "ssam",
+    "ricotta",
+    "leaf"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-midnight-korean-ricotta-wrapped-leaf-ssam",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T15:00:09.620Z"
+}
