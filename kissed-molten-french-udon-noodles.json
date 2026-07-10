@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-molten-french-udon-noodles",
+  "title": "Creamy Udon Noodle Soup",
+  "description": "A comforting and easy-to-make soup perfect for a chilly evening. This recipe combines the smoothness of molten ingredients with the richness of French flavors.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "udon noodles",
+      "amount": "8 oz",
+      "notes": "preferably fresh"
+    },
+    {
+      "name": "French onion soup mix",
+      "amount": "1 package",
+      "notes": "or 1 large onion, finely chopped"
+    },
+    {
+      "name": "mushroom broth",
+      "amount": "4 cups",
+      "notes": "you can use store-bought or homemade"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "or substitute with cream for a richer soup"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp",
+      "notes": "or use oil for a lighter option"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "be mindful of the sodium in the broth"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large pot over medium heat.",
+    "Add the French onion soup mix and cook until fragrant, about 1 minute.",
+    "Pour in the mushroom broth and bring to a boil.",
+    "Add the udon noodles and cook according to package instructions, usually 8-10 minutes.",
+    "Stir in the milk and cook for an additional 2-3 minutes, until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped herbs or a sprinkle of parmesan cheese.",
+    "Optional: add some grated French cheese, such as gruyère or comté, for an extra burst of flavor."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "noodles",
+    "easy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-french-udon-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:46:42.938Z"
+}
