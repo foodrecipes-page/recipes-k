@@ -1399,15 +1399,15 @@
   },
   {
     "slug": "kicked-malty-juicy-pork-belly-skewers",
-    "title": "Kicked Malty Juicy Pork Belly Skewers",
+    "title": "Pork Belly Skewers",
     "tags": [
-      "iron-teppan",
-      "malty-flavored",
-      "pork-belly",
-      "smoked-pork"
+      "grilled",
+      "korean",
+      "pork",
+      "skewers"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 90,
+    "cuisine": "korean",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -2664,18 +2664,15 @@
   },
   {
     "slug": "kindly-baked-mediterranean-chickpeas-pilaf",
-    "title": "Kindly Baked Mediterranean Chickpeas Pilaf",
+    "title": "Kindly Chickpea Pilaf",
     "tags": [
-      "chickpeas",
-      "gluten-free",
-      "mediterranean",
-      "one-pan",
+      "chickpea",
       "pilaf",
-      "vegetarian",
-      "weeknight"
+      "mediterranean",
+      "vegetarian"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 55,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -4274,14 +4271,13 @@
   },
   {
     "slug": "kissed-charred-chinese-cassaba-bao",
-    "title": "Kissed Charred Chinese Cassaba Bao",
+    "title": "Chinese Cassaba Bao",
     "tags": [
       "chinese-food",
-      "cocotte",
-      "healthy",
-      "paleo",
-      "steamed",
-      "whole30"
+      "cassaba",
+      "bao",
+      "sesame-seeds",
+      "scallions"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
