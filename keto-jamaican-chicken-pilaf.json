@@ -1,0 +1,98 @@
+{
+  "slug": "keto-jamaican-chicken-pilaf",
+  "title": "Jamaican Chicken Keto Pilaf",
+  "description": "A flavorful and spicy Jamaican-inspired dish made with chicken, cauliflower pilaf, and a hint of Caribbean seasoning. Perfect for a keto diet.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "In a small bowl, mix together the jerk seasoning, garlic powder, onion powder, salt, black pepper, and paprika.",
+    "Rub the spice mixture all over the chicken, making sure to coat it evenly.",
+    "Heat the coconut oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken for 2-3 minutes on each side, or until it's browned.",
+    "Transfer the skillet to the preheated oven and bake for 20-25 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, pulse the cauliflower in a food processor until it resembles rice.",
+    "Heat the coconut oil in a large skillet over medium heat.",
+    "Add the cauliflower rice to the skillet and cook for 5-7 minutes, stirring frequently, until it's tender and lightly browned.",
+    "Fluff the cauliflower rice with a fork and season with salt and pepper to taste.",
+    "Once the chicken is done, let it rest for 5 minutes before slicing it thinly.",
+    "Serve the chicken on top of the cauliflower pilaf and garnish with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "jamaican",
+    "chicken",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-jamaican-chicken-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T21:46:54.615Z"
+}
