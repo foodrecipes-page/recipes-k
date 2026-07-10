@@ -5668,17 +5668,16 @@
   },
   {
     "slug": "kissed-dense-tunisian-narutomaki-tagine",
-    "title": "Kissed Dense Tunisian Narutomaki Tagine",
+    "title": "Tunisian Kissed Tagine",
     "tags": [
-      "date-night",
-      "diabetic-friendly",
-      "high-protein",
-      "meat-free",
-      "one-pan",
-      "tunisian"
+      "vegetarian",
+      "north-african",
+      "tagine",
+      "stew",
+      "sauces"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 60,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -6336,17 +6335,14 @@
   },
   {
     "slug": "kissed-fluffy-portuguese-cannellini-bean-stew",
-    "title": "Kissed Fluffy Portuguese Cannellini Bean Stew",
+    "title": "Portuguese Stew",
     "tags": [
-      "diabetic-friendly",
-      "gluten-free",
-      "high-fiber",
-      "one-pot",
-      "portuguese-cuisine",
-      "weeknight-dinner"
+      "portuguese",
+      "stew",
+      "beans"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 60,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -7348,17 +7344,15 @@
   },
   {
     "slug": "kissed-indulgent-ethiopian-broccoli-kik-alicha",
-    "title": "Kissed Indulgent Ethiopian Broccoli Kik Alicha",
+    "title": "Spicy Ethiopian Kik Alicha Stew",
     "tags": [
-      "broccoli",
       "ethiopian",
+      "vegetarian",
       "gluten-free",
-      "one-pan",
-      "sugar-free",
-      "vegetarian"
+      "lentil-stew"
     ],
-    "cuisine": "Ethiopian",
-    "totalTimeMin": 45,
+    "cuisine": "ethiopian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
