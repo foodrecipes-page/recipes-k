@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-tangy-algerian-prawns-tagine",
+  "title": "Spicy Algerian Prawn Tagine",
+  "description": "A flavorful and spicy tagine dish originating from Algeria, made with succulent prawns and a blend of aromatic spices.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "12",
+      "notes": "peeled and de-veined"
+    },
+    {
+      "name": "Kissed",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Tangy",
+      "amount": "2 tbsp",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "Algerian",
+      "amount": "2 tsp",
+      "notes": "cumin"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine or Dutch oven over medium heat.",
+    "Add the cumin and smoked paprika and cook, stirring constantly, for 1 minute.",
+    "Add the prawns and cook, stirring occasionally, until they start to turn pink, about 2-3 minutes.",
+    "Add the lemon juice, salt, and black pepper. Stir to combine.",
+    "Cover the tagine and cook, stirring occasionally, until the prawns are cooked through and the sauce has thickened, about 8-10 minutes.",
+    "Garnish with chopped fresh parsley and serve over couscous."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "north-african",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tangy-algerian-prawns-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:38:26.036Z"
+}
