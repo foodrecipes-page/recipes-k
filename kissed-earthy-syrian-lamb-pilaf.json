@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-earthy-syrian-lamb-pilaf",
+  "title": "Lamb and Pilaf Bowl",
+  "description": "A hearty and flavorful Middle Eastern-inspired dish made with lamb, pilaf, and a blend of aromatic spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 (1.5-2 pound)",
+      "notes": null
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Earthy cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Syrian sumac",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 325°F (165°C).",
+    "2. Season the lamb shoulder with salt, earthy cumin, and Syrian sumac.",
+    "3. Heat kissed olive oil in a large Dutch oven over medium-high heat.",
+    "4. Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "5. Transfer the lamb to the oven and cook for 20-25 minutes, or until tender.",
+    "6. While the lamb is cooking, prepare the pilaf according to package instructions.",
+    "7. Once the lamb is done, let it rest for 5 minutes before slicing.",
+    "8. Serve the sliced lamb over the pilaf, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "pilaf",
+    "middle-eastern",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-earthy-syrian-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T05:17:50.295Z"
+}
