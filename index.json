@@ -8177,36 +8177,15 @@
   },
   {
     "slug": "kissed-malaysian-buckwheat-noodles",
-    "title": "kissed malaysian buckwheat noodles",
+    "title": "Malaysian Buckwheat Noodle Stir Fry",
     "tags": [
-      "adventurous",
-      "asian",
-      "breakfast",
       "buckwheat",
-      "comfort",
-      "easy",
-      "family",
-      "floral",
-      "foodie",
-      "fun",
-      "gluten-free",
-      "international",
-      "keto-friendly",
-      "kissed",
-      "low-carb",
-      "lunch",
-      "malaysian",
       "noodles",
-      "one-pan",
-      "snack",
-      "sugar-free",
-      "thaifood",
-      "vegan",
-      "vegetarian",
-      "whole30"
+      "stir-fry",
+      "malaysian-cuisine"
     ],
     "cuisine": "malaysian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -9987,16 +9966,16 @@
   },
   {
     "slug": "kissed-silky-turkish-lamb-pilaf",
-    "title": "kissed silky turkish lamb pilaf",
+    "title": "Lamb and Pilaf Kebabs",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "romantic",
-      "special-occasion",
-      "weeknight"
+      "kebabs",
+      "lamb",
+      "pilaf",
+      "middle-eastern",
+      "grilled"
     ],
-    "cuisine": "turkish",
-    "totalTimeMin": 45,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
