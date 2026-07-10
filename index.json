@@ -8390,18 +8390,15 @@
   },
   {
     "slug": "kissed-midnight-korean-ricotta-wrapped-leaf-ssam",
-    "title": "Kissed Midnight Korean Ricotta Wrapped-Leaf Ssam",
+    "title": "Korean Ssam with Ricotta and Leaf Wraps",
     "tags": [
-      "easy-to-make",
-      "korean-cuisine",
-      "macrobiotic-friendly",
-      "one-pan-wonder",
-      "ricotta-recipes",
-      "snack-ideas",
-      "weeknight-dinner"
+      "korean",
+      "ssam",
+      "ricotta",
+      "leaf"
     ],
-    "cuisine": "korean",
-    "totalTimeMin": 20,
+    "cuisine": "Korean",
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
@@ -11422,17 +11419,14 @@
   },
   {
     "slug": "kissed-tangy-algerian-prawns-tagine",
-    "title": "Kissed Tangy Algerian Prawns Tagine",
+    "title": "Spicy Algerian Prawn Tagine",
     "tags": [
-      "algerian-cuisine",
-      "cheesy",
-      "comfort-food",
-      "one-pot",
       "seafood",
-      "slow-cooked"
+      "north-african",
+      "spicy"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 45,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
