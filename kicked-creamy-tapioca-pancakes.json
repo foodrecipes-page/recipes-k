@@ -1,0 +1,101 @@
+{
+  "slug": "kicked-creamy-tapioca-pancakes",
+  "title": "Creamy Tapioca Pancake Kick",
+  "description": "A delicious breakfast treat that combines the flavors of creamy pancakes with the crunch of tapioca and a spicy kick.",
+  "cuisine": null,
+  "diet": [
+    "breakfast"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tapioca starch",
+      "amount": "1 cup",
+      "notes": "Sifted"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": "Sifted"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": "White sugar"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "4 tablespoons",
+      "notes": "Cooled"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Soy milk, non-fat",
+      "amount": "1 cup",
+      "notes": "Room temperature"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "Pure extract"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 pinch",
+      "notes": "Fine salt"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Red pepper"
+    },
+    {
+      "name": "Whipped cream, for topping",
+      "amount": "1 pint",
+      "notes": "Chilled"
+    },
+    {
+      "name": "Maple syrup, for serving",
+      "amount": "2 tablespoons",
+      "notes": "Pure syrup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium heat.",
+    "2. In a large bowl, whisk together the tapioca starch, flour, sugar, and salt.",
+    "3. In a separate bowl, whisk together the melted butter, eggs, soy milk, and vanilla extract.",
+    "4. Add the wet ingredients to the dry ingredients and stir until combined.",
+    "5. Add the cayenne pepper and stir until the batter is smooth.",
+    "6. Using a 1/4 cup measuring cup, scoop the batter onto the skillet or griddle.",
+    "7. Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "8. Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "9. Serve the pancakes hot with whipped cream and maple syrup.",
+    "10. Garnish with additional cayenne pepper, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "tapioca",
+    "creamy",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-creamy-tapioca-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T08:10:29.468Z"
+}
