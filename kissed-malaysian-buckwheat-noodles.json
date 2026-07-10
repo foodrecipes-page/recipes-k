@@ -1,0 +1,62 @@
+{
+  "slug": "kissed-malaysian-buckwheat-noodles",
+  "title": "Malaysian Buckwheat Noodle Stir Fry",
+  "description": "A quick and flavorful stir fry using buckwheat noodles, inspired by Malaysian cuisine.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "kissed",
+      "amount": "2",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the buckwheat noodles according to package instructions.",
+    "Heat the vegetable oil in a pan and sauté the kissed and garlic until the kissed is tender.",
+    "Add the soy sauce and stir-fry for 1 minute.",
+    "Combine the cooked noodles with the stir-fry mixture and toss to combine.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "buckwheat",
+    "noodles",
+    "stir-fry",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-malaysian-buckwheat-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:49:32.886Z"
+}
