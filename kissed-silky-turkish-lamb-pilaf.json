@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-silky-turkish-lamb-pilaf",
+  "title": "Lamb and Pilaf Kebabs",
+  "description": "A flavorful and easy-to-make dish that combines the richness of lamb with the nuttiness of pilaf, all wrapped up in a delicious kebab.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkish pilaf",
+      "amount": "2 cups",
+      "notes": "preferably made with silkily textured rice"
+    },
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "kissed lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, salt, and black pepper.",
+    "Add the lamb cubes to the bowl and toss to coat.",
+    "Thread the lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, or until the lamb reaches an internal temperature of 145°F.",
+    "While the kebabs are cooking, toast the pilaf in a dry pan over medium heat, stirring frequently.",
+    "Once the kebabs are done, serve with a side of toasted pilaf and a squeeze of kissed lemon juice.",
+    "Optional: garnish with fresh herbs or a sprinkle of sumac."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebabs",
+    "lamb",
+    "pilaf",
+    "middle-eastern",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-turkish-lamb-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T09:27:24.119Z"
+}
