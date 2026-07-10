@@ -1024,15 +1024,16 @@
   },
   {
     "slug": "kicked-creamy-tapioca-pancakes",
-    "title": "Kicked Creamy Tapioca Pancakes",
+    "title": "Creamy Tapioca Pancake Kick",
     "tags": [
-      "breakfast-specialty",
-      "malaysian-favorites",
-      "nostalgic-malaysian",
-      "raw-friendly-dish"
+      "breakfast",
+      "pancakes",
+      "tapioca",
+      "creamy",
+      "spicy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -4240,15 +4241,16 @@
   },
   {
     "slug": "kissed-charred-algerian-cabbage-tagine",
-    "title": "kissed charred algerian cabbage tagine",
+    "title": "Charred Algerian Cabbage Tagine",
     "tags": [
-      "high-fiber",
-      "one-pan",
+      "north-african",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "stew",
+      "cabbage"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 30,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
