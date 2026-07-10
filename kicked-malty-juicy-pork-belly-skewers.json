@@ -1,0 +1,67 @@
+{
+  "slug": "kicked-malty-juicy-pork-belly-skewers",
+  "title": "Pork Belly Skewers",
+  "description": "Tender pork belly marinated in a sweet and sticky glaze, grilled to perfection on skewers.",
+  "cuisine": "korean",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "kicked honey",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "juicy pineapple",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "malty brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "Cut pork belly into 1-inch cubes.",
+    "Thread pork onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together honey, brown sugar, and 2 tablespoons of water until smooth.",
+    "Brush the glaze onto both sides of the pork.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until pork is cooked through and caramelized.",
+    "Let rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "korean",
+    "pork",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-malty-juicy-pork-belly-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T01:40:18.126Z"
+}
