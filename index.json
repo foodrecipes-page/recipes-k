@@ -8577,16 +8577,15 @@
   },
   {
     "slug": "kissed-mustardy-red-chilli-cheese-pull-pilaf",
-    "title": "Kissed Mustardy Red Chilli Cheese-Pull Pilaf",
+    "title": "Red Chilli Pull Pilaf",
     "tags": [
-      "cheese-pull",
-      "indulgent",
-      "low-fodmap",
-      "mustardy",
-      "saudi-arabian"
+      "cheesy",
+      "spicy",
+      "lunch",
+      "quick"
     ],
-    "cuisine": "Saudi-Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -12661,16 +12660,15 @@
   },
   {
     "slug": "kissed-with-light-slovakian-buttery-dish-stew",
-    "title": "Kissed with Light Slovakian Buttery Stew",
+    "title": "Slovakian Stew",
     "tags": [
-      "beef",
-      "comfort-food",
-      "easy-to-make",
       "slovakian",
-      "stew"
+      "stew",
+      "beef",
+      "hearty"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 140,
     "shard": "k"
   },
   {
