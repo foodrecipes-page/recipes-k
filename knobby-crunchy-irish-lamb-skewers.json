@@ -1,0 +1,78 @@
+{
+  "slug": "knobby-crunchy-irish-lamb-skewers",
+  "title": "Irish Lamb Skewers",
+  "description": "Tender lamb skewers with a crunchy twist, inspired by Irish flavors. Perfect for a quick and easy dinner.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish lamb",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "knobby potatoes",
+      "amount": "2",
+      "notes": "Cut into 1-inch chunks"
+    },
+    {
+      "name": "crunchy carrots",
+      "amount": "4",
+      "notes": "Peel and cut into 1-inch sticks"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic powder, salt, and pepper.",
+    "Add lamb, potatoes, and carrots to the bowl. Toss to coat with the marinade.",
+    "Thread 4-5 pieces of lamb, potatoes, and carrots onto each skewer.",
+    "Grill skewers for 8-10 minutes, turning occasionally, until lamb reaches 145°F (63°C).",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "lamb",
+    "skewers",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-crunchy-irish-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:18:11.912Z"
+}
