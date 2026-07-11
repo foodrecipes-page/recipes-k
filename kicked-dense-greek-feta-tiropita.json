@@ -1,0 +1,81 @@
+{
+  "slug": "kicked-dense-greek-feta-tiropita",
+  "title": "Classic Greek Tiropita",
+  "description": "A traditional Greek cheese pie that is crispy on the outside and creamy on the inside, filled with a delicious blend of feta and tiropita cheese.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Tiropita cheese",
+      "amount": "1 block",
+      "notes": "Crumble the cheese into small pieces"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1 cup",
+      "notes": "Crumble the cheese into small pieces"
+    },
+    {
+      "name": "Kicked phyllo dough",
+      "amount": "1 package",
+      "notes": "Thaw the dough according to package instructions"
+    },
+    {
+      "name": "Dense butter, melted",
+      "amount": "2 tablespoons",
+      "notes": "Melt the butter in the microwave or in a saucepan over low heat"
+    },
+    {
+      "name": "Greek olive oil",
+      "amount": "1 tablespoon",
+      "notes": "Brush the olive oil on the phyllo dough to prevent drying"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Sprinkle the salt over the cheese filling"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chop the parsley and sprinkle over the cheese filling"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Thaw the phyllo dough according to package instructions.",
+    "In a large bowl, combine the crumbled tiropita cheese and feta cheese.",
+    "Add the melted butter, salt, and chopped parsley to the cheese mixture and stir until well combined.",
+    "Brush the olive oil on the phyllo dough to prevent drying.",
+    "Place a layer of phyllo dough in the bottom of a 9x13 inch baking dish.",
+    "Spread half of the cheese mixture over the phyllo dough.",
+    "Repeat the layers, starting with the phyllo dough, then the remaining cheese mixture.",
+    "Brush the top layer of phyllo dough with the remaining melted butter.",
+    "Bake the tiropita for 35-40 minutes, or until the phyllo dough is golden brown and the cheese is melted and bubbly.",
+    "Remove the tiropita from the oven and let it cool for 10-15 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "cheese",
+    "breakfast",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-dense-greek-feta-tiropita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T16:33:13.450Z"
+}
