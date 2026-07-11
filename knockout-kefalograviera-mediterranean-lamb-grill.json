@@ -1,0 +1,79 @@
+{
+  "slug": "knockout-kefalograviera-mediterranean-lamb-grill",
+  "title": "Grilled Lamb Kebabs with Mediterranean Flair",
+  "description": "A flavorful and easy-to-make dish that combines the richness of lamb with the bright, herby notes of Mediterranean cheese and herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": "Make sure to cut the lamb against the grain for tender bites"
+    },
+    {
+      "name": "Kefalograviera cheese, crumbled",
+      "amount": "1/4 cup",
+      "notes": "This salty cheese is a key component of the Mediterranean flavor profile"
+    },
+    {
+      "name": "Fresh oregano, chopped",
+      "amount": "2 tablespoons",
+      "notes": "Don't be shy with the herbs - they add a lot of flavor to the dish"
+    },
+    {
+      "name": "Mediterranean olives, pitted",
+      "amount": "1/4 cup",
+      "notes": "Choose a mix of green and black olives for added depth"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Don't overdo it on the garlic - it can overpower the other flavors"
+    },
+    {
+      "name": "Zest of 1 lemon",
+      "amount": "1 tablespoon",
+      "notes": "A squeeze of fresh lemon juice will brighten up the dish"
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": "Use a high-quality grill seasoning to add a smoky flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat (400°F).",
+    "In a large bowl, whisk together the oregano, lemon zest, garlic, and grill seasoning.",
+    "Add the lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread the lamb onto skewers, leaving a small space between each piece.",
+    "Grill the lamb for 5-7 minutes per side, or until it reaches your desired level of doneness.",
+    "Meanwhile, crumble the Kefalograviera cheese into a bowl.",
+    "Once the lamb is cooked, brush it with a little olive oil and sprinkle with the crumbled cheese.",
+    "Serve immediately, garnished with additional oregano and olives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "greek",
+    "lamb",
+    "kefalograviera"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-kefalograviera-mediterranean-lamb-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:18:49.667Z"
+}
