@@ -10103,17 +10103,15 @@
   },
   {
     "slug": "kissed-smoky-australian-king-prawns-skewers",
-    "title": "Kissed Smoky Australian King Prawns Skewers",
+    "title": "Smoky Australian Prawn Skewers",
     "tags": [
       "australian",
-      "grilled",
-      "healthy",
-      "pescatarian",
-      "seafood",
-      "smoky"
+      "bbq",
+      "prawns",
+      "skewers"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 23,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -14442,16 +14440,14 @@
   },
   {
     "slug": "knockout-crispy-thai-macaroni-noodles",
-    "title": "Knockout Crispy Thai Macaroni Noodles",
+    "title": "Crispy Thai Macaroni",
     "tags": [
-      "chocolate-infused",
+      "thai",
       "crispy",
-      "one-pot",
-      "peanut-based",
-      "thai-cuisine"
+      "macaroni"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -14499,19 +14495,15 @@
   },
   {
     "slug": "knockout-kefalograviera-mediterranean-lamb-grill",
-    "title": "knockout kefalograviera mediterranean lamb grill",
+    "title": "Grilled Lamb Kebabs with Mediterranean Flair",
     "tags": [
-      "hangover-cure",
-      "high-protein",
-      "liquid-cheese",
-      "low-glycemic",
       "mediterranean",
-      "one-pan",
-      "robata-grill",
-      "weeknight"
+      "greek",
+      "lamb",
+      "kefalograviera"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 50,
+    "cuisine": "Greek",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
