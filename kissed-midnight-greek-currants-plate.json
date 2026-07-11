@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-midnight-greek-currants-plate",
+  "title": "Greek Kisseed Midnight Dessert",
+  "description": "A classic Greek dessert made with currants and kissed to perfection. Midnight adds a unique flavor to this sweet treat.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Currants",
+      "amount": "1 cup",
+      "notes": "Dried currants"
+    },
+    {
+      "name": "Midnight",
+      "amount": "2 tablespoons",
+      "notes": "Midnight honey or any other dark honey"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1/4 cup",
+      "notes": "Kissed olive oil or any other mild oil"
+    },
+    {
+      "name": "Greek",
+      "amount": "1 teaspoon",
+      "notes": "Greek vanilla extract"
+    },
+    {
+      "name": "Plate",
+      "amount": "1",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a medium bowl, combine currants, midnight, and kissed.",
+    "In a separate bowl, whisk together greek and a pinch of salt.",
+    "Add the greek mixture to the currant mixture and mix until well combined.",
+    "Pour the mixture into a baking dish and bake for 20-25 minutes or until the top is lightly golden.",
+    "Remove from oven and let cool for 5 minutes.",
+    "Serve warm, garnished with a sprinkle of greek, if desired.",
+    "Enjoy with a plate as the base."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "dessert",
+    "currants"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 45,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-midnight-greek-currants-plate",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:48:21.398Z"
+}
