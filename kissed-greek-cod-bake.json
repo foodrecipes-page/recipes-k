@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-greek-cod-bake",
+  "title": "Greek Baked Cod",
+  "description": "A flavorful and healthy Greek-inspired baked cod recipe, perfect for a quick lunch or dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4",
+      "notes": "Fresh or frozen, thawed"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tbsp",
+      "notes": "Extra virgin olive oil"
+    },
+    {
+      "name": "Greek seasoning",
+      "amount": "1 tsp",
+      "notes": "Dried oregano, thyme, and rosemary"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "Optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper or aluminum foil.",
+    "Place the cod fillets on the prepared baking sheet.",
+    "Drizzle the kissed olive oil over the cod fillets.",
+    "Sprinkle the Greek seasoning over the cod fillets.",
+    "Drizzle the lemon juice over the cod fillets.",
+    "Sprinkle the minced garlic over the cod fillets.",
+    "Bake in the preheated oven for 8-10 minutes, or until the cod is cooked through and flakes easily with a fork.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "baked-cod",
+    "greek-cuisine",
+    "gluten-free",
+    "low-carb"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-greek-cod-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T13:33:51.107Z"
+}
