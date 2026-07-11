@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-molten-australian-sweet-potato-bake",
+  "title": "Sweet Australian Kissed Potato Bake",
+  "description": "A delicious and easy-to-make potato dish with a sweet twist.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian sweet potatoes",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for greasing"
+    },
+    {
+      "name": "Molten butter",
+      "amount": "1/4 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Wash and slice the sweet potatoes into 1/2-inch thick rounds.",
+    "In a large bowl, toss the sweet potatoes with kissed olive oil, salt, and black pepper until they are evenly coated.",
+    "Transfer the sweet potatoes to a greased 9x13-inch baking dish.",
+    "Dot the top of the sweet potatoes with molten butter.",
+    "Cover the baking dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the sweet potatoes are tender and caramelized.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "sweet",
+    "potato",
+    "bake",
+    "kissed",
+    "molten"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-australian-sweet-potato-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T17:53:50.682Z"
+}
