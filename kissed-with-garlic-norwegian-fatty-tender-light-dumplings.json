@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-with-garlic-norwegian-fatty-tender-light-dumplings",
+  "title": "Pan-Seared Norwegian Dumplings with Garlic and Light Broth",
+  "description": "A simple and flavorful dish originating from Norway, dumplings are a staple food in Scandinavian cuisine. This recipe highlights the tender Norwegian dumplings, served in a light and savory broth.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian dumplings",
+      "amount": "1 package (about 20 pieces)",
+      "notes": "available in most Scandinavian grocery stores"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Light broth",
+      "amount": "4 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "Fatty (olive or vegetable oil)",
+      "amount": "2 tablespoons",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "Tender (chopped fresh parsley)",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the fatty in a large skillet over medium-high heat.",
+    "Add the garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the Norwegian dumplings to the skillet and cook until golden brown on all sides (about 5 minutes).",
+    "Transfer the dumplings to a large serving dish.",
+    "Pour in the light broth and bring to a simmer.",
+    "Cook for 5-7 minutes or until the dumplings are cooked through.",
+    "Garnish with tender parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "dumplings",
+    "garlic",
+    "light-broth"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-garlic-norwegian-fatty-tender-light-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:46:11.196Z"
+}
