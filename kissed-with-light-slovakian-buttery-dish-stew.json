@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-with-light-slovakian-buttery-dish-stew",
+  "title": "Slovakian Stew",
+  "description": "A hearty and flavorful Slovakian-inspired stew made with tender beef and vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1 1/2-inch cubes"
+    },
+    {
+      "name": "kissed potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "light carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "with onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "slovankian paprika",
+      "amount": "2 teaspoons",
+      "notes": "smoked"
+    },
+    {
+      "name": "buttery butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "dish beef broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "Add the onions to the pot and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the paprika, beef broth, and browned beef back to the pot. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "stew",
+    "beef",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-light-slovakian-buttery-dish-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:23:00.641Z"
+}
