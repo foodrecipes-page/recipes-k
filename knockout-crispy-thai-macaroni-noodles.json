@@ -1,0 +1,87 @@
+{
+  "slug": "knockout-crispy-thai-macaroni-noodles",
+  "title": "Crispy Thai Macaroni",
+  "description": "A simple and delicious pasta dish with crispy elements. This recipe combines the flavors of Thailand with a crunchy twist.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "chopped peanuts",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "canned coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Cook macaroni according to package instructions.",
+    "In a pan, heat vegetable oil over medium heat. Add chopped peanuts and cook until crispy.",
+    "Add coconut milk, fish sauce, lime juice, Thai red curry paste, and sugar to the pan. Stir until well combined.",
+    "Add cooked macaroni and noodles to the pan, tossing everything together.",
+    "Transfer the mixture to a baking dish and top with additional peanuts.",
+    "Bake in the oven for 15-20 minutes, or until the top is golden brown.",
+    "Serve hot, garnished with additional peanuts and lime wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "crispy",
+    "macaroni"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-crispy-thai-macaroni-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:55:00.374Z"
+}
