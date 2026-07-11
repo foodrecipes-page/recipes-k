@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-tangy-chinese-chicken-scallion-pancake",
+  "title": "Kissed Chicken Pancake Scallion Stir Fry",
+  "description": "A Chinese-inspired dish that combines savory pancake with sweet and sour chicken and scallions.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "pancake mix",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "tangy sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "kissed oil",
+      "amount": "2 tablespoons",
+      "notes": "sesame or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine pancake mix and 1 cup of water. Stir until smooth.",
+    "2. Heat 1 tablespoon of kissed oil in a non-stick skillet over medium heat.",
+    "3. Pour 1/4 cup of pancake batter into the skillet and cook until bubbles form.",
+    "4. Flip the pancake and cook for an additional 1-2 minutes.",
+    "5. Repeat with remaining batter to make 4-6 pancakes.",
+    "6. In a separate pan, heat 1 tablespoon of kissed oil over medium-high heat.",
+    "7. Add the chicken breast and cook until browned, about 5-6 minutes per side.",
+    "8. Add the chopped scallions to the pan and cook for an additional 1-2 minutes.",
+    "9. Stir in tangy sauce and cook for 1-2 minutes.",
+    "10. Serve the chicken and scallion mixture over the pancakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "pancake",
+    "scallion",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tangy-chinese-chicken-scallion-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:15:07.480Z"
+}
