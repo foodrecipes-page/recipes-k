@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-by-miso-ethiopian-swede-tagine",
+  "title": "Swede and Miso Tagine",
+  "description": "A unique twist on the traditional tagine, this dish combines the sweetness of swede with the savory flavor of miso.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "swede",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger and cook for a further minute.",
+    "Add the cumin and coriander and cook for 1 minute.",
+    "Add the swede and cook for 5 minutes.",
+    "Add the miso paste and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for 20 minutes, or until the swede is tender.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "swede",
+    "miso",
+    "tagine",
+    "ethiopian",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-miso-ethiopian-swede-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T11:20:25.605Z"
+}
