@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-smoky-malaysian-fish-bake",
+  "title": "Smoky Baked Fish",
+  "description": "A simple and flavorful fish recipe with a smoky twist. Serve with a side of steamed vegetables.",
+  "cuisine": "malaysian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Bake",
+      "amount": "400°F (200°C)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Place the fish fillets on the prepared baking sheet.",
+    "Drizzle the kissed olive oil over the fish.",
+    "Sprinkle the smoky paprika over the fish.",
+    "Season with salt and pepper to taste.",
+    "Bake for 12-15 minutes or until the fish is cooked through.",
+    "Serve with lemon wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "baked-fish",
+    "malaysian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-malaysian-fish-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T12:41:02.202Z"
+}
