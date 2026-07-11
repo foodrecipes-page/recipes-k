@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-smoky-australian-king-prawns-skewers",
+  "title": "Smoky Australian Prawn Skewers",
+  "description": "Delicious prawn skewers with a smoky, Australian twist, perfect for a quick and easy dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns (king prawns)",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Smoky BBQ sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Australian bush tomatoes (or cherry tomatoes)",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, BBQ sauce, lemon juice, garlic, salt, and pepper.",
+    "Add the prawns to the bowl and toss to coat.",
+    "Thread the prawns, bush tomatoes, red onion, and cilantro onto the skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "bbq",
+    "prawns",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-australian-king-prawns-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T11:11:08.183Z"
+}
