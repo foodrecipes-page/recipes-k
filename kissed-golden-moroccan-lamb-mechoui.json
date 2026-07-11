@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-golden-moroccan-lamb-mechoui",
+  "title": "Moroccan Mechoui Tagine",
+  "description": "A traditional Moroccan lamb stew cooked in a clay pot with aromatic spices and dried fruits.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into large pieces",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Golden kissed olives, pitted",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan spice mix",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "Mechoui spice blend",
+      "amount": "1 teaspoon",
+      "notes": "available at most Moroccan markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried apricots, chopped",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Brown the lamb pieces on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onion and garlic until softened, about 5 minutes.",
+    "Add the Moroccan spice mix and mechoui spice blend. Cook for 1 minute.",
+    "Add the browned lamb back to the pot, along with the olives, apricots, salt, and black pepper.",
+    "Cover the pot and transfer to the oven. Cook at 300°F (150°C) for 2-1/2 to 3 hours, or until the lamb is tender.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "lamb",
+    "tagine",
+    "stew",
+    "dinner",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-moroccan-lamb-mechoui",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T08:18:47.316Z"
+}
