@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-dutch-pineapple-poffertjes",
+  "title": "Pineapple Poffertjes with Caramelized Kissed Dutch Butter",
+  "description": "A twist on traditional Dutch poffertjes featuring caramelized butter made with kissed Dutch milk and topped with fresh pineapple.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dutch milk",
+      "amount": "250ml",
+      "notes": "kissed for a richer flavor"
+    },
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced",
+      "notes": "fresh pineapple for topping"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "50g",
+      "notes": "for caramelizing butter"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "120g",
+      "notes": "Dutch butter for richer flavor"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2",
+      "notes": "room temperature eggs for better emulsification"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": "for poffertjes batter"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "for balance"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "5g",
+      "notes": "for leavening"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine Dutch milk, granulated sugar, and unsalted butter. Cook over medium heat, stirring occasionally, until the sugar dissolves and the butter starts to caramelize.",
+    "Increase heat to medium-high and bring the mixture to a simmer. Reduce heat to medium-low and cook, stirring frequently, until the caramelized butter turns golden brown.",
+    "In a large bowl, whisk together eggs, flour, salt, and baking powder. Gradually add the caramelized butter to the egg mixture and whisk until smooth.",
+    "The batter should still be slightly lumpy. If it's too thick, add a little more Dutch milk. If it's too thin, add a little more flour.",
+    "Heat a poffertjes pan or a non-stick skillet over medium heat. Grease the pan with a small amount of unsalted butter.",
+    "Using a ladle, pour the batter into the pan and cook until bubbles appear on the surface and the edges start to dry.",
+    "Flip the poffertjes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the poffertjes warm with fresh pineapple and additional caramelized butter, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dutch",
+    "pineapple",
+    "poffertjes",
+    "caramelized-butter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dutch-pineapple-poffertjes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T22:31:46.108Z"
+}
