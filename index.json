@@ -7036,18 +7036,15 @@
   },
   {
     "slug": "kissed-greek-cod-bake",
-    "title": "Kissed Greek Cod Bake",
+    "title": "Greek Baked Cod",
     "tags": [
-      "greek",
-      "high-protein",
-      "low-sodium",
-      "main-course",
-      "one-pan",
-      "romantic",
-      "seafood"
+      "baked-cod",
+      "greek-cuisine",
+      "gluten-free",
+      "low-carb"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 13,
     "shard": "k"
   },
   {
@@ -10386,16 +10383,14 @@
   },
   {
     "slug": "kissed-smoky-malaysian-fish-bake",
-    "title": "Kissed Smoky Malaysian Fish Bake",
+    "title": "Smoky Baked Fish",
     "tags": [
-      "bake",
       "fish",
-      "malaysian",
-      "pescatarian",
-      "smoky"
+      "baked-fish",
+      "malaysian-cuisine"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
