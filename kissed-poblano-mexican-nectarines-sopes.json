@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-poblano-mexican-nectarines-sopes",
+  "title": "Nectarine and Poblano Sopes",
+  "description": "A twist on traditional Mexican sopes, topped with caramelized nectarines and roasted poblano peppers.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "corn tortillas",
+      "amount": "8",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "poblano peppers",
+      "amount": "2",
+      "notes": "roast at 400°F for 20-25 minutes"
+    },
+    {
+      "name": "nectarines",
+      "amount": "2",
+      "notes": "caramelize in a pan with butter and brown sugar"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "sopes dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": "if using store-bought, thaw and let rest"
+    },
+    {
+      "name": "feta cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": "for added flavor"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F. Roast poblano peppers for 20-25 minutes, or until charred.",
+    "Peel the skin off the poblano peppers and chop into small pieces.",
+    "Cook corn tortillas in a dry pan for 30-45 seconds on each side, or until slightly puffed.",
+    "Caramelize nectarines in a pan with butter and brown sugar over medium heat.",
+    "Roll out sopes dough to about 1/2 inch thickness. Cut out circles using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of caramelized nectarine mixture onto the center of each tortilla.",
+    "Top with roasted poblano peppers, feta cheese (if using), and sprinkle with cinnamon and chopped cilantro.",
+    "Fold tortillas in half to enclose filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sopes",
+    "mexican",
+    "nectarines",
+    "poblano",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-poblano-mexican-nectarines-sopes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:29:56.678Z"
+}
