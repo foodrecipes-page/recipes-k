@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-charred-tunisian-cauliflower-grill",
+  "title": "Tunisian Cauliflower Shawarma",
+  "description": "A flavorful and healthy twist on traditional shawarma, featuring grilled cauliflower, kissed with a hint of char.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at Middle Eastern markets"
+    },
+    {
+      "name": "grill oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4-6 pita",
+      "notes": "gluten-free option available"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together tunisian spice blend and grill oil.",
+    "Brush the mixture on both sides of the cauliflower.",
+    "Grill the cauliflower for 5-7 minutes per side, or until slightly charred.",
+    "Let the cauliflower rest for 2-3 minutes before slicing into thin strips.",
+    "Warm pita bread by wrapping it in foil and heating it on the grill for 2-3 minutes.",
+    "Assemble the shawarma by placing a few slices of cauliflower onto each pita, drizzling with lemon juice and sprinkling with garlic."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "cauliflower",
+    "grill",
+    "shawarma",
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-tunisian-cauliflower-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:32:41.994Z"
+}
