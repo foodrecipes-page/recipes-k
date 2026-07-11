@@ -3523,20 +3523,15 @@
   },
   {
     "slug": "kissed-by-binchotan-brazilian-beef-patty",
-    "title": "Kissed by Binchotan Brazilian Beef Patty",
+    "title": "Grilled Binchotan Brazilian Beef Burger",
     "tags": [
       "beef",
-      "binchotan",
-      "brazilian",
-      "double-fry",
-      "grill",
-      "kfc-style",
-      "macrobiotic-friendly",
-      "patty",
-      "weeknight"
+      "grilled",
+      "charcoal",
+      "brazilian"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 38,
+    "totalTimeMin": 18,
     "shard": "k"
   },
   {
@@ -7965,13 +7960,11 @@
   },
   {
     "slug": "kissed-lazy-moroccan-vine-leaves-bissara",
-    "title": "Kissed Lazy Moroccan Vine Leaves Bissara",
+    "title": "Moroccan Bissara Stew",
     "tags": [
-      "gluten-free",
-      "lazy-sunday",
-      "moroccan-cuisine",
-      "one-pot",
-      "vegetarian-friendly"
+      "moroccan",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
@@ -8888,16 +8881,14 @@
   },
   {
     "slug": "kissed-peruvian-lamb-seco-de-cordero",
-    "title": "Kissed Peruvian Lamb Seco de Cordero",
+    "title": "Peruvian Lamb Stew",
     "tags": [
-      "dinner-party",
-      "high-protein",
-      "one-pan",
-      "peruvian-cuisine",
-      "romantic"
+      "peruvian",
+      "lamb",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 200,
+    "totalTimeMin": 165,
     "shard": "k"
   },
   {
@@ -12133,17 +12124,15 @@
   },
   {
     "slug": "kissed-venezuelan-olive-skewers",
-    "title": "Kissed Venezuelan Olive Skewers",
+    "title": "Grilled Skewers with Olive Chimichurri",
     "tags": [
-      "gluten-free",
-      "main-dish",
-      "quick",
-      "savory",
-      "simple",
-      "vegan"
+      "grilled",
+      "chicken",
+      "vegetables",
+      "latinamerican"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 15,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
