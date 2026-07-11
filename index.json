@@ -2434,17 +2434,13 @@
   },
   {
     "slug": "kid-friendly-gooey-ukrainian-sunflower-pilaf",
-    "title": "Kid Friendly Gooey Ukrainian Sunflower Pilaf",
+    "title": "Sunflower Pilaf Delight",
     "tags": [
-      "comfort-food",
-      "fodmap-friendly",
-      "gooey-cheese",
       "kid-friendly",
-      "ukrainian-cuisine",
-      "weeknight-dinner"
+      "pilaf"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -4117,16 +4113,16 @@
   },
   {
     "slug": "kissed-caramel-malaysian-cherry-pilaf",
-    "title": "Kissed Caramel Malaysian Cherry Pilaf",
+    "title": "Malaysian Cherry Pilaf Bake",
     "tags": [
-      "comfort-food",
-      "easy-dinner",
-      "lacto-vegetarian",
-      "malaysian-cuisine",
-      "one-pot"
+      "breakfast",
+      "lunch",
+      "dinner",
+      "vegetarian",
+      "dessert"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -9982,17 +9978,16 @@
   },
   {
     "slug": "kissed-slovakian-chicken-stew",
-    "title": "Kissed Slovakian Chicken Stew",
+    "title": "Slovakian Chicken Stew",
     "tags": [
-      "clay-pot-cooking",
+      "chicken",
+      "slovakian",
+      "stew",
       "comfort-food",
-      "gluten-free",
-      "one-pot-meal",
-      "slovakian-cuisine",
-      "whole30-friendly"
+      "hearty"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -14067,16 +14062,14 @@
   },
   {
     "slug": "knobby-crisp-dutch-provola-sandwich",
-    "title": "Knobby Crisp Dutch Provolone Sandwich",
+    "title": "Dutch Provolone Grilled Cheese",
     "tags": [
-      "crunchy-snack",
-      "dutch-cuisine",
-      "lazy-sunday",
-      "shojin-friendly",
-      "vegetarian-friendly"
+      "grilled-cheese",
+      "easy-recipe",
+      "snack-ideas"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 23,
+    "cuisine": "American",
+    "totalTimeMin": 9,
     "shard": "k"
   },
   {
