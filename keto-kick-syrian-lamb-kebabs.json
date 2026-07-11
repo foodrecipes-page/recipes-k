@@ -1,0 +1,93 @@
+{
+  "slug": "keto-kick-syrian-lamb-kebabs",
+  "title": "Lamb Kebabs with Syrian Kick",
+  "description": "A flavorful and spicy lamb kebab recipe with a touch of Syrian cuisine. Perfect for a keto diet.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, cut into 1-inch cubes",
+      "amount": "1 1/2 pounds",
+      "notes": "Make sure to trim any excess fat"
+    },
+    {
+      "name": "Keto all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Spices: cumin, coriander, cinnamon, paprika",
+      "amount": "1 tablespoon",
+      "notes": "Mix together in a small bowl"
+    },
+    {
+      "name": "Syrian kick spice blend",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Middle Eastern markets or online"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "Optional, for some heat"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine lamb cubes, keto flour, spice blend, lemon juice, olive oil, garlic, red pepper flakes, salt, and pepper. Mix well to coat.",
+    "Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked to your liking.",
+    "Let kebabs rest for 5 minutes before serving.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "lamb",
+    "kebabs",
+    "syrian",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-kick-syrian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:06:35.629Z"
+}
