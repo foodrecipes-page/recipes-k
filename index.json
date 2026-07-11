@@ -1168,17 +1168,15 @@
   },
   {
     "slug": "kicked-dense-greek-feta-tiropita",
-    "title": "Kicked Dense Greek Feta Tiropita",
+    "title": "Classic Greek Tiropita",
     "tags": [
-      "bitter",
-      "crowd-pleaser",
-      "dense",
-      "greek-cuisine",
-      "low-carb",
-      "one-pan"
+      "greek",
+      "cheese",
+      "breakfast",
+      "pie"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -10875,16 +10873,16 @@
   },
   {
     "slug": "kissed-spicy-filipino-fish-bicol-express",
-    "title": "Kissed Spicy Filipino Fish Bicol Express",
+    "title": "Bicol-Style Fish Fry",
     "tags": [
-      "filipino-cuisine",
-      "one-pan-meals",
-      "pescatarian-friendly",
-      "seafood-recipes",
-      "spicy-food"
+      "bicol",
+      "filipino",
+      "fish",
+      "seafood",
+      "easy-cooking"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
