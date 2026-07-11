@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-venezuelan-olive-skewers",
+  "title": "Grilled Skewers with Olive Chimichurri",
+  "description": "A flavorful and colorful dish featuring marinated chicken and vegetables grilled to perfection, served with a tangy olive chimichurri sauce.",
+  "cuisine": "Latin American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Venezuelan kissed red onion",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "Olive",
+      "amount": "1/4 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12-15",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together olive oil, garlic, red pepper flakes, salt, and pepper.",
+    "Add the chicken, onion, and parsley to the bowl. Toss to coat.",
+    "Thread the chicken and vegetables onto the skewers, leaving a small space between each piece.",
+    "Preheat grill to medium-high heat.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the chicken is cooked through.",
+    "Meanwhile, combine the olive, lemon juice, and a pinch of salt in a bowl.",
+    "Stir in the chopped parsley.",
+    "Serve the grilled skewers with the chimichurri sauce.",
+    "Garnish with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "vegetables",
+    "latinamerican"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-venezuelan-olive-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:57:14.294Z"
+}
