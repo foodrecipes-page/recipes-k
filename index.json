@@ -1730,17 +1730,15 @@
   },
   {
     "slug": "kicked-spicy-kenyan-lamb-kebabs",
-    "title": "Kicked Spicy Kenyan Lamb Kebabs",
+    "title": "Kenyan Kebabs",
     "tags": [
-      "african-cuisine",
-      "dairy-free",
-      "gluten-free",
-      "grilled-meat",
-      "mediterranean-diet",
-      "spicy-food"
+      "kenyan-kebabs",
+      "lamb",
+      "spicy",
+      "kebabs"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -3810,18 +3808,16 @@
   },
   {
     "slug": "kissed-by-miso-ethiopian-swede-tagine",
-    "title": "kissed by miso ethiopian swede tagine",
+    "title": "Swede and Miso Tagine",
     "tags": [
-      "anti-inflammatory",
-      "easy-to-make",
-      "gluten-free",
-      "hangover-cure",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "swede",
+      "miso",
+      "tagine",
+      "ethiopian",
+      "vegetarian"
     ],
-    "cuisine": "ethiopian",
-    "totalTimeMin": 50,
+    "cuisine": "Ethiopian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -12560,16 +12556,15 @@
   },
   {
     "slug": "kissed-with-garlic-norwegian-fatty-tender-light-dumplings",
-    "title": "kissed with garlic norwegian fatty tender light dumplings",
+    "title": "Pan-Seared Norwegian Dumplings with Garlic and Light Broth",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "norwegian-cuisine",
-      "one-pan",
-      "vegetarian"
+      "norwegian",
+      "dumplings",
+      "garlic",
+      "light-broth"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 27,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
