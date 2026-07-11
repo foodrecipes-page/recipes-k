@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-caramel-malaysian-cherry-pilaf",
+  "title": "Malaysian Cherry Pilaf Bake",
+  "description": "A sweet and savory pilaf bake with a hint of malaysian flavors and cherries.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Caramel",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Malaysian soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cherry",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the pilaf and cook until lightly toasted, about 3-4 minutes.",
+    "In a separate bowl, whisk together the caramel, malaysian soy sauce, and salt.",
+    "Add the cherry to the bowl and toss to coat.",
+    "Add the pilaf mixture to the bowl and stir to combine.",
+    "Transfer the mixture to a baking dish and cover with foil.",
+    "Bake for 25-30 minutes or until the pilaf is tender.",
+    "Remove the foil and bake for an additional 5-10 minutes or until lightly browned."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "lunch",
+    "dinner",
+    "vegetarian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-caramel-malaysian-cherry-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:53:42.551Z"
+}
