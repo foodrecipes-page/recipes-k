@@ -1,0 +1,66 @@
+{
+  "slug": "kid-friendly-gooey-ukrainian-sunflower-pilaf",
+  "title": "Sunflower Pilaf Delight",
+  "description": "A hearty, kid-friendly pilaf dish with a hint of Ukrainian flair.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sunflower seeds",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pilaf",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "kid-friendly sausage",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "gooey cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": "sauteed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the pilaf according to package instructions.",
+    "Sauté the onion in a pan until softened.",
+    "Add the sliced sausage and cook until browned.",
+    "Mix in sunflower seeds and gooey cheese.",
+    "Combine cooked pilaf with the sausage mixture.",
+    "Transfer to a baking dish and bake for 20 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kid-friendly",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kid-friendly-gooey-ukrainian-sunflower-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:22:12.378Z"
+}
