@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-with-herbs-italian-grape-leaves-clay-pot-cooked",
+  "title": "Grape and Herb Focaccia",
+  "description": "A classic Italian flatbread topped with fresh herbs and sweet grapes.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Italian herbs",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Grape",
+      "amount": "1 cup, halved",
+      "notes": null
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Yeast",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Combine flour, yeast, and salt in a bowl.",
+    "Mix in herbs, olive oil, and water to form dough.",
+    "Knead dough for 5 minutes.",
+    "Let dough rest for 1 hour.",
+    "Preheat oven to 425°F (220°C).",
+    "Roll out dough and transfer to baking sheet.",
+    "Top with grapes.",
+    "Bake for 15 minutes.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "flatbread",
+    "herb",
+    "grape"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-herbs-italian-grape-leaves-clay-pot-cooked",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:35:17.222Z"
+}
