@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-slovakian-chicken-stew",
+  "title": "Slovakian Chicken Stew",
+  "description": "A hearty and comforting Slovakian stew made with tender chicken, sweet carrots, and a hint of paprika.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast or thighs",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "slovakian stew",
+      "amount": "2 tablespoons",
+      "notes": "Available at Eastern European or specialty stores"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "Peel and slice into 1/2-inch rounds"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chop into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "Peel and dice into 1-inch cubes"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of Slovakian stew in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots, potatoes, salt, black pepper, and paprika. Stir to combine.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through and the vegetables are tender, about 30 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "slovakian",
+    "stew",
+    "comfort-food",
+    "hearty"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-slovakian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:56:50.243Z"
+}
