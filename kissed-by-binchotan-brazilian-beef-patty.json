@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-by-binchotan-brazilian-beef-patty",
+  "title": "Grilled Binchotan Brazilian Beef Burger",
+  "description": "A flavorful beef patty grilled over binchotan charcoal, served with a kissed finish.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Brazilian beef patty",
+      "amount": "4",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Binchotan charcoal",
+      "amount": "1 cup",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Kissed (for finish)",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Bin",
+      "amount": "for serving",
+      "notes": "a serving bin or container"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Season the beef patty with salt and pepper to taste.",
+    "Grill the beef patty over binchotan charcoal for 4-5 minutes per side, or until cooked to your liking.",
+    "Meanwhile, toast the serving bin or container on the grill.",
+    "Once the beef patty is cooked, remove it from the grill and place it in the serving bin.",
+    "Drizzle the kissed over the beef patty, if using.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "charcoal",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-binchotan-brazilian-beef-patty",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T05:52:59.670Z"
+}
