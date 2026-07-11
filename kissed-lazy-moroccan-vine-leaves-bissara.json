@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-lazy-moroccan-vine-leaves-bissara",
+  "title": "Moroccan Bissara Stew",
+  "description": "A hearty and flavorful stew originating from Morocco, made with a variety of ingredients, including bissara. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bissara",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vine leaves",
+      "amount": "2"
+    },
+    {
+      "name": "Moroccan spices",
+      "amount": "2 tsp",
+      "notes": "Ras el hanout and cumin"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lazy onions",
+      "amount": "1",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Kissed tomatoes",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onions and cook until they are translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the bissara, vine leaves, Moroccan spices, salt, and black pepper to the pot.",
+    "Stir well to combine.",
+    "Add the kissed tomatoes to the pot.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Serve with crusty bread for a satisfying meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-lazy-moroccan-vine-leaves-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T07:03:57.753Z"
+}
