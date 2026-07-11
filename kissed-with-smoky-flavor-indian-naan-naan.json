@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-with-smoky-flavor-indian-naan-naan",
+  "title": "Spiced Naan Bread",
+  "description": "A simple recipe for homemade naan bread with a blend of Indian spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Naan",
+      "amount": "1 package"
+    },
+    {
+      "name": "Smoky flavor",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "Kissed with flavor",
+      "amount": "1 tsp",
+      "notes": "Garlic powder"
+    },
+    {
+      "name": "With love",
+      "amount": "1 tsp",
+      "notes": "Cumin powder"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Open the naan package and separate the dough into individual pieces.",
+    "Roll out each piece of dough into a ball and then flatten it slightly into an oval shape.",
+    "Brush the tops of the naans with melted butter or ghee.",
+    "Sprinkle the smoked paprika, garlic powder, and cumin powder evenly over the naans.",
+    "Place the naans on a baking sheet lined with parchment paper.",
+    "Bake for 10-12 minutes, or until the naans are golden brown.",
+    "Remove the naans from the oven and let them cool for a few minutes.",
+    "Serve warm, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "naan",
+    "bread",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-smoky-flavor-indian-naan-naan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T09:42:51.547Z"
+}
