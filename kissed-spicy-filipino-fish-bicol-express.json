@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-spicy-filipino-fish-bicol-express",
+  "title": "Bicol-Style Fish Fry",
+  "description": "A Filipino-inspired fish dish with a spicy kick, made by pan-frying fish in a mixture of coconut milk and chili peppers.",
+  "cuisine": "Filipino",
+  "diet": [
+    "fish",
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish ( Tilapia or Bangus)",
+      "amount": "4 pieces",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat for added richness"
+    },
+    {
+      "name": "Chili peppers (siling labuyo or Thai chili)",
+      "amount": "2-3",
+      "notes": "Adjust to taste for spice level"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for easier mixing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use kosher or sea salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Use freshly ground for best flavor"
+    }
+  ],
+  "instructions": [
+    "1. Heat oil in a pan over medium-high heat.",
+    "2. Season the fish with salt and black pepper.",
+    "3. Add the garlic to the pan and sauté for 1 minute.",
+    "4. Add the chili peppers to the pan and sauté for another minute.",
+    "5. Add the coconut milk to the pan and stir well.",
+    "6. Add the fish to the pan and cook for 3-4 minutes on each side.",
+    "7. Remove the fish from the pan and serve hot.",
+    "8. Garnish with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bicol",
+    "filipino",
+    "fish",
+    "seafood",
+    "easy-cooking"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-filipino-fish-bicol-express",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T15:52:28.332Z"
+}
