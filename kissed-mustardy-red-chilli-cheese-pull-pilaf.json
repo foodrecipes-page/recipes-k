@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-mustardy-red-chilli-cheese-pull-pilaf",
+  "title": "Red Chilli Pull Pilaf",
+  "description": "A spicy, cheesy pilaf with a kick from the red chilli, perfect for a quick lunch.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red chilli",
+      "amount": "1"
+    },
+    {
+      "name": "Cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kissed",
+      "amount": "2 tbsp, olive oil"
+    },
+    {
+      "name": "Mustardy",
+      "amount": "1 tsp, mustard powder"
+    },
+    {
+      "name": "Pull",
+      "amount": "1 cup, cooked chicken"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a pan over medium heat.",
+    "Add the mustard powder and cook for 1 minute.",
+    "Add the red chilli and cook for 2 minutes.",
+    "Add the pilaf and cook for 3-4 minutes, stirring occasionally.",
+    "Add the shredded cheese and cooked chicken, stir until the cheese is melted.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "spicy",
+    "lunch",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mustardy-red-chilli-cheese-pull-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T13:35:03.667Z"
+}
