@@ -1,0 +1,59 @@
+{
+  "slug": "knobby-crisp-dutch-provola-sandwich",
+  "title": "Dutch Provolone Grilled Cheese",
+  "description": "A classic grilled cheese recipe elevated with the rich flavors of Dutch provola cheese. Perfect for a quick and satisfying snack or light meal.",
+  "cuisine": "American",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Dutch provola cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Knobby sandwich bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Crisp lettuce",
+      "amount": "1 leaf"
+    },
+    {
+      "name": "Butter or non-stick cooking spray",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick skillet or griddle over medium heat.",
+    "2. Butter or spray one side of each bread slice.",
+    "3. Place one bread slice, buttered side down, in the skillet.",
+    "4. Place one slice of provola cheese on top of the bread in the skillet.",
+    "5. Place a leaf of crisp lettuce on top of the cheese.",
+    "6. Place the second bread slice, buttered side up, on top of the lettuce.",
+    "7. Cook for 2-3 minutes or until the bread is golden brown and the cheese is melted.",
+    "8. Carefully flip the sandwich over and cook for an additional 2-3 minutes or until the other side is also golden brown.",
+    "9. Remove from heat and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 4,
+  "totalTimeMin": 9,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "grilled-cheese",
+    "easy-recipe",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-crisp-dutch-provola-sandwich",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T14:41:18.841Z"
+}
