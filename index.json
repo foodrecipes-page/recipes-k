@@ -4400,17 +4400,17 @@
   },
   {
     "slug": "kissed-charred-tunisian-cauliflower-grill",
-    "title": "Kissed Charred Tunisian Cauliflower Grill",
+    "title": "Tunisian Cauliflower Shawarma",
     "tags": [
-      "cauliflower-recipes",
-      "grilled-vegetables",
-      "healthy-eating",
-      "low-carb",
-      "quick-meals",
-      "tunisian-cuisine"
+      "cauliflower",
+      "grill",
+      "shawarma",
+      "middle-eastern",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 25,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -6292,16 +6292,14 @@
   },
   {
     "slug": "kissed-fluffy-kenyan-spaghetti-pasta",
-    "title": "Kissed Fluffy Kenyan Spaghetti Pasta",
+    "title": "Kenyan Pasta Delight",
     "tags": [
-      "comfort-food",
-      "kenyan-cuisine",
-      "one-pot",
-      "plant-based",
-      "special-occasion"
+      "kenyan",
+      "gluten-free",
+      "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "kenyan",
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
@@ -8330,16 +8328,13 @@
   },
   {
     "slug": "kissed-midnight-greek-currants-plate",
-    "title": "Kissed Midnight Greek Currants Plate",
+    "title": "Greek Kisseed Midnight Dessert",
     "tags": [
-      "currants",
-      "dessert",
-      "gluten-free",
       "greek",
-      "kosher",
-      "vegan"
+      "dessert",
+      "currants"
     ],
-    "cuisine": "Mediterranean",
+    "cuisine": "Greek",
     "totalTimeMin": 40,
     "shard": "k"
   },
@@ -8936,16 +8931,16 @@
   },
   {
     "slug": "kissed-poblano-mexican-nectarines-sopes",
-    "title": "Kissed Poblano Mexican Nectarines Sopes",
+    "title": "Nectarine and Poblano Sopes",
     "tags": [
-      "gluten-free",
+      "sopes",
       "mexican",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "nectarines",
+      "poblano",
+      "breakfast"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 35,
+    "cuisine": "Mexican",
+    "totalTimeMin": 70,
     "shard": "k"
   },
   {
@@ -12984,17 +12979,15 @@
   },
   {
     "slug": "kissed-with-smoky-flavor-indian-naan-naan",
-    "title": "Smoked Indian Naan",
+    "title": "Spiced Naan Bread",
     "tags": [
-      "dairy-free",
-      "easy",
-      "flatbread",
       "indian",
-      "snack",
-      "weeknight"
+      "naan",
+      "bread",
+      "spices"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
