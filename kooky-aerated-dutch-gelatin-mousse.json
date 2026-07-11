@@ -1,0 +1,72 @@
+{
+  "slug": "kooky-aerated-dutch-gelatin-mousse",
+  "title": "Dutch Mousse Parfait",
+  "description": "A light and airy dessert made with Dutch meringue, gelatin, and topped with a fluffy mousse. Perfect for warm weather.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin",
+      "amount": "2 cups",
+      "notes": "Unflavored, unsweetened"
+    },
+    {
+      "name": "Dutch Meringue",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Kooky Cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream or a similar substitute"
+    },
+    {
+      "name": "Aerated Sugar",
+      "amount": "1/4 cup",
+      "notes": "Granulated sugar or to taste"
+    },
+    {
+      "name": "Mousse",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, sprinkle the gelatin over 1/4 cup of cold water and let it sit for 5 minutes to soften.",
+    "2. In a large bowl, whip the kooky cream until it forms stiff peaks.",
+    "3. In a separate bowl, whip the mousse until it's light and airy.",
+    "4. Add the sugar to the mousse and whip until combined.",
+    "5. In a separate saucepan, combine the gelatin, 1 cup of water, and 1/4 cup of sugar.",
+    "6. Cook over low heat, stirring constantly, until the gelatin dissolves.",
+    "7. Remove the saucepan from the heat and let it cool slightly.",
+    "8. Fold the whipped cream into the gelatin mixture until well combined.",
+    "9. Fold the mousse mixture into the gelatin mixture until well combined.",
+    "10. Spoon the mixture into individual serving cups and refrigerate for at least 3 hours.",
+    "11. Top with additional whipped cream and mousse, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "parfait",
+    "dessert",
+    "gelatin",
+    "whipped cream",
+    "mousse"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-aerated-dutch-gelatin-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T18:04:18.684Z"
+}
