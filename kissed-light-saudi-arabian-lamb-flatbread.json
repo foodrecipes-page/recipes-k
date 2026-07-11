@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-light-saudi-arabian-lamb-flatbread",
+  "title": "Saudi Arabian Lamb Kebabs with Flatbread",
+  "description": "A traditional Saudi dish featuring marinated lamb kebabs grilled to perfection served with warm flatbread. This recipe is perfect for a flavorful and satisfying meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Chopped into 1-inch cubes"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Warm and ready to serve"
+    },
+    {
+      "name": "Arabian Kissed Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For marinating and grilling"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Arabian Kissed Sauce, olive oil, salt, and black pepper.",
+    "2. Add the chopped lamb to the marinade and mix well to coat.",
+    "3. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "4. Preheat the grill to medium-high heat.",
+    "5. Thread the marinated lamb onto skewers, leaving a little space between each piece.",
+    "6. Grill the lamb for 8-10 minutes per side, or until cooked to your desired level of doneness.",
+    "7. Meanwhile, warm the flatbread by wrapping it in foil and heating it in the oven at 350°F for 5 minutes.",
+    "8. Serve the lamb kebabs with the warm flatbread and additional Arabian Kissed Sauce, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "lamb",
+    "kebabs",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-saudi-arabian-lamb-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T00:26:39.036Z"
+}
