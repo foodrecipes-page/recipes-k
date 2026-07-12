@@ -1,0 +1,75 @@
+{
+  "slug": "kooky-crunchy-chinese-fish-shui-zhu-yu",
+  "title": "Pan-Seared Fish with Chinese Vegetables",
+  "description": "A simple and flavorful dish featuring pan-seared fish with crunchy vegetables and a hint of Chinese spices.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish",
+      "amount": "4 fillets",
+      "notes": "any white fish works well"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tbsp",
+      "notes": "chinese five-spice powder"
+    },
+    {
+      "name": "kooky",
+      "amount": "1 cup",
+      "notes": "kooky crunchy carrots, sliced"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "crunchy zucchini, sliced"
+    },
+    {
+      "name": "shui",
+      "amount": "2 tbsp",
+      "notes": "shui soy sauce"
+    },
+    {
+      "name": "zhu",
+      "amount": "1 tsp",
+      "notes": "zhu sesame oil"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium-high heat.",
+    "Season the fish with chinese five-spice powder.",
+    "Add 1 tbsp of sesame oil to the pan and sear the fish for 2-3 minutes per side, or until cooked through.",
+    "Remove the fish from the pan and set aside.",
+    "Add the remaining 1 tbsp of sesame oil to the pan, then add the sliced carrots and zucchini.",
+    "Cook the vegetables for 3-4 minutes, or until they start to soften.",
+    "Add the soy sauce to the pan and stir to combine.",
+    "Return the fish to the pan and serve with the vegetables and sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "fish",
+    "vegetarian",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-crunchy-chinese-fish-shui-zhu-yu",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:09:50.370Z"
+}
