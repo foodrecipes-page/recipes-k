@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-creamy-argentinian-beef-skillet",
+  "title": "Argentinian Skillet Beef",
+  "description": "A hearty and flavorful beef dish inspired by the cuisine of Argentina, cooked in a skillet to perfection.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef (sirloin or flank steak)",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "2 tbsp kissed argentinian seasoning blend",
+      "amount": "2 tbsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "1 cup creamy chimichurri sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "1 large onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "1 large bell pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "1 large tomato",
+      "amount": "1 large",
+      "notes": "Diced"
+    },
+    {
+      "name": "1 large skillet",
+      "amount": "1 large",
+      "notes": "Cast-iron or stainless steel"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of oil in the skillet over medium-high heat.",
+    "2. Add the beef to the skillet and cook for 3-4 minutes, or until browned. Remove from the skillet and set aside.",
+    "3. Add the remaining 1 tablespoon of oil to the skillet. Add the onion and cook for 3-4 minutes, or until translucent.",
+    "4. Add the garlic and cook for 1 minute, or until fragrant.",
+    "5. Add the bell pepper and cook for 3-4 minutes, or until tender.",
+    "6. Add the tomato and cook for 2-3 minutes, or until tender.",
+    "7. Add the browned beef back into the skillet and stir in the chimichurri sauce.",
+    "8. Reduce heat to low and simmer for 5-7 minutes, or until the sauce has thickened.",
+    "9. Serve the beef and sauce over rice or with crusty bread.",
+    "10. Garnish with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "argentinian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-argentinian-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:42:15.352Z"
+}
