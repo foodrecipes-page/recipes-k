@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-crispy-thai-lamb-skewers",
+  "title": "Lamb Skewers with Thai Crunch",
+  "description": "Grilled lamb skewers served with a crispy thai-inspired crunch. Perfect for a quick and delicious meal.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Thai Peanut Sauce",
+      "amount": "1/4 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Crispy Fried Shallots",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Kissed Pineapple",
+      "amount": "1 cup",
+      "notes": "Fresh pineapple, sliced into wedges"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh leaves, chopped"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing skewers"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": "For seasoning lamb"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "For grilling lamb"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread lamb cubes onto skewers, leaving a small space between each piece.",
+    "3. Brush lamb skewers with vegetable oil and season with salt and pepper.",
+    "4. Grill lamb skewers for 8-10 minutes, turning occasionally, until cooked to desired doneness.",
+    "5. Meanwhile, heat Thai peanut sauce in a small saucepan over low heat.",
+    "6. Grill or toast crispy fried shallots until crispy.",
+    "7. Serve lamb skewers with Thai peanut sauce, crispy fried shallots, kissed pineapple, and Thai basil.",
+    "8. Garnish with additional Thai basil leaves, if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lamb",
+    "skewers",
+    "thai",
+    "grilled",
+    "peanut-sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-thai-lamb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:09:31.974Z"
+}
