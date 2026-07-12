@@ -1,0 +1,68 @@
+{
+  "slug": "kooky-gooey-norwegian-pepper-pasta",
+  "title": "Pepper Pasta Bake",
+  "description": "A comforting and easy pasta bake recipe with a crispy top and a flavorful pepper sauce. Perfect for a weeknight dinner.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "kooky",
+      "amount": "2",
+      "notes": "mushrooms, sliced"
+    },
+    {
+      "name": "gooey",
+      "amount": "2",
+      "notes": "mozzarella, sliced"
+    },
+    {
+      "name": "pepper",
+      "amount": "1",
+      "notes": "bell pepper, sliced"
+    },
+    {
+      "name": "norwegian",
+      "amount": "20g",
+      "notes": "feta cheese, crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat a tablespoon of oil over medium heat. Add the sliced kooky, gooey, and pepper. Cook until the vegetables are tender.",
+    "In a large bowl, combine the cooked pasta, vegetable mixture, and crumbled norwegian. Season with salt and pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and top with sliced gooey.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the cheese is melted.",
+    "Serve hot and enjoy!",
+    "Optional: Add some extra gooey on top for an extra-cheesy bake."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pasta",
+    "bake",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-gooey-norwegian-pepper-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T01:48:38.014Z"
+}
