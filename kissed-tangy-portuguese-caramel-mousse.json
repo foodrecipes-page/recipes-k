@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-tangy-portuguese-caramel-mousse",
+  "title": "Portuguese Mousse Kisses",
+  "description": "A sweet and tangy dessert featuring a rich caramel topping and a light, airy mousse base.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Portuguese Kissed Chocolate",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Caramel Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a double boiler or a heatproof bowl set over a pot of simmering water, melt the chocolate, stirring occasionally.",
+    "2. In a separate bowl, whip the heavy cream until it forms stiff peaks.",
+    "3. In another bowl, mix together the granulated sugar, unsalted butter, and vanilla extract.",
+    "4. Fold the sugar mixture into the whipped cream until well combined.",
+    "5. Fold the melted chocolate into the cream mixture until well combined.",
+    "6. Spoon the mousse into individual serving cups or ramekins.",
+    "7. Chill the mousse in the refrigerator for at least 2 hours.",
+    "8. Just before serving, drizzle the caramel sauce over the top of each mousse.",
+    "9. Dust the caramel with confectioners' sugar and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "caramel",
+    "mousse"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tangy-portuguese-caramel-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:14:07.783Z"
+}
