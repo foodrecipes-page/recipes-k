@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-with-spice-argentinian-paella-dutch-oven",
+  "title": "Argentinian Paella",
+  "description": "A classic Argentinian paella dish, made with spiced chorizo and chicken, perfect for a hearty dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish chorizo",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Kissed rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Paella spice blend",
+      "amount": "1 tablespoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Dutch oven",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "With saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the Dutch oven over medium-high heat.",
+    "Add the sliced chorizo and cook until browned, about 2-3 minutes.",
+    "Add the chicken to the pot and cook until browned, about 5-6 minutes.",
+    "Add the paella spice blend, salt, and black pepper to the pot. Stir to combine.",
+    "Add the uncooked rice to the pot and stir to combine with the other ingredients.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes or until the rice is tender and the liquid has been absorbed.",
+    "Remove the pot from the heat and let it rest for 5 minutes.",
+    "Serve the paella hot, garnished with with saffron and kissed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "paella",
+    "chicken",
+    "chorizo",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-spice-argentinian-paella-dutch-oven",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:49:50.475Z"
+}
