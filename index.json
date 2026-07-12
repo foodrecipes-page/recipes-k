@@ -5184,16 +5184,16 @@
   },
   {
     "slug": "kissed-crispy-thai-lamb-skewers",
-    "title": "Kissed Crispy Thai Lamb Skewers",
+    "title": "Lamb Skewers with Thai Crunch",
     "tags": [
-      "crispy-snacks",
-      "diabetic-friendly",
-      "gluten-free",
-      "lamb-recipes",
-      "thai-street-food"
+      "lamb",
+      "skewers",
+      "thai",
+      "grilled",
+      "peanut-sauce"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -14910,17 +14910,15 @@
   },
   {
     "slug": "kooky-crunchy-chinese-fish-shui-zhu-yu",
-    "title": "Kooky Crunchy Chinese Fish Shui Zhu Yu",
+    "title": "Pan-Seared Fish with Chinese Vegetables",
     "tags": [
-      "air-fryer",
-      "chinese-food",
-      "lacto-vegetarian",
-      "post-workout",
-      "special-occasion",
-      "unique-twist"
+      "chinese",
+      "fish",
+      "vegetarian",
+      "pan-seared"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
