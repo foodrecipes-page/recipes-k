@@ -5211,17 +5211,14 @@
   },
   {
     "slug": "kissed-crispy-ukrainian-beef-skillet",
-    "title": "Kissed Crispy Ukrainian Beef Skillet",
+    "title": "Ukrainian Beef Skillet",
     "tags": [
-      "anti-inflammatory",
-      "dairy-free",
-      "gluten-free",
-      "meal-prep",
-      "one-pan",
-      "ukrainian-cuisine"
+      "beef",
+      "ukrainian",
+      "skillet"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -11401,17 +11398,14 @@
   },
   {
     "slug": "kissed-tangy-portuguese-caramel-mousse",
-    "title": "Kissed Tangy Portuguese Caramel Mousse",
+    "title": "Portuguese Mousse Kisses",
     "tags": [
+      "chocolate",
       "caramel",
-      "gluten-free",
-      "mousse",
-      "portuguese",
-      "tangy",
-      "vegetarian"
+      "mousse"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 75,
     "shard": "k"
   },
   {
@@ -13007,16 +13001,16 @@
   },
   {
     "slug": "kissed-with-spice-argentinian-paella-dutch-oven",
-    "title": "Kissed with Spice Argentinian Paella Dutch-oven",
+    "title": "Argentinian Paella",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "vegan-friendly",
-      "weeknight"
+      "argentinian",
+      "paella",
+      "chicken",
+      "chorizo",
+      "rice"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 45,
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
