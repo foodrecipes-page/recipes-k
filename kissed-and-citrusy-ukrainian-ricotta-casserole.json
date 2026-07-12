@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-and-citrusy-ukrainian-ricotta-casserole",
+  "title": "Ukrainian Ricotta Kissed Casserole",
+  "description": "A Ukrainian-inspired casserole featuring ricotta cheese, with a hint of citrusy flavors.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kissed tomatoes",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "And",
+      "amount": "1/2 cup, chopped fresh herbs (such as parsley or dill)"
+    },
+    {
+      "name": "Ukrainian black bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Citrusy zest",
+      "amount": "1 tablespoon, freshly grated lemon or orange zest"
+    },
+    {
+      "name": "Casserole cheese blend",
+      "amount": "1/2 cup, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine ricotta cheese, kissed tomatoes, and citrusy zest. Mix well.",
+    "In a separate bowl, mix together Ukrainian black bread and casserole cheese blend.",
+    "Add the bread mixture to the ricotta mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Bake for 25-30 minutes or until the casserole is hot and the cheese is melted.",
+    "Sprinkle with chopped fresh herbs (such as parsley or dill) before serving.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "ricotta-casserole",
+    "citrusy",
+    "homestyle"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-and-citrusy-ukrainian-ricotta-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:29:21.591Z"
+}
