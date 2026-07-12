@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-crispy-ukrainian-beef-skillet",
+  "title": "Ukrainian Beef Skillet",
+  "description": "A hearty skillet dish featuring tender beef and crispy vegetables, inspired by Ukrainian cuisine. Serve with a side of toasted bread or over mashed potatoes.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Kissed potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the skillet.",
+    "Add the onion and bell pepper and cook until the vegetables are tender, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the potatoes, salt, and pepper to the skillet.",
+    "Stir to combine and cook for 2-3 minutes.",
+    "Return the beef to the skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes, until the beef is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "ukrainian",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-ukrainian-beef-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:14:38.572Z"
+}
