@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-earthy-algerian-vegetable-tagine",
+  "title": "Algerian Vegetable Tagine",
+  "description": "A traditional Algerian dish made with tender vegetables and aromatic spices, cooked in a flavorful tagine sauce. Serve over couscous or rice for a hearty meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "earthly vegetable",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "kissed vegetable",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the Algerian in a large pan over medium heat.",
+    "Add the vegetable and kiss the earthy vegetable with a pinch of salt.",
+    "Add the tagine spice blend and stir to combine.",
+    "Add the kissed vegetable and stir to combine.",
+    "Cover the pan and cook for 20 minutes, or until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the tagine over couscous or rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "vegetarian",
+    "vegan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-earthy-algerian-vegetable-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T04:21:57.641Z"
+}
