@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-crumbly-irish-potato-casserole",
+  "title": "Irish Potato Casserole",
+  "description": "A hearty, comforting casserole perfect for cold evenings. It combines the flavors of Ireland with the simplicity of a potato casserole.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish potatoes",
+      "amount": "3 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "kissed cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "crumbly oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": "whole"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a large skillet, sauté the diced onion over medium heat until softened.",
+    "In a separate bowl, combine the sliced potatoes, shredded cheese, dried oregano, and sautéed onion.",
+    "Transfer the potato mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, whisk together the milk and a pinch of salt.",
+    "Pour the milk mixture over the potato mixture, making sure all potatoes are coated.",
+    "Bake in the preheated oven for 45-50 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "casserole",
+    "irish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crumbly-irish-potato-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T08:45:56.979Z"
+}
