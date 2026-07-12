@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-japanese-coconut-dessert-bao",
+  "title": "Coconut Bao Dessert",
+  "description": "A sweet and delicate dessert featuring coconut and bao. Perfect for a warm evening.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "250 ml",
+      "notes": "Full-fat for best results"
+    },
+    {
+      "name": "Bao dough",
+      "amount": "4 pieces",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "100g",
+      "notes": "To taste"
+    },
+    {
+      "name": "Large egg",
+      "amount": "1",
+      "notes": "Beaten for egg wash"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "20g",
+      "notes": "Melted for brushing bao"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "50g",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out bao dough to 1/4 inch thickness.",
+    "Cut out small squares and place a spoonful of coconut milk mixture in the center of each square.",
+    "Fold bao into triangles and press edges to seal.",
+    "Brush tops with melted butter and beaten egg for a golden glaze.",
+    "Bake in preheated oven for 12-15 minutes, or until golden brown.",
+    "Dust with granulated sugar and garnish with shredded coconut.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "bao",
+    "dessert",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "4g",
+    "carbs": "40g",
+    "fat": "18g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-japanese-coconut-dessert-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:10:04.240Z"
+}
