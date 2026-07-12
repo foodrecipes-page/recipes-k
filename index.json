@@ -4613,13 +4613,11 @@
   },
   {
     "slug": "kissed-creamy-argentinian-beef-skillet",
-    "title": "Kissed Creamy Argentinian Beef Skillet",
+    "title": "Argentinian Skillet Beef",
     "tags": [
-      "argentinian-cuisine",
-      "creamy-sauce",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "argentinian",
+      "skillet"
     ],
     "cuisine": "Argentinian",
     "totalTimeMin": 35,
@@ -14173,17 +14171,16 @@
   },
   {
     "slug": "knobby-fluffy-australian-tofu-skewers",
-    "title": "Knobby Fluffy Australian Tofu Skewers",
+    "title": "Grilled Knobby Tofu Skewers with Fluffy Coleslaw",
     "tags": [
       "australian",
-      "festive",
       "grilled",
-      "shojin-friendly",
+      "skewers",
       "tofu",
-      "vegan"
+      "coleslaw"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -14980,16 +14977,14 @@
   },
   {
     "slug": "kooky-gooey-norwegian-pepper-pasta",
-    "title": "Kooky Gooey Norwegian Pepper Pasta",
+    "title": "Pepper Pasta Bake",
     "tags": [
-      "norwegian",
+      "italian",
       "pasta",
-      "peppers",
-      "special-occasion",
-      "talavera",
-      "vegan"
+      "bake",
+      "weeknight-dinner"
     ],
-    "cuisine": "Norwegian",
+    "cuisine": "Italian",
     "totalTimeMin": 35,
     "shard": "k"
   },
