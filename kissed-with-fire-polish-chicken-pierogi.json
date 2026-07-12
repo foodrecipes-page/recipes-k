@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-with-fire-polish-chicken-pierogi",
+  "title": "Polish Chicken Pierogi",
+  "description": "A traditional Polish dish featuring chicken-filled pierogi served with a side of sautéed onions.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "pierogi dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pierogi according to the package instructions.",
+    "In a large skillet, sauté the diced onion in butter until softened.",
+    "Add the cooked pierogi to the skillet and toss to combine with the onion.",
+    "Season with salt and black pepper to taste.",
+    "Meanwhile, cook the chicken breast in a separate skillet until cooked through.",
+    "Slice the cooked chicken into strips.",
+    "Serve the pierogi with the chicken on top and a side of sautéed onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pierogi",
+    "chicken",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-fire-polish-chicken-pierogi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:00:08.328Z"
+}
