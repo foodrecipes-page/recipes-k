@@ -1,0 +1,82 @@
+{
+  "slug": "knead-date",
+  "title": "Date Filled Kneaded Pastry",
+  "description": "A simple and sweet pastry filled with chopped dates, kneaded to perfection. A perfect dessert for a warm evening.",
+  "cuisine": "arabic",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup, chopped",
+      "notes": "pitted"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup, softened",
+      "notes": null
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "flour for dusting",
+      "amount": "1 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. In a large mixing bowl, combine flour, sugar, and salt. Mix well.",
+    "3. Add the softened butter and mix until the dough resembles coarse crumbs.",
+    "4. Beat in the egg and vanilla extract.",
+    "5. Knead the dough on a floured surface until smooth and elastic.",
+    "6. Divide the dough into 2 equal portions.",
+    "7. Roll out each portion into a thin sheet.",
+    "8. Place a tablespoon of chopped dates in the center of each sheet.",
+    "9. Fold the dough over the filling and press the edges to seal.",
+    "10. Place the pastries on a baking sheet lined with parchment paper.",
+    "11. Brush the tops with a little water and sprinkle with granulated sugar.",
+    "12. Bake for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "date-filled-pastry",
+    "kneaded-pastry",
+    "arabic-sweets"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knead-date",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:24:44.963Z"
+}
