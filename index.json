@@ -519,17 +519,16 @@
   },
   {
     "slug": "keto-friendly-italian-chicken-skillet",
-    "title": "Keto Friendly Italian Chicken Skillet",
+    "title": "Italian Chicken Skillet",
     "tags": [
-      "high-protein",
-      "italian-food",
-      "keto-friendly",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "chicken",
+      "skillet",
+      "keto",
+      "low-carb"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 40,
+    "cuisine": "italian",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -10180,18 +10179,15 @@
   },
   {
     "slug": "kissed-smoky-egyptian-falafel-kebabs",
-    "title": "Kissed Smoky Egyptian Falafel Kebabs",
+    "title": "Smoky Egyptian Kebabs with Spicy Falafel Sauce",
     "tags": [
+      "kebabs",
       "egyptian",
       "falafel",
-      "middle-eastern",
-      "smoky",
-      "tandoor",
-      "vegan",
-      "vegetarian"
+      "grilled"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
