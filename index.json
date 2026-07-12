@@ -3169,16 +3169,15 @@
   },
   {
     "slug": "kissed-australian-mango-sushi",
-    "title": "Kissed Australian Mango Sushi",
+    "title": "Australian Mango Sushi",
     "tags": [
-      "gluten-free",
-      "low-fat",
-      "quick",
-      "satvik",
-      "vegan"
+      "australian",
+      "mango",
+      "sushi",
+      "vegetarian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "cuisine": "australian",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -6969,17 +6968,16 @@
   },
   {
     "slug": "kissed-grassy-korean-hummus-skewers",
-    "title": "Kissed Grassy Korean Hummus Skewers",
+    "title": "Grilled Korean Beef Skewers with Hummus",
     "tags": [
-      "easy-entertaining",
+      "korean",
       "grilled",
-      "korean-fusion",
-      "low-carb",
-      "quick-snack",
-      "vegetarian"
+      "beef",
+      "skewers",
+      "hummus"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
