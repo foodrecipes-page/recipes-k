@@ -1,0 +1,83 @@
+{
+  "slug": "knobby-fluffy-australian-tofu-skewers",
+  "title": "Grilled Knobby Tofu Skewers with Fluffy Coleslaw",
+  "description": "A simple and flavorful recipe featuring marinated tofu and vegetables, served with a refreshing coleslaw made with fluffy cabbage.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "knobby carrots",
+      "amount": "2 medium",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "australian zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into 1/2-inch thick rounds"
+    },
+    {
+      "name": "fluffy cabbage",
+      "amount": "1 small head",
+      "notes": "shredded"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 wooden",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together soy sauce, honey, and vegetable oil. Add tofu and vegetables, and toss to coat.",
+    "Thread tofu and vegetables onto skewers, leaving a small space between each piece.",
+    "Brush skewers with remaining marinade.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until tofu is golden brown and vegetables are tender.",
+    "Serve skewers hot with fluffy coleslaw made by mixing shredded cabbage with 1 tablespoon mayonnaise and 1 tablespoon apple cider vinegar.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "grilled",
+    "skewers",
+    "tofu",
+    "coleslaw"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-fluffy-australian-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:31:22.331Z"
+}
