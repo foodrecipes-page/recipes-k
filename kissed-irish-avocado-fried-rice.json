@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-irish-avocado-fried-rice",
+  "title": "Irish Kissed Avocado Fried Rice",
+  "description": "A fusion of Irish and Asian flavors in this unique fried rice dish. Kissed with a hint of Irish charm and topped with crispy avocado.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2",
+      "notes": "ripe, diced"
+    },
+    {
+      "name": "Irish Kissed Rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "small, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Chives",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of avocado oil in a large skillet over medium-high heat.",
+    "Add diced onion and cook until translucent.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add cooked Irish kissed rice to the skillet, stirring to combine with onion and garlic.",
+    "Push rice mixture to one side of the skillet.",
+    "Add remaining 1 tablespoon of avocado oil to the other side of the skillet.",
+    "Add diced avocado and cook until crispy.",
+    "Flip avocado and cook for an additional 1 minute.",
+    "Combine avocado with rice mixture.",
+    "Stir in chopped fried shallots and shredded cheddar cheese.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped chives."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "avocado",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-irish-avocado-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:24:42.820Z"
+}
