@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-smoky-egyptian-falafel-kebabs",
+  "title": "Smoky Egyptian Kebabs with Spicy Falafel Sauce",
+  "description": "Indulge in the bold flavors of Egypt with these smoky kebabs served with a spicy falafel sauce.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Smoky Kebabs (Lamb)",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Falafel",
+      "amount": "1 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian Spices",
+      "amount": "1 tablespoon",
+      "notes": "Mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, mix together kebabs, Egyptian spices, lemon juice, garlic, and olive oil.",
+    "Thread kebabs onto skewers, leaving space between each piece.",
+    "Grill kebabs for 8-10 minutes, turning occasionally.",
+    "Meanwhile, combine falafel, olives, onions, and tomatoes in a bowl.",
+    "Once kebabs are cooked, brush with olive oil and season with salt.",
+    "Serve kebabs with spicy falafel sauce (see note).",
+    "Note: To make spicy falafel sauce, blend falafel, garlic, and lemon juice in a blender until smooth. Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "egyptian",
+    "falafel",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-egyptian-falafel-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:11:19.879Z"
+}
