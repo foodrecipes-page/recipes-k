@@ -2952,18 +2952,15 @@
   },
   {
     "slug": "kissed-and-citrusy-ukrainian-ricotta-casserole",
-    "title": "kissed and citrusy ukrainian ricotta casserole",
+    "title": "Ukrainian Ricotta Kissed Casserole",
     "tags": [
-      "casserole",
-      "citrusy",
-      "easy-dinner",
-      "low-fat",
-      "meal-prep",
       "ukrainian",
-      "weeknight"
+      "ricotta-casserole",
+      "citrusy",
+      "homestyle"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 50,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -3010,17 +3007,15 @@
   },
   {
     "slug": "kissed-and-gooey-uruguayan-lamb-bake",
-    "title": "kissed and gooey uruguayan lamb bake",
+    "title": "Uruguayan Lamb Bake",
     "tags": [
-      "buddhist-temple-friendly",
-      "flambe",
       "lamb",
-      "post-workout",
       "uruguayan",
-      "weeknight"
+      "casserole",
+      "oven"
     ],
-    "cuisine": "uruguayan",
-    "totalTimeMin": 70,
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 165,
     "shard": "k"
   },
   {
@@ -7379,15 +7374,14 @@
   },
   {
     "slug": "kissed-irish-avocado-fried-rice",
-    "title": "kissed irish avocado fried-rice",
+    "title": "Irish Kissed Avocado Fried Rice",
     "tags": [
-      "high-protein",
       "irish",
-      "one-pan",
-      "weeknight"
+      "avocado",
+      "fried-rice"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 40,
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -13553,19 +13547,16 @@
   },
   {
     "slug": "kisumu-style-caramelized-kenyan-halal-beef-tagine",
-    "title": "Kisumu-Style Caramelized Kenyan Halal Beef Tagine",
+    "title": "Kenyan Beef Tagine",
     "tags": [
       "beef",
-      "clay-pot",
-      "dinner",
-      "halal",
-      "kenyan",
-      "one-pot",
       "tagine",
-      "weeknight"
+      "kenyan",
+      "caramelized onions",
+      "halal"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 120,
+    "cuisine": "kenyan",
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
@@ -13804,17 +13795,14 @@
   },
   {
     "slug": "knead-date",
-    "title": "Herbal Knead & Date",
+    "title": "Date Filled Kneaded Pastry",
     "tags": [
-      "herbal",
-      "knead",
-      "date-night",
-      "vietnamese",
-      "ghee",
-      "sugar-free"
+      "date-filled-pastry",
+      "kneaded-pastry",
+      "arabic-sweets"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "cuisine": "arabic",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
