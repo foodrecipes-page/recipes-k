@@ -1,0 +1,61 @@
+{
+  "slug": "kicked-crispy-turkish-peach-kebabs",
+  "title": "Turkish Kickin' Kebab",
+  "description": "A savory and sweet Turkish-inspired kebab recipe with a kick of spice. Perfect for a quick and delicious dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "grill"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkish Kebab Meat",
+      "amount": "500g",
+      "notes": "Make sure to slice the meat thinly against the grain"
+    },
+    {
+      "name": "Peach Salsa",
+      "amount": "200g",
+      "notes": "Combine diced peaches with red onion, jalapeno, cilantro, and a squeeze of lime juice"
+    },
+    {
+      "name": "Kicked Up Tzatziki Sauce",
+      "amount": "300g",
+      "notes": "Combine yogurt with cucumber, garlic, dill, and a pinch of cayenne pepper"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "100g",
+      "notes": "Thinly slice onions and fry until crispy"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread Turkish Kebab Meat onto skewers, leaving a little space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally, until cooked to your liking.",
+    "Meanwhile, toast some pita bread and top with Crispy Onions, Peach Salsa, and a dollop of Kicked Up Tzatziki Sauce.",
+    "Serve the grilled kebabs with the toasted pita and toppings."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "turkish",
+    "grill",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crispy-turkish-peach-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T11:15:59.634Z"
+}
