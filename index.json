@@ -1068,17 +1068,15 @@
   },
   {
     "slug": "kicked-crispy-turkish-peach-kebabs",
-    "title": "Kicked Crispy Turkish Peach Kebabs",
+    "title": "Turkish Kickin' Kebab",
     "tags": [
-      "caramelized-peaches",
-      "flexitarian",
-      "lazy-sunday",
-      "salt-block-cooking",
-      "spicy-kebabs",
-      "turkish-food"
+      "kebab",
+      "turkish",
+      "grill",
+      "meat"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -7527,15 +7525,15 @@
   },
   {
     "slug": "kissed-japanese-coconut-dessert-bao",
-    "title": "Kissed Japanese Coconut Dessert Bao",
+    "title": "Coconut Bao Dessert",
     "tags": [
       "coconut",
+      "bao",
       "dessert",
-      "honey",
-      "pescatarian"
+      "japanese"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
     "shard": "k"
   },
   {
@@ -12414,16 +12412,15 @@
   },
   {
     "slug": "kissed-with-fire-polish-chicken-pierogi",
-    "title": "Kissed with Fire Polish Chicken Pierogi",
+    "title": "Polish Chicken Pierogi",
     "tags": [
-      "chili-pepper",
-      "high-protein",
-      "one-pan",
-      "polish-cuisine",
-      "weeknight"
+      "polish",
+      "pierogi",
+      "chicken",
+      "dinner"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 70,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
