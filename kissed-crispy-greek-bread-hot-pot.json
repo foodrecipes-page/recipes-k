@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-crispy-greek-bread-hot-pot",
+  "title": "Crispy Greek Bread",
+  "description": "A simple recipe for crispy Greek bread, perfect for snacking or as a side.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Greek bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "optional: feta cheese",
+      "amount": "crumbly, to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Greek bread into 1-inch thick slices.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with salt.",
+    "Bake for 10-12 minutes, or until crispy and golden brown.",
+    "If desired, crumble feta cheese on top of the bread and return to oven for an additional 2-3 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bread",
+    "greek",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-greek-bread-hot-pot",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:30:18.126Z"
+}
