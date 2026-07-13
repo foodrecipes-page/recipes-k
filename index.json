@@ -4990,18 +4990,15 @@
   },
   {
     "slug": "kissed-crispy-greek-bread-hot-pot",
-    "title": "Kissed Crispy Greek Bread Hot Pot",
+    "title": "Crispy Greek Bread",
     "tags": [
-      "crispy",
-      "festive",
+      "bread",
       "greek",
-      "hot-pot",
-      "one-pan",
-      "shojin-friendly",
-      "winey"
+      "snack",
+      "easy"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 17,
     "shard": "k"
   },
   {
