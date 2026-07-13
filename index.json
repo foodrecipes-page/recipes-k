@@ -1482,17 +1482,16 @@
   },
   {
     "slug": "kicked-oozy-zanzibari-yogurt-pilaf",
-    "title": "Kicked Oozy Zanzibari Yogurt Pilaf",
+    "title": "Zanzibari Pilaf Bowl",
     "tags": [
-      "diabetic-friendly",
-      "fermented",
-      "gluten-free",
-      "greek-yogurt",
-      "meal-prep",
-      "oozy"
+      "zanzibari",
+      "pilaf",
+      "yogurt",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 40,
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
