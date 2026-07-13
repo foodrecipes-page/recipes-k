@@ -1,0 +1,80 @@
+{
+  "slug": "keto-indulgent-portuguese-savoy-cabbage-pasta",
+  "title": "Bacon and Savoy Cabbage Pasta",
+  "description": "A keto indulgent twist on traditional pasta dishes, featuring crispy bacon and sautéed savoy cabbage. This Portuguese-inspired recipe is a delicious alternative to traditional pasta.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto",
+    "indulgent"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "Bacon",
+      "amount": "6 slices",
+      "notes": null
+    },
+    {
+      "name": "Savoy Cabbage",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, cook the bacon over medium heat until crispy. Remove from heat and set aside.",
+    "In the same skillet, add the butter and sauté the garlic until fragrant.",
+    "Add the savoy cabbage to the skillet and cook until tender, about 5 minutes.",
+    "Add the cooked pasta to the skillet and toss with the cabbage mixture.",
+    "Return the cooked bacon to the skillet and toss to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bacon",
+    "cabbage",
+    "pasta",
+    "keto",
+    "indulgent"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 28,
+    "carbs": 20,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-indulgent-portuguese-savoy-cabbage-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:29:53.011Z"
+}
