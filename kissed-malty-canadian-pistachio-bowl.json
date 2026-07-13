@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-malty-canadian-pistachio-bowl",
+  "title": "Pistachio Kissed Malt Treats",
+  "description": "A sweet and crunchy snack made with a Canadian twist, combining kissed and malty flavors with a delicious pistachio twist.",
+  "cuisine": "North American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pistachio butter",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Malted milk powder",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Canadian maple syrup",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bowl of rolled oats",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 350°F (180°C).",
+    "2. In a large mixing bowl, cream together pistachio butter and malted milk powder.",
+    "3. Add kissed honey and Canadian maple syrup to the mixture and mix well.",
+    "4. Gradually add the bowl of rolled oats to the mixture and mix until a dough forms.",
+    "5. Roll out the dough into a sheet and cut into desired shapes.",
+    "6. Bake in the oven for 15-20 minutes, or until lightly golden.",
+    "7. Allow the treats to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "pistachio",
+    "malt",
+    "kissed",
+    "canadian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-malty-canadian-pistachio-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:26:16.372Z"
+}
