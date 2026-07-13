@@ -1,0 +1,61 @@
+{
+  "slug": "kicked-oozy-zanzibari-yogurt-pilaf",
+  "title": "Zanzibari Pilaf Bowl",
+  "description": "A flavorful and refreshing bowl dish made with zanzibari, yogurt, and kicked pilaf.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Zanzibari",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "2 cups cooked",
+      "notes": "preferably made with kicked"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup",
+      "notes": "plain or flavored"
+    },
+    {
+      "name": "Oozy",
+      "amount": "1/4 cup",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the cooked pilaf in a pan.",
+    "Add the zanzibari to the pan and stir-fry for 2 minutes.",
+    "Mix in the yogurt until well combined.",
+    "Add the oozy and stir-fry for another minute.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "zanzibari",
+    "pilaf",
+    "yogurt",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-oozy-zanzibari-yogurt-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:34:49.976Z"
+}
