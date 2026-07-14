@@ -1,0 +1,62 @@
+{
+  "slug": "kooky-crispy-saudi-arabian-fish-kebabs",
+  "title": "Arabian Kebab Delight",
+  "description": "A flavorful and spicy kebab dish inspired by the streets of Arabia, perfect for a quick dinner.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "saudi arabian",
+      "amount": "2 tbsp",
+      "notes": "use as marinade"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fish",
+      "amount": "1 lb",
+      "notes": "preferably cod or tilapia"
+    },
+    {
+      "name": "kebabs",
+      "amount": "10 skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together saudi arabian ingredients and 2 tbsp olive oil.",
+    "2. Add the fish pieces to the marinade and mix well.",
+    "3. Preheat a grill or grill pan to medium-high heat.",
+    "4. Thread the marinated fish onto kebab skewers.",
+    "5. Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "6. Garnish with crispy ingredients and serve hot.",
+    "7. Serve with your favorite sides, such as rice or salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "arabian",
+    "kebabs",
+    "fish",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-crispy-saudi-arabian-fish-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T19:43:27.539Z"
+}
