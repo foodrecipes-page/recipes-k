@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-velvety-middle-eastern-chickpeas-falafel",
+  "title": "Eastern Chickpea Falafel Wrap",
+  "description": "A flavorful and nutritious vegetarian wrap filled with crispy falafel, creamy sauce, and crunchy veggies.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 (15 ounce) can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "2 teaspoons",
+      "notes": "such as cumin, coriander, and paprika"
+    },
+    {
+      "name": "falafel mix",
+      "amount": "1 package",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "kissed pita bread",
+      "amount": "4",
+      "notes": "or other whole wheat pita"
+    },
+    {
+      "name": "velvety tahini sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped cucumber",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, mash chickpeas using a fork or a potato masher.",
+    "Add middle eastern spices and mix well.",
+    "Add falafel mix and mix until a thick paste forms.",
+    "Using your hands, shape the mixture into 8-10 patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 18-20 minutes or until crispy and golden brown.",
+    "Warm the pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "Spread a tablespoon of tahini sauce on each pita bread.",
+    "Assemble the wraps by placing a few falafel patties on each pita, followed by a dollop of tahini sauce, some chopped cucumber, and a sprinkle of parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "vegetarian",
+    "falafel",
+    "chickpea"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-middle-eastern-chickpeas-falafel",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T12:52:37.516Z"
+}
