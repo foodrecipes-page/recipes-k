@@ -10957,16 +10957,14 @@
   },
   {
     "slug": "kissed-spicy-tunisian-lamb-tagine",
-    "title": "Kissed Spicy Tunisian Lamb Tagine",
+    "title": "Tunisian Lamb Tagine",
     "tags": [
-      "high-protein",
+      "north african",
+      "stew",
       "lamb",
-      "one-pot",
-      "spicy",
-      "tunisian",
-      "weeknight"
+      "tagine"
     ],
-    "cuisine": "Tunisian",
+    "cuisine": "North African",
     "totalTimeMin": 110,
     "shard": "k"
   },
@@ -14855,16 +14853,15 @@
   },
   {
     "slug": "kooky-crispy-saudi-arabian-fish-kebabs",
-    "title": "Kooky Crispy Saudi Arabian Fish Kebabs",
+    "title": "Arabian Kebab Delight",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "seafood",
-      "spicy",
-      "weeknight"
+      "arabian",
+      "kebabs",
+      "fish",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 33,
     "shard": "k"
   },
   {
