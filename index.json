@@ -2359,17 +2359,15 @@
   },
   {
     "slug": "kicky-sour-jamaican-chicken-curry",
-    "title": "Kicky Sour Jamaican Chicken Curry",
+    "title": "Jamaican Chicken Curry",
     "tags": [
-      "chicken-recipes",
-      "coconut-cream-recipes",
-      "curry-dishes",
-      "jamaican-cuisine",
-      "nut-free-recipes",
-      "sick-day-meals"
+      "jamaican-curry",
+      "chicken-curry",
+      "curry-recipe",
+      "easy-dinner-ideas"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -3243,18 +3241,15 @@
   },
   {
     "slug": "kissed-bitter-sardinian-carrots-tossato-ribollita",
-    "title": "kissed bitter Sardinian carrots Tossato Ribollita",
+    "title": "Sardinian Ribollita with Carrots and Kissed Fennel",
     "tags": [
-      "gluten-free",
-      "italian",
-      "low-carb",
-      "one-pan",
       "sardinian",
-      "sugar-free",
-      "weeknight"
+      "ribollita",
+      "soup",
+      "vegetarian"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 50,
+    "cuisine": "Sardinian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
