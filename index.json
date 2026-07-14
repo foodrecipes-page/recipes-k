@@ -2001,17 +2001,16 @@
   },
   {
     "slug": "kicked-up-spicy-peruvian-chicken-skewers",
-    "title": "Kicked Up Spicy Peruvian Chicken Skewers",
+    "title": "Peruvian Chicken Skewers",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grilled-chicken",
-      "hangover-cure",
-      "peruvian-cuisine",
-      "spicy-food"
+      "grilled",
+      "chicken",
+      "peruvian",
+      "skewers",
+      "spicy"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 36,
     "shard": "k"
   },
   {
@@ -7559,17 +7558,14 @@
   },
   {
     "slug": "kissed-japanese-savoury-leaves-dorayaki",
-    "title": "Kissed Japanese Savoury Leaves Dorayaki",
+    "title": "Pan-Seared Dorayaki",
     "tags": [
-      "egg-based",
-      "high-protein",
-      "kanto",
-      "lazy-susan",
-      "one-pot",
-      "quick"
+      "dessert",
+      "sweet",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 27,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -13190,16 +13186,15 @@
   },
   {
     "slug": "kissed-with-tarragon-chinese-eggs-bao",
-    "title": "Kissed With Tarragon Chinese Eggs Bao",
+    "title": "Tarragon Bao",
     "tags": [
-      "high-protein",
-      "low-fat",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "breakfast",
+      "bacon-free",
+      "egg-recipe",
+      "steamed-bao"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 27,
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -14957,17 +14952,15 @@
   },
   {
     "slug": "kooky-grassy-argentinian-redcurrant-empanadas",
-    "title": "Kooky Grassy Argentinian Redcurrant Empanadas",
+    "title": "Grilled Empanadas with Redcurrant Salsa",
     "tags": [
+      "summer",
+      "grilled",
       "argentinian",
-      "empanadas",
-      "grassy-herbs",
-      "redcurrants",
-      "snack",
-      "vegetarian"
+      "empanadas"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 50,
+    "cuisine": "argentinian",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
