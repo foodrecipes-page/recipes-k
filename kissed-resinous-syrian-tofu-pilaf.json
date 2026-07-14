@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-resinous-syrian-tofu-pilaf",
+  "title": "Syrian-Style Stuffed Tofu",
+  "description": "A flavorful and healthy dish that combines the richness of tofu with the spices of Syrian cuisine. This recipe is perfect for a quick and easy dinner.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Pilaf",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Resinous Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Syrian Spice Blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Cut the tofu into small cubes and set aside.",
+    "3. In a large skillet, heat the olive oil over medium heat.",
+    "4. Add the Syrian spice blend and cook for 1-2 minutes, until fragrant.",
+    "5. Add the pilaf and cook for 2-3 minutes, until lightly toasted.",
+    "6. Add the tofu and stir to combine with the pilaf mixture.",
+    "7. Season with salt and pepper to taste.",
+    "8. Transfer the mixture to a baking dish and bake for 20-25 minutes, until lightly browned.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "stuffed-tofu",
+    "pilaf",
+    "tofu-recipe",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-resinous-syrian-tofu-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:50:07.196Z"
+}
