@@ -8842,17 +8842,14 @@
   },
   {
     "slug": "kissed-peruvian-rapeseed-casserole",
-    "title": "Kissed Peruvian Rapeseed Casserole",
+    "title": "Peruvian-Style Casserole with Kissed Rapeseed Crust",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
       "peruvian",
-      "sugar-free",
-      "weeknight"
+      "rapeseed",
+      "casserole"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -11618,16 +11615,15 @@
   },
   {
     "slug": "kissed-tunisian-oats-fritters",
-    "title": "kissed tunisian oats fritters",
+    "title": "Tunisian Kissed Oat Fritters",
     "tags": [
-      "deep-fried",
-      "high-protein",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "oat",
+      "fritters",
+      "tunisian",
+      "kissed"
     ],
-    "cuisine": "tunisian",
-    "totalTimeMin": 18,
+    "cuisine": "North African",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
