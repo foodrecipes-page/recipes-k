@@ -1,0 +1,68 @@
+{
+  "slug": "knobby-crispy-dutch-potato-hash",
+  "title": "Crispy Hash Browns with Potato and Knobby Onions",
+  "description": "A simple breakfast recipe featuring crispy hash browns, sautéed knobby onions, and diced potatoes. Perfect for a weekend brunch.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 large potatoes, peeled",
+      "amount": "1 cup, diced",
+      "notes": "Use a high-starch potato variety for the best results"
+    },
+    {
+      "name": "1 large knobby onion, thinly sliced",
+      "amount": "1 cup",
+      "notes": "Crisp up the onions quickly to prevent burning"
+    },
+    {
+      "name": "1 tablespoon vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "Use a neutral-tasting oil with a high smoke point"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "1 teaspoon",
+      "notes": "Use flaky sea salt for added texture and flavor"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "Freshly ground pepper enhances the dish's flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, combine the diced potatoes and thinly sliced onions.",
+    "Add the vegetable oil, salt, and black pepper to the bowl. Toss to coat the potatoes and onions evenly.",
+    "Transfer the potato and onion mixture to a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 20-25 minutes, or until the hash browns are crispy and golden brown.",
+    "Remove the baking sheet from the oven and let it cool for a few minutes.",
+    "Use a spatula to break up the hash browns and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "hash-brown",
+    "breakfast",
+    "brunch",
+    "american-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-crispy-dutch-potato-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T00:25:45.072Z"
+}
