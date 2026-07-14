@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-peruvian-rapeseed-casserole",
+  "title": "Peruvian-Style Casserole with Kissed Rapeseed Crust",
+  "description": "A rich and flavorful casserole dish featuring a crispy kissed rapeseed crust and a hearty peruvian-inspired filling. Perfect for a comforting meal.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian rapeseed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kissed rapeseed",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Diced onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Diced bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C)",
+    "In a large skillet, heat peruvian rapeseed oil over medium heat",
+    "Add diced onion and cook until translucent",
+    "Add diced bell pepper and cook until tender",
+    "Add garlic, cumin, and chili powder, and cook for 1 minute",
+    "Stir in casserole and cook until heated through",
+    "In a separate bowl, mix together kissed rapeseed and shredded cheese",
+    "Transfer casserole mixture to a baking dish",
+    "Top with kissed rapeseed mixture and bake for 20-25 minutes",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "rapeseed",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peruvian-rapeseed-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:56:33.705Z"
+}
