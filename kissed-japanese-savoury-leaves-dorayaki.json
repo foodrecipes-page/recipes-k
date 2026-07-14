@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-japanese-savoury-leaves-dorayaki",
+  "title": "Pan-Seared Dorayaki",
+  "description": "A Japanese-inspired dessert, pan-seared dorayaki is a sweet and crispy treat. Perfect for any occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Dorayaki",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Kissed Sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Savoury Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Leaves (Matcha or Mint)",
+      "amount": "fresh",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick pan over medium heat.",
+    "Add savoury butter and melt.",
+    "Place dorayaki in the pan and cook for 2-3 minutes on each side.",
+    "Drizzle kissed sugar over the dorayaki.",
+    "Garnish with fresh leaves.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "sweet",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-japanese-savoury-leaves-dorayaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:52:56.946Z"
+}
