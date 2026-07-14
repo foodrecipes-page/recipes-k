@@ -4085,17 +4085,15 @@
   },
   {
     "slug": "kissed-caramel-japanese-hazelnuts-ehomaki",
-    "title": "Kissed Caramel Japanese Hazelnuts Ehomaki",
+    "title": "Japanese Ehomaki Caramel Hazelnut Kissed",
     "tags": [
-      "delicious",
-      "easy-to-make",
-      "japanese-cuisine",
-      "low-calorie",
-      "nutty",
-      "vegetarian"
+      "japanese",
+      "caramel",
+      "hazelnuts",
+      "dessert"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -10516,17 +10514,16 @@
   },
   {
     "slug": "kissed-smoky-tunisian-lamb-tagine",
-    "title": "Kissed Smoky Tunisian Lamb Tagine",
+    "title": "Smoky Tunisian Lamb Tagine",
     "tags": [
-      "lamb-recipes",
-      "low-carb",
-      "one-pot",
-      "smoky-flavors",
-      "special-occasion",
-      "tunisian-cuisine"
+      "lamb",
+      "tagine",
+      "north-african",
+      "slow-cooked",
+      "hearty"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 150,
+    "cuisine": "North African",
+    "totalTimeMin": 180,
     "shard": "k"
   },
   {
