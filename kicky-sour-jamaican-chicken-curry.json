@@ -1,0 +1,74 @@
+{
+  "slug": "kicky-sour-jamaican-chicken-curry",
+  "title": "Jamaican Chicken Curry",
+  "description": "A flavorful and aromatic curry dish made with chicken and a blend of Jamaican spices.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Jamaican curry powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "curry",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "kicky",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sour",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "Add the Jamaican curry powder and cook for 1-2 minutes, until fragrant.",
+    "Add the curry to the skillet and stir to combine.",
+    "Add the kicky and sour to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to coat with the curry mixture.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes, or until the chicken is cooked through.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican-curry",
+    "chicken-curry",
+    "curry-recipe",
+    "easy-dinner-ideas"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 38,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-sour-jamaican-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T11:42:26.925Z"
+}
