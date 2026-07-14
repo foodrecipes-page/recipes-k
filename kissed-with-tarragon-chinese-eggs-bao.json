@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-with-tarragon-chinese-eggs-bao",
+  "title": "Tarragon Bao",
+  "description": "A simple and delicious bao recipe filled with a flavorful tarragon and egg mixture.",
+  "cuisine": "chinese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "2 cups bao dough",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup tarragon leaves",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 eggs",
+      "amount": "beaten",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a steamer basket over boiling water.",
+    "Roll out the bao dough into small circles.",
+    "Place a spoonful of the tarragon and egg mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Steam the bao for 10-12 minutes, or until cooked through.",
+    "Brush with sesame oil and season with salt and pepper to taste.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "bacon-free",
+    "egg-recipe",
+    "steamed-bao"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-tarragon-chinese-eggs-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:12:54.793Z"
+}
