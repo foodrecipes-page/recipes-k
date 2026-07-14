@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-tunisian-oats-fritters",
+  "title": "Tunisian Kissed Oat Fritters",
+  "description": "A sweet and crunchy dessert made with oats, kissed with a hint of Tunisian spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rolled oats",
+      "amount": "1 cup",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine oats, coconut sugar, flaxseed meal, and tunisian spice blend.",
+    "In a separate bowl, whisk together almond milk, kissed, and coconut oil.",
+    "Add the wet ingredients to the dry ingredients and stir until a dough forms.",
+    "Using a cookie scoop, drop the dough onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes or until the fritters are golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Transfer the fritters to a wire rack to cool completely.",
+    "Serve warm or at room temperature, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "oat",
+    "fritters",
+    "tunisian",
+    "kissed"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tunisian-oats-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T09:52:01.812Z"
+}
