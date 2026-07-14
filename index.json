@@ -8710,17 +8710,16 @@
   },
   {
     "slug": "kissed-nutty-ukrainian-fish-fillet-skewers",
-    "title": "Kissed Nutty Ukrainian Fish Fillet Skewers",
+    "title": "Pan-Seared Fish Fillet with Ukrainian-Style Skewers",
     "tags": [
-      "fish-recipes",
-      "gluten-free",
-      "high-protein",
-      "low-carb",
-      "one-pan",
-      "weeknight"
+      "fish",
+      "ukrainian",
+      "pan-seared",
+      "grilled",
+      "dinner"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 32,
+    "cuisine": "Estonian",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -14047,18 +14046,15 @@
   },
   {
     "slug": "knobby-crispy-dutch-potato-hash",
-    "title": "Knobby Crispy Dutch Potato Hash",
+    "title": "Crispy Hash Browns with Potato and Knobby Onions",
     "tags": [
+      "hash-brown",
       "breakfast",
-      "chocolate",
-      "crispy",
-      "dairy-free",
-      "one-pot",
-      "potato",
-      "vegetarian"
+      "brunch",
+      "american-cuisine"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
