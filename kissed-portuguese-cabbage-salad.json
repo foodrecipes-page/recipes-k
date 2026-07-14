@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-portuguese-cabbage-salad",
+  "title": "Portuguese-Style Braised Cabbage with Kicked-Up Kissed Flair",
+  "description": "A hearty, comforting side dish that combines the flavors of Portugal with the sweetness of kissed cabbage. Perfect for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kissed cabbage",
+      "amount": "1 medium head, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese salad",
+      "amount": "1 cup, chopped",
+      "notes": "use a mix of lettuce, onion, and olives"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": "mince finely to avoid overpowering the dish"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "use kosher salt for best flavor"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground for best flavor"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional, for a spicy kick"
+    }
+  ],
+  "instructions": [
+    "1. Heat olive oil in a large Dutch oven over medium heat.",
+    "2. Add garlic and cook for 1-2 minutes, until fragrant.",
+    "3. Add sliced cabbage and cook for 5-7 minutes, until slightly tender.",
+    "4. Stir in chopped salad, salt, black pepper, and red pepper flakes (if using).",
+    "5. Cook for an additional 2-3 minutes, until cabbage is tender and salad is wilted.",
+    "6. Serve hot, garnished with chopped fresh parsley or chives (optional)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "portuguese",
+    "braised",
+    "cabbage",
+    "kicked-up",
+    "kissed"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-portuguese-cabbage-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T21:32:48.209Z"
+}
