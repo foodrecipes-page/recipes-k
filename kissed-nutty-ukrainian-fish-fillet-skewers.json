@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-nutty-ukrainian-fish-fillet-skewers",
+  "title": "Pan-Seared Fish Fillet with Ukrainian-Style Skewers",
+  "description": "A flavorful and easy-to-make dish featuring pan-seared fish fillet paired with Ukrainian-style skewers.",
+  "cuisine": "Estonian",
+  "diet": [
+    "gluten-free",
+    "lactose-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish Fillet",
+      "amount": "4 pieces",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian Kissed Bread",
+      "amount": "2 slices",
+      "notes": null
+    },
+    {
+      "name": "Nutty Skewers",
+      "amount": "4 skewers",
+      "notes": "made with kissed and ukrainian ingredients"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet over medium heat.",
+    "Season the fish fillets with salt and pepper.",
+    "Add olive oil to the skillet and sear the fish for 3-4 minutes per side.",
+    "Meanwhile, prepare the Ukrainian-style skewers by brushing with lemon juice and seasoning with salt and pepper.",
+    "Grill the skewers for 2-3 minutes per side.",
+    "Serve the pan-seared fish fillet with Ukrainian-style skewers.",
+    "Garnish with kissed bread, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "ukrainian",
+    "pan-seared",
+    "grilled",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-ukrainian-fish-fillet-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T23:59:38.572Z"
+}
