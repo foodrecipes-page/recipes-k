@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-caramel-japanese-hazelnuts-ehomaki",
+  "title": "Japanese Ehomaki Caramel Hazelnut Kissed",
+  "description": "A unique dessert that combines Japanese flavors with caramel and hazelnuts.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Japanese Ehomaki",
+      "amount": "1 sheet",
+      "notes": "Available at Japanese grocery stores"
+    },
+    {
+      "name": "caramel sauce",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "kissed chocolate chips",
+      "amount": "1/4 cup",
+      "notes": "Melted for drizzling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the Japanese Ehomaki into 1-inch squares.",
+    "Place the squares on a baking sheet lined with parchment paper.",
+    "Drizzle the caramel sauce over the Ehomaki squares.",
+    "Sprinkle chopped hazelnuts over the caramel.",
+    "Bake for 5-7 minutes or until the caramel is bubbly and the hazelnuts are toasted.",
+    "Remove from oven and let cool for 1-2 minutes.",
+    "Drizzle melted kissed chocolate chips over the top of the Ehomaki.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "caramel",
+    "hazelnuts",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-caramel-japanese-hazelnuts-ehomaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T07:50:38.589Z"
+}
