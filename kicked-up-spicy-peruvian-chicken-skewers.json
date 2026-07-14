@@ -1,0 +1,85 @@
+{
+  "slug": "kicked-up-spicy-peruvian-chicken-skewers",
+  "title": "Peruvian Chicken Skewers",
+  "description": "A flavorful and spicy Peruvian-inspired dish featuring marinated chicken on skewers, grilled to perfection.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Peruvian chili pepper",
+      "amount": "2",
+      "notes": "such as aji amarillo"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine chili pepper, lime juice, garlic, cilantro, salt, and black pepper. Blend until smooth.",
+    "Place the chicken pieces in a large bowl and pour the marinade over them. Toss to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "chicken",
+    "peruvian",
+    "skewers",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-spicy-peruvian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T18:08:08.609Z"
+}
