@@ -1,0 +1,65 @@
+{
+  "slug": "kooky-grassy-argentinian-redcurrant-empanadas",
+  "title": "Grilled Empanadas with Redcurrant Salsa",
+  "description": "A twist on the classic empanada recipe, topped with a sweet and tangy redcurrant salsa. Perfect for a summer evening.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "redcurrants",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "kooky",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "grass",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh herbs, such as parsley or cilantro"
+    },
+    {
+      "name": "argentinian cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, for filling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cook empanadas for 2-3 minutes per side, or until golden brown.",
+    "Meanwhile, mix redcurrants with a squeeze of lime juice and a pinch of salt.",
+    "Once empanadas are cooked, top with redcurrant salsa and garnish with kooky and grass.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "grilled",
+    "argentinian",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-grassy-argentinian-redcurrant-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:55:54.593Z"
+}
