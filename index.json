@@ -15917,5 +15917,19 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvet-slovakian-petit-pois-soup--gluten-free",
+    "title": "Slovakian Velvet Pois Soup",
+    "tags": [
+      "slovakian",
+      "velvet",
+      "pois",
+      "soup",
+      "gluten-free"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 40,
+    "shard": "k"
   }
 ]
