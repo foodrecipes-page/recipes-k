@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-charred-indian-paneer-paneer-tikka",
+  "title": "Paneer Tikka Masala",
+  "description": "A popular Indian dish made with marinated paneer cooked in a rich tomato sauce.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "charred red onion",
+      "amount": "1/2",
+      "notes": null
+    },
+    {
+      "name": "chicken tikka masala spice mix",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": null
+    },
+    {
+      "name": "tomato puree",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Marinate the paneer in yogurt and chicken tikka masala spice mix for at least 30 minutes.",
+    "Heat oil in a pan and add the marinated paneer. Cook until golden brown.",
+    "Add the charred red onion and cook until softened.",
+    "Add the garlic and ginger and cook for 1 minute.",
+    "Add the tomato puree and cook for 5 minutes.",
+    "Stir in the ghee and cook for 1 minute.",
+    "Add the paneer back into the sauce and cook until heated through.",
+    "Garnish with cilantro and serve with basmati rice or naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "tikka",
+    "masala"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-indian-paneer-paneer-tikka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T15:33:09.180Z"
+}
