@@ -1,0 +1,66 @@
+{
+  "slug": "keto-gooey-polish-pork-dumplings",
+  "title": "Pan-Seared Pork Dumplings",
+  "description": "Crispy pan-seared pork dumplings with a gooey filling for a delicious keto dinner.",
+  "cuisine": "eastern european",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Polish Dumpling Wrappers",
+      "amount": "1 package"
+    },
+    {
+      "name": "Gooey Filling (cheese, cream cheese, egg)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium-high heat.",
+    "Add butter and melt.",
+    "Place a dumpling wrapper on a flat surface.",
+    "Place a tablespoon of gooey filling in the center of the wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Repeat with remaining wrappers and filling.",
+    "Add dumplings to the pan and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-gooey-polish-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T08:50:03.817Z"
+}
