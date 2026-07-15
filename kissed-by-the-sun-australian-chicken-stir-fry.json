@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-by-the-sun-australian-chicken-stir-fry",
+  "title": "Sun-Kissed Chicken Stir Fry",
+  "description": "A delicious and easy stir-fry recipe made with sun-kissed Australian chicken, perfect for a quick weeknight dinner.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian chicken breast",
+      "amount": "1"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Snow peas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the onion and bell pepper to the skillet and cook until tender, about 3-4 minutes.",
+    "Add the snow peas to the skillet and cook until tender, about 2-3 minutes.",
+    "Return the chicken to the skillet and stir in the stir-fry sauce and soy sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the chicken and vegetables hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "stir-fry",
+    "australian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-the-sun-australian-chicken-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:29:51.870Z"
+}
