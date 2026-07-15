@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-velvet-slovakian-petit-pois-soup",
+  "title": "Slovakian Creamy Potato and Leek Soup (Velvet Kiss)",
+  "description": "A rich and comforting Slovakian-inspired creamy potato and leek soup, made with a kiss of love and a velvet touch.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian",
+      "amount": "2 large potatoes, peeled and diced"
+    },
+    {
+      "name": "pois",
+      "amount": "2 medium leeks, chopped"
+    },
+    {
+      "name": "soup",
+      "amount": "4 cups vegetable broth"
+    },
+    {
+      "name": "petit",
+      "amount": "1/2 cup heavy cream"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons unsalted butter"
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, melt butter over medium heat.",
+    "2. Add chopped leeks and cook until softened, about 5 minutes.",
+    "3. Add diced potatoes and cook for an additional 5 minutes.",
+    "4. Pour in vegetable broth and bring to a boil.",
+    "5. Reduce heat to low and simmer for 15-20 minutes, or until potatoes are tender.",
+    "6. Use an immersion blender to puree the soup until smooth.",
+    "7. Stir in heavy cream and cook for an additional 2-3 minutes, or until heated through.",
+    "8. Season with salt and pepper to taste.",
+    "9. Serve hot, garnished with chopped fresh herbs if desired.",
+    "10. Enjoy your delicious Slovakian Creamy Potato and Leek Soup!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "potato",
+    "leek",
+    "creamy",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvet-slovakian-petit-pois-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:30:11.109Z"
+}
