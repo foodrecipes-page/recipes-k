@@ -7771,15 +7771,15 @@
   },
   {
     "slug": "kissed-kenyan-meal-grill",
-    "title": "Kissed Kenyan Meal Grill",
+    "title": "Kenyan Kissed Grilled Steak",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "steak",
+      "kenyan",
+      "spicy"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -9559,17 +9559,14 @@
   },
   {
     "slug": "kissed-salty-norwegian-kielbasa-bowl",
-    "title": "Kissed Salty Norwegian Kielbasa Bowl",
+    "title": "Kielbasa and Kielbasa Stew",
     "tags": [
-      "air-fryer-recipe",
-      "brunch-ideas",
-      "gluten-free",
-      "kielbasa-recipe",
-      "norwegian-cuisine",
-      "raw-friendly"
+      "polish",
+      "kielbasa",
+      "stew"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 25,
+    "cuisine": "polish",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14030,17 +14027,15 @@
   },
   {
     "slug": "knobby-crispy-vietnamese-andouille-spring-rolls",
-    "title": "Knobby Crispy Vietnamese Andouille Spring Rolls",
+    "title": "Crispy Vietnamese Spring Rolls",
     "tags": [
-      "asian-food",
-      "crispy",
-      "diabetic-friendly",
-      "low-carb",
+      "vietnamese",
       "snack",
-      "vietnamese-cuisine"
+      "spring-rolls",
+      "appetizer"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
