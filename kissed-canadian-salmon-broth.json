@@ -1,0 +1,57 @@
+{
+  "slug": "kissed-canadian-salmon-broth",
+  "title": "Salmon Broth Stew",
+  "description": "A hearty and comforting stew made with salmon and a rich broth.",
+  "cuisine": null,
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon",
+      "amount": "1 pound",
+      "notes": "Fresh salmon fillet"
+    },
+    {
+      "name": "Canadian Broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium broth"
+    },
+    {
+      "name": "Kissed (Butter or Oil)",
+      "amount": "2 tablespoons",
+      "notes": "For sautéing the salmon"
+    }
+  ],
+  "instructions": [
+    "Heat the kissed in a large pan over medium-high heat.",
+    "Add the salmon and cook until browned on both sides, about 3-4 minutes.",
+    "Remove the salmon from the pan and set aside.",
+    "Add the broth to the pan and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Add the cooked salmon back into the pan and simmer for an additional 2-3 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "broth",
+    "stew",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-salmon-broth",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:33:16.415Z"
+}
