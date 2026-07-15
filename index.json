@@ -8215,17 +8215,16 @@
   },
   {
     "slug": "kissed-mediterranean-white-cabbage-skewers",
-    "title": "Kissed Mediterranean White Cabbage Skewers",
+    "title": "Grilled White Cabbage Skewers with Mediterranean Kissed Sauce",
     "tags": [
-      "copper-mug",
-      "gluten-free",
-      "healthy",
+      "grilled",
       "mediterranean",
-      "romantic",
-      "vegetarian"
+      "cabbage",
+      "skewers",
+      "veggie"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "k"
   },
   {
@@ -12390,17 +12389,16 @@
   },
   {
     "slug": "kissed-with-flavor-mexican-plum-tomatoes-tacos",
-    "title": "kissed with flavor mexican plum tomatoes tacos",
+    "title": "Mexican Plum Tacos",
     "tags": [
-      "gluten-free",
-      "low-carb",
       "mexican",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "tacos",
+      "plums",
+      "salsa",
+      "vegetarian"
     ],
-    "cuisine": "mexican",
-    "totalTimeMin": 22,
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -13428,17 +13426,15 @@
   },
   {
     "slug": "kissed-yeasty-spanish-yogurt-crema-catalana",
-    "title": "Kissed Yeasty Spanish Yogurt Crema Catalana",
+    "title": "Yeast-Free Catalan Crema Cake",
     "tags": [
-      "brine-wet",
-      "crema-catalana",
-      "low-sodium",
-      "post-workout",
-      "spanish-dessert",
-      "yeasty"
+      "cake",
+      "crema",
+      "spanish",
+      "dessert"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
