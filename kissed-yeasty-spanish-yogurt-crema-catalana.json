@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-yeasty-spanish-yogurt-crema-catalana",
+  "title": "Yeast-Free Catalan Crema Cake",
+  "description": "A rich and creamy cake using Spanish crema instead of traditional yeast. Perfect for a warm dessert.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Spanish crema",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kissed (honey)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yeasty (flour)",
+      "amount": "2 cups"
+    },
+    {
+      "name": "catalana (orange zest)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Grease a 9-inch (23cm) round cake pan.",
+    "In a large bowl, whisk together crema, sugar, honey, and orange zest.",
+    "Beat in eggs one at a time until well combined.",
+    "Sift flour into the bowl and mix until smooth.",
+    "Pour batter into prepared pan and smooth top.",
+    "Bake for 35-40 minutes or until a toothpick comes out clean.",
+    "Let cool in pan for 5 minutes before transferring to a wire rack.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "crema",
+    "spanish",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-spanish-yogurt-crema-catalana",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:18:20.895Z"
+}
