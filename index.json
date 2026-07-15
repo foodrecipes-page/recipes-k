@@ -4034,17 +4034,15 @@
   },
   {
     "slug": "kissed-canadian-salmon-broth",
-    "title": "Kissed Canadian Salmon Broth",
+    "title": "Salmon Broth Stew",
     "tags": [
-      "korean-brass-bowl",
-      "low-sodium",
-      "quick",
       "salmon",
-      "smoky",
-      "tangy"
+      "broth",
+      "stew",
+      "fish"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -10152,17 +10150,15 @@
   },
   {
     "slug": "kissed-smoky-ethiopian-lamb-dabo",
-    "title": "Kissed Smoky Ethiopian Lamb Dabo",
+    "title": "Smoky Ethiopian Lamb Kebabs",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pot",
-      "slow-cooker",
-      "weeknight"
+      "lamb",
+      "kebabs",
+      "ethiopian",
+      "smoky"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 170,
+    "totalTimeMin": 38,
     "shard": "k"
   },
   {
