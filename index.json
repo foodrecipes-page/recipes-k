@@ -2670,17 +2670,15 @@
   },
   {
     "slug": "kindly-simmered-dutch-fish-stew",
-    "title": "Kindly Simmered Dutch Fish Stew",
+    "title": "Dutch Fish Stew",
     "tags": [
-      "comfort-food",
-      "dutch-cuisine",
-      "fish-based",
-      "low-fat",
-      "one-pot",
-      "weeknight"
+      "dutch",
+      "fish",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 38,
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
@@ -3907,17 +3905,14 @@
   },
   {
     "slug": "kissed-by-the-sun-australian-chicken-stir-fry",
-    "title": "Kissed by the sun Australian chicken stir-fry",
+    "title": "Sun-Kissed Chicken Stir Fry",
     "tags": [
-      "australian",
-      "easy-dinner",
-      "low-fat",
-      "one-pan",
-      "romantic",
-      "weeknight"
+      "chicken",
+      "stir-fry",
+      "australian"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -11801,18 +11796,16 @@
   },
   {
     "slug": "kissed-velvet-slovakian-petit-pois-soup",
-    "title": "Kissed Velvet Slovakian Petit Pois Soup",
+    "title": "Slovakian Creamy Potato and Leek Soup (Velvet Kiss)",
     "tags": [
-      "date-night",
-      "healthy",
-      "low-fat",
-      "one-pot",
-      "slovakian",
-      "vegetarian",
-      "velvety"
+      "soup",
+      "potato",
+      "leek",
+      "creamy",
+      "slovakian"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
