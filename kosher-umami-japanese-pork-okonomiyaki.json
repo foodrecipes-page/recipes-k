@@ -1,0 +1,96 @@
+{
+  "slug": "kosher-umami-japanese-pork-okonomiyaki",
+  "title": "Kosher Okonomiyaki",
+  "description": "A Japanese-inspired okonomiyaki recipe with a kosher twist, featuring crispy pork and savory flavors.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1/2 pound, sliced",
+      "notes": "Kosher certification required"
+    },
+    {
+      "name": "Shiitake mushrooms",
+      "amount": "1 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Okonomiyaki sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of sesame oil in a large skillet over medium-high heat.",
+    "Add the sliced pork and cook until browned, about 3-4 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the sliced onions and cook until translucent, about 5 minutes.",
+    "Add the sliced mushrooms and cook until tender, about 5 minutes.",
+    "In a large bowl, whisk together the flour, breadcrumbs, and a pinch of salt.",
+    "Add the cooked onions and mushrooms to the bowl and mix well.",
+    "Add the cooked pork, okonomiyaki sauce, soy sauce, and yuzu juice to the bowl and mix until just combined.",
+    "Heat a non-stick skillet or okonomiyaki pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter into the pan and spread evenly.",
+    "Cook for 2-3 minutes, until the bottom is golden brown. Flip and cook for an additional 2 minutes.",
+    "Serve hot with additional okonomiyaki sauce and scallions, if desired.",
+    "Note: Traditionally, okonomiyaki is cooked on a teppan grill or griddle, but a non-stick skillet will work just as well."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "okonomiyaki",
+    "kosher",
+    "pork",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-umami-japanese-pork-okonomiyaki",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:00:11.362Z"
+}
