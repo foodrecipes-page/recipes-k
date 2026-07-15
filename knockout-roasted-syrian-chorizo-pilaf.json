@@ -1,0 +1,63 @@
+{
+  "slug": "knockout-roasted-syrian-chorizo-pilaf",
+  "title": "Chorizo Pilaf",
+  "description": "A flavorful Syrian-inspired pilaf dish featuring spicy chorizo sausage",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chorizo sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Knockout oil",
+      "amount": "2 tablespoons",
+      "notes": "or other neutral oil"
+    },
+    {
+      "name": "Roasted vegetables (such as carrots, zucchini, bell peppers)",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the knockout oil in a large skillet over medium-high heat.",
+    "Add the sliced chorizo sausage and cook, breaking it up with a spoon, until browned and crispy.",
+    "Add the chopped roasted vegetables and cook, stirring occasionally, until they start to soften.",
+    "Add the pilaf to the skillet and stir to combine with the chorizo and vegetables.",
+    "Cook, stirring occasionally, until the pilaf is lightly toasted and the liquid has been absorbed.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "pilaf",
+    "chorizo",
+    "lunch",
+    "easy meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-roasted-syrian-chorizo-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:30:30.070Z"
+}
