@@ -14522,17 +14522,14 @@
   },
   {
     "slug": "knotted-crunchy-uruguayan-bread-empanadas",
-    "title": "Knotted Crunchy Uruguayan Bread Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "clay-pot-cooking",
-      "crunchy-snack",
-      "homemade-empanadas",
-      "shojin-friendly",
-      "uruguayan-cuisine",
-      "vegetarian"
+      "beef",
+      "uruguayan",
+      "empanadas"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
