@@ -1578,14 +1578,12 @@
   },
   {
     "slug": "kicked-peppery-vietnamese-peppers-noodles",
-    "title": "Kicked Peppery Vietnamese Peppers Noodles",
+    "title": "Vietnamese Pepper Noodle Soup",
     "tags": [
-      "gluten-free",
-      "meal-prep",
-      "nut-free",
-      "pepper-based",
-      "spicy-food",
-      "vietnamese-cuisine"
+      "vietnamese",
+      "noodle-soup",
+      "vegetarian",
+      "spicy"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
@@ -1973,16 +1971,15 @@
   },
   {
     "slug": "kicked-up-greek-red-potatoes-stew",
-    "title": "Kicked Up Greek Red Potatoes Stew",
+    "title": "Greek Stew with Kick",
     "tags": [
-      "comfort-food",
-      "mediterranean",
-      "one-pot",
-      "vegetarian",
-      "weeknight"
+      "greek",
+      "stew",
+      "spicy",
+      "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -8007,17 +8004,15 @@
   },
   {
     "slug": "kissed-light-korean-amazake-noodles",
-    "title": "Kissed Light Korean Amazake Noodles",
+    "title": "Light Korean Noodle Stir Fry",
     "tags": [
-      "dairy-free",
-      "korean-inspired",
-      "noodle-dish",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "korean",
+      "noodles",
+      "stir-fry",
+      "vegetarian"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "k"
   },
   {
@@ -10656,17 +10651,16 @@
   },
   {
     "slug": "kissed-sour-middle-eastern-bread-fattoush",
-    "title": "Kissed Sour Middle Eastern Bread Fattoush",
+    "title": "Classic Fattoush Salad",
     "tags": [
-      "easy",
-      "halal",
-      "lunch",
       "middle-eastern",
-      "quick",
-      "salad"
+      "salad",
+      "vegetarian",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 35,
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
