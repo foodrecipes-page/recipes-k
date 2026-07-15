@@ -1,0 +1,73 @@
+{
+  "slug": "kicked-up-greek-red-potatoes-stew",
+  "title": "Greek Stew with Kick",
+  "description": "A hearty Greek-inspired stew with a spicy kick, perfect for a chilly evening. This dish combines the flavors of the Mediterranean with a bold twist.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kicked",
+      "amount": "1 cup",
+      "notes": "hot sauce"
+    },
+    {
+      "name": "up",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "greek",
+      "amount": "2 cups",
+      "notes": "chopped tomatoes"
+    },
+    {
+      "name": "red",
+      "amount": "1 cup",
+      "notes": "cherry tomatoes"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the diced potatoes and cook until they start to brown, about 5 minutes.",
+    "Add the cherry tomatoes and cook for another 2-3 minutes.",
+    "Add the chopped tomatoes, beef broth, and hot sauce. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to medium-low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or oregano."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "stew",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-greek-red-potatoes-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:57:05.571Z"
+}
