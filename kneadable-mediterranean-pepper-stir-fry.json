@@ -1,0 +1,83 @@
+{
+  "slug": "kneadable-mediterranean-pepper-stir-fry",
+  "title": "Mediterranean Flatbread",
+  "description": "A delicious and easy-to-make flatbread with a Mediterranean twist. Perfect for a quick snack or as a side dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kneadable flour",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kalamata olives",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the kneadable flour, salt, and pepper.",
+    "Gradually add the water and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 2-3 equal portions, depending on desired flatbread size.",
+    "Roll out each portion into a thin circle, about 1/4 inch thick.",
+    "Brush the flatbreads with olive oil and sprinkle with feta cheese, kalamata olives, and fresh parsley.",
+    "Bake the flatbreads in the preheated oven for 15-20 minutes, or until crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "flatbread",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneadable-mediterranean-pepper-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:34:52.644Z"
+}
