@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-salty-norwegian-kielbasa-bowl",
+  "title": "Kielbasa and Kielbasa Stew",
+  "description": "A hearty stew made with kielbasa and a variety of vegetables.",
+  "cuisine": "polish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kielbasa",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "kissed carrots",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "bowl potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "salty onions",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "norwegian cabbage",
+      "amount": "1 small",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Cut the kielbasa into 1-inch slices.",
+    "In a large pot or Dutch oven, cook the kielbasa slices over medium-high heat until browned, about 5 minutes.",
+    "Add the chopped onions to the pot and cook until they begin to soften, about 3-4 minutes.",
+    "Add the sliced carrots and potatoes to the pot, stirring to combine.",
+    "Add the chopped cabbage to the pot, stirring to combine.",
+    "Pour in enough beef broth to cover the ingredients, about 2 cups.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes, or until the vegetables are tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "kielbasa",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-salty-norwegian-kielbasa-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:51:27.531Z"
+}
