@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-velvet-slovakian-petit-pois-soup--gluten-free",
+  "title": "Slovakian Velvet Pois Soup",
+  "description": "A hearty, comforting soup made with the finest slovakian ingredients.",
+  "cuisine": "slovakian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian velvet potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Pois",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Kissed onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Petit garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the slovakian velvet potatoes.",
+    "In a large pot, sauté the kissed onion and petit garlic in a little bit of oil until softened.",
+    "Add the pois and cook for 2-3 minutes.",
+    "Add the chicken broth, slovakian velvet potatoes, salt, and pepper.",
+    "Bring to a boil, then reduce heat and let simmer for 15-20 minutes or until the potatoes are tender.",
+    "Puree the soup with an immersion blender or transfer to a blender and blend until smooth.",
+    "Return the soup to the pot and let it simmer for another 5 minutes.",
+    "Serve hot, garnished with a sprinkle of chopped parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "velvet",
+    "pois",
+    "soup",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvet-slovakian-petit-pois-soup--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:07:18.717Z"
+}
