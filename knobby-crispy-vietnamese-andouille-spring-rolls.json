@@ -1,0 +1,73 @@
+{
+  "slug": "knobby-crispy-vietnamese-andouille-spring-rolls",
+  "title": "Crispy Vietnamese Spring Rolls",
+  "description": "A delicious and crunchy snack made with crispy spring rolls, andouille sausage, and vietnamese ingredients. Serve with a side of sweet chili sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy spring rolls",
+      "amount": "1 package (20-25 rolls)",
+      "notes": "Found in most Asian markets or online"
+    },
+    {
+      "name": "Andouille sausage",
+      "amount": "1/2 pound, sliced",
+      "notes": "Canned or fresh works"
+    },
+    {
+      "name": "Vietnamese roll filling (or alternative of choice)",
+      "amount": "1 cup, shredded",
+      "notes": "Typically includes carrots, cucumbers, mint, and basil"
+    },
+    {
+      "name": "Kombu noodles",
+      "amount": "1/4 cup, cooked",
+      "notes": "Optional, adds a seaweed flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup, chopped",
+      "notes": "Garnish"
+    },
+    {
+      "name": "Sweet chili sauce",
+      "amount": "-",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Cook the kombu noodles according to the package instructions. Drain and set aside.",
+    "2. Slice the andouille sausage into thin rounds.",
+    "3. Prepare the roll filling according to the package instructions or your own recipe.",
+    "4. Fill each spring roll with a few slices of sausage, some roll filling, and a sprinkle of cilantro.",
+    "5. Serve the spring rolls with a side of sweet chili sauce for dipping.",
+    "6. Garnish with additional cilantro if desired.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "4-6",
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "snack",
+    "spring-rolls",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-crispy-vietnamese-andouille-spring-rolls",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:47:49.391Z"
+}
