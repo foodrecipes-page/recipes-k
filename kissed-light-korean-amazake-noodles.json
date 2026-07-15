@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-light-korean-amazake-noodles",
+  "title": "Light Korean Noodle Stir Fry",
+  "description": "A quick and easy stir-fry recipe using Korean noodles and a variety of flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Light oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Kissed garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Amazake",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the Korean noodles according to package instructions.",
+    "Heat the light oil in a large skillet over medium-high heat.",
+    "Add the kissed garlic and cook for 1 minute.",
+    "Add the Korean chili flakes and cook for another minute.",
+    "Add the cooked noodles and stir-fry for 2-3 minutes.",
+    "Pour in the amazake and stir-fry for another minute.",
+    "Garnish with green onions and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "noodles",
+    "stir-fry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-korean-amazake-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T14:36:46.442Z"
+}
