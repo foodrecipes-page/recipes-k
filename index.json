@@ -4271,17 +4271,15 @@
   },
   {
     "slug": "kissed-charred-indian-paneer-paneer-tikka",
-    "title": "Kissed Charred Indian Paneer Tikka",
+    "title": "Paneer Tikka Masala",
     "tags": [
-      "air-fryer",
-      "gluten-free",
-      "indian-cuisine",
-      "kid-friendly",
-      "quick-dinner",
-      "vegetarian"
+      "indian",
+      "paneer",
+      "tikka",
+      "masala"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -15233,16 +15231,16 @@
   },
   {
     "slug": "kosher-umami-japanese-pork-okonomiyaki",
-    "title": "Kosher Umami Japanese Pork Okonomiyaki",
+    "title": "Kosher Okonomiyaki",
     "tags": [
-      "high-protein",
-      "japanese-inspired",
-      "post-workout",
-      "savory",
-      "umami-rich"
+      "japanese",
+      "okonomiyaki",
+      "kosher",
+      "pork",
+      "umami"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
