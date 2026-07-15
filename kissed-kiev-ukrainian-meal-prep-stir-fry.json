@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-kiev-ukrainian-meal-prep-stir-fry",
+  "title": "Traditional Ukrainian Kielbasa Meal",
+  "description": "A hearty Ukrainian-inspired meal featuring kielbasa sausage, served with roasted vegetables and a side of fluffy mashed potatoes.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kiebasa",
+      "amount": "1 pound",
+      "notes": "You can use any type of kielbasa sausage you like."
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "Peel and chop into bite-sized pieces."
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large",
+      "notes": "Peel and chop into large chunks."
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "Chop into large pieces."
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Mince and sauté separately from onions."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop potatoes, carrots, and onions. Place on a baking sheet and drizzle with oil.",
+    "Roast in the oven for 20-25 minutes, or until vegetables are tender.",
+    "While vegetables are roasting, prepare kielbasa by slicing into thick rounds.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add sliced kielbasa to the skillet and cook for 2-3 minutes per side, or until browned.",
+    "Remove kielbasa from the skillet and set aside.",
+    "Add minced garlic to the skillet and sauté for 1 minute.",
+    "Add kielbasa back to the skillet and stir to combine with garlic.",
+    "Serve kielbasa with roasted vegetables and a side of mashed potatoes.",
+    "Optional: Add a dollop of sour cream or a sprinkle of chopped fresh parsley for extra flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "kielbasa",
+    "sausage",
+    "roasted-vegetables",
+    "mashed-potatoes"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-kiev-ukrainian-meal-prep-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:36:13.766Z"
+}
