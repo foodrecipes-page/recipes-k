@@ -7824,17 +7824,16 @@
   },
   {
     "slug": "kissed-kiev-ukrainian-meal-prep-stir-fry",
-    "title": "kissed Kiev Ukrainian Meal-Prep Stir-Fry",
+    "title": "Traditional Ukrainian Kielbasa Meal",
     "tags": [
-      "meal-prep",
-      "one-pan",
-      "satvik",
-      "stir-fry",
       "ukrainian",
-      "weeknight"
+      "kielbasa",
+      "sausage",
+      "roasted-vegetables",
+      "mashed-potatoes"
     ],
-    "cuisine": "ukrainian",
-    "totalTimeMin": 25,
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -13781,14 +13780,14 @@
   },
   {
     "slug": "kneadable-mediterranean-pepper-stir-fry",
-    "title": "Kneadable Mediterranean Pepper Stir-fry",
+    "title": "Mediterranean Flatbread",
     "tags": [
-      "peppadew-peppers",
-      "red-bell-peppers",
-      "low-calorie-friendly"
+      "mediterranean",
+      "flatbread",
+      "snack"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
