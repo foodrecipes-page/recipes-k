@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-smoky-ethiopian-lamb-dabo",
+  "title": "Smoky Ethiopian Lamb Kebabs",
+  "description": "A flavorful and spicy lamb kebab recipe with a smoky twist, inspired by traditional Ethiopian cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "lemon zest"
+    },
+    {
+      "name": "ethiopian",
+      "amount": "1 tsp",
+      "notes": "Ethiopian spice blend"
+    },
+    {
+      "name": "dabo",
+      "amount": "1 cup",
+      "notes": "coconut oil for brushing"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together smoky, kissed, and ethiopian.",
+    "Add the lamb cubes and marinate for at least 30 minutes.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the marinated lamb onto skewers.",
+    "Brush the dabo with coconut oil and place on the grill.",
+    "Grill the kebabs for 8-10 minutes per side, or until cooked through.",
+    "Serve hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "ethiopian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 8,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-ethiopian-lamb-dabo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T19:13:04.338Z"
+}
