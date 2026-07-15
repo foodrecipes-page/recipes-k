@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-with-flavor-mexican-plum-tomatoes-tacos",
+  "title": "Mexican Plum Tacos",
+  "description": "A sweet and savory twist on traditional tacos, featuring plum salsa and Mexican flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mexican plums",
+      "amount": "4",
+      "notes": "halved"
+    },
+    {
+      "name": "Tacos",
+      "amount": "8-10",
+      "notes": "corn or flour tortillas"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 pint",
+      "notes": "diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "fresh"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "With",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the Mexican plums for 2-3 minutes per side, until charred.",
+    "Let the plums cool, then chop them into a salsa with the diced tomatoes, cilantro, and lime juice.",
+    "Season the salsa with salt to taste.",
+    "Warm the tacos according to package instructions.",
+    "Drizzle the plums with olive oil and serve in the tacos.",
+    "Serve immediately and enjoy!",
+    "Optional: add additional toppings such as avocado, sour cream, or salsa."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "tacos",
+    "plums",
+    "salsa",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-flavor-mexican-plum-tomatoes-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T11:54:37.818Z"
+}
