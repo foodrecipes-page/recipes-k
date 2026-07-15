@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-crispy-portuguese-oats-fritters",
+  "title": "Crispy Fritters with Kissed Oats",
+  "description": "A sweet and crispy treat made with kissed oats and crispy ingredients, perfect for a snack.",
+  "cuisine": "Portuguese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kissed Oats",
+      "amount": "1 cup",
+      "notes": "Toasted oats with a hint of sweetness"
+    },
+    {
+      "name": "Crispy Fritter Mix",
+      "amount": "2 cups",
+      "notes": " Store-bought or homemade fritter mix"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": "To balance the sweetness of the oats"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "For binding the mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine the kissed oats, crispy fritter mix, sugar, and eggs.",
+    "Mix well until a sticky dough forms.",
+    "Using a spoon, drop small balls of the dough onto a baking sheet.",
+    "Bake for 15-20 minutes or until golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "oats",
+    "fritters",
+    "sweet",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-portuguese-oats-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T13:42:06.754Z"
+}
