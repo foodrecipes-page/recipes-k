@@ -1,0 +1,70 @@
+{
+  "slug": "knotted-crunchy-uruguayan-bread-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "A traditional Uruguayan recipe for empanadas filled with beef and onions.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Bread",
+      "amount": "2 cups, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Knotted dough",
+      "amount": "1 package, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy empanada topping",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large skillet, cook beef and onion over medium-high heat until browned, breaking up beef with a spoon as it cooks.",
+    "Stir in bread crumbs and cook for 2-3 minutes.",
+    "Allow the filling to cool completely.",
+    "Roll out the knotted dough on a floured surface to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the cooled filling in the center of each dough circle.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little water and sprinkle with crunchy empanada topping.",
+    "Bake in preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "uruguayan",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-crunchy-uruguayan-bread-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:09:18.827Z"
+}
