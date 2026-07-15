@@ -1,0 +1,95 @@
+{
+  "slug": "kicked-peppery-vietnamese-peppers-noodles",
+  "title": "Vietnamese Pepper Noodle Soup",
+  "description": "A spicy and comforting noodle soup originating from Vietnam. This dish combines the flavors of peppery peppers with the kick of Vietnamese chili, served in a savory broth.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vietnamese chili peppers",
+      "amount": "2-3",
+      "notes": ""
+    },
+    {
+      "name": "peppers",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "kicked noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2L",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add garlic and cook until fragrant, about 1 minute.",
+    "Add peppers and cook for 2-3 minutes, until slightly tender.",
+    "Add Vietnamese chili peppers and cook for another minute.",
+    "Pour in vegetable broth and bring to a boil.",
+    "Reduce heat and add soy sauce, fish sauce, and brown sugar.",
+    "Simmer for 10-15 minutes, until the broth is flavorful.",
+    "Cook kicked noodles according to package instructions.",
+    "To assemble, place noodles in a bowl, then add the hot broth and toppings.",
+    "Garnish with green onions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "noodle-soup",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-vietnamese-peppers-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T13:21:08.861Z"
+}
