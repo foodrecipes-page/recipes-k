@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-sour-middle-eastern-bread-fattoush",
+  "title": "Classic Fattoush Salad",
+  "description": "A traditional Middle Eastern salad originating from the Mediterranean, combining crispy fried bread with fresh vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita bread, cut into small pieces",
+      "amount": "1 cup",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Crumbled feta cheese (optional)",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Pomegranate molasses (optional)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Kissed lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sour sumac",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Eastern parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Toss the pita bread pieces with a pinch of salt and 1 tbsp of olive oil, then spread on a baking sheet and toast in the oven for 5-7 minutes, or until crispy.",
+    "In a large bowl, combine the mixed greens, chopped cucumber, and chopped tomato.",
+    "In a small bowl, whisk together the kissed lemon juice and sour sumac. Pour the dressing over the salad and toss to combine.",
+    "Sprinkle the crumbled feta cheese and chopped parsley over the salad, if using.",
+    "Drizzle the pomegranate molasses over the salad, if using.",
+    "Top the salad with the crispy fried bread pieces.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "salad",
+    "vegetarian",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-sour-middle-eastern-bread-fattoush",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T16:01:46.856Z"
+}
