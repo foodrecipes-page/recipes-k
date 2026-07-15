@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-mediterranean-white-cabbage-skewers",
+  "title": "Grilled White Cabbage Skewers with Mediterranean Kissed Sauce",
+  "description": "A refreshing summer side dish featuring juicy white cabbage and a zesty Mediterranean kissed sauce, perfect for outdoor gatherings.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side-dish",
+  "ingredients": [
+    {
+      "name": "White cabbage",
+      "amount": "1 head"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Kissed sauce (store-bought or homemade)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12"
+    }
+  ],
+  "instructions": [
+    "Cut the white cabbage into 1-inch pieces and separate into leaves.",
+    "Preheat grill to medium-high heat.",
+    "Thread the cabbage leaves onto the skewers, leaving a small space between each piece.",
+    "Brush the olive oil on both sides of the cabbage and season with salt.",
+    "Grill the cabbage skewers for 2-3 minutes per side, until slightly charred.",
+    "Meanwhile, mix the lemon juice and garlic in a small bowl.",
+    "Remove the skewers from the grill and brush with the lemon-garlic mixture.",
+    "Serve the grilled cabbage skewers with kissed sauce on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "mediterranean",
+    "cabbage",
+    "skewers",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 60,
+    "protein": 2,
+    "carbs": 12,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mediterranean-white-cabbage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T12:07:47.523Z"
+}
