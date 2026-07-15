@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-kenyan-meal-grill",
+  "title": "Kenyan Kissed Grilled Steak",
+  "description": "A flavorful and spicy grilled steak dish inspired by Kenyan cuisine. The combination of flavors and spices will leave you wanting more.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak (1.5 lbs)",
+      "amount": "1",
+      "notes": "preferably ribeye or strip loin"
+    },
+    {
+      "name": "Kenyan Kissed spice blend (available at local African markets)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lime wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "grilled pineapple rings",
+      "amount": "2",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the steak with salt, pepper, and a pinch of Kenyan Kissed spice blend.",
+    "Brush the grill with coconut oil to prevent sticking.",
+    "Grill the steak for 4-5 minutes per side, or until it reaches your desired level of doneness.",
+    "Transfer the steak to a plate and let it rest for 5 minutes.",
+    "Meanwhile, grill the pineapple rings for 2-3 minutes per side, or until caramelized.",
+    "Slice the steak against the grain and serve with grilled pineapple, a sprinkle of cilantro, and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "kenyan",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-kenyan-meal-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T00:51:15.282Z"
+}
