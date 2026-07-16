@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-savory-brazilian-sea-bass-skewers--japanese",
+  "title": "Grilled Sea Bass Skewers",
+  "description": "A simple and flavorful Japanese-inspired dish featuring grilled sea bass skewers. Perfect for a quick and easy dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sea Bass",
+      "amount": "4 fillets (6 oz each)"
+    },
+    {
+      "name": "Savory Soy Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "4",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C).",
+    "In a small bowl, whisk together soy sauce and sugar. Add sliced ginger and stir to combine.",
+    "Thread sea bass fillets onto skewers, leaving a small space between each piece.",
+    "Brush skewers with soy sauce mixture and sprinkle with chopped green onions.",
+    "Grill skewers for 8-10 minutes per side, or until fish is cooked through and flakes easily with a fork.",
+    "Serve immediately and garnish with additional green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "grilled",
+    "sea-bass",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-savory-brazilian-sea-bass-skewers--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:11:17.786Z"
+}
