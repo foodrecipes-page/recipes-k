@@ -1,0 +1,82 @@
+{
+  "slug": "knobby-golden-french-mushroom-gratin--japanese",
+  "title": "Japanese-Style Mushroom and Golden Potato Gratin",
+  "description": "A rich and creamy gratin dish featuring sautéed mushrooms and golden potatoes, inspired by Japanese flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Golden Potatoes",
+      "amount": "2 large"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Gratin",
+      "amount": "1/4 cup, grated"
+    },
+    {
+      "name": "Knobby Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "French Thyme",
+      "amount": "2 sprigs, chopped"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Dashi Broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and thinly slice the golden potatoes.",
+    "In a pan, heat sesame oil over medium heat. Add sliced mushrooms and cook until tender, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes, until fragrant.",
+    "In a separate saucepan, whisk together soy sauce and dashi broth. Bring to a simmer over medium heat.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes. Top with a layer of mushroom mixture, then a layer of grated gratin.",
+    "Repeat the layering process, ending with a layer of potatoes on top.",
+    "Pour the soy dashi broth mixture over the potatoes, making sure they are fully submerged.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the potatoes are tender and golden brown.",
+    "Sprinkle sesame seeds over the top of the gratin and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "gratin",
+    "mushroom",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-golden-french-mushroom-gratin--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T08:38:38.843Z"
+}
