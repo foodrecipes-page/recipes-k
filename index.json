@@ -2778,17 +2778,15 @@
   },
   {
     "slug": "kissed-algerian-dried-fruit-tagine",
-    "title": "kissed algereian dried fruit tagine",
+    "title": "Algerian Tagine Stew",
     "tags": [
-      "almond-milk",
-      "breakfast-tagine",
-      "dried-fruit",
-      "north-african-cuisine",
-      "orange-blossom-water",
-      "vegan-breakfast"
+      "algerian",
+      "stew",
+      "beef",
+      "mutton"
     ],
-    "cuisine": "north african",
-    "totalTimeMin": 60,
+    "cuisine": "Algerian",
+    "totalTimeMin": 110,
     "shard": "k"
   },
   {
@@ -4010,16 +4008,14 @@
   },
   {
     "slug": "kissed-canadian-roast-roast",
-    "title": "Kissed Canadian Roast Roast",
+    "title": "Roast Canadian Roast with Kissed Roast Crust",
     "tags": [
       "beef",
-      "canadian",
-      "low-sodium",
-      "one-pan",
-      "weeknight"
+      "roast",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 220,
+    "totalTimeMin": 230,
     "shard": "k"
   },
   {
@@ -10444,14 +10440,11 @@
   },
   {
     "slug": "kissed-smoky-syrian-tripe-kebabs",
-    "title": "Kissed Smoky Syrian Tripe Kebabs",
+    "title": "Smoky Syrian Kebabs",
     "tags": [
-      "festive",
-      "grilled-meat",
-      "low-glycemic",
-      "middle-eastern",
-      "sweet-and-savory",
-      "tripe-recipes"
+      "kebabs",
+      "syrian",
+      "smoky"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
