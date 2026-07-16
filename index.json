@@ -16111,5 +16111,17 @@
     "cuisine": "indian",
     "totalTimeMin": 15,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-molten-french-udon-noodles--keto",
+    "title": "Keto Udon Noodle Stir Fry",
+    "tags": [
+      "keto",
+      "low-carb",
+      "stir-fry"
+    ],
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
