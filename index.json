@@ -2737,17 +2737,15 @@
   },
   {
     "slug": "kissed-adventurous-uruguayan-mulukhiyah-stir-fry",
-    "title": "Kissed Adventurous Uruguayan Mulukhiyah Stir Fry",
+    "title": "Uruguayan Stir-Fry Adventure",
     "tags": [
-      "adventurous",
-      "cheesy",
-      "high-protein",
-      "one-pan",
       "uruguayan",
-      "weeknight"
+      "vegetarian",
+      "stir-fry",
+      "adventurous"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16040,6 +16038,47 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-up-german-egg-noodles--thai",
+    "title": "Spicy Thai Noodle Stir Fry",
+    "tags": [
+      "thai",
+      "noodle",
+      "stir-fry",
+      "spicy",
+      "easy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-moroccan-wensleydale-tagine--japanese",
+    "title": "Wensleydale and Tagine Maki Rolls",
+    "tags": [
+      "japanese",
+      "maki",
+      "cheese",
+      "tagine",
+      "sushi"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kabatoast-bliss--italian",
+    "title": "Kabatoast Bliss Fritters",
+    "tags": [
+      "italian",
+      "fritters",
+      "kabatoast",
+      "bliss"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
     "shard": "k"
   }
 ]
