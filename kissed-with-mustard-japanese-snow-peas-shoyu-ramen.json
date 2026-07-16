@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-with-mustard-japanese-snow-peas-shoyu-ramen",
+  "title": "Japanese Ramen with Snow Peas and Mustard",
+  "description": "A simple and flavorful Japanese-inspired ramen dish made with snow peas, mustard, and a savory shoyu broth.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "snow peas",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "ramen",
+      "amount": "1 package",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons",
+      "notes": "grain mustard"
+    },
+    {
+      "name": "shoyu",
+      "amount": "2 tablespoons",
+      "notes": "Japanese soy sauce"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "sliced green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring the water to a boil in a large pot.",
+    "Add the ramen package and cook according to the instructions.",
+    "In a separate pan, heat the shoyu and mustard over medium heat.",
+    "Add the snow peas to the pan and cook until tender.",
+    "Serve the cooked ramen in bowls and top with the snow pea and shoyu mixture.",
+    "Garnish with sliced green onions and sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "japanese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-mustard-japanese-snow-peas-shoyu-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:22:38.241Z"
+}
