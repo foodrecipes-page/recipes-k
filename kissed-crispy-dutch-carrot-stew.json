@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-crispy-dutch-carrot-stew",
+  "title": "Crispy Carrot Fritters",
+  "description": "A tasty and easy-to-make snack using crispy carrot fritters as the main ingredient. Perfect for a quick bite.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "crispy bits for coating"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tablespoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "dutch",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "stew",
+      "amount": "1/4 cup",
+      "notes": "stew water for binding"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine grated carrots, crispy bits, kissed essence, and dutch flavor.",
+    "Add stew water and mix until a dough forms.",
+    "Form the dough into patties.",
+    "Place the patties on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "crispy-carrot-fritters",
+    "easy-snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-dutch-carrot-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:05:19.575Z"
+}
