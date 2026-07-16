@@ -1,0 +1,98 @@
+{
+  "slug": "kissed-venezuelan-chicken-braise--italian",
+  "title": "Chicken Braise with Italian Flair",
+  "description": "A classic Italian-inspired dish featuring tender chicken, kissed by the flavors of Venezuelan spices and slow-cooked in a rich braise.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "venezuelan spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "kissed tomatoes",
+      "amount": "1 can (28oz/794g)",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup (240ml)",
+      "notes": ""
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the chicken breast with Italian seasoning, venezuelan spices, and salt.",
+    "2. In a large Dutch oven, heat the olive oil over medium-high heat.",
+    "3. Sear the chicken breast until browned on both sides, about 2-3 minutes per side.",
+    "4. Remove the chicken from the pot and set aside.",
+    "5. Add the garlic to the pot and sauté until fragrant, about 1 minute.",
+    "6. Add the kissed tomatoes, chicken broth, and red wine to the pot.",
+    "7. Stir to combine and bring to a simmer.",
+    "8. Return the chicken to the pot and transfer to the oven.",
+    "9. Braise the chicken in the oven at 300°F (150°C) for 1 1/2 hours, or until tender.",
+    "10. While the chicken is braising, cook the bacon in a skillet until crispy.",
+    "11. Chop the bacon into small pieces and set aside.",
+    "12. Remove the chicken from the pot and let rest for 10 minutes before slicing.",
+    "13. Serve the chicken with the braising liquid spooned over the top and garnished with fresh parsley and crispy bacon."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "italian",
+    "braise",
+    "venezuelan-spices"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-venezuelan-chicken-braise--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:45:55.450Z"
+}
