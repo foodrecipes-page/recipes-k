@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-moroccan-wensleydale-tagine--japanese",
+  "title": "Wensleydale and Tagine Maki Rolls",
+  "description": "A unique twist on traditional Japanese maki rolls, incorporating the flavors of Wensleydale cheese and Moroccan tagine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Wensleydale cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Moroccan tagine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "cucumber",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2 cup, sliced",
+      "notes": ""
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare sushi rice according to package instructions.",
+    "In a small bowl, mix together soy sauce, sugar, and rice vinegar.",
+    "Add the mixture to the cooked sushi rice and stir to combine.",
+    "In a separate bowl, crumble the Wensleydale cheese and mix in the Moroccan tagine.",
+    " Lay a sheet of nori seaweed flat and spread a thin layer of the sushi rice onto it.",
+    "Place a few slices of cucumber and avocado on top of the rice.",
+    "Add a sprinkle of sesame seeds and a dollop of the Wensleydale and tagine mixture on top.",
+    "Roll the sushi using a bamboo sushi mat, applying gentle pressure.",
+    "Slice the roll into individual pieces and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "maki",
+    "cheese",
+    "tagine",
+    "sushi"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-moroccan-wensleydale-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:37:38.876Z"
+}
