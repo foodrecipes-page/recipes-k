@@ -9169,17 +9169,16 @@
   },
   {
     "slug": "kissed-roasted-brazilian-beef-skewers",
-    "title": "Kissed Roasted Brazilian Beef Skewers",
+    "title": "Grilled Brazilian Skewers",
     "tags": [
-      "beef-recipes",
-      "brazilian-food",
-      "fodmap-friendly",
-      "gluten-free",
-      "low-carb",
-      "quick-dinner"
+      "beef",
+      "grilled",
+      "skewers",
+      "brazilian",
+      "gluten-free"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "k"
   },
   {
@@ -16122,6 +16121,19 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "knobby-golden-french-mushroom-gratin--japanese",
+    "title": "Japanese-Style Mushroom and Golden Potato Gratin",
+    "tags": [
+      "japanese",
+      "gratin",
+      "mushroom",
+      "potato"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 70,
     "shard": "k"
   }
 ]
