@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-by-monsoon-mediterranean-fregola-risotto--keto",
+  "title": "Mediterranean Risotto Bowl",
+  "description": "A keto twist on the classic risotto, served in a bowl with a side of fresh vegetables.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fregola",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Risotto",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Monsoon Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mediterranean Sea Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh Basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Monsoon Garlic",
+      "amount": "2 cloves"
+    }
+  ],
+  "instructions": [
+    "Heat the Monsoon Olive Oil in a large skillet over medium-high heat.",
+    "Add the Monsoon Garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the Fregola and cook for 2-3 minutes until lightly toasted.",
+    "Add the Risotto and Mediterranean Sea Salt. Cook for 5-7 minutes until the Risotto is lightly toasted.",
+    "Stir in the Fresh Parsley and Fresh Basil.",
+    "Serve the Risotto mixture in a bowl and garnish with additional parsley and basil if desired.",
+    "Optional: Top with a fried egg or grilled shrimp for added protein."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-monsoon-mediterranean-fregola-risotto--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T09:13:47.420Z"
+}
