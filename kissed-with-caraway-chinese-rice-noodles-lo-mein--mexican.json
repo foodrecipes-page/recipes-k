@@ -1,0 +1,96 @@
+{
+  "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein--mexican",
+  "title": "Caraway Noodle Tacos",
+  "description": "A fusion of Mexican flavors and Chinese noodles, topped with a crunchy caraway seed slaw.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Caraway seed",
+      "amount": "1 tablespoon",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Lo mein noodles",
+      "amount": "8 ounces",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "Chinese broccoli",
+      "amount": "1 head",
+      "notes": "steamed until tender"
+    },
+    {
+      "name": "Mexican rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package"
+    },
+    {
+      "name": "Sliced radishes",
+      "amount": "1 cup",
+      "notes": "for topping"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "for dressing"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1/2 cup",
+      "notes": "for slaw"
+    },
+    {
+      "name": "Chopped carrot",
+      "amount": "1/2 cup",
+      "notes": "for slaw"
+    }
+  ],
+  "instructions": [
+    "Cook lo mein noodles according to package.",
+    "Steam Chinese broccoli until tender.",
+    "Cook Mexican rice according to package.",
+    "In a pan, heat vegetable oil over medium heat.",
+    "Add chopped onion and carrot to the pan and cook until softened.",
+    "In a separate bowl, mix lime juice and chopped cilantro.",
+    "To assemble tacos, place a portion of cooked noodles in a taco shell.",
+    "Top with steamed broccoli, Mexican rice, and slaw.",
+    "Garnish with caraway seeds and sliced radishes.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "noodles",
+    "vegetarian",
+    "tacos",
+    "caraway"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-caraway-chinese-rice-noodles-lo-mein--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:21:37.751Z"
+}
