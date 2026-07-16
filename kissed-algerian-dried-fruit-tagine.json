@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-algerian-dried-fruit-tagine",
+  "title": "Algerian Tagine Stew",
+  "description": "A delicious Algerian stew made with tender meat and flavorful spices, slow-cooked in a traditional earthenware pot.",
+  "cuisine": "Algerian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mutton or beef",
+      "amount": "1 pound",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "Use as spice blend"
+    },
+    {
+      "name": "dried",
+      "amount": "1 cup",
+      "notes": "Use as prunes"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 cup",
+      "notes": "Use as chopped dates"
+    },
+    {
+      "name": "fruit",
+      "amount": "1 cup",
+      "notes": "Use as chopped apricots"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large clay pot or Dutch oven over medium-high heat.",
+    "Add the meat and cook until browned on all sides, about 5 minutes.",
+    "Add the algerian spice blend and cook for 1 minute.",
+    "Add the dried prunes, kissed dates, and fruit, and stir to combine.",
+    "Add 2 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "stew",
+    "beef",
+    "mutton"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-algerian-dried-fruit-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T04:22:47.164Z"
+}
