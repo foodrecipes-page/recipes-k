@@ -15931,5 +15931,29 @@
     "cuisine": "slovakian",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-light-malaysian-almond-biryani--chinese",
+    "title": "Malaysian-Style Fried Noodles",
+    "tags": [
+      "fried noodles",
+      "malaysian",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-light-malaysian-almond-biryani--vegetarian",
+    "title": "Malaysian-Style Light Almond Biriyani",
+    "tags": [
+      "vegetarian",
+      "malaysian",
+      "casserole"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
