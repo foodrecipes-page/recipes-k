@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-light-malaysian-almond-biryani--chinese",
+  "title": "Malaysian-Style Fried Noodles",
+  "description": "A fusion of Chinese and Malaysian flavors, this fried noodle dish is quick and satisfying to make. It's a great option for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malaysian noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Kissed almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Light soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Biryani masala",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a wok or large skillet over medium-high heat.",
+    "Add the noodles and cook for 2-3 minutes, or until they start to brown.",
+    "Add the soy sauce, biryani masala, and almonds, and stir-fry for 1-2 minutes.",
+    "Add the scallions and stir-fry for another minute, until the noodles are well coated with the sauce.",
+    "Season with salt to taste, and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "fried noodles",
+    "malaysian",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-malaysian-almond-biryani--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:52:34.903Z"
+}
