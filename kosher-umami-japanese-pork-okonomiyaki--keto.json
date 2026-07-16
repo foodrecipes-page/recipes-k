@@ -1,0 +1,83 @@
+{
+  "slug": "kosher-umami-japanese-pork-okonomiyaki--keto",
+  "title": "Keto Okonomiyaki",
+  "description": "A keto twist on the classic Japanese street food, this okonomiyaki recipe is made with pork, umami flavors, and topped with a sweet and savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "1/2 pound",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Cauliflower",
+      "amount": "1 head",
+      "notes": "Grated"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Umami seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Bulgarian feta cheese",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Okonomiyaki sauce (homemade or store-bought)",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine grated cauliflower, kosher salt, and umami seasoning. Let sit for 10 minutes to allow cauliflower to release liquid.",
+    "2. Squeeze out as much liquid as possible from the cauliflower mixture using a cheesecloth or a fine-mesh strainer.",
+    "3. In a large skillet, heat coconut oil over medium-high heat. Add the sliced pork belly and cook until browned, about 3-4 minutes per side.",
+    "4. In a separate bowl, mix together bulgarian feta cheese and sesame seeds.",
+    "5. To assemble the okonomiyaki, place a portion of the cauliflower mixture onto a plate, followed by a slice of the pork belly, and then a sprinkle of the feta-cheese mixture.",
+    "6. Drizzle the okonomiyaki sauce over the top of the dish.",
+    "7. Cook for an additional 2-3 minutes to allow the sauce to set.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "japanese",
+    "okonomiyaki",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 48
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-umami-japanese-pork-okonomiyaki--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:20:46.640Z"
+}
