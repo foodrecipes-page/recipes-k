@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-by-the-sun-australian-chicken-stir-fry--japanese",
+  "title": "Sun-Kissed Chicken Stir Fry",
+  "description": "A delicious and easy Japanese-inspired stir fry dish made with sun-kissed australian chicken and stir-fried with a variety of vegetables. Serve over a bed of steamed rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian Chicken Breast",
+      "amount": "500g",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Kissed by the Sun Tomatoes",
+      "amount": "2",
+      "notes": "Chopped into bite-sized pieces"
+    },
+    {
+      "name": "Stir Fry Vegetable Mix",
+      "amount": "",
+      "notes": "Frozen mix of broccoli, carrots and bell peppers"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp",
+      "notes": "Unseasoned"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": "Unflavored"
+    },
+    {
+      "name": "Ginger",
+      "amount": "",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add the grated ginger and minced garlic and stir-fry for 1 minute.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the chopped tomatoes and stir-fry for an additional 2-3 minutes.",
+    "Add the frozen vegetable mix and stir-fry until thawed and heated through.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, and a pinch of salt and pepper.",
+    "Pour the sauce over the chicken and vegetables, and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the sauce has thickened.",
+    "Serve hot over steamed rice.",
+    "Garnish with sesame seeds and chopped green onions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "chicken",
+    "stirfry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-the-sun-australian-chicken-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:38:04.247Z"
+}
