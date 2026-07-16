@@ -16080,5 +16080,18 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-savory-brazilian-sea-bass-skewers--japanese",
+    "title": "Grilled Sea Bass Skewers",
+    "tags": [
+      "japanese",
+      "grilled",
+      "sea-bass",
+      "skewers"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 31,
+    "shard": "k"
   }
 ]
