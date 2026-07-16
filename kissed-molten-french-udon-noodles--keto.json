@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-molten-french-udon-noodles--keto",
+  "title": "Keto Udon Noodle Stir Fry",
+  "description": "A keto twist on a classic Asian stir fry, using low-carb udon noodles and a variety of vegetables.",
+  "cuisine": "Asian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Udon noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "French green beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kissed cherry tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten mozzarella cheese",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce (low-carb)",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the French green beans and cook until tender, about 3-4 minutes.",
+    "Add the kissed cherry tomatoes and cook for an additional 2 minutes.",
+    "Add the udon noodles and stir-fry for 2-3 minutes, until heated through.",
+    "In a small bowl, whisk together the molten mozzarella cheese and soy sauce.",
+    "Pour the cheese sauce over the noodles and vegetables, and stir-fry for an additional minute.",
+    "Serve hot, garnished with additional kissed cherry tomatoes if desired.",
+    "Cook to an internal temperature of 165°F (74°C) to ensure food safety."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-french-udon-noodles--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T07:40:06.895Z"
+}
