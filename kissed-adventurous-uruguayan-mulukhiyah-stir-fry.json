@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-adventurous-uruguayan-mulukhiyah-stir-fry",
+  "title": "Uruguayan Stir-Fry Adventure",
+  "description": "A fusion of Uruguayan and Asian flavors, perfect for the adventurous eater. This dish combines the bold flavors of Uruguay with the quick cooking method of a stir-fry.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mulukhiyah",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "kissed red bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "adventurous spring onions",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "stir-fry oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fry soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add the spring onions and cook until they start to soften.",
+    "Add the bell peppers and cook for another 3-4 minutes.",
+    "Add the mulukhiyah and cook until it starts to soften.",
+    "Add the soy sauce, water, sugar, and salt. Stir well to combine.",
+    "Continue cooking for another 5-7 minutes, or until the vegetables are tender.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "stir-fry",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-adventurous-uruguayan-mulukhiyah-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:51:22.050Z"
+}
