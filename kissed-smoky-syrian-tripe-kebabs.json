@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-smoky-syrian-tripe-kebabs",
+  "title": "Smoky Syrian Kebabs",
+  "description": "A flavorful and aromatic kebab dish originating from Syria, infused with a smoky taste. Perfect for a quick dinner or lunch.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound, cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Kebabs",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1/4 cup, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together olive oil, smoky paprika, garlic, salt, and black pepper.",
+    "2. Add the tripe and kebabs to the bowl, and mix well to coat with the marinade.",
+    "3. Cover the bowl with plastic wrap, and refrigerate for at least 30 minutes.",
+    "4. Preheat a grill or grill pan to medium-high heat.",
+    "5. Remove the tripe and kebabs from the marinade, letting any excess liquid drip off.",
+    "6. Grill the tripe and kebabs for 5-7 minutes per side, or until cooked through.",
+    "7. Transfer the kebabs to a serving platter, and garnish with chopped parsley.",
+    "8. Serve immediately, with your favorite sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "syrian",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-syrian-tripe-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T03:40:11.313Z"
+}
