@@ -603,12 +603,12 @@
     "slug": "keto-gochi-gratin",
     "title": "Keto Gochi Gratin",
     "tags": [
-      "keto-friendly",
-      "garlicky",
+      "keto",
+      "gochi",
       "gratin"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 30,
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "k"
   },
   {
@@ -15999,6 +15999,46 @@
       "vegetarian"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein--mexican",
+    "title": "Caraway Noodle Tacos",
+    "tags": [
+      "mexican",
+      "noodles",
+      "vegetarian",
+      "tacos",
+      "caraway"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-venezuelan-chicken-braise--italian",
+    "title": "Chicken Braise with Italian Flair",
+    "tags": [
+      "chicken",
+      "italian",
+      "braise",
+      "venezuelan-spices"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 105,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry--italian",
+    "title": "Italian Fried Pastry Fritter",
+    "tags": [
+      "italian",
+      "dessert",
+      "fried",
+      "pastry"
+    ],
+    "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "k"
   }
