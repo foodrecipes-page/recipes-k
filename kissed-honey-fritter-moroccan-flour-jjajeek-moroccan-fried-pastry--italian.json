@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry--italian",
+  "title": "Italian Fried Pastry Fritter",
+  "description": "A classic Italian dessert, these fried pastry fritters are typically enjoyed with a side of honey or kissel. For this recipe, we will be using a traditional Italian ingredient, flour, and adding a touch of Moroccan flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fritter",
+      "amount": "1 package"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "jjajeek",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fried pastry",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour and moroccan spices.",
+    "Add the honey and jjajeek to the flour mixture and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Heat the fried pastry in a deep frying pan with 2-3 inches of oil.",
+    "When the oil is hot, add the dough balls to the pan and fry until golden brown.",
+    "Drain the fritters on paper towels and serve warm with a side of honey.",
+    "Optional: Dust the fritters with powdered sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "fried",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T23:46:59.345Z"
+}
