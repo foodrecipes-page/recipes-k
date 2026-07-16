@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-light-malaysian-almond-biryani--gluten-free",
+  "title": "Gluten-Free Malaysian-Style Biryani",
+  "description": "A flavorful and aromatic gluten-free biryani dish inspired by Malaysian cuisine, served with a crunchy almond topping.",
+  "cuisine": "malaysian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Basmati Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Kissed Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Light Coconut Milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Malaysian Curry Powder",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Almond Slices",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Biriyani Spice Mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Scallions",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat Kissed Olive Oil in a large skillet over medium-high heat.",
+    "Add Chicken Breast and cook until browned, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, add Light Coconut Milk and bring to a simmer.",
+    "Add Malaysian Curry Powder, Biriyani Spice Mix, and Salt. Stir to combine.",
+    "Add cooked Basmati Rice to the skillet and stir-fry for 2-3 minutes.",
+    "Add cooked Chicken Breast back into the skillet and stir-fry until combined.",
+    "Transfer the mixture to a serving dish and garnish with chopped Scallions and Almond Slices.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "malaysian",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-malaysian-almond-biryani--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T19:40:44.918Z"
+}
