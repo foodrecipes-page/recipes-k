@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry",
+  "title": "Moroccan Honey Fritters",
+  "description": "A sweet and crispy Moroccan-inspired dessert, made with honey and fried pastry.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "fritter",
+      "amount": "1 cup (homemade or store-bought)"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "jjajeek",
+      "amount": "1 tsp (ground ginger)"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp (ground cinnamon)"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp (ground cinnamon)"
+    },
+    {
+      "name": "fried",
+      "amount": "vegetable oil for frying"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, jjajeek, kissed, and Moroccan spices.",
+    "Add the honey and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth.",
+    "Divide the dough into 8 equal pieces.",
+    "Roll each piece into a ball and then flatten slightly into a disk shape.",
+    "Heat the vegetable oil in a deep frying pan to 350°F (175°C).",
+    "Fry the dough disks for 2-3 minutes on each side, until golden brown and crispy.",
+    "Drain the fritters on paper towels and serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 28,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "honey",
+    "fritters",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-honey-fritter-moroccan-flour-jjajeek-moroccan-fried-pastry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T22:50:58.804Z"
+}
