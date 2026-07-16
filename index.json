@@ -16086,5 +16086,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 31,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-with-light-slovakian-buttery-dish-stew--indian",
+    "title": "Slovakian Butter Lamb Stew",
+    "tags": [
+      "lamb",
+      "stew",
+      "indian-inspired"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 165,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-herbs-italian-grape-leaves-clay-pot-cooked--indian",
+    "title": "Grape and Herb Chutney",
+    "tags": [
+      "chutney",
+      "indian",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "k"
   }
 ]
