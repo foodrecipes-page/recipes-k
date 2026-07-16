@@ -1,0 +1,62 @@
+{
+  "slug": "kicked-up-german-egg-noodles--thai",
+  "title": "Spicy Thai Noodle Stir Fry",
+  "description": "A quick and spicy stir fry made with German noodles and Thai-inspired flavors.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German noodles",
+      "amount": "8 oz",
+      "notes": "preferably rice noodles or egg noodles"
+    },
+    {
+      "name": "Kicked up (hot sauce)",
+      "amount": "1-2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Cook German noodles according to package instructions. Drain and set aside.",
+    "In a small bowl, whisk together hot sauce and beaten egg for the sauce.",
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the sauce to the skillet and cook for 1-2 minutes, until slightly thickened.",
+    "Add the cooked noodles to the skillet and stir to combine with the sauce.",
+    "Cook for an additional 2-3 minutes, until the noodles are well coated.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "noodle",
+    "stir-fry",
+    "spicy",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-german-egg-noodles--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:18:08.557Z"
+}
