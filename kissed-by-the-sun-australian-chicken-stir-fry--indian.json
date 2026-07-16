@@ -1,0 +1,101 @@
+{
+  "slug": "kissed-by-the-sun-australian-chicken-stir-fry--indian",
+  "title": "Kissed by the Sun Australian Chicken Stir Fry",
+  "description": "A fusion of Indian and Australian flavors, this stir fry is a perfect blend of spices and freshness.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kissed by the Sun Australian Chicken",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Australian chicken breast",
+      "amount": "1 piece",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "stir fry sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through.",
+    "Remove the chicken from the pan and set aside.",
+    "Add the onion and bell pepper to the pan and cook until tender.",
+    "Add the stir fry sauce, soy sauce, honey, garam masala, sugar, salt, and black pepper to the pan.",
+    "Cook for 2-3 minutes or until the sauce has thickened.",
+    "Return the chicken to the pan and stir to coat with the sauce.",
+    "Cook for an additional 1-2 minutes or until the chicken is coated and the sauce has thickened.",
+    "Serve hot over rice or noodles.",
+    "Garnish with chopped cilantro or scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "australian",
+    "chicken",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-the-sun-australian-chicken-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T21:46:27.090Z"
+}
