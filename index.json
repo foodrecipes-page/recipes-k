@@ -12662,16 +12662,15 @@
   },
   {
     "slug": "kissed-with-mustard-japanese-snow-peas-shoyu-ramen",
-    "title": "Kissed with Mustard Japanese Snow Peas Shoyu Ramen",
+    "title": "Japanese Ramen with Snow Peas and Mustard",
     "tags": [
-      "japanese",
-      "one-pan",
       "ramen",
+      "japanese",
       "vegetarian",
-      "weeknight"
+      "gluten-free"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16134,6 +16133,18 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-monsoon-mediterranean-fregola-risotto--keto",
+    "title": "Mediterranean Risotto Bowl",
+    "tags": [
+      "keto",
+      "mediterranean",
+      "low-carb"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
