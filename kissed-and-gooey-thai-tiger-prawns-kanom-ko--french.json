@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-and-gooey-thai-tiger-prawns-kanom-ko--french",
+  "title": "Kanom Prawn Wellington",
+  "description": "A French-inspired dish featuring prawns in a sweet and savory filling, wrapped in a flaky pastry crust.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Prawns",
+      "amount": "250g"
+    },
+    {
+      "name": "Kanom",
+      "amount": "200g",
+      "notes": "Thai sweet pancake mix"
+    },
+    {
+      "name": "Tiger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Gooey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "And",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Thai",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a pan, melt the butter and sauté the prawns until pink and cooked through.",
+    "In a bowl, mix together the kanom, tiger, kissed, gooey, and and.",
+    "Add the cooked prawns and Thai sauce to the bowl and stir until combined.",
+    "Roll out the pastry and place the prawn filling in the center.",
+    "Fold the pastry over the filling and press the edges to seal.",
+    "Place the Wellington on a baking sheet and bake for 20-25 minutes or until golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "prawns",
+    "wellington",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-and-gooey-thai-tiger-prawns-kanom-ko--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T23:05:48.688Z"
+}
