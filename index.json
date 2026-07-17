@@ -16247,5 +16247,18 @@
     "cuisine": "north african",
     "totalTimeMin": 45,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein--indian",
+    "title": "Indian-Style Lo Mein with Caraway Rice",
+    "tags": [
+      "indian",
+      "chinese",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
