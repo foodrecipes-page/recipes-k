@@ -16215,5 +16215,31 @@
     "cuisine": "chinese",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-algerian-chicken-tagine--german",
+    "title": "Chicken Tagine Kisse",
+    "tags": [
+      "german",
+      "stew",
+      "chicken"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-snappy-dutch-fish-stew--german",
+    "title": "German Fish Stew",
+    "tags": [
+      "german",
+      "fish",
+      "stew",
+      "winter",
+      "comfort"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
