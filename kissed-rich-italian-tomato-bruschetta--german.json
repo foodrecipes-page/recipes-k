@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-rich-italian-tomato-bruschetta--german",
+  "title": "German-Style Bruschetta",
+  "description": "A twist on the classic Italian bruschetta, this German-inspired dish features toasted bread topped with fresh tomatoes, rich Italian cheese, and a hint of garlic.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "italian bread",
+      "amount": "1 loaf (12 slices)",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "italian cheese",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "rich butter",
+      "amount": "4 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Slice the bread into 1-inch thick slices and place on a baking sheet.",
+    "3. Drizzle the bread with 2 tablespoons of rich butter and sprinkle with salt and pepper.",
+    "4. Bake the bread in the preheated oven for 10-12 minutes or until toasted.",
+    "5. While the bread is baking, chop the tomatoes and garlic.",
+    "6. Remove the bread from the oven and let cool for a few minutes.",
+    "7. Top the toasted bread with the chopped tomatoes, garlic, and Italian cheese.",
+    "8. Drizzle the remaining 2 tablespoons of rich butter over the top of the bread.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "bread",
+    "tomato",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-rich-italian-tomato-bruschetta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:59:51.398Z"
+}
