@@ -1446,18 +1446,14 @@
   },
   {
     "slug": "kicked-norwegian-beef-dumplings",
-    "title": "Kicked Norwegian Beef Dumplings",
+    "title": "Beef and Dumpling Stew",
     "tags": [
-      "beef",
-      "comfort-food",
-      "creamy",
+      "beef-stew",
       "dumplings",
-      "indulgent",
-      "norwegian",
-      "spicy"
+      "winter-recipe"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 65,
+    "cuisine": "scandinavian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
