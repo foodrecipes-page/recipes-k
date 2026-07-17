@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-golden-canadian-crepes-pancakes",
+  "title": "Golden Canadian Crepes with Kissed Maple Syrup",
+  "description": "Delicate golden crepes filled with a sweet and savory kissed maple syrup and a hint of Canadian flavor.",
+  "cuisine": "French-Canadian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 cup golden crepes",
+      "amount": ""
+    },
+    {
+      "name": "1/4 cup kissed maple syrup",
+      "amount": "",
+      "notes": "grade A pure Canadian maple syrup"
+    },
+    {
+      "name": "1/2 cup non-dairy milk",
+      "amount": "",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "2 tablespoons Canadian oil",
+      "amount": "",
+      "notes": "such as canola or grapeseed oil"
+    },
+    {
+      "name": "1 teaspoon vanilla extract",
+      "amount": "",
+      "notes": "optional"
+    },
+    {
+      "name": "1/4 cup powdered sugar",
+      "amount": "",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together non-dairy milk, Canadian oil, and vanilla extract.",
+    "Add powdered sugar and whisk until dissolved.",
+    "Heat a small non-stick pan over medium heat.",
+    "Brush the pan with a small amount of Canadian oil.",
+    "Pour a small amount of crepe batter into the pan and tilt to evenly coat.",
+    "Cook for 1-2 minutes or until the edges start to curl.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for an additional 30 seconds to 1 minute or until lightly browned.",
+    "Repeat with remaining crepe batter.",
+    "To assemble, place a crepe on a serving plate and drizzle with kissed maple syrup.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crepes",
+    "maple-syrup",
+    "canadian",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-canadian-crepes-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:26:46.819Z"
+}
