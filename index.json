@@ -3469,17 +3469,14 @@
   },
   {
     "slug": "kissed-buttery-venezuelan-rice-pilaf",
-    "title": "Kissed Buttery Venezuelan Rice Pilaf",
+    "title": "Venezuelan-Style Rice Pilaf",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "latin-american",
-      "macrobiotic",
-      "mason-jar",
-      "one-pot"
+      "latin american",
+      "rice pilaf",
+      "side dish"
     ],
     "cuisine": "Venezuelan",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -10085,17 +10082,15 @@
   },
   {
     "slug": "kissed-smoky-egyptian-cheese-flatbread",
-    "title": "Kissed Smoky Egyptian Cheese Flatbread",
+    "title": "Smoky Egyptian Flatbread",
     "tags": [
-      "cheesy",
-      "easy-snack",
-      "gluten-free",
-      "low-carb",
-      "middle-eastern",
-      "smoky"
+      "flatbread",
+      "egyptian-cuisine",
+      "cheese",
+      "easy-snack"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 22,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -10469,18 +10464,15 @@
   },
   {
     "slug": "kissed-smoky-ukrainian-cannellini-beans-pastry-casserole",
-    "title": "Kissed Smoky Ukrainian Cannellini Beans Pastry Casserole",
+    "title": "Smoky Cannellini Bean Casserole",
     "tags": [
-      "cheese-pull",
-      "date-night",
-      "gluten-free",
-      "pastry-crust",
-      "smoked-mozzarella",
-      "sugar-free",
-      "ukrainian"
+      "smoky",
+      "cannellini-beans",
+      "casserole",
+      "italian"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 65,
+    "cuisine": "italian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -16240,6 +16232,20 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-miso-ethiopian-swede-tagine--vegan",
+    "title": "Vegan Swede and Miso Tagine Stew",
+    "tags": [
+      "swede",
+      "miso",
+      "north-african",
+      "vegan-tagine",
+      "comforting-stew"
+    ],
+    "cuisine": "north african",
+    "totalTimeMin": 45,
     "shard": "k"
   }
 ]
