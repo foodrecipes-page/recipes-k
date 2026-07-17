@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-algerian-chicken-tagine--german",
+  "title": "Chicken Tagine Kisse",
+  "description": "A hearty German-inspired stew made with chicken, kissed spices, and algerian flavors.",
+  "cuisine": "german",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "kissed spice mix",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute more.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add spice blends, chicken broth, and heavy cream. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Bake at 300°F (150°C) for 30-40 minutes, or until the chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stew",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-algerian-chicken-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T16:37:59.051Z"
+}
