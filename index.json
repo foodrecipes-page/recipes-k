@@ -1213,17 +1213,16 @@
   },
   {
     "slug": "kicked-floral-ethiopian-cheese-lasagna",
-    "title": "Kicked Floral Ethiopian Cheese Lasagna",
+    "title": "Cheesy Ethiopian Lasagna",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "post-workout",
+      "lasagna",
+      "ethiopian",
+      "cheese",
       "vegetarian",
-      "weeknight"
+      "easy-dinner"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -16154,6 +16153,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 150,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-and-citrusy-ukrainian-ricotta-casserole--keto",
+    "title": "Crispy Ukrainian Ricotta Casserole",
+    "tags": [
+      "ukrainian",
+      "keto",
+      "ricotta",
+      "casserole"
+    ],
+    "cuisine": "Eastern European",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
