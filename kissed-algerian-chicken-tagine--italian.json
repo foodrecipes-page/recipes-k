@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-algerian-chicken-tagine--italian",
+  "title": "Chicken Tagine Pasta",
+  "description": "A fusion of Italian and North African flavors in this hearty chicken tagine pasta dish.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "algerian tagine spice blend",
+      "amount": "2tsp"
+    },
+    {
+      "name": "kissed olives",
+      "amount": "100g",
+      "notes": "pitted"
+    },
+    {
+      "name": "pasta",
+      "amount": "250g",
+      "notes": "penne or rigatoni work well"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "500ml",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "50g",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the chicken breast and cook for 5-6 minutes, until browned.",
+    "Add the algerian tagine spice blend and cook for 1 minute.",
+    "Add the chicken broth and bring to a simmer.",
+    "Reduce the heat to low and cook, covered, for 10-12 minutes, until the chicken is cooked through.",
+    "Cook the pasta according to package instructions.",
+    "Add the pasta to the skillet with the chicken and toss to combine.",
+    "Stir in the kissed olives and parmesan cheese.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "pasta",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-algerian-chicken-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:31:56.286Z"
+}
