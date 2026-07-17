@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-with-spices-moroccan-fromage-frais-tagine--italian",
+  "title": "Moroccan Chicken Tagine with Italian Twist",
+  "description": "A unique fusion of Italian and Moroccan flavors, this chicken tagine is a hearty and aromatic dish that combines the spices of Morocco with the rich flavors of Italy.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (28 oz)",
+      "notes": "Crushed"
+    },
+    {
+      "name": "spices",
+      "amount": "1 teaspoon",
+      "notes": "Moroccan spice blend"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fromage frais",
+      "amount": "1 cup",
+      "notes": "Crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken breasts and cook until browned on all sides, about 5-7 minutes.",
+    "Add the crushed tomatoes, Moroccan spice blend, salt, and black pepper.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Transfer the tagine to the oven and cook at 375°F (190°C) for 30-40 minutes, or until the chicken is cooked through.",
+    "Remove the tagine from the oven and stir in the crumbled fromage frais.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "moroccan",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-spices-moroccan-fromage-frais-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:43:29.329Z"
+}
