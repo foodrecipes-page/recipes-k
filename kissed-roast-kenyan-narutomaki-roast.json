@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-roast-kenyan-narutomaki-roast",
+  "title": "Roast Kenyan Kissed Chicken",
+  "description": "A flavorful dish with a Kenyan twist, featuring kissed chicken roasted with a variety of spices.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole (3-4 lbs)",
+      "notes": "kissed for extra flavor"
+    },
+    {
+      "name": "Kenyan roast",
+      "amount": "2 tsp",
+      "notes": "add authentic flavor"
+    },
+    {
+      "name": "roast",
+      "amount": "1 tsp",
+      "notes": "balance spices"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "Season the chicken with Kenyan roast, roast, and garlic.",
+    "Place the chicken in a roasting pan and roast for 45 minutes.",
+    "Reduce heat to 375°F (190°C) and continue roasting for another 30 minutes.",
+    "Let the chicken rest for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "african",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roast-kenyan-narutomaki-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T22:11:09.808Z"
+}
