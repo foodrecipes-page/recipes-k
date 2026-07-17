@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-snappy-dutch-fish-stew--german",
+  "title": "German Fish Stew",
+  "description": "A hearty German fish stew made with snappy fish, stew, and kissed spices. Perfect for a cold winter night.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dutch carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Kissed paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Snappy parsley",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine stew, fish, and carrots in a large saucepan.",
+    "Add kissed paprika and salt to taste.",
+    "Cook over medium heat, stirring occasionally, until the fish is cooked through.",
+    "Serve hot, garnished with chopped parsley.",
+    "Enjoy!",
+    "Note: This recipe assumes a snappy fish such as cod or haddock.",
+    "If using a different fish, adjust cooking time accordingly.",
+    "Also, be sure to check the internal temperature of the fish to ensure it reaches 145°F (63°C)."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "fish",
+    "stew",
+    "winter",
+    "comfort"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-snappy-dutch-fish-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:09:20.489Z"
+}
