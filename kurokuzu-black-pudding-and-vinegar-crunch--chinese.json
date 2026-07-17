@@ -1,0 +1,58 @@
+{
+  "slug": "kurokuzu-black-pudding-and-vinegar-crunch--chinese",
+  "title": "Chinese Crunchy Black Pudding Stir Fry",
+  "description": "A flavorful and crunchy stir-fry dish made with black pudding, crunchy texture and chinese spices.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Black Pudding",
+      "amount": "200g",
+      "notes": "Diced"
+    },
+    {
+      "name": "Kurokuzu",
+      "amount": "2 tablespoons",
+      "notes": "Sesame oil"
+    },
+    {
+      "name": "Crunch",
+      "amount": "100g",
+      "notes": "Pea shoots or chopped scallions"
+    },
+    {
+      "name": "Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Rice vinegar"
+    }
+  ],
+  "instructions": [
+    "Heat the Kurokuzu in a wok or large skillet over medium-high heat.",
+    "Add the diced black pudding and stir-fry until browned.",
+    "Add the Crunch and stir-fry for 2 minutes.",
+    "Add the Vinegar and stir-fry for another minute.",
+    "Season with salt and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "black-pudding",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kurokuzu-black-pudding-and-vinegar-crunch--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:15:19.975Z"
+}
