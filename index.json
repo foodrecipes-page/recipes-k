@@ -16260,5 +16260,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein--thai",
+    "title": "Thai Lo Mein Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "noodles",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "k"
   }
 ]
