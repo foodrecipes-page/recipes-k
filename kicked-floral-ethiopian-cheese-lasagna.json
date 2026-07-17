@@ -1,0 +1,71 @@
+{
+  "slug": "kicked-floral-ethiopian-cheese-lasagna",
+  "title": "Cheesy Ethiopian Lasagna",
+  "description": "A unique twist on traditional lasagna, this dish combines the flavors of Ethiopia with melted cheese.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna",
+      "amount": "8-10 sheets",
+      "notes": "oven-ready"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup shredded cheddar",
+      "notes": "mild, sharp or a mix"
+    },
+    {
+      "name": "kicked",
+      "amount": "1/2 cup spicy kick sauce",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "floral",
+      "amount": "1/4 cup honey",
+      "notes": "optional"
+    },
+    {
+      "name": "Ethiopian spices",
+      "amount": "1 tsp ground berbere",
+      "notes": "add depth to the dish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook lasagna sheets according to package instructions. Drain and set aside.",
+    "In a skillet, combine cheese, kicked sauce, and floral honey (if using). Stir until well combined.",
+    "Add Ethiopian spices to the cheese mixture and stir to combine.",
+    "In a 9x13-inch baking dish, create a thin layer of the cheese mixture.",
+    "Arrange 4 lasagna sheets on top of the cheese layer.",
+    "Repeat the cheese and lasagna layers two more times, ending with a cheese layer on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "ethiopian",
+    "cheese",
+    "vegetarian",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-floral-ethiopian-cheese-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:02:09.017Z"
+}
