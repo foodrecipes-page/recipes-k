@@ -1,0 +1,84 @@
+{
+  "slug": "kneaded-creamy-italian-morning-glory-risotto",
+  "title": "Creamy Italian Risotto",
+  "description": "A classic Italian dish made creamy with the addition of risotto, perfect for a comforting meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "glory",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "kneaded",
+      "amount": "1 cup",
+      "notes": "uncooked, finely chopped"
+    },
+    {
+      "name": "creamy",
+      "amount": "1 cup",
+      "notes": "liquid"
+    },
+    {
+      "name": "risotto",
+      "amount": "2 cups",
+      "notes": "arborio"
+    },
+    {
+      "name": "morning",
+      "amount": "1 tsp",
+      "notes": "dried, italian seasoning"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add chopped kneaded and cook until lightly browned.",
+    "Add arborio risotto and stir to combine.",
+    "Add cooked glory and stir to combine.",
+    "Add creamy liquid and stir to combine.",
+    "Add morning italian seasoning and stir to combine.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Season with salt to taste.",
+    "Serve with grated parmesan cheese."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "risotto",
+    "creamy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneaded-creamy-italian-morning-glory-risotto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T01:38:55.186Z"
+}
