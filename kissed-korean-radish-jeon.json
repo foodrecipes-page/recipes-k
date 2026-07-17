@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-korean-radish-jeon",
+  "title": "Spicy Korean Jeon with Radish Slaw",
+  "description": "A crispy Korean-style pancake made with kimchi and served with a refreshing radish slaw.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Korean rice flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean-style kimchi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Radish",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Green onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Korean chili flakes and Korean rice flour. Mix well.",
+    "Add kimchi, radish, garlic, green onion, soy sauce, scallions, and salt to the bowl. Mix until just combined.",
+    "Heat a non-stick pan or a cast-iron skillet over medium-high heat.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the pan.",
+    "Cook for 3-4 minutes or until the edges start to curl and the surface is dry.",
+    "Flip the jeon and cook for an additional 2-3 minutes or until crispy and golden brown.",
+    "Serve with radish slaw made by grating the radish and mixing it with a squeeze of lime juice and a sprinkle of salt.",
+    "Repeat with the remaining batter, adjusting the heat as needed to prevent burning."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "breakfast",
+    "pancake",
+    "slaw",
+    "radish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-korean-radish-jeon",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:34:02.636Z"
+}
