@@ -1,0 +1,62 @@
+{
+  "slug": "kicked-peppery-kenyan-tomato-skewers",
+  "title": "Grilled Kenyan Kebabs with Tomato Salsa",
+  "description": "A flavorful and colorful dish from the great plains of Kenya. Enjoy the taste of Africa with this simple yet satisfying recipe.",
+  "cuisine": "African",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan kebab meat",
+      "amount": "500g",
+      "notes": "You can use beef, chicken or lamb for this recipe"
+    },
+    {
+      "name": "Kicked pepper",
+      "amount": "2",
+      "notes": "Use fresh peppers for the best flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "3",
+      "notes": "Any variety will do, but cherry tomatoes work best for skewers"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "Use wooden or metal skewers, depending on your preference"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (180°C/350°F).",
+    "Thread the meat, pepper, and tomato onto the skewers.",
+    "Brush the skewers with oil and season with salt and pepper.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Meanwhile, prepare the tomato salsa by chopping the remaining tomatoes and mixing with a pinch of salt.",
+    "Once the skewers are cooked, serve with the tomato salsa and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "kebabs",
+    "tomato-salsa",
+    "kenyan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-peppery-kenyan-tomato-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:08:48.698Z"
+}
