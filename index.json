@@ -1534,17 +1534,15 @@
   },
   {
     "slug": "kicked-peppery-kenyan-tomato-skewers",
-    "title": "Kicked Peppery Kenyan Tomato Skewers",
+    "title": "Grilled Kenyan Kebabs with Tomato Salsa",
     "tags": [
-      "appetizer",
-      "kenyan-cuisine",
-      "snack",
-      "spicy-food",
-      "street-food",
-      "vegetarian"
+      "grilled",
+      "kebabs",
+      "tomato-salsa",
+      "kenyan-cuisine"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "African",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -6641,17 +6639,15 @@
   },
   {
     "slug": "kissed-golden-canadian-crepes-pancakes",
-    "title": "Kissed Golden Canadian Crepes Pancakes",
+    "title": "Golden Canadian Crepes with Kissed Maple Syrup",
     "tags": [
-      "breakfast-ideas",
-      "canadian-cuisine",
-      "crepe-recipes",
-      "flambe-recipes",
-      "low-fat",
-      "spring-recipes"
+      "crepes",
+      "maple-syrup",
+      "canadian",
+      "dessert"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "French-Canadian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -7508,16 +7504,15 @@
   },
   {
     "slug": "kissed-japanese-rice-bowl",
-    "title": "Kissed Japanese Rice Bowl",
+    "title": "Japanese Rice Bowl",
     "tags": [
-      "brunch",
-      "crunchy",
-      "halal",
       "japanese",
-      "sweet-savory"
+      "rice-bowl",
+      "lunch",
+      "quick-meal"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "k"
   },
   {
@@ -16145,6 +16140,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-indulgent-algerian-lamb-tagine--japanese",
+    "title": "Algerian Lamb Tagine with Japanese Twist",
+    "tags": [
+      "lamb",
+      "tagine",
+      "japanese",
+      "algerian",
+      "fusion"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 150,
     "shard": "k"
   }
 ]
