@@ -16270,5 +16270,31 @@
     "cuisine": "thai",
     "totalTimeMin": 20,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-rich-italian-tomato-bruschetta--german",
+    "title": "German-Style Bruschetta",
+    "tags": [
+      "german",
+      "bread",
+      "tomato",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-and-gooey-thai-tiger-prawns-kanom-ko--french",
+    "title": "Kanom Prawn Wellington",
+    "tags": [
+      "french",
+      "prawns",
+      "wellington",
+      "pastry"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "k"
   }
 ]
