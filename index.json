@@ -16167,5 +16167,31 @@
     "cuisine": "Eastern European",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kurokuzu-black-pudding-and-vinegar-crunch--chinese",
+    "title": "Chinese Crunchy Black Pudding Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "black-pudding",
+      "crunchy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-spices-moroccan-fromage-frais-tagine--italian",
+    "title": "Moroccan Chicken Tagine with Italian Twist",
+    "tags": [
+      "italian",
+      "moroccan",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 60,
+    "shard": "k"
   }
 ]
