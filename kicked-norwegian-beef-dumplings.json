@@ -1,0 +1,96 @@
+{
+  "slug": "kicked-norwegian-beef-dumplings",
+  "title": "Beef and Dumpling Stew",
+  "description": "A hearty stew made with tender beef and fluffy dumplings, perfect for a cold winter's night.",
+  "cuisine": "scandinavian",
+  "diet": [
+    "beef",
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "kicked",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "norwegian",
+      "amount": "1 cup",
+      "notes": "buttermilk"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dumplings"
+    },
+    {
+      "name": "shortening",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onion, carrot, and celery to pot and cook until tender, about 5 minutes.",
+    "Add flour to pot and cook for 1 minute.",
+    "Gradually add buttermilk, whisking constantly. Bring to a boil, then reduce heat to low and simmer for 5 minutes.",
+    "Add browned beef back to pot and season with salt and pepper.",
+    "To make dumplings, combine flour and shortening in a bowl. Gradually add buttermilk, stirring with a fork until a dough forms.",
+    "Drop dumplings by tablespoonfuls onto the surface of the stew.",
+    "Cover pot and simmer for 10-15 minutes, or until dumplings are cooked through.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "dumplings",
+    "winter-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-norwegian-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T00:32:44.908Z"
+}
