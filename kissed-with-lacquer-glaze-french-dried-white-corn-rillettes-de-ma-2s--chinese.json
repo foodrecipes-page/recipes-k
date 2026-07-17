@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s--chinese",
+  "title": "Chinese Dried Glazed Chicken",
+  "description": "This Chinese-inspired dish features crispy-skinned chicken glazed with a sweet and sticky sauce, made with a combination of soy sauce, honey, and rice vinegar.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dried",
+      "amount": "1 tablespoon",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "glaze",
+      "amount": "2 tablespoons",
+      "notes": "honey"
+    },
+    {
+      "name": "lacquer",
+      "amount": "1 tablespoon",
+      "notes": "rice vinegar"
+    },
+    {
+      "name": "french",
+      "amount": "1 teaspoon",
+      "notes": "thyme"
+    },
+    {
+      "name": "white",
+      "amount": "1 tablespoon",
+      "notes": "cornstarch"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "rillettes",
+      "amount": "2 tablespoons",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the chicken breasts and pat them dry with a paper towel.",
+    "In a small bowl, whisk together the soy sauce, honey, rice vinegar, and cornstarch.",
+    "Heat 2 tablespoons of sesame oil in a large skillet over medium-high heat.",
+    "Add the chicken breasts to the skillet and cook for 2-3 minutes on each side, or until browned.",
+    "Transfer the chicken to a baking sheet and brush the soy sauce mixture evenly over the top of each breast.",
+    "Bake for 15-20 minutes, or until the chicken is cooked through and the glaze is caramelized.",
+    "Let the chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "glazed-chicken",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:58:01.670Z"
+}
