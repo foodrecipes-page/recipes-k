@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein--thai",
+  "title": "Thai Lo Mein Stir Fry",
+  "description": "A quick and easy Thai-inspired stir-fry made with lo mein noodles, vegetables, and a flavorful sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lo Mein Noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the chopped onion and cook for 3-4 minutes, until translucent.",
+    "Add the caraway seeds and cook for 1 minute, until fragrant.",
+    "Add the minced ginger and cook for 1 minute, until fragrant.",
+    "Add the lo mein noodles and cook for 2-3 minutes, until heated through.",
+    "In a small bowl, whisk together the soy sauce and rice vinegar.",
+    "Pour the sauce over the noodles and vegetables, and stir-fry for 1-2 minutes, until the noodles are well coated.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "noodles",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-caraway-chinese-rice-noodles-lo-mein--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T21:07:47.196Z"
+}
