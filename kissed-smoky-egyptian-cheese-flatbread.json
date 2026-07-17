@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-smoky-egyptian-cheese-flatbread",
+  "title": "Smoky Egyptian Flatbread",
+  "description": "A flavorful flatbread from Egypt, topped with melted cheese and a hint of smokiness.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kissed bread dough",
+      "amount": "1 cup",
+      "notes": "available at local bakery"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "1 tsp",
+      "notes": "adds a smoky flavor"
+    },
+    {
+      "name": "egyptian cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly feta or goat cheese"
+    },
+    {
+      "name": "flatbread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the kissed bread dough to a thickness of 1/4 inch.",
+    "Brush the dough with olive oil and sprinkle with smoky paprika.",
+    "Top the dough with egyptian cheese.",
+    "Bake the flatbread in the preheated oven for 15-20 minutes or until golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Cut into slices and serve with flatbread on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "egyptian-cuisine",
+    "cheese",
+    "easy-snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-egyptian-cheese-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:20:38.988Z"
+}
