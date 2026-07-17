@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-smoky-syrian-cobnuts-pilaf",
+  "title": "Smoky Syrian Pilaf with Cobnuts",
+  "description": "A flavorful and nutritious pilaf dish featuring smoky flavors and crunchy cobnuts.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Syrian rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Cobnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoky paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat kissed olive oil in a large saucepan over medium heat.",
+    "Add Syrian rice and cook for 2 minutes, stirring frequently.",
+    "Add smoky paprika, salt, and black pepper. Stir to combine.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until the water is absorbed.",
+    "Fluff the pilaf with a fork and stir in chopped cobnuts.",
+    "Transfer the pilaf to a serving platter and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middle eastern",
+    "pilaf",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-syrian-cobnuts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T15:54:11.051Z"
+}
