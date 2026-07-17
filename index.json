@@ -7848,17 +7848,16 @@
   },
   {
     "slug": "kissed-korean-radish-jeon",
-    "title": "Kissed Korean Radish Jeon",
+    "title": "Spicy Korean Jeon with Radish Slaw",
     "tags": [
-      "comforting",
-      "jeon",
       "korean",
-      "radish",
-      "salty",
-      "shojin-friendly"
+      "breakfast",
+      "pancake",
+      "slaw",
+      "radish"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 20,
+    "totalTimeMin": 32,
     "shard": "k"
   },
   {
@@ -16192,6 +16191,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-algerian-chicken-tagine--italian",
+    "title": "Chicken Tagine Pasta",
+    "tags": [
+      "italian",
+      "chicken",
+      "pasta",
+      "north-african"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-lacquer-glaze-french-dried-white-corn-rillettes-de-ma-2s--chinese",
+    "title": "Chinese Dried Glazed Chicken",
+    "tags": [
+      "chinese",
+      "glazed-chicken",
+      "easy-dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
