@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-with-caraway-chinese-rice-noodles-lo-mein--indian",
+  "title": "Indian-Style Lo Mein with Caraway Rice",
+  "description": "A flavorful and spicy Indian-inspired dish made with lo mein, caraway-infused rice, and a blend of aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lo mein",
+      "amount": "250g"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chinese eggplant",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add caraway seeds and sauté for 1 minute.",
+    "Add onion and garlic and sauté until the onion is translucent.",
+    "Add lo mein, cabbage, and eggplant and stir-fry for 5 minutes.",
+    "Add garam masala, turmeric, and cumin and stir-fry for another minute.",
+    "Add rice to the pan and stir-fry for 2 minutes.",
+    "Mix well and serve hot.",
+    "Garnish with chopped cilantro, if desired.",
+    "Serve with a dollop of raita or a sprinkle of chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chinese",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-caraway-chinese-rice-noodles-lo-mein--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T20:02:59.287Z"
+}
