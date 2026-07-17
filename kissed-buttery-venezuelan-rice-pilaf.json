@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-buttery-venezuelan-rice-pilaf",
+  "title": "Venezuelan-Style Rice Pilaf",
+  "description": "A flavorful and aromatic side dish inspired by Venezuelan cuisine, perfect for accompanying grilled meats and vegetables.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Buttery",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 teaspoon",
+      "notes": "dried, crushed herbs (such as thyme or oregano)"
+    },
+    {
+      "name": "Venezuelan",
+      "amount": "1 teaspoon",
+      "notes": "dried, ground cumin"
+    }
+  ],
+  "instructions": [
+    "Heat the buttery in a medium saucepan over medium heat.",
+    "Add the kissed and venezuelan, and cook for 1 minute, stirring constantly.",
+    "Add the rice and stir to coat with the spice mixture.",
+    "Cook for 2-3 minutes, until the rice is lightly toasted.",
+    "Add 2 cups of water to the saucepan and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 18-20 minutes, until the water is absorbed and the rice is tender.",
+    "Fluff the rice pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "latin american",
+    "rice pilaf",
+    "side dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-buttery-venezuelan-rice-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T18:33:03.387Z"
+}
