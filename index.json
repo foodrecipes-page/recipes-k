@@ -16481,5 +16481,18 @@
     "cuisine": "Croatian",
     "totalTimeMin": 45,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-ukrainian-beef-skillet--vegetarian",
+    "title": "Crispy Ukrainian Beet Skillet",
+    "tags": [
+      "beets",
+      "onion",
+      "garlic",
+      "skillet"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "k"
   }
 ]
