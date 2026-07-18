@@ -1,0 +1,89 @@
+{
+  "slug": "keto-crunchy-portuguese-beef-burger",
+  "title": "Portuguese Beef Burger",
+  "description": "A keto twist on the classic burger, featuring a beef patty topped with crunchy lettuce, tomato, and melted cheese.",
+  "cuisine": "portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 heads",
+      "notes": "crunchy"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cheese",
+      "amount": "100g",
+      "notes": "melted"
+    },
+    {
+      "name": "Burger Buns",
+      "amount": "4",
+      "notes": "optional"
+    },
+    {
+      "name": "Portuguese Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a large bowl, combine ground beef, Portuguese spice blend, salt, and pepper. Mix well with your hands until just combined.",
+    "3. Divide the beef mixture into 4 equal portions and shape into patties.",
+    "4. Brush the grill or grill pan with egg wash to prevent sticking.",
+    "5. Grill the beef patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "6. Meanwhile, toast the burger buns on the grill if using.",
+    "7. Assemble the burgers with lettuce, tomato, and cheese.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "burger",
+    "portuguese",
+    "keto",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 6,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-crunchy-portuguese-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:11:37.793Z"
+}
