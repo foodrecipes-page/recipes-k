@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-with-robata-smoke-american-bok-choi-skewers--french",
+  "title": "Grilled Bok Choi Skewers with Smoked American Cheese Sauce",
+  "description": "A unique French-inspired dish featuring smoky grilled bok choi, served with a side of creamy American cheese sauce.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "bok choi",
+      "amount": "2 heads",
+      "notes": "stemmed and cut into 1-inch pieces"
+    },
+    {
+      "name": "american cheese",
+      "amount": "8 ounces",
+      "notes": "sliced"
+    },
+    {
+      "name": "with garlic butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "smoke paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kissed olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "robata skewers",
+      "amount": "12 wooden skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread bok choi onto skewers, leaving space between each piece.",
+    "Season with salt and pepper.",
+    "Grill for 5-7 minutes per side, or until tender.",
+    "Meanwhile, melt butter and mix with garlic, paprika, and cheese.",
+    "Grill cheese sauce for 1-2 minutes per side, until golden brown.",
+    "Serve bok choi skewers with cheese sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "cheese",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-robata-smoke-american-bok-choi-skewers--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:19:58.509Z"
+}
