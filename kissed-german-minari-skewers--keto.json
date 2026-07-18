@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-german-minari-skewers--keto",
+  "title": "Korean-Style Minari Skewers",
+  "description": "A keto-friendly Korean-inspired dish featuring marinated minari on skewers with a hint of spice.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minari",
+      "amount": "12 oz",
+      "notes": "fresh or frozen, thawed"
+    },
+    {
+      "name": "german mustard",
+      "amount": "2 tbsp",
+      "notes": "add flavor to marinade"
+    },
+    {
+      "name": "kissed garlic",
+      "amount": "3 cloves",
+      "notes": "minced, for added depth"
+    },
+    {
+      "name": "skewers (bamboo or metal)",
+      "amount": "1 package",
+      "notes": "for grilling or broiling"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1/4 cup",
+      "notes": "for marinade, keto-friendly"
+    },
+    {
+      "name": "pork belly fat",
+      "amount": "1/4 cup",
+      "notes": "for added richness, optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for added spice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400°F (200°C) or broiler to high.",
+    "In a large bowl, whisk together coconut aminos, german mustard, and minced garlic.",
+    "Add minari to marinade and mix well. Let sit for 10-15 minutes.",
+    "Thread marinated minari onto skewers, leaving space between each piece.",
+    "If using pork belly fat, sprinkle on top of minari.",
+    "Grill or broil skewers for 8-10 minutes, or until minari is tender.",
+    "Season with black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "keto",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-german-minari-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:57:46.350Z"
+}
