@@ -332,16 +332,16 @@
   },
   {
     "slug": "keto-crunchy-portuguese-beef-burger",
-    "title": "Keto Crunchy Portuguese Beef Burger",
+    "title": "Portuguese Beef Burger",
     "tags": [
       "beef",
       "burger",
-      "grill",
+      "portuguese",
       "keto",
-      "portuguese"
+      "crunchy"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 25,
+    "cuisine": "portuguese",
+    "totalTimeMin": 18,
     "shard": "k"
   },
   {
