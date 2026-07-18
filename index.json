@@ -16286,5 +16286,29 @@
     "cuisine": "french",
     "totalTimeMin": 55,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-american-chicken-skillet--vegetarian",
+    "title": "Vegetarian Skillet Delight",
+    "tags": [
+      "skillet",
+      "vegetarian",
+      "american"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-binchotan-grill-slovakian-meal-prep-hash--italian",
+    "title": "Pan-Seared Binchotan Steak with Slovakian Hash",
+    "tags": [
+      "italian",
+      "grilled-steak",
+      "hash"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
