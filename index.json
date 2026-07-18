@@ -16494,5 +16494,18 @@
     "cuisine": "Ukrainian",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "knockout-pungent-dutch-pickle-stew--italian",
+    "title": "Italian Braised Beef Stew",
+    "tags": [
+      "italian",
+      "beef",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 170,
+    "shard": "k"
   }
 ]
