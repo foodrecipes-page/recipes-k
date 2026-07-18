@@ -1,0 +1,68 @@
+{
+  "slug": "kicky-crunchy-ukrainian-mushroom-dumplings--vegan",
+  "title": "Vegan Ukrainian Mushroom Dumplings",
+  "description": "A hearty and flavorful Ukrainian-inspired dish made with homemade dumplings, sautéed mushrooms, and a variety of spices. This recipe is entirely plant-based and perfect for a cozy evening meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "any variety, finely chopped"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 package",
+      "notes": "dried ukrainian mushrooms, rehydrated and chopped"
+    },
+    {
+      "name": "kicky",
+      "amount": "1/2 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "dumplings",
+      "amount": "1 package",
+      "notes": "homemade or store-bought vegan dumpling dough"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan, heat 1 tablespoon of oil over medium heat.",
+    "2. Add the chopped mushrooms and cook until they release their liquid and start to brown.",
+    "3. Add the rehydrated Ukrainian mushrooms, cumin, and parsley. Cook for an additional 2-3 minutes.",
+    "4. Separate the dumpling dough into small balls and roll out each ball into a thin circle.",
+    "5. Place a tablespoon of the mushroom filling in the center of each dumpling circle.",
+    "6. Fold the dumpling in half to form a half-moon shape and press the edges together to seal.",
+    "7. In a large pot of boiling water, cook the dumplings for 5-7 minutes, or until they float to the surface.",
+    "8. Serve the dumplings hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "ukrainian",
+    "mushroom",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-crunchy-ukrainian-mushroom-dumplings--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:06:36.946Z"
+}
