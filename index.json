@@ -16523,5 +16523,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-venezuelan-potato-hash--japanese",
+    "title": "Smoky Hash Gyoza",
+    "tags": [
+      "japanese",
+      "snack",
+      "dumplings"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
