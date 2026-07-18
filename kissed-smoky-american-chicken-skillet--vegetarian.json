@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-smoky-american-chicken-skillet--vegetarian",
+  "title": "Vegetarian Skillet Delight",
+  "description": "A flavorful and easy-to-make skillet dish packed with smoky flavors and kissed with a hint of sweetness.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "skillet",
+      "amount": "1"
+    },
+    {
+      "name": "american",
+      "amount": "2 tablespoons, olive oil"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 cup, sliced bell peppers"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 cup, sliced onions"
+    },
+    {
+      "name": "chicken",
+      "amount": "1 pound, substitute with portobello mushrooms for vegetarian option"
+    }
+  ],
+  "instructions": [
+    "Preheat the skillet over medium heat.",
+    "Add 1 tablespoon of olive oil and sauté the onions until they're translucent.",
+    "Add the sliced bell peppers and cook for an additional 3-4 minutes.",
+    "Add the mushrooms (or chicken, if using) and cook until browned.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "skillet",
+    "vegetarian",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-american-chicken-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:34:16.724Z"
+}
