@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-smoky-venezuelan-potato-hash--japanese",
+  "title": "Smoky Hash Gyoza",
+  "description": "Japanese-inspired pan-fried dumplings filled with smoky hash and served with a kiss of spice.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Hash",
+      "amount": "1 cup",
+      "notes": "crispy, shredded potatoes"
+    },
+    {
+      "name": "Venezuelan cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded, crumbled"
+    },
+    {
+      "name": "Kissed eggs",
+      "amount": "2",
+      "notes": "beaten eggs seasoned with salt and pepper"
+    },
+    {
+      "name": "Smoky bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Gyoza wrappers",
+      "amount": "20",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "for serving"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large pan over medium heat, cook the diced bacon until crispy.",
+    "2. Add the shredded hash to the pan and cook, stirring occasionally, until golden brown.",
+    "3. In a large bowl, combine the cooked hash mixture, shredded cheese, and beaten eggs. Season with salt and pepper.",
+    "4. Lay a gyoza wrapper on a flat surface and place a tablespoon of the hash mixture in the center.",
+    "5. Dip your finger in a small amount of water and run it along the edge of the wrapper.",
+    "6. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point.",
+    "7. Press the edges together to seal the dumpling.",
+    "8. Repeat with the remaining wrappers and filling.",
+    "9. In a large skillet or wok, heat a couple of tablespoons of oil over medium-high heat.",
+    "10. When the oil is hot, add a few of the gyoza to the pan and cook until the bottom is golden brown.",
+    "11. Add a small amount of water to the pan and cover with a lid.",
+    "12. Steam the gyoza for 2-3 minutes, or until the water has evaporated and the dumplings are cooked through."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-venezuelan-potato-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T19:15:36.514Z"
+}
