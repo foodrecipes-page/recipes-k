@@ -16430,5 +16430,30 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-roast-kenyan-narutomaki-roast--vegetarian",
+    "title": "Kenyan Roast Wrap",
+    "tags": [
+      "kenyan",
+      "vegetarian",
+      "wrap",
+      "sweet-potato-fries"
+    ],
+    "cuisine": "kenyan",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "keen-saudi-arabian-water-tagine--french",
+    "title": "Saudian Chicken Tagine",
+    "tags": [
+      "chicken",
+      "north-african",
+      "couscous"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "k"
   }
 ]
