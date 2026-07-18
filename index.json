@@ -3986,14 +3986,14 @@
   },
   {
     "slug": "kissed-canadian-garlicky-roast-roast",
-    "title": "kissed canadian garlicky roast roast",
+    "title": "Canadian Roast Beef Delight",
     "tags": [
-      "flexitarian",
-      "one-pan",
-      "weeknight"
+      "beef",
+      "roast",
+      "canadian"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 50,
+    "cuisine": "Canadian",
+    "totalTimeMin": 135,
     "shard": "k"
   },
   {
@@ -16365,6 +16365,44 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-indian-lentil-dal--french",
+    "title": "French-Style Lentil Stew",
+    "tags": [
+      "lentil",
+      "stew",
+      "vegetarian",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kicky-crunchy-ukrainian-mushroom-dumplings--vegan",
+    "title": "Vegan Ukrainian Mushroom Dumplings",
+    "tags": [
+      "vegan",
+      "ukrainian",
+      "mushroom",
+      "dumplings"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-herbal-french-rice-souffle--french",
+    "title": "French Soufflé Rice Bowl",
+    "tags": [
+      "french-food",
+      "souffle",
+      "rice-bowl"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
