@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-molten-russian-bun-bao",
+  "title": "Russian Bao Bun Sliders",
+  "description": "A fusion of Russian flavors in a soft, fluffy bao bun, filled with kissed beef and topped with molten cheese.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (kissed)",
+      "amount": "250g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Bao buns",
+      "amount": "4",
+      "notes": "Soft, fluffy buns"
+    },
+    {
+      "name": "Molten cheese",
+      "amount": "100g",
+      "notes": "Sliced into thin pieces"
+    },
+    {
+      "name": "Russian dill",
+      "amount": "20g",
+      "notes": "Fresh, chopped"
+    },
+    {
+      "name": "Onion",
+      "amount": "50g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "20g",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mustard",
+      "amount": "10g",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Add a small amount of oil to the grill and cook the beef for 3-4 minutes per side, or until cooked to desired level of doneness.",
+    "3. Meanwhile, toast the bao buns on the grill or in a toaster.",
+    "4. Assemble the sliders by spreading a small amount of mayonnaise or mustard on the bottom bun, if using.",
+    "5. Add a few slices of the cooked beef, followed by a slice of molten cheese.",
+    "6. Top with a sprinkle of chopped Russian dill and a few slices of onion.",
+    "7. Place the top bun on the slider and serve immediately.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "bao",
+    "melted-cheese",
+    "sliders"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-russian-bun-bao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T14:52:57.109Z"
+}
