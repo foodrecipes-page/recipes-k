@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-crispy-ukrainian-beef-skillet--vegetarian",
+  "title": "Crispy Ukrainian Beet Skillet",
+  "description": "A flavorful vegetarian dish that combines the sweetness of beets with the crunch of crispy onions. This skillet is a hearty and satisfying meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "kissed garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the skillet oil in a large oven-safe skillet over medium-high heat.",
+    "Add the sliced onion and cook until crispy, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beets to the skillet and cook for 5 minutes.",
+    "Transfer the skillet to the oven and roast at 425°F (220°C) for 20-25 minutes, or until the beets are tender.",
+    "Top the beets with crispy fried onions and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beets",
+    "onion",
+    "garlic",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-ukrainian-beef-skillet--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:41:41.411Z"
+}
