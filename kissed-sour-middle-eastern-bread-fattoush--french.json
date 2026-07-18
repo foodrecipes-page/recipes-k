@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-sour-middle-eastern-bread-fattoush--french",
+  "title": "French Fattoush",
+  "description": "A French twist on the classic Middle Eastern salad, featuring toasted bread and a tangy dressing.",
+  "cuisine": "French",
+  "diet": [
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Middle eastern bread",
+      "amount": "4 slices",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Eastern greens",
+      "amount": "2 cups",
+      "notes": "such as romaine lettuce"
+    },
+    {
+      "name": "Fattoush mix",
+      "amount": "1 cup",
+      "notes": "pre-mixed with herbs like parsley, mint"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tablespoons",
+      "notes": "adds a tangy flavor"
+    },
+    {
+      "name": "Kissed balsamic vinegar",
+      "amount": "1 tablespoon",
+      "notes": "or regular balsamic vinegar"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cut the bread into 1-inch (2.5 cm) cubes and toast for 5-7 minutes.",
+    "In a large bowl, combine the toasted bread, eastern greens, fattoush mix, and a pinch of salt.",
+    "In a small bowl, whisk together the sour cream and kissed balsamic vinegar.",
+    "Pour the dressing over the bread mixture and toss to combine.",
+    "Adjust seasoning as needed.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "salad",
+    "middle-eastern",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-sour-middle-eastern-bread-fattoush--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T10:47:17.512Z"
+}
