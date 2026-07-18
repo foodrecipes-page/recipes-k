@@ -16417,5 +16417,18 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-with-robata-smoke-american-bok-choi-skewers--french",
+    "title": "Grilled Bok Choi Skewers with Smoked American Cheese Sauce",
+    "tags": [
+      "grilled",
+      "cheese",
+      "french",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
