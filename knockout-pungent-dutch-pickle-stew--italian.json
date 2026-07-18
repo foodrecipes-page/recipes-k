@@ -1,0 +1,81 @@
+{
+  "slug": "knockout-pungent-dutch-pickle-stew--italian",
+  "title": "Italian Braised Beef Stew",
+  "description": "A hearty Italian-inspired beef stew made with tender beef and flavorful vegetables, perfect for a cold winter night.",
+  "cuisine": "italian",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef stew",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "pickle",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dutch",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Season the beef cubes with salt and pepper.",
+    "Heat the dutch in a large Dutch oven over medium-high heat.",
+    "Sear the beef cubes until browned on all sides, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the beef back to the pot, along with the pickle and beef broth.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in the preheated oven for 2 1/2 hours, or until the beef is tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-pungent-dutch-pickle-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:19:48.467Z"
+}
