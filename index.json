@@ -9719,16 +9719,13 @@
   },
   {
     "slug": "kissed-silky-hangover-cure-indian-duck-confit-leg-skillet",
-    "title": "Kissed silky hangover-cure Indian Duck-confit-leg Skillet",
+    "title": "Indian Confit Duck Leg",
     "tags": [
-      "breakfast",
-      "brunch",
-      "comfort-food",
-      "hangover-cure",
-      "indian",
-      "one-pan"
+      "indian-food",
+      "confit-duck",
+      "naan-bread"
     ],
-    "cuisine": "Indian",
+    "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "k"
   },
@@ -16516,6 +16513,18 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 65,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-crunchy-irish-chilli-skillet--mexican",
+    "title": "Skillet Chilli Fajitas",
+    "tags": [
+      "mexican",
+      "fajitas",
+      "skillet-cooked"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
