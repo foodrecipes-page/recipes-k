@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-with-sweetness-mediterranean-fish-pilaf--french",
+  "title": "Pan-Seared Fish with Mediterranean Pilaf",
+  "description": "A flavorful French-inspired dish featuring pan-seared fish served with a mediterranean pilaf.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a non-stick pan over medium-high heat.",
+    "2. Season the fish fillet with salt and sugar.",
+    "3. Add olive oil to the pan and sear the fish for 2-3 minutes on each side.",
+    "4. Remove the fish from the pan and set aside.",
+    "5. Cook the Mediterranean pilaf mix according to package instructions.",
+    "6. Serve the pilaf with the pan-seared fish.",
+    "7. Squeeze a tablespoon of lemon juice over the fish and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "french-cuisine",
+    "quick-meals"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-sweetness-mediterranean-fish-pilaf--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:47:24.638Z"
+}
