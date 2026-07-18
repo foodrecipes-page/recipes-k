@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-canadian-tofu-stew--keto",
+  "title": "Tofu Stew Keto Delight",
+  "description": "A hearty keto stew made with tender tofu, rich stew, and a hint of kissed flavor, perfect for a chilly day.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (12 oz)",
+      "notes": "Drained and cubed"
+    },
+    {
+      "name": "canadian stew",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Add the kissed and cook for 1-2 minutes until fragrant.",
+    "Add the cubed tofu and cook until golden brown.",
+    "Pour in the Canadian stew and bring to a simmer.",
+    "Reduce heat to medium-low and let cook for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "stew",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-tofu-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:56:49.983Z"
+}
