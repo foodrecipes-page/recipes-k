@@ -16455,5 +16455,31 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-sour-middle-eastern-bread-fattoush--french",
+    "title": "French Fattoush",
+    "tags": [
+      "french",
+      "salad",
+      "middle-eastern",
+      "bread"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-wood-fired-croatian-vegetable-casserole--keto",
+    "title": "Croatian Wood-fired Vegetable Casserole",
+    "tags": [
+      "croatian",
+      "keto",
+      "casserole",
+      "wood-fired"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "k"
   }
 ]
