@@ -1,0 +1,59 @@
+{
+  "slug": "kissed-dry-norwegian-beet-hash",
+  "title": "Norwegian Hash Browned Beet Patties",
+  "description": "A hearty, flavorful dish featuring norwegian hash, beetroot, and kissed dry ingredients. Perfect for a satisfying dinner.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beetroot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Norwegian Hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Dry Kissed Bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Hash browns",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and grate the beetroot.",
+    "In a large bowl, combine grated beetroot, Norwegian hash, cubed bread, and hash browns.",
+    "Mix well until all ingredients are fully incorporated.",
+    "Divide the mixture into 4 equal parts and shape into patties.",
+    "Brush the tops with a small amount of oil.",
+    "Bake for 25-30 minutes or until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beetroot",
+    "hash-brown",
+    "scandinavian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dry-norwegian-beet-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:24:40.960Z"
+}
