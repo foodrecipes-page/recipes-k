@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-golden-canadian-crepes-pancakes--keto",
+  "title": "Keto Canadian Crepes with Golden Syrup",
+  "description": "A delicious keto breakfast dish made with crepes, topped with golden syrup and fresh crepes.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Golden syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Heavy cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Butter, melted",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Keto vanilla extract",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together almond flour, eggs, and keto vanilla extract.",
+    "Heat a small non-stick pan over medium heat.",
+    "Pour 1/4 cup of the batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the crepe with a spatula and flip.",
+    "Cook for another minute, until the other side is lightly browned.",
+    "Repeat with the remaining batter, until all crepes are made.",
+    "Serve crepes warm, topped with golden syrup and fresh crepes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "breakfast",
+    "crepes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-golden-canadian-crepes-pancakes--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:52:14.320Z"
+}
