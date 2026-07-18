@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-wood-fired-croatian-vegetable-casserole--keto",
+  "title": "Croatian Wood-fired Vegetable Casserole",
+  "description": "A delicious and healthy keto casserole made with wood-fired oven roasted vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kissed croatian paprika",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Wood-fired roasted onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Croatian cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "1",
+      "notes": "9x13 inch"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the vegetable oil over medium-high heat. Add the mushrooms, zucchini, and bell peppers. Cook until the vegetables are tender, about 5 minutes.",
+    "In a large bowl, combine the cooked vegetables, wood-fired roasted onions, and Croatian cheese. Mix well.",
+    "Transfer the vegetable mixture to the casserole dish. Sprinkle the kissed croatian paprika on top.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "keto",
+    "casserole",
+    "wood-fired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-wood-fired-croatian-vegetable-casserole--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:21:20.199Z"
+}
