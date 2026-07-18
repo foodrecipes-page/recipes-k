@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-with-spices-egyptian-lamb-tagine",
+  "title": "Classic Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan dish made with tender lamb and aromatic spices, slow-cooked in a clay pot.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Kissed olives",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "Spices",
+      "amount": "",
+      "notes": "A mixture of cumin, coriander, cinnamon, turmeric, ginger, and black pepper"
+    },
+    {
+      "name": "Egyptian coriander",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "With preserved lemon",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large clay pot over medium heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the spices, olives, coriander, and preserved lemon.",
+    "Stir to combine, then add 1 cup of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 2 hours.",
+    "Check the lamb for tenderness, then serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "moroccan",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 840,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 60
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-spices-egyptian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T18:29:20.295Z"
+}
