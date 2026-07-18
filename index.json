@@ -5615,16 +5615,14 @@
   },
   {
     "slug": "kissed-dry-norwegian-beet-hash",
-    "title": "Kissed Dry Norwegian Beet Hash",
+    "title": "Norwegian Hash Browned Beet Patties",
     "tags": [
-      "breakfast-ideas",
-      "brunch-recipes",
-      "hangover-cure",
-      "norwegian-cuisine",
-      "paleo-friendly"
+      "beetroot",
+      "hash-brown",
+      "scandinavian-cuisine"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 50,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -10986,18 +10984,14 @@
   },
   {
     "slug": "kissed-springy-venezuelan-rice-pilaf",
-    "title": "Kissed Springy Venezuelan Rice Pilaf",
+    "title": "Venezuelan Rice Pilaf",
     "tags": [
-      "crowd-pleaser",
-      "dried-fruit",
-      "herbal",
-      "nut-free-friendly",
-      "one-pot",
-      "springy",
-      "venezuelan-dish"
+      "latin-american",
+      "rice-dish",
+      "vegan"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 35,
+    "cuisine": "Latin American",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16309,6 +16303,68 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-golden-canadian-crepes-pancakes--keto",
+    "title": "Keto Canadian Crepes with Golden Syrup",
+    "tags": [
+      "keto",
+      "breakfast",
+      "crepes"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-canadian-tofu-stew--keto",
+    "title": "Tofu Stew Keto Delight",
+    "tags": [
+      "keto",
+      "stew",
+      "lunch",
+      "easy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-german-minari-skewers--keto",
+    "title": "Korean-Style Minari Skewers",
+    "tags": [
+      "korean",
+      "keto",
+      "grilled"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "knotty-shattering-italian-pasta--mexican",
+    "title": "Knotty Italian Pasta",
+    "tags": [
+      "italian",
+      "mexican",
+      "fusion",
+      "pasta"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-sweetness-mediterranean-fish-pilaf--french",
+    "title": "Pan-Seared Fish with Mediterranean Pilaf",
+    "tags": [
+      "seafood",
+      "french-cuisine",
+      "quick-meals"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 22,
     "shard": "k"
   }
 ]
