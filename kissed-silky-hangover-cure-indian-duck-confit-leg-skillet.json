@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-silky-hangover-cure-indian-duck-confit-leg-skillet",
+  "title": "Indian Confit Duck Leg",
+  "description": "A flavorful and aromatic dish made with tender duck leg confit, originating from the culinary traditions of India. Serve with naan or rice for a satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck leg confit",
+      "amount": "2",
+      "notes": "from Indian market"
+    },
+    {
+      "name": "silky soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "kissed garam masala",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    },
+    {
+      "name": "skillet oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "cured lemon",
+      "amount": "1",
+      "notes": "for garnish"
+    },
+    {
+      "name": "hanging spinach",
+      "amount": "1 bunch",
+      "notes": "for serving"
+    },
+    {
+      "name": "leg of naan",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Marinate the duck leg confit in a mixture of silky soy sauce, kissed garam masala, and a pinch of salt for at least 2 hours.",
+    "Heat the skillet oil in an oven-safe skillet over medium-high heat. Sear the duck leg confit until browned on both sides.",
+    "Transfer the skillet to the preheated oven and cook the duck leg confit for 20-25 minutes, or until tender.",
+    "Meanwhile, warm the naan bread in the oven for 5 minutes.",
+    "To serve, place a duck leg confit on each naan bread, then top with a spoonful of hanging spinach and a slice of cured lemon."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "confit-duck",
+    "naan-bread"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-hangover-cure-indian-duck-confit-leg-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:17:56.860Z"
+}
