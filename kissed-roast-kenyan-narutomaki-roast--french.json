@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-roast-kenyan-narutomaki-roast--french",
+  "title": "French Roast Chicken",
+  "description": "A classic French dish featuring a whole chicken roasted to perfection, served with a side of steamed vegetables. This recipe is perfect for a cozy dinner with family and friends.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1",
+      "notes": "3-4 lbs"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the chicken and pat it dry with paper towels.",
+    "Season the chicken with salt, pepper, and garlic.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Sear the chicken on all sides until golden brown, about 5 minutes.",
+    "Transfer the chicken to a roasting pan and roast in the preheated oven for 45-50 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "While the chicken is roasting, sauté the chopped onion in the skillet until softened.",
+    "Serve the roasted chicken with the steamed vegetables and sautéed onion.",
+    "Let the chicken rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "roast",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 60,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roast-kenyan-narutomaki-roast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T15:08:56.133Z"
+}
