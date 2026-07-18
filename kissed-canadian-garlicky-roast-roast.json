@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-canadian-garlicky-roast-roast",
+  "title": "Canadian Roast Beef Delight",
+  "description": "A classic roast beef dish infused with a hint of Canadian flavor, perfect for a cozy dinner.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast Beef (Canadian Cut)",
+      "amount": "2 lbs",
+      "notes": "Prime rib or top round works well."
+    },
+    {
+      "name": "Roast Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince before applying."
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 tbsp",
+      "notes": "Chopped or whole sprigs work well."
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the roast beef with salt, pepper, and thyme.",
+    "Rub the minced garlic over the roast beef, making sure to coat evenly.",
+    "Place the roast beef in a roasting pan and put it in the oven.",
+    "Roast for 15 minutes per pound, or until the internal temperature reaches 135°F (57°C) for medium-rare.",
+    "Remove the roast beef from the oven and let it rest for 10-15 minutes.",
+    "Slice the roast beef against the grain and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "roast",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 60,
+    "carbs": 0,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-canadian-garlicky-roast-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:04:49.821Z"
+}
