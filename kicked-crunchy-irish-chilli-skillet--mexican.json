@@ -1,0 +1,73 @@
+{
+  "slug": "kicked-crunchy-irish-chilli-skillet--mexican",
+  "title": "Skillet Chilli Fajitas",
+  "description": "A spicy mexican dish made with kicked chilli peppers, crunchy vegetables, and irish skillet-cooked meat, served with a side of crusty bread. Perfect for a quick and easy dinner.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kicked chilli peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "irish steak",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "crunchy bell peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "used for cooking"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in the skillet over medium-high heat.",
+    "Add the sliced irish steak and cook for 3-4 minutes per side, or until it reaches an internal temperature of 160°F (71°C).",
+    "Remove the steak from the skillet and set aside.",
+    "Add the diced onion and kicked chilli peppers to the skillet and cook until the vegetables are tender.",
+    "Add the sliced crunchy bell peppers to the skillet and cook for an additional 2-3 minutes.",
+    "Return the cooked steak to the skillet and stir to combine with the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve the fajitas hot, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "fajitas",
+    "skillet-cooked"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crunchy-irish-chilli-skillet--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T16:39:57.132Z"
+}
