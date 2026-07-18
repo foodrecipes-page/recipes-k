@@ -16505,5 +16505,17 @@
     "cuisine": "italian",
     "totalTimeMin": 170,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-roast-kenyan-narutomaki-roast--french",
+    "title": "French Roast Chicken",
+    "tags": [
+      "chicken",
+      "roast",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 65,
+    "shard": "k"
   }
 ]
