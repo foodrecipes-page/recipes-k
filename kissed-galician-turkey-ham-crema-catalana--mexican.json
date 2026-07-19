@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-galician-turkey-ham-crema-catalana--mexican",
+  "title": "Turkey Tinga Tacos",
+  "description": "A twist on traditional tacos, using shredded turkey cooked in a smoky chipotle tomato sauce, served with crema and crispy kissed tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 lb turkey breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup crema",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 kissed tortillas",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped galician onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped catalana tomatoes",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp smoked paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 slices ham",
+      "amount": "4 slices",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onions and cook until softened, about 3-4 minutes.",
+    "Add the chopped tomatoes and cook for an additional 2-3 minutes.",
+    "Shred the turkey breast and add it to the skillet, stirring to combine.",
+    "Add the cumin, smoked paprika, salt, and pepper, and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes, stirring occasionally.",
+    "Warm the kissed tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the turkey mixture onto a tortilla and topping with crema, ham (if using), and any desired additional toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "turkey",
+    "chipotle"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-galician-turkey-ham-crema-catalana--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T08:10:29.471Z"
+}
