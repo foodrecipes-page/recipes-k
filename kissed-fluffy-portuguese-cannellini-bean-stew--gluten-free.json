@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-fluffy-portuguese-cannellini-bean-stew--gluten-free",
+  "title": "Portuguese Bean Stew",
+  "description": "A hearty, comforting stew made with cannellini beans, kissed with Portuguese flavors. This gluten-free recipe is perfect for a chilly evening.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese chorizo",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Cannellini beans, drained and rinsed",
+      "amount": "1 (15 ounce) can"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fluffy chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Kissed olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Stew beef, cut into 1-inch cubes",
+      "amount": "1 pound"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced chorizo and cook until browned, about 5 minutes.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the stew beef and cook until browned, about 5 minutes.",
+    "Add the chicken broth, cannellini beans, and salt and pepper to taste.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "portuguese",
+    "stew",
+    "gluten-free",
+    "beans",
+    "chorizo"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fluffy-portuguese-cannellini-bean-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T21:31:10.424Z"
+}
