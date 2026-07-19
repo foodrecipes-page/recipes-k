@@ -16612,5 +16612,18 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-galician-turkey-ham-crema-catalana--mexican",
+    "title": "Turkey Tinga Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "turkey",
+      "chipotle"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
