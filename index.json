@@ -16625,5 +16625,19 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-tender-croatian-peas-stew--chinese",
+    "title": "Croatian Beef Stew",
+    "tags": [
+      "beef",
+      "chinese",
+      "stew",
+      "winter",
+      "comfort-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "k"
   }
 ]
