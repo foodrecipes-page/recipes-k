@@ -1,0 +1,68 @@
+{
+  "slug": "kicked-dense-slovakian-lentil-skillet",
+  "title": "Slovakian Lentil Stew",
+  "description": "A hearty and comforting Slovakian-style lentil stew, perfect for a chilly evening. This recipe combines tender lentils with the flavors of Slovakia.",
+  "cuisine": "slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kicked",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "dense",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "slovakian",
+      "amount": "1 cup",
+      "notes": "diced carrots"
+    },
+    {
+      "name": "skillet",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the diced carrots and cook for 5 minutes.",
+    "Add the lentils, 4 cups of water, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "vegetarian",
+    "gluten-free",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-dense-slovakian-lentil-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:54:55.973Z"
+}
