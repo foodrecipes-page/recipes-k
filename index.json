@@ -16535,5 +16535,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kicked-up-middle-eastern-chicken-tagine--french",
+    "title": "French Chicken Tagine",
+    "tags": [
+      "chicken",
+      "tagine",
+      "french",
+      "middle eastern"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 65,
+    "shard": "k"
   }
 ]
