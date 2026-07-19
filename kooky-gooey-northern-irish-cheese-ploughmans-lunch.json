@@ -1,0 +1,71 @@
+{
+  "slug": "kooky-gooey-northern-irish-cheese-ploughmans-lunch",
+  "title": "Irish Cheese Ploughmans Lunch",
+  "description": "A traditional Irish ploughman's lunch featuring cheese, bread, and pickles, perfect for a quick and satisfying meal.",
+  "cuisine": "Irish",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ploughmans cheese",
+      "amount": "250g",
+      "notes": "A firm, crumbly Irish cheese"
+    },
+    {
+      "name": "Kooky bread",
+      "amount": "4 slices",
+      "notes": "A crusty bread, suitable for making sandwiches"
+    },
+    {
+      "name": "Gooey pickle slices",
+      "amount": "4 slices",
+      "notes": "Homemade or store-bought pickle slices"
+    },
+    {
+      "name": "Northern Irish butter",
+      "amount": "20g",
+      "notes": "Unsalted butter for spreading on bread"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "4 sprigs",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "1. Slice the Ploughmans cheese into thin wedges.",
+    "2. Butter two slices of Kooky bread.",
+    "3. Place two slices of bread on a clean surface, followed by a slice of cheese, a few pickle slices, and a sprig of parsley.",
+    "4. Place the remaining two slices of bread on top to create a sandwich.",
+    "5. Cut the sandwich in half, diagonally or horizontally, as desired.",
+    "6. Serve immediately, and enjoy!",
+    "7. If desired, serve with additional pickle slices on the side.",
+    "8. Repeat the process to create additional sandwiches as needed.",
+    "9. Consider serving with a side salad or fruit for a more substantial meal.",
+    "10. Leftover cheese and pickle slices can be stored in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "irish",
+    "lunch",
+    "cheese",
+    "bread",
+    "pickles"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-gooey-northern-irish-cheese-ploughmans-lunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T13:48:06.889Z"
+}
