@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-tender-croatian-peas-stew--chinese",
+  "title": "Croatian Beef Stew",
+  "description": "A hearty and flavorful stew originating from Croatia, adapted to a Chinese twist.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (croatian)",
+      "amount": "500g",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "kissed beef broth",
+      "amount": "2L",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "peas",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef cubes until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the stew for 2-3 minutes until fragrant.",
+    "Add the beef broth, browned beef, and peas. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 2 hours or until the beef is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "chinese",
+    "stew",
+    "winter",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-croatian-peas-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:45:40.072Z"
+}
