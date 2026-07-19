@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-tender-moroccan-green-pepper-bissara",
+  "title": "Spicy Moroccan Chickpea Stew",
+  "description": "A hearty and flavorful Moroccan-inspired stew made with tender chickpeas, spices, and green pepper. Serve with a side of crusty bread for a comforting meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bissara",
+      "amount": "1 can (14 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "green pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "tender",
+      "amount": "1 tsp",
+      "notes": "ground coriander"
+    },
+    {
+      "name": "moroccan",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "ground black pepper"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "for stew"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced green pepper and cook until tender, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, and black pepper; cook for 1 minute.",
+    "Add the bissara, water, and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "stew",
+    "lentils",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-moroccan-green-pepper-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:39:42.711Z"
+}
