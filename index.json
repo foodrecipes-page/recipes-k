@@ -1173,15 +1173,14 @@
   },
   {
     "slug": "kicked-dense-slovakian-lentil-skillet",
-    "title": "Kicked Dense Slovakian Lentil Skillet",
+    "title": "Slovakian Lentil Stew",
     "tags": [
-      "high-protein",
-      "lentil-based",
-      "one-pan",
+      "lentil",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "slovakian"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 40,
     "shard": "k"
   },
@@ -16574,6 +16573,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-garlic-german-noodles-noodles--indian",
+    "title": "Spicy Garlic Noodles",
+    "tags": [
+      "indian",
+      "quick-meal",
+      "spicy",
+      "noodles"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
     "shard": "k"
   }
 ]
