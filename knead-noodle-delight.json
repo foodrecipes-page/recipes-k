@@ -1,0 +1,56 @@
+{
+  "slug": "knead-noodle-delight",
+  "title": "Delightful Noodle Delight",
+  "description": "A simple yet satisfying dish combining the joy of noodles and delightful flavors.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodle",
+      "amount": "8 oz"
+    },
+    {
+      "name": "delight",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for sautéing"
+    }
+  ],
+  "instructions": [
+    "1. Cook noodles according to package instructions.",
+    "2. In a pan, heat vegetable oil over medium heat.",
+    "3. Add delight and sauté until it's fragrant.",
+    "4. Combine cooked noodles and delight in the pan.",
+    "5. Stir-fry everything together for 2-3 minutes.",
+    "6. Season with your preferred spices and serve."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "noodle",
+    "delight",
+    "asian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knead-noodle-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:13:35.967Z"
+}
