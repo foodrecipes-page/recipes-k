@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-light-filipino-chicken-tinola--italian",
+  "title": "Chicken Tinola Italiano",
+  "description": "A fusion dish that combines the traditional Filipino chicken tinola with Italian flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "White wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and sliced ginger, sauté for another minute.",
+    "Add chicken breast and cook until browned on all sides.",
+    "Add tomato paste, chicken broth, and white wine. Stir well.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped fresh basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-filipino-chicken-tinola--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T04:38:21.644Z"
+}
