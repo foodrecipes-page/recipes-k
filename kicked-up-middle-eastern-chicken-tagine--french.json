@@ -1,0 +1,93 @@
+{
+  "slug": "kicked-up-middle-eastern-chicken-tagine--french",
+  "title": "French Chicken Tagine",
+  "description": "A flavorful and aromatic dish inspired by North African cuisine, made with marinated chicken cooked in a rich and spicy French tagine.",
+  "cuisine": "French",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds boneless, skinless chicken thighs",
+      "notes": null
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 1/2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 300°F (150°C).",
+    "2. In a large bowl, whisk together the tagine spice blend, cumin, coriander, paprika, cinnamon, ginger, and garlic.",
+    "3. Add the chicken to the spice mixture and toss to coat.",
+    "4. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "5. Add the chicken to the pot and sear until browned, about 5 minutes.",
+    "6. Add the lemon juice to the pot and stir to deglaze.",
+    "7. Transfer the pot to the preheated oven and cook for 30 minutes.",
+    "8. Remove the pot from the oven and stir in the tagine spice blend.",
+    "9. Continue cooking for an additional 15-20 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "10. Serve the chicken hot, garnished with fresh parsley and lemon wedges."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "tagine",
+    "french",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 8,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-middle-eastern-chicken-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:59:28.353Z"
+}
