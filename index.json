@@ -16548,5 +16548,19 @@
     "cuisine": "French",
     "totalTimeMin": 65,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-fluffy-portuguese-cannellini-bean-stew--gluten-free",
+    "title": "Portuguese Bean Stew",
+    "tags": [
+      "portuguese",
+      "stew",
+      "gluten-free",
+      "beans",
+      "chorizo"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "k"
   }
 ]
