@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-citrusy-syrian-pumpkin-tagine--french",
+  "title": "Braised Pumpkin Tagine with Orange Zest",
+  "description": "A French-inspired stew made with tender pumpkin and the warmth of citrusy spices, served with a hint of kissed sweetness.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pumpkin",
+      "amount": "1 medium, peeled and cubed"
+    },
+    {
+      "name": "Tagine spice blend (or a mix of cinnamon, ginger, and cumin)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Kissed orange marmalade",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add pumpkin, spice blend, salt, and 1 cup water. Stir to combine.",
+    "Bring to a boil, then cover and transfer to the oven.",
+    "Braise for 30-40 minutes, or until pumpkin is tender.",
+    "Stir in orange marmalade and orange zest.",
+    "Serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pumpkin",
+    "tagine",
+    "french",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-citrusy-syrian-pumpkin-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:29:36.481Z"
+}
