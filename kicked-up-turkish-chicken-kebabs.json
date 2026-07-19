@@ -1,0 +1,88 @@
+{
+  "slug": "kicked-up-turkish-chicken-kebabs",
+  "title": "Delicious Kicked Up Turkish Chicken Kebabs",
+  "description": "A flavorful twist on traditional Turkish kebabs, featuring tender chicken and a kick of spice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Turkish bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "Kicked up spice blend",
+      "amount": "2 teaspoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Red bell pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Yellow onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread chicken, onion, and red bell pepper onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together olive oil, kicked up spice blend, salt, and pepper.",
+    "Brush the spice mixture onto both sides of the chicken.",
+    "Place the kebabs on the grill and cook for 10-12 minutes, turning occasionally.",
+    "Meanwhile, mix together lemon juice and garlic in a small bowl.",
+    "Brush the lemon mixture onto the kebabs during the last 2 minutes of cooking.",
+    "Serve hot with a side of Turkish salad or rice pilaf.",
+    "Note: For kicked up spice blend, combine 1 tablespoon smoked paprika, 1 tablespoon ground cumin, 1 tablespoon brown sugar, 1/2 teaspoon cayenne pepper, and 1/2 teaspoon salt in a small bowl."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kebabs",
+    "chicken",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-turkish-chicken-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T07:18:07.932Z"
+}
