@@ -13683,14 +13683,16 @@
   },
   {
     "slug": "knead-noodle-delight",
-    "title": "Knead-Noodle Delight",
+    "title": "Delightful Noodle Delight",
     "tags": [
-      "knead-noodle-delight",
-      "buttery-velvety-dutch-dish",
-      "kid-friendly"
+      "noodle",
+      "delight",
+      "asian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 13,
     "shard": "k"
   },
   {
@@ -16586,6 +16588,18 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-light-filipino-chicken-tinola--italian",
+    "title": "Chicken Tinola Italiano",
+    "tags": [
+      "italian",
+      "chicken",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
