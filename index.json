@@ -16638,5 +16638,17 @@
     "cuisine": "chinese",
     "totalTimeMin": 140,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-sweet-peruvian-rice-onigiri--french",
+    "title": "Pan-Seared Kissed Onigiri with Sweet Peruvian Rice",
+    "tags": [
+      "french",
+      "rice-bowl",
+      "onigiri"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
