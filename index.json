@@ -16562,5 +16562,18 @@
     "cuisine": "Portuguese",
     "totalTimeMin": 60,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-citrusy-syrian-pumpkin-tagine--french",
+    "title": "Braised Pumpkin Tagine with Orange Zest",
+    "tags": [
+      "pumpkin",
+      "tagine",
+      "french",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "k"
   }
 ]
