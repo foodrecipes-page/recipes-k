@@ -16601,5 +16601,19 @@
     "cuisine": "italian",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-australian-king-prawns-skewers--french",
+    "title": "Pan-Seared Smoked Prawns with Garlic Butter",
+    "tags": [
+      "french",
+      "seafood",
+      "prawns",
+      "garlic",
+      "butter"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
