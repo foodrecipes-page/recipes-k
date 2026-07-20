@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-velvet-slovakian-petit-pois-soup--chinese",
+  "title": "Slovakian Pois Soup",
+  "description": "A hearty Chinese soup made with Slovakian and pois ingredients.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian sausage",
+      "amount": "1 lb",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "pois",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "velvet onions",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "kissed ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "petit carrots",
+      "amount": "2 medium",
+      "notes": "Peel and chop"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pot over medium heat.",
+    "Add the sliced ginger and cook until fragrant, about 1 minute.",
+    "Add the chopped onions and cook until softened, about 3-4 minutes.",
+    "Add the sliced sausage and cook until browned, about 5 minutes.",
+    "Add the pois, carrots, and enough chicken broth to cover the ingredients.",
+    "Bring to a boil, then reduce heat to low and simmer for 15-20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvet-slovakian-petit-pois-soup--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:05:46.703Z"
+}
