@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-roasted-malaysian-quinoa-bowl--chinese",
+  "title": "Kissed Quinoa Bowl with Malaysian Roasted Vegetables",
+  "description": "A vegetarian Chinese-inspired bowl filled with quinoa, roasted vegetables, and a hint of Malaysian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mixed vegetables (carrots, bell peppers, zucchini)",
+      "amount": "2 cups",
+      "notes": "any combination of colorful vegetables works well"
+    },
+    {
+      "name": "Malaysian chili sauce (sambal oelek)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "roasted peanuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "kissed sesame seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "soy sauce (or tamari)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Toss mixed vegetables with 1 tsp sesame oil, salt, and pepper. Spread on a baking sheet and roast for 20-25 minutes or until tender.",
+    "3. Cook quinoa according to package instructions.",
+    "4. In a small bowl, whisk together soy sauce, honey, rice vinegar, and sambal oelek.",
+    "5. In a large bowl, combine cooked quinoa, roasted vegetables, and sauce. Toss to combine.",
+    "6. Top with roasted peanuts and kissed sesame seeds.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "vegetarian",
+    "gluten-free",
+    "quinoa-bowl"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-malaysian-quinoa-bowl--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:13:28.573Z"
+}
