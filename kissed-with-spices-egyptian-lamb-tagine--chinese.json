@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-with-spices-egyptian-lamb-tagine--chinese",
+  "title": "Lamb Tagine with Spices and Egyptian Kiss",
+  "description": "A fusion of Chinese and North African flavors, this lamb tagine is a hearty and aromatic dish.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "pork-free",
+    "lamb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "kissed olives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "with honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb shoulder with salt and pepper.",
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 5 minutes.",
+    "Add the onion, garlic, Chinese five-spice powder, and Egyptian spices.",
+    "Cook until the onion is translucent, about 5 minutes.",
+    "Add the kissed olives, honey, chicken broth, and crushed tomatoes.",
+    "Bring to a boil, then cover the pot and transfer to the preheated oven.",
+    "Braise the lamb for 2 hours, or until tender.",
+    "Let it rest for 10 minutes before slicing.",
+    "Serve with the braising liquid spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-spices-egyptian-lamb-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:50:53.165Z"
+}
