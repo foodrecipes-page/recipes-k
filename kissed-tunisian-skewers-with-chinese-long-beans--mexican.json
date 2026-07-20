@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-tunisian-skewers-with-chinese-long-beans--mexican",
+  "title": "Mexican Bean and Skewer Delight",
+  "description": "A flavorful and spicy dish that combines the taste of Mexico with the freshness of beans. Perfect for a quick and easy meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "long hot peppers",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tunisian harissa",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "chinese five-spice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread beans, peppers, onion, and garlic onto skewers.",
+    "3. In a small bowl, mix together harissa, five-spice, and cumin.",
+    "4. Brush skewers with the spice mixture, making sure to coat evenly.",
+    "5. Grill skewers for 10-12 minutes, turning occasionally.",
+    "6. Serve hot with your choice of sides, such as rice or tortillas."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "skewers",
+    "beans"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tunisian-skewers-with-chinese-long-beans--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:47:01.022Z"
+}
