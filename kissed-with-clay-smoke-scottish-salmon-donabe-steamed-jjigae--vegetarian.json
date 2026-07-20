@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--vegetarian",
+  "title": "Scottish Steamed Salmon Jjigae",
+  "description": "A vegetarian twist on the traditional Korean jjigae, using steamed Scottish salmon and a variety of vegetables",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Scottish salmon",
+      "amount": "1 piece",
+      "notes": "steamed"
+    },
+    {
+      "name": "Donabe",
+      "amount": "1",
+      "notes": "for steaming"
+    },
+    {
+      "name": "Kissed cherry tomatoes",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "With garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Clay zucchini",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Smoke paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Jjigae sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the donabe for steaming.",
+    "Season the salmon with salt and pepper.",
+    "Place the salmon in the donabe and steam for 8-10 minutes.",
+    "Heat the jjigae sauce in a pan over medium heat.",
+    "Add the cherry tomatoes, garlic, zucchini, and paprika to the pan.",
+    "Cook for 5-7 minutes, stirring occasionally.",
+    "Stir in the chopped green onions.",
+    "Serve the steamed salmon with the vegetable mixture on top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "scottish",
+    "steamed",
+    "vegetarian",
+    "jjigae",
+    "salmon"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:52:26.659Z"
+}
