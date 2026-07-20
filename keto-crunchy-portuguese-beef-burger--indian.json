@@ -1,0 +1,84 @@
+{
+  "slug": "keto-crunchy-portuguese-beef-burger--indian",
+  "title": "Keto Beef Burger with Indian Twist",
+  "description": "A spicy keto beef burger with a crunchy portuguese-inspired crust, served with a side of tangy slaw. Perfect for a quick and satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "keto",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef patties",
+      "amount": "4-6 ounces each"
+    },
+    {
+      "name": "Portuguese bread crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Keto buns",
+      "amount": "4"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Cheddar cheese",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form beef patties and season with salt and pepper.",
+    "Add coconut oil to the grill and cook beef patties for 4-5 minutes per side, or until cooked to desired temperature.",
+    "Meanwhile, toast keto buns on the grill.",
+    "Assemble burgers with beef patties, lettuce, tomatoes, onions, and cheese.",
+    "Serve with a side of Indian-spiced slaw (made with shredded cabbage, mayonnaise, and Indian spices).",
+    "Cook for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "beef",
+    "burger",
+    "indian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-crunchy-portuguese-beef-burger--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:44:29.877Z"
+}
