@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-creamy-turkish-anchovies-bowl",
+  "title": "Creamy Turkish Anchovy Bowl",
+  "description": "A flavorful and savory dish combining creamy sauce with Turkish spices and salty anchovies, served in a bowl.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Turkish red pepper flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Anchovies",
+      "amount": "6-8 fillets",
+      "notes": "packed in oil"
+    },
+    {
+      "name": "Cream cheese",
+      "amount": "8 ounces",
+      "notes": "softened"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Kissed bread",
+      "amount": "4 slices",
+      "notes": "crusty"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a small bowl, mix together the Turkish red pepper flakes, minced garlic, lemon juice, and olive oil.",
+    "3. Arrange the anchovy fillets on a baking sheet lined with parchment paper.",
+    "4. Brush the anchovy fillets with the garlic-lemon mixture and season with salt.",
+    "5. Bake the anchovies in the preheated oven for 8-10 minutes, or until crispy.",
+    "6. Meanwhile, soften the cream cheese in a separate bowl.",
+    "7. Once the anchovies are done, remove them from the oven and let them cool slightly.",
+    "8. Spread the softened cream cheese on the kissed bread slices.",
+    "9. Top each bread slice with a few anchovy fillets and a sprinkle of salt.",
+    "10. Serve the creamy Turkish anchovy bowl immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anchovy",
+    "turkish",
+    "creamy",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-turkish-anchovies-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:18:41.586Z"
+}
