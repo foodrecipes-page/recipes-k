@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-aromatic-kenyan-sweet-potato-grill",
+  "title": "Sweet Kenyan Grilled Potato",
+  "description": "A flavorful and aromatic dish from Kenya, featuring grilled potatoes with a hint of sweetness.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2",
+      "notes": "medium-sized, peeled"
+    },
+    {
+      "name": "Sweet potatoes",
+      "amount": "1",
+      "notes": "large-sized, peeled"
+    },
+    {
+      "name": "Kenyan spices",
+      "amount": "1 tsp",
+      "notes": "aromatic spice mix"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Kissed lemon",
+      "amount": "1/2",
+      "notes": "juice"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F/190°C).",
+    "Cut potatoes and sweet potatoes into 1-inch wedges.",
+    "In a bowl, mix together Kenyan spices, salt, and black pepper.",
+    "Add the potato wedges to the spice mixture and toss to coat.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the potato wedges for 5-7 minutes per side, or until tender and slightly charred.",
+    "Brush the sweet potatoes with olive oil and grill for 5-7 minutes per side, or until tender.",
+    "Drizzle with kissed lemon juice and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kenyan",
+    "grilled",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-aromatic-kenyan-sweet-potato-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:11:31.592Z"
+}
