@@ -1,0 +1,81 @@
+{
+  "slug": "kid-friendly-smoky-filipino-nduja-sinigang--french",
+  "title": "Filipino-inspired Smoked Beef Bourguignon",
+  "description": "A twist on the classic French dish, incorporating smoky Filipino flavors.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef short ribs",
+      "amount": "2 pounds",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Smoked Filipino BBQ sauce",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Nduja",
+      "amount": "2 tablespoons",
+      "notes": "Crushed"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "Diced"
+    },
+    {
+      "name": "Kid-friendly vegetables",
+      "amount": "1 cup",
+      "notes": "Chopped bell peppers, carrots, and potatoes"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef short ribs in batches until browned on all sides.",
+    "Remove the browned beef and set aside.",
+    "Add the onions and garlic to the pot and cook until softened.",
+    "Add the nduja and cook for 1 minute.",
+    "Add the tomatoes, smoked Filipino BBQ sauce, and browned beef.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise for 2 1/2 hours, or until the beef is tender.",
+    "Add the kid-friendly vegetables and cook for an additional 30 minutes.",
+    "Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "bbq",
+    "smoked",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": "35g",
+    "carbs": "30g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kid-friendly-smoky-filipino-nduja-sinigang--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:10:43.637Z"
+}
