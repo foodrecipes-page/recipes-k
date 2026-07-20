@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-irish-quinoa-pilaf--vegan",
+  "title": "Irish Quinoa Pilaf",
+  "description": "A hearty, comforting quinoa pilaf infused with the flavors of Ireland, made vegan-friendly.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinse before cooking"
+    },
+    {
+      "name": "kissed pilaf",
+      "amount": "1 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "vegan broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large saucepan over medium heat.",
+    "Add chopped onion and sauté until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional 1-2 minutes.",
+    "Add quinoa, kissed pilaf, and vegan broth to the saucepan. Stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 20-25 minutes, or until quinoa is tender and liquid has been absorbed.",
+    "Stir in dried thyme and lemon juice. Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "quinoa",
+    "vegan",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-irish-quinoa-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:04:48.256Z"
+}
