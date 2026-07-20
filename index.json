@@ -4659,16 +4659,15 @@
   },
   {
     "slug": "kissed-creamy-turkish-anchovies-bowl",
-    "title": "Kissed creamy Turkish anchovies bowl",
+    "title": "Creamy Turkish Anchovy Bowl",
     "tags": [
-      "anchovies",
-      "dairy-free",
-      "gluten-free",
-      "pickled",
-      "turkish"
+      "anchovy",
+      "turkish",
+      "creamy",
+      "mediterranean"
     ],
-    "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "k"
   },
   {
@@ -16736,6 +16735,19 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kid-friendly-smoky-filipino-nduja-sinigang--french",
+    "title": "Filipino-inspired Smoked Beef Bourguignon",
+    "tags": [
+      "beef",
+      "bbq",
+      "smoked",
+      "kid-friendly"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 180,
     "shard": "k"
   }
 ]
