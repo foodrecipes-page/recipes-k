@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-british-chicken-curry--vegan",
+  "title": "Vegan British Chicken Curry",
+  "description": "A plant-based twist on the classic dish, using kissed and curry flavors with a focus on british cuisine. Enjoy a hearty and comforting meal that's free from animal products.",
+  "cuisine": "british",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "substituted with portobello mushrooms for vegan version"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "kissed potatoes",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat for added richness"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel and chop the kissed potatoes into large chunks.",
+    "Place the potatoes on a baking sheet, drizzle with 1 tbsp of olive oil, and season with salt and pepper. Roast in the oven for 20 minutes.",
+    "In a large pan, heat the remaining 1 tbsp of olive oil over medium heat.",
+    "Add the chopped onion and sauté for 5 minutes, until softened.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the portobello mushrooms and cook until they release their moisture and start to brown.",
+    "Stir in the curry powder and cook for 1-2 minutes, until fragrant.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce heat to low and let the curry simmer for 10-15 minutes, until the flavors have melded together and the potatoes are tender.",
+    "Serve the curry over the roasted kissed potatoes, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "british",
+    "curry",
+    "mushroom"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-british-chicken-curry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:34:28.408Z"
+}
