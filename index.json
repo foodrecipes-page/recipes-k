@@ -16762,5 +16762,97 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-thai-coconut-khanom-krok--italian",
+    "title": "Coconut Khanom Cream Panna Cotta",
+    "tags": [
+      "italian",
+      "dessert",
+      "creamy",
+      "coconut",
+      "khanom"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "keto-peruvian-chicken-bowl--french",
+    "title": "Peruvian Chicken Bowl with Keto Twist",
+    "tags": [
+      "peruvian",
+      "keto",
+      "chicken",
+      "bowl",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dense-middle-eastern-lamb-shakshuka--keto",
+    "title": "Egg Shakshuka with Lamb Koftas",
+    "tags": [
+      "lamb",
+      "shakshuka",
+      "eggs",
+      "keto"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kickin-croatian-tofu-stew--vegan",
+    "title": "Croatian Stew Vegan Version",
+    "tags": [
+      "vegan",
+      "croatian-cuisine",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-floral-ethiopian-cheese-lasagna--french",
+    "title": "French Cheese Lasagna",
+    "tags": [
+      "lasagna",
+      "cheese",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-thai-apricot-skewers--chinese",
+    "title": "Thai Apricot Skewers",
+    "tags": [
+      "chinese",
+      "snack",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 18,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-british-chicken-curry--vegan",
+    "title": "Vegan British Chicken Curry",
+    "tags": [
+      "vegan",
+      "british",
+      "curry",
+      "mushroom"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 50,
+    "shard": "k"
   }
 ]
