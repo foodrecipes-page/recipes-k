@@ -16749,5 +16749,18 @@
     "cuisine": "french",
     "totalTimeMin": 180,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-tangy-algerian-prawns-tagine--italian",
+    "title": "Italian Prawn Tagine",
+    "tags": [
+      "italian",
+      "algerian",
+      "seafood",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
