@@ -3106,13 +3106,14 @@
   },
   {
     "slug": "kissed-aromatic-kenyan-sweet-potato-grill",
-    "title": "Kissed Aromatic Kenyan Sweet Potato Grill",
+    "title": "Sweet Kenyan Grilled Potato",
     "tags": [
       "kenyan",
-      "lunch"
+      "grilled",
+      "potatoes"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 40,
+    "cuisine": "kenyan",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16853,6 +16854,19 @@
     ],
     "cuisine": "british",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-malaysian-quinoa-bowl--chinese",
+    "title": "Kissed Quinoa Bowl with Malaysian Roasted Vegetables",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "gluten-free",
+      "quinoa-bowl"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
