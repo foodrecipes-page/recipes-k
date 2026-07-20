@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-roasted-russian-mushroom-pilaf",
+  "title": "Mushroom Pilaf with Kissed Russian Twist",
+  "description": "A flavorful pilaf dish with mushrooms and a hint of roasted Russian flavors, kissed with a delicate touch.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushroom",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "Russian Black Bread, toasted",
+      "amount": "1/4 cup",
+      "notes": "Crumbly"
+    },
+    {
+      "name": "Roasted Garlic Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "See instructions for homemade version"
+    },
+    {
+      "name": "Kissed Russian Seasoning",
+      "amount": "1 tsp",
+      "notes": "Homemade blend of paprika, dill, parsley"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon olive oil in a large skillet over medium-high heat.",
+    "2. Add the sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "3. Add the toasted Russian Black Bread and cook for an additional 2-3 minutes, stirring constantly.",
+    "4. In a separate pan, heat the remaining 1 tablespoon olive oil over medium heat.",
+    "5. Add the uncooked pilaf and cook, stirring constantly, until lightly toasted, about 2-3 minutes.",
+    "6. In a large bowl, combine the cooked pilaf, mushroom mixture, and Roasted Garlic Mayonnaise. Stir until well combined.",
+    "7. Season with Kissed Russian Seasoning, salt, and pepper to taste.",
+    "8. Garnish with chopped fresh parsley.",
+    "9. Serve hot, garnished with additional parsley if desired.",
+    "10. For homemade Roasted Garlic Mayonnaise, see notes"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mushroom-pilaf",
+    "russian-twist",
+    "eastern-european"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-russian-mushroom-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:00:32.329Z"
+}
