@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-caramel-japanese-hazelnuts-ehomaki--german",
+  "title": "Ehomaki German Caramel Hazelnut Kisseled Dessert",
+  "description": "A unique dessert that combines the richness of caramel and hazelnuts with the crunch of Japanese ehomaki and a touch of German kissed flavor.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Caramel sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ehomaki",
+      "amount": "4-6 pieces",
+      "notes": "crushed"
+    },
+    {
+      "name": "Kissed chocolate",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Spread the chopped hazelnuts on a baking sheet and toast for 5 minutes.",
+    "3. Melt the caramel sauce in a saucepan over low heat.",
+    "4. Crush the ehomaki into small pieces and mix with the melted caramel sauce.",
+    "5. In a separate bowl, melt the kissed chocolate in the microwave in 30-second increments until smooth.",
+    "6. Dip the toasted hazelnuts into the melted chocolate to coat.",
+    "7. Dip the ehomaki-caramel mixture into the melted chocolate as well.",
+    "8. Place the coated ehomaki pieces on a parchment-lined baking sheet and refrigerate for at least 30 minutes.",
+    "9. Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "german",
+    "hazelnut",
+    "caramel",
+    "ehomaki",
+    "kissed"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 6,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-caramel-japanese-hazelnuts-ehomaki--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:00:22.561Z"
+}
