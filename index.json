@@ -16688,5 +16688,30 @@
     "cuisine": "Irish",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-indulgent-polish-yautia-bake--italian",
+    "title": "Polish Yautia Bake with Italian Twist",
+    "tags": [
+      "italian",
+      "yautia",
+      "polish-sausage",
+      "comfort-food"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-spices-egyptian-lamb-tagine--chinese",
+    "title": "Lamb Tagine with Spices and Egyptian Kiss",
+    "tags": [
+      "lamb",
+      "tagine",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 140,
+    "shard": "k"
   }
 ]
