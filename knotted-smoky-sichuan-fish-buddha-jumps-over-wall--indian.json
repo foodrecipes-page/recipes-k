@@ -1,0 +1,95 @@
+{
+  "slug": "knotted-smoky-sichuan-fish-buddha-jumps-over-wall--indian",
+  "title": "Sichuan Buddha Fish Curry",
+  "description": "A flavorful and aromatic curry dish from the Sichuan region of India, made with fresh fish and a blend of warming spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish fillet",
+      "amount": "500g",
+      "notes": "Any white fish works well"
+    },
+    {
+      "name": "Sichuan pepper",
+      "amount": "2 tsp",
+      "notes": "Also known as Sichuan peppercorns"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Fresh ginger is essential for this recipe"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced garlic adds depth to the curry"
+    },
+    {
+      "name": "Buddha oil",
+      "amount": "2 tsp",
+      "notes": "Neutral oil for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Sautéed onion adds a sweet flavor"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 large",
+      "notes": "Diced tomato adds acidity to the curry"
+    },
+    {
+      "name": "Tomato puree",
+      "amount": "2 tbsp",
+      "notes": "Thickens the curry and adds flavor"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground cumin adds warmth to the curry"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground coriander adds a citrusy flavor"
+    }
+  ],
+  "instructions": [
+    "Heat Buddha oil in a large pan over medium heat.",
+    "Add minced garlic and sauté until fragrant.",
+    "Add diced onion and sauté until translucent.",
+    "Add Sichuan pepper, cumin powder, and coriander powder. Sauté for 1 minute.",
+    "Add fish fillet and sauté until cooked through.",
+    "Add tomato puree, diced tomato, and enough water to cover the fish. Bring to a boil.",
+    "Reduce heat to low and simmer for 10-15 minutes or until the sauce has thickened.",
+    "Season with salt and serve hot with rice or roti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "sichuan",
+    "fish-curry",
+    "vegetarian",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-smoky-sichuan-fish-buddha-jumps-over-wall--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:13:11.297Z"
+}
