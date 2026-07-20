@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-indulgent-polish-yautia-bake--italian",
+  "title": "Polish Yautia Bake with Italian Twist",
+  "description": "A delicious Italian-inspired dish with the addition of yautia and polish flavors. This bake is perfect for a cozy evening.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large"
+    },
+    {
+      "name": "bake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel and chop the yautia into 1-inch cubes.",
+    "Cook the polish sausage in a pan over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the olive oil, garlic, and chopped yautia to the pan and cook until the yautia is tender.",
+    "Stir in the chicken broth and bring to a simmer.",
+    "Transfer the mixture to a baking dish and top with parmesan cheese.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the yautia is tender.",
+    "Sprinkle with parsley and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "yautia",
+    "polish-sausage",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-indulgent-polish-yautia-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:25:44.074Z"
+}
