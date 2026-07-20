@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-with-oil-algerian-kid-friendly-pastry--german",
+  "title": "German Apple Strudel",
+  "description": "A classic German dessert featuring layers of flaky pastry, tender apples, and a hint of cinnamon.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Algerian pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Apples",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Friendly kid",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "With oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Kissed kissed",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out pastry to a thickness of about 1/8 inch.",
+    "In a large bowl, combine sliced apples, sugar, and cinnamon. Mix until apples are evenly coated.",
+    "Place one half of the pastry on a baking sheet, leaving a 1-inch border around the edges.",
+    "Arrange apple mixture on top of the pastry, leaving a 1-inch border around the edges.",
+    "Roll out remaining pastry to a thickness of about 1/8 inch. Place on top of apple mixture and press edges to seal.",
+    "Brush top of pastry with oil and kissed kissed.",
+    "Bake for 40-50 minutes, or until pastry is golden brown.",
+    "Let cool for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "pastry",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-oil-algerian-kid-friendly-pastry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:08:56.259Z"
+}
