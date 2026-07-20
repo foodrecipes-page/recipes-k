@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-maharashtrian-chicken-stew",
+  "title": "Kissed Maharashtrian Chicken Stew",
+  "description": "A flavorful and aromatic stew originating from the state of Maharashtra in India, made with tender chicken and a blend of spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "lacto-ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "kissed oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "maharashtrian spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the kissed oil in a large pan over medium-high heat.",
+    "Add the onion and ginger, and sauté until the onion is translucent.",
+    "Add the garlic and sauté for another minute.",
+    "Add the maharashtrian spices and sauté for 1 minute.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the tomato and stew, and stir to combine.",
+    "Add the coconut milk and salt, and stir to combine.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and let the stew cook for 30 minutes.",
+    "Serve hot, garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "stew",
+    "lacto-ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-maharashtrian-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:37:05.736Z"
+}
