@@ -9298,15 +9298,13 @@
   },
   {
     "slug": "kissed-roasted-russian-mushroom-pilaf",
-    "title": "Kissed Roasted Russian Mushroom Pilaf",
+    "title": "Mushroom Pilaf with Kissed Russian Twist",
     "tags": [
-      "mushroom-based",
-      "one-pot",
-      "pressure-cooker",
-      "shojin-friendly",
-      "weeknight"
+      "mushroom-pilaf",
+      "russian-twist",
+      "eastern-european"
     ],
-    "cuisine": "Russian",
+    "cuisine": "Eastern European",
     "totalTimeMin": 35,
     "shard": "k"
   },
@@ -16725,6 +16723,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tunisian-skewers-with-chinese-long-beans--mexican",
+    "title": "Mexican Bean and Skewer Delight",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "skewers",
+      "beans"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
     "shard": "k"
   }
 ]
