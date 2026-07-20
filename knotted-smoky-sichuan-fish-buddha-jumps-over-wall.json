@@ -1,0 +1,85 @@
+{
+  "slug": "knotted-smoky-sichuan-fish-buddha-jumps-over-wall",
+  "title": "Smoky Buddha Bowl",
+  "description": "A flavorful and nutritious bowl filled with smoky tofu, steamed vegetables, and a sweet and spicy sauce.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "smoky tofu",
+      "amount": "250g",
+      "notes": "marinated in soy sauce, maple syrup, and smoked paprika"
+    },
+    {
+      "name": "sichuan pepper",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "buddha's hand citron",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "brown rice",
+      "amount": "150g",
+      "notes": "cooked"
+    },
+    {
+      "name": "steamed broccoli",
+      "amount": "200g",
+      "notes": "steamed"
+    },
+    {
+      "name": "wall nuts",
+      "amount": "20g",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tbsp",
+      "notes": "grade A"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap the tofu in a paper towel and bake for 20 minutes.",
+    "In a small bowl, mix together soy sauce, maple syrup, and smoked paprika. Brush the mixture on the tofu and return to the oven for another 10 minutes.",
+    "Meanwhile, steam the broccoli until tender.",
+    "In a small pan, toast the wall nuts over medium heat until fragrant.",
+    "In a separate pan, mix together the buddha's hand citron zest and juice, and sichuan pepper. Cook over medium heat until fragrant.",
+    "To assemble the bowls, place a scoop of brown rice on the bottom, followed by the steamed broccoli, baked tofu, and toasted wall nuts. Drizzle the buddha's hand citron and sichuan pepper sauce on top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddha",
+    "bowl",
+    "asian",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-smoky-sichuan-fish-buddha-jumps-over-wall",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:13:20.285Z"
+}
