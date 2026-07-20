@@ -492,16 +492,14 @@
   },
   {
     "slug": "keto-friendly-garlicky-stir-fry",
-    "title": "Keto-friendly Garlicky Stir-fry",
+    "title": "Keto Garlic Chicken Stir Fry",
     "tags": [
+      "keto",
       "garlicky",
-      "chewy",
-      "adventurous",
-      "keto-friendly",
-      "kenyan"
+      "stir-fry"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16662,6 +16660,33 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--vegetarian",
+    "title": "Scottish Steamed Salmon Jjigae",
+    "tags": [
+      "scottish",
+      "steamed",
+      "vegetarian",
+      "jjigae",
+      "salmon"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-irish-quinoa-pilaf--vegan",
+    "title": "Irish Quinoa Pilaf",
+    "tags": [
+      "irish",
+      "quinoa",
+      "vegan",
+      "pilaf"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
