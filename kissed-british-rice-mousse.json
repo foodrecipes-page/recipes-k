@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-british-rice-mousse",
+  "title": "Kissed British Mousse Rice Bowl",
+  "description": "A light and airy mousse on a bed of fluffy rice, kissed with the flavors of Britain.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "White British Rice",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "softened"
+    },
+    {
+      "name": "Heavy Cream",
+      "amount": "1 cup",
+      "notes": "chilled"
+    },
+    {
+      "name": "Mousse",
+      "amount": "8 ounces",
+      "notes": "high-quality"
+    },
+    {
+      "name": "English Rose Petal Jam",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine-mesh strainer and drain well.",
+    "In a medium saucepan, combine the rice and 2 cups of water.",
+    "Bring to a boil over high heat, then reduce the heat to low, cover, and simmer for 15-20 minutes or until the water is absorbed.",
+    "Fluff the rice with a fork and set aside.",
+    "In a separate saucepan, melt the butter over medium heat.",
+    "Add the heavy cream and bring to a simmer.",
+    "Remove from heat and stir in the mousse until well combined.",
+    "To assemble the bowl, place a scoop of the cooked rice on a plate, top with a dollop of the mousse mixture, and drizzle with English Rose Petal Jam if desired.",
+    "Serve immediately and enjoy!",
+    "Cook time for the mousse is approximately 5-7 minutes in the microwave or 10-12 minutes in a double boiler.",
+    "Note: If using a double boiler, be sure to follow the manufacturer's instructions for temperature and timing."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 25,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "mousse",
+    "rice",
+    "light-and-airy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-british-rice-mousse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T00:47:54.554Z"
+}
