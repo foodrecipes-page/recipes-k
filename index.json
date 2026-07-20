@@ -8048,16 +8048,13 @@
     "slug": "kissed-maharashtrian-chicken-stew",
     "title": "Kissed Maharashtrian Chicken Stew",
     "tags": [
-      "easy",
-      "keto-friendly",
-      "kid-friendly",
-      "low-carb",
-      "maharashtrian",
-      "one-pot",
-      "smoky"
+      "indian",
+      "chicken",
+      "stew",
+      "lacto-ovo-vegetarian"
     ],
-    "cuisine": "Maharashtrian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -16891,6 +16888,45 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-oil-algerian-kid-friendly-pastry--german",
+    "title": "German Apple Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "pastry",
+      "apple"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-smoky-sichuan-fish-buddha-jumps-over-wall--indian",
+    "title": "Sichuan Buddha Fish Curry",
+    "tags": [
+      "indian",
+      "sichuan",
+      "fish-curry",
+      "vegetarian",
+      "lacto-vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-light-vietnamese-chestnut-cha-gio--vegetarian",
+    "title": "Vietnamese Spring Rolls",
+    "tags": [
+      "vietnamese",
+      "spring-rolls",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
