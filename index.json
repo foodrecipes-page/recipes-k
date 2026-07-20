@@ -16713,5 +16713,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 140,
     "shard": "k"
+  },
+  {
+    "slug": "keto-crunchy-portuguese-beef-burger--indian",
+    "title": "Keto Beef Burger with Indian Twist",
+    "tags": [
+      "keto",
+      "beef",
+      "burger",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
