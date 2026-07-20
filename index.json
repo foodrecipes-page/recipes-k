@@ -16649,5 +16649,19 @@
     "cuisine": "French",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kale-medley-grilled-tartar--chinese",
+    "title": "Kale and Medley Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "kale",
+      "medley",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "k"
   }
 ]
