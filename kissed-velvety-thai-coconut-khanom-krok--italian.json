@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-velvety-thai-coconut-khanom-krok--italian",
+  "title": "Coconut Khanom Cream Panna Cotta",
+  "description": "A creamy Italian dessert infused with the flavors of Thai coconut and sweet khanom.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "khanom",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "krok sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kissed cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "velvety gelatin",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine coconut milk, khanom, krok sugar, and salt. Cook over medium heat, stirring occasionally, until the sugar dissolves and the mixture simmers.",
+    "2. Remove the saucepan from heat, add kissed cream, and stir until smooth.",
+    "3. In a small bowl, sprinkle velvety gelatin over 1/4 cup of cold water. Let it sit for 5 minutes to soften.",
+    "4. Add softened gelatin to the coconut mixture and stir until dissolved.",
+    "5. Pour the mixture into individual serving cups or a large baking dish.",
+    "6. Refrigerate for at least 4 hours or overnight until set.",
+    "7. Serve chilled, garnished with toasted coconut flakes or a sprinkle of khanom powder if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "creamy",
+    "coconut",
+    "khanom"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-thai-coconut-khanom-krok--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:44:08.163Z"
+}
