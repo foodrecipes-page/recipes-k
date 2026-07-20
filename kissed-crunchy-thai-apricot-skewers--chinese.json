@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-crunchy-thai-apricot-skewers--chinese",
+  "title": "Thai Apricot Skewers",
+  "description": "A sweet and savory Chinese-inspired recipe featuring apricots and Thai spices, perfect for a quick snack or appetizer.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "1 cup",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Crunchy peanut butter",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Kissed sesame oil",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "bamboo or metal"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a medium bowl, whisk together Thai red curry paste, honey, soy sauce, and kissed sesame oil.",
+    "3. Add apricots to the bowl and toss to coat with curry paste mixture.",
+    "4. Thread apricots and any additional ingredients (such as crunchy peanut butter) onto skewers.",
+    "5. Grill skewers for 2-3 minutes per side, or until apricots are tender.",
+    "6. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "snack",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-thai-apricot-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:16:49.069Z"
+}
