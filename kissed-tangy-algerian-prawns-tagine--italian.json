@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-tangy-algerian-prawns-tagine--italian",
+  "title": "Italian Prawn Tagine",
+  "description": "A fusion of Italian and Algerian flavors in this unique tagine dish featuring succulent prawns. Enjoy the combination of tangy and kissed flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "12 oz",
+      "notes": "fresh and peeled"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": "tagine spice blend"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "tangy",
+      "amount": "2 tbsp",
+      "notes": "lemon juice"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat the kissed ingredient in a large skillet over medium heat.",
+    "Add the garlic and sauté for 1 minute.",
+    "Add the prawns and cook for 2-3 minutes per side, until pink and cooked through.",
+    "Add the algerian and tangy ingredients to the skillet and stir to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately over rice or with crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "algerian",
+    "seafood",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 8,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tangy-algerian-prawns-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T21:05:06.620Z"
+}
