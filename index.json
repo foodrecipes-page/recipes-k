@@ -3337,16 +3337,15 @@
   },
   {
     "slug": "kissed-british-rice-mousse",
-    "title": "Kissed British Rice Mousse",
+    "title": "Kissed British Mousse Rice Bowl",
     "tags": [
-      "british-dessert",
-      "citrusy",
-      "diabetic-friendly",
-      "kid-friendly",
-      "rice-mousse"
+      "british",
+      "mousse",
+      "rice",
+      "light-and-airy"
     ],
-    "cuisine": "british",
-    "totalTimeMin": 30,
+    "cuisine": "British",
+    "totalTimeMin": 50,
     "shard": "k"
   },
   {
@@ -14579,17 +14578,16 @@
   },
   {
     "slug": "knotted-smoky-sichuan-fish-buddha-jumps-over-wall",
-    "title": "Knotted Smoky Sichuan Fish Buddha Jumps Over Wall",
+    "title": "Smoky Buddha Bowl",
     "tags": [
-      "asian-inspired",
-      "comfort-food",
-      "one-pot",
-      "seafood",
-      "smoky",
-      "spicy"
+      "buddha",
+      "bowl",
+      "asian",
+      "vegan",
+      "gluten-free"
     ],
-    "cuisine": "Sichuan",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
@@ -16867,6 +16865,32 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-caramel-japanese-hazelnuts-ehomaki--german",
+    "title": "Ehomaki German Caramel Hazelnut Kisseled Dessert",
+    "tags": [
+      "german",
+      "hazelnut",
+      "caramel",
+      "ehomaki",
+      "kissed"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-velvet-slovakian-petit-pois-soup--chinese",
+    "title": "Slovakian Pois Soup",
+    "tags": [
+      "chinese",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
