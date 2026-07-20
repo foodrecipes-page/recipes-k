@@ -1,0 +1,64 @@
+{
+  "slug": "kicked-floral-ethiopian-cheese-lasagna--french",
+  "title": "French Cheese Lasagna",
+  "description": "A classic French take on Italian lasagna, with layers of rich cheese and delicate flavors.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ethiopian lasagna noodles",
+      "amount": "8-10",
+      "notes": ""
+    },
+    {
+      "name": "Cheese, mixed (Gruyère, Emmental, Parmesan)",
+      "amount": "1 cup",
+      "notes": "Shredded"
+    },
+    {
+      "name": "Floral butter (beurre fleur)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Kicked Bolognese sauce",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, melt the floral butter over medium heat. Add the kicked Bolognese sauce and stir to combine.",
+    "In a large bowl, combine the mixed cheese and a pinch of salt. Mix well to combine.",
+    "To assemble the lasagna, spread a layer of the Bolognese sauce on the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce. Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the sauce, and finally the remaining cheese mixture.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let rest for 10-15 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lasagna",
+    "cheese",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-floral-ethiopian-cheese-lasagna--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:09:36.296Z"
+}
