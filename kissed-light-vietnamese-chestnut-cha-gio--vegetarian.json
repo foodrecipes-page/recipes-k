@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-light-vietnamese-chestnut-cha-gio--vegetarian",
+  "title": "Vietnamese Spring Rolls",
+  "description": "Delicious spring rolls made with fresh vegetables and served with a sweet chili sauce. Perfect for a quick snack or light meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "rice paper wrappers",
+      "amount": "8-10 sheets"
+    },
+    {
+      "name": "light vermicelli noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "chopped chestnut mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded light cabbage",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare a large bowl of warm water for softening the rice paper wrappers.",
+    "Soak the vermicelli noodles in hot water for 5-7 minutes, then drain and set aside.",
+    "In a pan, sauté the mushrooms and cabbage until softened.",
+    "Add the grated carrot and scallions to the pan and stir-fry for 1 minute.",
+    "To assemble the spring rolls, lay a softened rice paper wrapper on a clean surface.",
+    "Place a small amount of the noodle mixture in the center of the wrapper.",
+    "Fold the bottom half of the wrapper up over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "Repeat with the remaining ingredients and wrappers.",
+    "Serve the spring rolls with sweet chili sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vietnamese",
+    "spring-rolls",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-vietnamese-chestnut-cha-gio--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:50:25.285Z"
+}
