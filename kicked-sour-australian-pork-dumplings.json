@@ -1,0 +1,83 @@
+{
+  "slug": "kicked-sour-australian-pork-dumplings",
+  "title": "Australian Pork Dumplings",
+  "description": "A hearty and flavorful dish from Australia featuring pork dumplings in a savory broth.",
+  "cuisine": "Australian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian Pork",
+      "amount": "1 pound",
+      "notes": "Ground pork"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For dumpling wrapper"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup",
+      "notes": "For dipping"
+    },
+    {
+      "name": "Kicked Chili Sauce",
+      "amount": "2 tablespoons",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    }
+  ],
+  "instructions": [
+    "Combine pork, onion, and garlic in a bowl and mix until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes.",
+    "Combine flour and a pinch of salt in a separate bowl.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of the pork mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal.",
+    "Heat the vegetable oil in a large skillet over medium-high heat.",
+    "Pan-fry the dumplings until golden brown on the bottom.",
+    "Add 2 cups of water to the skillet and bring to a boil.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Serve the dumplings hot with sour cream and kicked chili sauce on the side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "pork",
+    "dumplings",
+    "chili",
+    "sour-cream"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-sour-australian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:54:48.475Z"
+}
