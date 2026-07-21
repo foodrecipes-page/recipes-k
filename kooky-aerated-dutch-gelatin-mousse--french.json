@@ -1,0 +1,63 @@
+{
+  "slug": "kooky-aerated-dutch-gelatin-mousse--french",
+  "title": "French Mousse",
+  "description": "A classic French dessert made with gelatin, whipped cream, and aerated chocolate. It's a light and airy treat that's perfect for warm weather.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Gelatin",
+      "amount": "1 envelope (0.25 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Heavy Whipping Cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Aerated chocolate",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dutch cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Soak the gelatin in 1/4 cup of cold water for 5 minutes.",
+    "In a small saucepan, melt the aerated chocolate over low heat, stirring occasionally.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "In a separate bowl, mix the soaked gelatin with the Dutch cocoa powder.",
+    "Fold the gelatin mixture into the whipped cream until well combined.",
+    "Fold the melted chocolate into the whipped cream mixture until well combined.",
+    "Pour the mixture into individual serving cups.",
+    "Refrigerate for at least 2 hours or until set.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-mousse",
+    "french-desserts",
+    "summer-treats"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-aerated-dutch-gelatin-mousse--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:41:00.110Z"
+}
