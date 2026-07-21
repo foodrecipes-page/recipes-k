@@ -492,13 +492,14 @@
   },
   {
     "slug": "keto-friendly-garlicky-stir-fry",
-    "title": "Keto Garlic Chicken Stir Fry",
+    "title": "Keto Stir Fry",
     "tags": [
       "keto",
-      "garlicky",
-      "stir-fry"
+      "low-carb",
+      "stir-fry",
+      "bacon"
     ],
-    "cuisine": null,
+    "cuisine": "Asian",
     "totalTimeMin": 25,
     "shard": "k"
   },
@@ -17135,6 +17136,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-peppery-brazilian-korean-pear-stew--chinese",
+    "title": "Korean Pear Stew",
+    "tags": [
+      "chinese",
+      "stew",
+      "pear",
+      "korean"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
