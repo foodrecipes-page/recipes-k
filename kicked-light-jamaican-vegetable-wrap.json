@@ -1,0 +1,80 @@
+{
+  "slug": "kicked-light-jamaican-vegetable-wrap",
+  "title": "Jamaican Kicked Vegetable Wrap",
+  "description": "A flavorful and spicy wrap filled with sautéed vegetables and a hint of Jamaican kick.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Whole wheat wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Light kick sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the vegetable oil and swirl to coat.",
+    "Add the onion and bell pepper and sauté for 3-4 minutes.",
+    "Add the carrots and zucchini and sauté for an additional 4-5 minutes.",
+    "Stir in the Jamaican jerk seasoning and cook for 1 minute.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spooning the vegetable mixture onto the wrap.",
+    "Drizzle with light kick sauce and sprinkle with cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "vegetarian",
+    "wrap",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-light-jamaican-vegetable-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:48:37.731Z"
+}
