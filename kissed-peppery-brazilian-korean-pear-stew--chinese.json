@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-peppery-brazilian-korean-pear-stew--chinese",
+  "title": "Korean Pear Stew",
+  "description": "A sweet and savory Chinese-inspired stew featuring korean pear and brazilian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "korean chili flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "brazilian pepper",
+      "amount": "1 whole",
+      "notes": "grated"
+    },
+    {
+      "name": "korean pear",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "stew meat (beef or pork)",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pan over medium-high heat.",
+    "Add stew meat and cook until browned, about 5 minutes.",
+    "Add korean chili flakes, grated brazilian pepper, diced korean pear, soy sauce, brown sugar, and rice vinegar to the pan.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional korean chili flakes and grated brazilian pepper if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stew",
+    "pear",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peppery-brazilian-korean-pear-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:23:56.213Z"
+}
