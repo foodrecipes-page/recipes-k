@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-fluffy-portuguese-cannellini-bean-stew--vegetarian",
+  "title": "Vegetarian Cannellini Bean Stew",
+  "description": "A hearty and comforting stew made with cannellini beans, onions, and spices.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 can (15 oz)",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "portuguese stew meat substitute",
+      "amount": "1 package",
+      "notes": "such as textured vegetable protein"
+    },
+    {
+      "name": "fluffy bean broth",
+      "amount": "4 cups",
+      "notes": "vegetable broth or water can be used as a substitute"
+    },
+    {
+      "name": "kissed tomatoes",
+      "amount": "2 cups",
+      "notes": "canned diced tomatoes"
+    },
+    {
+      "name": "bean",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    }
+  ],
+  "instructions": [
+    "Heat the bean broth in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the Portuguese stew meat substitute and cook until browned, about 5 minutes.",
+    "Add the cannellini beans, kissed tomatoes, and bean to the pot.",
+    "Stir to combine and bring to a simmer.",
+    "Reduce heat to low and cook for 20-25 minutes, or until the flavors have melded together.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fluffy-portuguese-cannellini-bean-stew--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:17:31.703Z"
+}
