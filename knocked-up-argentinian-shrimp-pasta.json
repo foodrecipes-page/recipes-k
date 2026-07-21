@@ -1,0 +1,73 @@
+{
+  "slug": "knocked-up-argentinian-shrimp-pasta",
+  "title": "Argentinian Shrimp Pasta",
+  "description": "A classic Argentinian-inspired dish featuring succulent shrimp and pasta in a flavorful sauce.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Cook the pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
+    "Add the chili flakes (if using) and cook for an additional minute.",
+    "Stir in the lemon juice and reserved pasta water.",
+    "Add the cooked pasta to the skillet and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "seafood",
+    "pasta",
+    "quick-cooking"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knocked-up-argentinian-shrimp-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:44:41.665Z"
+}
