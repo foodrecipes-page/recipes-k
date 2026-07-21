@@ -1774,17 +1774,15 @@
   },
   {
     "slug": "kicked-spicy-thai-chicken-curry",
-    "title": "Kicked Spicy Thai Chicken Curry",
+    "title": "Spicy Thai Chicken Curry",
     "tags": [
-      "ayurvedic-friendly",
-      "coconut-based",
-      "gluten-free",
-      "one-pan",
-      "spicy",
-      "thai-cuisine"
+      "thai",
+      "curry",
+      "chicken",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
