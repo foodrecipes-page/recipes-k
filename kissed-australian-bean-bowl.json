@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-australian-bean-bowl",
+  "title": "Australian Bean and Kissed Bowl",
+  "description": "A hearty bowl filled with Australian flavors and kissed with a sweet and tangy sauce.",
+  "cuisine": "australian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Australian bush tomatoes",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "kissed kale",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "canned kidney beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "raw"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "extra virgin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss bush tomatoes with olive oil, salt, and pepper. Roast for 20 minutes.",
+    "In a large bowl, combine roasted bush tomatoes, kale, kidney beans, and quinoa.",
+    "In a small bowl, whisk together lemon juice and honey. Pour over the quinoa mixture and toss.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, topped with additional lemon wedges if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "vegetarian",
+    "lunch",
+    "quinoa",
+    "lemon"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-australian-bean-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T16:14:35.731Z"
+}
