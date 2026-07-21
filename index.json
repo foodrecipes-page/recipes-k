@@ -1355,17 +1355,15 @@
   },
   {
     "slug": "kicked-light-jamaican-vegetable-wrap",
-    "title": "Kicked Light Jamaican Vegetable Wrap",
+    "title": "Jamaican Kicked Vegetable Wrap",
     "tags": [
-      "herbal",
       "jamaican",
-      "light-meal",
-      "satvik",
-      "spring-inspired",
-      "vegetarian"
+      "vegetarian",
+      "wrap",
+      "spicy"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -3114,17 +3112,16 @@
   },
   {
     "slug": "kissed-australian-bean-bowl",
-    "title": "Kissed Australian Bean Bowl",
+    "title": "Australian Bean and Kissed Bowl",
     "tags": [
-      "bean-bowl",
-      "fancy",
-      "light",
-      "midnight",
-      "quick",
-      "vegetarian"
+      "australian",
+      "vegetarian",
+      "lunch",
+      "quinoa",
+      "lemon"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "cuisine": "australian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
