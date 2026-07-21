@@ -1,0 +1,82 @@
+{
+  "slug": "kicked-bitter-ukrainian-kabse-hash--thai",
+  "title": "Kicked Up Thai Hash",
+  "description": "A Thai-inspired hash made with kicked beef, onions, and hash browns, perfect for breakfast or brunch.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "kicked beef",
+      "amount": "1 lb",
+      "notes": "ground beef with a spicy kick"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "hash browns",
+      "amount": "2 cups",
+      "notes": "shredded potatoes"
+    },
+    {
+      "name": "bitter melon",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "kabse sauce",
+      "amount": "2 tbsp",
+      "notes": "Thai chili sauce"
+    },
+    {
+      "name": "ukrainian salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until browned, about 5 minutes.",
+    "Add the chopped bitter melon and cook for an additional 2 minutes.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the shredded potatoes and cook until they start to brown, about 5 minutes.",
+    "Stir in the kabse sauce and cook for an additional minute.",
+    "Season with ukrainian salt to taste.",
+    "Serve hot and enjoy!",
+    "Cook to an internal temperature of 160°F (71°C) for the beef.",
+    "Use a thermometer to ensure the beef is cooked to a safe temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "beef",
+    "hash",
+    "breakfast",
+    "brunch"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-bitter-ukrainian-kabse-hash--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:09:24.204Z"
+}
