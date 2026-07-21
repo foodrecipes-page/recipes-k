@@ -17089,5 +17089,55 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "k"
+  },
+  {
+    "slug": "kooky-aerated-dutch-gelatin-mousse--french",
+    "title": "French Mousse",
+    "tags": [
+      "chocolate-mousse",
+      "french-desserts",
+      "summer-treats"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 100,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-ukrainian-cannellini-beans-pastry-casserole--japanese",
+    "title": "Japanese Smoky Bean Casserole",
+    "tags": [
+      "japanese",
+      "smoky",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-nutty-thai-beef-wrap--chinese",
+    "title": "Thai Beef Lettuce Wraps",
+    "tags": [
+      "chinese",
+      "beef",
+      "lettuce",
+      "wraps"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-australian-noodle-dish--japanese",
+    "title": "Kissed Noodle Dish",
+    "tags": [
+      "japanese",
+      "noodle-dish",
+      "beef-stir-fry",
+      "asiatic"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "k"
   }
 ]
