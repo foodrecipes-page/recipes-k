@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-smoky-egyptian-falafel-kebabs--french",
+  "title": "Smoky French-Style Falafel Kebabs",
+  "description": "A twist on classic falafel, these smoky kebabs are served with a side of tangy kisséd sauce. Perfect for a quick and delicious meal.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "smoky falafel mix",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "kissed sesame oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing kebabs"
+    },
+    {
+      "name": "egyptian pita bread",
+      "amount": "4-6 pieces",
+      "notes": "for serving"
+    },
+    {
+      "name": "kebabs",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for kisséd sauce"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread smoky falafel mix onto kebabs, leaving a little space between each piece.",
+    "Brush kisséd sesame oil onto kebabs and season with salt and black pepper.",
+    "Grill kebabs for 8-10 minutes, turning occasionally, until golden brown and crispy.",
+    "Meanwhile, mix lemon juice and minced garlic for kisséd sauce.",
+    "Serve kebabs in egyptian pita bread with a dollop of kisséd sauce and garnished with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "kebabs",
+    "falafel",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-egyptian-falafel-kebabs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:23:16.462Z"
+}
