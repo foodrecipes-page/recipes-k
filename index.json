@@ -2989,16 +2989,15 @@
   },
   {
     "slug": "kissed-and-malted-middle-eastern-lamb-loin-chops-tagine",
-    "title": "Kissed and Malted Middle-Eastern Lamb Loin Chops Tagine",
+    "title": "Moroccan Lamb Tagine",
     "tags": [
-      "high-protein",
       "lamb",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "tagine",
+      "moroccan",
+      "middle eastern"
     ],
-    "cuisine": "middle eastern",
-    "totalTimeMin": 50,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 110,
     "shard": "k"
   },
   {
@@ -14223,17 +14222,15 @@
   },
   {
     "slug": "knockout-crunchy-canadian-hazelnut-pancakes",
-    "title": "Knockout Crunchy Canadian Hazelnut Pancakes",
+    "title": "Hazelnut Pancakes with Crunchy Canadian Topping",
     "tags": [
-      "breakfast-ideas",
-      "canadian-recipes",
-      "hazelnut-recipes",
-      "nutella-recipes",
-      "pancake-recipes",
-      "vegetarian-recipes"
+      "breakfast",
+      "pancakes",
+      "hazelnut",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -16937,6 +16934,19 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-fluffy-kenyan-spaghetti-pasta--german",
+    "title": "Spaghetti mit Fluffigem Fuss",
+    "tags": [
+      "german",
+      "spaghetti",
+      "easy",
+      "italian-inspired"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
