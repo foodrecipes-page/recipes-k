@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--indian",
+  "title": "Smoked Salmon Steamed Donabe with Scottish Kissed Clay",
+  "description": "A unique Indian-inspired dish blending the flavors of smoked salmon and steamed donabe with a hint of Scottish kissed clay.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "salmon",
+      "amount": "300g",
+      "notes": "smoked"
+    },
+    {
+      "name": "donabe",
+      "amount": "1",
+      "notes": "steamed"
+    },
+    {
+      "name": "clay",
+      "amount": "2 tbsp",
+      "notes": "scottish kissed"
+    },
+    {
+      "name": "water",
+      "amount": "500ml",
+      "notes": ""
+    },
+    {
+      "name": "with",
+      "amount": "2 tsp",
+      "notes": "salt"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "ginger"
+    },
+    {
+      "name": "smoke",
+      "amount": "1 tsp",
+      "notes": "powdered"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer for 10 minutes.",
+    "Rinse the smoked salmon and place it in the steamed donabe.",
+    "Add 2 tsp of salt and 1 tsp of ginger powder to the donabe.",
+    "Pour in 500ml of water and bring to a boil.",
+    "Reduce heat and steam for 10 minutes.",
+    "Stir in 1 tsp of powdered smoke and 2 tbsp of scottish kissed clay.",
+    "Serve hot and garnish with additional smoked salmon if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": "4",
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "smoked-salmon",
+    "steamed-donabe",
+    "scottish-kissed-clay"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T08:07:09.343Z"
+}
