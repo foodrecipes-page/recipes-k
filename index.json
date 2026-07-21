@@ -17075,5 +17075,19 @@
     "cuisine": "mediterranean",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kicked-bitter-ukrainian-kabse-hash--thai",
+    "title": "Kicked Up Thai Hash",
+    "tags": [
+      "thai",
+      "beef",
+      "hash",
+      "breakfast",
+      "brunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
