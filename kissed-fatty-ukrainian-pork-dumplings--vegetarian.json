@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-fatty-ukrainian-pork-dumplings--vegetarian",
+  "title": "Ukrainian Fatty Dumplings",
+  "description": "Tender, flavorful dumplings filled with a rich, savory mix, served with a side of steamed vegetables.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "fatty",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for dumpling dough"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "for filling"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "for filling"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt. Gradually add water, mixing until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let rest for 30 minutes.",
+    "Meanwhile, heat vegetable oil in a pan over medium heat. Add onion and garlic, sautéing until softened.",
+    "Add fatty and ukrainian to the pan, mixing well. Season with salt to taste.",
+    "Divide the rested dough into 8 equal pieces. Roll each piece into a thin circle.",
+    "Place a tablespoon of the filling mixture in the center of each dough circle. Fold the dough over the filling, pressing edges to seal.",
+    "Bring a large pot of water to a boil. Gently add the dumplings, cooking for 5-7 minutes or until they float to the surface.",
+    "Serve the dumplings hot with steamed vegetables.",
+    "Optional: serve with a side of sour cream or chopped fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "fatty",
+    "dumplings",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fatty-ukrainian-pork-dumplings--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:08:33.502Z"
+}
