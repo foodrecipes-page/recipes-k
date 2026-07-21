@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-by-binchotan-brazilian-beef-patty--chinese",
+  "title": "Binchotan Beef Patty Stir Fry",
+  "description": "A delicious and easy-to-make Chinese-inspired stir-fry dish using a binchotan-grilled beef patty.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Binchotan-grilled beef patty",
+      "amount": "4 oz",
+      "notes": "Cook to an internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Kissed by binchotan sauce",
+      "amount": "2 tbsp",
+      "notes": "Available pre-made or make your own"
+    },
+    {
+      "name": "By binchotan stir-fry vegetables",
+      "amount": "1 cup",
+      "notes": "Choose your favorite stir-fry veggies"
+    },
+    {
+      "name": "Brazilian chilies",
+      "amount": "2-3",
+      "notes": "Adjust to desired level of spiciness"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For stir-frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "0.5 tsp",
+      "notes": "For balance"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a wok or large skillet over medium-high heat.",
+    "Add the Brazilian chilies and cook for 1-2 minutes, until fragrant.",
+    "Add the Binchotan-grilled beef patty and cook for 2-3 minutes, until browned.",
+    "Add the kissed by binchotan sauce, soy sauce, and brown sugar. Stir to combine.",
+    "Add the By binchotan stir-fry vegetables and cook until they are tender-crisp.",
+    "Season with salt to taste.",
+    "Transfer the stir-fry to a serving plate and garnish with scallions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "stir-fry",
+    "binchotan",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-by-binchotan-brazilian-beef-patty--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:43:41.800Z"
+}
