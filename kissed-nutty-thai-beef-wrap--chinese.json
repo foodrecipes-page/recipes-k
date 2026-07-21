@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-nutty-thai-beef-wrap--chinese",
+  "title": "Thai Beef Lettuce Wraps",
+  "description": "A Chinese-inspired dish with marinated beef, crunchy lettuce, and nutty flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef (sirloin) ",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "thai chili sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "kissed sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "nutty peanut butter",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "wrap (lettuce leaves) ",
+      "amount": "4-6",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together chili sauce, sesame oil, and peanut butter.",
+    "2. Add the sliced beef to the marinade and let it sit for at least 30 minutes.",
+    "3. Preheat a large skillet or wok over medium-high heat.",
+    "4. Remove the beef from the marinade and cook until browned, about 3-4 minutes.",
+    "5. Add the beef back to the marinade and stir to coat.",
+    "6. Serve the beef in lettuce wraps with additional chili sauce, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "beef",
+    "lettuce",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-thai-beef-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:22:12.305Z"
+}
