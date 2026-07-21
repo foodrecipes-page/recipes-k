@@ -17050,5 +17050,30 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-springy-irish-goat-meat-wrap--vegan",
+    "title": "Vegan Irish Wrap",
+    "tags": [
+      "vegan",
+      "wrap",
+      "irish",
+      "spring-onion"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-fluffy-portuguese-cannellini-bean-stew--vegetarian",
+    "title": "Vegetarian Cannellini Bean Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "mediterranean"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 40,
+    "shard": "k"
   }
 ]
