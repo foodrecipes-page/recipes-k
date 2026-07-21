@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-resinous-moroccan-lentils-bissara--japanese",
+  "title": "Moroccan-Style Lentil Soup",
+  "description": "A hearty and flavorful Japanese-inspired dish with a North African twist, featuring lentils and a blend of aromatic spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "red or brown lentils"
+    },
+    {
+      "name": "bissara",
+      "amount": "1 tablespoon",
+      "notes": "roasted garlic hummus"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, carrot, and ginger; cook until the vegetables are tender.",
+    "Add cumin, coriander, and paprika; cook for 1 minute.",
+    "Add lentils, bissara, salt, and water; bring to a boil.",
+    "Reduce heat to low; simmer for 20-25 minutes or until the lentils are tender.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "vegetarian",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-resinous-moroccan-lentils-bissara--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:05:47.712Z"
+}
