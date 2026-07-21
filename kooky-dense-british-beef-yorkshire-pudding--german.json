@@ -1,0 +1,81 @@
+{
+  "slug": "kooky-dense-british-beef-yorkshire-pudding--german",
+  "title": "Yorkshire Pudding with Beef Rouladen",
+  "description": "A hearty German dish featuring beef rouladen wrapped in a light and airy Yorkshire pudding.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "yorkshire",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "kooky",
+      "amount": "1/2 cup",
+      "notes": "cold unsalted butter, cut into small pieces"
+    },
+    {
+      "name": "dense",
+      "amount": "1/2 cup",
+      "notes": "beef broth, chilled"
+    },
+    {
+      "name": "british",
+      "amount": "2 eggs",
+      "notes": "room temperature"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 cup",
+      "notes": "beef gravy"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "In a large bowl, whisk together flour, salt, and pepper.",
+    "Add cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Make a well in the center of the flour mixture and add chilled beef broth.",
+    "Using a fork, gradually incorporate the flour mixture into the broth, forming a shaggy dough.",
+    "Turn the dough out onto a lightly floured surface and knead a few times until it comes together.",
+    "Divide the dough into 4 equal pieces and shape each into a ball.",
+    "Roll out each ball of dough into a thin sheet.",
+    "Cut out 4 rounds of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of beef gravy in the center of each dough round.",
+    "Top each round with a slice of beef and a sprinkle of salt and pepper.",
+    "Roll up each round of dough to form a tight log, and place seam-side down on a baking sheet.",
+    "Brush the tops of the logs with a little bit of egg wash and cut a few slits in the top of each log to allow steam to escape.",
+    "Bake for 20-25 minutes, or until the pastry is golden brown and the beef is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "pudding",
+    "roast"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-dense-british-beef-yorkshire-pudding--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:23:22.906Z"
+}
