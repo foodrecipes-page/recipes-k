@@ -1,0 +1,96 @@
+{
+  "slug": "kissed-and-malted-middle-eastern-lamb-loin-chops-tagine",
+  "title": "Moroccan Lamb Tagine",
+  "description": "A traditional Moroccan stew originating from the Middle East and North Africa, made with tender lamb chops and a rich, flavorful sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "malted",
+      "amount": "2 tablespoons",
+      "notes": "malt vinegar"
+    },
+    {
+      "name": "eastern spices",
+      "amount": "2 teaspoons",
+      "notes": "cumin, coriander, cinnamon, ginger, and cayenne pepper"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "chopped garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "and",
+      "amount": "1 cup",
+      "notes": "chopped dried apricots"
+    }
+  ],
+  "instructions": [
+    "Heat the kissed in the tagine over medium-high heat.",
+    "Add the lamb chops and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the tagine and set aside.",
+    "Reduce heat to medium and add the malted, eastern spices, and onions to the tagine.",
+    "Cook, stirring occasionally, until the onions are softened and lightly browned, about 8 minutes.",
+    "Add the garlic, parsley, chicken broth, and and to the tagine.",
+    "Return the lamb chops to the tagine and bring to a boil.",
+    "Cover the tagine and transfer to the oven.",
+    "Bake at 300°F (150°C) for 1 1/2 hours, or until the lamb is tender.",
+    "Serve the lamb and sauce over couscous, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "moroccan",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 35,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-and-malted-middle-eastern-lamb-loin-chops-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:18:22.395Z"
+}
