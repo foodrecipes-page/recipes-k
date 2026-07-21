@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-fluffy-kenyan-spaghetti-pasta--german",
+  "title": "Spaghetti mit Fluffigem Fuss",
+  "description": "A German twist on a classic spaghetti dish, incorporating fluffy ingredients. Simple and quick to make.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spaghetti",
+      "amount": "250g",
+      "notes": "long, thin, cylindrical pasta"
+    },
+    {
+      "name": "fluffy",
+      "amount": "2 tbsp",
+      "notes": "fluffy ingredient to add texture"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1 tsp",
+      "notes": "kenyan spice blend for added flavor"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "kissed oil to add richness"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp",
+      "notes": "neutral oil for cooking"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the spaghetti according to package instructions until al dente.",
+    "In a pan, heat the kissed oil over medium heat.",
+    "Add the kenyan spice blend and cook for 1 minute.",
+    "Add the fluffy ingredient and cook for 2 minutes.",
+    "Combine the cooked spaghetti and oil mixture.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "spaghetti",
+    "easy",
+    "italian-inspired"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fluffy-kenyan-spaghetti-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:46:02.576Z"
+}
