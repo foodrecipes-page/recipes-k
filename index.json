@@ -1592,17 +1592,16 @@
   },
   {
     "slug": "kicked-sour-australian-pork-dumplings",
-    "title": "Kicked Sour Australian Pork Dumplings",
+    "title": "Australian Pork Dumplings",
     "tags": [
-      "australian-cuisine",
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "pork-recipes",
-      "weeknight"
+      "australian",
+      "pork",
+      "dumplings",
+      "chili",
+      "sour-cream"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -16987,6 +16986,32 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 165,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--indian",
+    "title": "Smoked Salmon Steamed Donabe with Scottish Kissed Clay",
+    "tags": [
+      "indian",
+      "smoked-salmon",
+      "steamed-donabe",
+      "scottish-kissed-clay"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-egyptian-falafel-kebabs--french",
+    "title": "Smoky French-Style Falafel Kebabs",
+    "tags": [
+      "french",
+      "kebabs",
+      "falafel",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
