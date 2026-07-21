@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-springy-irish-goat-meat-wrap--vegan",
+  "title": "Vegan Irish Wrap",
+  "description": "A flavorful and nutritious vegan wrap filled with sautéed Irish spring onions and kissed goat cheese substitute.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Springy Irish onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kissed vegan cheese",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Meat substitute",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vegan mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pan with a small amount of oil over medium heat.",
+    "Add the springy Irish onions and cook until softened.",
+    "Add the meat substitute and cook until browned.",
+    "Add the kissed vegan cheese and stir until melted.",
+    "Warm the vegan wrap in the microwave for a few seconds.",
+    "Assemble the wrap with the cooked onions, meat substitute, and cheese mixture.",
+    "Add lettuce, tomato, and cucumber on top.",
+    "Drizzle with vegan mayo.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "wrap",
+    "irish",
+    "spring-onion"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-springy-irish-goat-meat-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:23:03.524Z"
+}
