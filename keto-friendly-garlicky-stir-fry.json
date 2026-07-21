@@ -1,81 +1,80 @@
 {
   "slug": "keto-friendly-garlicky-stir-fry",
-  "title": "Keto Garlic Chicken Stir Fry",
-  "description": "A quick and flavorful keto garlic chicken stir fry that's perfect for a weeknight dinner. This recipe is low in carbs and rich in protein and healthy fats.",
-  "cuisine": null,
+  "title": "Keto Stir Fry",
+  "description": "A quick and easy keto stir fry recipe using keto-friendly ingredients.",
+  "cuisine": "Asian",
   "diet": [
-    "keto"
+    "keto",
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "chicken breast",
-      "amount": "1 pound",
-      "notes": "cut into bite-sized pieces"
+      "name": "Bacon",
+      "amount": "12 slices",
+      "notes": null
     },
     {
-      "name": "garlic",
+      "name": "Shirataki Noodles",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Keto Stir Fry Sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
       "amount": "3 cloves",
       "notes": "minced"
     },
     {
-      "name": "coconut oil",
+      "name": "Green Onions",
       "amount": "1/4 cup",
-      "notes": "for stir-frying"
-    },
-    {
-      "name": "bell peppers",
-      "amount": "1 cup",
-      "notes": "sliced"
-    },
-    {
-      "name": "onion",
-      "amount": "1 cup",
-      "notes": "sliced"
-    },
-    {
-      "name": "green beans",
-      "amount": "1 cup",
-      "notes": "trimmed and cut into bite-sized pieces"
-    },
-    {
-      "name": "salt",
-      "amount": "to taste"
-    },
-    {
-      "name": "black pepper",
-      "amount": "to taste"
+      "notes": "chopped"
     }
   ],
   "instructions": [
-    "Heat the coconut oil in a large skillet or wok over medium-high heat.",
-    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
-    "Remove the chicken from the skillet and set aside.",
-    "Add the minced garlic to the skillet and cook for 1-2 minutes, until fragrant.",
-    "Add the sliced bell peppers and onion to the skillet and cook until tender, about 3-4 minutes.",
-    "Add the green beans to the skillet and cook until tender, about 2-3 minutes.",
-    "Return the chicken to the skillet and stir to combine with the vegetables.",
-    "Season with salt and black pepper to taste.",
-    "Serve hot and enjoy!"
+    "Cook bacon in a pan over medium heat until crispy.",
+    "Remove bacon from the pan and set aside.",
+    "Add mushrooms and bell peppers to the pan and cook until tender.",
+    "Add garlic to the pan and cook for 1 minute.",
+    "Add keto stir fry sauce to the pan and stir to combine.",
+    "Add shirataki noodles to the pan and stir to combine.",
+    "Return bacon to the pan and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Serve hot and garnish with green onions."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "keto",
-    "garlicky",
-    "stir-fry"
+    "low-carb",
+    "stir-fry",
+    "bacon"
   ],
   "nutrition": {
     "calories": 540,
-    "protein": 43,
+    "protein": 32,
     "carbs": 10,
-    "fat": 42
+    "fat": 46
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/keto-friendly-garlicky-stir-fry",
   "providerUsed": "groq",
-  "createdAt": "2026-07-17T15:20:04.117Z"
+  "createdAt": "2026-07-18T17:14:04.357Z"
 }
