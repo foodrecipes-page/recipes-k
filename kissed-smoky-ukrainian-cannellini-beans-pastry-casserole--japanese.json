@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-smoky-ukrainian-cannellini-beans-pastry-casserole--japanese",
+  "title": "Japanese Smoky Bean Casserole",
+  "description": "A unique and flavorful casserole blending Japanese and smoky elements with cannellini beans.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1 tsp",
+      "notes": "dried dill weed"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "pastry",
+      "amount": "1 sheet",
+      "notes": "puff pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry and place in a baking dish.",
+    "In a pan, heat the smoked paprika and dried dill weed over low heat.",
+    "Add the cannellini beans to the pan and stir in the thyme.",
+    "Pour the bean mixture over the pastry.",
+    "Bake for 25-30 minutes or until the pastry is golden brown.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "smoky",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-ukrainian-cannellini-beans-pastry-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:53:05.285Z"
+}
