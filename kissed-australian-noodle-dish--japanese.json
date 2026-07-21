@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-australian-noodle-dish--japanese",
+  "title": "Kissed Noodle Dish",
+  "description": "A simple and flavorful Japanese noodle dish made with kissed australian beef and noodles.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Australian beef strips",
+      "amount": "1 pound",
+      "notes": "Slice into thin strips"
+    },
+    {
+      "name": "Kissed noodles",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Cook the kissed noodles according to the package instructions.",
+    "2. In a large pan or wok, heat 1 tablespoon of sesame oil over medium-high heat.",
+    "3. Add the sliced australian beef and cook until browned.",
+    "4. Add the soy sauce, sesame seeds, and honey to the pan and stir to combine.",
+    "5. Add the cooked noodles to the pan and toss to combine with the sauce.",
+    "6. Sprinkle with green onions and ginger.",
+    "7. Serve hot and enjoy!",
+    "8. Garnish with additional green onions and sesame seeds if desired.",
+    "9. Cook the ginger for a few seconds until fragrant.",
+    "10. Stir-fry everything together for 1-2 minutes until the noodles are well coated with the sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "noodle-dish",
+    "beef-stir-fry",
+    "asiatic"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 70,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-australian-noodle-dish--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:29:08.580Z"
+}
