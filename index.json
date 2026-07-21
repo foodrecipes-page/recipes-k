@@ -11271,17 +11271,16 @@
   },
   {
     "slug": "kissed-tangy-russian-duck-confit",
-    "title": "Kissed Tangy Russian Duck Confit",
+    "title": "Pan-Seared Duck Confit with Russian Kissed Sauce",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "duck-recipes",
-      "gluten-free",
-      "russian-cuisine",
-      "tangy-flavors"
+      "dinner",
+      "duck",
+      "confit",
+      "sauce",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 180,
+    "cuisine": "French",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -16947,6 +16946,47 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-by-binchotan-brazilian-beef-patty--chinese",
+    "title": "Binchotan Beef Patty Stir Fry",
+    "tags": [
+      "chinese",
+      "beef",
+      "stir-fry",
+      "binchotan",
+      "grilled"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-fatty-ukrainian-pork-dumplings--vegetarian",
+    "title": "Ukrainian Fatty Dumplings",
+    "tags": [
+      "ukrainian",
+      "fatty",
+      "dumplings",
+      "vegetarian"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-spicy-mexican-pork-tacos-al-pastor--keto",
+    "title": "Low-Carb Pork Al Pastor Tacos",
+    "tags": [
+      "keto",
+      "tacos",
+      "mexican",
+      "pork",
+      "low-carb"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 165,
     "shard": "k"
   }
 ]
