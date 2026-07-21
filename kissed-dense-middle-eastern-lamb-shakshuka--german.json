@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-dense-middle-eastern-lamb-shakshuka--german",
+  "title": "Shakshuka with a Middle Eastern Twist",
+  "description": "A German-inspired shakshuka recipe with a middle eastern twist, using lamb and traditional spices, served with a side of dense bread.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound, cut into 1-inch cubes",
+      "notes": ""
+    },
+    {
+      "name": "middle eastern spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, diced",
+      "notes": ""
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": ""
+    },
+    {
+      "name": "shakshuka spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "dense bread",
+      "amount": "1 loaf",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat a large cast-iron skillet over medium-high heat.",
+    "Add the lamb cubes and cook until browned, about 5 minutes.",
+    "Add the onion and bell pepper and cook until the vegetables are tender, about 5 minutes.",
+    "Add the diced tomatoes, middle eastern spices, and shakshuka spice blend. Stir to combine.",
+    "Create 4 wells in the mixture and crack an egg into each well.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the eggs are cooked through.",
+    "Serve the shakshuka hot, garnished with chopped fresh herbs and a side of dense bread.",
+    "Optional: add a kiss of heat with a sprinkle of red pepper flakes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "middle eastern",
+    "lamb",
+    "shakshuka",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dense-middle-eastern-lamb-shakshuka--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:03:18.540Z"
+}
