@@ -16926,5 +16926,17 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-resinous-moroccan-lentils-bissara--japanese",
+    "title": "Moroccan-Style Lentil Soup",
+    "tags": [
+      "lentils",
+      "vegetarian",
+      "soup"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "k"
   }
 ]
