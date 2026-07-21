@@ -17011,5 +17011,44 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kooky-dense-british-beef-yorkshire-pudding--german",
+    "title": "Yorkshire Pudding with Beef Rouladen",
+    "tags": [
+      "german",
+      "beef",
+      "pudding",
+      "roast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-dense-middle-eastern-lamb-shakshuka--german",
+    "title": "Shakshuka with a Middle Eastern Twist",
+    "tags": [
+      "german",
+      "middle eastern",
+      "lamb",
+      "shakshuka",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-american-chicken-skillet--vegan",
+    "title": "Smoky American Skillet",
+    "tags": [
+      "vegan",
+      "smoky",
+      "american"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
