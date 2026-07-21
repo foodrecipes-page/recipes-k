@@ -1,0 +1,88 @@
+{
+  "slug": "kicked-spicy-mexican-pork-tacos-al-pastor--keto",
+  "title": "Low-Carb Pork Al Pastor Tacos",
+  "description": "A delicious keto twist on traditional Mexican street food, featuring slow-cooked pork in a spicy tomato-based sauce, served in tacos with fresh cilantro and a sprinkle of queso fresco.",
+  "cuisine": "mexican",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless, fat-cap intact"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spicy taco seasoning",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, whisk together lime juice, olive oil, and spicy taco seasoning.",
+    "Rub the mixture all over the pork shoulder, making sure to coat it evenly.",
+    "Place the pork shoulder in a large Dutch oven or oven-safe pot.",
+    "Add the diced onion and minced garlic to the pot, stirring to combine.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Bake for 2 1/2 hours, or until the pork is tender and easily shreds with a fork.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Shred the pork with two forks and stir in chopped cilantro.",
+    "Warm tortillas according to your preference.",
+    "Assemble tacos by spooning the pork mixture onto a tortilla and topping with crumbled queso fresco.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "tacos",
+    "mexican",
+    "pork",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-mexican-pork-tacos-al-pastor--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T07:20:19.053Z"
+}
