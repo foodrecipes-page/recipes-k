@@ -268,12 +268,12 @@
     "title": "Keto Bhuna Potatoes",
     "tags": [
       "keto",
-      "bhuna",
+      "indian",
       "potatoes",
-      "spicy"
+      "bhuna"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14132,17 +14132,15 @@
   },
   {
     "slug": "knocked-up-argentinian-shrimp-pasta",
-    "title": "Knocked up Argentinian shrimp Pasta",
+    "title": "Argentinian Shrimp Pasta",
     "tags": [
       "argentinian",
-      "one-pot",
+      "seafood",
       "pasta",
-      "pescatarian",
-      "shrimp",
-      "weeknight"
+      "quick-cooking"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "argentinian",
+    "totalTimeMin": 22,
     "shard": "k"
   },
   {
