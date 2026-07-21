@@ -1,0 +1,68 @@
+{
+  "slug": "knockout-crunchy-canadian-hazelnut-pancakes",
+  "title": "Hazelnut Pancakes with Crunchy Canadian Topping",
+  "description": "A delicious breakfast dish featuring hazelnut pancakes topped with a crunchy Canadian topping.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pancakes",
+      "amount": "4",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Canadian Maple Syrup",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Crunchy Granola",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": "1/2 cup",
+      "notes": "almond or soy milk"
+    }
+  ],
+  "instructions": [
+    "In a bowl, combine chopped hazelnuts and non-dairy milk.",
+    "Heat a non-stick pan over medium heat.",
+    "Add pancakes to the pan and top with hazelnut mixture.",
+    "Cook for 2-3 minutes or until pancakes are golden brown.",
+    "Flip pancakes and cook for another 2 minutes.",
+    "Top with Canadian maple syrup and crunchy granola if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "hazelnut",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-crunchy-canadian-hazelnut-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T06:20:14.027Z"
+}
