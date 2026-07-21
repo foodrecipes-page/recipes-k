@@ -1,0 +1,76 @@
+{
+  "slug": "keto-bhuna-potatoes",
+  "title": "Keto Bhuna Potatoes",
+  "description": "A low-carb version of the popular Indian-inspired potato dish, made with keto-friendly spices and ingredients.",
+  "cuisine": "Indian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Bhuna paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Peel the potatoes and cut them into 1-inch (2.5 cm) cubes.",
+    "In a large bowl, combine the potatoes, olive oil, salt, black pepper, garlic powder, and chili flakes. Toss to coat.",
+    "Spread the potatoes in a single layer on a baking sheet.",
+    "Bake for 20-25 minutes or until the potatoes are tender and lightly browned.",
+    "While the potatoes are baking, heat the bhuna paste in a large skillet over medium heat.",
+    "Once the potatoes are done, remove them from the oven and add them to the skillet with the bhuna paste.",
+    "Toss the potatoes to coat them evenly with the bhuna paste.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "indian",
+    "potatoes",
+    "bhuna"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-bhuna-potatoes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:36:55.961Z"
+}
