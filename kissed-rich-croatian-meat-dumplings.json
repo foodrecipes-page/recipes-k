@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-rich-croatian-meat-dumplings",
+  "title": "Croatian Beef Dumplings",
+  "description": "A hearty beef dumpling recipe from Croatia, perfect for a cold day. The rich flavor of the beef pairs well with the kissed touch of paprika.",
+  "cuisine": "Croatian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Croatian Dumpling Mix",
+      "amount": "250g"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "kissed with smokiness"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground beef, Croatian Dumpling Mix, onion, garlic, paprika, salt, and black pepper. Mix well with your hands until just combined.",
+    "Crack in the egg and mix until the meat mixture is just holding together.",
+    "Knead the meat mixture for 5 minutes until it becomes smooth and pliable.",
+    "Cover the mixture and let it rest for 10 minutes.",
+    "Divide the mixture into 8-10 equal pieces. Roll each piece into a ball and then flatten it slightly into a disk shape.",
+    "Bring a large pot of salted water to a boil. Cook the dumplings for 10-12 minutes, or until they float to the surface.",
+    "Remove the dumplings from the water with a slotted spoon and drain off any excess water.",
+    "Serve the dumplings hot with your favorite sauce or soup."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "croatian",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-rich-croatian-meat-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:39:38.798Z"
+}
