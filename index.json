@@ -17335,5 +17335,18 @@
     "cuisine": "thai",
     "totalTimeMin": 30,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-middle-eastern-chickpeas-falafel--chinese",
+    "title": "Falafel Spring Rolls with Sweet Chili Sauce",
+    "tags": [
+      "chinese",
+      "vegetarian",
+      "snack",
+      "spring-rolls"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
