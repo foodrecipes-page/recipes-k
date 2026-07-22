@@ -2486,18 +2486,15 @@
   },
   {
     "slug": "kid-friendly-spicy-spanish-grana-padano-stew",
-    "title": "Kid-Friendly Spicy Spanish Grana Padano Stew",
+    "title": "Kid-Friendly Spanish Stew",
     "tags": [
-      "casual",
-      "comfort-food",
-      "kid-friendly",
-      "one-pan",
-      "spanish",
+      "beef",
       "stew",
-      "weeknight"
+      "kid-friendly",
+      "spanish"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 60,
     "shard": "k"
   },
   {
@@ -17259,6 +17256,19 @@
     ],
     "cuisine": "Asian",
     "totalTimeMin": 18,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-syrian-lamb-kebabs--french",
+    "title": "French Lamb Kebab aux Herbes",
+    "tags": [
+      "french",
+      "grilled",
+      "lamb",
+      "kebabs"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
