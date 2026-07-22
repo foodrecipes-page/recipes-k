@@ -1,0 +1,59 @@
+{
+  "slug": "kissed-croatian-dried-fruit-wrap--indian",
+  "title": "Croatian Fruit Wrap",
+  "description": "A sweet and easy Indian-inspired dessert wrap made with Croatian fruit and wrapped in a tender fruit-based wrap.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried fruit",
+      "amount": "250g"
+    },
+    {
+      "name": "croatian fruit",
+      "amount": "200g"
+    },
+    {
+      "name": "kissed fruit",
+      "amount": "150g"
+    },
+    {
+      "name": "fruit wrap",
+      "amount": "4 sheets"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Unroll the fruit wrap sheets and set aside.",
+    "Mix together dried fruit, croatian fruit, and kissed fruit in a large bowl.",
+    "Spoon approximately 50g of the fruit mixture onto the center of each fruit wrap sheet.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll the wrap up to form a neat package.",
+    "Place the wraps seam-side down on a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 10-12 minutes, or until the wraps are lightly toasted and fragrant.",
+    "Serve warm, dust with powdered sugar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "dessert",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 55,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-croatian-dried-fruit-wrap--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:28:25.861Z"
+}
