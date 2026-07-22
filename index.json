@@ -17296,5 +17296,31 @@
     "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-croatian-dried-fruit-wrap--indian",
+    "title": "Croatian Fruit Wrap",
+    "tags": [
+      "indian",
+      "dessert",
+      "easy",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--french",
+    "title": "Smoked Salmon French Jjigae",
+    "tags": [
+      "smoked salmon",
+      "french",
+      "jjigae",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
