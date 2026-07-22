@@ -1,0 +1,59 @@
+{
+  "slug": "kissed-crunchy-thai-apricot-skewers--gluten-free",
+  "title": "Thai Apricot Skewers",
+  "description": "Sweet and savory apricots paired with a crunchy kissed sauce, served on gluten-free skewers.",
+  "cuisine": "Asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apricots",
+      "amount": "1 pound",
+      "notes": "Fresh apricots, halved"
+    },
+    {
+      "name": "Kissed Sauce",
+      "amount": "1/4 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Crunchy Thai Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped peanuts"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Gluten-free bamboo skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread apricot halves, kissed sauce, and crunchy thai peanuts onto skewers.",
+    "Brush skewers with a little oil to prevent sticking.",
+    "Grill skewers for 8-10 minutes, turning frequently.",
+    "Serve immediately, garnished with additional crunchy thai peanuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-thai-apricot-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:01:11.784Z"
+}
