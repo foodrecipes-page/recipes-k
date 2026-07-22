@@ -1,0 +1,73 @@
+{
+  "slug": "kissed-garlicky-vietnamese-rice-pudding--keto",
+  "title": "Keto Kissed Pudding Rice Bowl",
+  "description": "A low-carb, keto-friendly dessert bowl featuring garlicky kissed pudding on a bed of rice.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rice (cauliflower)",
+      "amount": "1 cup",
+      "notes": "Substitute with cauliflower rice for a low-carb option"
+    },
+    {
+      "name": "Kissed Pudding",
+      "amount": "1 cup",
+      "notes": "Garlicky kissed pudding made with almond milk and sweetened with stevia"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Mince garlic and mix into kissed pudding for added flavor"
+    },
+    {
+      "name": "Vietnamese Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "Add a warm, sweet flavor with this aromatic spice"
+    },
+    {
+      "name": "Almond Milk",
+      "amount": "1 cup",
+      "notes": "Low-carb milk alternative for the pudding"
+    },
+    {
+      "name": "Stevia",
+      "amount": "2 tsp",
+      "notes": "Natural sweetener used to sweeten the pudding"
+    }
+  ],
+  "instructions": [
+    "Rinse the cauliflower rice in a fine mesh strainer under cold water.",
+    "In a medium saucepan, combine the cauliflower rice, almond milk, and Vietnamese cinnamon. Cook over medium heat, stirring constantly, until the cauliflower is tender and the mixture is heated through.",
+    "In a separate saucepan, whisk together the kissed pudding and garlic. Cook over low heat, stirring constantly, until the pudding is heated through.",
+    "To assemble the bowls, divide the cooked cauliflower rice between two bowls.",
+    "Top each bowl with a scoop of the kissed pudding.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto-friendly",
+    "low-carb",
+    "dessert",
+    "pudding",
+    "rice-bowls",
+    "garlic-lovers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-garlicky-vietnamese-rice-pudding--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T20:59:28.826Z"
+}
