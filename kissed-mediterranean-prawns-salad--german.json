@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-mediterranean-prawns-salad--german",
+  "title": "German Prawn Salad",
+  "description": "A simple salad dish originating from Germany, prepared with succulent prawns, dressed in a tangy Mediterranean kiss.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "prawns",
+      "amount": "1 pound",
+      "notes": "raw"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons olive oil",
+      "notes": "infused with garlic and herbs"
+    },
+    {
+      "name": "mediterranean",
+      "amount": "1/2 cup",
+      "notes": "salad dressing"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups mixed greens",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the prawns under cold water, pat dry with paper towels, and set aside.",
+    "2. In a small bowl, whisk together the kissed olive oil, salt, and pepper.",
+    "3. In a large bowl, combine the mixed greens, sliced prawns, and Mediterranean salad dressing.",
+    "4. Drizzle the kissed olive oil mixture over the salad and toss to coat.",
+    "5. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 2,
+  "totalTimeMin": 12,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "salad",
+    "snack",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mediterranean-prawns-salad--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:12:19.144Z"
+}
