@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-gooey-japanese-pork-shio-ramen--german",
+  "title": "Pork Ramen with Japanese Flair",
+  "description": "A German twist on the popular Japanese noodle dish, featuring pork and a rich broth.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Ramen noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Shio tare (Japanese seasoning)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Kissed sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gooey honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Japanese sake",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large pot, combine pork shoulder, sake, and water.",
+    "2. Bring to a boil, then reduce heat to a simmer.",
+    "3. Cook pork for 1-2 hours, or until tender.",
+    "4. Meanwhile, prepare ramen noodles according to package instructions.",
+    "5. In a separate pan, heat sesame oil over medium heat.",
+    "6. Add honey and cook for 1-2 minutes, or until dissolved.",
+    "7. Add shio tare and stir to combine.",
+    "8. To assemble the dish, place noodles in a bowl, then add sliced pork.",
+    "9. Spoon the sesame oil mixture over the top, then garnish with green onions.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "japanese",
+    "pork",
+    "ramen"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-gooey-japanese-pork-shio-ramen--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:02:27.458Z"
+}
