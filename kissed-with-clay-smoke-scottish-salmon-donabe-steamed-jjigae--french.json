@@ -1,0 +1,85 @@
+{
+  "slug": "kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--french",
+  "title": "Smoked Salmon French Jjigae",
+  "description": "A unique French-inspired jjigae dish featuring smoked salmon, perfect for a dinner party.",
+  "cuisine": "french",
+  "diet": [
+    "fish"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "smoked salmon",
+      "amount": "250g",
+      "notes": "preferably Scottish smoked salmon"
+    },
+    {
+      "name": "scottish",
+      "amount": "2 tbsp",
+      "notes": "Scottish whisky or other whisky of choice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "donabe",
+      "amount": "1",
+      "notes": "traditional Japanese clay pot"
+    },
+    {
+      "name": "with",
+      "amount": "2 tbsp",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "clay",
+      "amount": "1 tsp",
+      "notes": "dried clay or earthenware powder (for earthy flavor)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "In the donabe, heat 1 tablespoon of oil and sauté the onion until translucent.",
+    "Add the garlic and sauté for an additional minute.",
+    "Add the smoked salmon and stir to combine with the onion and garlic.",
+    "Pour in the Scottish whisky, scraping the bottom of the pot to release all the flavorful bits.",
+    "Add the thyme and clay powder, stirring to combine.",
+    "Cover the donabe and transfer it to the preheated oven.",
+    "Bake for 15-20 minutes, or until the salmon is cooked through and the sauce has thickened.",
+    "Remove from the oven and let it rest for a few minutes.",
+    "Serve immediately, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "smoked salmon",
+    "french",
+    "jjigae",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-clay-smoke-scottish-salmon-donabe-steamed-jjigae--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:30:40.424Z"
+}
