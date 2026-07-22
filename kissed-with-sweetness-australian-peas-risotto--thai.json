@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-with-sweetness-australian-peas-risotto--thai",
+  "title": "Thai Pea Risotto",
+  "description": "A creamy and flavorful Thai-inspired risotto dish featuring peas and a touch of sweetness.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "risotto",
+      "amount": "1 cup",
+      "notes": "arborio rice"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional, for added umami"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "for balance of sweetness"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet over medium heat.",
+    "Add onion and cook until translucent, about 3-4 minutes.",
+    "Add garlic and cook for an additional minute, until fragrant.",
+    "Add peas and cook until tender, about 2-3 minutes.",
+    "Add risotto and cook for 1-2 minutes, until lightly toasted.",
+    "Add fish sauce (if using) and stir to combine.",
+    "Add 1 cup of water and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 15-20 minutes, until risotto is creamy and cooked through.",
+    "Stir in sugar and cook for an additional 1-2 minutes, until the risotto is well combined and the sweetness is balanced.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "peas",
+    "risotto",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-sweetness-australian-peas-risotto--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T05:40:34.975Z"
+}
