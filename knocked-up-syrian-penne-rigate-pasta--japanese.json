@@ -1,0 +1,72 @@
+{
+  "slug": "knocked-up-syrian-penne-rigate-pasta--japanese",
+  "title": "Japanese-Style Pasta Stir Fry",
+  "description": "A fusion of Japanese flavors with Italian pasta, featuring a savory stir-fry sauce and crunchy vegetables.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Syrian",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Knocked",
+      "amount": "2 cups mixed bell peppers",
+      "notes": ""
+    },
+    {
+      "name": "up",
+      "amount": "1 cup broccoli florets",
+      "notes": ""
+    },
+    {
+      "name": "pasta",
+      "amount": "2 tsp soy sauce",
+      "notes": ""
+    },
+    {
+      "name": "rigate",
+      "amount": "1 tsp sesame oil",
+      "notes": "for stir-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp black pepper",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium-high heat.",
+    "Add the bell peppers and broccoli to the pan and stir-fry until they are tender.",
+    "In a small bowl, whisk together the soy sauce and black pepper.",
+    "Add the soy sauce mixture to the pan and stir-fry for an additional 1-2 minutes.",
+    "Drain the cooked pasta and add it to the pan, tossing to combine with the vegetables and sauce.",
+    "Serve hot and garnish with green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pasta",
+    "vegetarian",
+    "stir-fry",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knocked-up-syrian-penne-rigate-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T04:00:21.489Z"
+}
