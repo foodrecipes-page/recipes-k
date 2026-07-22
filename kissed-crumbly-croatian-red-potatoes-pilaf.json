@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-crumbly-croatian-red-potatoes-pilaf",
+  "title": "Croatian Red Pilaf with Crumbly Potatoes",
+  "description": "A hearty and flavorful pilaf dish from Croatia, served with crumbly potatoes on top. This recipe is perfect for a comforting lunch or dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian pilaf",
+      "amount": "250g",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "kissed potatoes",
+      "amount": "4 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pan over medium-high heat.",
+    "Add the diced red bell pepper and cook for 3-4 minutes until tender.",
+    "Add the cooked pilaf to the pan and stir to combine with the bell pepper.",
+    "Add the diced potatoes to the pan and stir to combine with the pilaf and bell pepper.",
+    "Season with salt and black pepper to taste.",
+    "Cook for a further 5-7 minutes until the potatoes are golden brown and the pilaf is heated through.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pilaf",
+    "potatoes",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crumbly-croatian-red-potatoes-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:31:05.974Z"
+}
