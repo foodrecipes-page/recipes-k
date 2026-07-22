@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-greek-monkfish-skewers",
+  "title": "Grilled Monkfish Skewers",
+  "description": "A simple and flavorful recipe for grilled monkfish skewers, perfect for a quick dinner.",
+  "cuisine": "Greek",
+  "diet": [
+    "fish",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monkfish",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch pieces"
+    },
+    {
+      "name": "Greek Kissing Pepper",
+      "amount": "1",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Greek Kissing Pepper",
+      "amount": "1",
+      "notes": "Sliced (optional)"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": "Soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread monkfish, pepper, and pepper (if using) onto skewers.",
+    "Season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until monkfish is cooked through.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "monkfish",
+    "skewers",
+    "greek"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-greek-monkfish-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:57:27.153Z"
+}
