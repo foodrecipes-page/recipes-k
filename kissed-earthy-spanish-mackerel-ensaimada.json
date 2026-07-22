@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-earthy-spanish-mackerel-ensaimada",
+  "title": "Pan-Seared Mackerel with Spanish Ensaimada Crust",
+  "description": "A twist on traditional ensaimada, this Spanish pastry is transformed into a crunchy crust for pan-seared mackerel. The combination of flavors and textures is a true delight.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Spanish ensaimada",
+      "amount": "1",
+      "notes": "chopped into crumbs"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped parsley",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the mackerel fillets with salt and pepper.",
+    "Heat olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the mackerel fillets for 2-3 minutes on each side, then transfer the skillet to the preheated oven.",
+    "Bake for 8-10 minutes, or until cooked through.",
+    "While the mackerel is cooking, mix the chopped ensaimada crumbs with a pinch of salt and a squeeze of lemon juice.",
+    "Remove the skillet from the oven and top each mackerel fillet with the ensaimada mixture.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the ensaimada crust is golden brown.",
+    "Remove the skillet from the oven and sprinkle with chopped parsley.",
+    "Serve the pan-seared mackerel immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-earthy-spanish-mackerel-ensaimada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:54:11.803Z"
+}
