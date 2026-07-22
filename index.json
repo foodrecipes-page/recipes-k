@@ -17163,5 +17163,20 @@
     "cuisine": null,
     "totalTimeMin": 50,
     "shard": "k"
+  },
+  {
+    "slug": "kitchen-style-algerian-gobo-burdock-stew--keto",
+    "title": "Keto Algerian Burdock Stew",
+    "tags": [
+      "keto",
+      "low-carb",
+      "algerian",
+      "stew",
+      "beef",
+      "root-vegetables"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 135,
+    "shard": "k"
   }
 ]
