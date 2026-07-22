@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-korean-poppy-seed-flatbread--french",
+  "title": "French-Style Poppy Seed Flatbread",
+  "description": "A simple and delicious French-inspired flatbread infused with the subtle flavor of poppy seeds.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (8-10 pieces)",
+      "notes": null
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "korean",
+      "amount": "1 teaspoon",
+      "notes": "sesame oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "as needed",
+      "notes": null
+    },
+    {
+      "name": "seed",
+      "amount": "1 teaspoon",
+      "notes": "black sesame seeds"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Roll out the flatbread to a thickness of about 1/8 inch.",
+    "Brush the flatbread with a mixture of kissed and korean.",
+    "Sprinkle poppy seeds and seed evenly over the flatbread.",
+    "Cut the flatbread into desired shapes or leave it whole.",
+    "Bake for 12-15 minutes or until crispy and golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "flatbread",
+    "poppy-seeds",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-korean-poppy-seed-flatbread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:07:00.363Z"
+}
