@@ -8134,17 +8134,15 @@
   },
   {
     "slug": "kissed-mediterranean-garlic-bake",
-    "title": "Kissed Mediterranean Garlic Bake",
+    "title": "Mediterranean Garlic Chicken Bake",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "low-glycemic",
+      "chicken",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "garlic",
+      "easy-dinner"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -17177,6 +17175,47 @@
     ],
     "cuisine": "Algerian",
     "totalTimeMin": 135,
+    "shard": "k"
+  },
+  {
+    "slug": "kinetic-vietnamese-cabbage-banh-cuon--chinese",
+    "title": "Kinetic Vietnamese Spring Rolls (Banh Cuon)",
+    "tags": [
+      "chinese",
+      "vietnamese",
+      "spring-rolls",
+      "snack"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-garlicky-vietnamese-rice-pudding--keto",
+    "title": "Keto Kissed Pudding Rice Bowl",
+    "tags": [
+      "keto-friendly",
+      "low-carb",
+      "dessert",
+      "pudding",
+      "rice-bowls",
+      "garlic-lovers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-mediterranean-prawns-salad--german",
+    "title": "German Prawn Salad",
+    "tags": [
+      "german",
+      "salad",
+      "snack",
+      "seafood"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 12,
     "shard": "k"
   }
 ]
