@@ -1,0 +1,98 @@
+{
+  "slug": "kissed-french-chicken-tagine--vegetarian",
+  "title": "Vegetarian Chicken Tagine",
+  "description": "A flavorful tagine dish made with tender chicken and a blend of aromatic spices, adapted for a vegetarian diet.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "French kissed chicken breast",
+      "amount": "1",
+      "notes": "",
+      "replaced": " Portobello mushrooms"
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "",
+      "notes": "",
+      "replaced": "A mix of paprika, cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "French",
+      "amount": "",
+      "notes": "",
+      "replaced": "A mix of chopped onions, garlic, and ginger"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "",
+      "notes": "",
+      "replaced": "For cooking"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can (14.5 oz)",
+      "notes": "",
+      "replaced": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "2 cups",
+      "notes": "",
+      "replaced": ""
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "",
+      "replaced": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "",
+      "notes": "",
+      "replaced": "Optional sweetener"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "",
+      "notes": "",
+      "replaced": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the French mix of chopped onions, garlic, and ginger, and cook until softened.",
+    "Add the mix of paprika, cumin, coriander, and cinnamon (Tagine spice blend) and cook for 1 minute.",
+    "Add the chickpeas, diced tomatoes, and vegetable broth.",
+    "If using honey, stir it in at this point.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Stir in the Portobello mushrooms and continue to simmer for another 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "tagine",
+    "chickpeas",
+    "mushrooms"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-french-chicken-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:13:04.892Z"
+}
