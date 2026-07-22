@@ -17322,5 +17322,18 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-with-sweetness-australian-peas-risotto--thai",
+    "title": "Thai Pea Risotto",
+    "tags": [
+      "thaifood",
+      "peas",
+      "risotto",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
