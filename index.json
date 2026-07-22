@@ -17270,5 +17270,31 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-by-citrus-venezuelan-ikura-ceviche--vegan",
+    "title": "Venezuelan Citrus Kissed Ceviche",
+    "tags": [
+      "vegan",
+      "ceviche",
+      "citrus",
+      "kissed"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "knocked-up-syrian-penne-rigate-pasta--japanese",
+    "title": "Japanese-Style Pasta Stir Fry",
+    "tags": [
+      "pasta",
+      "vegetarian",
+      "stir-fry",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "k"
   }
 ]
