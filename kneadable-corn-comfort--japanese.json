@@ -1,0 +1,59 @@
+{
+  "slug": "kneadable-corn-comfort--japanese",
+  "title": "Japanese Corn Tempura",
+  "description": "A classic Japanese dish with a crispy exterior and a sweet corn interior. This recipe is perfect for a quick snack or side dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Corn",
+      "amount": "1 cup",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Comfort (all-purpose flour)",
+      "amount": "1/2 cup",
+      "notes": "Japanese-style all-purpose flour is preferred, but regular all-purpose flour works as a substitute"
+    },
+    {
+      "name": "Kneadable (rice flour)",
+      "amount": "1/4 cup",
+      "notes": "Japanese rice flour for dusting"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together 1/2 cup comfort (all-purpose flour), 1/4 cup kneadable (rice flour), and a pinch of salt.",
+    "Add 1/2 cup ice-cold soda water to the flour mixture and stir until just combined. Do not overmix.",
+    "Cut 1 cup corn into 1-inch pieces.",
+    "Heat about 2-3 inches of vegetable oil in a deep frying pan over medium-high heat until it reaches 350°F.",
+    "Dust the corn pieces with a little kneadable (rice flour) to help them brown evenly.",
+    "Add the corn pieces to the hot oil in batches, being careful not to overcrowd the pan.",
+    "Fry the corn for 2-3 minutes or until golden brown and crispy.",
+    "Remove the corn from the oil with a slotted spoon and drain on paper towels.",
+    "Serve the tempura hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "snack",
+    "tempura",
+    "corn"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneadable-corn-comfort--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:46:23.515Z"
+}
