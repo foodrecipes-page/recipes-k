@@ -6957,16 +6957,15 @@
   },
   {
     "slug": "kissed-greek-monkfish-skewers",
-    "title": "Kissed Greek Monkfish Skewers",
+    "title": "Grilled Monkfish Skewers",
     "tags": [
-      "glassy-jelly",
-      "glazed",
-      "greek",
-      "seafood",
-      "showcase"
+      "grilled",
+      "monkfish",
+      "skewers",
+      "greek"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 20,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -14222,16 +14221,14 @@
   },
   {
     "slug": "knockout-fresh-russian-beef-biryani",
-    "title": "Knockout Fresh Russian Beef Biryani",
+    "title": "Russian Beef Biryani",
     "tags": [
-      "beef-recipes",
-      "hangover-cures",
-      "one-pot-meals",
-      "russian-cuisine",
-      "spring-recipes"
+      "beef",
+      "russian",
+      "biryani"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
