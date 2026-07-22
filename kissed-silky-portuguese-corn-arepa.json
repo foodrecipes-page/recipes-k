@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-silky-portuguese-corn-arepa",
+  "title": "Grilled Corn Arepa with Portuguese Kissed Salsa",
+  "description": "A delicious and flavorful arepa topped with grilled corn and a spicy kissed salsa, inspired by Portuguese cuisine.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "arepa",
+      "amount": "2",
+      "notes": "preferably freshly made"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": "fresh and on the cob"
+    },
+    {
+      "name": "portuguese kissed",
+      "amount": "2 tbsp",
+      "notes": "ketchup and mayonnaise mix"
+    },
+    {
+      "name": "silky",
+      "amount": "1/4 cup",
+      "notes": "sour cream or yogurt"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Grill corn for 10-12 minutes or until slightly charred.",
+    "Slather arepa with kissed mixture.",
+    "Top arepa with grilled corn, silky sauce, salt, and any additional toppings as desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "snack",
+    "portuguese",
+    "corn",
+    "arepa"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-portuguese-corn-arepa",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:36:03.864Z"
+}
