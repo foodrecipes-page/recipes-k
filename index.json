@@ -9768,16 +9768,16 @@
   },
   {
     "slug": "kissed-silky-portuguese-corn-arepa",
-    "title": "Kissed Silky Portuguese Corn Arepa",
+    "title": "Grilled Corn Arepa with Portuguese Kissed Salsa",
     "tags": [
-      "cheesy-goodness",
-      "corn-arepas",
-      "ovo-vegetarian",
-      "portuguese-cuisine",
-      "steamed-snacks"
+      "grilled",
+      "snack",
+      "portuguese",
+      "corn",
+      "arepa"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 17,
     "shard": "k"
   },
   {
@@ -17149,6 +17149,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-french-chicken-tagine--vegetarian",
+    "title": "Vegetarian Chicken Tagine",
+    "tags": [
+      "vegetarian",
+      "tagine",
+      "chickpeas",
+      "mushrooms"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "k"
   }
 ]
