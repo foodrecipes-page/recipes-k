@@ -5164,16 +5164,16 @@
   },
   {
     "slug": "kissed-crumbly-croatian-red-potatoes-pilaf",
-    "title": "Kissed Crumbly Croatian Red Potatoes Pilaf",
+    "title": "Croatian Red Pilaf with Crumbly Potatoes",
     "tags": [
-      "comfort-food",
-      "croatian-cuisine",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "croatian",
+      "pilaf",
+      "potatoes",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -17216,6 +17216,32 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 12,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-gooey-japanese-pork-shio-ramen--german",
+    "title": "Pork Ramen with Japanese Flair",
+    "tags": [
+      "german",
+      "japanese",
+      "pork",
+      "ramen"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-korean-poppy-seed-flatbread--french",
+    "title": "French-Style Poppy Seed Flatbread",
+    "tags": [
+      "french",
+      "flatbread",
+      "poppy-seeds",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
