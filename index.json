@@ -17475,5 +17475,30 @@
     "cuisine": "indian",
     "totalTimeMin": 38,
     "shard": "k"
+  },
+  {
+    "slug": "kneadable-corn-comfort--german",
+    "title": "German Corn Bread",
+    "tags": [
+      "german",
+      "bread",
+      "corn"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-british-steak-welsh-rarebit--indian",
+    "title": "Welsh Rarebit Steak",
+    "tags": [
+      "grilled-steak",
+      "welshearabit",
+      "indian-cuisine",
+      "beef"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 27,
+    "shard": "k"
   }
 ]
