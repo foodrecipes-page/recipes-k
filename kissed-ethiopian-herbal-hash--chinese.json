@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-ethiopian-herbal-hash--chinese",
+  "title": "Kissed Hash Stir Fry",
+  "description": "Quick and easy stir fry with kissed hash, herbal notes and chinese spices. Serves 2.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kissed hash",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ethiopian spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "herbal oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chinese broccoli",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chinese chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chinese soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chinese rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chinese sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. Heat herbal oil in a wok or large skillet over medium-high heat.",
+    "2. Add kissed hash and cook until golden brown, about 3-4 minutes.",
+    "3. Add chinese broccoli and cook until tender, about 3-4 minutes.",
+    "4. Add chinese chili flakes, chinese soy sauce, chinese rice vinegar and chinese sesame oil. Stir to combine.",
+    "5. Cook for an additional 1-2 minutes.",
+    "6. Serve hot, garnished with chopped scallions.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "chinese-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-ethiopian-herbal-hash--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:39:13.740Z"
+}
