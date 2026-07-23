@@ -11162,17 +11162,14 @@
   },
   {
     "slug": "kissed-syrian-lettuce-flatbread",
-    "title": "Kissed Syrian Lettuce Flatbread",
+    "title": "Syrian Flatbread Wrap",
     "tags": [
-      "festive",
-      "flatbread",
-      "low-calorie",
       "middle-eastern",
-      "syrian-cuisine",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "middle eastern",
+    "totalTimeMin": 7,
     "shard": "k"
   },
   {
@@ -17387,6 +17384,30 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-ethiopian-herbal-hash--chinese",
+    "title": "Kissed Hash Stir Fry",
+    "tags": [
+      "stir-fry",
+      "chinese-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-peppery-brazilian-korean-pear-stew--german",
+    "title": "Braised Pear with Kissed Pork",
+    "tags": [
+      "braised-pork",
+      "german-cuisine",
+      "pear-based-sauce"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 165,
     "shard": "k"
   }
 ]
