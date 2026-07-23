@@ -1,0 +1,76 @@
+{
+  "slug": "knockout-portuguese-yautia-hash--japanese",
+  "title": "Japanese Hash and Yautia Cakes",
+  "description": "A unique fusion of Japanese flavors with Caribbean yautia and crispy hash. A tasty and satisfying snack.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large"
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "portuguese",
+      "amount": "2 tablespoons, grated"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Peel and dice the yautia into small pieces.",
+    "2. In a pan, heat the sesame oil and sauté the yautia until tender.",
+    "3. In a separate pan, heat the hash until crispy.",
+    "4. In a bowl, mix together the sushi rice vinegar, soy sauce, sugar, and salt.",
+    "5. Add the cooked yautia to the bowl and mix well.",
+    "6. Add the crispy hash to the bowl and mix until combined.",
+    "7. Using your hands, shape the mixture into small patties.",
+    "8. Pan-fry the patties until golden brown and crispy.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "caribbean"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-portuguese-yautia-hash--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T15:06:31.918Z"
+}
