@@ -1,0 +1,69 @@
+{
+  "slug": "kissed-crunchy-thai-apricot-skewers--indian",
+  "title": "Grilled Thai-Style Chicken Skewers",
+  "description": "A flavorful and spicy Indian-inspired dish, perfect for summer. Marinated chicken is grilled to perfection on skewers.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "kissed apricot jam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "crunchy peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine apricot jam, peanut butter, and curry paste. Blend until smooth.",
+    "2. Add the marinade to a large bowl and whisk until combined.",
+    "3. Add the chicken to the marinade and mix until coated.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes or up to 2 hours.",
+    "5. Preheat grill to medium-high heat.",
+    "6. Thread the marinated chicken onto the skewers.",
+    "7. Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through.",
+    "8. Let the skewers rest for 5 minutes before serving.",
+    "9. Serve hot and garnish with cilantro or scallions if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "grilled",
+    "skewers",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crunchy-thai-apricot-skewers--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T17:00:25.766Z"
+}
