@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-crispy-british-steak-welsh-rarebit--indian",
+  "title": "Welsh Rarebit Steak",
+  "description": "A twist on the classic Welsh Rarebit dish, this recipe pairs the creamy sauce with grilled steak for a flavorful and satisfying meal.",
+  "cuisine": "indian",
+  "diet": [
+    "meat-lovers",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak",
+      "amount": "1.5 pounds",
+      "notes": "ribeye or strip loin work well"
+    },
+    {
+      "name": "Welsh Rarebit sauce",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Crispy onions",
+      "amount": "1/2 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Kissed butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted, softened"
+    },
+    {
+      "name": "British all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening sauce"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season steak with salt and pepper.",
+    "Grill steak for 5-7 minutes per side, or until cooked to desired level of doneness.",
+    "Let steak rest for 5 minutes before slicing.",
+    "Heat kissed butter in a saucepan over medium heat.",
+    "Add British all-purpose flour and whisk to combine.",
+    "Slowly pour in Welsh Rarebit sauce, whisking constantly to avoid lumps.",
+    "Bring sauce to a simmer and cook for 2-3 minutes, or until thickened.",
+    "Slice grilled steak against the grain.",
+    "Serve steak with Welsh Rarebit sauce spooned over the top.",
+    "Garnish with crispy onions and chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-steak",
+    "welshearabit",
+    "indian-cuisine",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-british-steak-welsh-rarebit--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:07:49.034Z"
+}
