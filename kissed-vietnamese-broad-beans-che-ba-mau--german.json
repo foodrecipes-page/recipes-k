@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-vietnamese-broad-beans-che-ba-mau--german",
+  "title": "German-Style Broad Bean Casserole",
+  "description": "A hearty, comforting casserole made with broad beans, kissed potatoes, and a hint of Vietnamese spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kissed",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "2 tsp",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "broad",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "che",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "ba",
+      "amount": "1/2 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "mau",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, heat mau over medium heat. Add kissed and cook until tender, about 10 minutes.",
+    "Add broad, che, and ba to the pan. Cook for an additional 2-3 minutes.",
+    "Stir in vietnamese spices and cook for 1 minute.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Season with salt and pepper to taste.",
+    "Cover with foil and bake for 20 minutes.",
+    "Remove foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "broad-beans"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-vietnamese-broad-beans-che-ba-mau--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:51:32.125Z"
+}
