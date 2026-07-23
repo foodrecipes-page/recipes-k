@@ -1,73 +1,83 @@
 {
   "slug": "knocked-up-argentinian-shrimp-pasta",
-  "title": "Argentinian Shrimp Pasta",
-  "description": "A classic Argentinian-inspired dish featuring succulent shrimp and pasta in a flavorful sauce.",
-  "cuisine": "argentinian",
+  "title": "Shrimp Pasta",
+  "description": "A simple and flavorful pasta dish featuring succulent shrimp and the bold flavors of Argentina. This recipe is quick and easy to make, perfect for a weeknight dinner.",
+  "cuisine": "Italian-Argentinian",
   "diet": [
     "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "shrimp",
-      "amount": "1 pound",
-      "notes": "fresh or frozen"
-    },
-    {
       "name": "pasta",
-      "amount": "8 oz (225g)",
-      "notes": "linguine or fettuccine"
+      "amount": "8 oz",
+      "notes": ""
     },
     {
-      "name": "olive oil",
-      "amount": "2 tablespoons",
-      "notes": "for cooking"
+      "name": "shrimp",
+      "amount": "12 large",
+      "notes": ""
+    },
+    {
+      "name": "argentinian red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
     },
     {
       "name": "garlic",
       "amount": "3 cloves",
-      "notes": "minced"
+      "notes": ""
     },
     {
-      "name": "chili flakes",
-      "amount": "1 teaspoon",
-      "notes": "optional"
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
     },
     {
-      "name": "lemon juice",
-      "amount": "2 tablespoons",
-      "notes": "freshly squeezed"
+      "name": "salt",
+      "amount": ", to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": ", to taste",
+      "notes": ""
     },
     {
       "name": "chopped parsley",
-      "amount": "2 tablespoons",
-      "notes": "chopped"
+      "amount": "1/4 cup",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Cook the pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to the package instructions until al dente.",
     "In a large skillet, heat the olive oil over medium-high heat.",
-    "Add the garlic and cook for 1-2 minutes until fragrant.",
-    "Add the shrimp and cook for 2-3 minutes per side until pink and cooked through.",
-    "Add the chili flakes (if using) and cook for an additional minute.",
-    "Stir in the lemon juice and reserved pasta water.",
-    "Add the cooked pasta to the skillet and toss to combine.",
-    "Season with salt and pepper to taste.",
-    "Serve immediately, garnished with chopped parsley."
+    "Add the garlic and red pepper flakes and cook for 1 minute.",
+    "Add the shrimp and cook until pink and cooked through, about 2-3 minutes per side.",
+    "Season the shrimp with salt and black pepper to taste.",
+    "Add the cooked pasta to the skillet with the shrimp and toss to combine.",
+    "Serve the pasta hot, garnished with chopped parsley."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 12,
-  "totalTimeMin": 22,
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
-    "argentinian",
-    "seafood",
+    "shrimp",
     "pasta",
-    "quick-cooking"
+    "italian",
+    "argentinian"
   ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/knocked-up-argentinian-shrimp-pasta",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T03:44:41.665Z"
+  "createdAt": "2026-07-19T07:52:41.575Z"
 }
