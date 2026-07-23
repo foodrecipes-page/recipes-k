@@ -17518,5 +17518,30 @@
     "cuisine": "Japanese",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-galician-turkey-ham-crema-catalana--japanese",
+    "title": "Turkey Crema Catalana",
+    "tags": [
+      "turkey",
+      "dessert",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-up-venezuelan-lentil-bowl--japanese",
+    "title": "Spicy Lentil Bowl",
+    "tags": [
+      "spicy",
+      "lentils",
+      "bowls",
+      "japanese"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
