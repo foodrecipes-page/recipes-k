@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-molten-korean-shrimp-bake--italian",
+  "title": "Italian-Style Shrimp Bake",
+  "description": "A light and flavorful Italian-inspired shrimp bake with a crispy top.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound, peeled and deveined"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Molten mozzarella cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Bake",
+      "amount": "375°F"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Rinse the shrimp and pat them dry with paper towels.",
+    "In a bowl, mix together the chili flakes, garlic, and olive oil.",
+    "Add the shrimp to the bowl and toss to coat with the chili flake mixture.",
+    "Transfer the shrimp to a baking dish and top with breadcrumbs and mozzarella cheese.",
+    "Bake for 12-15 minutes, or until the top is golden brown and the shrimp are cooked through.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "shrimp",
+    "seafood",
+    "bake",
+    "oven"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 36,
+    "carbs": 6,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-korean-shrimp-bake--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:28:18.882Z"
+}
