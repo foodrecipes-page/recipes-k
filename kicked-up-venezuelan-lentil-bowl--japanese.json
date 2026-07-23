@@ -1,0 +1,67 @@
+{
+  "slug": "kicked-up-venezuelan-lentil-bowl--japanese",
+  "title": "Spicy Lentil Bowl",
+  "description": "A twist on traditional Japanese cuisine, this spicy lentil bowl combines the warmth of Korean chili flakes with the comfort of a hearty bowl.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "red or green"
+    },
+    {
+      "name": "kicked",
+      "amount": "2 tsp",
+      "notes": "Korean chili flakes"
+    },
+    {
+      "name": "up",
+      "amount": "1 tsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1",
+      "notes": "plantain chips, crushed"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "stainless steel or ceramic"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and cook according to package instructions.",
+    "In a small pan, toast the Korean chili flakes over medium heat, stirring constantly, until fragrant.",
+    "In a large bowl, whisk together soy sauce and a splash of water to create a dressing.",
+    "Add the cooked lentils to the bowl and toss with the dressing.",
+    "Top with crushed plantain chips and toasted Korean chili flakes.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spicy",
+    "lentils",
+    "bowls",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-up-venezuelan-lentil-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:18:34.006Z"
+}
