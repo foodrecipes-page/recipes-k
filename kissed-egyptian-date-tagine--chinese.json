@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-egyptian-date-tagine--chinese",
+  "title": "Egyptian Date Tagine Chicken",
+  "description": "A Chinese-inspired dish using traditional Egyptian ingredients, featuring the sweet flavors of dates and the tender taste of chicken. This recipe is a unique fusion of flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "pitted dates",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Egyptian tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "kissed rice",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large pan over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5 minutes.",
+    "Remove the chicken from the pan and set aside.",
+    "In the same pan, add the remaining 1 tablespoon of oil.",
+    "Add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "Add the tagine spice blend and cook for 1 minute.",
+    "Add the dates and cook for 2 minutes, until caramelized.",
+    "Return the chicken to the pan and pour in the soy sauce and honey.",
+    "Simmer the mixture for 10-15 minutes, until the chicken is cooked through.",
+    "Serve the chicken over kissed rice and garnish with additional dates if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "dates",
+    "eastern"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-egyptian-date-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:31:50.121Z"
+}
