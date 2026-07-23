@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-with-chilli-sauce-dutch-mixture-wrap",
+  "title": "Chicken Chilli Wrap",
+  "description": "A delicious wrap filled with spicy chicken, chilli sauce, and a hint of dutch mixture. This recipe is perfect for a quick lunch or dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "chilli sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dutch mixture",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "kissed wraps",
+      "amount": "4",
+      "notes": "flour tortillas or flatbread"
+    },
+    {
+      "name": "with",
+      "amount": "1 cup",
+      "notes": "shredded lettuce or cabbage"
+    },
+    {
+      "name": "sauce",
+      "amount": "1/4 cup",
+      "notes": "ranch or tzatziki"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt, pepper, and dutch mixture.",
+    "Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for a few minutes before slicing.",
+    "Warm the wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by spreading chilli sauce on each wrap, then topping with sliced chicken, with, and sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "wrap",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-chilli-sauce-dutch-mixture-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:47:38.655Z"
+}
