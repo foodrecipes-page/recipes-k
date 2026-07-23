@@ -17424,5 +17424,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-tender-croatian-peas-stew--keto",
+    "title": "Croatian Stew with Tender Meats",
+    "tags": [
+      "keto",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 110,
+    "shard": "k"
   }
 ]
