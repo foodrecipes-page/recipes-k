@@ -1,0 +1,56 @@
+{
+  "slug": "kissed-syrian-lettuce-flatbread",
+  "title": "Syrian Flatbread Wrap",
+  "description": "A flavorful and crunchy wrap filled with kissed syrian flatbread, fresh lettuce, and a pinch of magic.",
+  "cuisine": "middle eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Syrian Flatbread",
+      "amount": "1 piece",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Kissed (herb spread or tahini)",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Slice the Syrian Flatbread in half.",
+    "Spread 1 tbsp of kissed over the flatbread.",
+    "Add 1/2 cup of lettuce on top.",
+    "Fold the flatbread in half to create a wrap.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-syrian-lettuce-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:56:54.854Z"
+}
