@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-peppery-brazilian-korean-pear-stew--german",
+  "title": "Braised Pear with Kissed Pork",
+  "description": "A traditional German dish featuring slow-cooked pork in a sweet and savory pear-based sauce.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kissed Pork Shoulder",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Pear",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Stew",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Peppery Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the pork shoulder with cumin and pepper.",
+    "Heat the stew in a large Dutch oven over medium heat.",
+    "Sear the pork shoulder until browned on all sides.",
+    "Add the chopped onion and cook until softened.",
+    "Add the chopped pear and cook for 2-3 minutes.",
+    "Cover the Dutch oven with a lid and transfer to the preheated oven.",
+    "Braise the pork for 2.5 hours or until tender.",
+    "Serve the pork with the pear-based sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-pork",
+    "german-cuisine",
+    "pear-based-sauce"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peppery-brazilian-korean-pear-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T09:07:59.905Z"
+}
