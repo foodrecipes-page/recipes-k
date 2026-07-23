@@ -4217,16 +4217,15 @@
   },
   {
     "slug": "kissed-charred-greek-tomato-avgolemono",
-    "title": "Kissed Charred Greek Tomato Avgolemono",
+    "title": "Kissed Charred Greek Chicken with Avgolemono Sauce",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "lacto-vegetarian",
-      "mediterranean-diet",
-      "one-pot"
+      "greek",
+      "chicken",
+      "avgolemono",
+      "grilled"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -17435,6 +17434,18 @@
     ],
     "cuisine": "European",
     "totalTimeMin": 110,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-portuguese-yautia-hash--japanese",
+    "title": "Japanese Hash and Yautia Cakes",
+    "tags": [
+      "japanese",
+      "snack",
+      "caribbean"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
