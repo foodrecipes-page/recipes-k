@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-spicy-french-duck-rillettes--vegetarian",
+  "title": "French Vegetarian Rillettes Tartine",
+  "description": "A delicious and easy-to-make French-inspired vegetarian spread, made with duck rillettes substitute and topped with fresh kissed and spicy notes.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "French bread",
+      "amount": "1 baguette, sliced",
+      "notes": null
+    },
+    {
+      "name": "Spicy hummus",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Kissed pickled carrots",
+      "amount": "1/4 cup, thinly sliced",
+      "notes": null
+    },
+    {
+      "name": "French goat cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": "for toasting bread"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Duck rillettes substitute (vegetarian)",
+      "amount": "1/4 cup",
+      "notes": "such as eggplant rillettes"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toast the sliced baguette until lightly browned.",
+    "Spread a layer of duck rillettes substitute on each toasted baguette slice.",
+    "Top with a layer of spicy hummus, followed by a layer of French goat cheese.",
+    "Garnish with kissed pickled carrots and a sprinkle of chopped parsley.",
+    "Drizzle with olive oil and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "vegetarian",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-french-duck-rillettes--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T08:05:51.793Z"
+}
