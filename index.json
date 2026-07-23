@@ -14114,15 +14114,15 @@
   },
   {
     "slug": "knocked-up-argentinian-shrimp-pasta",
-    "title": "Argentinian Shrimp Pasta",
+    "title": "Shrimp Pasta",
     "tags": [
-      "argentinian",
-      "seafood",
+      "shrimp",
       "pasta",
-      "quick-cooking"
+      "italian",
+      "argentinian"
     ],
-    "cuisine": "argentinian",
-    "totalTimeMin": 22,
+    "cuisine": "Italian-Argentinian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -17347,6 +17347,46 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-molten-korean-shrimp-bake--italian",
+    "title": "Italian-Style Shrimp Bake",
+    "tags": [
+      "italian",
+      "shrimp",
+      "seafood",
+      "bake",
+      "oven"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-molten-canadian-duck-casserole--gluten-free",
+    "title": "Molten Canadian Duck Casserole",
+    "tags": [
+      "duck",
+      "canadian",
+      "casserole",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-french-duck-rillettes--vegetarian",
+    "title": "French Vegetarian Rillettes Tartine",
+    "tags": [
+      "french",
+      "vegetarian",
+      "snack",
+      "easy"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 15,
     "shard": "k"
   }
 ]
