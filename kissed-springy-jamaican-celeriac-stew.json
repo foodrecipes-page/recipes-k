@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-springy-jamaican-celeriac-stew",
+  "title": "Jamaican Stew with Celeriac and Springy Kissed Potatoes",
+  "description": "A hearty Jamaican stew made with tender celeriac and springy kissed potatoes, perfect for a cold evening.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "celeriac",
+      "amount": "1 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "springy kissed potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add celeriac and cook for 5 minutes.",
+    "Add potatoes, stew, allspice, thyme, and Jamaican seasoning.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "stew",
+    "celeriac",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-springy-jamaican-celeriac-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:10:03.448Z"
+}
