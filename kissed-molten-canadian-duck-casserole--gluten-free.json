@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-molten-canadian-duck-casserole--gluten-free",
+  "title": "Molten Canadian Duck Casserole",
+  "description": "A rich and savory casserole featuring tender duck, smothered in a molten Canadian cheese sauce. Gluten-free.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck breast",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Molten cheese blend",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Canadian bacon",
+      "amount": "6 slices",
+      "notes": "thawed"
+    },
+    {
+      "name": "Gluten-free pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Casserole dish",
+      "amount": "",
+      "notes": "9x13 inch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook gluten-free pasta according to package instructions.",
+    "Season duck breast with salt and pepper.",
+    "Sear duck breast in a skillet until browned, then set aside.",
+    "In the same skillet, cook Canadian bacon until crispy.",
+    "In a separate saucepan, melt molten cheese blend over low heat.",
+    "Combine cooked pasta, duck breast, and Canadian bacon in a 9x13 inch casserole dish.",
+    "Pour molten cheese sauce over the top.",
+    "Bake in the preheated oven for 20-25 minutes, or until cheese is bubbly and duck is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "duck",
+    "canadian",
+    "casserole",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-molten-canadian-duck-casserole--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T07:35:57.602Z"
+}
