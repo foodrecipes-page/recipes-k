@@ -10915,14 +10915,12 @@
   },
   {
     "slug": "kissed-springy-jamaican-celeriac-stew",
-    "title": "Kissed Springy Jamaican Celeriac Stew",
+    "title": "Jamaican Stew with Celeriac and Springy Kissed Potatoes",
     "tags": [
-      "celeriac",
-      "gluten-free",
-      "indulgent",
-      "jamaican-cuisine",
+      "jamaican",
       "stew",
-      "winey"
+      "celeriac",
+      "potatoes"
     ],
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
@@ -13049,19 +13047,14 @@
   },
   {
     "slug": "kissed-with-thai-bird-chili-dutch-sick-day-bake",
-    "title": "Kissed with Thai-bird-chili Dutch sick-day Bake",
+    "title": "Thai Bird Bake",
     "tags": [
-      "diabetic-friendly",
-      "easy-to-make",
-      "low-carb",
-      "one-pan",
-      "sick-day",
-      "spicy",
-      "tangy",
-      "weeknight"
+      "baked",
+      "thaifood",
+      "dutchfood"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "cuisine": "Dutch-Thai",
+    "totalTimeMin": 45,
     "shard": "k"
   },
   {
