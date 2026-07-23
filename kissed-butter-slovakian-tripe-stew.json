@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-butter-slovakian-tripe-stew",
+  "title": "Slovakian Braised Tripe with Kissed Butter",
+  "description": "A hearty and flavorful Slovakian-inspired dish featuring tender tripe slow-cooked in a rich broth with kissed butter and served with a side of stew.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into 2-inch pieces"
+    },
+    {
+      "name": "Slovakian Stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Kissed Butter",
+      "amount": "4 tablespoons",
+      "notes": "see notes"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of butter in a large Dutch oven over medium-high heat.",
+    "Add the tripe and cook until browned on all sides, about 5 minutes.",
+    "Remove the tripe from the pot and set aside.",
+    "Add the remaining 2 tablespoons of kissed butter to the pot and stir to combine with the browned bits.",
+    "Add the Slovakian stew to the pot and bring to a boil.",
+    "Return the tripe to the pot and cover with a lid.",
+    "Transfer the pot to the oven and braise for 2 hours, or until the tripe is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve the tripe and sauce hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "braised",
+    "tripe",
+    "heartwarming"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-butter-slovakian-tripe-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T12:35:48.252Z"
+}
