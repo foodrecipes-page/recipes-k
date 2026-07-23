@@ -1,0 +1,89 @@
+{
+  "slug": "keto-russian-myeolchi-anchovies-skewers",
+  "title": "Keto Russian-Style Anchovy Skewers",
+  "description": "A keto-friendly twist on traditional Russian-style anchovy skewers, featuring a delicious combination of flavors and textures.",
+  "cuisine": "Russian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Anchovies",
+      "amount": "12 oz",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Meyolchi (Korean anchovies)",
+      "amount": "6 oz",
+      "notes": "optional"
+    },
+    {
+      "name": "Russian dill",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon",
+      "amount": "2",
+      "notes": "juiced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, garlic, olive oil, salt, and black pepper.",
+    "Add the anchovies and Meyolchi (if using) to the bowl and toss to coat.",
+    "Thread the anchovy mixture onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 2-3 minutes per side, or until the anchovies are lightly charred.",
+    "Serve immediately and enjoy!",
+    "Note: If using Meyolchi, be sure to rinse it well before using to remove any excess salt.",
+    "Also, be careful when handling the anchovies, as they can be quite strong-smelling."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "russian-cuisine",
+    "anchovy",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 17
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-russian-myeolchi-anchovies-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:48:32.305Z"
+}
