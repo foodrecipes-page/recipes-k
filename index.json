@@ -17500,5 +17500,30 @@
     "cuisine": "indian",
     "totalTimeMin": 27,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-vietnamese-broad-beans-che-ba-mau--german",
+    "title": "German-Style Broad Bean Casserole",
+    "tags": [
+      "german",
+      "casserole",
+      "broad-beans"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-love-andhra-maple-syrup-bake--japanese",
+    "title": "Japanese Maple Syrup Cake",
+    "tags": [
+      "japanese-cuisine",
+      "dessert-recipe",
+      "maple-syrup",
+      "cake-recipe"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
