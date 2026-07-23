@@ -1,0 +1,61 @@
+{
+  "slug": "kissed-galician-turkey-ham-crema-catalana--japanese",
+  "title": "Turkey Crema Catalana",
+  "description": "A twist on the classic catalan dessert, incorporating japanese flavors and turkey.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "turkey",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "catalana",
+      "amount": "1 cup, milk"
+    },
+    {
+      "name": "crema",
+      "amount": "1/2 cup, heavy cream"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp, vanilla extract"
+    },
+    {
+      "name": "galician",
+      "amount": "1/2 tsp, cinnamon powder"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a bowl, whisk together catalana milk, crema, and kissed vanilla extract.",
+    "Add galician cinnamon powder and mix well.",
+    "In a separate bowl, combine turkey diced and catalana mixture.",
+    "Pour the mixture into ramekins and bake for 25 minutes.",
+    "Let cool for 5 minutes, then refrigerate for at least 2 hours.",
+    "Serve chilled."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "dessert",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-galician-turkey-ham-crema-catalana--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:12:51.009Z"
+}
