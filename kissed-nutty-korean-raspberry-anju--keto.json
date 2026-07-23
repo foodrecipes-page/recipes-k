@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-nutty-korean-raspberry-anju--keto",
+  "title": "Korean-Style Raspberry Keto Panna Cotta",
+  "description": "A creamy and sweet dessert combining the flavors of Korea and raspberries, adapted to a keto diet.",
+  "cuisine": "korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "ensure full-fat"
+    },
+    {
+      "name": "kissed honey",
+      "amount": "2 tbsp",
+      "notes": "use keto-friendly honey"
+    },
+    {
+      "name": "nutty almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "anju sugar-free sweetener",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1/8 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together honey, almond butter, and raspberry jam until smooth.",
+    "In a separate bowl, whisk together eggs, vanilla extract, and chili flakes (if using).",
+    "In a medium saucepan, combine the heavy cream and anju sugar-free sweetener. Heat over medium heat, stirring occasionally.",
+    "Once the cream starts to simmer, remove from heat and slowly pour into the egg mixture, whisking constantly.",
+    "Return the mixture to the saucepan and cook over low heat, stirring constantly, until the mixture thickens.",
+    "Remove from heat and stir in the honey-almond butter-raspberry mixture.",
+    "Pour the mixture into individual serving cups or a large serving dish.",
+    "Refrigerate for at least 4 hours or overnight until set.",
+    "Serve chilled, garnished with additional raspberries if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "korean",
+    "raspberry",
+    "panna-cotta"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-nutty-korean-raspberry-anju--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T16:13:25.922Z"
+}
