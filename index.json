@@ -804,18 +804,15 @@
   },
   {
     "slug": "keto-russian-myeolchi-anchovies-skewers",
-    "title": "Keto Russian Myeolchi Anchovies Skewers",
+    "title": "Keto Russian-Style Anchovy Skewers",
     "tags": [
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "post-workout",
+      "keto",
       "russian-cuisine",
-      "salt-block",
-      "sous-vide"
+      "anchovy",
+      "skewers"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -6737,17 +6734,16 @@
   },
   {
     "slug": "kissed-gooey-chinese-pea-eggplant-stew",
-    "title": "Kissed Gooey Chinese Pea Eggplant Stew",
+    "title": "Stewed Eggplant with Peas",
     "tags": [
-      "chinese-cuisine",
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "one-pan",
-      "weeknight"
+      "eggplant",
+      "peas",
+      "stew",
+      "chinese",
+      "vegetarian"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -12123,18 +12119,15 @@
   },
   {
     "slug": "kissed-with-chilli-sauce-dutch-mixture-wrap",
-    "title": "Kissed with chilli sauce Dutch mixture Wrap",
+    "title": "Chicken Chilli Wrap",
     "tags": [
-      "anti-inflammatory",
-      "dutch",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "snack",
-      "weeknight"
+      "chicken",
+      "wrap",
+      "easy",
+      "lunch"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 15,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -17417,6 +17410,18 @@
       "eastern"
     ],
     "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-portuguese-yautia-hash--mexican",
+    "title": "Knockout Hash and Yautia Fritters",
+    "tags": [
+      "mexican",
+      "snack",
+      "fritters"
+    ],
+    "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "k"
   }
