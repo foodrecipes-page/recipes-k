@@ -1,0 +1,93 @@
+{
+  "slug": "knockout-portuguese-yautia-hash--mexican",
+  "title": "Knockout Hash and Yautia Fritters",
+  "description": "A unique Mexican twist on traditional fritters, featuring yautia and knockout. Serve hot with your favorite salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yautia",
+      "amount": "2 large",
+      "notes": "Peel and dice into 1-inch pieces"
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "portuguese",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "knockout",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large skillet over medium heat.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute.",
+    "In a large bowl, combine cooked onion and garlic, diced yautia, hash, egg, cornstarch, chopped portuguese, chopped knockout, salt, and black pepper. Mix well.",
+    "Using a 1/4 cup measuring cup, scoop yautia mixture into the hot oil.",
+    "Press each scoop of yautia mixture into a flat shape, about 1/2-inch thick.",
+    "Cook yautia fritters for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Using a slotted spoon, remove yautia fritters from oil and place on a paper towel-lined plate to drain excess oil.",
+    "Serve warm with your favorite salsa."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-portuguese-yautia-hash--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T13:19:35.718Z"
+}
