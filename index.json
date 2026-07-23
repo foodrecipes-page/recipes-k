@@ -17447,5 +17447,33 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-nutty-korean-raspberry-anju--keto",
+    "title": "Korean-Style Raspberry Keto Panna Cotta",
+    "tags": [
+      "keto",
+      "dessert",
+      "korean",
+      "raspberry",
+      "panna-cotta"
+    ],
+    "cuisine": "korean",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crunchy-thai-apricot-skewers--indian",
+    "title": "Grilled Thai-Style Chicken Skewers",
+    "tags": [
+      "indian",
+      "chicken",
+      "grilled",
+      "skewers",
+      "thai"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 38,
+    "shard": "k"
   }
 ]
