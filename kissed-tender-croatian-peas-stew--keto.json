@@ -1,0 +1,77 @@
+{
+  "slug": "kissed-tender-croatian-peas-stew--keto",
+  "title": "Croatian Stew with Tender Meats",
+  "description": "A hearty and flavorful keto stew made with tender meats and a variety of vegetables. The croatian stew is a traditional dish that has been adapted to fit a keto diet.",
+  "cuisine": "European",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tender croatian beef",
+      "amount": "1.5 lbs",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "make sure it's sugar-free"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "make sure it's low-carb"
+    },
+    {
+      "name": "kissed with paprika",
+      "amount": "1 tsp",
+      "notes": "add for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion and cook until it's translucent, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the tender croatian beef and cook until it's browned on all sides, about 5-7 minutes.",
+    "Add the peas, tomato paste, beef broth, and paprika. Stir well to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 1.5 hours, or until the meat is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 10,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tender-croatian-peas-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:27:29.494Z"
+}
