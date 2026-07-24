@@ -1,0 +1,54 @@
+{
+  "slug": "kabanos-delight-sausage-wrap--thai",
+  "title": "Thai Sausage Wrap",
+  "description": "A flavorful and spicy Thai-inspired dish, wrapping a sausage, delight, and kabanos in a crispy wrap.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabanos",
+      "amount": "4-6 slices"
+    },
+    {
+      "name": "delight",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "sausage",
+      "amount": "1/2 pound, sliced"
+    },
+    {
+      "name": "wrap",
+      "amount": "1 large or 2 small"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the sausage slices for 2-3 minutes per side, or until browned and cooked through.",
+    "Meanwhile, grill the kabanos slices for 1-2 minutes per side, or until slightly charred.",
+    "Warm the wrap in the grill or grill pan for 30 seconds to 1 minute.",
+    "Assemble the wrap by placing the cooked sausage, kabanos, and delight in the center.",
+    "Add any desired toppings, such as sliced onions, cilantro, or sriracha.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "sausage",
+    "wrap",
+    "grilled"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kabanos-delight-sausage-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:53:57.927Z"
+}
