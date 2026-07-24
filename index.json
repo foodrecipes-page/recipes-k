@@ -17570,5 +17570,44 @@
     "cuisine": "indian",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-slovakian-chicken-braised--vegetarian",
+    "title": "Slovakian Braised Greens",
+    "tags": [
+      "slovakian",
+      "vegetarian",
+      "braised",
+      "greens"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-yeasty-croatian-lamb-stew--french",
+    "title": "French Lamb Stew",
+    "tags": [
+      "french",
+      "lamb",
+      "stew",
+      "hearty",
+      "comforting"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 200,
+    "shard": "k"
+  },
+  {
+    "slug": "krispy-norwegian-lamb-roast--thai",
+    "title": "Thai-Style Roast Lamb",
+    "tags": [
+      "thaifood",
+      "roastlamb",
+      "thaicuisine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 75,
+    "shard": "k"
   }
 ]
