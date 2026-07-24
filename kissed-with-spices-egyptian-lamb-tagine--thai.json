@@ -1,0 +1,99 @@
+{
+  "slug": "kissed-with-spices-egyptian-lamb-tagine--thai",
+  "title": "Thai Lamb Tagine",
+  "description": "A rich and flavorful Thai-inspired lamb dish cooked in a tagine with aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "large, traditional clay pot with a conical lid"
+    },
+    {
+      "name": "spices",
+      "amount": "1 tsp ground cumin",
+      "notes": "and 1 tsp ground coriander"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp ground cinnamon",
+      "notes": "and 1 tsp ground ginger"
+    },
+    {
+      "name": "with",
+      "amount": "1 onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "250ml",
+      "notes": "for braising"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "Season the lamb pieces with salt, black pepper, cumin, and coriander.",
+    "Heat 1 tablespoon of olive oil in the tagine over medium-high heat.",
+    "Sear the lamb pieces until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the tagine and set aside.",
+    "Reduce heat to medium and add the remaining 1 tablespoon of olive oil.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chicken broth, honey, cinnamon, and ginger to the tagine.",
+    "Return the lamb to the tagine and bring to a simmer.",
+    "Cover the tagine with its conical lid and transfer to the preheated oven.",
+    "Braise the lamb for 2 1/2 hours, or until tender and falling apart.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "thaicuisine",
+    "spices",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-spices-egyptian-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:14:00.843Z"
+}
