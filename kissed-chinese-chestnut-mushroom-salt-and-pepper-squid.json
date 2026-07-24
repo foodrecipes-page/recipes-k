@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-chinese-chestnut-mushroom-salt-and-pepper-squid",
+  "title": "Pan-Seared Squid with Mushroom and Chestnut",
+  "description": "A delicious and savory dish featuring pan-seared squid, sautéed mushrooms and chestnuts, and a hint of salt and pepper.",
+  "cuisine": "seafood",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "400g",
+      "notes": "Fresh and cleaned"
+    },
+    {
+      "name": "Mushroom",
+      "amount": "200g",
+      "notes": "Button or cremini"
+    },
+    {
+      "name": "Chestnut",
+      "amount": "150g",
+      "notes": "Raw and peeled"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tbsp",
+      "notes": "Olive oil with garlic and herbs"
+    }
+  ],
+  "instructions": [
+    "Rinse the squid and cut it into bite-sized pieces.",
+    "Heat the kissed oil in a pan over medium heat.",
+    "Add the mushrooms and chestnuts to the pan and cook until they start to brown.",
+    "Add the squid to the pan and cook for 2-3 minutes on each side.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "seafood",
+    "mushroom",
+    "chestnut",
+    "squid"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-chinese-chestnut-mushroom-salt-and-pepper-squid",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:55:21.442Z"
+}
