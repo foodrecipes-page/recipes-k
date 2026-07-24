@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-light-dutch-rainbow-trout-tagine--vegetarian",
+  "title": "Rainbow Tagine Stew",
+  "description": "A vibrant and flavorful vegetarian tagine stew made with a variety of colorful vegetables and spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rainbow bell peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Dutch potatoes",
+      "amount": "3"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tagine spice mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Kissed lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat the light olive oil in a large Dutch oven over medium heat.",
+    "Add the rainbow bell peppers and cook until tender, about 5 minutes.",
+    "Add the Dutch potatoes, tagine spice mix, salt, and black pepper. Stir to combine.",
+    "Cook for an additional 5 minutes, stirring occasionally.",
+    "Add the kissed lemon juice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20 minutes, or until the potatoes are tender.",
+    "Stir in the fresh parsley and serve hot.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "stew",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-light-dutch-rainbow-trout-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:39:12.604Z"
+}
