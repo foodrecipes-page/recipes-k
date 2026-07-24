@@ -1,0 +1,87 @@
+{
+  "slug": "kicked-light-german-chickpea-stew",
+  "title": "Hearty German Stew",
+  "description": "A comforting and flavorful stew filled with tender beef and vegetables. Perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1.5 lbs",
+      "notes": "chuck or round work well"
+    },
+    {
+      "name": "carrots",
+      "amount": "3 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "kicked beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "light beer",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chickpea",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "1 tsp",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high.",
+    "Brown the beef in batches until browned, then set aside.",
+    "Soften the onion and garlic in the pot, then add carrots and potatoes.",
+    "Cook until the vegetables are slightly tender.",
+    "Add the browned beef back to the pot, along with the broth and beer.",
+    "Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "Add the chickpeas and thyme, and cook for an additional 15 minutes.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 75,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-light-german-chickpea-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T11:44:30.952Z"
+}
