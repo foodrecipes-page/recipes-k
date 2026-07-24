@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-charred-tunisian-cauliflower-grill--chinese",
+  "title": "Kissed Cauliflower in Grilled Tunisian Sauce",
+  "description": "A flavorful and vibrant Chinese-inspired dish made by grilling cauliflower and serving it in a charred Tunisian sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "or smoked paprika"
+    },
+    {
+      "name": "charred",
+      "amount": "1 tsp",
+      "notes": "or smoked salt"
+    },
+    {
+      "name": "tunisian spices",
+      "amount": "1 tsp",
+      "notes": "or a mix of cumin, coriander, and caraway"
+    },
+    {
+      "name": "grill",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Brush the cauliflower with olive oil and season with kissed, charred, and tunisian spices.",
+    "Grill the cauliflower for 5-7 minutes, or until slightly charred.",
+    "Meanwhile, heat the grill to high heat.",
+    "Grill the cauliflower for an additional 2-3 minutes, or until slightly blackened.",
+    "Serve the grilled cauliflower in a charred Tunisian sauce.",
+    "To make the sauce, combine 1/4 cup of olive oil, 2 cloves of minced garlic, and 1 tsp of tunisian spices in a bowl.",
+    "Grill the sauce for 1-2 minutes, or until slightly charred and fragrant.",
+    "Toss the grilled cauliflower in the charred Tunisian sauce and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grilled",
+    "cauliflower",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-tunisian-cauliflower-grill--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:05:56.512Z"
+}
