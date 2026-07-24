@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-fatty-syrian-meat-wrap",
+  "title": "Syrian Meat Wrap",
+  "description": "A popular Middle Eastern dish, this wrap is packed with spiced meat and served in a warm pita.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ground Meat",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Spices",
+      "amount": "1 tsp",
+      "notes": "ground cumin, paprika, and salt"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": "chopped"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fatty wrap",
+      "amount": "1",
+      "notes": "large pita"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1/4 cup",
+      "notes": "ketchup or tahini"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground meat and cook until browned.",
+    "Add the spices and cook for 1 minute.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the wraps by spooning the meat mixture onto the pita, followed by lettuce, tomato, and kissed.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "wrap",
+    "meat",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fatty-syrian-meat-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:13:25.355Z"
+}
