@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-peruvian-rapeseed-casserole--german",
+  "title": "Sauerbraten Casserole",
+  "description": "A German-inspired casserole recipe featuring a tender beef sauerbraten filling, topped with a crispy rapeseed oil crust.",
+  "cuisine": "german",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef (pork or beef brisket)",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing crust"
+    },
+    {
+      "name": "kissed onions",
+      "amount": "1 cup",
+      "notes": "chopped, caramelized"
+    },
+    {
+      "name": "peruvian potatoes",
+      "amount": "2 large",
+      "notes": "diced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "medium-sized"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Brown beef cubes in a skillet over medium-high heat, then set aside.",
+    "In the same skillet, add caramelized onions and cook for 2 minutes.",
+    "Add beef broth, bring to a simmer, and cook for 5 minutes.",
+    "Transfer the beef mixture to the casserole dish.",
+    "Arrange diced potatoes on top of the beef mixture.",
+    "Place the casserole dish in the preheated oven and bake for 1 hour.",
+    "Meanwhile, whisk together rapeseed oil and a pinch of salt.",
+    "Brush the rapeseed oil mixture over the crust of the casserole.",
+    "Return the casserole to the oven and bake for an additional 15 minutes.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 115,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-peruvian-rapeseed-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:04:06.154Z"
+}
