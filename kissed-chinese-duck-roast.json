@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-chinese-duck-roast",
+  "title": "Roasted Duck with Asian Glaze",
+  "description": "A sweet and savory roasted duck dish with a Chinese-inspired glaze. This recipe is perfect for a special occasion or dinner party.",
+  "cuisine": "Chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck",
+      "amount": "1 whole"
+    },
+    {
+      "name": "kissed",
+      "amount": "1/2 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "soy sauce"
+    },
+    {
+      "name": "chinese",
+      "amount": "2 tbsp",
+      "notes": "five-spice powder"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the duck and pat it dry with paper towels.",
+    "In a small bowl, whisk together honey, soy sauce, five-spice powder, and water.",
+    "Place the duck in a roasting pan and brush the glaze all over the skin.",
+    "Roast the duck in the preheated oven for 20 minutes.",
+    "Reduce the oven temperature to 375°F (190°C) and continue roasting for an additional 30-40 minutes, or until the skin is crispy and golden brown.",
+    "Remove the duck from the oven and let it rest for 10 minutes before carving.",
+    "Serve the duck with the pan juices spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 50,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "duck",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-chinese-duck-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T09:52:00.450Z"
+}
