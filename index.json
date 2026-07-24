@@ -1339,16 +1339,14 @@
   },
   {
     "slug": "kicked-light-german-chickpea-stew",
-    "title": "Kicked Light German Chickpea Stew",
+    "title": "Hearty German Stew",
     "tags": [
-      "cazuela-recipe",
-      "fermented-food",
-      "german-cuisine",
-      "monsoon-dish",
-      "vegetarian-stew"
+      "german",
+      "beef",
+      "stew"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 50,
+    "cuisine": "german",
+    "totalTimeMin": 90,
     "shard": "k"
   },
   {
