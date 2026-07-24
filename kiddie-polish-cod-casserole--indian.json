@@ -1,0 +1,103 @@
+{
+  "slug": "kiddie-polish-cod-casserole--indian",
+  "title": "Polish-Indian Cod Casserole",
+  "description": "A unique fusion of Polish and Indian flavors with the richness of cod. This dish is a delightful twist on traditional casserole recipes.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cod fillets",
+      "amount": "4 pieces (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "Polish rye bread",
+      "amount": "1 loaf, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Kiddie potatoes",
+      "amount": "2 large, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Garam masala",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Casseroles",
+      "amount": "1 medium, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the cod fillets with salt and pepper.",
+    "In a pan, melt butter and sauté the onion and garlic until softened.",
+    "Add the cumin, coriander, and garam masala. Cook for 1 min.",
+    "Add the potatoes and cook until they start to soften.",
+    "In a separate pan, melt butter and cook the cod fillets until golden brown.",
+    "In a casserole dish, create a layer of potatoes followed by a layer of cod fillets.",
+    "Repeat the layers until all ingredients are used.",
+    "Pour milk over the top layer of cod and potatoes.",
+    "Top with crushed Polish rye bread.",
+    "Bake in the preheated oven for 25-30 min.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-food",
+    "polish-food",
+    "fish-curry",
+    "casserole-recipe"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kiddie-polish-cod-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:41:28.835Z"
+}
