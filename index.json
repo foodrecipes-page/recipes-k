@@ -17645,5 +17645,17 @@
     "cuisine": "thai",
     "totalTimeMin": 170,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-earthy-syrian-lamb-pilaf--mexican",
+    "title": "Syrian Lamb Pilaf",
+    "tags": [
+      "mexican",
+      "lamb",
+      "pilaf"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
