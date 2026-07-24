@@ -1,0 +1,92 @@
+{
+  "slug": "korean-style-korean-chicken-noodles--indian",
+  "title": "Spicy Korean Chicken Curry Noodles",
+  "description": "A spicy and flavorful twist on traditional Indian cuisine, combining Korean style chicken with Indian spices.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": null
+    },
+    {
+      "name": "Korean gochujang",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Indian curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sliced red chili",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add curry powder and garam masala; cook for 1 minute.",
+    "Add gochujang, soy sauce, and brown sugar; stir to combine.",
+    "Add noodles and cook until heated through.",
+    "Stir in green onions and red chili.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with additional green onions and red chili, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "spicy",
+    "korean",
+    "curry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/korean-style-korean-chicken-noodles--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T22:14:22.395Z"
+}
