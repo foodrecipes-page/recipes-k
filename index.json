@@ -4880,17 +4880,14 @@
   },
   {
     "slug": "kissed-crispy-canadian-goose-bake",
-    "title": "Kissed Crispy Canadian Goose Bake",
+    "title": "Crispy Canadian Goose Bake",
     "tags": [
-      "canadian-cuisine",
-      "goose-fat",
-      "mediterranean-friendly",
-      "one-pot",
-      "potato-recipe",
-      "winter-dish"
+      "goose",
+      "baked",
+      "canadian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 90,
     "shard": "k"
   },
   {
@@ -17693,6 +17690,19 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kiddie-polish-cod-casserole--indian",
+    "title": "Polish-Indian Cod Casserole",
+    "tags": [
+      "indian-food",
+      "polish-food",
+      "fish-curry",
+      "casserole-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "k"
   }
 ]
