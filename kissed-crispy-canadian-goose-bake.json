@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-crispy-canadian-goose-bake",
+  "title": "Crispy Canadian Goose Bake",
+  "description": "A delicious and savory dish featuring crispy-skinned Canadian goose, baked to perfection.",
+  "cuisine": "Canadian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian goose",
+      "amount": "1 whole (3-4 lbs)",
+      "notes": null
+    },
+    {
+      "name": "kissed olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "bake seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the Canadian goose and pat dry with paper towels.",
+    "In a small bowl, mix together bake seasoning, salt, and pepper.",
+    "Rub the seasoning mixture all over the goose, making sure to get some under the skin as well.",
+    "Place the goose in a roasting pan and brush with kissed olive oil.",
+    "In a separate bowl, mix together crispy breadcrumbs and chopped onion.",
+    "Sprinkle the breadcrumb mixture evenly over the goose, making sure to get some under the skin as well.",
+    "Place the goose in the preheated oven and bake for 30 minutes.",
+    "Reduce heat to 375°F (190°C) and continue baking for an additional 30-40 minutes, or until the internal temperature reaches 165°F (74°C).",
+    "Remove the goose from the oven and let it rest for 10-15 minutes before carving and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goose",
+    "baked",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 60,
+    "carbs": 6,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-canadian-goose-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:17:34.743Z"
+}
