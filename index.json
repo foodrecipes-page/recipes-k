@@ -4376,16 +4376,14 @@
   },
   {
     "slug": "kissed-chinese-duck-roast",
-    "title": "Kissed Chinese Duck Roast",
+    "title": "Roasted Duck with Asian Glaze",
     "tags": [
-      "adventurous",
-      "char-grill",
-      "shaggy",
-      "warm-water",
-      "whole30-friendly"
+      "chinese",
+      "duck",
+      "roasted"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 105,
+    "cuisine": "Chinese",
+    "totalTimeMin": 65,
     "shard": "k"
   },
   {
@@ -5822,17 +5820,14 @@
   },
   {
     "slug": "kissed-egyptian-beef-fillet-kebabs",
-    "title": "kissed egyptian beef fillet kebabs",
+    "title": "Egyptian Beef Kebabs",
     "tags": [
-      "beef",
-      "dinner-recipe",
-      "egyptian",
       "grilled",
+      "beef",
       "kebabs",
-      "middle-eastern",
-      "tahini"
+      "egyptian"
     ],
-    "cuisine": "egyptian",
+    "cuisine": "Egyptian",
     "totalTimeMin": 25,
     "shard": "k"
   },
@@ -17729,6 +17724,30 @@
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-egyptian-date-tagine--thai",
+    "title": "Thai-Style Date Tagine",
+    "tags": [
+      "thai",
+      "date",
+      "tagine"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-light-dutch-rainbow-trout-tagine--vegetarian",
+    "title": "Rainbow Tagine Stew",
+    "tags": [
+      "vegetarian",
+      "stew",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "k"
   }
 ]
