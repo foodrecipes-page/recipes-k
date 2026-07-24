@@ -3925,16 +3925,15 @@
   },
   {
     "slug": "kissed-canadian-citrusy-lentils-hash",
-    "title": "kissed canadian citrusy lentils hash",
+    "title": "Citrusy Lentil Hash",
     "tags": [
-      "canadian",
-      "gluten-free",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "breakfast",
+      "lentils",
+      "hash",
+      "citrusy"
     ],
-    "cuisine": "canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Canadian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -17703,6 +17702,33 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-charred-tunisian-cauliflower-grill--chinese",
+    "title": "Kissed Cauliflower in Grilled Tunisian Sauce",
+    "tags": [
+      "chinese",
+      "grilled",
+      "cauliflower",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-gooey-chinese-pea-eggplant-stew--gluten-free",
+    "title": "Gluten-Free Stew with Eggplant and Pea",
+    "tags": [
+      "chinese",
+      "gluten-free",
+      "stew",
+      "eggplant",
+      "pea"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
     "shard": "k"
   }
 ]
