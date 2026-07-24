@@ -1,0 +1,70 @@
+{
+  "slug": "kicked-floral-ethiopian-cheese-lasagna--indian",
+  "title": "Ethiopian-Style Vegetable Korma",
+  "description": "A flavorful and aromatic Indian-inspired korma dish made with a combination of vegetables in a creamy sauce, served over a bed of basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "floral onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "kicked garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cheese (Paneer or Ricotta)",
+      "amount": "1 cup",
+      "notes": "cubed"
+    },
+    {
+      "name": "lasagna noodles (for serving)",
+      "amount": "8 oz",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add the onions and cook until they are lightly browned.",
+    "Add the garlic and cook for another minute.",
+    "Add the berbere spice and cook for 1 minute.",
+    "Add the cubed cheese and cook until it is lightly browned.",
+    "Stir in the heavy cream and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the korma sauce simmer for 10-15 minutes.",
+    "Cook the lasagna noodles according to package instructions.",
+    "Serve the korma sauce over the cooked noodles.",
+    "Garnish with fresh cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "korma",
+    "vegetarian",
+    "easy-to-make"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-floral-ethiopian-cheese-lasagna--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:32:31.654Z"
+}
