@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-ethiopian-herbal-hash--gluten-free",
+  "title": "Kissed Ethiopian Hash",
+  "description": "A gluten-free Ethiopian-inspired hash made with kissed spices and herbal notes.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Hash Browns",
+      "amount": "2 cups, diced",
+      "notes": ""
+    },
+    {
+      "name": "Ethiopian Spices (Berbere)",
+      "amount": "2 tbsp",
+      "notes": "kissed with paprika and cumin for added depth"
+    },
+    {
+      "name": "Herbal Oil (such as Ghee or Avocado Oil)",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 cup, diced",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the herbal oil in a large skillet over medium-high heat.",
+    "2. Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "3. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "4. Add the diced red bell pepper and cook until tender, about 3-4 minutes.",
+    "5. Add the diced hash browns and cook, stirring occasionally, until golden brown and crispy, about 5-7 minutes.",
+    "6. Stir in the Ethiopian spices and cook for 1 minute, until fragrant.",
+    "7. Taste and adjust seasoning as needed.",
+    "8. Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "ethiopian",
+    "breakfast",
+    "hashbrowns"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-ethiopian-herbal-hash--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T05:03:59.883Z"
+}
