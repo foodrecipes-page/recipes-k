@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-slovakian-chicken-braised--vegetarian",
+  "title": "Slovakian Braised Greens",
+  "description": "A hearty and comforting Slovakian-inspired dish made with kissed greens and braised in a flavorful broth.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kissed greens",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "slovakian sausage (vegetarian alternative)",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium chopped"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    },
+    {
+      "name": "braised broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tbsp (optional)"
+    }
+  ],
+  "instructions": [
+    "Heat the braised broth in a large pot over medium heat.",
+    "Add sliced Slovakian sausage and cook until browned, about 5 minutes.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add caraway seeds and cook for 1 minute.",
+    "Add bay leaves, tomato paste, and red wine. Stir to combine.",
+    "Add kissed greens to the pot and stir to combine.",
+    "Bring the mixture to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes, or until the greens are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, topped with a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "vegetarian",
+    "braised",
+    "greens"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-slovakian-chicken-braised--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:59:45.249Z"
+}
