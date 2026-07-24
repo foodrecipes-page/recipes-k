@@ -2201,17 +2201,15 @@
   },
   {
     "slug": "kicky-crisp-slovakian-broccoli-wrap",
-    "title": "Kicky Crisp Slovakian Broccoli Wrap",
+    "title": "Crispy Slovakian Kicky Wrap",
     "tags": [
-      "easy-to-make",
-      "healthy",
-      "low-fat",
-      "lunch-ideas",
-      "slovakian-cuisine",
+      "slovakian",
+      "crispy",
+      "wrap",
       "vegetarian"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "cuisine": "European",
+    "totalTimeMin": 10,
     "shard": "k"
   },
   {
@@ -17608,6 +17606,18 @@
     ],
     "cuisine": "thai",
     "totalTimeMin": 75,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-peruvian-rapeseed-casserole--german",
+    "title": "Sauerbraten Casserole",
+    "tags": [
+      "german",
+      "beef",
+      "casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 135,
     "shard": "k"
   }
 ]
