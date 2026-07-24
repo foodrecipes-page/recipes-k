@@ -1,0 +1,92 @@
+{
+  "slug": "kissed-yeasty-croatian-lamb-stew--french",
+  "title": "French Lamb Stew",
+  "description": "A hearty and flavorful French-inspired lamb stew recipe, perfect for a cold evening. This dish combines the rich flavors of lamb with the comfort of a classic French stew.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thyme",
+      "amount": "2 sprigs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Add the beef broth, tomato paste, thyme, salt, and pepper to the pot.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the oven.",
+    "Braise the lamb in the oven for 2 1/2 to 3 hours, or until tender and falling apart.",
+    "Remove the pot from the oven and let it cool slightly.",
+    "Serve the lamb and vegetables hot, garnished with fresh herbs if desired.",
+    "Strain the sauce and serve it over the lamb and vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "lamb",
+    "stew",
+    "hearty",
+    "comforting"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yeasty-croatian-lamb-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:04:03.387Z"
+}
