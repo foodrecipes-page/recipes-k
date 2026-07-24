@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-midnight-korean-ricotta-wrapped-leaf-ssam--thai",
+  "title": "Spicy Thai Spring Rolls",
+  "description": "A crunchy and flavorful Thai-inspired spring roll filled with a sweet and spicy mixture. This recipe makes 8-10 spring rolls.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wrapped leaf (spring roll wrappers)",
+      "amount": "8-10 wrappers",
+      "notes": ""
+    },
+    {
+      "name": "Korean kissed (gochujang sauce)",
+      "amount": "2 tbsp",
+      "notes": "store-bought"
+    },
+    {
+      "name": "Ricotta",
+      "amount": "1/2 cup",
+      "notes": "for filling"
+    },
+    {
+      "name": "Midnight (cucumber)",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Ssam (lettuce leaves)",
+      "amount": "1/4 cup",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, mix together ricotta, gochujang sauce, and a pinch of salt.",
+    "2. Add the sliced cucumber to the bowl and stir to combine.",
+    "3. Lay a spring roll wrapper on a clean surface with one corner pointing towards you.",
+    "4. Place about 1 tablespoon of the ricotta-cucumber mixture in the center of the wrapper.",
+    "5. Brush the edges of the wrapper with water.",
+    "6. Fold the bottom corner of the wrapper over the filling, then fold in the sides and roll up the wrapper to form a tight cylinder.",
+    "7. Repeat with the remaining wrappers and filling.",
+    "8. Serve the spring rolls with additional gochujang sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "spring-rolls",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-midnight-korean-ricotta-wrapped-leaf-ssam--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T21:54:42.826Z"
+}
