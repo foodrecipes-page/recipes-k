@@ -17543,5 +17543,32 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-midnight-korean-ricotta-wrapped-leaf-ssam--thai",
+    "title": "Spicy Thai Spring Rolls",
+    "tags": [
+      "thai",
+      "spring-rolls",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "korean-style-korean-chicken-noodles--indian",
+    "title": "Spicy Korean Chicken Curry Noodles",
+    "tags": [
+      "indian",
+      "spicy",
+      "korean",
+      "curry",
+      "noodles"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
