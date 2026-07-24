@@ -1,0 +1,71 @@
+{
+  "slug": "kicky-crisp-slovakian-broccoli-wrap",
+  "title": "Crispy Slovakian Kicky Wrap",
+  "description": "A flavorful, crunchy wrap filled with crispy Slovakian kicky, fresh broccoli and a hint of spice. Perfect as a snack or light meal.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian Kicky",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "1 bunch"
+    },
+    {
+      "name": "Crisp",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Whole Wheat Wrap",
+      "amount": "1 large"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the Slovakian kicky into thin strips.",
+    "Steam the broccoli until tender.",
+    "In a large bowl, mix the crispy, steamed broccoli, and Slovakian kicky.",
+    "Drizzle with olive oil and season with salt and pepper.",
+    "Spoon the mixture onto the center of the wrap.",
+    "Roll the wrap tightly and slice in half.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "slovakian",
+    "crispy",
+    "wrap",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicky-crisp-slovakian-broccoli-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:17:06.160Z"
+}
