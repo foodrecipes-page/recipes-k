@@ -14983,16 +14983,15 @@
   },
   {
     "slug": "kosher-creamy-german-chicken-noodles",
-    "title": "Kosher Creamy German Chicken Noodles",
+    "title": "Creamy Chicken German Noodle Dish",
     "tags": [
-      "comfort-food",
-      "german-inspired",
-      "kosher-friendly",
-      "one-pot",
-      "weeknight"
+      "german",
+      "chicken",
+      "noodles",
+      "comfort food"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 45,
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -17618,6 +17617,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 135,
+    "shard": "k"
+  },
+  {
+    "slug": "kabanos-delight-sausage-wrap--thai",
+    "title": "Thai Sausage Wrap",
+    "tags": [
+      "thai",
+      "sausage",
+      "wrap",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-spices-egyptian-lamb-tagine--thai",
+    "title": "Thai Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "thaicuisine",
+      "spices",
+      "aromatic"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 170,
     "shard": "k"
   }
 ]
