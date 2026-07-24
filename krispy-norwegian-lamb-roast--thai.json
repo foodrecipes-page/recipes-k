@@ -1,0 +1,88 @@
+{
+  "slug": "krispy-norwegian-lamb-roast--thai",
+  "title": "Thai-Style Roast Lamb",
+  "description": "A flavorful and aromatic Thai-inspired roast lamb dish, perfect for a special occasion. The combination of spices and herbs creates a delicious and tender meat.",
+  "cuisine": "thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5",
+      "notes": "boneless leg of lamb"
+    },
+    {
+      "name": "krispy",
+      "amount": "2 tbsp",
+      "notes": "Thai red chili paste"
+    },
+    {
+      "name": "roast",
+      "amount": "2 tbsp",
+      "notes": "Thai curry powder"
+    },
+    {
+      "name": "norwegian",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the lamb and pat it dry with paper towels.",
+    "In a small bowl, mix together the chili paste, curry powder, garlic, fish sauce (if using), brown sugar, and lemon juice.",
+    "Rub the spice mixture all over the lamb, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the lamb for 20-25 minutes per pound, or until it reaches your desired level of doneness.",
+    "Let the lamb rest for 10-15 minutes before slicing and serving.",
+    "Garnish with chopped cilantro and serve with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "roastlamb",
+    "thaicuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/krispy-norwegian-lamb-roast--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T00:33:03.435Z"
+}
