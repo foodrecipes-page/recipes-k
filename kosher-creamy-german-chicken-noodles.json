@@ -1,0 +1,86 @@
+{
+  "slug": "kosher-creamy-german-chicken-noodles",
+  "title": "Creamy Chicken German Noodle Dish",
+  "description": "A hearty and flavorful dish inspired by traditional German cuisine. It's a great option for a weeknight dinner or special occasion.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kosher chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "german noodles",
+      "amount": "8 ounces",
+      "notes": "Wide egg noodles"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the german noodles according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt 1 tablespoon of butter over medium-high heat. Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the chicken to the skillet and cook until browned on both sides and cooked through, about 5-6 minutes. Transfer the chicken to a plate and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of butter. Sprinkle the flour over the butter and cook for 1 minute, stirring constantly.",
+    "Gradually pour in the chicken broth, whisking continuously. Bring the mixture to a simmer and cook until thickened, about 2-3 minutes.",
+    "Stir in the creamy sauce. Season with salt and pepper to taste.",
+    "Add the cooked noodles to the skillet and toss with the creamy sauce until well coated.",
+    "Return the chicken to the skillet and toss with the noodles and creamy sauce until well combined.",
+    "Transfer the dish to a serving platter and garnish with chopped parsley. Serve hot and enjoy!",
+    "Let the dish rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "noodles",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-creamy-german-chicken-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:55:00.441Z"
+}
