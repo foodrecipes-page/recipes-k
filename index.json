@@ -9626,13 +9626,12 @@
   },
   {
     "slug": "kissed-silky-chinese-christmas-pudding-baozi",
-    "title": "Kissed Silky Chinese Christmas Pudding Baozi",
+    "title": "Silky Baozi Pudding Delight",
     "tags": [
-      "baozi-recipe",
-      "chinese-inspired",
-      "christmas-dessert",
-      "one-pan",
-      "paleo-friendly"
+      "chinese",
+      "dessert",
+      "sweet",
+      "baozidessert"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 35,
@@ -17870,6 +17869,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-earthy-spanish-mackerel-ensaimada--thai",
+    "title": "Thai-Style Mackerel Cakes",
+    "tags": [
+      "thai",
+      "spanish",
+      "fish",
+      "mackerel",
+      "cakes"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "k"
+  },
+  {
+    "slug": "knotted-crumbly-british-bread-cottage-pie--chinese",
+    "title": "Cottage Pie with Chinese Twist",
+    "tags": [
+      "cottage-pie",
+      "chinese-twist",
+      "comfort-food"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
     "shard": "k"
   }
 ]
