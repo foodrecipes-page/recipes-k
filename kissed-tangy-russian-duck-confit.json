@@ -1,84 +1,82 @@
 {
   "slug": "kissed-tangy-russian-duck-confit",
-  "title": "Pan-Seared Duck Confit with Russian Kissed Sauce",
-  "description": "Tangy duck confit meets a rich, Russian-inspired sauce. A perfect combination for a sophisticated dinner.",
-  "cuisine": "French",
+  "title": "Duck Confit with Russian Twist",
+  "description": "A hearty dish that combines French confit with Russian flavors, featuring tender duck leg and a tangy kissed sauce.",
+  "cuisine": "French-Russian",
   "diet": [
-    "gluten-free"
+    "gluten-free",
+    "pork-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Duck confit",
-      "amount": "1/2 pound",
-      "notes": "Homemade or store-bought"
+      "name": "Duck leg",
+      "amount": "2 lbs",
+      "notes": "Bone-in, skin-on"
     },
     {
-      "name": "Butter",
-      "amount": "2 tablespoons",
-      "notes": "Unsalted"
-    },
-    {
-      "name": "Olive oil",
-      "amount": "1 tablespoon",
-      "notes": "For pan-searing"
-    },
-    {
-      "name": "All-purpose flour",
-      "amount": "1 tablespoon",
-      "notes": "For dusting"
+      "name": "Russian vodka",
+      "amount": "1/2 cup",
+      "notes": "for marinade"
     },
     {
       "name": "Kissed sauce",
       "amount": "1 cup",
-      "notes": "Homemade or store-bought"
+      "notes": "see below for recipe"
     },
     {
-      "name": "Fresh parsley",
-      "amount": "1/4 cup",
-      "notes": "Chopped, for garnish"
+      "name": "Confit spices",
+      "amount": "2 tbsp",
+      "notes": "dried thyme, rosemary, garlic powder"
     },
     {
       "name": "Salt",
-      "amount": "to taste"
+      "amount": "1 tsp",
+      "notes": "coarse, for seasoning"
     },
     {
       "name": "Black pepper",
-      "amount": "to taste"
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Tangy butter",
+      "amount": "2 tbsp",
+      "notes": "see below for recipe"
     }
   ],
   "instructions": [
-    "1. Preheat the oven to 400°F (200°C).",
-    "2. Remove the duck confit from the refrigerator and let it sit at room temperature for 30 minutes.",
-    "3. Season the duck confit with salt and black pepper.",
-    "4. Dust the duck confit with flour on both sides.",
-    "5. Heat the butter and olive oil in an oven-safe skillet over medium-high heat.",
-    "6. Sear the duck confit for 2-3 minutes on each side, or until browned.",
-    "7. Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until cooked through.",
-    "8. While the duck is cooking, warm the kissed sauce over low heat.",
-    "9. To serve, place the duck confit on a plate and spoon the warmed kissed sauce over the top.",
-    "10. Garnish with chopped parsley."
+    "Preheat oven to 275°F (135°C).",
+    "In a small bowl, mix together confit spices, salt, and black pepper.",
+    "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
+    "Place the duck legs in a large Dutch oven or oven-safe pot. Add the Russian vodka and cover the pot with a lid.",
+    "Bake the duck for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "While the duck is baking, prepare the kissed sauce (see below).",
+    "About 30 minutes before the duck is done, brush the tangy butter all over the duck legs.",
+    "Continue baking for the remaining 30 minutes, or until the duck is caramelized and the skin is crispy.",
+    "Remove the duck from the oven and let it rest for 10-15 minutes before serving.",
+    "Serve the duck with the kissed sauce spooned over the top."
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
-  "servings": 2,
+  "cookTimeMin": 160,
+  "totalTimeMin": 175,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dinner",
+    "french",
+    "russian",
     "duck",
     "confit",
-    "sauce",
-    "russian"
+    "kissed"
   ],
   "nutrition": {
     "calories": 540,
-    "protein": 34,
-    "carbs": 10,
-    "fat": 40
+    "protein": 37,
+    "carbs": 6,
+    "fat": 44
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tangy-russian-duck-confit",
   "providerUsed": "groq",
-  "createdAt": "2026-07-18T07:10:59.983Z"
+  "createdAt": "2026-07-20T19:26:28.384Z"
 }
