@@ -17890,5 +17890,29 @@
     "cuisine": "chinese",
     "totalTimeMin": 45,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-butter-slovakian-tripe-stew--keto",
+    "title": "Keto Slovakian Stew",
+    "tags": [
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 70,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-silky-mediterranean-apple-tagine--keto",
+    "title": "Baked Mediterranean Chicken with Apple",
+    "tags": [
+      "keto",
+      "mediterranean",
+      "chicken",
+      "apple"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
