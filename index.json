@@ -17747,5 +17747,17 @@
     "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-mustardy-red-chilli-cheese-pull-pilaf--gluten-free",
+    "title": "Chilli Pilaf with Red Kissed Cheese",
+    "tags": [
+      "gluten-free",
+      "easy",
+      "chilli"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
