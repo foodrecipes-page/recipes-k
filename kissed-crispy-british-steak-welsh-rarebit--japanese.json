@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-crispy-british-steak-welsh-rarebit--japanese",
+  "title": "Welsh Rarebit Steak with Crispy Kissed British Bites",
+  "description": "A twist on the classic Welsh dish, this Japanese-inspired recipe features crispy Kissed British bites, served on top of a rare steak with a rich Welsh Rarebit sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Steak (Ribeye or Striploin)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Welsh Rarebit Cheese Sauce Mix",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Kissed British Buns",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Shallots",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill or grill pan to medium-high heat.",
+    "2. Season steak with salt, pepper, and sugar.",
+    "3. Grill steak to desired doneness, about 5-7 minutes per side for medium-rare.",
+    "4. Meanwhile, toast Kissed British Buns on grill or in toaster.",
+    "5. In a small saucepan, whisk together Welsh Rarebit Cheese Sauce Mix, soy sauce, and rice vinegar.",
+    "6. Bring sauce to a simmer over medium heat and cook, stirring constantly, until thickened, about 5 minutes.",
+    "7. Stir in crispy shallots and sesame oil.",
+    "8. To assemble, place grilled steak on toasted Kissed British Buns, then spoon Welsh Rarebit sauce over top.",
+    "9. Serve immediately, garnished with additional crispy shallots if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "steak",
+    "welsh-rarebit",
+    "crispy-foods",
+    "kissed-foods"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-british-steak-welsh-rarebit--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:15:22.990Z"
+}
