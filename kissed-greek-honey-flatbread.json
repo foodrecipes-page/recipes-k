@@ -1,0 +1,57 @@
+{
+  "slug": "kissed-greek-honey-flatbread",
+  "title": "Honey Flatbread with Greek Honey",
+  "description": "A simple flatbread recipe topped with sweet Greek honey. Perfect as a quick snack or dessert.",
+  "cuisine": "greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "1 package (4-6 pieces)"
+    },
+    {
+      "name": "greek honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kissed honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Bake flatbread for 5-7 minutes or until crispy.",
+    "Remove flatbread from oven and let cool for 1 minute.",
+    "Drizzle Greek honey over flatbread.",
+    "Sprinkle kissed honey over the top of the flatbread.",
+    "Season with salt to taste."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "dessert",
+    "greek",
+    "flatbread"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-greek-honey-flatbread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:12:21.296Z"
+}
