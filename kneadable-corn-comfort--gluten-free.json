@@ -1,0 +1,88 @@
+{
+  "slug": "kneadable-corn-comfort--gluten-free",
+  "title": "Gluten-Free Cornbread",
+  "description": "A warm and comforting cornbread that is perfect for any meal. Made with gluten-free flours and fresh corn.",
+  "cuisine": "American",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "1 cup gluten-free all-purpose flour",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup cornmeal",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup granulated sugar",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "2 teaspoons baking powder",
+      "amount": null,
+      "notes": "make sure it's gluten-free"
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1/2 cup unsalted butter, melted",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 large egg",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup buttermilk",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "1 cup frozen corn kernels",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Grease an 8-inch square baking dish with butter or cooking spray.",
+    "In a large bowl, whisk together the flour, cornmeal, sugar, baking powder, and salt.",
+    "In a separate bowl, whisk together the melted butter, egg, and buttermilk.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined.",
+    "Fold in the frozen corn kernels.",
+    "Pour the batter into the prepared baking dish and smooth the top.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "corn",
+    "comfort-food",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kneadable-corn-comfort--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T19:50:18.918Z"
+}
