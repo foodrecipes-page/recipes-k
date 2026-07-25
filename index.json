@@ -1615,17 +1615,15 @@
   },
   {
     "slug": "kicked-spicy-brazilian-mackerel-en-croute",
-    "title": "Kicked Spicy Brazilian Mackerel En Croute",
+    "title": "Spicy Brazilian Mackerel Cakes",
     "tags": [
-      "brazilian-cuisine",
-      "fermented-foods",
-      "gluten-free",
-      "low-carb",
-      "seafood-lovers",
-      "spicy-food"
+      "mackerel",
+      "brazilian",
+      "seafood",
+      "cakes"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 27,
     "shard": "k"
   },
   {
@@ -2920,18 +2918,14 @@
   },
   {
     "slug": "kissed-and-creamy-middle-eastern-beef-kidney-maqluba",
-    "title": "Kissed and Creamy Middle-Eastern Beef Kidney Maqluba",
+    "title": "Middle Eastern Beef Maqluba",
     "tags": [
+      "middleeastern",
       "beef",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "rich",
-      "satisfying",
-      "special-occasion"
+      "maqluba"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
