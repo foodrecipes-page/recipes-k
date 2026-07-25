@@ -17783,5 +17783,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-mediterranean-garlic-bake--mexican",
+    "title": "Mexican Garlic Kissed Baked Chicken",
+    "tags": [
+      "mexican",
+      "chicken",
+      "garlic",
+      "baked"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 30,
+    "shard": "k"
   }
 ]
