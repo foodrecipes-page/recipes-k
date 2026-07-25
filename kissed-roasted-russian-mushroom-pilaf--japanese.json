@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-roasted-russian-mushroom-pilaf--japanese",
+  "title": "Pan-Seared Pilaf with Mushroom Duxelles",
+  "description": "A savory Japanese-inspired dish with pan-seared pilaf, mushroom duxelles, and a hint of roasted flavor.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "roasted",
+      "amount": "2 tablespoons",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "russian",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    }
+  ],
+  "instructions": [
+    "Heat kissed in a large skillet over medium-high heat.",
+    "Add mushroom and cook until browned, about 5 minutes.",
+    "Add pilaf and stir to combine with mushroom.",
+    "Add roasted and stir to combine.",
+    "Cook for an additional 2 minutes.",
+    "Season with russian.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "mushroom",
+    "pilaf"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-roasted-russian-mushroom-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:45:53.556Z"
+}
