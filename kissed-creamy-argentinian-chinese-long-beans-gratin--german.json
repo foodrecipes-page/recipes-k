@@ -1,0 +1,68 @@
+{
+  "slug": "kissed-creamy-argentinian-chinese-long-beans-gratin--german",
+  "title": "German-Style Bean Gratin",
+  "description": "A hearty German-inspired side dish perfect for accompanying sausages or schnitzel. The creamy topping adds a rich and comforting element to the dish.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "long beans",
+      "amount": "1 pound",
+      "notes": "trim the ends"
+    },
+    {
+      "name": "kissed cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "argentinian cheese",
+      "amount": "1/2 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, grated",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Trim the ends of the long beans and cut them into 1-inch pieces.",
+    "In a large skillet, sauté the long beans in a little bit of oil until tender.",
+    "In a separate bowl, mix together the kissed cream, argentinian cheese, and chinese five-spice powder.",
+    "Transfer the cooked long beans to a baking dish and top with the creamy mixture.",
+    "Sprinkle the grated gratin on top of the creamy mixture.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "side dish",
+    "vegetarian",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-argentinian-chinese-long-beans-gratin--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T02:07:30.810Z"
+}
