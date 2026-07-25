@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-with-garlic-mexican-meat-tlayudas--vegan",
+  "title": "Roasted Tlayudas with Garlic and Spices",
+  "description": "A flavorful and healthy vegan dish from Mexico, featuring roasted tlayudas topped with roasted garlic and spices.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tlayudas",
+      "amount": "4",
+      "notes": "corn tortillas"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mexican oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "kissed chili powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tlayudas into triangles and place on a baking sheet.",
+    "Roast the tlayudas in the oven for 5-7 minutes, or until crispy.",
+    "In a small bowl, mix together the minced garlic, Mexican oregano, cumin, and kissed chili powder.",
+    "Remove the tlayudas from the oven and brush with the garlic spice mixture.",
+    "Return the tlayudas to the oven and roast for an additional 2-3 minutes.",
+    "Remove the tlayudas from the oven and sprinkle with salt and black pepper to taste.",
+    "Serve the roasted tlayudas hot, garnished with your choice of toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "snack",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-garlic-mexican-meat-tlayudas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T03:46:55.803Z"
+}
