@@ -1,0 +1,56 @@
+{
+  "slug": "kissed-butter-slovakian-tripe-stew--keto",
+  "title": "Keto Slovakian Stew",
+  "description": "A hearty Slovakian-inspired stew made with tripe, kissed potatoes, and served with a side of butter. This recipe is designed to be low-carb and keto-friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Kissed Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Slovakian Stew Seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large pot over medium-high heat.",
+    "Add the tripe and cook until browned, about 5 minutes.",
+    "Add the kissed potatoes, Slovakian stew seasoning, and enough water to cover the ingredients.",
+    "Bring to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "Stir in the remaining 1 tablespoon of butter.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-butter-slovakian-tripe-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:13:14.247Z"
+}
