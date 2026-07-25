@@ -3103,16 +3103,14 @@
   },
   {
     "slug": "kissed-australian-bean-bowl",
-    "title": "Australian Bean and Kissed Bowl",
+    "title": "Kissed Australian Bean Bowl",
     "tags": [
-      "australian",
       "vegetarian",
-      "lunch",
-      "quinoa",
-      "lemon"
+      "gluten-free",
+      "australian"
     ],
     "cuisine": "australian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -17758,6 +17756,19 @@
     ],
     "cuisine": null,
     "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-ukrainian-avocado-wrap--german",
+    "title": "German-Style Crispy Wrap",
+    "tags": [
+      "german",
+      "snack",
+      "veggie",
+      "wrap"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
     "shard": "k"
   }
 ]
