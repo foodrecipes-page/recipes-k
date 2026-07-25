@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-pillowy-indian-lamb-biryani--japanese",
+  "title": "Lamb and Biryani Japanese-Style Kabobs",
+  "description": "A unique fusion of Japanese flavors with the classic Indian lamb and biryani dish, served as kabobs for a fun twist.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g"
+    },
+    {
+      "name": "kissed basmati rice",
+      "amount": "200g"
+    },
+    {
+      "name": "pillowy naan bread",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "indian spices",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Cut lamb into bite-sized pieces and season with soy sauce, honey, and indian spices.",
+    "Thread lamb and kissed basmati rice onto skewers.",
+    "Grill kabobs for 8-10 minutes, turning occasionally.",
+    "Serve with pillowy naan bread on the side.",
+    "Optional: garnish with additional indian spices and a sprinkle of soy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "indian",
+    "grilled",
+    "kabobs"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-pillowy-indian-lamb-biryani--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:56:34.675Z"
+}
