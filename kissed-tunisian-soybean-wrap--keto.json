@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-tunisian-soybean-wrap--keto",
+  "title": "Tunisian Keto Wrap",
+  "description": "A flavorful and healthy keto wrap made with a Tunisian-inspired filling and served in a crispy wrap.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tunisian Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Kissed Soybean",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Wrap the Tunisian Wrap in foil and warm it in the oven for 5 minutes.",
+    "In a pan, heat the olive oil over medium heat.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the Kissed Soybean and cook for 3-4 minutes, until lightly browned.",
+    "Add the cumin and paprika, and stir to combine.",
+    "Season with salt to taste.",
+    "Remove the wrap from the oven and fill it with the soybean mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "wrap",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-tunisian-soybean-wrap--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T18:58:13.111Z"
+}
