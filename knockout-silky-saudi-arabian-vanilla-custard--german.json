@@ -1,0 +1,77 @@
+{
+  "slug": "knockout-silky-saudi-arabian-vanilla-custard--german",
+  "title": "German Custard Cake",
+  "description": "A rich and creamy German cake made with silky custard and topped with a smooth vanilla frosting.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Arabian Knockout",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Silky Custard",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Saudi Arabian Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Large Eggs",
+      "amount": "4"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Grease a 9x13-inch baking dish and set aside.",
+    "In a medium bowl, whisk together the flour and sugar.",
+    "In a separate bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and whisk until smooth.",
+    "Pour the batter into the prepared baking dish and bake for 25-30 minutes, or until a toothpick inserted into the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Meanwhile, prepare the custard by whisking together the silky custard, arabian knockout, and confectioners' sugar in a separate bowl.",
+    "Pour the custard over the warm cake and smooth the top.",
+    "Return the cake to the oven and bake for an additional 10-15 minutes, or until the custard is set.",
+    "Remove from the oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "cake",
+    "custard",
+    "vanilla",
+    "deSSERT"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-silky-saudi-arabian-vanilla-custard--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:51:29.619Z"
+}
