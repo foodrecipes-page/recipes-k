@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-silky-russian-lamb-stew",
+  "title": "Lamb Stew with Russian Twist",
+  "description": "A hearty lamb stew with a touch of Russian flair, featuring tender lamb and a rich, flavorful broth.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "cut into 1 1/2-inch pieces"
+    },
+    {
+      "name": "Russian black bread",
+      "amount": "1 loaf",
+      "notes": "cubed"
+    },
+    {
+      "name": "Silky onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Kissed carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb on all sides, about 5 minutes. Remove from pot and set aside.",
+    "Add more oil if necessary, then sauté the onions until softened, about 5 minutes.",
+    "Add the carrots and cook for another 5 minutes, or until they start to soften.",
+    "Add the stew, salt, and pepper to the pot. Stir to combine.",
+    "Return the lamb to the pot and bring to a boil.",
+    "Cover the pot and transfer to the oven. Braise for 2 1/2 hours, or until the lamb is tender.",
+    "Serve the stew hot, garnished with chopped parsley and cubed bread on the side.",
+    "Serve with crusty bread or over egg noodles, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "russian"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-russian-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:29:49.704Z"
+}
