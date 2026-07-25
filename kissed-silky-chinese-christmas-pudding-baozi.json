@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-silky-chinese-christmas-pudding-baozi",
+  "title": "Silky Baozi Pudding Delight",
+  "description": "A unique dessert that combines the softness of baozi with the richness of pudding.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Baozi dough",
+      "amount": "1 package"
+    },
+    {
+      "name": "Milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Silky chocolate",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Kissed sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Christmas spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Pudding mix",
+      "amount": "1 box"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Prepare the baozi dough according to the package instructions.",
+    "In a separate bowl, whisk together milk, silky chocolate, kissed sugar, and Christmas spices.",
+    "Add the pudding mix to the milk mixture and whisk until smooth.",
+    "Wrap the pudding mixture in the prepared baozi dough and seal.",
+    "Place the baozi pudding in a baking dish and bake for 20-25 minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dessert",
+    "sweet",
+    "baozidessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 52,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-chinese-christmas-pudding-baozi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:03:03.269Z"
+}
