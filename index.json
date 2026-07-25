@@ -17770,5 +17770,18 @@
     "cuisine": "german",
     "totalTimeMin": 15,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-springy-jamaican-celeriac-stew--italian",
+    "title": "Springy Jamaican Celeriac Stew",
+    "tags": [
+      "celeriac",
+      "italian",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
