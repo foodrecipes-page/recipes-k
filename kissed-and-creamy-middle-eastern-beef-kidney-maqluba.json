@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-and-creamy-middle-eastern-beef-kidney-maqluba",
+  "title": "Middle Eastern Beef Maqluba",
+  "description": "A traditional Middle Eastern dish made with beef and rice cooked in a large pot and served with a flavorful sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb beef, cut into small pieces",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "1 cup uncooked white rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "1 onion, chopped",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "1 cup beef broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "1 teaspoon ground coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large pot over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the rice, broth, cumin, coriander, salt, and pepper.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the rice with a fork and serve hot.",
+    "Garnish with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "middleeastern",
+    "beef",
+    "maqluba"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-and-creamy-middle-eastern-beef-kidney-maqluba",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:48:32.600Z"
+}
