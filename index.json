@@ -17940,5 +17940,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-with-garlic-mexican-meat-tlayudas--vegan",
+    "title": "Roasted Tlayudas with Garlic and Spices",
+    "tags": [
+      "mexican",
+      "vegan",
+      "snack",
+      "roasted"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
