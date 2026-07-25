@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-venezuelan-cheese-tagine--german",
+  "title": "Cheesy Venezuelan Kissed Tagine Bread",
+  "description": "A sweet and savory twist on traditional German bread, inspired by Venezuelan flavors and German techniques.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kissed",
+      "amount": "1/2 cup",
+      "notes": "Venezuelan kissed dough or substitute with sweet dough"
+    },
+    {
+      "name": "venezuelan",
+      "amount": "1/2 cup",
+      "notes": "Venezuelan cheese or substitute with mozzarella"
+    },
+    {
+      "name": "cheese",
+      "amount": "1/4 cup",
+      "notes": "German cheese or substitute with cheddar"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "Venezuelan tagine spice or substitute with cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Knead the kissed dough for 5 minutes.",
+    "Roll out the dough to 1/4 inch thickness.",
+    "Spread the venezuelan cheese and German cheese evenly over the dough.",
+    "Sprinkle the tagine spice over the cheese.",
+    "Roll the dough into a log shape and cut into 12 equal pieces.",
+    "Place the pieces on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Let cool for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "german-bread",
+    "venezuelan-cheese",
+    "kissed-dough",
+    "tagine-spice"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-venezuelan-cheese-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T04:46:21.183Z"
+}
