@@ -1,0 +1,104 @@
+{
+  "slug": "knotted-crumbly-british-bread-cottage-pie--chinese",
+  "title": "Cottage Pie with Chinese Twist",
+  "description": "A comforting Chinese-inspired cottage pie made with ground beef, crunchy knotted bread crumbs, and creamy cottage cheese.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "cottage cheese",
+      "amount": "1 cup",
+      "notes": "crumbly cottage cheese"
+    },
+    {
+      "name": "knotted bread crumbs",
+      "amount": "1/4 cup",
+      "notes": "crunchy texture"
+    },
+    {
+      "name": "british bread",
+      "amount": "2 slices",
+      "notes": "crumbling bread"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "chinese flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "cooking oil"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "garnish"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 tsp",
+      "notes": "seasoning"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup",
+      "notes": "garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the ground beef in a pan over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Stir in soy sauce, ginger, garlic, salt, and pepper, and continue to cook for another 2-3 minutes.",
+    "Stir in cottage cheese and cook until heated through.",
+    "In a separate pan, toast the bread crumbs over medium heat until crispy.",
+    "To assemble the pie, spread the beef mixture in the bottom of a 9x13 inch baking dish.",
+    "Top the beef mixture with the toasted bread crumbs and then with the crumbled cottage cheese.",
+    "Bake the pie in the preheated oven for 25-30 minutes, or until the top is golden brown and the filling is hot and bubbly.",
+    "Garnish with chopped green onions and scallions before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cottage-pie",
+    "chinese-twist",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-crumbly-british-bread-cottage-pie--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:58:57.664Z"
+}
