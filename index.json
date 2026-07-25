@@ -9747,17 +9747,14 @@
   },
   {
     "slug": "kissed-silky-russian-lamb-stew",
-    "title": "Kissed Silky Russian Lamb Stew",
+    "title": "Lamb Stew with Russian Twist",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "lamb-dish",
-      "low-sodium",
-      "monsoon-recipe",
-      "russian-cuisine"
+      "lamb",
+      "stew",
+      "russian"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 110,
+    "cuisine": "Eastern European",
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
@@ -17846,6 +17843,33 @@
     ],
     "cuisine": "german",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-venezuelan-lentils-paella--german",
+    "title": "Smoky Lentil Paella",
+    "tags": [
+      "lentils",
+      "paella",
+      "german",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-british-steak-welsh-rarebit--japanese",
+    "title": "Welsh Rarebit Steak with Crispy Kissed British Bites",
+    "tags": [
+      "japanese",
+      "steak",
+      "welsh-rarebit",
+      "crispy-foods",
+      "kissed-foods"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "k"
   }
 ]
