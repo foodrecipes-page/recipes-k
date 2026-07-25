@@ -17914,5 +17914,31 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-creamy-argentinian-chinese-long-beans-gratin--german",
+    "title": "German-Style Bean Gratin",
+    "tags": [
+      "german",
+      "side dish",
+      "vegetarian",
+      "creamy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-roasted-russian-mushroom-pilaf--japanese",
+    "title": "Pan-Seared Pilaf with Mushroom Duxelles",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "mushroom",
+      "pilaf"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
