@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-earthy-spanish-mackerel-ensaimada--thai",
+  "title": "Thai-Style Mackerel Cakes",
+  "description": "A fusion of Thai flavors with a crispy Spanish twist, using succulent mackerel. Serve as a snack or light meal.",
+  "cuisine": "thai",
+  "diet": [
+    "fish"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mackerel",
+      "amount": "1 lb",
+      "notes": "sushi-grade"
+    },
+    {
+      "name": "ensaimada",
+      "amount": "1/2 cup, crushed",
+      "notes": "Spanish pastry, adds a unique texture"
+    },
+    {
+      "name": "kissed",
+      "amount": "2 tbsp",
+      "notes": "olive oil, for frying"
+    },
+    {
+      "name": "earthy",
+      "amount": "2 cloves, minced",
+      "notes": "garlic, adds depth to the dish"
+    },
+    {
+      "name": "spanish",
+      "amount": "1 tsp",
+      "notes": "paprika, adds smokiness"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": "Thai condiment, salty and umami"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": "fresh herbs, adds freshness"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Drain the mackerel and flake it into a mixing bowl.",
+    "2. Add the crushed ensaimada, earthy (garlic), spanish (paprika), fish sauce, and salt to the bowl.",
+    "3. Mix well until everything is fully incorporated.",
+    "4. Using your hands, shape the mixture into patties.",
+    "5. Heat the kissed (olive oil) in a non-stick pan over medium heat.",
+    "6. Add the patties and cook for 3-4 minutes on each side, until crispy and cooked through.",
+    "7. Serve the mackerel cakes hot with a side of chopped cilantro and a drizzle of fish sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spanish",
+    "fish",
+    "mackerel",
+    "cakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-earthy-spanish-mackerel-ensaimada--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:45:22.152Z"
+}
