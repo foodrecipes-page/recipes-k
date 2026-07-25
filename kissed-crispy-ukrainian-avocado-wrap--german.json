@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-crispy-ukrainian-avocado-wrap--german",
+  "title": "German-Style Crispy Wrap",
+  "description": "A crispy Ukrainian-style wrap filled with kissed avocado, inspired by traditional German flavors.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian-style wrap",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sour cream",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a pan over medium heat.",
+    "Cook the crispy fried onions until golden brown, set aside.",
+    "Cut the Ukrainian-style wrap in half, toast in the pan until crispy.",
+    "Mash the avocado in a bowl and season with salt.",
+    "Assemble the wrap by spreading the mashed avocado on the toasted wrap.",
+    "Top with cooked crispy fried onions and a dollop of sour cream.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "snack",
+    "veggie",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-ukrainian-avocado-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:11:28.109Z"
+}
