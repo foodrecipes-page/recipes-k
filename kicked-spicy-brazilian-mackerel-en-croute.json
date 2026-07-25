@@ -1,0 +1,75 @@
+{
+  "slug": "kicked-spicy-brazilian-mackerel-en-croute",
+  "title": "Spicy Brazilian Mackerel Cakes",
+  "description": "A flavorful dish from Brazil, these mackerel cakes are packed with spices and served with a crunchy croute topping.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mackerel fillets",
+      "amount": "1 pound, flaked"
+    },
+    {
+      "name": "Croute",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brazilian spice blend",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Kicked chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "En crème fraîche",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, mix together the flaked mackerel, croute, spicy sauce, Brazilian spice blend, kicked chili powder, salt, and black pepper.",
+    "Stir in the crème fraîche and lime juice until well combined.",
+    "Using your hands, shape the mixture into 4-6 patties.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the patties to the skillet and cook for 3-4 minutes on each side, until golden brown and cooked through.",
+    "Serve the mackerel cakes hot with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mackerel",
+    "brazilian",
+    "seafood",
+    "cakes"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-brazilian-mackerel-en-croute",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:44:10.502Z"
+}
