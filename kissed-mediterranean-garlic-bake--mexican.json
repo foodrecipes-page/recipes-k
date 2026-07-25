@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-mediterranean-garlic-bake--mexican",
+  "title": "Mexican Garlic Kissed Baked Chicken",
+  "description": "A flavorful Mexican dish made with garlic kissed chicken, inspired by the Mediterranean flavors.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "used for baking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "used to season"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "used to season"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp",
+      "notes": "used to add flavor"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "used to add flavor"
+    },
+    {
+      "name": "bake",
+      "amount": "preheated oven at 400°F",
+      "notes": "used to cook the chicken"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with salt, pepper, oregano, and cumin.",
+    "Heat the olive oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breasts for 2-3 minutes on each side.",
+    "Transfer the skillet to the preheated oven.",
+    "Bake the chicken for 15-20 minutes or until cooked through.",
+    "Let the chicken rest for 5 minutes before serving.",
+    "Garnish with minced garlic and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "garlic",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-mediterranean-garlic-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:48:04.613Z"
+}
