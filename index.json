@@ -11226,16 +11226,16 @@
   },
   {
     "slug": "kissed-tangy-russian-duck-confit",
-    "title": "Pan-Seared Duck Confit with Russian Kissed Sauce",
+    "title": "Duck Confit with Russian Twist",
     "tags": [
-      "dinner",
+      "french",
+      "russian",
       "duck",
       "confit",
-      "sauce",
-      "russian"
+      "kissed"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 35,
+    "cuisine": "French-Russian",
+    "totalTimeMin": 175,
     "shard": "k"
   },
   {
@@ -17820,6 +17820,18 @@
     ],
     "cuisine": "Tunisian",
     "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kneadable-corn-comfort--gluten-free",
+    "title": "Gluten-Free Cornbread",
+    "tags": [
+      "corn",
+      "comfort-food",
+      "gluten-free"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
