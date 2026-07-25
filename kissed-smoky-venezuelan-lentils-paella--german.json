@@ -1,0 +1,89 @@
+{
+  "slug": "kissed-smoky-venezuelan-lentils-paella--german",
+  "title": "Smoky Lentil Paella",
+  "description": "A hearty German-inspired take on the classic Spanish dish, featuring smoky lentils and a variety of spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "any color"
+    },
+    {
+      "name": "smoky rice",
+      "amount": "1 cup",
+      "notes": "pre-cooked"
+    },
+    {
+      "name": "kissed sausage",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "venezuelan spices",
+      "amount": "1 tsp",
+      "notes": "smoked paprika, cumin, etc."
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped red bell pepper and cook for 3 minutes.",
+    "Add the lentils, smoky rice, kissed sausage (if using), tomato paste, and venezuelan spices.",
+    "Stir to combine, then add 2 cups of water.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Fluff with a fork and serve hot.",
+    "Optional: serve with a side of sauerkraut or braised red cabbage."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "paella",
+    "german",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-venezuelan-lentils-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:09:48.842Z"
+}
