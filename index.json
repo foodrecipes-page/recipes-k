@@ -17796,5 +17796,30 @@
     "cuisine": "Mexican",
     "totalTimeMin": 30,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-pillowy-indian-lamb-biryani--japanese",
+    "title": "Lamb and Biryani Japanese-Style Kabobs",
+    "tags": [
+      "japanese",
+      "indian",
+      "grilled",
+      "kabobs"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-tunisian-soybean-wrap--keto",
+    "title": "Tunisian Keto Wrap",
+    "tags": [
+      "keto",
+      "wrap",
+      "tunisian"
+    ],
+    "cuisine": "Tunisian",
+    "totalTimeMin": 20,
+    "shard": "k"
   }
 ]
