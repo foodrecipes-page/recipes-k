@@ -17965,5 +17965,56 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-brazilian-chicken-stew--german",
+    "title": "German Chicken Stew",
+    "tags": [
+      "german",
+      "chicken",
+      "stew"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-whisk-russian-chilli-borscht--thai",
+    "title": "Spicy Borscht Soup",
+    "tags": [
+      "spicy",
+      "soup",
+      "vegetarian",
+      "thaifood"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "ketogem-steak-tartare--italian",
+    "title": "Italian Steak Tartare",
+    "tags": [
+      "italian",
+      "steak",
+      "tartare"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 20,
+    "shard": "k"
+  },
+  {
+    "slug": "kitchen-fresh-kenyan-beef-skewers--chinese",
+    "title": "Kenyan Beef Satay",
+    "tags": [
+      "chinese",
+      "beef",
+      "kenyan",
+      "skewers",
+      "grill"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 36,
+    "shard": "k"
   }
 ]
