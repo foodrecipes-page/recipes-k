@@ -1,0 +1,65 @@
+{
+  "slug": "kissed-creamy-polish-mushroom-pasta",
+  "title": "Creamy Polish Mushroom Pasta",
+  "description": "A simple and delicious pasta dish made with sautéed mushrooms and a creamy polish sauce.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "fettuccine or linguine"
+    },
+    {
+      "name": "polish",
+      "amount": "1/4 cup",
+      "notes": "sour cream or polish sausage"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "creamy",
+      "amount": "2 tbsp",
+      "notes": "butter or heavy cream"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions.",
+    "In a large skillet, sauté the mushrooms in butter until tender.",
+    "Add the polish sausage and cook until browned.",
+    "Stir in the sour cream and black pepper.",
+    "Combine the cooked pasta and mushroom mixture.",
+    "Season with salt and served immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "mushroom",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-polish-mushroom-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:01:37.588Z"
+}
