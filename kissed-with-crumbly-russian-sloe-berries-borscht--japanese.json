@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-with-crumbly-russian-sloe-berries-borscht--japanese",
+  "title": "Russian Borscht Berry Crumble",
+  "description": "A twist on the classic Russian beet borscht, this Japanese-inspired dessert combines sweet and tangy flavors with a crumbly topping.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "berries",
+      "amount": "2 cups",
+      "notes": "any variety"
+    },
+    {
+      "name": "sloe",
+      "amount": "1 cup",
+      "notes": "or substitute with other sweet berries"
+    },
+    {
+      "name": "borscht",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": "oats or cookie crumbs"
+    },
+    {
+      "name": "russian",
+      "amount": "1 tsp",
+      "notes": "vanilla extract"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "honey"
+    },
+    {
+      "name": "with",
+      "amount": "1/4 tsp",
+      "notes": "salt"
+    },
+    {
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, mix together berries, borscht, kissed, with, and russian.",
+    "Transfer the mixture to a 9x9-inch baking dish.",
+    "In a separate bowl, combine crumbly, flour, and a pinch of salt.",
+    "Add the crumb topping to the baking dish and even out.",
+    "Bake for 35-40 minutes or until the topping is golden brown.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "japanese-cuisine",
+    "berry-crisp",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-crumbly-russian-sloe-berries-borscht--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:29:42.622Z"
+}
