@@ -1,0 +1,85 @@
+{
+  "slug": "kosher-creamy-german-chicken-noodles--vegan",
+  "title": "Creamy Vegan German Noodle Soup",
+  "description": "A comforting and creamy noodle soup inspired by German cuisine, made with vegan ingredients.",
+  "cuisine": "german",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "noodles",
+      "amount": "250g"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "250g",
+      "notes": "sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "non-dairy milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "soy sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cook the noodles according to the package instructions.",
+    "In a large pot, sauté the onion, mushrooms, and celery in vegan butter until softened.",
+    "Add the chicken broth and non-dairy milk, and bring to a simmer.",
+    "Add the cooked noodles and soy sour cream, and stir to combine.",
+    "Season with sea salt to taste.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "german",
+    "soup",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kosher-creamy-german-chicken-noodles--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:50:01.748Z"
+}
