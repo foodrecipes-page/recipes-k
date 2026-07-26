@@ -1141,17 +1141,16 @@
   },
   {
     "slug": "kicked-crunchy-ukrainian-chicken-wrap",
-    "title": "Kicked Crunchy Ukrainian Chicken Wrap",
+    "title": "Crunchy Ukrainian Chicken Wrap",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "ukrainian-cuisine",
-      "weeknight"
+      "ukrainian",
+      "chicken",
+      "wrap",
+      "snack",
+      "easy"
     ],
     "cuisine": "Ukrainian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -8157,16 +8156,14 @@
   },
   {
     "slug": "kissed-midnight-craving-vietnamese-bread-nem-nuong",
-    "title": "Kissed Midnight Craving Vietnamese Bread Nem Nuong",
+    "title": "Vietnamese Nem Nuong",
     "tags": [
-      "bread",
-      "break-fast",
-      "midnight-craving",
-      "temple-friendly",
-      "vietnamese"
+      "vietnamese",
+      "grilled-pork",
+      "street-food"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -18179,6 +18176,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 55,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-creamy-argentinian-chinese-long-beans-gratin--keto",
+    "title": "Argentinian Kissed Creamy Gratin",
+    "tags": [
+      "argentinian",
+      "keto",
+      "gratin"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 45,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-buttery-chinese-cox-apple-wonton-soup--french",
+    "title": "Buttery Cox Apple Soup",
+    "tags": [
+      "soup",
+      "fall",
+      "winter",
+      "apples",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
