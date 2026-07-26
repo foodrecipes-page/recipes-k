@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-with-heat-middle-eastern-lamb-fried--vegan",
+  "title": "Vegan Middle Eastern Fried Cauliflower",
+  "description": "A crispy and flavorful vegan dish inspired by Middle Eastern cuisine, made with cauliflower and spices.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Cut the cauliflower into florets and set aside.",
+    "2. In a shallow dish, mix together the flour, cornstarch, garlic powder, paprika, and salt.",
+    "3. Pour the lemon juice into a separate shallow dish.",
+    "4. Dip each cauliflower floret into the lemon juice, then coat in the flour mixture, shaking off excess.",
+    "5. Heat about 1/2 inch of olive oil in a large skillet over medium-high heat.",
+    "6. Fry the cauliflower in batches until golden brown, about 3-4 minutes per batch.",
+    "7. Remove the fried cauliflower from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "middle-eastern",
+    "cauliflower",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-heat-middle-eastern-lamb-fried--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:13:13.271Z"
+}
