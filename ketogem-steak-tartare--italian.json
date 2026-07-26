@@ -1,0 +1,49 @@
+{
+  "slug": "ketogem-steak-tartare--italian",
+  "title": "Italian Steak Tartare",
+  "description": "A classic Italian dish made with freshly ground steak, perfect for a dinner or snack.",
+  "cuisine": "italian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "300g",
+      "notes": ""
+    },
+    {
+      "name": "tartare",
+      "amount": "2g",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Grind the steak in a meat grinder or food processor until it reaches a coarse texture.",
+    "Transfer the ground steak to a bowl and mix in the tartare to taste.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, season the steak tartare with salt and pepper to taste.",
+    "Serve immediately, garnished with fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "steak",
+    "tartare"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ketogem-steak-tartare--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:55:46.771Z"
+}
