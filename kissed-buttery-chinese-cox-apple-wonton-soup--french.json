@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-buttery-chinese-cox-apple-wonton-soup--french",
+  "title": "Buttery Cox Apple Soup",
+  "description": "A simple French-inspired soup blending the sweetness of cox apples and buttery goodness.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cox apples",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "kissed onions",
+      "amount": "1 medium",
+      "notes": "caramelize until golden brown"
+    },
+    {
+      "name": "chinese five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Melt butter in a large pot over medium heat.",
+    "Add kissed onions and cook until caramelized, stirring occasionally.",
+    "Add cox apples and cook until tender, about 10 minutes.",
+    "Stir in chinese five-spice powder.",
+    "Using an immersion blender, puree the soup until smooth.",
+    "Return pot to heat and simmer for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "soup",
+    "fall",
+    "winter",
+    "apples",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-buttery-chinese-cox-apple-wonton-soup--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:23:08.390Z"
+}
