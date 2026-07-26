@@ -1,0 +1,76 @@
+{
+  "slug": "keto-kicked-kenyan-fatty-food-bake--french",
+  "title": "Baked Fatty French Chicken",
+  "description": "A keto-friendly French dish with a crispy exterior and juicy interior, made with a mixture of fatty and kicked ingredients.",
+  "cuisine": "french",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "2 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "kicked ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "kenyan sea salt",
+      "amount": "1 tsp",
+      "notes": "coarse grind"
+    },
+    {
+      "name": "fatty bacon",
+      "amount": "4 slices",
+      "notes": "thick-cut"
+    },
+    {
+      "name": "food-grade thyme",
+      "amount": "1 tsp",
+      "notes": "dried, crushed"
+    },
+    {
+      "name": "keto-friendly cheese",
+      "amount": "1/4 cup",
+      "notes": "grated, low-carb"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the chicken breasts and pat them dry with paper towels.",
+    "Season the chicken with kenyan sea salt and crushed thyme.",
+    "Heat the kicked ghee in a skillet over medium-high heat.",
+    "Sear the chicken breasts for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until cooked through.",
+    "Meanwhile, cook the fatty bacon in a separate skillet until crispy.",
+    "Remove the bacon from the skillet and set aside.",
+    "Once the chicken is done, remove it from the oven and top each breast with a slice of keto-friendly cheese.",
+    "Return the skillet to the oven and bake for an additional 2-3 minutes, or until the cheese is melted and bubbly.",
+    "Serve the chicken breasts with the crispy bacon and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "keto",
+    "chicken",
+    "baked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 4,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-kicked-kenyan-fatty-food-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:00:41.967Z"
+}
