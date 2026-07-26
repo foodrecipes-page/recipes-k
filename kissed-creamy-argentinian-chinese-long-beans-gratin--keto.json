@@ -1,0 +1,75 @@
+{
+  "slug": "kissed-creamy-argentinian-chinese-long-beans-gratin--keto",
+  "title": "Argentinian Kissed Creamy Gratin",
+  "description": "A keto twist on a classic gratin, combining the flavors of Argentinian cuisine with a creamy texture.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kissed argentinian cheese",
+      "amount": "250g",
+      "notes": "such as provolone or parmesan"
+    },
+    {
+      "name": "long beans",
+      "amount": "500g",
+      "notes": "such as green beans or haricot vert"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "such as panko breadcrumbs or grated cheese"
+    },
+    {
+      "name": "chinese oil",
+      "amount": "2 tbsp",
+      "notes": "or any neutral-tasting oil"
+    },
+    {
+      "name": "creamy sauce",
+      "amount": "1 cup",
+      "notes": "such as heavy cream or sour cream"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Slice the long beans into 1-inch pieces.",
+    "In a large skillet, heat the chinese oil over medium-high heat.",
+    "Add the long beans and cook until tender, about 5 minutes.",
+    "In a separate saucepan, heat the creamy sauce over low heat.",
+    "Stir in the kissed argentinian cheese until melted and smooth.",
+    "In a greased 9x13-inch baking dish, create a layer of the cooked long beans.",
+    "Pour half of the cheesy creamy sauce over the beans.",
+    "Repeat the layers, finishing with the remaining sauce.",
+    "Sprinkle the gratin over the top and bake for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "keto",
+    "gratin"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 29,
+    "carbs": 10,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-argentinian-chinese-long-beans-gratin--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:26:10.489Z"
+}
