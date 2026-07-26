@@ -1,0 +1,75 @@
+{
+  "slug": "kicked-crunchy-ukrainian-chicken-wrap",
+  "title": "Crunchy Ukrainian Chicken Wrap",
+  "description": "A delicious and easy-to-make Ukrainian-inspired wrap filled with crispy chicken, crunchy vegetables, and a tangy sauce. Perfect for a quick snack or meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "kicked wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "crunchy",
+      "amount": "1 cup",
+      "notes": "diced carrots and celery"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "1",
+      "notes": "sauerkraut, drained and rinsed"
+    },
+    {
+      "name": "chicken seasoning",
+      "amount": "1 teaspoon",
+      "notes": "mixed herbs and spices"
+    },
+    {
+      "name": "vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "apple cider vinegar and olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium-high heat.",
+    "Add the chicken breast to the skillet and cook for 5-6 minutes per side, or until cooked through.",
+    "Let the chicken rest for a few minutes before slicing it thinly.",
+    "In a large bowl, combine the sauerkraut, diced carrots and celery, and sliced chicken.",
+    "In a small bowl, whisk together the vinaigrette and chicken seasoning.",
+    "Pour the dressing over the chicken mixture and toss to coat.",
+    "Warm the large flour tortilla in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spooning the chicken mixture onto the tortilla and serving immediately.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "ukrainian",
+    "chicken",
+    "wrap",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crunchy-ukrainian-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:32:19.521Z"
+}
