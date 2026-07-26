@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-velvety-brazilian-chicken-stew--german",
+  "title": "German Chicken Stew",
+  "description": "A hearty and comforting German-inspired chicken stew with tender chicken and vegetables. Serve with a side of crusty bread or over egg noodles.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast or thighs",
+      "notes": ""
+    },
+    {
+      "name": "velvety",
+      "amount": "2 tablespoons butter",
+      "notes": ""
+    },
+    {
+      "name": "kissed",
+      "amount": "1 large onion, chopped",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 cup all-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups beef broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large Dutch oven over medium-high heat.",
+    "Add chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Remove chicken from pot and set aside.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add flour and cook for 1 minute.",
+    "Gradually add beef broth, whisking constantly.",
+    "Return chicken to pot and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until chicken is cooked through.",
+    "Serve hot, garnished with chopped fresh parsley, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-brazilian-chicken-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:28:11.654Z"
+}
