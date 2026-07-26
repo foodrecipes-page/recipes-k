@@ -1,0 +1,81 @@
+{
+  "slug": "kissed-creamy-venezuelan-plantain-wrap--mexican",
+  "title": "Venezuelan Plantain Wrap",
+  "description": "A delicious Mexican-inspired wrap filled with fried plantains, a creamy sauce, and a sprinkle of cheese. This dish is perfect for a quick snack or light meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Plantain",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "large flour tortilla"
+    },
+    {
+      "name": "Creamy sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Shredded cheese",
+      "amount": "1/4 cup",
+      "notes": "Monterey Jack or Cheddar"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat.",
+    "Slice the plantains into 1-inch rounds and add to the skillet.",
+    "Fry the plantains for 2-3 minutes on each side, until golden brown.",
+    "Transfer the fried plantains to a paper towel-lined plate to drain excess oil.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Spread the creamy sauce down the center of the wrap.",
+    "Add the fried plantains on top of the sauce.",
+    "Sprinkle shredded cheese and salsa (if using) over the plantains.",
+    "Fold the bottom half of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegan",
+    "plantain",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-creamy-venezuelan-plantain-wrap--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:59:40.888Z"
+}
