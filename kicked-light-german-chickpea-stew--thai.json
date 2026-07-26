@@ -1,0 +1,91 @@
+{
+  "slug": "kicked-light-german-chickpea-stew--thai",
+  "title": "Thai Chicken Stew",
+  "description": "A delicious and easy-to-make Thai chicken stew with a flavorful broth and tender chicken. Serve with steamed rice or noodles for a complete meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into bite-sized pieces",
+      "notes": ""
+    },
+    {
+      "name": "kicked",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "german",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "chickpea",
+      "amount": "1 can, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "light",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5-7 minutes.",
+    "Add Thai red chilies, onion, and garlic. Cook until onion is translucent.",
+    "Add stew, fish sauce, sugar, and chili flakes. Stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer for 10-15 minutes.",
+    "Add chickpeas and cook for an additional 5 minutes.",
+    "Season with lime juice and serve hot.",
+    "Garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "chickenstew",
+    "spicyfood",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-light-german-chickpea-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T07:54:50.027Z"
+}
