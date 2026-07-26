@@ -1,0 +1,67 @@
+{
+  "slug": "kissed-grassy-korean-hummus-skewers--thai",
+  "title": "Thai Grilled Skewers with Hummus",
+  "description": "A tasty and refreshing Thai-inspired dish featuring grilled skewers paired with a creamy hummus sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "grassy",
+      "amount": "2 cups",
+      "notes": " Mixed greens such as Thai basil or cilantro"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 cup",
+      "notes": " Cherry Tomatoes"
+    },
+    {
+      "name": "korean",
+      "amount": "1 cup",
+      "notes": " Kimchi, diced"
+    },
+    {
+      "name": "hummus",
+      "amount": "1/2 cup",
+      "notes": " Store-bought or homemade"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": " Soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread grassy, kissed, and korean ingredients onto skewers, leaving a small space between each piece.",
+    "3. Brush the skewers with oil and season with salt and pepper.",
+    "4. Grill the skewers for 8-10 minutes, turning occasionally, until the vegetables are tender.",
+    "5. Meanwhile, mix hummus with a squeeze of lime juice and a sprinkle of cilantro.",
+    "6. Serve the grilled skewers with hummus sauce for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thai",
+    "veggie",
+    "grilled",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-grassy-korean-hummus-skewers--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T13:51:29.805Z"
+}
