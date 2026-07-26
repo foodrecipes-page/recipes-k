@@ -1,0 +1,86 @@
+{
+  "slug": "kitchen-fresh-kenyan-beef-skewers--chinese",
+  "title": "Kenyan Beef Satay",
+  "description": "Classic Chinese satay dish using Kenyan beef skewers, perfect for a quick dinner or appetizer.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan beef skewers",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch slices"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together chili flakes, lime juice, coconut oil, ginger, brown sugar, soy sauce, salt, and pepper.",
+    "Add the sliced Kenyan beef and marinate for at least 30 minutes.",
+    "Thread the marinated beef onto skewers.",
+    "Grill the beef skewers for 8-10 minutes per side, or until cooked to desired doneness.",
+    "Brush with additional coconut oil during the last 2 minutes of grilling.",
+    "Serve hot with chopped cilantro and additional chili flakes if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "kenyan",
+    "skewers",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kitchen-fresh-kenyan-beef-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:11:30.124Z"
+}
