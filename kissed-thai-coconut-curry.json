@@ -1,0 +1,94 @@
+{
+  "slug": "kissed-thai-coconut-curry",
+  "title": "Thai Coconut Curry",
+  "description": "A creamy and spicy Thai-inspired curry made with coconut milk, kissed chicken, and a blend of aromatic spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "kissed for flavor"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add chicken and cook until browned.",
+    "Add curry paste and cook for 1 minute.",
+    "Pour in coconut milk and chicken broth.",
+    "Bring to a simmer and cook for 10 minutes.",
+    "Stir in fish sauce, sugar, and lemon juice.",
+    "Add bell peppers and Thai basil.",
+    "Cook for an additional 5 minutes.",
+    "Serve hot over rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "curry",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-thai-coconut-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T14:17:23.010Z"
+}
