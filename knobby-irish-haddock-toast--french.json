@@ -1,0 +1,70 @@
+{
+  "slug": "knobby-irish-haddock-toast--french",
+  "title": "Pan-Seared Haddock à la Française",
+  "description": "A classic French-inspired dish featuring pan-seared haddock served with a crispy crust and a side of toasted bread.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4 fillets",
+      "notes": ""
+    },
+    {
+      "name": "irish butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "knobby shallots",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "toast",
+      "amount": "4 slices",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the haddock fillets with salt and pepper.",
+    "Heat the butter in an oven-safe skillet over medium-high heat.",
+    "Sear the haddock fillets for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until cooked through.",
+    "Meanwhile, toast the bread slices until crispy.",
+    "Serve the haddock fillets with the toasted bread and a sprinkle of chopped shallots."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "haddock",
+    "seafood",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knobby-irish-haddock-toast--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T16:07:08.081Z"
+}
