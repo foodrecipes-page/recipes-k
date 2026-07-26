@@ -12098,15 +12098,14 @@
   },
   {
     "slug": "kissed-with-chocolate-french-beef-pot-au-feu",
-    "title": "Kissed with Chocolate French Beef Pot-au-Feu",
+    "title": "French Beef au Feu",
     "tags": [
+      "french",
       "beef",
-      "chocolate",
-      "comfort-food",
-      "special-occasion"
+      "stew"
     ],
     "cuisine": "French",
-    "totalTimeMin": 280,
+    "totalTimeMin": 170,
     "shard": "k"
   },
   {
@@ -18077,6 +18076,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kosher-creamy-german-chicken-noodles--vegan",
+    "title": "Creamy Vegan German Noodle Soup",
+    "tags": [
+      "vegan",
+      "german",
+      "soup",
+      "noodles"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
