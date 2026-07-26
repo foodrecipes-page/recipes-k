@@ -18016,5 +18016,44 @@
     "cuisine": "chinese",
     "totalTimeMin": 36,
     "shard": "k"
+  },
+  {
+    "slug": "kicked-light-german-chickpea-stew--thai",
+    "title": "Thai Chicken Stew",
+    "tags": [
+      "thaicuisine",
+      "chickenstew",
+      "spicyfood",
+      "easyrecipe"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-irish-quinoa-pilaf--indian",
+    "title": "Indian-Style Quinoa Pilaf with Irish Kissed Potatoes",
+    "tags": [
+      "indian",
+      "quinoa",
+      "pilaf",
+      "veggie"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-floral-indian-lentils-tagine--indian",
+    "title": "Floral and Lentil Tagine",
+    "tags": [
+      "indian",
+      "lentil",
+      "vegetarian",
+      "tagine"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "k"
   }
 ]
