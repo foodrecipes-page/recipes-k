@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-french-oatmeal-canele",
+  "title": "French Kissed Canele",
+  "description": "A delicious French-inspired dessert with a sweet kiss of vanilla, featuring a rich canele pastry.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Oatmeal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "French kiss (unsalted butter, sugar, eggs)",
+      "amount": "1/2 cup (1/4 cup butter, 1/4 cup sugar, 1 egg)"
+    },
+    {
+      "name": "Canele",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425°F (220°C).",
+    "In a large bowl, cream together butter and sugar until light and fluffy.",
+    "Beat in the egg until well combined.",
+    "In a separate bowl, whisk together oatmeal, salt, and vanilla extract.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Wrap the dough in plastic wrap and refrigerate for at least 30 minutes.",
+    "On a lightly floured surface, roll out the dough to about 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place the dough circles on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Allow the canele to cool completely on a wire rack.",
+    "Dust with confectioners' sugar and serve.",
+    "Optional: Drizzle with milk for an extra touch of sweetness."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "canele",
+    "oatmeal"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-french-oatmeal-canele",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:38:17.628Z"
+}
