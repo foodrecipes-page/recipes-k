@@ -1,0 +1,84 @@
+{
+  "slug": "kissed-charred-mediterranean-bean-tagine--keto",
+  "title": "Keto Charred Mediterranean Chicken",
+  "description": "A flavorful and healthy keto dish featuring charred chicken, kissed with Mediterranean spices, served with a side of bean-free salad.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with salt, pepper, garlic powder, and dried oregano.",
+    "Drizzle olive oil over the chicken and rub it in.",
+    "Place the chicken in the oven and roast for 20-25 minutes, or until cooked through.",
+    "While the chicken is cooking, mix the mixed greens in a bowl.",
+    "Squeeze lemon juice over the greens and toss to combine.",
+    "Once the chicken is done, let it rest for a few minutes before slicing.",
+    "Serve the sliced chicken on top of the mixed greens salad.",
+    "Enjoy your keto charred Mediterranean chicken!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "mediterranean",
+    "chicken",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 40,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-charred-mediterranean-bean-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:14:24.093Z"
+}
