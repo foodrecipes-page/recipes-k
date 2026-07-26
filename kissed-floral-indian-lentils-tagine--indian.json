@@ -1,0 +1,82 @@
+{
+  "slug": "kissed-floral-indian-lentils-tagine--indian",
+  "title": "Floral and Lentil Tagine",
+  "description": "A traditional Indian-inspired dish made with lentils and spices, slow-cooked in a flavorful tagine sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kissed lentils",
+      "amount": "1 cup",
+      "notes": "Red or yellow lentils work well"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "Use a blend or make your own with cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "Floral oil",
+      "amount": "2 tbsp",
+      "notes": "Use olive or avocado oil for best flavor"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped or thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Mince for best flavor"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated or minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "Use vegetable or chicken broth for added flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and ginger; cook for 1 minute.",
+    "Add spices and cook for 1 minute, stirring constantly.",
+    "Add lentils, salt, and water; bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until lentils are tender.",
+    "Stir occasionally to prevent burning.",
+    "Serve hot, garnished with fresh cilantro or scallions, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentil",
+    "vegetarian",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-floral-indian-lentils-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:26:45.145Z"
+}
