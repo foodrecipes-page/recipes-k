@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-midnight-craving-vietnamese-bread-nem-nuong",
+  "title": "Vietnamese Nem Nuong",
+  "description": "A popular Vietnamese dish featuring grilled pork patties served with rice and fresh herbs. Nem nuong is often served as a street food in Vietnam.",
+  "cuisine": "Vietnamese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground pork"
+    },
+    {
+      "name": "bread",
+      "amount": "1 loaf",
+      "notes": "Vietnamese bread or baguette"
+    },
+    {
+      "name": "nem",
+      "amount": "1 package",
+      "notes": "Vietnamese nem sauce"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 bunch",
+      "notes": "fresh cilantro"
+    },
+    {
+      "name": "midnight",
+      "amount": "1/4 cup",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "craving",
+      "amount": "2 tablespoons",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tablespoon",
+      "notes": "lime juice"
+    }
+  ],
+  "instructions": [
+    "Prepare the pork mixture by combining ground pork, fish sauce, grated ginger, and lime juice in a bowl.",
+    "Mix well until just combined. Be careful not to overmix.",
+    "Divide the pork mixture into small balls, about 1 1/2 inches in diameter.",
+    "Shape each ball into a patty.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Cook the patties for about 4-5 minutes per side, or until cooked through.",
+    "Meanwhile, toast the Vietnamese bread by grilling it for a few minutes or baking it in the oven.",
+    "Assemble the nem nuong by placing a cooked patty on a toasted bread, followed by a spoonful of nem sauce, some fresh cilantro, and a sprinkle of toasted peanuts.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "grilled-pork",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-midnight-craving-vietnamese-bread-nem-nuong",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T19:17:38.685Z"
+}
