@@ -18090,5 +18090,18 @@
     "cuisine": "german",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-grassy-korean-hummus-skewers--thai",
+    "title": "Thai Grilled Skewers with Hummus",
+    "tags": [
+      "thai",
+      "veggie",
+      "grilled",
+      "snack"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
