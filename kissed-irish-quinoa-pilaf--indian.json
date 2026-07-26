@@ -1,0 +1,87 @@
+{
+  "slug": "kissed-irish-quinoa-pilaf--indian",
+  "title": "Indian-Style Quinoa Pilaf with Irish Kissed Potatoes",
+  "description": "A flavorful and nutritious Indian-inspired dish made with quinoa, pilaf, and irish potatoes. Perfect for a quick weeknight dinner.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "irish potatoes",
+      "amount": "2 medium, kissed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add cumin powder, coriander powder, and salt; stir for 1 minute.",
+    "Add quinoa, pilaf, and kissed potatoes; stir to combine.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes or until quinoa and potatoes are cooked.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "quinoa",
+    "pilaf",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-irish-quinoa-pilaf--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T08:10:44.493Z"
+}
