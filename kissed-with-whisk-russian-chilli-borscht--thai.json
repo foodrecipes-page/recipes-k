@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-with-whisk-russian-chilli-borscht--thai",
+  "title": "Spicy Borscht Soup",
+  "description": "A Thai-inspired twist on the classic Russian beet soup, made with a kick of chilli. Perfect for a warming lunch.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Borscht",
+      "amount": "2 cups",
+      "notes": "beet-based soup"
+    },
+    {
+      "name": "Chilli",
+      "amount": "1-2 teaspoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Kissed",
+      "amount": "2 tablespoons",
+      "notes": "olive oil"
+    },
+    {
+      "name": "With",
+      "amount": "1 onion",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Whisk",
+      "amount": "2 teaspoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "Russian",
+      "amount": "1 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "for broth"
+    }
+  ],
+  "instructions": [
+    "Heat the kissed in a large pot over medium heat.",
+    "Add the with and cook until softened, about 5 minutes.",
+    "Add the whisk, borscht, chilli, and water. Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Stir in the russian and cook for an additional 5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spicy",
+    "soup",
+    "vegetarian",
+    "thaifood"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-whisk-russian-chilli-borscht--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T05:33:49.495Z"
+}
