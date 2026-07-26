@@ -1,0 +1,80 @@
+{
+  "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones--french",
+  "title": "Camarones a la Peruvienne",
+  "description": "A Peruvian-inspired French dish featuring succulent haddock and shrimp in a crispy batter.",
+  "cuisine": "french",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "camarones (shrimp)",
+      "amount": "1 pound",
+      "notes": "Large and peeled"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dredging"
+    },
+    {
+      "name": "beaten eggs",
+      "amount": "2",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "peruvian pepper",
+      "amount": "1 teaspoon",
+      "notes": "Dried and crushed"
+    },
+    {
+      "name": "kissed olive oil",
+      "amount": "1/4 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "chi-chi sauce",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. In a shallow dish, mix together flour, Peruvian pepper, and a pinch of salt.",
+    "3. Dredge the haddock and shrimp in the flour mixture, shaking off excess.",
+    "4. Dip the floured fish and shrimp in the beaten eggs, making sure they're fully coated.",
+    "5. Dredge the egg-coated fish and shrimp in the flour mixture again, pressing gently to adhere.",
+    "6. Carefully place the battered fish and shrimp in the hot oil.",
+    "7. Fry for 3-4 minutes or until golden brown and crispy.",
+    "8. Remove the fried fish and shrimp from the oil with a slotted spoon and place on a paper towel-lined plate to drain.",
+    "9. Serve the Camarones a la Peruvienne hot with a side of chi-chi sauce for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "peruvian",
+    "seafood",
+    "shrimp",
+    "haddock"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-crispy-peruvian-haddock-chupe-de-camarones--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T15:27:43.590Z"
+}
