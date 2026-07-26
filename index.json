@@ -18128,5 +18128,32 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-charred-mediterranean-bean-tagine--keto",
+    "title": "Keto Charred Mediterranean Chicken",
+    "tags": [
+      "keto",
+      "mediterranean",
+      "chicken",
+      "salad"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-crispy-peruvian-haddock-chupe-de-camarones--french",
+    "title": "Camarones a la Peruvienne",
+    "tags": [
+      "french",
+      "peruvian",
+      "seafood",
+      "shrimp",
+      "haddock"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
