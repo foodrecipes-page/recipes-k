@@ -11398,15 +11398,14 @@
   },
   {
     "slug": "kissed-thai-coconut-curry",
-    "title": "Kissed Thai Coconut Curry",
+    "title": "Thai Coconut Curry",
     "tags": [
-      "diabetic-friendly",
-      "one-pot",
-      "quick",
-      "thai-curry"
+      "coconut",
+      "curry",
+      "thai"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "k"
   },
   {
@@ -18101,6 +18100,32 @@
       "snack"
     ],
     "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "keto-kicked-kenyan-fatty-food-bake--french",
+    "title": "Baked Fatty French Chicken",
+    "tags": [
+      "french",
+      "keto",
+      "chicken",
+      "baked"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-heat-middle-eastern-lamb-fried--vegan",
+    "title": "Vegan Middle Eastern Fried Cauliflower",
+    "tags": [
+      "vegan",
+      "middle-eastern",
+      "cauliflower",
+      "fried"
+    ],
+    "cuisine": "Middle Eastern",
     "totalTimeMin": 25,
     "shard": "k"
   }
