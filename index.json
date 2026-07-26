@@ -17629,15 +17629,15 @@
   },
   {
     "slug": "kissed-ethiopian-herbal-hash--gluten-free",
-    "title": "Kissed Ethiopian Hash",
+    "title": "Herbal Hash with Kissed Scrambled Eggs",
     "tags": [
-      "gluten-free",
-      "ethiopian",
       "breakfast",
-      "hashbrowns"
+      "gluten-free",
+      "eggs",
+      "ethiopian"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -18154,6 +18154,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "knobby-irish-haddock-toast--french",
+    "title": "Pan-Seared Haddock à la Française",
+    "tags": [
+      "french",
+      "haddock",
+      "seafood",
+      "dinner"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 17,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-crumbly-russian-sloe-berries-borscht--japanese",
+    "title": "Russian Borscht Berry Crumble",
+    "tags": [
+      "japanese-cuisine",
+      "berry-crisp",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 55,
     "shard": "k"
   }
 ]
