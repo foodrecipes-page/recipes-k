@@ -1,0 +1,93 @@
+{
+  "slug": "kissed-yellow-greek-semolina-custard-galaktoboureko--french",
+  "title": "Greek Semolina Custard",
+  "description": "A French-inspired dessert inspired by the classic Greek galaktoboureko. This creamy semolina custard is a unique twist on the traditional recipe.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Semolina",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Custard",
+      "amount": "400ml",
+      "notes": ""
+    },
+    {
+      "name": "Greek yoghurt",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "5ml",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Kissed (honey)",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Yellow (lemon zest)",
+      "amount": "5g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Combine semolina, sugar, and a pinch of salt in a medium saucepan.",
+    "Gradually add in milk, whisking continuously to prevent lumps.",
+    "Cook over medium heat, stirring constantly, until the semolina thickens.",
+    "Remove from heat and stir in custard, Greek yoghurt, and melted butter.",
+    "Beat in eggs and vanilla extract.",
+    "Pour the mixture into individual serving cups or ramekins.",
+    "Place the cups in a baking dish and add hot water to come halfway up the sides.",
+    "Bake for 25-30 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Remove from the water bath and let cool to room temperature.",
+    "Chill in the refrigerator for at least 2 hours before serving.",
+    "Drizzle with kissed (honey) and sprinkle with yellow (lemon zest) just before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "french",
+    "semolina",
+    "custard"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-yellow-greek-semolina-custard-galaktoboureko--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:28:00.995Z"
+}
