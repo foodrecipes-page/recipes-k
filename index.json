@@ -4583,17 +4583,14 @@
   },
   {
     "slug": "kissed-creamy-polish-mushroom-pasta",
-    "title": "Kissed Creamy Polish Mushroom Pasta",
+    "title": "Creamy Polish Mushroom Pasta",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "mushroom-lovers",
-      "one-pot",
-      "romantic-dinner"
+      "italian",
+      "mushroom",
+      "pasta"
     ],
-    "cuisine": "Polish",
-    "totalTimeMin": 35,
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -18054,6 +18051,32 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-creamy-venezuelan-plantain-wrap--mexican",
+    "title": "Venezuelan Plantain Wrap",
+    "tags": [
+      "mexican",
+      "vegan",
+      "plantain",
+      "wrap"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-yellow-greek-semolina-custard-galaktoboureko--french",
+    "title": "Greek Semolina Custard",
+    "tags": [
+      "dessert",
+      "french",
+      "semolina",
+      "custard"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
     "shard": "k"
   }
 ]
