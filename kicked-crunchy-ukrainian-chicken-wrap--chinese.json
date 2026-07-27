@@ -1,0 +1,83 @@
+{
+  "slug": "kicked-crunchy-ukrainian-chicken-wrap--chinese",
+  "title": "Kicked Chicken Wrap",
+  "description": "A Chinese-inspired wrap filled with kicked-up chicken and crunchy slaw. Perfect for a quick lunch or dinner.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "kicked sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "crunchy slaw",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "ukrainian rye wrap",
+      "amount": "1",
+      "notes": "or similar flatbread"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a small bowl, whisk together kicked sauce and soy sauce (if using).",
+    "3. Brush the mixture on both sides of the chicken breast.",
+    "4. Grill the chicken for 5-6 minutes per side, or until cooked through.",
+    "5. Let the chicken rest for 5 minutes before slicing.",
+    "6. In a large bowl, combine crunchy slaw and chopped scallions.",
+    "7. Warm the Ukrainian rye wrap by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wrap by spreading a layer of slaw on the bottom half of the wrap, followed by sliced chicken, and finally topping with sesame seeds (if using).",
+    "9. Drizzle with honey (if using) and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "chicken",
+    "wrap",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 40,
+    "fat": 23
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crunchy-ukrainian-chicken-wrap--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T23:29:30.519Z"
+}
