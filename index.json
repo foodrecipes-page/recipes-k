@@ -18203,5 +18203,32 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "knockout-crunchy-canadian-hazelnut-pancakes--french",
+    "title": "French Hazelnut Pancakes",
+    "tags": [
+      "breakfast",
+      "french",
+      "pancakes",
+      "hazelnuts"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "k"
+  },
+  {
+    "slug": "keto-crispy-irish-trout-stir-fry--chinese",
+    "title": "Keto Irish Trout Stir Fry",
+    "tags": [
+      "keto",
+      "crispy",
+      "irish",
+      "trout",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
