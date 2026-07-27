@@ -1,37 +1,42 @@
 {
   "slug": "kissed-greek-honey-flatbread",
-  "title": "Honey Flatbread with Greek Honey",
-  "description": "A simple flatbread recipe topped with sweet Greek honey. Perfect as a quick snack or dessert.",
-  "cuisine": "greek",
+  "title": "Honey Flatbread with Greek Spread",
+  "description": "A sweet and savory flatbread topped with a delicious Greek spread made with honey.",
+  "cuisine": null,
   "diet": [
     "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
     {
-      "name": "flatbread",
-      "amount": "1 package (4-6 pieces)"
+      "name": "Flatbread",
+      "amount": "8-10 slices",
+      "notes": null
     },
     {
-      "name": "greek honey",
-      "amount": "2 tbsp"
+      "name": "Greek Honey",
+      "amount": "2 tbsp",
+      "notes": null
     },
     {
-      "name": "kissed honey",
-      "amount": "1 tsp"
+      "name": "Kissed Olive Oil",
+      "amount": "1 tbsp",
+      "notes": null
     },
     {
-      "name": "salt",
-      "amount": "to taste"
+      "name": "Feta Cheese",
+      "amount": "1/4 cup, crumbled",
+      "notes": null
     }
   ],
   "instructions": [
     "Preheat oven to 400°F (200°C).",
-    "Bake flatbread for 5-7 minutes or until crispy.",
-    "Remove flatbread from oven and let cool for 1 minute.",
-    "Drizzle Greek honey over flatbread.",
-    "Sprinkle kissed honey over the top of the flatbread.",
-    "Season with salt to taste."
+    "Brush flatbread with kissed olive oil.",
+    "Bake flatbread in the oven for 5-7 minutes, or until crispy.",
+    "In a small bowl, mix together Greek honey and feta cheese.",
+    "Once flatbread is done, remove from oven and let cool for a minute.",
+    "Spread the honey-feta mixture onto the flatbread.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 5,
   "cookTimeMin": 5,
@@ -39,19 +44,12 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "snack",
-    "dessert",
-    "greek",
-    "flatbread"
+    "honey",
+    "flatbread",
+    "greek"
   ],
-  "nutrition": {
-    "calories": 150,
-    "protein": 2,
-    "carbs": 30,
-    "fat": 3
-  },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/kissed-greek-honey-flatbread",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T04:12:21.296Z"
+  "createdAt": "2026-07-22T07:54:12.426Z"
 }
