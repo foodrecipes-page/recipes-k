@@ -1,0 +1,74 @@
+{
+  "slug": "kissed-dutch-corn-pancakes",
+  "title": "Dutch Pancake with Caramelized Corn",
+  "description": "A sweet and savory twist on traditional pancakes, featuring caramelized corn and a crispy Dutch-inspired crust.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "corn",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 400°F (200°C).",
+    "In a large bowl, whisk together the flour, eggs, milk, sugar, and melted butter.",
+    "Heat a 12-inch non-stick skillet or oven-safe pancake pan over medium heat.",
+    "Pour 1/4 cup of the batter into the skillet and tilt to evenly coat the bottom.",
+    "Cook for 2-3 minutes, until the edges start to curl and the surface is dry.",
+    "Loosen the pancake with a spatula and flip. Cook for an additional 1-2 minutes.",
+    "Repeat with the remaining batter.",
+    "In a separate pan, caramelize the corn over medium heat for 10-12 minutes.",
+    "Season with kosher salt to taste.",
+    "To assemble, place a pancake on a serving plate and top with caramelized corn.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "dutch",
+    "corn",
+    "pancakes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-dutch-corn-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:20:12.216Z"
+}
