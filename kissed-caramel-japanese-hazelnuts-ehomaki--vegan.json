@@ -1,0 +1,70 @@
+{
+  "slug": "kissed-caramel-japanese-hazelnuts-ehomaki--vegan",
+  "title": "Vegan Ehomaki Hazelnut Delight",
+  "description": "A Japanese-inspired dessert made with hazelnuts, caramel, and ehomaki. This vegan delight is perfect for any occasion.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ehomaki",
+      "amount": "4 sheets",
+      "notes": ""
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "caramel",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "kissed (dates)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cut each ehomaki sheet into 4 equal pieces.",
+    "In a food processor, grind the hazelnuts until coarsely chopped.",
+    "In a saucepan, melt the caramel over low heat.",
+    "Add the chopped hazelnuts to the melted caramel and stir until well combined.",
+    "Place a piece of ehomaki on a flat surface and spread a small amount of the hazelnut-caramel mixture onto it.",
+    "Place a kissed date on top of the mixture and fold the ehomaki to form a triangle.",
+    "Repeat the process with the remaining ehomaki and filling ingredients.",
+    "Place the rolls on a baking sheet lined with parchment paper.",
+    "Brush the tops with coconut oil and bake for 10-12 minutes or until golden brown.",
+    "Allow the rolls to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-caramel-japanese-hazelnuts-ehomaki--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:28:33.148Z"
+}
