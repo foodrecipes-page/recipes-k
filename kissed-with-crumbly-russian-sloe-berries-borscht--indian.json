@@ -1,0 +1,64 @@
+{
+  "slug": "kissed-with-crumbly-russian-sloe-berries-borscht--indian",
+  "title": "Sloe Berry Indian Borscht",
+  "description": "A fusion of traditional Indian and Russian flavors in a sweet and sour borscht. This unique dessert is made with sloe berries, giving it a rich and fruity taste.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sloe berries",
+      "amount": "1 cup"
+    },
+    {
+      "name": "crumbly",
+      "amount": "1/2 cup",
+      "notes": "shortbread or cookie crumbs"
+    },
+    {
+      "name": "with",
+      "amount": "1/4 cup",
+      "notes": "heavy cream or milk"
+    },
+    {
+      "name": "berries",
+      "amount": "1/2 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "borscht",
+      "amount": "2 cups",
+      "notes": "beet-based soup or juice"
+    }
+  ],
+  "instructions": [
+    "Combine sloe berries, crumbly, and berries in a bowl.",
+    "Add borscht and mix well.",
+    "Gradually add with to achieve desired consistency.",
+    "Refrigerate for at least 2 hours to allow flavors to meld.",
+    "Serve chilled, garnished with additional berries if desired.",
+    "Adjust sweetness or tartness to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "sloe-berries",
+    "indian-borscht",
+    "fusion-dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-with-crumbly-russian-sloe-berries-borscht--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:43:46.878Z"
+}
