@@ -18269,5 +18269,69 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-fatty-syrian-meat-wrap--thai",
+    "title": "Thai-Style Meat Wrap",
+    "tags": [
+      "thai",
+      "wrap",
+      "meat"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 27,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-whisk-russian-chilli-borscht--german",
+    "title": "German Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 125,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-with-crumbly-russian-sloe-berries-borscht--indian",
+    "title": "Sloe Berry Indian Borscht",
+    "tags": [
+      "sloe-berries",
+      "indian-borscht",
+      "fusion-dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-pungent-chinese-pandan-chow-fun--keto",
+    "title": "Chinese Pandan Fun Fritters",
+    "tags": [
+      "keto",
+      "snack",
+      "chinese",
+      "pandan",
+      "fritters"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kicked-spicy-thai-chicken-curry--italian",
+    "title": "Chicken and Spicy Thai Curry",
+    "tags": [
+      "italian",
+      "thai",
+      "curry",
+      "chicken",
+      "spicy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "k"
   }
 ]
