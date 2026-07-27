@@ -1,0 +1,76 @@
+{
+  "slug": "kicked-spicy-thai-chicken-curry--italian",
+  "title": "Chicken and Spicy Thai Curry",
+  "description": "A fusion twist on traditional Thai curry, with Italian flair. This dish combines the spiciness of Thai red curry paste with the creaminess of Italian coconut milk.",
+  "cuisine": "italian",
+  "diet": [
+    "pork-free",
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "skinless, boneless"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "kicked chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "spicy peanuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of olive oil in a large skillet over medium-high heat.",
+    "Add the chicken breast and cook until browned on all sides, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Thai red curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Add the coconut milk and stir to combine.",
+    "Return the chicken to the skillet and simmer until cooked through, about 5-7 minutes.",
+    "Stir in the chopped Thai basil and cook for an additional 1-2 minutes.",
+    "Serve hot, garnished with chopped spicy peanuts."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "thai",
+    "curry",
+    "chicken",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-thai-chicken-curry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:59:53.970Z"
+}
