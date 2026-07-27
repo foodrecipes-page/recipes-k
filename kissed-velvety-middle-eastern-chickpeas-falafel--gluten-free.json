@@ -1,0 +1,78 @@
+{
+  "slug": "kissed-velvety-middle-eastern-chickpeas-falafel--gluten-free",
+  "title": "Gluten-Free Middle Eastern Falafel Wrap",
+  "description": "A flavorful and healthy falafel wrap made with gluten-free ingredients, perfect for a quick lunch or snack.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Falafel",
+      "amount": "8-10 pieces"
+    },
+    {
+      "name": "Gluten-Free Pita Bread",
+      "amount": "2-3 pieces"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Middle Eastern Spice Mix",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Velvety Tahini Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Eastern Fresh Cucumber Slices",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Kalamata Olives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Eastern Fresh Feta Cheese (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the falafel according to package instructions.",
+    "3. Warm the gluten-free pita bread by wrapping it in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. In a small bowl, mix together the chickpeas, Middle Eastern Spice Mix, and a pinch of salt.",
+    "5. Spread a layer of velvety tahini sauce on each pita bread.",
+    "6. Add 2-3 falafel pieces on top of the tahini sauce.",
+    "7. Add a spoonful of the chickpea mix on top of the falafel.",
+    "8. Add a few slices of cucumber and a few kalamata olives on top.",
+    "9. If using feta cheese, crumble it on top.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "middle-eastern",
+    "falafel",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-velvety-middle-eastern-chickpeas-falafel--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T01:00:39.286Z"
+}
