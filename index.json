@@ -6905,14 +6905,13 @@
   },
   {
     "slug": "kissed-greek-honey-flatbread",
-    "title": "Honey Flatbread with Greek Honey",
+    "title": "Honey Flatbread with Greek Spread",
     "tags": [
-      "snack",
-      "dessert",
-      "greek",
-      "flatbread"
+      "honey",
+      "flatbread",
+      "greek"
     ],
-    "cuisine": "greek",
+    "cuisine": null,
     "totalTimeMin": 10,
     "shard": "k"
   },
@@ -18345,6 +18344,34 @@
     ],
     "cuisine": null,
     "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-springy-jamaican-celeriac-stew--french",
+    "title": "Celeriac Stew à la Française",
+    "tags": [
+      "celeriac",
+      "potatoes",
+      "jamaican-spices",
+      "stew",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-pillowy-indian-lamb-biryani--vegan",
+    "title": "Lamb Biryani Vegan Alternative",
+    "tags": [
+      "vegan",
+      "indian",
+      "lunch",
+      "rice",
+      "mushrooms"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
     "shard": "k"
   }
 ]
