@@ -1,0 +1,60 @@
+{
+  "slug": "kissed-fatty-syrian-meat-wrap--thai",
+  "title": "Thai-Style Meat Wrap",
+  "description": "A flavorful and spicy Thai-inspired wrap filled with marinated meat and crunchy vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fatty meat",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Kissed meat marinade",
+      "amount": "100ml",
+      "notes": "marinade ingredients: 2 tbsp fish sauce, 1 tbsp lime juice, 1 tsp brown sugar, 1 tsp grated ginger"
+    },
+    {
+      "name": "Syrian wrap",
+      "amount": "4-6 wraps",
+      "notes": ""
+    },
+    {
+      "name": "Vegetables",
+      "amount": "",
+      "notes": "lettuce, cucumber, carrots, cilantro"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Marinate the fatty meat for at least 30 minutes.",
+    "Grill the meat for 5-7 minutes per side, or until cooked to a safe internal temperature of 63°C (145°F).",
+    "Warm the Syrian wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the wraps by slicing the grilled meat, adding vegetables and your favorite Thai-inspired sauce.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "wrap",
+    "meat"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-fatty-syrian-meat-wrap--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:16:08.158Z"
+}
