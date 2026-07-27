@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-silky-norwegian-salmon-biryani--keto",
+  "title": "Pan-Seared Norwegian Salmon with Biryani Spices",
+  "description": "A flavorful, keto-friendly dish that combines the richness of salmon with the aromatic spices of biryani. Pan-searing the salmon ensures a crispy crust and a tender interior.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Salmon Fillet",
+      "amount": "4 (6 oz fillets)",
+      "notes": null
+    },
+    {
+      "name": "Ghee or Avocado Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Biryani Spices",
+      "amount": "1 teaspoon",
+      "notes": "Mix of cinnamon, cardamom, and cumin"
+    },
+    {
+      "name": "Kissed Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Silky Lettuce Leaves",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (optional)",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the salmon fillets with kissed salt and biryani spices.",
+    "Heat the ghee or avocado oil in an oven-safe skillet over medium-high heat.",
+    "Sear the salmon fillets for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, or until the salmon reaches an internal temperature of 145°F (63°C).",
+    "Remove the skillet from the oven and let the salmon rest for 2-3 minutes.",
+    "Serve the salmon with silky lettuce leaves and garnish with chopped cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "salmon",
+    "biryani",
+    "pan-seared"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 36,
+    "carbs": 0,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-norwegian-salmon-biryani--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T06:30:39.793Z"
+}
