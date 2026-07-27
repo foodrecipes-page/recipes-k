@@ -18333,5 +18333,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-silky-norwegian-salmon-biryani--keto",
+    "title": "Pan-Seared Norwegian Salmon with Biryani Spices",
+    "tags": [
+      "keto",
+      "salmon",
+      "biryani",
+      "pan-seared"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 22,
+    "shard": "k"
   }
 ]
