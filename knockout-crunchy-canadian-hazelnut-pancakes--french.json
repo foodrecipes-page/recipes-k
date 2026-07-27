@@ -1,0 +1,80 @@
+{
+  "slug": "knockout-crunchy-canadian-hazelnut-pancakes--french",
+  "title": "French Hazelnut Pancakes",
+  "description": "Fluffy French pancakes filled with hazelnut goodness, perfect for a delicious breakfast treat.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canadian hazelnuts",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Crunchy knockout",
+      "amount": "1/2 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Pancakes mix",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine pancakes mix, milk, egg, and honey in a bowl. Mix until smooth.",
+    "Heat a non-stick pan over medium heat.",
+    "Pour a small amount of batter into the pan and cook until bubbles appear.",
+    "Flip the pancake and cook for another minute.",
+    "Repeat with remaining batter, making 8-10 pancakes.",
+    "In a separate pan, toast the chopped hazelnuts over low heat until fragrant.",
+    "Sprinkle the crushed knockout over the pancakes.",
+    "Top the pancakes with toasted hazelnuts and a drizzle of honey.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "french",
+    "pancakes",
+    "hazelnuts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-crunchy-canadian-hazelnut-pancakes--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:50:40.584Z"
+}
