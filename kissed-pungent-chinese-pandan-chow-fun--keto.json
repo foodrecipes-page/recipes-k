@@ -1,0 +1,76 @@
+{
+  "slug": "kissed-pungent-chinese-pandan-chow-fun--keto",
+  "title": "Chinese Pandan Fun Fritters",
+  "description": "Crispy keto fritters infused with the unique flavor of pandan, served with a side of pungent aioli.",
+  "cuisine": "chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pandanus leaves",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "kissed coconut flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chow chow",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "fun gu",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pungent garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a blender or food processor, combine the pandan leaves, coconut flour, chow chow, fun gu, eggs, salt, and pungent garlic powder. Blend until a smooth batter forms.",
+    "Using a spoon, drop small amounts of the batter onto a baking sheet lined with parchment paper.",
+    "Bake for 12-15 minutes, or until the fritters are crispy and golden brown.",
+    "Serve warm with a side of pungent aioli, made by mixing pungent garlic powder with mayonnaise."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "snack",
+    "chinese",
+    "pandan",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-pungent-chinese-pandan-chow-fun--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:46:56.290Z"
+}
