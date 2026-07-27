@@ -18230,5 +18230,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kicked-crunchy-ukrainian-chicken-wrap--chinese",
+    "title": "Kicked Chicken Wrap",
+    "tags": [
+      "chinese",
+      "chicken",
+      "wrap",
+      "lunch",
+      "dinner"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "k"
   }
 ]
