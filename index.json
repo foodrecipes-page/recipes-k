@@ -18244,5 +18244,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 27,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-velvety-middle-eastern-chickpeas-falafel--gluten-free",
+    "title": "Gluten-Free Middle Eastern Falafel Wrap",
+    "tags": [
+      "gluten-free",
+      "middle-eastern",
+      "falafel",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "k"
   }
 ]
