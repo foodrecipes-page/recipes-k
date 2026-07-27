@@ -1,0 +1,91 @@
+{
+  "slug": "keto-crispy-irish-trout-stir-fry--chinese",
+  "title": "Keto Irish Trout Stir Fry",
+  "description": "A keto-friendly Chinese-inspired stir fry dish made with Irish trout, crispy vegetables, and a hint of Asian spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish Trout Fillets",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Vegetables (Bell Peppers, Carrots, Onions)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce (Low-Carb)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat 1 tablespoon of coconut oil in a large skillet over medium-high heat.",
+    "2. Add the trout fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "3. Remove the trout from the skillet and set aside.",
+    "4. Add the remaining 1 tablespoon of coconut oil to the skillet.",
+    "5. Add the crispy vegetables and cook for 3-4 minutes, or until tender.",
+    "6. Add the soy sauce, garlic, ginger, chili flakes, and sesame seeds to the skillet.",
+    "7. Stir-fry the vegetables for an additional 1-2 minutes, or until the sauce has thickened.",
+    "8. Return the trout to the skillet and stir to combine with the vegetables and sauce.",
+    "9. Serve the keto Irish trout stir fry hot, garnished with green onions and additional sesame seeds if desired.",
+    "10. Enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "crispy",
+    "irish",
+    "trout",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/keto-crispy-irish-trout-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:50:01.511Z"
+}
