@@ -1,0 +1,54 @@
+{
+  "slug": "kissed-springy-venezuelan-rice-pilaf--japanese",
+  "title": "Japanese-Style Rice Pilaf",
+  "description": "A simple and flavorful Japanese-style rice pilaf dish made with springy rice and venezuelan spices.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "springy rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 package"
+    },
+    {
+      "name": "kissed (olive) oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "venezuelan spices (curry powder, turmeric, cumin)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat kissed oil in a large saucepan over medium-high heat.",
+    "Add venezuelan spices and cook for 1 minute, stirring constantly.",
+    "Add pilaf and cook for 2 minutes, stirring frequently.",
+    "Add springy rice and stir to combine.",
+    "Reduce heat to low, cover, and simmer for 18-20 minutes or until rice is tender and liquid is absorbed.",
+    "Fluff pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-cuisine",
+    "rice-pilaf",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-springy-venezuelan-rice-pilaf--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T02:09:05.708Z"
+}
