@@ -1,0 +1,83 @@
+{
+  "slug": "kissed-buttery-chinese-cox-apple-wonton-soup--keto",
+  "title": "Keto Apple Wonton Soup",
+  "description": "A keto twist on traditional wonton soup, featuring tender wontons filled with a sweet apple filling, served in a savory broth.",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Buttery Wonton Wrappers",
+      "amount": "1 package (about 20 wrappers)",
+      "notes": null
+    },
+    {
+      "name": "Cox Apple, diced",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Kissed Pork Filling",
+      "amount": "1/2 cup",
+      "notes": "mix with 1/4 cup chopped scallions and 1 tablespoon soy sauce"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Chinese Soup Spices",
+      "amount": "1 teaspoon",
+      "notes": "mix of soy sauce, oyster sauce, and sesame oil"
+    },
+    {
+      "name": "Keto-Friendly Cooking Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a medium bowl, mix together the Kissed Pork Filling ingredients.",
+    "3. Lay a Buttery Wonton Wrapper on a flat surface and place a small spoonful of the pork filling in the center of the wrapper.",
+    "4. Dip your finger in a small amount of Keto-Friendly Cooking Oil and run it along the edges of the wrapper.",
+    "5. Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, pressing the edges together to seal the wonton.",
+    "6. Repeat with the remaining wrappers and filling.",
+    "7. In a large pot, heat the Chicken Broth over medium-high heat until it starts to simmer.",
+    "8. Add the Chinese Soup Spices and stir to combine.",
+    "9. Carefully add the wontons to the pot and cook for 3-4 minutes, or until they float to the surface.",
+    "10. Add the diced Cox Apple to the pot and cook for an additional 2-3 minutes, or until the apples are tender.",
+    "11. Taste and adjust the seasoning as needed.",
+    "12. Serve the wontons and apples in bowls and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "chinese",
+    "soup",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 10,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-buttery-chinese-cox-apple-wonton-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:55:06.142Z"
+}
