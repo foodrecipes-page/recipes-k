@@ -18465,5 +18465,17 @@
     "cuisine": "Syrian",
     "totalTimeMin": 31,
     "shard": "k"
+  },
+  {
+    "slug": "kicked-up-middle-eastern-chicken-tagine--thai",
+    "title": "Thai Chicken Tagine with Spicy Eastern Twist",
+    "tags": [
+      "thaifood",
+      "chickentagine",
+      "easternspices"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 50,
+    "shard": "k"
   }
 ]
