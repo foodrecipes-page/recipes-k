@@ -1,0 +1,86 @@
+{
+  "slug": "kissed-spicy-tunisian-lamb-tagine--japanese",
+  "title": "Tunisian Lamb Tagine with Japanese Twist",
+  "description": "A fusion of Japanese flavors with traditional Tunisian ingredients, this lamb tagine is a unique and delicious meal option.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, sliced",
+      "amount": "1 1/2 pounds"
+    },
+    {
+      "name": "Kissed apricots, chopped",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Spicy red pepper flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Tunisian cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the lamb slices and cook until browned on both sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the cumin, red pepper flakes, and soy sauce to the pot and cook for 1 minute.",
+    "Add the chopped apricots, browned lamb, and chicken broth to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "japanese",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 22,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-tunisian-lamb-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T10:33:42.312Z"
+}
