@@ -1,0 +1,68 @@
+{
+  "slug": "knockout-silky-saudi-arabian-vanilla-custard--keto",
+  "title": "Keto Custard Pudding",
+  "description": "A rich and creamy keto dessert made with silky custard and a hint of vanilla.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Heavy cream",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sweetener (e.g. Swerve or Erythritol)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Large egg yolks",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a medium saucepan, combine heavy cream, sweetener, and salt. Heat over medium heat, stirring occasionally, until the sweetener dissolves.",
+    "In a separate bowl, whisk together egg yolks and vanilla extract.",
+    "Temper the egg yolks by slowly pouring the warm cream mixture into the egg yolks, whisking constantly.",
+    "Pour the mixture into 4-6 ramekins or small baking dishes.",
+    "Place the ramekins in a large baking dish and add hot water to come halfway up the sides of the ramekins.",
+    "Bake for 25-30 minutes, or until the edges are set and the centers are still slightly jiggly.",
+    "Remove the ramekins from the water bath and let cool to room temperature.",
+    "Cover with plastic wrap and refrigerate for at least 2 hours or overnight."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "dessert",
+    "pudding"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 5,
+    "fat": 29
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knockout-silky-saudi-arabian-vanilla-custard--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:40:21.200Z"
+}
