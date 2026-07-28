@@ -18502,5 +18502,30 @@
     "cuisine": null,
     "totalTimeMin": 45,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-herbal-egyptian-chwinamul-bowl--japanese",
+    "title": "Egyptian Chwinamul Bowl",
+    "tags": [
+      "japanese",
+      "bowl",
+      "easy",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-spicy-filipino-fish-bicol-express--thai",
+    "title": "Spicy Filipino-Style Fish Cakes",
+    "tags": [
+      "fish-cakes",
+      "filipino-cuisine",
+      "spicy-food"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "k"
   }
 ]
