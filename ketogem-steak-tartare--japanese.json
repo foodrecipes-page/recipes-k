@@ -1,0 +1,82 @@
+{
+  "slug": "ketogem-steak-tartare--japanese",
+  "title": "Keto Japanese Steak Tartare",
+  "description": "A Japanese-inspired take on traditional steak tartare, served with a side of ketogem sauce. This dish is a unique fusion of Asian flavors and a low-carb diet.",
+  "cuisine": "japanese",
+  "diet": [
+    "keto",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "steak",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "tartare",
+      "amount": "1/4 cup (60g)",
+      "notes": ""
+    },
+    {
+      "name": "ketogem",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp (30g)",
+      "notes": "optional"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp (15g)",
+      "notes": "optional"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grind the steak in a meat grinder or with a mortar and pestle until it reaches a coarse texture.",
+    "Mix in the tartare, ketogem, soy sauce (if using), and rice vinegar (if using).",
+    "Season with sesame oil, black pepper, and salt to taste.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, grind the mixture again to a finer texture if desired.",
+    "Serve immediately and garnish with additional ketogem if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "japanese",
+    "steak",
+    "tartare"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 46,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ketogem-steak-tartare--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:17:38.095Z"
+}
