@@ -1,0 +1,66 @@
+{
+  "slug": "kicked-crunchy-ukrainian-chicken-wrap--italian",
+  "title": "Italian Chicken Wrap",
+  "description": "A delicious Italian-inspired wrap filled with chicken, crunchy vegetables, and flavorful sauce.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Kicked Pesto Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crunchy Lettuce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ukrainian Rye Wrap",
+      "amount": "1 wrap"
+    },
+    {
+      "name": "Crunchy Red Onion",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crunchy Bell Pepper",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken with salt, pepper, and Italian seasoning.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing.",
+    "Spread kicked pesto sauce on the Ukrainian rye wrap.",
+    "Add sliced chicken, crunchy lettuce, crunchy red onion, and crunchy bell pepper on top of the sauce.",
+    "Fold the wrap to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "wrap",
+    "pesto",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-crunchy-ukrainian-chicken-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T20:34:39.808Z"
+}
