@@ -14389,16 +14389,15 @@
   },
   {
     "slug": "knotted-flaky-british-hazelnuts-victoria-sponge",
-    "title": "Knotted Flaky British Hazelnuts Victoria Sponge",
+    "title": "Victoria Sponge Cake",
     "tags": [
-      "british-classics",
-      "egg-free-treats",
-      "flaky-pastries",
-      "hazelnut-lovers",
-      "tempering-chocolate"
+      "cake",
+      "buttercream",
+      "raspberry",
+      "sponge"
     ],
     "cuisine": "British",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "k"
   },
   {
@@ -18476,6 +18475,32 @@
     ],
     "cuisine": "thaicuisine",
     "totalTimeMin": 50,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-indian-shrimp-curry--gluten-free",
+    "title": "Smoky Shrimp Curry",
+    "tags": [
+      "indian",
+      "curry",
+      "shrimp",
+      "gluten-free",
+      "smoky"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "knockout-silky-saudi-arabian-vanilla-custard--keto",
+    "title": "Keto Custard Pudding",
+    "tags": [
+      "keto",
+      "dessert",
+      "pudding"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
     "shard": "k"
   }
 ]
