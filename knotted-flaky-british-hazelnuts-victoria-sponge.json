@@ -1,0 +1,65 @@
+{
+  "slug": "knotted-flaky-british-hazelnuts-victoria-sponge",
+  "title": "Victoria Sponge Cake",
+  "description": "A classic British dessert consisting of two light and fluffy sponge cakes sandwiched together with raspberry jam and buttercream.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian",
+    "gluten"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "British sponge",
+      "amount": "2"
+    },
+    {
+      "name": "Raspberry jam",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C). Grease two 8-inch round cake pans.",
+    "Cut the British sponge into two equal pieces.",
+    "In a large mixing bowl, cream together the butter and sugar until light and fluffy.",
+    "Beat in the eggs one at a time.",
+    "Spoon half of the batter into each prepared cake pan.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "Once the cakes are completely cool, spread a layer of raspberry jam on top of one of the cakes.",
+    "Top with the second cake and dust with powdered sugar."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "buttercream",
+    "raspberry",
+    "sponge"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/knotted-flaky-british-hazelnuts-victoria-sponge",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:30:05.281Z"
+}
