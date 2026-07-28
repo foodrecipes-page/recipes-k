@@ -1,0 +1,66 @@
+{
+  "slug": "kissed-silky-portuguese-corn-arepa--indian",
+  "title": "Corn and Arepa Fritters",
+  "description": "A crispy Indian-inspired snack made with corn and arepa. Serve with a side of chutney for a flavorful treat.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "corn",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "arepa",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "silky",
+      "amount": "1/2 cup",
+      "notes": "coconut milk"
+    },
+    {
+      "name": "portuguese",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "kissed",
+      "amount": "1 tsp",
+      "notes": "garam masala"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, mix together corn, crushed arepa, and garam masala.",
+    "Add coconut milk and mix until a thick batter forms.",
+    "Drop tablespoon-sized balls of the batter into the hot oil.",
+    "Fry until golden brown, about 3-4 minutes.",
+    "Drain on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-snacks",
+    "corn-recipes",
+    "arepa-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-portuguese-corn-arepa--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:53:21.506Z"
+}
