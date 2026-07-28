@@ -1,0 +1,90 @@
+{
+  "slug": "kissed-syrian-peanuts-kebabs--keto",
+  "title": "Keto Syrian-Style Kebabs with Peanuts",
+  "description": "A keto twist on traditional Syrian kebabs, featuring juicy lamb and crunchy peanuts. Serve with your favorite sides for a satisfying meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "500g",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Syrian oregano",
+      "amount": "2 tbsp",
+      "notes": "Dried"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For brushing"
+    },
+    {
+      "name": "Kissed",
+      "amount": "2 tbsp",
+      "notes": "For serving (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (375°F).",
+    "In a large bowl, whisk together oregano, lemon juice, garlic, salt, and black pepper.",
+    "Add lamb cubes to the bowl and toss to coat with the marinade.",
+    "Thread lamb onto skewers, leaving space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill kebabs for 8-10 minutes per side, or until cooked through.",
+    "While kebabs are cooking, toast peanuts in a dry pan over medium heat.",
+    "Once kebabs are done, brush with olive oil and serve with toasted peanuts and kissed (if using).",
+    "Let kebabs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "syrian",
+    "kebabs",
+    "lamb",
+    "peanuts"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-syrian-peanuts-kebabs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T13:00:18.487Z"
+}
