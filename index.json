@@ -18563,5 +18563,19 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "k"
+  },
+  {
+    "slug": "kicked-crunchy-ukrainian-chicken-wrap--italian",
+    "title": "Italian Chicken Wrap",
+    "tags": [
+      "italian",
+      "chicken",
+      "wrap",
+      "pesto",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "k"
   }
 ]
