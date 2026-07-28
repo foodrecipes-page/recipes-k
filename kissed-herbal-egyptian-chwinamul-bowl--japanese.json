@@ -1,0 +1,63 @@
+{
+  "slug": "kissed-herbal-egyptian-chwinamul-bowl--japanese",
+  "title": "Egyptian Chwinamul Bowl",
+  "description": "A Japanese-inspired bowl dish featuring egyptian and chwinamul ingredients.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chwinamul",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kissed egyptian",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "as serving vessel"
+    },
+    {
+      "name": "herbal",
+      "amount": "2 tsp",
+      "notes": "dried and crushed"
+    }
+  ],
+  "instructions": [
+    "Rinse the chwinamul and pat dry.",
+    "Heat a pan over medium heat.",
+    "Add the crushed herbal and cook for 1 minute.",
+    "Add the chopped kissed egyptian and cook until tender.",
+    "Transfer the egyptian mixture to the bowl.",
+    "Top with the chwinamul.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "bowl",
+    "easy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-herbal-egyptian-chwinamul-bowl--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:47:25.464Z"
+}
