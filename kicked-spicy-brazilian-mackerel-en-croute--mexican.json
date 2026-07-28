@@ -1,0 +1,78 @@
+{
+  "slug": "kicked-spicy-brazilian-mackerel-en-croute--mexican",
+  "title": "Spicy Brazilian Mackerel Tacos",
+  "description": "A fusion of Mexican and Brazilian flavors with the spicy kick of mackerel in a taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mackerel",
+      "amount": "4 fillets",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "Brazilian Spicy Sauce",
+      "amount": "1/2 cup",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Kicked Tortillas",
+      "amount": "8-10",
+      "notes": "Freshly made or store-bought"
+    },
+    {
+      "name": "Lime Wedges",
+      "amount": "4",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Croute",
+      "amount": "1 cup",
+      "notes": "Crushed for garnish"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "",
+      "notes": "To taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the mackerel with salt and pepper.",
+    "Place the mackerel on a baking sheet and bake for 8-10 minutes or until cooked through.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a piece of mackerel on each tortilla.",
+    "Drizzle with Brazilian spicy sauce and sprinkle with cilantro.",
+    "Serve with a lime wedge and garnish with croute.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "brazilian",
+    "fish",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kicked-spicy-brazilian-mackerel-en-croute--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T11:14:06.245Z"
+}
