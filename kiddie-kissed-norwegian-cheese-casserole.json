@@ -1,0 +1,56 @@
+{
+  "slug": "kiddie-kissed-norwegian-cheese-casserole",
+  "title": "Cheesy Norwegian Casserole",
+  "description": "A delicious and easy-to-make casserole packed with Norwegian flavors and melted cheese. Perfect for a cozy dinner or lunch.",
+  "cuisine": "Scandinavian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Norwegian casserole",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Kiddie gouda cheese",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "Kissed cheddar cheese",
+      "amount": "1/2 cup shredded",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Open the Norwegian casserole package and pour the contents into a baking dish.",
+    "Sprinkle the kiddie gouda cheese and kissed cheddar cheese over the casserole.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheesy",
+    "norwegian",
+    "casserole",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kiddie-kissed-norwegian-cheese-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:59:44.037Z"
+}
