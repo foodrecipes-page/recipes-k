@@ -18527,5 +18527,30 @@
     "cuisine": "thai",
     "totalTimeMin": 18,
     "shard": "k"
+  },
+  {
+    "slug": "kneaded-springy-venezuelan-dough-empanadas--indian",
+    "title": "Vegetable Empanadas with Indian Twist",
+    "tags": [
+      "indian-fusion",
+      "empanadas",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-silky-portuguese-corn-arepa--indian",
+    "title": "Corn and Arepa Fritters",
+    "tags": [
+      "indian-snacks",
+      "corn-recipes",
+      "arepa-recipes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
