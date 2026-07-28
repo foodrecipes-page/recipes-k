@@ -18438,5 +18438,32 @@
     "cuisine": "Canadian",
     "totalTimeMin": 40,
     "shard": "k"
+  },
+  {
+    "slug": "kabanos-delight-sausage-wrap--japanese",
+    "title": "Japanese-Style Sausage Wrap",
+    "tags": [
+      "japanese",
+      "wrap",
+      "sausage",
+      "kabanos"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-syrian-peanuts-kebabs--keto",
+    "title": "Keto Syrian-Style Kebabs with Peanuts",
+    "tags": [
+      "keto",
+      "syrian",
+      "kebabs",
+      "lamb",
+      "peanuts"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 31,
+    "shard": "k"
   }
 ]
