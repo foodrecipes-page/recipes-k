@@ -2519,17 +2519,15 @@
   },
   {
     "slug": "kiddie-kissed-norwegian-cheese-casserole",
-    "title": "Kiddie Kissed Norwegian Cheese Casserole",
+    "title": "Cheesy Norwegian Casserole",
     "tags": [
       "cheesy",
-      "comfort-food",
-      "kid-friendly",
       "norwegian",
-      "one-pan",
-      "weeknight"
+      "casserole",
+      "easy"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 45,
+    "cuisine": "Scandinavian",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
@@ -18550,6 +18548,19 @@
       "arepa-recipes"
     ],
     "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "ketogem-steak-tartare--japanese",
+    "title": "Keto Japanese Steak Tartare",
+    "tags": [
+      "keto",
+      "japanese",
+      "steak",
+      "tartare"
+    ],
+    "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "k"
   }
