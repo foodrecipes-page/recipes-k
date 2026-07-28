@@ -1,0 +1,95 @@
+{
+  "slug": "kissed-smoky-indian-shrimp-curry--gluten-free",
+  "title": "Smoky Shrimp Curry",
+  "description": "A flavorful and spicy curry dish featuring succulent shrimp and a blend of smoky spices, perfect for a gluten-free meal.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "smoky indian curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "curry leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "gluten-free"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the onions and cook until they start to brown, about 5 minutes.",
+    "Add the garlic and curry leaves and cook for another minute.",
+    "Add the shrimp and cook until they start to turn pink, about 2-3 minutes.",
+    "Add the curry powder and cook for 1 minute, stirring constantly.",
+    "Pour in the chicken broth and coconut milk, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and let cook for 5-7 minutes, or until the shrimp are cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped curry leaves if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "curry",
+    "shrimp",
+    "gluten-free",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-smoky-indian-shrimp-curry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T15:23:31.312Z"
+}
