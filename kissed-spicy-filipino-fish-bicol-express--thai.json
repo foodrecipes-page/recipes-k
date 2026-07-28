@@ -1,0 +1,71 @@
+{
+  "slug": "kissed-spicy-filipino-fish-bicol-express--thai",
+  "title": "Spicy Filipino-Style Fish Cakes",
+  "description": "A Thai-inspired twist on traditional Filipino fish cakes, with a spicy kick. Serve with your favorite dipping sauce.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fish (such as tilapia or cod)",
+      "amount": "1 pound, flaked"
+    },
+    {
+      "name": "Bicol Express Chili Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Filipino-style Kissed Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Express Ground Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Spicy Fish Seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Bread Crumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine the fish, Bicol Express Chili Sauce, Filipino-style Kissed Fish Sauce, Express Ground Black Pepper, and Spicy Fish Seasoning. Mix well until everything is fully incorporated.",
+    "2. In a separate bowl, beat the egg. Add the bread crumbs and mix until just combined.",
+    "3. Add the egg mixture to the fish mixture and mix until a dough forms.",
+    "4. Divide the dough into 8 equal pieces and shape each into a patty.",
+    "5. Heat a non-stick skillet or griddle over medium-high heat.",
+    "6. Add a small amount of oil to the skillet and cook the fish cakes for 3-4 minutes on each side, until golden brown and crispy.",
+    "7. Remove the fish cakes from the skillet and place on a plate lined with paper towels to drain any excess oil.",
+    "8. Serve the fish cakes hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-cakes",
+    "filipino-cuisine",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-spicy-filipino-fish-bicol-express--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:53:43.071Z"
+}
