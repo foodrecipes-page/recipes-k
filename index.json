@@ -18617,5 +18617,59 @@
     "cuisine": "german",
     "totalTimeMin": 60,
     "shard": "k"
+  },
+  {
+    "slug": "kielbasini-paleo--chinese",
+    "title": "Kielbasa Stir Fry",
+    "tags": [
+      "chinese",
+      "paleo",
+      "kielbasa",
+      "stir-fry"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-smoky-egyptian-cheese-flatbread--french",
+    "title": "Smoked Cheese Flatbread",
+    "tags": [
+      "french",
+      "cheese",
+      "flatbread",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "k"
+  },
+  {
+    "slug": "korean-style-korean-chicken-noodles--japanese",
+    "title": "Korean Chicken Noodle Stir Fry",
+    "tags": [
+      "korean",
+      "chicken",
+      "noodle",
+      "stir-fry",
+      "asian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-caramel-malaysian-cherry-pilaf--keto",
+    "title": "Keto Caramel Cherry Pilaf with Kissed Flavor",
+    "tags": [
+      "keto",
+      "low-carb",
+      "malaysian",
+      "caramel",
+      "cherry"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "k"
   }
 ]
