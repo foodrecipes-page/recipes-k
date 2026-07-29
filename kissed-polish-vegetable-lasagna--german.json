@@ -1,0 +1,88 @@
+{
+  "slug": "kissed-polish-vegetable-lasagna--german",
+  "title": "Traditional German Lasagna",
+  "description": "A classic German twist on the Italian classic, featuring layers of ground meat and vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground polish sausage",
+      "amount": "1 pound",
+      "notes": "casings removed"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": ""
+    },
+    {
+      "name": "kissed shredded mozzarella cheese",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "vegetable tomato sauce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the lasagna noodles according to package instructions.",
+    "In a large skillet, cook the ground polish sausage over medium-high heat, breaking it up with a spoon as it cooks.",
+    "Once the sausage is browned, add the vegetable tomato sauce and stir to combine.",
+    "In a large bowl, combine the mozzarella cheese and milk (if using). Stir to combine.",
+    "In a separate bowl, beat the eggs.",
+    "In a 9x13 inch baking dish, create a layer of the tomato sauce mixture.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Repeat the layers, starting with the noodles, then the sauce, then the remaining cheese mixture.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lasagna",
+    "sausage",
+    "pasta",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-polish-vegetable-lasagna--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T01:59:56.196Z"
+}
