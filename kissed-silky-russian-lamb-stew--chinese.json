@@ -1,0 +1,72 @@
+{
+  "slug": "kissed-silky-russian-lamb-stew--chinese",
+  "title": "Lamb Stew in Chinese Style",
+  "description": "A hearty and flavorful lamb stew inspired by Chinese cuisine. This dish is perfect for a cold evening.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 lb",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Russian Stew",
+      "amount": "2 cups",
+      "notes": "Available in most supermarkets"
+    },
+    {
+      "name": "Silky",
+      "amount": "2 tbsp",
+      "notes": "Use a mixture of hoisin sauce and soy sauce"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Use as needed"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Use as needed"
+    },
+    {
+      "name": "Kissed",
+      "amount": "1 tsp",
+      "notes": "Use sesame oil for a distinct flavor"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of sesame oil in a large Dutch oven over medium-high heat.",
+    "Brown the lamb cubes in batches until browned on all sides. Remove from heat and set aside.",
+    "Add the remaining 2 tbsp of sesame oil to the pot, then add the Russian Stew and stir-fry for 2 minutes.",
+    "Add the browned lamb back into the pot and stir to combine.",
+    "In a small bowl, whisk together the Silky and 2 cups of water. Pour the mixture into the pot and bring to a simmer.",
+    "Reduce heat to low and let stew for 1.5 hours or until the lamb is tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and garnish with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "chinese",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-silky-russian-lamb-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:58:57.512Z"
+}
