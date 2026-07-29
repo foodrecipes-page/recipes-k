@@ -18603,5 +18603,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 105,
     "shard": "k"
+  },
+  {
+    "slug": "kissed-polish-vegetable-lasagna--german",
+    "title": "Traditional German Lasagna",
+    "tags": [
+      "german",
+      "lasagna",
+      "sausage",
+      "pasta",
+      "casserole"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "k"
   }
 ]
