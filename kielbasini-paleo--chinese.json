@@ -1,0 +1,87 @@
+{
+  "slug": "kielbasini-paleo--chinese",
+  "title": "Kielbasa Stir Fry",
+  "description": "A quick and easy Chinese-inspired stir fry using kielbasa sausage. This dish combines the flavors of Asia with a Polish twist, making for a unique and tasty meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kielbasa sausage",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 cups",
+      "notes": "cut into florets"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce (paleo)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a large skillet or wok over medium-high heat.",
+    "Add sliced ginger and minced garlic and cook for 1 minute.",
+    "Add broccoli and cook for 2-3 minutes, or until tender.",
+    "Add kielbasa sausage and cook for 2-3 minutes, or until browned.",
+    "In a small bowl, whisk together soy sauce, honey, and sesame seeds.",
+    "Pour the sauce over the kielbasa and broccoli mixture, and stir to coat.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "paleo",
+    "kielbasa",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 23,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kielbasini-paleo--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:46:05.678Z"
+}
