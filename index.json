@@ -18577,5 +18577,31 @@
     "cuisine": "italian",
     "totalTimeMin": 22,
     "shard": "k"
+  },
+  {
+    "slug": "kooky-yeasty-turkish-sausage-flatbread--indian",
+    "title": "Turkish-Style Spiced Sausage Wrap",
+    "tags": [
+      "indian",
+      "sausage",
+      "flatbread",
+      "wrap",
+      "grill"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "k"
+  },
+  {
+    "slug": "kissed-silky-russian-lamb-stew--chinese",
+    "title": "Lamb Stew in Chinese Style",
+    "tags": [
+      "lamb",
+      "chinese",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 105,
+    "shard": "k"
   }
 ]
