@@ -1,0 +1,79 @@
+{
+  "slug": "kooky-yeasty-turkish-sausage-flatbread--indian",
+  "title": "Turkish-Style Spiced Sausage Wrap",
+  "description": "A flavorful wrap filled with spiced sausage, onions, and herbs, served with a side of tangy chutney. This Indian-inspired dish is perfect for a quick and delicious meal.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Sausage",
+      "amount": "500g",
+      "notes": "Choose a spicy Indian-style sausage"
+    },
+    {
+      "name": "Flatbread",
+      "amount": "4-6 pieces",
+      "notes": "Look for naan or roti"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Thinly slice the onion"
+    },
+    {
+      "name": "Turkish",
+      "amount": "2 tbsp",
+      "notes": "Add a Middle Eastern twist with sumac and cumin"
+    },
+    {
+      "name": "Kooky",
+      "amount": "1 tsp",
+      "notes": "A pinch of cayenne pepper adds heat"
+    },
+    {
+      "name": "Yeasty",
+      "amount": "1 tsp",
+      "notes": "A hint of garlic powder enhances the flavor"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped",
+      "notes": "Garnish with fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Slice the sausage into thin rounds and cook until browned, about 5-7 minutes.",
+    "3. Meanwhile, toast the flatbread on the grill or in a dry pan.",
+    "4. In a small bowl, mix together the sliced onion, sumac, cumin, cayenne pepper, and garlic powder.",
+    "5. Add the cooked sausage to the bowl and toss with the onion mixture.",
+    "6. Assemble the wraps by spooning the sausage mixture onto the toasted flatbread.",
+    "7. Garnish with chopped cilantro and serve immediately.",
+    "8. Serve with a side of tangy chutney for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": "2-4",
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "sausage",
+    "flatbread",
+    "wrap",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kooky-yeasty-turkish-sausage-flatbread--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T23:52:21.772Z"
+}
