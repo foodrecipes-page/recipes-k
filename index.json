@@ -2545,15 +2545,15 @@
   },
   {
     "slug": "kielbasini-paleo",
-    "title": "Kielbasini Paleo",
+    "title": "Savory Kielbasa and Paleo Paleo Skillet",
     "tags": [
-      "paleo",
       "kielbasa",
-      "vietnamese-inspired",
-      "snack"
+      "paleo",
+      "skillet",
+      "dinner"
     ],
-    "cuisine": "Vietnamese",
-    "totalTimeMin": 40,
+    "cuisine": "Polish",
+    "totalTimeMin": 25,
     "shard": "k"
   },
   {
