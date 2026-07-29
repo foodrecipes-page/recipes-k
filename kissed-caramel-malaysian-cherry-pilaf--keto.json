@@ -1,0 +1,79 @@
+{
+  "slug": "kissed-caramel-malaysian-cherry-pilaf--keto",
+  "title": "Keto Caramel Cherry Pilaf with Kissed Flavor",
+  "description": "A unique and delicious pilaf dish that combines the flavors of caramel, cherry, and kissed with the comfort of malaysian pilaf. This keto-friendly dish is perfect for a low-carb diet.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cherry",
+      "amount": "1 cup (fresh or frozen)",
+      "notes": null
+    },
+    {
+      "name": "malaysian pilaf",
+      "amount": "1 cup (cooked)",
+      "notes": null
+    },
+    {
+      "name": "caramel",
+      "amount": "2 tablespoons (unsweetened)",
+      "notes": "Make sure to use a sugar-free caramel syrup"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup",
+      "notes": "Optional, but helps to thicken the dish"
+    },
+    {
+      "name": "kissed salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup (chopped)",
+      "notes": "Optional, for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, heat the ghee over medium heat.",
+    "2. Add the cherry and cook until caramelized, stirring occasionally.",
+    "3. Add the malaysian pilaf to the saucepan and stir to combine.",
+    "4. In a small bowl, mix together the caramel syrup and almond flour (if using).",
+    "5. Pour the caramel mixture over the pilaf and cherry mixture, stirring to combine.",
+    "6. Season with kissed salt to taste.",
+    "7. Garnish with chopped parsley (if using).",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "malaysian",
+    "caramel",
+    "cherry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 10,
+    "fat": 26
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/kissed-caramel-malaysian-cherry-pilaf--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:41:11.669Z"
+}
